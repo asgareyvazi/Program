@@ -1,0 +1,1455 @@
+# SOURCE: YAP1_PH1S19_DRDE_PLDR_1001_D01_Drilling_&_Completion_Programme.pdf
+
+📄 فایل 214 از 214  |  YAP1_PH1S19_DRDE_PLDR_1001_D01_Drilling_&_Completion_Programme.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+[صفحه 1: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                             Project    Scope       Displ.       Doc.    SEQ   REVDrilling & Completion                                                                Page 2
+Program of Well S19                                                                                                 of 31                    YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+                              Contents
+
+1   General Information ................................................................................................................ 3
+
+2   Hazard Analysis ...................................................................................................................... 4
+
+3    Health, Safety and Environment ............................................................................................. 4
+
+4   Geological and Reservoir Prognosis ....................................................................................... 4
+
+5    Functional Well Requirements ................................................................................................ 5
+
+6   Casing Program Design ........................................................................................................... 6
+
+7   Well Trajactory Design ........................................................................................................... 8
+
+8    Drilling Operation Procedure ................................................................................................ 10
+
+9   Completion ............................................................................................................................ 13
+
+10   Drilling Procedures Matrix .................................................................................................... 13
+
+11   Drilling Progress and AFE .................................................................................................... 21
+
+Appendix I   Well S19 Summary Sheet ..................................................................................... 23
+
+Appendix II  Well Location on Structural Map of Top of Sarvak Formation ............................ 24
+
+Appendix III  Formation Pressure Profile .................................................................................... 25
+
+Appendix IV  Bit, BHA and Drilling Parameters ........................................................................ 26
+
+Appendix V   Drilling Fluid Design ............................................................................................ 29
+
+Appendix VI Cement Slurry and Casing Stress Check ............................................................... 29
+
+Appendix VII Well Control Schematic ........................................................................................ 30
+
+Appendix VIII Wellhead and Christmas Tree Schematic ............................................................ 31
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                                Page 3
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+1 General Information
+
+                                Table-1 General Information
+
+ Well Name            S19
+
+ Well Classification       Sarvak 4 Producer (with pilot hole drilled to base of Sarvak 5)
+
+ Well Type                Horizontal
+
+ Rig Name/Number     NIDC Fath 28
+
+                              Pilot Hole:
+                          Confirm  the  reservoir  properties and  the  reservoir depths  to
+                             optimize the subsequent horizontal hole trajectory
+ Well Objective                          Horizontal hole:
+                                  1.  Sarvak 4 Producer
+                                  2.  Acquire actual well performance data, reservoir
+                                characterization data to improve the subsurface models
+
+                          Coordinates (UTM): UTM39N,WGS84;  Unit: m
+                        Wellhead Coordinates             E: 217868         N: 3435416
+
+                   Down hole Target
+                                                          E: 217868     N: 3435416    Z:-3126
+                          Coordinates
+                   Down hole Target      Heel     E: 217585     N: 3435699    Z:-2996
+                          Coordinates(Horizontal
+                                           Toe      E: 216949     N: 3436335    Z:-2976
+                         Hole)
+ Well Location             (Surface)  Geographical  Position:  116  degrees  Azimuth  EES,
+                        2324meters away from Well YAD-020(F15)
+
+                   Down hole Structural Position: North Flank of Yadavaran Structure
+
+                          Surface location on Seismic Lines: Xline 1553 /Inline 492
+
+                        Heel location on Seismic Lines: Xline 1554/Inline 487
+
+                       Toe location on Seismic Lines: Xline 1590/Inline 457
+
+ Ground Elevation         6.00 m
+ Rotary Table Elevation    15.00 m
+
+                                                             Horizontal hole:
+ Designed TVD             Pilot hole: 3141 m RKB
+                                                   4140.42m(MD)/ 2911 m (TVD)
+
+ Target Formation         Sarvak Zone 4
+
+                           1. End drilling at designed depth
+ Well Completion
+                           2.  Completion with 4 1/2" slotted liner
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                                Page 4
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+2 Hazard Analysis
+
+Detailed hazard identification and risk assessment for all 12 categories of drilling and completion
+
+activities are listed in D&CTD (Drilling & Completion Technical Design) “Appendix 9 Risk
+
+Register and Analysis Detail Report”.
+
+3 Health, Safety and Environment
+
+ 3.1 Health Protection
+
+      Drilling Operations Manual (DOM) Chapter 9, Drilling Fluids and Hydraulics
+
+   DOM Chapter 5, General Drilling Practices: Pre-spud Requirements
+
+ 3.2 Safety
+
+Safety aspects as per:
+
+    DOM, Chapter 5, General Drilling Practices, Pre-Spud Requirements
+
+ 3.3 Environmental Protection
+
+Precautions shall be taken to minimise damaging the local environment, reference:
+
+     SIPC’s Environmental Plan and Drilling HSE and Waste Management Plans
+
+   DOM Chapter 9, Drilling Fluids and Hydraulics
+
+   DOM Chapter 4, Rig Moves and Site Preparation, Rig Move Guidelines 3, Rig Move
+
+Guidelines 4, Site Restoration.
+
+ 3.4 Others
+
+      Project 2012 HSES Plan (YAP1-GGGGGG-HSGE- PLMN-1006-G03)
+
+      Drilling 2012 HSE Plan (YAP1-GGGGGG-DRHE-PLHS-1003-G01)
+
+4  Geological and Reservoir Prognosis
+
+  Refer to Well proposal of Well S19 (Drilling Geological Design)
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                                Page 5
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+                                Table-2 Formation Forecast
+
+          Stratified Formation                                 Strata
+
+                                                                       Comments
+                                                                Lithology (from      (refer to “Drilling
+                                                Top                   nearby exploration         Risks”)                                   Series Erathem    System                                                                                                      Formation            （RKB）             Formation                      Well)                                                                                                                                                                                                                                                         Thickness（m）
+                                                             Sandstone, clay stone
+                                                                                         Surface
+           Miocene-                       & marl, thin
+                          Aghajari      15       1102                                formation
+             Pliocene                                           limestone, gypsum
+                                                                                      seepage
+                                                        and anhydrite
+                                                              Anhydrite, clay stone     High-pressured
+        M. Miocene    Gachsaran    1,117       435
+                                                        and marl                        salt water
+                                                             Sandstone, clay stone  Cenozoic     Tertiary    Oligocene
+                        Asmari     1,552       320     and layers of          Mud Loss
+           -Miocene
+                                                              limestone & shale
+                                                  Ray marly ,light       Mud Loss/ Bit
+          U.Paleocene
+                        Pabdeh     1,872       435     brown & light gray       worn out by
+          -L.Oligocene
+                                                              limestone                    Chert
+                                                         Clayey gray
+                          Gurpi      2,307       401                      Mud Loss
+                                                                 limestone, marl
+                                                 Brown limestones to
+                           Ilam       2,708       104     brown & cream
+                                                               limestones
+           Upper                                          Claystone & gray
+                          Lafan      2,812       15  Mesozoic      Cretaceous                                                     green shale
+                                                              Light brown& dark
+                                                             Mud Loss
+                          Sarvak      2,827    314▽    brown limestone, gray
+                                                                          High H2S content
+                                                            chalky limestone
+                   TD       3,141
+5 Basic Well Requirements
+
+  1) The vertical amplitude of swing between designed trajectory and the actual trajectory
+
+     should be less than 2.0 m, while the lateral amplitude of swing should be no more than 10m;
+
+  2) The rate of overall angle change before the KOP should be less than 2.5 °per 30m;
+
+  More details refer to Well proposal of Well S19 (Drilling Geological Design)
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                                Page 6
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+6   Casing Program Design
+6.1 Casing Program
+
+                  S19 Proposed Casing Program
+  MD: 4140.42m TVD : 2991m                               RKB Elevation: 15.00m
+
+    Poilot hole TVD: 3141m                                   GL Elevation: 6.00m
+
+    Formation   Top MD           Hole & Casing Program          Hole & Casing Data
+
+   Aghajari        15
+
+   Gachsaran       1,117
+
+   Asmari          1,552
+
+   Pabdeh         1,872
+
+   Gurpi           2,307
+   Ilam            2,708
+   Lafan           2,812
+
+   Sarvak          2,827
+
+             3141▽
+
+                           Figure-1 Well S19 Casing Program Sketch
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                                Page 7
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+6.2 Casing Program principle
+
+                       Table-3 Casing Program Principle and Purpose
+
+            Hole    Hole              Casing
+                            Casing
+  Spud       size   Depth              depth               Principle and Purpose
+                                   size (in)
+                 (in)     (m)                (m)
+
+                                                   For installing the wellhead for 13-3/8" casing
+                                                     running
+Conductor                     20        22                                                    Support the installation of wellhead and BOP
+                                                            in combination with the conductor.
+
+                                          To set the surface casing at the depth about
+                                         300m to achieve sufficient integrity at shoe
+                                                            for drilling the next hole section through
+  1st Spud   17- 1/2    300      13-3/8      298                                                  Gachsaran formation.
+                                                    Support the installation of wellhead and BOP
+                                                            in combination with the conductor.
+
+                                                       Set at the Top of Asmari (±10m into Asmari
+                                                                       ) to isolate Gachsaran abnormal pressure salt
+ 2nd Spud   12-1/4    1562      9-5/8      1560
+                                                     water formation prior to drilling into lower
+                                                      formation and Sarvak reservoir.
+
+                                                              Drill pilot hole to the base of S5 to determine
+  3rd Spud
+              8-1/2    3141                          depth of reservoir and get the wireline data of
+Pilot Hole
+                                                     Formation.
+
+ Horizontal           2610      7     1460-3238
+                                                      Targeted pay zone, meet well completion and
+ Hole (side   8-1/2        -                                                      production requirements.
+    drill)             4140.42    4-1/2    3168- 4138
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                                Page 8
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+7  Well Trajectory Design
+
+                       Table-4 Directional well profile design data sheet
+
+                                                                          Vertical
+   MD        Inc      Azi     TVD            E/W             DLS
+                                        N/S (m)               Section             Remarks
+     (m)           ()         ()        (m)                (m)                 (/30m)                                                                (m)
+     0.00       0.00      0.00       0.00       0.00      0.00      0.000      0.000
+    2610        0        0       2610       0        0         0         0      KOP
+   2796.63     27.05     315     2789.78     30.57     -30.57     43.24      4.348
+   2809.69     27.05     315     2801.41     34.77     -34.77     49.18       0
+   3240.76     91.27     315      3011      283      -283      400.22      4.47      Target A
+   4140.42     91.27     315      2991      919      -919     1299.66      0       Target B
+
+                                                                                                 Plan: Plan A (S19/S19)
+
+                                               0
+
+    [m]                                        500
+      Depth                                       1000
+                                              1500
+
+                                              2000          Vertical
+
+                                              2500     True
+
+                                              3000
+                                                                                                              S19S19 AA              S19-BS19-B
+                 -3000 -2500 -2000 -1500 -1000 -500   0   500  1000  1500  2000 2500  3000  3500 4000  4500
+
+                                         Vertical Section at 315.00° [m]
+                            Figure-2 Well S19 Vertical section view
+
+                                                                                                Plan: Plan A (S19/S19)
+
+                                                                       1200
+
+                                                                       1000
+                                                                                        S19-B                                                         [m]
+                                                                       800
+
+                                                                       600
+
+                                                                       400                                                                                                                            S19 A                                                                                                                                                                                                                     South(-)/North(+)                                                                       200
+
+                                                                     0
+          -2000 -1800 -1600 -1400 -1200 -1000  -800  -600  -400  -200   0    200   400   600   800
+
+                                         West(-)/East(+) [m]
+                               Figure-3 Well S19 horizontal view
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                             Project    Scope       Displ.       Doc.    SEQ   REVDrilling & Completion                                                                Page 9
+Program of Well S19                                                                                                 of 31                    YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+                               Table-5 Well S19 Trajectory data
+    MD      Inclination   Azimuth    TVD       N/S      E/W      Closure     DLS
+                                                                                                        Target
+       (m)            ()            ()        (m)        (m)        (m)        (m)       (/30m)
+       0          0          0          0          0          0          0          0
+      2610        0          0        2610        0          0          0          0      KOP
+     2621.28       1.63        315      2621.28      0.11        -0.11        0.16       4.348
+     2651.76       6.05        315      2651.68      1.56        -1.56         2.2        4.348
+     2682.24      10.47       315      2681.84      4.65        -4.65        6.58       4.348
+     2712.72      14.89       315      2711.57      9.38        -9.38       13.27       4.348
+      2743.2       19.3        315      2740.69      15.72       -15.72      22.23       4.348
+     2773.68      23.72       315      2769.04      23.62       -23.62       33.4       4.348
+     2796.63      27.05       315      2789.78      30.57       -30.57      43.24       4.348
+     2804.16      27.05       315      2796.48      33         -33        46.66        0
+     2809.69      27.05       315      2801.41      34.77       -34.77      49.18        0
+     2834.64      30.76       315      2823.24      43.3        -43.3       61.24        4.47
+     2865.12      35.31       315      2848.79      55.05       -55.05      77.85        4.47
+      2895.6      39.85       315      2872.94      68.19       -68.19      96.43        4.47
+     2926.08      44.39       315      2895.54      82.64       -82.64      116.87       4.47
+     2956.56      48.93       315      2916.46      98.31       -98.31      139.03       4.47
+     2987.04      53.47       315      2935.55      115.1       -115.1      162.78       4.47
+     3017.52      58.01       315      2952.71     132.91     -132.91     187.96       4.47
+      3048       62.55       315      2967.81     151.62     -151.62     214.43       4.47
+     3078.48      67.09       315      2980.77     171.12     -171.12      242        4.47
+     3108.96      71.64       315      2991.51     191.29     -191.29     270.52       4.47
+     3139.44      76.18       315      2999.96     211.99     -211.99      299.8        4.47
+     3169.92      80.72       315      3006.06      233.1       -233.1      329.65       4.47
+      3200.4      85.26       315      3009.78     254.49     -254.49      359.9        4.47
+     3230.88       89.8        315      3011.09     276.01     -276.01     390.34       4.47
+     3240.76      91.27       315       3011       283        -283       400.22       4.47      A
+     3261.36      91.27       315      3010.54     297.56     -297.56     420.82       0
+     3291.84      91.27       315      3009.86     319.11     -319.11     451.29       0
+     3383.28      91.27       315      3007.83     383.75     -383.75     542.71       0
+     3413.76      91.27       315      3007.15      405.3       -405.3      573.18       0
+     3444.24      91.27       315      3006.48     426.84     -426.84     603.65       0
+     3474.72      91.27       315       3005.8      448.39     -448.39     634.12       0
+      3505.2      91.27       315      3005.12     469.94     -469.94     664.59       0
+     3535.68      91.27       315      3004.44     491.49     -491.49     695.07       0
+      3962.4      91.27       315      2994.96     793.15     -793.15     1121.68       0
+     3992.88      91.27       315      2994.28      814.7       -814.7     1152.15       0
+     4023.36      91.27       315       2993.6      836.24     -836.24     1182.63       0
+     4053.84      91.27       315      2992.92     857.79     -857.79     1213.1       0
+     4084.32      91.27       315      2992.25     879.34     -879.34     1243.57       0
+      4114.8      91.27       315      2991.57     900.89     -900.89     1274.04       0
+     4140.42      91.27       315       2991       919        -919      1299.66       0       B
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                               Page 10
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+8  Drilling Operation Procedure
+ 8.1  Preparation and Drill 17-1/2" Hole Section (22-300m)
+
+    1)  The 20"SOL X 21-1/4"2K should be installed before spud as Wellhead engineer
+       recommends. And install 21-1/4"2k upper flange welded 20" casing nipple on the
+        wellhead.
+           M/U 1 stand DP +26" Bit to sweep the soil in 30” conductor and drill to about
+
+      24m (a joint 20"casing below the cellar bottom).
+           POOH and run 20" casing string to bottom and space out the 20" SOL x 21-
+
+        1/4"2k wellhead as required .
+           Cement the annular between 30" conductor and 20" casing.
+            Cut the 30" conductor and 20" casing as required, grind the top end of 20"casing
+
+       and 30"conductor, install the 20" SOL x 21-1/4"2k wellhead and Bowl protector.
+
+              Install a 21-1/4" 2k upper flange welded and bell nipple.
+
+    1)  Drill the first and second stands to avoid washing out the conductor. Pump Hi-Vis pill to
+       sweep hole when every stand drills down.
+
+    2)  Go on drilling to section TD 300 m.
+
+    3)  Wiper trip should be conducted 150-200m or as per hole condition.
+
+    4) POOH to surface and run back to bottom, circulation again.
+
+    5)  Pump Hi-Vis pill. Circulate hole clean. Drop single shot survey Tool.
+
+    6) POOH to surface, retrieve single shot Tool.
+
+    7)  Run 13-3/8" casing as per casing tally. Set the 13-3/8" casing hanger in 21-1/4" 2K
+        casing head, but release the hang weight of the casing not more than 1ton to prevent the
+        20" conductor sink in the earth, the hook must hang the other weight of the casing string.
+
+    8)  Conduct cementing job as per cementing program. If the cementing plug is bumping,
+         increases pump pressure to 2000 psi (Green Pressure Test).
+
+    9) WOC. N/U 21-1/4" × 13-5/8" casing head. N/U BOP stack and Conduct BOP and
+        casing head Pressure test.
+ 8.2  Drill 12-1/4" Hole Section (300-1562m)
+
+    1)  RIH BHA with PDC to tag TOC. Drill cement to top of float collar. Circulate bottoms
+         up.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                             Project    Scope       Displ.       Doc.    SEQ   REVDrilling & Completion                                                               Page 11
+Program of Well S19                                                                                                 of 31                    YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+   2)  Add NMDC in BHA, in order to do multi shot survey operation for this section.
+
+   3)   If the plug-bumping failed, pressure  test 13-3/8" casing to 300psi/5mins & 2,000
+       psi/30mins @ 1.10sg mud, record the results in DDR.
+
+   4)  Drill with KCl-Polymer mud to section TD@1562m as per drilling parameters. Take
+       survey every 200-400 m.
+
+   5)  Wipe trip every 200-400m or according to hole condition, drill to TD, wiper trip and
+        circulation. POOH to last casing shoe and run back to bottom, circulation again. Drop
+       Multi shot and POOH.
+
+   6)  Run 9-5/8" casing as per casing tally. Casing specification and Centralizers Placement
+        as per cementing program.
+
+   7)  Conduct cementing job as per cementing program. If the cementing plug is bumping,
+        increases pump pressure to 3000 psi (Green Pressure Test).
+
+   8)  WOC. N/D BOP, N/U 13-5/8" × 11" × 5 K casing head. N/U BOP stack, BOP and
+       casing head pressure test.
+8.3  Drill 8-1/2" Pilot Hole Section (1562-3141m)
+
+   1)  RIH to tag TOC carefully. Drill CMT to top of float collar. Circulate bottoms up. If the
+       plug-bumping failed, pressure test 9-5/8" casing to 300psi/5mins & 3,000 psi/30mins @
+       1.20sg mud, record the results in DDR.
+
+   2)  Drill with KCl-Polymer mud to section TD @ 3141 m MD RKB. Take survey every
+       200-400 m.
+
+   3)  Wipe trip every 200-400m or according to hole condition, drill to TD, wiper trip and
+        circulation. POOH to last casing shoe and run back to bottom, circulation again.
+
+   4)  Drop Multi shot and POOH.
+
+   5)  Perform wireline logging as per logging program.
+
+   6)  Run 5" DP to 3130m and circulate the holeclean and set cement plug about 350m of
+        length which should from the Bottom of S5 to the Top of S1. The depth will be confirm
+       with RE in order to seal off the waterleg of Sarvak.
+
+   7) POOH to 2750m, circulate the hole clean and set 5m3 Hi-vis drill fluid at bottom.
+
+   8) POOH to 2710m, circulate the hole clean and set cement plug about 200m of length.
+
+   9) POOH to 2480m and circulate the hole clean.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                             Project    Scope       Displ.       Doc.    SEQ   REVDrilling & Completion                                                               Page 12
+Program of Well S19                                                                                                 of 31                    YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+   10) WOC 24h or the surface cement sample become hard. At the same time, POOH to
+       Surface and RIH cleanup BHA to 2480m+/-.
+
+   11) RIH the cleanup BHA (or Directional drilling BHA) to tag TOC. Drill the cement plug
+        to 2610m the depth of sidetrack, Do cement hardness test (the cement can stand 15T), if
+      meet the need for sidetrack, POOH. Otherwise, drill the plug to 2650m +/-, POOH and
+     Do Cement plug operation again.
+   Note:
+          a) If the directional drilling BHA was run to drill the cement plug and the cement plug
+    situation meet the requirement of Sidetrack, Continue to do sidetrack operation after drilling the
+   cement to KOP.
+          b) If updated KOP is deviated from ±100m as this program, real time program can be
+   prevailed as a executive plan for directional
+ 8.4   Drill 8-1/2" Horizontal Section (2610-4140.42m (MD))
+
+   1)  RIH the build-up BHA to the sidetrack depth, side drill the directional hole form the
+        pilot hole.
+
+   2)  Directional drill to the end of first build-up section and make sure this depth is about
+     30m (TVD) above S1 or when drill into the Lafan formation, POOH and change from
+    MWD to LWD.
+
+   3)  Continuing directional drill to target A, then POOH change Build-up BHA to holding
+     BHA.
+
+   4)  Continuing directional drill to TD.
+
+   5)  The directional well engineer will decide to adjust the borehole trajectory scheme
+       according to changes of the borehole trajectory. Drill the hold-on section with the single
+       bending screw of combination drilling method. Adjust the drilling method and control
+       changes of the deviation and azimuth according to inclination survey data from time to
+        time, so as to ensure the trajectory is smooth.
+
+   6)  For kick-off section and hold-on section, MWD/LWD is adopted for deviated well
+        section survey. If the borehole trajectory is greatly deviated from the design trajectory,
+           it is necessary to enhance the frequency of inclination survey and adopt measures in
+        time.
+
+   7)  Control the drilling speed to avoid pressure surge and stabilize the borehole wall. Adjust
+     mud properties according to the drilling design and borehole conditions
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                             Project    Scope       Displ.       Doc.    SEQ   REVDrilling & Completion                                                               Page 13
+Program of Well S19                                                                                                 of 31                    YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+   8)  For build-up section the survey interval is no more than 10m, for holding section and
+        horizontal section the survey interval is no more than 30m.
+
+   9)  After drill to TD, circulate at least 1 bottom up, wiper trip to casing shoe and RIH to
+     150m below Target A, Spot hi-vis pill at 100m length below Target A.
+
+   10) POOH to Target A, circulate to clean the hole, spot lubricant pill to KOP, POOH.
+
+   11) RIH 9-5/8" scraper for setting 7" liner hanger, POOH.
+
+   12) Run 7" liner as per tally, set liner hanger, cement 7" liner. If the cementing plug is
+      bumping, increases 500psi than final displacement pump-pressure. POOH. WOC.
+
+   13) Run 8-1/2" cleanup BHA & drilled out the cement, if any, to top of 7" liner hanger,
+     POOH.
+
+   14) RIH with BHA (5-7/8" bit + 4-3/4"DC*3+3-1/2"HWDP+3-1/2"DP), drill Top cement
+       plug in 7" liner and RIH to 3100m(the inclination not less than 60°).
+
+   15) POOH and Perform CBL/VDL logging in 7" liner for the interval where inclination is
+        less than 60°.
+
+   16) RIH with BHA (5-7/8"  bit + 4-3/4"DC*3+3-1/2"HWDP+3-1/2"DP),  drill Bottom
+      cement plug in 7" liner
+
+   17) Before drill to landing collar, pressure test to 3000psi with mud.
+
+   18) Drill out cement and RIH to TD. Circulate the horizontal hole clean.
+
+   19) Displace 1.15±0.05SG Mud below Target A.
+
+   20) POOH to 7” casing shoe, circulated with 1.32±0.02SG Mud.
+
+   21) RIH 7" scraper to scrape the interval for setting 4-1/2" liner hanger and 7" production
+       packer.
+
+   22) Run 4-1/2" slotted liner as per casing tally.
+
+   23) Set the liner hanger & release running tool.
+
+   24) Before pick up the running tool, pump 2m3 spacer fluids, pick up one stand and then
+       displace original mud with completion fluid reversely.
+
+   25) POOH the running tool to surface.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                               Page 14
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+9 Completion
+
+9.1 Run completion string
+
+      1) P/U & M/U 3-1/2 mule shoe, shear out ball seat, selective landing nipple w/no-go,
+         retrievable hydraulic set production packer, keyed travel joint, injection subs, landing
+         nipple, SSD(keep close), side pocket mandrels with dummy valve and TRSCSSSV as
+         the below schematic.
+      2) When M/U chemical injection subs, connect 3/8" injection line to chemical injection
+         sub, and hold pressure in the line to RIH.
+      3) Install injection line protector across tubing coupling during RIH.
+      4) Drift the tubing and pressure test each 1000m.
+      5) Keep the SSD closed during RIH.
+      6) When run SPM, the dummy valve should be installed at surface.
+      7) When M/U TRSCSSSV, install ¼" control line to TRSCSSSV and pressure test control
+          line. Keep pressure applied to ensure TRSCSSSV open. Install TRSCSSSV protector
+         for the injection line & control line.
+      8) Reverse-circulate 1 round when completion strings run to bottom.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                               Page 15
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+              Table-6 Completion string tally (To be adjusted after finish drilling)
+
+                                                                                       Desp.    Tubing       Tubing       Tubing
+                                                                                         Size        3-1/2"           3-1/2"
+                                     Completion String Schematic of Well S19         Weight     9.20            9.20
+                                                                               Grade     L-80       SM2535-110
+                                                                                 Thread  Vam Top Vam Top  Vam Top
+                                                                                                          Bottom   Inclinatio
+                                                                OD      ID    Length
+                               Item                       Description                                             Depth      n
+                                                                                                                  (inch)     (inch)     (m)
+                                                                                                                            (m)           (°)
+                                 1   Tubing hanger,3-1/2" 9.2# Vam Top Box×Box,5,000psi           11.000    3.000    0.430     10.247
+                                 2   Double-Pin Pup Joint,3-1/2" 9.2# Vam Top Pin×Pin,1 joint         3.500    2.992    1.880     12.127
+                                 3    Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992    98.930    111.057
+                                 4   Upper Flow Coupling,3-1/2" 9.2# Vam Top Box×Pin,Nickel 925    4.000    2.900    1.140    112.197
+                                          TRSCSSSV(Self-equalizing),3-1/2" 9.2# Vam Top Box×Pin,
+                                 5                                                               5.300    2.813    1.350    113.547
+                                          Inconel 718
+                                 6   Lower Flow Coupling,3-1/2" 17# Vam Top Box×Pin,Nickel 925     4.000    2.900    1.140    114.687
+                                 7    Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992   693.356   808.043
+                                         Side Pocket Mandrel, 3-1/2" 9.2# Vam Top Box×Pin, INCONEL
+                                 8                                                               5.711    2.900    2.100    810.143
+                                    925
+                                 9    Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992   644.693  1454.836
+                                         Side Pocket Mandrel, 3-1/2" 9.2# Vam Top Box×Pin, INCONEL
+                                10                                                              5.711    2.900    2.100   1456.936
+                                    925
+                                11   Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992   424.267  1881.203
+                                         Side Pocket Mandrel, 3-1/2" 9.2# Vam Top Box×Pin, INCONEL
+                                12                                                              5.711    2.900    2.100   1883.303
+                                    925
+                                13   Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992   382.554  2265.857
+                                         Side Pocket Mandrel, 3-1/2" 9.2# Vam Top Box×Pin, INCONEL
+                                14                                                              5.711    2.900    2.100   2267.957
+                                    925
+                                15   Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992   146.665  2414.622
+                                         Side Pocket Mandrel, 3-1/2" 9.2# Vam Top Box×Pin, INCONEL
+                                16                                                              5.711    2.900    2.100   2416.722
+                                    925
+                                17   Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992   435.976  2852.698
+                                             Slide Side Door, 2.813 X,3-1/2" 9.2# VAM TOP Box×Pin,Nickel
+                                18                                                              4.550    2.813    0.355   2853.053     34
+                                    925
+                                19   Tubing,3-1/2" 9.2# Vam Top Box×Pin,SM2535,1 joint             3.500    2.992    10.633   2863.686
+                                            Selective Landing Nipple,2.813 X,3-1/2" 9.2# VAM TOP
+                                20                                                              3.937    2.813    1.235   2864.921     36
+                                         Box×Pin,Nickel 925
+                                21   Tubing,3-1/2" 9.2# Vam Top Box×Pin,L80-1,Qty as required       3.500    2.992   195.663  3060.584
+                                22   Tubing,3-1/2" 9.2# Vam Top Box×Pin, SM2535, 1 joint            3.500    2.992    10.873   3071.457
+                                      Chemical Injection Sub,3-1/2" 9.2# Vam Top Box×Pin,
+                                23                                                              5.250    2.910    0.630   3072.087     66
+                                   INCONEL 925
+                                24   Tubing,3-1/2" 9.2# Vam Top Box×Pin,SM2535,1 joint             3.500    2.992    10.433   3082.520
+                                      Chemical Injection Sub,3-1/2" 9.2# Vam Top Box×Pin,
+                                25                                                              5.250    2.910    0.630   3083.150     68
+                                   INCONEL 925
+                                26   Tubing,3-1/2" 9.2# Vam Top Box×Pin,SM2535,Qty as required     3.500    2.992    49.006   3132.156
+
+                                27  Keyed Travel Joint,3-1/2" 9.2# VAM TOP Box×Pin, Inconel 718   5.030    2.880    4.420   3136.576     76
+
+                                28   Tubing,3-1/2" 9.2# Vam Top Box×Pin,SM2535,1 joint             3.500    2.992    10.473   3147.049
+                              AHR Retrievable Packer, 3-1/2" 9.2# VAM TOP Box×Pin, Nickel
+                                29                                                              5.930    2.900    1.400   3148.449     78
+                                    925
+                                30   Tubing,3-1/2" 9.2# Vam Top Box×Pin,SM2535,1 joint             3.500    2.992    10.483   3158.932
+                                    No-Go Landing Nipple,2.813 X,3-1/2" 9.2# VAM TOP
+                                31                                                              3.937    2.750    0.410   3159.342     80
+                                         Box×Pin,Nickel 925
+                                32   Tubing,3-1/2" 9.2# Vam Top Box×Pin,SM2535,1 joint             3.500    2.992    10.413   3169.755
+                                               Ball Catcher Sub with Mule Shoe,3-1/2" 9.2# VAM TOP Box
+                                33                                                              4.270    2.897    0.245   3170.000     81
+                                          Up,Nickel 925
+                                    Others:
+                            A   Casing, 9-5/8" 47# L-80, 0~1560m
+                            B    Liner, 7" 29#, 1460~3238m( L-80,1460~3088m; SM2535-100,3088~3238m)
+                          C    Liner, 4-1/2", 11.6#, 3168~4138m(L-80, 4-1/2" liner 3168~3238m, 4-1/2" slotted liner 3238~4138m)
+                                    Note:
+                              The depth is based on drilling rig, RKB: 15.00 m.330 ea 3-1/2" Protectors were used and 2ea TRSV protectors were used.
+
+Note: Side pocket mandrel in vertical hole section.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                               Page 16
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+9.2 Space out
+      1)  Space out as required with pup joints, to sting mule shoe into 4-1/2" liner hanger 2m±.
+      2)  Pick up & M/U tubing hanger with double pin crossover. M/U landing joint.
+      3)  Cut control line and injection line about 2-3m above tubing hanger, wrap the lines
+        below the tubing hanger and feed control line & injection line through hanger.
+
+9.3 Run Gauge Cutter
+      1)  Rig up the slick line unit.
+      2)  Open TRSCSSSV.
+      3)  Drift wellbore to 2900m (≤45º) with gauge cutter which OD is 2.8". POOH.
+      4)  R/D slickline unit.
+
+9.4 Land tubing hanger
+      1) Land tubing hanger into tubing head spool.
+      2) Lock all tie-down bolts.
+      3) Close variable Pipe Ram BOP.
+      4) Open gate valves on tubing head spool.
+      5) Pressure to 5000psi /15min in annulus through kill manifold to test Tubing Hanger Seal,
+        observe any pressure loss.
+      6) Monitor if any fluid leak from gate valve.
+
+9.5 Set production packer
+     1)  Drop ball into tubing.
+
+     2)  Pump the ball to ball seat.
+
+     3)  Pump pressure to 4600psi to set packer.
+
+     4)  Close annular BOP. Pump 3000psi from annulus to verify the packer setting. Bleed off
+
+         pressure slowly.
+
+     5)  Pump pressure to 5000psi to shear the ball seat.
+
+     6)  Land down landing joint.
+
+9.6 N/D BOP and N/U X-mas tree
+    1)  Set BPV
+
+    2)  N/D bell nipple and BOP stack.
+
+    3)  N/U tree adapter and X-mas tree.
+
+    4)  Feed control line and CILs and cable through tree bonnet, install fittings and needle
+
+         valves. Pressure test control line 5000 psi/15 mins, bleed off pressure to zero. Pressure
+
+          test CIL 2000 psi/15 mins, bleed off pressure to zero.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                               Page 17
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+    5)  Retrieve BPV and install TWCV.
+
+    6)  Pressure test tree adapter cavity with test pump to 300psi/5mins, 5,000psi/15mins.
+
+        Pressure tests the X-mas tree body to 300psi/5 mins, 5,000psi/15 mins.
+
+    7)  Function test SSV actuator.
+
+    8)  Pull out TWCV.
+
+    9)  R/U Lubricator. Pressure test lubricator to 5000psi.
+
+    10) Run slickline tools to open SSD.
+
+    11) Displace completion fluid with water in tubing and diesel in annular above SSD.
+
+    12) Close SSD.
+
+    13) Pump pressure (Annulus) to 3000psi to test SSD.
+
+9.7 Rig move
+    1)  Close swab valve &wing gate valves on sides, open upper master valve, lower master
+
+        valve and SSV above master valve.
+
+    2)  Open SCSSSV.
+
+    3)  Record SIWHP.
+
+    4)  Bleed off control line pressure to close TRSCSSSV.
+
+    5)  Bleed off WHP, and measure return. And observe WHP for 30 min,  if pressure is
+
+         positive, remedial plan will be discussed.
+
+    6)   Install BPV.
+
+    7)  Close upper master valve. And keep gate wing valves in close position.
+
+    8)  Check the annulus pressure; bleed off to zero if there is any.
+
+    9)  Rig down and move out. Any damage to the X-tree will be forbidden during rig down
+
+       and move.
+
+9.8 Clean up test
+    1)  Retrieve BPV.
+
+    2)  Open adjustable choke slowly to flow-back the well,  if can’t flow back naturally,
+
+         nitrogen or fresh water will be considered to inject by CTU.
+
+9.9 Acidizing
+Reservoir and production departments will decide when or whether perform the acidizing job.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                               Page 18
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+9.10 Flow test and build up test
+
+As requested by reservoir and production do the flow test and build up test.
+
+9.11 Suspend well till Production
+    1)  Bullhead diesel to the bottom.
+
+    2)  Close TRSCSSV. Open choke manifold and bleed off pressure above TRSCSSV slowly
+
+         to zero, record return fluid(diesel) volume, close choke manifold and monitor WHP
+
+         build up for 30 min, if no pressure to build up, go to the next step, otherwise, find reason
+
+       and take remedial measure.
+
+    3)   Install BPV after inflow done.
+
+    4)  Close swab valve and upper master valve & SSV.
+
+    5)  Check the annulus pressure; bleed off to zero if there is any.
+
+    6)  Wrap vale stem and need vale.
+
+   The well status and each valve position on wellhead and X-mas tree during shut-in period
+
+shall be as following.
+
+                            Table-7 valve status during suspension
+            Valve Description                             Position (closed or opened)
+
+           Swab valve                                          Closed
+
+            Upper master valve                                   Closed
+
+          SSV on X-mas tree                                    Closed
+
+            Lower master valve                               Opened
+
+              Production wing valve                                 Closed
+
+              Production Choke                                     Closed
+
+              Service wing valve                                    Closed
+
+             Gate valves on THS                                   Closed
+
+          TR-SCSSSV                                         Closed
+
+      Note: completion operation will be adjusted properly based on the formal production
+
+strategy and plan from production and reservoir departments.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                                   as              as              as
+                                                       DOM 10 hole               DOM 10 hole               DOM 10 hole                                                             all                      all                     all                                                                                                                                                                                                                                                                                                              sections                                                                                per Chapter for                                                                                                        per Chapter for                                                       per Chapter for                                                                                                                                                                            sections                Standard operations                                                                                                                                                                                                                                              sections               Standard operations                                                          Casing                        Standard operations
+
+                                                                                                                                         test to
+                                         tion                                                       Evalua                                                                                      Well refer D&CTD
+
+                                   as              as              as
+                                                       DOM 11 hole               DOM 11 hole               DOM 11 hole                                                             all                      all                     all                                                          Cement                        Standard   per Chapter for                                                                                                                                                                              operations                         sections                Standard operations per Chapter for sections               Standard operations per Chapter for sections
+
+                                   as 9          as 9          as 9
+                                                       DOM    hole               DOM    hole               DOM    hole 19                                                        all                      all                     all                                                                                                                                                                                                                                                                                                              sections                                                                                per Chapter for                                                       per Chapter for                                                                                                        per Chapter for                                                                                                                                                                            sections                Standard operations    31                    Mud                        Standard operations                                                                                                                                                                                                                                              sections               Standard operations    of Page
+                                   as 6          as 6          as 6
+                                                       DOM    hole               DOM    hole               DOM    hole                             BHA                                                                                                                                                                                                                                                                                                              sectionsREV   D01                                                 all                      all                     all                                                                                per Chapter for                                                       per Chapter for                                                                                                        per Chapter for                                                                                                                                                                            sections                Standard operations                                                                                                                                   Standard operations                                                                                                                                                                                                                                              sections               Standard operations
+
+                                   as 9          as 9          as 9
+                                                                                                                                                                                                                                                                                                              sections                                                                                per Chapter for                                                       per Chapter for                                                                                                        per Chapter forSEQ     1001                                               Hydrauli cs             DOM    holeall               DOM    holeall               DOM    holeall                                                                                                                                                                            sections                Standard operations                                                                                                                                   Standard operations                                                                                                                                                                                                                                              sections               Standard operations
+
+                                                                                DOM    hole                                                       DOM    hole                                                                                                        DOM    holeDoc.     PLDR                          as 7          as 7          as 7                                                                                      all                                                             all                                                                                                              all                                       Bits                                                                                                                                                                                                                                                                                                              sections                                                                                per Chapter for                                                       per Chapter for                                                                                                        per Chapter for                                                                                                                                                                            sections                Standard operations                                                                                                                                   Standard operations                                                                                                                                                                                                                                              sections               Standard operations
+
+                                                                                                                                           WearDispl.     DRDE                                                       Casing Wear                                                                                                                                                                                                   Avoidance                                                                                                                                                                                                                Casing
+
+                    –       –       –
+
+                 5       5       5                                                                        WCM                                               WCM                                                                                                WCM                                                                                                                     Hole                                                                                    Hole                                                                                                                                                     Hole                                                                                                                                                                                                                 Drilling Large- Wells                                                                                                                                               Drilling Large- Wells                                                                                                                                                                                                                                                                                 Drilling Large- WellsScope       PH1S19                                                                                                                                                                                                                    Section                                                                                                                                                          Section                                                                                                                                                                                                                                                                            Section                                                       String                                                                                                                                                                               Chapter                                                                                                                      Chapter                                                                                                                                                                                                                                        Chapter                                                                                 Failures                                                                                                                                                                                                                                8-1/2"                                                                                                                                                   17-1/2"                                                                                                                                                                                                             12-1/4"                                                                                                                                              Reference        General Practices Scheme                            Reference        General Practices Scheme                          Reference        General Practices Scheme
+Project     YAP1                                            for
+                                      15                                       Pipe                                                                                                                                                                                   Operations         sections                                                         DOM                                                                                hole                                                Stuck                 per all     S19                                                                                                                    Standard as
+      Well     Completion                               as 13                             as                  Matrix                           H2S                  Gas hole                                       H2S & of
+                                                                                                                                            SIPC                                                       WCM   all sections.                                                                                   Standard                                                                                                                                   Standard                                                             for                                                                                                                                                                                                                                                                                                                                                                         procedures                                       High                                        operations per Shallow                                                                                                                                                                                                                                                                                                                                                    operations per    Drilling Program
+                                                         for   per                       in                                                    13                                                                                                        per                                                                           WCM                                                BOP             hole as 13                                                                                                                                                                                                       Shallow Policy             Shut                                                                     as Chapter 13                                     Well                                                                           per                                                            all                                                                       Control                                                                                                                                                                                      Chapter   Reference                                                  As                                No required standard operations                                                                                                                                                                         sections WCM                                                                                                                 SIPC Gas             Hard mode WCM                              Procedures
+
+                                                         WCM hole                                                            all
+                                                         per                                                                                                                                                                                             sections.                                                                                                                                       Standard                                                            for                                                                                                                                                                                   Operations                                                            General Drilling Practices                                      as                    5                        Drilling
+      10     Hole Size (in)                        17-1/2                                           12-1/4                                   8-1/2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              Project    Scope       Displ.       Doc.    SEQ   REV Drilling & Completion                                                               Page 20
+ Program of Well S19                                                                                                  of 31                     YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+11 Well Control Requirements
+
+    Drilling contractor must strictly follow IPS, Drilling Operations Manual (YAP1-GGGGGG-
+   DRDE-MAOP-1002-G01), Well Control Manual (YAP1-GGGGGG-DRDE-MAWC-1001-
+    G00), SIPC petroleum and  natural gas industry standards 《Well control Technique
+    Specification for Well Drilling》, SY/ T6426-2005 and《Well Control Equipment Match,
+    Fixing and Maintenance》, SY/ T5964-2006.
+11.1 Well Control during POOH, RIH and Wire-line Logging
+
+   The well control while running, pull drill pipe and wire-line logging is important and
+     critical, best practices shall be followed, including but not limited to:
+      Wipe trip and flow check before pull out drill pipe, monitor holes condition by trip tank
+       during all of the drilling process.
+
+      Control running drill pipe speed to avoid any risk of losing in weakness formation.
+
+       Wire-line BOP should available in wire-line logging operation.
+11.2 Well Control during Running Casing
+
+   The well control while running casing is important and critical, best practices shall be
+    followed, including but not limited to:
+      Change out pipe size rams with casing size rams prior to running 7"liner for expected
+       hydrocarbon bearing formation.
+      The crossover for casing connection to  drill pipe must available on floor. A good
+        practice is to keep a joint of DP with casing crossover at lower end and full opened
+        safety valve at upper end to be ready for picking up on V-door.
+11.3 Requirements of weighting material storage
+
+    Barite should be used as weighting material. The stimulation will be conducted to reduce the
+    affection of Barite to the reservoir.
+   The kill fluid should be prepared before spud in, and settling stability should be less than
+    0.03 g/cm3. The kill fluid density should be increased if the active mud weight changes.
+
+                             Table-8 Required Amount of Kill Fluid
+
+         Hole Section (in)     MW (g/cm3 )               Amount (m3)
+
+               12-1/4                   1.85                        80
+
+                8-1/2                    1.80                        100
+
+       Considering the requirement of Well Control, the related materials should be stocked
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                                Project    Scope       Displ.       Doc.    SEQ   REV   Drilling & Completion                                                               Page 21
+   Program of Well S19                                                                                                    of 31                      YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+                                 Table-9 Stock of the Materials
+
+               Hole Section (in)           17-1/2           12-1/4            8-1/2
+
+                      Barite (t)              60            200            100
+
+             LCM (t)              20             20             20
+
+                   Pipe Lax (t)             10             10             10
+               Zn2(OH)2CO3 (t)                  -                     -              5
+ 12 Drilling Progress and AFE
+
+                               Table-10 Drilling Progress of S19
+
+                                                                        Planned   Accum
+                   Operation Summary                    Depth/m
+                                                                              days/d     Time/d
+
+                          Drill 17-1/2" Hole                         300            2         3
+      Run & CMT 13-3/8" CSG , install BOP, BOP test            300            3         5
+                          Drill 12-1/4" Hole                         1562           11        16
+       Run & CMT 9-5/8" CSG , install BOP ,BOP test             1562            4         20
+     Drill 8-1/2" pilot Hole, wireline logging, Plug CMT and so
+                                                           3141           12        32                          on
+                      Directional Drill to TD                     4140.42/2911        36        68
+        Run & CMT 7" liner and cement plug drilling           4140.42/2911        4         72
+
+           Run 4-1/2" Slotted liner, Completion              4140.42/2911        11        83
+
+                                     Table-11 AFE of S19
+                                              Planned     Material      Service      Accum
+     Operation Summary         Depth/m
+                                                  days/d       Cost/$        Cost/$        Cost/$
+
+        Drill 17-1/2" Hole             300            2         12,312.0     608,386.2     620,698.62
+
+  Run & CMT 13-3/8" CSG ,
+                                  300            3        155,189.9     257,395.4     412,585.3
+       install BOP, BOP test
+
+        Drill 12-1/4" Hole             1562           11        79,719.0     712,245.8     791,964.8
+
+Run & CMT 9-5/8" CSG , install
+                                  1562           4        250,187.0     276,331.6     526,518.6
+      BOP ,BOP test
+ Drill 8-1/2" pilot Hole, wireline
+                                  3141           12
+  logging, Plug CMT and so on                                                                306,375.0    4,255,178.0    4,561,553.0
+     Directional Drill to TD        4140.42/2911       36
+
+   Run & CMT 7" liner and
+                                 4140.42/2911        4        430,771.2     800,874.3     1,231,645.5
+     cement plug drilling
+   Run 4-1/2" Slotted liner,
+                                 4140.42/2911       11       1,616,752.3   3,402,113.3    5,018,865.6
+         Completion
+
+                                            Total                                             12,883,300.3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                             Project    Scope       Displ.       Doc.    SEQ   REVDrilling & Completion                                                               Page 22
+Program of Well S19                                                                                                 of 31                    YAP1   PH1S19   DRDE    PLDR     1001    D01
+
+                           S19  Depth vs. Time & Cost
+           0                                                                                  $14,000
+
+         200
+                  17-1/2"17-1/2" holehole /13-3/8"/13-3/8" casingcasing
+
+         400
+
+         600                                                                                               $12,000
+
+         800
+
+        1000
+
+        1200
+                                                                                               $10,000
+
+        1400
+
+        1600
+
+        1800
+                          12-1/4" hole /9-5/8"                                           $8,000
+
+        2000                                                                                                                                                                                           Cost:
+       (m)        2200
+           Depth 2400
+
+                                                                                                $6,000
+        2600
+
+        2800
+                 8-1/2" pilot
+                hole
+        3000
+
+                                                                                                $4,000
+        3200
+
+        3400
+
+        3600
+
+                                                                                                $2,000        3800
+
+        4000
+
+        4200                        8-1/2" hole /7" liner and 4-1/2"Slotted
+
+        4400                                                                            $0
+             0      10     20     30     40     50     60     70     80     90     100
+                                              Time(days)
+
+                              Figure-4 Well S19 Time vs Depth
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                                                                                                 KUSD Cost:
+                                                                                                                                                                                                                                                                                         $14,000                                                                  $12,000                                                                  $10,000                                                         $8,000                                                         $6,000                                                         $4,000                                                         $2,000                   $0
+                                                                                                                                                                                                                                                                                                                                                        100
+
+                                                                                                                                                                                                                                     90
+                                                                                                                                                                                                                                                                                                                                                                                                                                               liner
+                                                                                                                                                                                                                                     80
+
+                                                                                                          Cost                                                                                                                                                     70                           &                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          4-1/2"Slotted
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                               liner                         days                                                         Progress                                     Timevs.                                                                                                                                                                     and       60                                                                                                                                                                                                                                                                   /7"       50   Time(days)                                                                                                                                                                                                                                                                                                                                              casing            83                                                                                             Depth                                                                                                                                                                                                                            hole
+                                                                                                                                                                                                                                     40                                                                                                 12,883.3K$                                                                                S19                   casingcasing                                                                                                                                              /9-5/8"                                                                                                                                                                                 8-1/2"                                                                                                                  Drilling                                                                                                                                                 hole                                                                                     30                                                                                                                                                                                                                                                                                    /13-3/8"/13-3/8"                                                                                                                                                                                                                                                                                                                                                                                                      12-1/4"                                              hole                                                     20                                                                                                                                          holehole
+                                                                                                                                                                                                                                                                                                                                                     pilot           AFE                                                                                                                                                                                                                                                 17-1/2"17-1/2"                                                                                                                                                                                                     8-1/2"
+           and                                                                                                                                                                                                                     100
+                                        0       200       400       600       800         1000         1200         1400         1600         1800         2000         2200         2400         2600         2800         3000         3200         3400         3600         3800         4000         4200         4400
+
+                                                                                                                                               (m) Depth                              Duration
+                                                                                         test
+                                                                  BOP
+                                            on                                                                                                                                                                                                                                                                                              10000psi                                                                                                                                                                                            10000psi                                                                                                                                                                                                                                                                                                                10000psi                                                                                                                                                                                            10000psi
+                                  days,          days                                                        Eval.,Case                                           BOP                                                             Ram                                         5000psi                                                  Ram                                         5000psi                                                                                                                                                                                                                                                  5000psi                                                                                                                                                                    5000psi             72              Completion 11                                                                                                                                                        “Clarification                                                                                                              10000psi Ram 10000psi                                                                                                                                                                          10000psi Ram 10000psi                                  Drill,
+                                            to                                                                                                                                                                 Test        Spool:                                               Ann Double Spool Single Spool Test        Spool:                                                                                                                                                                                         Project”                               Ann Double Spool Single Spool                                                                                                                                                                                                                                                                                                  3500psi and                                                                                                                                                             3500psi and                                                                                                               refer                                                                                             Yada                                                                                                                                                                                                         Ram                                                                  Can in                            BOP 13-5/8" 13-5/8" 13-5/8" 13-5/8" 13-5/8" Pressure Ann: Ram                                           BOP 13-5/8" 13-5/8" 13-5/8" 13-5/8" 13-5/8" Pressure Ann:
+
+          4m                                                                                                                                                                                                                                                                                                                                    1460-                                                                                                                                                                                                                                                                                                                   Water                                                                                                 50%            Water
+                                                                 (                                  YAD-                            50%            Water G                                                                G                                                                                                                                                                                                                                                                                                                                                                                                                  (2500-                                      G (0-        (1000-                                           30%
+           ksk                                                                                                                                      sg                                                                                                                                                                              log TOL                                                                                                                                                                  Hole: Surface                                  Well                                              Hole: Surface                                   Height:                                                                                                                              joints            Class                                                                                                                                                                                                                                                                                                                                                                         joints            Class 50sg1                                                                                                                                                                                                                joints            Class sg1.57                                                                                    Hole:                                                                                                                                                                                                                                                        1.86sg                                                                                                                                                         1.86sg                                                                                                                                                                                                                                                                            1.86
+                                         :                          :                                                                                                                                                                                                                hrs                         3011 2991 from                            Cement              Open                             pre-flusher:                                                                                hrs                   Open                             pre-flusher:                                                                                                                                   hrs                                                 Open calliper                             pre-flusher:                                                                                                                          Type:                                                                                                                                                                                                                                                                                                                              Type:                                                                                                                                                                                              Type:                      &                                                             &                                    &                                                                                                                                                                                                                                                                                                                                                                                                                              Cement:                                                                                                                                           Cement:                                                     24         of Cement:                                                                                                                                           24                                  Location:                                                                                                                                   :24                        of on                                                                                                                                        m)                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Slurry: m)                                                                                                                                                                                                                                                                                  Slurry:                                                                                                                                                   Track:2                                                                                                                                                                                                                                                                                                                                                                                                                                      Track:3                                                                                                                                                                                                                                                  Track:2                                  away                  of                                                                                                                      of                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Slurry:                                        of                                                                   of                                                                                                                                                                                                                                                        Slurry                                                                                                                                                         Slurry                                                  Width:20m;                                                                                                                Excess Top Shoe Spacer base Cement Tail WOC:                            Excess Top Shoe Spacer base Cement Lead 1000m) Tail 1560m) WOC                                                                         Excess based Top Shoe Spacer base Cement Lead 2500 Tail 3238 WOC:
+                                                                                     2324meters                                                  6       29#                                                                 BTC                                                                                                                                                                                                                                                                                                                                                                                                                     liner:                       #                                                                                   bow:6                                                                                 bow:4 rotating                                     rotating                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               rotating                                  EES, 020(F15)  Correlation      and                                                                                                                                                                                                                                                                                                                                                                                                                                       7",L80-1                                                                                                                                                                                                                                                                                                       0-1560m,                                                                                                                                                                                                                                                                                                                                                      TP-CQ,47#                                                                                                                                                                                                         Rigid                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            1460-3088m TP-CQ,29#                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           3088-3238m                                                                                                                                                                                                                                                                                                                                                                                                 Spiral                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                centralizers (CRA):15 4-1/2" 3168-4138m Spiral  centralizers:45                                                                                                                                                                                                                                                                          13-3/8",L80-1 0-298m, 68 spring:15Bow                                                                                                                                   9-5/8",L80-1                      spring:36                                                                                                                                                 spring:46                                                                                                                                                                         Bow                                                                                                                     Bow                                                                                                                                                                                                                                                                                               Rigid Spiral  centralizer:  7",SM2535-110                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        VAM-TOP,                                                            Azimuth                         Casing  Centralizers                                                           depth(m)                                                 depth(m)                                  Yadavaran                                                                                                                                                                for                                                                                                                    for                                                            tolerance(m)                                                                                                                                  no                                                                                                                                             no                                                                                                                                                    GR                                                            degrees                                                                                                                                                                                                        200-                                                                                                                                             200-                                                                                                                                                                                                                                                                                                                                         using                                                                                                                                                                                                                                                                                                                                                                      using                                                                                                            while                                                                                                                                                                                                                                   HRLA                                                                                                                                                                                                                               CDR;                                                                                                                                                                                           tool.                                                                                                                                                                                                                                                                     tool;                                                                                                                                                                                                                                                                                                                   single                                                                                                                                                                                                                          single                                                                    out                                            Target                                     Target                                                                                                                                                                                                                                                                                                                                                                   Sonic*                       Field:                                                                                                                  or                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             section:                                                                                                                                                                                                                                                                                                                                 survey                                                                                                                                                                                                                                       survey                              Target                                                                                                                                                                                                      10m                                                                                                                                                                                                                       30m                                                                                                                                                                                                                                                                                                                        hole:                                                                                                                                                                                                                                                                                                                                                                                                                                      CBL/VDL Equivalent                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Equivalent;                                                                                                        logging                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      interval                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   interval                                                                                                                                                                                                                                                          every                                                                                                                                                                                every                                                                                                                                                                                                                                                                                                                                                                                              section                                                                                                                                                                                                                                                                                      section                                                                                                                               up                                                                                                                                                                                                                               CAL,                                                                                                                           or                                                                                                                                 survey                                                                                                                                                                                                                                                                using                                                                                                                                                                                     using                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              logging: Resistivity                                                                                                                    or                                                                                                                                                                                                                                 survey                                                                                                                                                                                                                                                                                                                          survey                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          section:                          116                                      Surveying                                                                                                                                                                                                                                                     hole:                                                                                                                                                                                                                                                                        than                                                                                                                                                                                                                                                                                              than                                                                                                                                                                                                                          this                                                                                                                                                               this                                                                                                                                                                                      tripping                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     MWD/LWD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             MWD/LWD                                                                                                                                                                                        SBT                                                                             Position:                                                                                                                                                                              AIT                                                                                                                                                                                                                               NGS,                                                                                                                                                                                                                                                                                                                              Build Survey                                                                                                                                                                                                                             LWD and                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Holding/horizontal        Survey                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         LDT,CNL, GR,CCL,                                                                                                                                                                                                                                                                                                            Survey 400m shot Multi-shot                                                                                      Drop                                                                            Survey 400m shot Multi-shot                                               Pilot                                                                                                                       Wireline                                                                                                                                                                                                                                                                        more                                                                                                                                                                                                                                                                                              more                                                                                                                           or Direction                                                                                                                    or                                                                                                                                                                                                                                                                                                                                                                                                                                                                       DLL/MSFL
+                                                       MSL-DF m15.00                 sg
+                                           Mud                              217868 217585 216949                                      Easting(X)           m                                                                             1.05-1.12 Bentonite                                                                                                                                                                                                                                                                                                                                                                                                            1.20-1.30sg
+           9                                             GL-DF                                                             MW: Type: PV:ALAP YP:10-16 FL:NC                                                                                                                                         MW:1.10-1.45sg KCL-Polymer PV:15-20 YP:10-20 FL:≤8                                                    MW: KCL-Polymer PV:15-30 YP:8-15 FL:≤5 HTFL:≤12 Fr:≤0.1
+
+           m                                                         /
+
+           6                                                       MSL-GL                                                                                                                                                                                                                           mode                            mode                                                                                                                                Parameter
+                                                                                                                                                                                                                                                                                                                                    Slide                                   Slide
+                                                                                                                                  or                                                                                                                                                 or                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 section:                                   3435416 3435699 3436335                                                                                                                                                                                                                                              750-900gpm                                                                                                                  Drilling                                         GA115GC,                                                                                                                                                                                                                                                                                            hole: section:                                          Northing(Y)                                                                                                                                                                                                                                                                                                                                                                                                                                      T1365R                                           NIDC       and                                           rate:   pressure:1700-2700psi                                                                                            KM1952AR3G ST915RS                                    rate:600-800gpm pressure:                                   hole:                                                                      rate:400-800gpm   pressure:2500-3000psi                                         bit:SMD537/SMD517                                                                                       rate:300-600gpm   pressure:2400-3100psi                KMD1662SDAR3G                                                     rate:300-600gpm   pressure:2600-3100psi                                                                                           Contractor                                           Bit                                                                                                                                                                                        Tri-cone:  WOB:50-250KN RPM:60-90 Flow Pump                                                                         PDC:T1951                             WOB:80-160KN RPM:110-160 Flow Pump  2000-2700psi                              Pilot   PDC:KM1663GAR3G/T1665   /KM1652GAR3G/ST615RS  WOB:30-100KN RPM:80-130 Flow Pump Directional Build-up Rock PDC:   KMD1662SDGR3G/T1665R/ ST636RS WOB:20-60KN RPM:30-60 Flow Pump Horizontal PDC: ST636/ WOB:20-60KN RPM:30-60 Flow Pump
+
+      A B                                                              in                                              in
+                      28                                                                                                                                                                                                                                                   loss hole Gas                           Rig                                                                                                                                               hole balling                               Surface     Target Target                                           Fath            Potential Drilling Problems                                                                                                                                                                                   Tight Bit Abnormal Pressure Gachsaran                                                           Mud Tight H2S SarvakSheet
+
+                                                                                                    programSummary
+                                                                                      CasingS19                    S19
+                                                                   Programme
+Well               SIPC         Name:Well                                                            Drilling
+I                                              Pore                                              1.05                                                                  1.30- 1.40                          1.10              1.10             1.11           1.11              1.12                         1.20                                                                                                                       Pressure
+
+                                         TOP m                     15                                                       1117                            1552              1872             2307           2708              2812                    2827     3141
+
+                                                                                                                                                                                                                                                      Ilam                  Lafan                                     Sarvak                                                                                                                                                                                                                                                                                                     Asmari                    Pabdeh                 GurpiAppendix                                                                                                            Formation                                                                                        Aghajari                                                                                                                           Gachsaran
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           Project    Scope      Displ.      Doc.    SEQ   REVDrilling & Completion                                                           Page 24
+ Program of Well S19                                                                                             of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+Appendix II  Well Location on Structural Map of Top of
+Sarvak Formation
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           Project    Scope      Displ.      Doc.    SEQ   REVDrilling & Completion                                                           Page 25
+ Program of Well S19                                                                                             of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+Appendix III  Formation Pressure Profile
+
+                                  Mud Weight VS Depth Curve
+
+                                                                           MW,SG
+
+             0.80      0.90      1.00      1.10      1.20      1.30      1.40      1.50      1.60      1.70      1.80
+          0
+                                                                                F5
+
+                                                                                F7
+
+                                                                           S20
+        500                                                                  S23
+
+                                                                           S18
+
+       1000
+
+       1500
+
+       2000
+
+       2500              Depth,m
+
+       3000
+
+       3500
+
+       4000
+
+       4500
+
+       5000
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           Project    Scope      Displ.      Doc.    SEQ   REVDrilling & Completion                                                           Page 26
+ Program of Well S19                                                                                             of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+Appendix IV Bit, BHA and Drilling Parameters
+
+                                         Bit Selection
+
+           Bit Size                                              Interval                 Recommended Bit
+No.                     Type          Quantity
+               (in)                                         (m)            Option 1         Option 2       Option 3
+
+ 1        17-1/2      IADC215/135        1          20-300       GA115GC     GA215GC    GA135GC
+
+ 2        17-1/2      IADC215/135        1         Back UP      GA115GC     GA215GC    GA135GC
+
+ 3        12-1/4        M223            1         300-1562    KM1952AR3G      T1951       ST915RS
+
+                    IADC215/437
+ 4        12-1/4                              1/1/1       Back UP     KM1952AR3G      T1951    VTD616DGX
+                       /M223
+
+                                                                                   ST616/
+ 5         8-1/2        M223            2        1562-3141   KM1663SGRA3G            VTD616DGX
+                                                                             ST636
+
+                                                                                     T1665/
+ 6         8-1/2       537/517/M223       2+1       2610-3238   KM1663SGRA3G            KM1652GAR3G
+                                                                         ST615RS
+
+                                                                  KMD1662S
+ 7         8-1/2       M323//M223         2        2610-3238       T1665R                    ST636RS
+                                                             DGR3G
+
+                                                        3238-
+ 8         8-1/2       M333/M323         2                KMD1662SDAR3G    ST636       T1365R
+                                                       4140.42
+
+ 9         5-7/8          537/517           1                   For cement plug and wiper trip
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                            Project    Scope      Displ.      Doc.    SEQ   REV Drilling & Completion                                                           Page 27
+  Program of Well S19                                                                                              of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+                         BHA Design
+
+Hole Size, in    Depth, m                           Proposed BHA
+                             17-1/2" Bit + Bit Sub w/float valve + 9" Shock Absorber + 9" DC × 3 + 17-1/2" Roller
+    17-1/2        300
+                        Type String Stabilizer + 8" DC × 6 + 6-1/2" DC × 3 + 5" HWDP × 15+5"DP
+                         Option 1:
+                             12-1/4" Bit + Bit Sub w/float valve + 8" Shock Absorber + 8" NMDC × 1+ 8" DC × 2
+                      + 12-1/4" Roller Type String Stabilizer + 8" DC × 6 + 8" Drilling Jar + ×/O + 6-1/2"
+                  DC × 6 + 5" HWDP × 15+5"DP
+    12-1/4        1562     Option2:
+                             12-1/4" Bit + Bit Sub w/float valve + 8" Shock Absorber + 8" NMDC × 1+ 8" DC × 2
+                      + 12-1/4" Roller Type String Stabilizer + 8" DC × 1 + 12-1/4" Roller Type String
+                                Stabilizer + 8" DC × 6 + 8" Drilling Jar + X/O + 6-1/2" DC × 6 + 5" HWDP × 15
+                      +5"DP
+                         Option 1:
+                             8-1/2" Bit + 8-1/2" Near Bit Stabilizer w/float valve +6-1/2" Pony DC+ 8-1/2" String
+                                Stabilizer +6-1/2" NMDC ×1 + 8-1/2" String Stabilizer + 6-1/2" DC × 12 + 6-1/2"
+                               Drilling Jar + 5" HWDP × 15+5"DP
+                         Option 2:
+                             8-1/2" Bit + Bit Sub w/float valve + 6-1/2" NMDC × 1 + 6-1/2" DC × 1+ 8-1/2" String
+                3141      Stabilizer + 6-1/2" DC ×1 + 8-1/2" String Stabilizer + 6-1/2" DC × 12 + 6-1/2" Drilling
+    8-1/2
+                   Pilot hole    Jar + 5" HWDP × 15+5"DP
+                         Option 3:
+                             8-1/2" Bit + 6-3/4" PDM w/8-3/8" stabilizer + 6-1/2" NMDC × 1+ 6-1/2" DC × 1 + 8-
+                             1/2" String Stabilizer +6-1/2" DC × 12 + 6-1/2" Drilling Jar + 5" HWDP × 15+5"DP
+                         Option 4:
+                             8-1/2" Bit + Bit Sub w/float valve + 6-1/2" NMDC × 1 + 6-1/2" DC × 1+ 8-1/2" String
+                                Stabilizer + 6-1/2" DC × 12 + 6-1/2" Drilling Jar + 5" HWDP × 15+5"DP
+                        Kick off section:
+                          8-1/2"Bit+6-3/4"PDM with 1.5° bent +Float Sub+6-3/4"SNMDC×1 +MWD+6-
+                        3/4"NMDP×1+5"HWDP×19+6-1/2”Drilling Jar+5"HWDP×6+5"DP
+                          Build section:
+                          8-1/2"Bit+6-3/4"PDM with 1.25～1.5° bent + Float Sub+6-3/4"NMDC×1
+                      +MWD(LWD)+5"NMDP×1+5"HWDP×30+6-1/2"Drilling Jar+5"HWDP×6+5"DP
+
+                        Tangent section:
+                 2610-     8-1/2"Bit+6-3/4"PDM with 1.25～1.5° bent + Float Sub+LWD+5"NMDP×1 +5"DP
+    8-1/2                4140.42   +5"HWDP×30 +6-1/2”Drilling Jar+5"HWDP×6+5"DP
+                      The Second build-up section:
+                          8-1/2"Bit+6-3/4"PDM with 1.25～1.5° bent + Float
+                       Sub+LWD+5"NMDP×1+5"DP+5"HWDP×30+6-1/2"Drilling Jar+ 5"HWDP×6 +5"DP
+
+                           Horizontal section:
+                              8-1/2"Bit + 6-3/4"PDM with 1.25～1.5° bent + Float Sub + LWD + 5"NMDP×1+
+                       5"DP + 5"HWDP + Flex joint + 6-1/2"DrillingJar + 5"HWDP×1 + 5"DP
+
+                              8-1/2"Bit + 6-1/2" DC × 3 + 5"HWDP×6 + 5"DP
+        Drill Cement
+                             5-7/8" bit + 4-3/4”DC*3+ 3-1/2"HWDP+ 3-1/2" DP+5"DP
+
+ Remark: 1) The directional BHA can as per directional contractor’s recommendation.
+
+          2) The inclination and azimuth survey sub included in LWD
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           Project    Scope      Displ.      Doc.    SEQ   REVDrilling & Completion                                                           Page 28
+ Program of Well S19                                                                                             of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+                                                           Torque (ft-lbf)                                                                                                                       Tension (kN)
+                      0    2000   4000   6000   8000  10000  12000 14000 16000  18000  20000 22000 24000  26000 28000 30000  32000 34000                                    -12000      -10000      -8000       -6000       -4000       -2000         0         2000       4000       6000       8000
+
+                0                                                                                                                                                        0
+
+                                                                                                                                                                                                           L E G E N D
+                                                                                                                                                                                                                                                                                                      Limit                                                                                                         L                                                                                        E G E                                                                                     N                                                                                       D
+                                                                                                                                                                                                                                                      BucklingBuckling                                                                                                                                                                 Limit
+                                                                                                                                                                                                                                                         Buckling                                                                                                                                                                                                                             (Non(Rotating)(allRotating)operations)
+             500
+                                                                                                                                                                                                                                                                                                                            Drilling                                                                                                                                      OffOn                                                                                                                          BottomBottom                                                           500
+                                                                                                                                                                                                                             Bottom
+                                                                                                                                                                                                                           Bottom                                                                                                                TorqueBackreamingRotateRotateTrippingTripping                                                                                                                        OutIn                                                                                                                                                                                                                             TensionHelicalHelicalSinusoidalBackreamingSlideRotateRotateTrippingTripping                                                                                                                                                                             OnOffOutIn
+
+        (m) 1000                                                                                                                                              (m) 1000
+           epth   D                                                                                                                                                                                                                                                    Depth
+                     Measured 1500                                                                                                                                                                                                                                                                                                                                                                                          Measured 1500
+
+            2000                                                                                                                                                2000
+
+            2500                                                                                                                                                2500
+
+                The tension and torque analysis for first Build-up section
+
+                                                                                                                                                                                   Tension (kN)
+                                                           Torque (ft-lbf)                                                                                   -12000      -10000       -8000       -6000       -4000       -2000         0         2000       4000       6000       8000
+                      0    2000  4000   6000  8000  10000  12000 14000 16000 18000  20000 22000 24000  26000 28000 30000  32000 34000                           0
+                0                                                                                                                                                                               L E G E N D
+                                                                                                                                                                                                               Tension                                                                                                                                                                                                                                                                                    Limit                                                                                                                      L                                                                                                   E G E                                                                                                N                                                                                                 D
+                                                                                                                                                                                                                                                           Helical                                                                                                                                                                                                                                        Buckling                                                                                                                                                                                                                  (Non                                                                                                                                                                                                                                                                      Rotating)
+                                                                                                                              Torque                                                                                                                                                                                      Limit                                                                                                                                                                                                                                                           Helical                                                                                                                                                                                                                                        Buckling                                                                                                                                                                                                                                                                   (Rotating)
+                                                                                                                                Backreaming                                                                                                                                                                                                                                     Sinusoidal                                                                                                                                                                                                                                            Buckling                                                                                                                                                                                                                                                                                                                                               (all                                                                                                                                                                                                                                                          operations)                                                                                                                                                        500                                                                                                                                           Rotate                                                                                                           On                                                                                                                                        Bottom                                                                                                                                                                                                        Backreaming
+                                                                                                                                           Rotate                                                                                                                                                       Off                                                                                                                                        Bottom             500                                                                                                                                                                                                                                                   Slide                                                                                                                                                                                                                                                                                                           Drilling
+                                                                                                                                                       Tripping                                                                                                                                        Out                                                                                                                                                                                                                         Rotate                                                                                                                                                                                                                                         Off                                                                                                                                                                                                                 Bottom
+                                                                                                                                                       Tripping                                                                                                                                                                                                In                                                                                                                                                                                                                          Rotate                                                                                                                                                                      On                                                                                                                                                                                                               Bottom
+                                                                                                                                                                                                                                             Tripping Out
+                                                                                                                                                                                                                                             Tripping In
+                                                                                                                                                     1000
+            1000                                        )
+  )                                                                                   (m
+     (m
+                                                                                                                                                                                   epth     thpe                                             D 1500
+  D 1500
+  dre                                                                                                                                                                                                                                                                                                                         easured     suae                                             M 2000  M 2000
+
+            2500                                                                                                                                      2500
+
+            3000                                                                                                                                      3000
+
+              The tension and torque analysis for second Build-up section
+
+                                                           Torque (ft-lbf)                                                                                                                 Tension (kN)
+                      0    2000  4000   6000   8000  10000  12000  14000 16000 18000  20000  22000 24000  26000  28000 30000  32000  34000                                     -3000     -2000     -1000       0       1000     2000     3000     4000     5000     6000     7000     8000
+
+                0                                                                                                                                                  0
+
+                                                                                                           L E G E N D                                                                                                                                                               L E G E N D
+                                                                                                                                                                                                                                                                                                                                                                                          Limit                                                                                                                                                                                                                                                                                                                                                                                              Slide                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Drilling                                                                                                                                                                   Limit                                                                                                                                                           500                                                                                      TensionHelical                                                                                                                                                                                                                                                                                                                              Buckling                                                                                                                                                                                                                                                                                          (Non                                                                                                                                                                                                                                                                                                                                                               Rotating)                                                                                                                                                                                                                                                                                                                                                      Rotate                                                                                                                                                                                                                                                                                                                                                                        Off                                                                                                                                                                                                                                                                                                                              Bottom             500                                                                                               TorqueBackreaming
+                                                                                                                                                                                                                                                                                                                                                          Helical                                                                                                                                                                                                                                                                                                                              Buckling                                                                                                                                                                                                                                                                                                                                                              (Rotating)                                                                                                                                                                                                                                                                                                                                                      Rotate                                                                                                                                                                                                                                                                  On                                                                                                                                                                                                                                                                                                                                Bottom                                                                                                                              Rotate                                                                                                 On                                                                                                                            Bottom
+                                                                                                                                                                                                                                                                                                                          Sinusoidal                                                                                                                                                                                                                                                                                                                                  Buckling                                                                                                                                                                                                                                                                                                                                                                                                                                                                           (all                                                                                                                                                                                                                                                                                                                                               operations)                                                                                                                                                                                                                                                                                                                                                                                   Tripping                                                                                                                                                                                                                                                                                                                              Out                                                                                                                              Rotate                                                                                                                                          Off                                                                                                                            Bottom
+                                                                                                                                                                                                                                                                                    Backreaming                                                                                                                                                                                                                                                                                                                                                                                   Tripping                                                                                                                                                                                                                                                                                                                                                                                                                                                             In                                                                                                                                         Tripping                                                                                                                          Out
+            1000                                                                                                                  Tripping In                                                      1000
+
+  ) 1500                                          ) 1500
+     (m                                                                                       (m
+                                                                                                                                                                                             epth          epth
+                                               D 2000  D 2000
+
+            2500                                                                                                                                          2500                 easured                                                                                                                                                                                                                                                                                                                  easured
+  M                                            M
+
+            3000                                                                                                                                          3000
+
+            3500                                                                                                                                          3500
+
+            4000                                                                                                                                          4000
+
+                 The tension and torque analysis for Horizontal section
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           Project    Scope      Displ.      Doc.    SEQ   REVDrilling & Completion                                                           Page 29
+ Program of Well S19                                                                                             of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+Appendix V  Drilling Fluid Design
+
+                                        Drilling Fluid Design
+            Hole Size (in)                      17-1/2                12-1/4                   8-1/2
+                                                            KCl-Polymer           KCl-Polymer          Mud System                   Bentonite Mud                                                 Mud              Mud
+      Interval           m              0-300             300-1562             1562-4140.42
+    BHST                  oC              28                 60                   96
+                                                66-70/               69-103/                  75-91/     M.W                 Pcf /SG                                                1.05-1.12             1.10-1.45                1.20-1.30
+        Viscosity                sec/qt           80-100               45-60                  45-65
+         Filtrate API           ml           ≤ N.C               ≤8                  ≤5
+     HTHP FL             ml                                                    ≤12
+     PH                              -               8-10                 9-10                  10-11    Properties  PV                    m.Pa.s        ALAP               15-20                  15-30
+     Yp                     lb/100ft2           10-16               10-20                  12-30
+ Mud   Gels                    lb/100ft2                  -                  4-8/8-15               4-10/12-24
+        Solid           %         ALAP              <15                 <15
+        Friction efficient                                     -                           -                       0.1
+      K+                    mg/l                    -                           -                 36K
+Appendix VI Cement Slurry and Casing Stress Check
+
+                            Cement Slurry Properties
+                                             Isolated     Thickening    Compressive     Fluid             Free
+  Cementing      Density   BHST
+                                              Interval        time          Strength      Loss   SPN   Water
+     Slurry            ( SG )      (oC)
+                                       (m)        (100BC)       (24hours)       (ml)              (ml)
+
+13-3/8"    Tail      1.86      53        0-298         3:20±      ＞2000psi          -      <3         -
+
+         Lead     1.57                0-1000        4:30±       ＞500psi    ＜250       -          -
+ 9-5/8"                     63
+            Tail      1.86              1000-1560      3:00±      ＞2000psi    ＜50    <3      0
+
+         Lead     1.50              1460-2500      5:30±       ＞800psi    ＜150    <3    ＜0.5
+  7"                       96
+            Tail      1.86              2500-3238      4:20±      ＞2000psi    ＜50    <3      0
+
+                                            Stress check
+                                                             Minimum Safety Factor   Casing    OD   Weight      Steel                      Set Interval
+                                            Connection
+  Sections       (in)    (ppf)      Grade                       (m)      Burs   Collap   Axial     Tri-
+                                                                                                                                                                 i  l
+   Surface
+               13-3/8   68.0      L80-1       BTC         0-298       1.25     3.18     4.93     3.49
+   Casing
+
+ Intermediat
+               9-5/8    47       L80-1       TP-CQ       0-1560      1.33     2.39     2.96     1.32
+  e Casing
+
+ Production           29       L80-1       TP-CQ      1460-3088
+               7                                                               1.42     1.11     2.93     1.45
+    Liner             29    SM2535-110  VAM- TOP    3088-3238
+
+ Production                                                       3168-3238
+  Liner and    4-1/2    11.6      L80-1     VAM-TOP              N/A   N/A    14.2     12.1                                                       3238-4138
+ slotted liner
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           Project    Scope      Displ.      Doc.    SEQ   REVDrilling & Completion                                                           Page 30
+ Program of Well S19                                                                                             of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+Appendix VII Well Control Schematic
+
+       17-1/2" Hole Wellhead & BOP Schematic   12-1/4″ Hole Wellhead & BOP Schematic
+
+        8-1/2″ Hole Wellhead &BOP Schematic       Choke & Kill Manifold Schematic
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           Project    Scope      Displ.      Doc.    SEQ   REVDrilling & Completion                                                           Page 31
+ Program of Well S19                                                                                             of 31                   YAP1    PH1S19   DRDE    PLDR    1001   D01
+
+Appendix VIII Wellhead and Christmas Tree Schematic

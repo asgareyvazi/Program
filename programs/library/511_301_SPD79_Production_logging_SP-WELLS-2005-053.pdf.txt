@@ -1,0 +1,2104 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 38 ]
+────────────────────────────────────────────
+       Petropars Ltd.
+
+
+
+  Title:
+
+                                         Well Program
+                                      Production logging
+                                     Phase 6 & 8
+                                  Wells SPD7-11 and SPD9-11
+                                      South Pars
+
+ Document no.:                            Contract no./project no.:                           Filing no.:
+
+ SP-WELLS-2005-053
+
+
+  Classification:                                                           Distribution:
+ Restricted                                       Restricted – No distribution beyond distribution list
+
+
+ Distribution date:               Rev. date:                    Rev. no.:                      Copy no.:
+
+ 15.09.2005                                   0
+
+
+ Author(s)/Source(s):
+
+ Bjørn Jensen
+
+
+
+
+
+ Subjects:
+
+ MPSP production logging
+
+
+
+
+
+ Remarks:
+
+
+
+ Valid from:                                                Updated:
+
+
+
+ Responsible publisher:                                            Authority to approve deviations:
+
+
+
+
+ Technical responsible:                Name:                                    Date/Signature:
+
+ Production Engineer                      Bjørn Jensen
+ Reservoir Engineer                    Jon Helge Rasmussen
+
+ Responsible:                       Name:                                    Date/Signature:
+
+ Lead Completion Engineer                 Alv Sigve Teigen
+ Well Engineer Leader                   Brage Johannessen
+
+ Recommended:                     Name:                                    Date/Signature:
+
+  Drilling Superintendents                    Kristen Wanvik/ Trond Røsbak
+ South Pars Subsurface Manager         Reidun Rovde
+
+ Approved:                         Name:                                    Date/Signature:
+
+ South Pars Drilling Manager             Helge Gustav Håland
+
+
+
+Page 1 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 38 ]
+────────────────────────────────────────────
+                                               Doc. no.
+            Petropars Ltd.                    SP-WELLS-2005-053
+                                             Date                   Rev. no.0
+   Individual Well Program - Completion                                                     19.03.2007
+
+   Wells SPD6-11 & SPD9-11
+  South Pars
+
+  Distribution list
+ No.                               Name                   No of copies
+  1-2   POGC                                      Per Haaland                          2
+  3-4    Petropars                                    Per Haaland                          2
+   5     South Pars archive, Dubai                    Joy de Leon                          1
+   6     South Pars archive, Stavanger                 Greta Ulstein Drengstig                 1
+  7-8    South Pars archive, Tehran                    Per Haaland                          2
+   9     ”Operasjonsrom”, Forus                     Randi Lunde                          1
+  10    Wells Manager                               Per Haaland                          1
+  11    Deputy Wells Manager                      Morteza Chamanifard                  1
+  12    South Pars Project Manager                  John Adlam                          1
+  13     Drilling Manager South Pars                 Helge Håland                         1
+  14     Subsurface Manager South Pars              Reidun Rovde                         1
+  15     Drilling Superintendent Rani Woro             Kristen Wanvik                       1
+  16     Drilling Superintendent Sagadril 2            Trond Røsbak                         1
+  17    Well Engineering Leader                    Brage Johannessen                     1
+  18    Lead Drilling Engineer                          Jostein Vestvik                        1
+  19    Lead Completion Engineer                  Alv Sigve Teigen                      1
+  20     Operations Engineer                         Harald Blikra                         1
+  21     Drilling Engineer                    Tommy Andersen                      1
+  22    Well Test and Completion Engineer           John C. Self                          0
+  23     Reservoir Engineer                          Jon-Helge Rasmussen                  1
+  24     Production Engineer                         Bjørn Jensen                          1
+ 25-26   Drilling supervisor Rani Woro, offshore        Joy de Leon                          2
+ 27-28   Rani Woro Toolpusher, offshore              Joy de Leon                          0
+  29    RaniWoro rig superintendent                   Pascal Ibanez                         0
+ 30-31   Drilling Supervisor Sagadrill-2,offshore        Joy de Leon                          2
+Service Companies
+  32    Baker Oil Tools                               Jørn Carlsen                          0
+  33    M-I                                Mouad Hameed Al-Haj                 0
+  34     Halliburton                              Johan Hisbaron                      0
+  35     Geoservices                              David S. W. Mitchell                   1
+  36    Kvaerner Oilfield Products                    Richard Bainbridge                    0
+  37    Schlumberger                             Roland Banas                         1
+  38    Weatherford                                  Neil Coutts                           0
+  39     Sunbelt                             Mohan Vengathattil                    1
+ 40-45   Additional Copies, onshore                   Joy de Leon                          8
+  46   POGC rep. offshore                         Joy de Leon                          1
+  47   POGC rep. Kish                       Odd M. Mandelid/Kjetil Johnsen          1
+ 48-50   Additional Copies, offshore                   Joy de Leon                          4
+
+
+
+
+
+  Page 2 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+Table of contents
+
+
+1       General Information............................................................................................................................. 4
+1.1       Statoil Organisation................................................................................................................................. 4
+1.2          Contractors.............................................................................................................................................. 5
+2       General Well Data................................................................................................................................. 6
+2.1      Operation Outline.................................................................................................................................... 7
+3             Deviations............................................................................................................................................... 8
+3.1      Dispensations from Statoil Requirements............................................................................................... 8
+3.2      Deviations from “Main Completion Programme, South Pars”............................................................... 8
+4        Health, Safety, Environment and Quality (HSE & Q)....................................................................... 8
+4.1          HSE......................................................................................................................................................... 8
+4.2          Quality..................................................................................................................................................... 9
+5      Run MPSP log ..................................................................................................................................... 10
+5.1          Objective............................................................................................................................................... 10
+5.2      Risk Evaluation..................................................................................................................................... 10
+5.3    HSE Focus Points.................................................................................................................................. 10
+5.4          Technical............................................................................................................................................... 11
+5.5     Well status............................................................................................................................................. 11
+6       Figures and tables ............................................................................................................................... 23
+A.1     Well volumes, capacities and kill fluid calculations............................................................................. 24
+A.2     Well Schematic ..................................................................................................................................... 25
+A.3     Completion Schematic .......................................................................................................................... 26
+A.4    MPSP Toolstring Schematic (toolstring can be modified upon availability of PUCS) ....................... 27
+A.5      Slickline rig up schematic..................................................................................................................... 28
+A.6     Surface Well Test Equipment Layout................................................................................................... 29
+A.7     Well Trajectories................................................................................................................................... 31
+A.8     References & Documentations.............................................................................................................. 38
+
+
+
+
+
+Page 3 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+1     General Information
+
+
+1.1      Statoil Organisation
+
+      CONTACT POINTS
+          Drilling and Well Technology, South Pars                    Telephone         E-mail
+         Well Manager                     Per Haaland               +47 90572604
+                                                             +98 9123054088    PHAA@sp68.com
+           Drilling Manager                 Helge Håland              +971 4 8068 220    HGH@statoil.com
+                                                              +971 50 5599620
+           Drilling superintendent Rani Woro   Kristen Wanvik            +971 4 8068202     KRW@statoil.com
+                                                              +971 50 5599602
+           Drilling superintendent Sagadril 2   Trond Røsbak             +971 4 8068210     TRR@statoil.com
+                                                              +971 50 5599610
+         Well Engineering Leader           Brage Johannessen          +971 4 8068204     BRAGE@statoil.com
+                                                              +971 50 5599604
+         Lead Drilling Engineer               Jostein Vestvik            +971 4 8068212     JOVES@statoil.com
+                                                              +971 50 5599612
+         Lead Completion Engineer         Alv Sigve Teigen           +971 4 8068215     ASITE@statoil.com
+                                                              +971 50 5599615
+          Operations Engineer               Harald Blikra              +971 4 8068237     HBL@statoil.com
+                                                              +971 50 5599617
+         Well test and completion engineer   John C. Self               +971 48068239      JCS@statoil.com
+                                                              +971 505599613
+           Drilling Engineer             Tommy Andersen          +971 4 8068203     TANDERS@statoil.com
+                                                              +971 50 5599603
+          Logistic coordinator Kish Island    Odd Magne Mandeli        +971 4 8068225     Logkish@statoil.com
+
+          Logistic coordinator Kish Island      Kjetil G. Johnsen           +98 934 7699017    logkish@statoil.com
+        South Pars Faximile, Dubai                                                +971 4 8068201
+
+         Subsurface Group, South Pars                              Telephone         E-mail
+          Subsurface Manager              Reidun Rovde             +47 90196907       RER@statoil.com
+          Reservoir Engineer                Jon-Helge Rasmussen       +47 90965339      JHRA@statoil.com
+         Petroleum Engineer                Bjørn Jensen              +47 95847854       BJENS@statoil.com
+                                            Subsurface Duty Engineer    ++971 50 5599607
+        South Pars Faximile, Stavanger                           +47 51 99 00 50
+
+          Drilling & Well Technology, Stavanger                      Telephone         E-mail
+          Process Owner                Mads Grinrød            + 47 51 99 00 00     Mads@statoil.com
+      HQ Duty Phone Stavanger                              + 47 51 99 00 02
+
+
+
+
+
+Page 4 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+1.2     Contractors
+
+Contact personnel for this project:
+
+ Contact person    Company             Service              Telephone          e-mail
+ Pascal Ibanez       PT. Apexindo           Drilling Contractor    +971 2 5544233      ibanez@emirates.net.ae
+ Toshio Harada       Japan Drilling           Drilling Contractor    +971 4 8814945      Toshio.harada@jdc.co.jp
+ Roland Banas       Schlumberger          Wireline logging      +971 4 337 0474      banas@dubai.oilfield.slb.com
+ Mouad Hameed    MI                      Drill./compl. Fluids    +971 4 8837042     mouad@midubai.ae
+ Al-Haj
+ Johan Hisbaron       Halliburton          Cement             +971 4 8836685      Johan.hisbaron@Halliburton.com
+ David S. Mitchell    Geoservices          Well testing          +971 4 3366216      david.Mitchell@geosrv.com
+ Neil Coutts          Weatherford          Casing running /      +971 4 3125059      Michel.tarrieu@weatherford.com
+                                             Fishing             +971 4 3125059
+ Mohan              Sunbelt            H2S services         +917 4 8836182     mohan@mis.co.ae
+ Vengathattil
+
+
+
+
+
+Page 5 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+2     General Well Data
+
+
+       General for all wells:
+Drilling rig                                   Sagadril 2  and  Rani Woro
+RT – Seabed Sagadril 2                      87.3 m (water depth + RT elevation)
+RT – Seabed Rani Woro                     94.4 m (water depth + RT elevation)
+MSL – RT Sagadril-2                       25,7 m
+MSL – RT Rani Woro                      24.9 m
+Well type                                  Gas/condensate producer
+Producing reservoirs                 K1 – K4
+Reservoir permeability                    Average 21 mD
+Reservoir porosity                       13 %
+Reservoir pressure (max. expected)         367 bars
+Pressure gradient of gas in tubing (expected) 0,22 SG equivalent
+Completion type                        Monobore , 7” 13% Cr-80, 29#/ft, AMS-28
+                                             Threads, Predrilled Liner
+Tubing                               Monobore 7" 28% Cr, 26 #/ft Vam Top HC &
+                                          7” 28% Cr, 23 #/ft Vam Top
+Pressure test of tubing and downhole       345 bar / 5000 psi with 1,00 SG. Inhibited
+average density of well fluid                  water, packer fluid
+Pressure test of prod. Annulus             200 bar / 2900 psi with 1,00 SG.KCL-
+                                        mud.Engaging anchor latch
+
+
+
+        Cost accounts:
+ Project                  Account
+ MPSP on Rani Woro     XXXXX-XXX-X
+
+ MPSP on Sagadril-2      XXXXX-XXX-X
+
+
+
+
+
+Page 6 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+
+
+2.1     Operation Outline
+
+
+              RIH with PSP on slickline
+                         •  R/U MPSP toolstring to slick line
+                         •  RIH to 40 m above top of predrilled liner
+              Log well calibration passes
+                         •  Log 4 short down- and 4 up passes above top predrilled
+                                   liner
+              Log well at maximum flow rate
+                         •  Open and bean up production to appr. 85 MMScf/d
+                         •   Stabilize the well
+                         •  Log 3 down- and 3 up passes
+              Log well at 2.flow rate
+                         •  Bean down flowrate to appr. 70 MMscf/d.
+                         •   Stabilize the well
+                         •  Log 3 down- and 3 up passes.
+              Log well at 3.flow rate
+                         •  Bean down flowrate to appr. 40 MMscf/d.
+                         •   Stabilize the well
+                         •  Log 3 down- and 3 up passes.
+                 Build up periode
+                         •  RIH and place toolstring in the reservoir section.
+                         •  Shut in well rapidly on Geoservices choke manifold.
+                         •  Perform pressure build up data aquisition.
+             Log shut in passes
+                         •  Log 4 down- and 4 up passes
+                  |Inflow test
+                         •  Inflow test HMV, MMV, DHSV.
+                         •  R/D slick line pressure control equipment
+                         •  R/D coflexip hose.
+                         •  Prepare to skid rig.
+
+
+
+Page 7 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+3      Deviations
+
+
+3.1     Dispensations from Statoil Requirements
+
+               •  No deviations
+
+
+3.2     Deviations from “Main Completion Programme, South Pars”
+
+               •  Production logging is not described in Main Completion program.
+
+
+
+4      Health, Safety, Environment and Quality (HSE & Q)
+
+
+4.1   HSE
+
+       The South Pars 6,7,8 goals are:
+
+           •  Zero injuries.
+           •  Zero unintended spill to sea.
+           •  Zero dropped objects.
+           •  Zero serious well control situations.
+           •  Rig prepared for H2S.
+           •  High standard on housekeeping.
+
+
+        For theese wells, the special HSE focus points will be:
+
+           •  Safe Job Analysis (SJA) shall be used for planning of all non-standard operations.
+           •  Good communication is the key to good teamwork. Radio communication should be used
+              between crewmembers to improve communication.
+           •  Pre-job meetings shall be held prior to rigging up slickline and MPSP toolstring and prior
+                 to commencing the production logging survey.
+           •  Rig and crew will be prepared for H2S. Regular drills will be held.
+           •  Derrick will be inspected regularly for loose objects or potential falling objects.
+           •   Statoil shall report all incidents and non-conformances in Statoil Synergi system.
+
+
+
+
+Page 8 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+4.1.1   Risk assessment
+
+        During the detailed planning phase, prepared risk logs have been prepared for each major
+         operation. The risks are classified using a South Pars risk matrix.
+
+       The risk logs will be re-visited before the start of each operation, and continuously updated if new
+         risks are identified. The risk logs can be used offshore during the operations.
+
+
+
+4.1.2   H2S
+
+               •  Reservoir fluid contains H2S.
+               •  The rig shall be prepared for H2S (training, procedures and protective gear)
+               •  Crew shall be masked up when bleeding off lubricator pressure, fluid sampling during
+                   flow and any operation where well content can be released.
+               •  Test lines & burner booms are installed and hooked up to X-mas tree.
+               •  All equipment; slickline, downhole tools and wireline rig up to be suited for H2S
+                      service.
+
+
+
+4.2     Quality
+
+       As a part of the Quality Control of the completion programme for the well, a Complete and Test
+        Well On Paper session was arranged, March 10, 2004.
+
+        For theese wells, special quality focus points will be:
+               •  Ensure that relevant experiences from the previous production wells in the South Pars
+                     Field is captured and included in the operations programs and procedures.
+               •  Perform production logging operations without well control incidents.
+               •   Checklists prepared for all equipment prior to start of operations, with copy to Statoil.
+               •  Procedures planned for all operations prior to start of operations, with copy to Statoil.
+
+
+4.2.1   Quality Rating System
+
+          Statoil’s Quality Rating System has been integrated into the Daily Drilling Report (DBR, version
+         5.1) and is a part of the “Operations window”. Down/failure time reported, will be connected to
+         responsible company (where applicable), and reference to any Synergi report made on the
+         incident.
+
+
+
+
+Page 9 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+5    Run MPSP log
+
+
+5.1     Objective
+
+       Run flowing and shut in passes with MPSP (Memory Production Services Platform) to identify
+        producing zones and monitor their individual contribution to total production. A pressure build up
+        periode will be planned to monitor flowing and shut-in downhole pressure in order to evaluate
+        well productivity.
+
+
+5.2     Risk Evaluation
+
+               •  Junk falls in the well while R/U WL equipment.
+               •  Loss of WL tool string in hole.
+               •  Gas w/ high H2S content.
+               •  Risk of closing valve on tool or wire.
+               •  Unsuccessful acquiring of data.
+
+
+5.3   HSE Focus Points
+
+               •  Dropped object hazard.
+               •  Maintain good housekeeping on the drill floor at all times.
+               •  Perform pre job meetings with all involved personnel.
+               •  Communication during WL operations. Communicate through driller, Geoservices,
+                   Schlumberger, Halliburton and Statoil.
+               •  Well control/ continuously log correct valve status.
+               •  Gas with H2S in wireline lubricator (gas can migrate to surface).
+               •  Avoid operations on two levels without two barriers(use a protective shield around
+                      rotary)
+
+
+        Only essential personnel outside accommodations while flowing well. Planned duration up to 10
+         hrs
+
+
+
+
+
+Page 10 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+5.4     Technical
+
+               • AOR nipple has a minimum ID of 5.65” (smallest ID in completion)
+               •  DHSV has an ID of 6.00”.
+               •  Max tool OD on MPSP toolstring is 1 11/16 “.
+               •   Tool string length app. 10.8 m. (dependant on availability of PUCS)
+               •  C-line pressure must be 175 bar above tubing pressure to ensure DHSV is open.
+               •  DHSV and HMV shall be isolated at the Geoservices control panel while running
+                   wire line. The panel shall be manned at all time
+               •  Geoservice will operate the choke manifold and production surface equipment during
+               PSP logging operation
+               •  4 joints (40 ft) of 6 3/8” riser joints will be connected to top of X-mas tree.
+               •  Rigfloor to X-mas tree top: app. 10.2 m.
+               •  The tools will be run on a 0.125” slick line.
+               •  Number of turns to open SV is 36.
+               •  Keep wireline cutter available on rig floor.
+               • HMV will be used for cutting WL if necessary.
+               •  Only 50/50 MEG/water can be pumped into the well.
+               • A flow diagram shall be issued on how to handle various operational scenarios during
+                     the running of the PLT with regards to well control and barriers.
+                   Tool string               PSP toolstring
+            Max OD                          1 11/16 “
+                Length of toolstring                    10.8 m
+               Weight of toolstring              150 kg / 330 lbs
+               •
+
+
+5.5     Well status
+
+               •  The tubing is installed with a DHSV.
+               • A JMZX-packer is installed as the production packer.
+               • A ZXP-packer is installed in conjunction with liner hanger.
+               •  The well has been clean up and is filled with reservoir gas.
+               •  SIWHP is 289 bar.
+               •  Line from Halliburton cementing unit is rigged up to TKV.
+               •  The well is hooked up to the Geosevices surface testing equipment.
+               •   Slickline equipment including pressure control equipment is rigged up on the well.
+
+
+
+
+
+Page 11 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+        Operational Sequence
+
+
+        Valve status:
+           - TKV open(verify that check valve next to TKV has been installed)
+           - SV closed
+           - PWV open
+           - DHSV - open
+           - HMV closed
+           - MMV open
+           - Geoservices choke manifold is closed
+
+
+       Use bails and wire slings to lift up W/L lubricator and BOP
+
+
+
+
+
+Page 12 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+
+                         Rigging up or down wireline equipment
+
+                                                                                                     Stuffing box
+
+                                                                                                                                                                                                                                            Lubricator
+
+
+                                                                            Top ram
+
+                                                                                    Bottom ram
+
+
+                                                                   SV
+
+                                   TKV                         PWV
+
+                                                            HMV
+
+                                                         MMV
+
+                    Tubing hanger                                                          Well head casing pack off
+
+
+
+
+
+               DHSV
+
+                                                                                                    7" Production tubing
+
+                                                                                  13 3/8" Casing
+                     Description of barrier
+                        elements
+
+                 1-DHSV                                                                     1.0 SG Completion fluid
+                  2-ZXP packer
+                       3- Production packer
+                       4- Tubing below DHSV                                              Primary
+
+
+                                                                                  10 3/4"x 9 5/8" Casing
+                       1-Hydraulic master valve                         0
+                       2- XT housing                              0    0
+                       3- Well head                                  0                 Gas
+                      4-Production casing hanger                    0    0                                                           Secondary    5-Production casing                             0
+                                                            0    0
+                                                               0
+                                                            0    0                8 1/2" Open hole
+                                                               0
+                                                            0    0
+                                                               0
+                                                                0                                                                               Compensation
+Page 13 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+
+
+                                       Wireline in hole
+
+                                                                                                         Stuffing box
+
+                                                                                                                                                                                                                                              Lubricator
+                                                                                     Wire line
+
+                                                                             Top ram
+
+                                                                                     Bottom ram
+
+
+                                                                   SV
+
+                                    TKV                         PWV
+
+
+                                                            HMV
+
+                                                          MMV
+
+                     Tubing hanger                                                          Well head casing pack off
+
+
+
+
+
+               DHSV
+
+                                                                                                      7" Production tubing
+
+
+                      Description of barrier
+                         elements
+
+
+                         Inflow tested
+                   and positive tested
+                      Production packer                                                Primary
+
+
+                                                                                   10 3/4"x 9 5/8" Casing
+                                                                0
+                        1- Production casing                         0    0
+                        2- Casing hanger                               0
+                        3- XT housing                              0    0                                                              Secondary    4- HMV                                      0
+                                                             0    0
+                                                                0
+                                                             0    0                8 1/2" Open hole
+                                                                0
+                        Hydraulic master valve
+                                                             0    0
+                       serves as safety head.
+                                                                0
+                           Will cut cable and seal
+                                                                 0                                                                                  Compensation
+
+Page 14 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+      RIH WITH MPSP TOOLSTRING
+
+
+
+5.5.1   Perform pre-job meeting with involved personnel (can be done off rigtime). Review contingency
+        procedures.
+
+
+5.5.2    Install appropriate fixed choke to achieve 85 MMscf/d. (estimated 64/64”)
+
+
+5.5.3    Install MPSP tool string
+
+
+5.5.4   Connect riser. Open swab valve (SV).
+
+
+5.5.5    Verify that DHSV control line pressure is to 520 bar and DHSV is kept open. Geoservices to
+        observe pressure on DHSV C-line as long as W/L is in the well.
+
+
+5.5.6    Pressure test slick line rig-up to 4350 psi / 300 bar /10 min with Halliburton through TKV against
+        closed HMV, Geoservices choke manifold and WL-lubricator. Use 50/50 MEG/water for pressure
+          testing.
+
+        Monitor pressure in Geoservices DAS unit. Check valve installed in line to Halliburton.
+
+
+5.5.7   Bleed pressure to SIWHP 289 bar on Geoservices choke manifold. Close Geoservices choke
+        manifold. Leave Geoservices choke closed while RIH with slick line.
+
+
+5.5.8   Open HMV.
+
+
+5.5.9    Start RIH with slick line. Run in hole with the tool string. Run slowly through DHSV. (160 - 180m
+     MD) Monitor pick up weights according to Schlumberger procedures.
+
+
+5.5.10   Stop at 40 m above the top of predrilled liner (XXXX m MD). Monitor pick up weight according
+         to Schlumberger procedures at this depth.
+
+
+
+
+Page 15 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+      Calibration passes
+
+
+5.5.11  RIH at 10 m/min to top of predrilled liner at depth xxxx m MD.
+
+
+5.5.12  POOH at 10 m/min to 40 m above top of predrilled liner, xxxx m MD
+
+
+5.5.13  RIH at 20 m/min to top of predrilled liner at depth xxxx m MD.
+
+
+5.5.14  POOH at 20 m/min to 40 m above top of predrilled liner, xxxx m MD.
+
+
+5.5.15  RIH at 30 m/min to top of predrilled liner at depth xxxx m MD.
+
+
+5.5.16  POOH at 30 m/min to 40 m above top of predrilled liner, xxxx m MD.
+
+
+5.5.17  RIH at 40 m/min to top of predrilled liner at depth xxxx m MD
+
+
+5.5.18  POOH at 40 m/min to 40 m above top of predrilled liner, xxxx m MD
+
+
+
+
+
+     Open well to flow
+
+
+5.5.19   Ignite the burner booms. Start/prepare water spray cooling system
+
+
+5.5.20   Await instructions from Drilling Superintendent/Statoil Drilling Supervisor before opening the
+          well. Make announcement on the rig.
+
+
+5.5.21  Open the well on adjustable choke and gradually increase choke size over 30 minutes to obtain a
+          rate of 85 MMscf/d. Switch to corresponding fixed choke.
+
+
+
+Page 16 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+5.5.22  Bleed down annulus pressure if / when required. Pressure limitations on the different annuli are
+        described below (pressures will rise quickly above minimums once production begins):
+
+
+
+         Annuli            Min. Pressure   Max. Pressure   Annulus is piped to:
+                                  (Bars)            (Bars)
+         7" x 10 ¾”             10             60        Rig choke manifold
+        10 ¾” x 13 3/8"         10             60        Rig choke manifold
+        18 5/8” x 13 3/8”        0              0       Open valve
+
+
+
+
+
+5.5.23  Flow the well at this rate until well performance parameters has stabilized including BS&W.
+        Monitor calculated flowrate vs FWHP.
+
+
+      Logging maximum flow rate
+
+
+5.5.24  RIH at 15 m/min to 10 above TD. The speed can be reduced slowly as TD is approached without
+        comprising data
+
+
+5.5.25  POOH at 15 m/min to 40 m above top of predrilled liner, xxxx m.
+
+
+5.5.26  RIH at 25 m/min to 10 above TD. The speed can be reduced slowly as TD is approached without
+        comprising data
+
+
+5.5.27  POOH at 25 m/min to 40 m above top of predrilled liner, xxxx m
+
+
+5.5.28  RIH at 35 m/min to 10 above TD. The speed can be reduced slowly as TD is approached without
+        comprising data
+
+
+5.5.29  POOH at 35 m/min to 40 m above top of predrilled liner, xxxx m
+
+
+5.5.30   Switch from fixed choke to adjustable and bean the well down to estimated 52/64” and a
+         calculated production rate of appr. 70 MMscf/d.
+
+Page 17 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+      Logging 2nd flow rate
+
+
+5.5.31  Flow the well at this rate until well performance parameters has stabilized. Monitor calculated
+         flowrate vs FWHP
+
+
+5.5.32   Repeat points 5.5.24 – 5.5.29
+
+
+5.5.33  Bean the well down 48/64” and a calculated production rate of appr. 40 MMscf/d
+
+      Logging 3rd flow rate
+
+
+
+5.5.34  Flow the well at this rate until well performance parameters has stabilized. Monitor calculated
+         flowrate vs FWHP
+
+
+5.5.35   Repeat points 5.5.24 – 5.5.29
+
+       Build up test
+
+
+5.5.36  RIH and locate toolstring in the blank joint at the interface between formations K2 and K3.
+
+
+5.5.37   Rapidly shut in the well on Geoservices choke manifold.
+
+
+5.5.38   Monitor pressure build up for 4 hrs.
+
+     Log shut-in passes
+
+
+5.5.39  RIH at 40 m/min to 10 above TD. The speed can be reduced slowly as TD is approached without
+        comprising data
+
+
+5.5.40   Flag the cable at this depth.
+
+
+5.5.41  POOH at 20 m/min to 40 m above top of predrilled liner, xxxx m.
+
+
+Page 18 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+5.5.42  RIH at 30 m/min to 10 above TD. The speed can be reduced slowly as TD is approached without
+        comprising data
+
+
+5.5.43  POOH at 30 m/min to 40 m above top of predrilled liner, xxxx m
+
+
+5.5.44  RIH at 35 m/min to 10 above TD. The speed can be reduced slowly as TD is approached without
+        comprising data
+
+
+5.5.45  POOH at 35 m/min to 40 m above top of predrilled liner, xxxx m
+
+
+5.5.46  RIH at 40 m/min to 10 above TD. The speed can be reduced slowly as TD is approached without
+        comprising data
+
+
+5.5.47  POOH at 40 m/min to 40 m above top of predrilled liner, xxxx m
+
+
+5.5.48  POOH
+
+
+5.5.49   Pull slowly through DHSV at 155 - 180 m MD.
+
+
+5.5.50   Pull very careful when getting close to surface.
+
+
+5.5.51  Close the SV. Make sure valve is not closed on tool or wire. Count and verify correct number of
+         turns on SV. 36 turns.
+
+
+5.5.52  Monitor and report well pressure. Close HMV.
+
+
+5.5.53  Open SV.
+
+
+5.5.54  Bleed down lubricator to 10 bar and inflow test HMV for 10 min.
+
+
+5.5.55  Bleed down pressure to 3bar on Geoservices choke manifold and close choke.
+
+        Sunbelt will mask up and check for H2S gas prior to rigging down. All personnel stay in safe area
+          until area.
+
+Page 19 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+5.5.56  Close SV.
+
+
+5.5.57  Check pressure in W/L lubricator bleeding off at needle valve.
+
+
+5.5.58  Lay down toolstring.
+
+
+5.5.59  Dump data and performe data quality check. Meanwhile proceed with the operation and inflow
+          test x-mas tree valves. In case data is acceptable, finnish the operation. However, should the
+      memory be empty or data incomplete, consider to shift to back up tool and rerun logging
+        according to 5.5.3.
+
+
+
+Inflow test of HMV, MMV, DHSV and SV to be performed with gas in the well. SIWHP will be
+approx. 290 bar. Use last SIWHP as reference when equalizing across valves.
+Swab Valve will be inflow tested during flowing of well. Monitor pressure on Schlumberger
+lubricator.
+
+
+5.5.60  Hold pre-job safety meeting for final pressure testing of X-mas tree. (Should be done off rigtime)
+
+
+   Inflow test HMV
+
+
+5.5.61  Close HMV.
+
+
+5.5.62  Bleed off pressure in flow line to 5 bar via Geoservices choke and inflow test HMV 10 min.
+       Record test on electronic chart in Data Acquisition System.
+
+
+5.5.63  Equalize across HMV (appr 290 bar) with 50% MEG using cement pump. Open HMV.
+
+
+
+
+
+Page 20 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+   Inflow test MMV
+
+
+5.5.64  Close MMV.
+
+
+5.5.65  Bleed off pressure in flow line to 5 bar via Geoservices choke and inflow test MMV 10 min.
+       Record the test on electronic chart in Data Acquisition System.
+
+
+         Equalize across MMV (appr 290 bar) with 50% MEG using cement pump. Open MMV.
+
+       Inflow test DHSV
+
+
+5.5.66  Close DHSV.
+
+
+5.5.67  Bleed off pressure above to 5 bar, via Geoservices choke, and perform inflow test of DHSV for 30
+        min. Ref. WR0256, test procedure. Record test on electronic chart in Data Acquisition System.
+        Bleed of pressure.
+
+
+
+    Fill 50/50 MEG from DHSV to surface
+
+
+5.5.68  Open Geoservices choke.  Bleed off pressure to zero.
+
+
+5.5.69  Close Geoservices choke.
+
+
+5.5.70  Pump/bullhead app. 3.5 m³ (22 bbl) 50/50% MEG/water blend from cement pump into well on top
+         of closed DHSV. Max pumpressure 150 bar.
+
+
+5.5.71  Bleed of pressure to zero.
+
+
+5.5.72  Close and HMV.
+
+      H2S status on the rig can now be lifted.
+
+
+
+
+Page 21 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+        Meanwhile: Disconnect WL BOP and risers and lay down tool string if the MPSP data has been
+        approved. Otherwise wait.
+
+
+       Flush flowline and Geoservices lines
+
+
+5.5.73  Flush to both burners through Geoservices equipment. Pump seawater with cement unit through
+           kill line and X-mas tree.
+
+
+5.5.74 Pump 0.8 m3(5 bbl) 50/50 MEG /water to top uo MEG across X-mas tree.
+
+       Position valves for Handover
+
+
+5.5.75  Close PWV and TKV.
+
+
+5.5.76  Open HMV.
+
+
+5.5.77  Rig up KOP lubricator and install check valve in tubing hanger.
+
+
+5.5.78  Rig down KOP lubricator.
+
+
+5.5.79  Open needle valve between check valve and TKV. Ensure zero pressure.
+
+
+5.5.80  Rig down temporary flow line, kill line and annulus lines.
+
+
+5.5.81  Rig down TKV. Install blind flange with needle valve.
+
+
+5.5.82  Test tree cap, PWV and blind flange on TK side using KOP pump to 345 bar. Collect charts for
+        handover documentation
+
+
+5.5.83  Skid rig to the next well.
+
+
+
+
+
+Page 22 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+
+
+6      Figures and tables
+
+
+
+
+
+Page 23 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+A.1    Well volumes, capacities and kill fluid calculations
+
+
+
+     VOLUMES AND CAPACITIES
+
+        7” 26 lb/ft tubing; capacity:                     19.96 l/m
+        7” 26 lb/ft tubing; displacement closed end:       24.83 l/m
+
+        7” 23 lb/ft tubing; capacity:                     20.50 l/m
+        7” 23lb/ft tubing; displacement closed end:       24.80 l/m
+
+
+       9 5/8” 47 lb/ft casing; capacity                  38.18 l/m
+       10 3/4” 60.7 lb/ft casing; capacity:               49.16 l/m
+
+        Capacity 8.5” open hole:                       36.61 l/m
+
+        5.5” drill pipe; capacity:                        11.35 l/m
+        5.5” drill pipe; displacement closed end:          15.94 l/m
+
+
+
+
+       Required overbalance to kill well:
+
+
+              BHP + overbalance             358 + 15
+            ρkill = ⎯⎯⎯⎯⎯⎯ + a = ⎯⎯⎯⎯⎯⎯ + 0.00 = 1.41 S.G
+                    0.0981 x (d1 –d2)                0.0981 x (2701 –12)
+
+
+               ρkill             :required kill fluid specific gravity at 15 oC inclusive required overbalance,
+                            related to wellhead pressure at top reservoir  (S.G)
+       BHP             :static reservoir pressure at top reservoir  (bar)
+         Overbalance    :required overbalance (bar)
+         d1             :depth top of reservoir , m TVD RT
+         d2              :distance rotary – well head, m
+          a              :temperature correction factor, brine kill fluid = 0.02SG, mud kill fluid = 0.00 SG
+
+
+
+
+
+Page 24 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+A.2    Well Schematic
+
+       Well schematic will be available offshore for each well.
+
+
+                       Well:         SPD7/8/9        WELL SCHEMATIC (Depths in MSL)
+                         Field:        South Pars 6,7&8
+                       Rig:
+          CSG                                                      TEST                CSG
+                 HOLE   LOT                                     CASING         CENTRALIZERS   PRESS    Top Of Cement  SHOE                              LWD   SURVEY          HOLE
+                 TD fm.    FIT                                                              BAR                         fm.                                 LOG   CSG/ OH             SIZE
+                                                                                                                             Conductor cut off: 12m above MSL
+             Sea-level    0
+
+
+           SB     SB                                                                    SB
+
+               26"                               26" CP               1 bow/jts                    Seabed                                        MWD
+               32"                          0.625" X-52, RL-4S         2 lowest jts
+                        Fars                                                                                         Fars
+
+            18 5/8"                       18 5/8" casing          2 on lowest jt      113 bar       Seabed                                        MWD
+               24"                       99ppf X-56, Antares ER       inside prev csg                                                                        VSS*
+                                                                                                                                                                                                                   Kick-off
+                                                                                                                                                                     Gyro
+                           1.30SG                                            1/jt on 3 lowest jts
+                         Ilam     FIT                                                                                       Ilam
+
+            13 3/8"                       13 3/8" casing                        1/jt          240 bar                                                 MWD
+               16"                       68ppf L-80, Antares ER      from 2 jts inside               min 200m inside                                     GR
+                                                                         prv csg to bottom                18 5/8" csg                                                VSS*
+                                                                                                                         PWD*
+                           1.60SG                                            2/jt on 3 lowest jts                                                                     RES*
+                           Hith     FIT                                                                                            Hith
+
+            9 5/8"                        10 3/4" casing                1/jt next 400m     300 bar   600m above shoe                                      MWD
+            12 1/4"                         60.7ppf L-80, AMS                                                                        GR
+                                                                                                    2/jt in lowest 200m                                                                      VSS*
+                                         9 5/8" casing                                                                               PWD*
+                     Upper  1.70SG     47ppf L-80, AMS 28                                                   Upper                                     RES*    EMS*
+                   Kangan   FIT                                                                      Kangan
+
+                 7"                                  7" Liner                                                                            GR   MWD
+            8 1/2"                     29ppf 13%Cr80, AMS 28                                                                             RES
+                                                                                                                    Open                 VSS*
+                                                                                                                                                       hole               PWD*
+                                                                                                                        DENS
+                                                                                                                         NEUTR
+                      Dalan                                                                                    Dalan
+                    K4                                                                          K4
+
+
+
+
+
+Page 25 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+A.3    Completion Schematic
+
+
+(The wells are not yet completed, “as run” completion data will be available offshore prior to operation)
+
+
+
+
+
+Page 26 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+A.4   MPSP Toolstring Schematic
+
+         (toolstring can be modified upon availability of PUCS)
+
+
+
+
+
+Page 27 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+A.5     Slickline rig up schematic
+
+
+
+                                           STATOIL WHE RIG UP
+
+                                                S/Box Otis 61/2"-4 P & C
+
+                            1 ft                          Injection Sub Otis 61/2"-4 P & B
+
+
+                           8 ft                        3" ID Lubricator Otis 61/2"-4 P & B
+
+
+
+                             8 ft                      3" ID Lubricator Otis 61/2"-4 P & B
+
+
+                             1 ft                      61/2"-4 Otis B x 81/2"-4 P & C
+
+
+                             8 ft
+                                                         4" ID Lubricator Otis 81/2"-4 P & B
+
+
+                             1 ft                      81/2"-4 Otis B x 11 1/2"-4 Otis P & C
+
+
+
+                                                        63/8" ID Lubricator Otis 11 1/2"-4 P & B
+                             13 ft
+
+
+
+                                                        63/8" ID Pump-in Sub Otis 11 1/2"-4 P & B
+
+
+                                                        63/8" ID BOP Otis 11 1/2"-4 P & B
+                4 ft
+                                              RIG FLOOR
+
+
+                    5 risers 37 ft                       63/8" ID Riser Otis 11 1/2-4 P & B
+
+
+                           3 ft
+                                                       63/8"ID Otis 11 1/2"-4 B x 91/2"-4 P & C X/O
+
+
+                                               Xmas Tree
+
+
+
+
+
+Page 28 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+A.6    Surface Well Test Equipment Layout
+
+
+        Sagadril-2
+
+
+
+
+
+Page 29 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+
+       Rani Woro
+
+
+
+                                   WELL TESTING EQUIPMENT LAY OUT
+                                                                      Client: Statoil              Well:
+
+                                                                       Field: South Pars          Rig: Rani Woro
+
+
+
+
+
+                                                                                        4" x 4'' x 4'' x 4"
+                                                                            Bypass Manifold
+
+                                           CANTILEVER LEG                                                   CANTILEVER LEG
+             DRILLING RIG MAIN DECK                      ESD Panel                              Hi Pilot
+                                                                                                                                      1250 psi
+
+
+
+
+                                                                  Choke Manifold
+                                                                              4" hubbed 10 kpsi
+                                                                                      (Valve #1)
+                           Back Pressure                                                                                                                     Back Pressure
+                                Manifold Skid                                                                                     Lo500Pilotpsi                                                         Manifold Skid
+
+                                                                                    Hydraulic SSV
+                                                                                 Skid 4" 10 kpsi                                            4 Ways Oil
+                                                                                                                                                Manifold
+
+
+
+
+
+                                               Vent line to boom - 3" 602                                                                                         Vent line to boom - 3" 602
+
+                                                          Oil line to burner - 3" 602                                     SwabValve                Coflexip Hose                             Oil line to burner - 3" 602
+                                                                                                                    Tubing Kill    (valve #2)         4" hubbed 10K Psi x 60 ft
+                                       Gas line to boom - 4" 602               Bypass check    Valve                                                  Gas line to boom - 4" 602
+                                                                                                           Valve       (valve #6)
+                                                                                                                       (valve #7)                                  Production Wing Valve (valve #3)                                                                        To Cementing
+                                                                                                   Unit
+                                                                                                                                                            Hydraulic Master Valve (valve #4)
+
+                                                                                                                                    Manual Master Valve (valve #5)
+                                                                                              Check Valve
+                                                                                                                          (valve #8)
+
+
+
+                                                                                                                          Hydraulic Control Line to
+                                                                                       DHSV
+                                                                                                                                      (valve #10)
+
+
+
+
+
+Page 30 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+A.7    Well Trajectories
+
+       Well SPD7-11 (Sagadril-2)
+       (As is from wellhead to bottom of 12 ¼” section. Extrapolated through 8.5” section)
+
+           Statoil,Slot #11                        SURVEY LISTING
+         SPD-7,Phase 6                          Wellbore: SPD7-11 Statoil modelling only
+         South Pars - Phase 6, 7 & 8,Persian Gulf           Wellpath: SPD7-11 Statoil modelling only
+                                                 Date Printed: 13-Sep-2005
+         Wellpath Report
+        =================
+       MD  Inc   Dir   TVD    Local   Local  Grid    Grid  Latitude Longitude North  East
+             --------------------------------------------------------------------------------------------------------------------
+           87.30  0.00   0.00   87.30    -2.85    -0.23 620169.85 2959047.11   N26 44 49.9202 E52 12 30.2718
+          128.00  0.40   2.60  128.00    -2.71    -0.23 620169.86 2959047.25   N26 44 49.9248 E52 12 30.2721
+          153.00  0.10  162.80  153.00    -2.64    -0.22 620169.87 2959047.32   N26 44 49.9269 E52 12 30.2725
+          183.00  1.90  178.60  182.99    -3.17    -0.20 620169.89 2959046.79   N26 44 49.9100 E52 12 30.2731
+          212.00  4.50  179.20  211.95    -4.78    -0.17 620169.92 2959045.18   N26 44 49.8574 E52 12 30.2735
+          241.00  7.00  181.50  240.80    -7.69    -0.20 620169.89 2959042.27   N26 44 49.7630 E52 12 30.2714
+          281.00  10.50  188.20  280.33   -13.73    -0.79 620169.31 2959036.23   N26 44 49.5668 E52 12 30.2482
+          310.00  12.30  193.10  308.76   -19.36    -1.86 620168.23 2959030.60   N26 44 49.3844 E52 12 30.2073
+          339.00  13.90  196.40  337.00   -25.71    -3.55 620166.54 2959024.26   N26 44 49.1786 E52 12 30.1442
+          368.00  16.40  194.10  364.99   -33.02    -5.53 620164.56 2959016.94   N26 44 48.9416 E52 12 30.0700
+          397.00  15.80  189.30  392.85   -40.89    -7.16 620162.93 2959009.08   N26 44 48.6865 E52 12 30.0081
+          426.00  16.40  183.80  420.72   -48.87    -8.07 620162.02 2959001.10   N26 44 48.4274 E52 12 29.9724
+          455.00  19.10  182.70  448.33   -57.70    -8.57 620161.53 2958992.27   N26 44 48.1408 E52 12 29.9515
+          484.00  18.70  183.10  475.77   -67.08    -9.04 620161.05 2958982.89   N26 44 47.8362 E52 12 29.9311
+          512.00  19.10  179.40  502.26   -76.14    -9.24 620160.86 2958973.83   N26 44 47.5418 E52 12 29.9209
+          532.00  19.80  175.30  521.12   -82.79    -8.93 620161.17 2958967.19   N26 44 47.3257 E52 12 29.9299
+          560.00  20.50  173.90  547.41   -92.39    -8.02 620162.08 2958957.59   N26 44 47.0135 E52 12 29.9596
+          589.00  19.10  174.10  574.69  -102.16    -6.99 620163.10 2958947.82   N26 44 46.6958 E52 12 29.9934
+          619.00  17.90  174.50  603.14  -111.63    -6.04 620164.05 2958938.35   N26 44 46.3877 E52 12 30.0244
+          637.00  17.40  177.00  620.29  -117.08    -5.63 620164.46 2958932.91   N26 44 46.2108 E52 12 30.0372
+          654.00  16.40  177.90  636.56  -122.01    -5.41 620164.68 2958927.97   N26 44 46.0504 E52 12 30.0435
+          674.00  16.70  179.20  655.73  -127.71    -5.27 620164.82 2958922.28   N26 44 45.8653 E52 12 30.0467
+          702.00  17.10  182.60  682.52  -135.84    -5.40 620164.69 2958914.15   N26 44 45.6010 E52 12 30.0392
+          731.00  17.50  184.20  710.21  -144.45    -5.91 620164.18 2958905.54   N26 44 45.3215 E52 12 30.0177
+          756.00  17.60  185.40  734.05  -151.96    -6.54 620163.55 2958898.03   N26 44 45.0777 E52 12 29.9923
+          785.00  18.80  186.50  761.60  -160.97    -7.49 620162.60 2958889.03   N26 44 44.7853 E52 12 29.9551
+          813.00  19.70  189.70  788.03  -170.10    -8.79 620161.30 2958879.89   N26 44 44.4889 E52 12 29.9047
+          837.00  20.80  190.80  810.55  -178.28   -10.27 620159.82 2958871.72   N26 44 44.2238 E52 12 29.8484
+          870.00  22.50  191.80  841.22  -190.22   -12.66 620157.43 2958859.79   N26 44 43.8368 E52 12 29.7578
+          900.00  23.70  192.60  868.81  -201.72   -15.15 620154.94 2958848.29   N26 44 43.4638 E52 12 29.6638
+          931.00  25.30  193.80  897.02  -214.23   -18.09 620152.00 2958835.77   N26 44 43.0581 E52 12 29.5531
+          960.00  25.80  193.50  923.18  -226.39   -21.04 620149.05 2958823.62   N26 44 42.6642 E52 12 29.4421
+          982.00  26.40  194.10  942.94  -235.79   -23.35 620146.74 2958814.23   N26 44 42.3595 E52 12 29.3554
+          1001.00  26.70  195.30  959.94  -244.00   -25.51 620144.59 2958806.01   N26 44 42.0933 E52 12 29.2745
+          1047.00  26.50  196.60  1001.07  -263.80   -31.16 620138.93 2958786.22   N26 44 41.4517 E52 12 29.0630
+          1077.00  26.90  197.00  1027.87  -276.71   -35.06 620135.04 2958773.31   N26 44 41.0336 E52 12 28.9175
+          1139.00  27.10  196.50  1083.11  -303.66   -43.17 620126.93 2958746.37   N26 44 40.1604 E52 12 28.6148
+
+Page 31 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+           Statoil,Slot #11                        SURVEY LISTING
+         SPD-7,Phase 6                          Wellbore: SPD7-11 Statoil modelling only
+         South Pars - Phase 6, 7 & 8,Persian Gulf           Wellpath: SPD7-11 Statoil modelling only
+                                                 Date Printed: 13-Sep-2005
+
+         Wellpath Report
+        =================
+       MD  Inc   Dir   TVD    Local   Local  Grid    Grid  Latitude Longitude North  East
+
+          1165.00  27.40  196.50  1106.23  -315.07   -46.55 620123.55 2958734.95   N26 44 39.7906 E52 12 28.4885
+          1195.00  27.40  195.80  1132.86  -328.34   -50.40 620119.71 2958721.70   N26 44 39.3610 E52 12 28.3450
+          1224.00  27.40  196.10  1158.61  -341.17   -54.06 620116.04 2958708.87   N26 44 38.9452 E52 12 28.2079
+          1254.00  27.40  196.00  1185.24  -354.44   -57.88 620112.22 2958695.60   N26 44 38.5153 E52 12 28.0652
+          1284.00  27.40  196.10  1211.88  -367.70   -61.70 620108.41 2958682.34   N26 44 38.0855 E52 12 27.9225
+          1312.00  28.00  195.50  1236.67  -380.23   -65.24 620104.87 2958669.82   N26 44 37.6797 E52 12 27.7900
+          1342.00  29.60  197.60  1262.96  -394.08   -69.36 620100.74 2958655.97   N26 44 37.2310 E52 12 27.6361
+          1371.00  30.10  197.60  1288.11  -407.83   -73.73 620096.38 2958642.22   N26 44 36.7853 E52 12 27.4734
+          1399.00  30.20  198.30  1312.32  -421.21   -78.06 620092.05 2958628.84   N26 44 36.3520 E52 12 27.3120
+          1429.00  30.50  199.60  1338.21  -435.55   -82.98 620087.12 2958614.51   N26 44 35.8878 E52 12 27.1289
+          1458.00  30.70  199.00  1363.17  -449.48   -87.86 620082.25 2958600.58   N26 44 35.4366 E52 12 26.9476
+          1485.00  30.70  199.20  1386.39  -462.51   -92.37 620077.74 2958587.55   N26 44 35.0148 E52 12 26.7799
+          1515.00  31.20  198.80  1412.12  -477.10   -97.40 620072.72 2958572.97   N26 44 34.5424 E52 12 26.5932
+          1544.00  31.10  198.70  1436.94  -491.30  -102.22 620067.90 2958558.77   N26 44 34.0824 E52 12 26.4138
+          1574.00  31.20  198.60  1462.61  -506.01  -107.18 620062.93 2958544.07   N26 44 33.6062 E52 12 26.2292
+          1604.00  30.20  198.60  1488.41  -520.52  -112.07 620058.05 2958529.55   N26 44 33.1361 E52 12 26.0474
+          1631.00  30.50  198.90  1511.70  -533.44  -116.45 620053.67 2958516.64   N26 44 32.7177 E52 12 25.8843
+          1671.00  30.50  198.60  1546.17  -552.66  -122.98 620047.14 2958497.42   N26 44 32.0952 E52 12 25.6416
+          1700.00  30.50  198.10  1571.16  -566.63  -127.61 620042.51 2958483.45   N26 44 31.6427 E52 12 25.4691
+          1729.00  31.00  198.00  1596.08  -580.73  -132.20 620037.92 2958469.36   N26 44 31.1861 E52 12 25.2981
+          1759.00  31.00  197.00  1621.80  -595.47  -136.85 620033.27 2958454.63   N26 44 30.7088 E52 12 25.1249
+          1787.00  32.90  198.80  1645.55  -609.56  -141.41 620028.71 2958440.53   N26 44 30.2522 E52 12 24.9551
+          1817.00  33.50  198.50  1670.66  -625.13  -146.66 620023.46 2958424.97   N26 44 29.7482 E52 12 24.7597
+          1846.00  33.90  197.50  1694.78  -640.43  -151.63 620018.49 2958409.67   N26 44 29.2526 E52 12 24.5745
+          1874.00  34.20  197.00  1717.98  -655.40  -156.28 620013.84 2958394.70   N26 44 28.7675 E52 12 24.4012
+          1903.00  34.70  196.20  1741.90  -671.12  -160.97 620009.16 2958378.99   N26 44 28.2582 E52 12 24.2262
+          1933.00  36.50  198.10  1766.29  -687.81  -166.12 620004.00 2958362.31   N26 44 27.7178 E52 12 24.0340
+          1962.00  37.10  198.30  1789.51  -704.31  -171.55 619998.58 2958345.81   N26 44 27.1833 E52 12 23.8320
+          1992.00  37.50  198.00  1813.37  -721.58  -177.21 619992.92 2958328.54   N26 44 26.6238 E52 12 23.6212
+          2021.00  37.90  196.80  1836.32  -738.51  -182.51 619987.62 2958311.62   N26 44 26.0757 E52 12 23.4235
+          2052.00  38.50  196.50  1860.68  -756.87  -188.01 619982.12 2958293.26   N26 44 25.4806 E52 12 23.2185
+          2080.00  40.00  198.60  1882.37  -773.76  -193.35 619976.78 2958276.37   N26 44 24.9336 E52 12 23.0192
+          2109.00  40.80  198.70  1904.45  -791.57  -199.36 619970.77 2958258.57   N26 44 24.3569 E52 12 22.7956
+          2132.00  41.50  198.70  1921.77  -805.90  -204.22 619965.92 2958244.23   N26 44 23.8926 E52 12 22.6151
+          2163.00  42.20  198.10  1944.86  -825.53  -210.74 619959.39 2958224.61   N26 44 23.2571 E52 12 22.3722
+          2192.00  42.00  198.40  1966.38  -843.99  -216.83 619953.31 2958206.15   N26 44 22.6590 E52 12 22.1456
+          2221.00  41.80  198.60  1987.96  -862.36  -222.98 619947.16 2958187.79   N26 44 22.0642 E52 12 21.9169
+          2250.00  41.40  198.80  2009.65  -880.60  -229.15 619940.99 2958169.56   N26 44 21.4736 E52 12 21.6873
+          2280.00  41.60  198.60  2032.12  -899.43  -235.52 619934.62 2958150.73   N26 44 20.8638 E52 12 21.4502
+          2309.00  41.60  198.20  2053.80  -917.70  -241.60 619928.54 2958132.47   N26 44 20.2721 E52 12 21.2241
+          2338.00  41.70  198.40  2075.47  -935.99  -247.65 619922.49 2958114.17   N26 44 19.6795 E52 12 20.9988
+          2368.00  41.50  198.30  2097.91  -954.90  -253.92 619916.22 2958095.27   N26 44 19.0672 E52 12 20.7655
+
+Page 32 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+            Statoil,Slot #11                        SURVEY LISTING
+         SPD-7,Phase 6                          Wellbore: SPD7-11 Statoil modelling only
+         South Pars - Phase 6, 7 & 8,Persian Gulf           Wellpath: SPD7-11 Statoil modelling only
+                                                 Date Printed: 13-Sep-2005
+         Wellpath Report
+        =================
+       MD  Inc   Dir   TVD    Local   Local  Grid    Grid  Latitude Longitude North  East
+          2396.00  41.30  198.50  2118.91  -972.47  -259.77 619910.38 2958077.71   N26 44 18.4982 E52 12 20.5480
+          2425.00  41.30  198.10  2140.70  -990.64  -265.78 619904.37 2958059.54   N26 44 17.9097 E52 12 20.3243
+          2454.00  41.50  198.10  2162.45  -1008.87  -271.74 619898.41 2958041.31   N26 44 17.3192 E52 12 20.1024
+          2484.00  41.70  198.00  2184.88  -1027.81  -277.91 619892.24 2958022.38   N26 44 16.7059 E52 12 19.8726
+          2513.00  42.00  198.00  2206.49  -1046.21  -283.89 619886.27 2958003.98   N26 44 16.1099 E52 12 19.6500
+          2542.00  42.20  197.50  2228.00  -1064.72  -289.81 619880.34 2957985.47   N26 44 15.5101 E52 12 19.4292
+          2572.00  42.50  197.40  2250.17  -1084.01  -295.87 619874.28 2957966.20   N26 44 14.8856 E52 12 19.2033
+          2601.00  42.60  197.20  2271.54  -1102.73  -301.70 619868.45 2957947.48   N26 44 14.2791 E52 12 18.9859
+          2630.00  42.90  197.20  2292.83  -1121.53  -307.53 619862.63 2957928.68   N26 44 13.6699 E52 12 18.7688
+          2660.00  43.00  197.10  2314.79  -1141.07  -313.55 619856.61 2957909.15   N26 44 13.0372 E52 12 18.5440
+          2689.00  43.20  197.10  2335.97  -1160.00  -319.38 619850.78 2957890.21   N26 44 12.4237 E52 12 18.3267
+          2719.00  43.30  196.60  2357.82  -1179.68  -325.34 619844.82 2957870.54   N26 44 11.7863 E52 12 18.1044
+          2747.00  43.60  196.90  2378.15  -1198.12  -330.89 619839.28 2957852.11   N26 44 11.1890 E52 12 17.8973
+          2777.00  43.80  196.60  2399.83  -1217.96  -336.86 619833.30 2957832.27   N26 44 10.5460 E52 12 17.6744
+          2805.00  44.10  196.50  2419.99  -1236.59  -342.40 619827.77 2957813.64   N26 44 9.9425 E52 12 17.4677
+          2834.00  44.20  196.80  2440.80  -1255.94  -348.18 619821.98 2957794.29   N26 44 9.3155 E52 12 17.2517
+          2910.00  43.70  197.10  2495.52  -1306.40  -363.56 619806.61 2957743.85   N26 44 7.6810 E52 12 16.6780
+          2939.00  43.80  197.20  2516.47  -1325.56  -369.48 619800.70 2957724.69   N26 44 7.0603 E52 12 16.4575
+          2967.00  43.70  197.30  2536.69  -1344.05  -375.22 619794.96 2957706.21   N26 44 6.4613 E52 12 16.2434
+          2995.00  43.90  196.90  2556.90  -1362.58  -380.92 619789.26 2957687.69   N26 44 5.8612 E52 12 16.0309
+          3022.00  43.90  197.20  2576.36  -1380.47  -386.40 619783.77 2957669.79   N26 44 5.2814 E52 12 15.8261
+          3040.00  44.00  197.00  2589.31  -1392.42  -390.08 619780.10 2957657.85   N26 44 4.8946 E52 12 15.6891
+          3069.00  43.80  197.00  2610.21  -1411.65  -395.96 619774.22 2957638.63   N26 44 4.2716 E52 12 15.4698
+          3144.00  43.50  197.00  2664.48  -1461.15  -411.09 619759.09 2957589.13   N26 44 2.6679 E52 12 14.9052
+          3170.00  43.40  197.00  2683.35  -1478.25  -416.32 619753.86 2957572.04   N26 44 2.1139 E52 12 14.7102
+          3200.00  44.00  197.00  2705.04  -1498.07  -422.38 619747.80 2957552.22   N26 44 1.4718 E52 12 14.4842
+          3230.00  44.60  197.00  2726.51  -1518.11  -428.51 619741.68 2957532.19   N26 44 0.8227 E52 12 14.2557
+          3260.00  45.20  197.00  2747.76  -1538.36  -434.70 619735.49 2957511.94   N26 44 0.1667 E52 12 14.0248
+          3290.00  45.80  197.00  2768.79  -1558.82  -440.95 619729.23 2957491.48   N26 43 59.5038 E52 12 13.7914
+          3320.00  46.40  197.00  2789.59  -1579.49  -447.27 619722.92 2957470.82   N26 43 58.8341 E52 12 13.5557
+          3350.00  47.00  197.00  2810.17  -1600.37  -453.66 619716.53 2957449.94   N26 43 58.1578 E52 12 13.3176
+          3380.00  47.60  197.00  2830.51  -1621.46  -460.10 619710.09 2957428.86   N26 43 57.4747 E52 12 13.0771
+          3410.00  48.20  197.00  2850.62  -1642.74  -466.61 619703.58 2957407.58   N26 43 56.7851 E52 12 12.8344
+          3440.00  48.80  197.00  2870.50  -1664.23  -473.18 619697.02 2957386.10   N26 43 56.0891 E52 12 12.5893
+          3470.00  49.40  197.00  2890.14  -1685.92  -479.81 619690.39 2957364.42   N26 43 55.3866 E52 12 12.3420
+          3500.00  50.00  197.00  2909.55  -1707.80  -486.50 619683.70 2957342.54   N26 43 54.6778 E52 12 12.0925
+          3530.00  50.60  197.00  2928.71  -1729.87  -493.25 619676.95 2957320.48   N26 43 53.9627 E52 12 11.8408
+          3560.00  51.20  197.00  2947.63  -1752.13  -500.05 619670.15 2957298.22   N26 43 53.2415 E52 12 11.5869
+          3590.00  51.80  197.00  2966.31  -1774.59  -506.92 619663.28 2957275.77   N26 43 52.5141 E52 12 11.3309
+          3620.00  52.40  197.00  2984.74  -1797.22  -513.84 619656.36 2957253.14   N26 43 51.7807 E52 12 11.0727
+          3650.00  53.00  197.00  3002.92  -1820.04  -520.82 619649.39 2957230.32   N26 43 51.0414 E52 12 10.8125
+          3680.00  53.60  197.00  3020.84  -1843.05  -527.85 619642.36 2957207.32   N26 43 50.2963 E52 12 10.5502
+          3710.00  54.20  197.00  3038.52  -1866.23  -534.94 619635.27 2957184.15   N26 43 49.5453 E52 12 10.2858
+          3729.20  54.58  197.00  3049.70  -1881.16  -539.50 619630.71 2957169.22   N26 43 49.0617 E52 12 10.1156
+
+Page 33 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+       Well SPD7-11 (Sagadril-2)
+        (“As is” from wellhead to bottom of 12 ¼” section. Extrapolated through 8.5” section
+
+           Statoil,Slot #11                        SURVEY LISTING    SPD-9,
+          Wellbore: SPD9-11 Statoil modelling only
+         South Pars - Phase 6, 7 & 8,Persian Gulf           Wellpath: SPD9-11 Statoil modelling only
+                                                 Date Printed: 13-Sep-2005
+
+         Wellpath Report
+        =================
+       MD  Inc   Dir   TVD    Local   Local  Grid    Grid    Latitude   Longitude  North  East
+             --------------------------------------------------------------------------------------------------------------------
+           24.90  0.00   0.00   24.90    -2.85    -0.24 634963.42 2946497.25   N26 37 57.2731 E52 21 20.8716
+           94.40  0.00   0.00   94.40    -2.85    -0.24 634963.42 2946497.25   N26 37 57.2731 E52 21 20.8716
+          146.00  0.40  29.20  146.00    -2.69    -0.15 634963.51 2946497.41   N26 37 57.2782 E52 21 20.8748
+          183.00  0.40  149.60  183.00    -2.69    -0.02 634963.64 2946497.41   N26 37 57.2782 E52 21 20.8795
+          211.00  2.00  193.40  210.99    -3.25    -0.08 634963.58 2946496.85   N26 37 57.2600 E52 21 20.8770
+          239.00  3.40  197.90  238.96    -4.52    -0.45 634963.21 2946495.58   N26 37 57.2190 E52 21 20.8631
+          268.00  5.00  196.60  267.88    -6.55    -1.08 634962.58 2946493.55   N26 37 57.1533 E52 21 20.8398
+          303.00  6.40  202.50  302.71    -9.81    -2.26 634961.40 2946490.29   N26 37 57.0476 E52 21 20.7958
+          332.00  8.40  201.70  331.46   -13.27    -3.66 634960.00 2946486.83   N26 37 56.9357 E52 21 20.7438
+          359.00  10.10  199.10  358.11   -17.34    -5.17 634958.50 2946482.76   N26 37 56.8040 E52 21 20.6878
+          388.00  11.80  201.90  386.58   -22.50    -7.10 634956.56 2946477.61   N26 37 56.6372 E52 21 20.6158
+          415.00  13.50  201.90  412.93   -27.98    -9.31 634954.35 2946472.12   N26 37 56.4597 E52 21 20.5340
+          444.00  14.50  203.80  441.07   -34.45   -12.04 634951.63 2946465.66   N26 37 56.2507 E52 21 20.4329
+          472.00  15.90  202.70  468.09   -41.19   -14.93 634948.73 2946458.91   N26 37 56.0325 E52 21 20.3256
+          499.00  16.70  203.10  494.00   -48.17   -17.88 634945.78 2946451.94   N26 37 55.8067 E52 21 20.2164
+          528.00  18.60  202.80  521.63   -56.27   -21.31 634942.36 2946443.84   N26 37 55.5448 E52 21 20.0894
+          540.00  18.30  204.50  533.02   -59.75   -22.83 634940.83 2946440.36   N26 37 55.4323 E52 21 20.0330
+          567.00  17.40  206.90  558.72   -67.21   -26.42 634937.25 2946432.91   N26 37 55.1913 E52 21 19.9005
+          595.00  16.80  208.90  585.48   -74.48   -30.27 634933.40 2946425.63   N26 37 54.9562 E52 21 19.7586
+          625.00  17.70  211.70  614.13   -82.16   -34.76 634928.91 2946417.96   N26 37 54.7084 E52 21 19.5932
+          653.00  18.00  216.20  640.78   -89.27   -39.55 634924.12 2946410.84   N26 37 54.4789 E52 21 19.4173
+          680.00  18.60  219.90  666.42   -95.94   -44.78 634918.89 2946404.18   N26 37 54.2640 E52 21 19.2258
+          707.00  19.10  222.60  691.97  -102.50   -50.53 634913.14 2946397.62   N26 37 54.0530 E52 21 19.0154
+          736.00  19.40  223.50  719.35  -109.48   -57.06 634906.62 2946390.64   N26 37 53.8283 E52 21 18.7767
+          763.00  20.00  226.80  744.77  -115.90   -63.51 634900.16 2946384.22   N26 37 53.6222 E52 21 18.5410
+          792.00  21.20  227.70  771.92  -122.82   -71.00 634892.67 2946377.30   N26 37 53.3998 E52 21 18.2675
+          820.00  22.40  230.40  797.91  -129.63   -78.86 634884.82 2946370.49   N26 37 53.1813 E52 21 17.9809
+          848.00  24.00  232.60  823.65  -136.49   -87.49 634876.18 2946363.64   N26 37 52.9614 E52 21 17.6661
+          876.00  25.70  233.00  849.06  -143.60   -96.86 634866.81 2946356.52   N26 37 52.7335 E52 21 17.3245
+          932.00  28.60  238.70  898.89  -157.88  -118.02 634845.66 2946342.25   N26 37 52.2770 E52 21 16.5542
+          1124.00  37.20  247.50  1060.04  -204.08  -211.14 634752.56 2946296.06   N26 37 50.8081 E52 21 13.1703
+          1154.00  37.20  247.10  1083.93  -211.08  -227.87 634735.83 2946289.06   N26 37 50.5864 E52 21 12.5628
+          1233.00  37.80  236.90  1146.67  -233.61  -270.20 634693.51 2946266.53   N26 37 49.8688 E52 21 11.0242
+          1261.00  37.30  234.80  1168.87  -243.19  -284.32 634679.39 2946256.95   N26 37 49.5625 E52 21 10.5101
+          1292.00  35.20  230.20  1193.87  -254.33  -298.86 634664.85 2946245.82   N26 37 49.2057 E52 21 9.9801
+          1321.00  33.90  228.10  1217.76  -265.08  -311.30 634652.41 2946235.07   N26 37 48.8607 E52 21 9.5262
+          1349.00  33.70  228.50  1241.03  -275.44  -322.93 634640.78 2946224.71   N26 37 48.5280 E52 21 9.1018
+
+Page 34 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+           Statoil,Slot #11                        SURVEY LISTING    SPD-9,
+          Wellbore: SPD9-11 Statoil modelling only
+         South Pars - Phase 6, 7 & 8,Persian Gulf           Wellpath: SPD9-11 Statoil modelling only
+                                                 Date Printed: 13-Sep-2005
+
+         Wellpath Report
+        =================
+       MD  Inc   Dir   TVD    Local   Local  Grid    Grid    Latitude   Longitude  North  East
+             --------------------------------------------------------------------------------------------------------------------
+
+          1375.00  33.60  228.10  1262.67  -285.02  -333.69 634630.03 2946215.13   N26 37 48.2203 E52 21 8.7093
+          1403.00  33.70  227.40  1285.98  -295.46  -345.17 634618.55 2946204.70   N26 37 47.8854 E52 21 8.2902
+          1431.00  33.70  227.80  1309.27  -305.93  -356.65 634607.08 2946194.22   N26 37 47.5489 E52 21 7.8714
+          1460.00  33.50  228.40  1333.43  -316.65  -368.59 634595.13 2946183.51   N26 37 47.2048 E52 21 7.4356
+          1487.00  33.40  228.20  1355.95  -326.55  -379.70 634584.02 2946173.61   N26 37 46.8870 E52 21 7.0301
+          1542.00  33.60  227.60  1401.82  -346.90  -402.23 634561.50 2946153.26   N26 37 46.2335 E52 21 6.2081
+          1570.00  33.40  227.70  1425.17  -357.31  -413.65 634550.08 2946142.85   N26 37 45.8992 E52 21 5.7913
+          1598.00  33.20  227.70  1448.57  -367.66  -425.02 634538.72 2946132.51   N26 37 45.5670 E52 21 5.3763
+          1628.00  32.90  227.90  1473.71  -378.65  -437.14 634526.60 2946121.52   N26 37 45.2141 E52 21 4.9339
+          1656.00  32.90  228.20  1497.22  -388.82  -448.45 634515.29 2946111.35   N26 37 44.8877 E52 21 4.5212
+          1684.00  32.80  228.40  1520.75  -398.92  -459.79 634503.95 2946101.25   N26 37 44.5633 E52 21 4.1074
+          1712.00  32.70  227.80  1544.30  -409.04  -471.06 634492.68 2946091.14   N26 37 44.2385 E52 21 3.6960
+          1740.00  32.60  227.70  1567.87  -419.19  -482.25 634481.50 2946080.98   N26 37 43.9124 E52 21 3.2879
+          1768.00  32.60  227.60  1591.46  -429.35  -493.39 634470.35 2946070.82   N26 37 43.5860 E52 21 2.8810
+          1796.00  32.60  227.60  1615.05  -439.53  -504.54 634459.21 2946060.65   N26 37 43.2594 E52 21 2.4744
+          1873.00  32.50  227.30  1679.95  -467.54  -535.05 634428.70 2946032.64   N26 37 42.3596 E52 21 1.3604
+          1893.00  32.40  227.50  1696.83  -474.81  -542.95 634420.80 2946025.38   N26 37 42.1264 E52 21 1.0721
+          1921.00  32.50  227.10  1720.46  -484.99  -554.00 634409.76 2946015.19   N26 37 41.7991 E52 21 0.6691
+          1951.00  33.10  227.00  1745.68  -496.07  -565.89 634397.87 2946004.12   N26 37 41.4435 E52 21 0.2349
+          2033.00  34.50  226.90  1813.82  -527.21  -599.22 634364.54 2945972.99   N26 37 40.4432 E52 20 59.0180
+          2062.00  34.70  225.70  1837.69  -538.58  -611.13 634352.64 2945961.61   N26 37 40.0777 E52 20 58.5834
+          2090.00  35.60  226.20  1860.58  -549.79  -622.71 634341.05 2945950.41   N26 37 39.7175 E52 20 58.1602
+          2147.00  36.50  225.60  1906.67  -573.13  -646.80 634316.97 2945927.07   N26 37 38.9673 E52 20 57.2806
+          2175.00  36.50  225.20  1929.17  -584.83  -658.66 634305.12 2945915.37   N26 37 38.5915 E52 20 56.8475
+          2231.00  37.30  224.70  1973.95  -608.63  -682.41 634281.37 2945891.58   N26 37 37.8265 E52 20 55.9798
+          2259.00  37.60  224.60  1996.18  -620.74  -694.38 634269.40 2945879.47   N26 37 37.4370 E52 20 55.5426
+          2287.00  38.20  224.20  2018.28  -633.03  -706.41 634257.37 2945867.18   N26 37 37.0419 E52 20 55.1029
+          2315.00  38.40  223.80  2040.25  -645.51  -718.47 634245.32 2945854.70   N26 37 36.6405 E52 20 54.6624
+          2343.00  38.70  223.80  2062.15  -658.11  -730.54 634233.24 2945842.11   N26 37 36.2354 E52 20 54.2210
+          2400.00  39.30  223.60  2106.45  -684.04  -755.33 634208.47 2945816.18   N26 37 35.4013 E52 20 53.3153
+          2456.00  39.30  223.30  2149.78  -709.79  -779.72 634184.08 2945790.44   N26 37 34.5731 E52 20 52.4237
+          2538.00  38.30  223.20  2213.69  -747.21  -814.93 634148.88 2945753.02   N26 37 33.3693 E52 20 51.1368
+          2567.00  37.90  223.50  2236.51  -760.23  -827.21 634136.60 2945740.01   N26 37 32.9507 E52 20 50.6879
+          2596.00  37.90  223.80  2259.39  -773.12  -839.51 634124.30 2945727.12   N26 37 32.5362 E52 20 50.2385
+          2624.00  38.40  223.80  2281.41  -785.60  -851.48 634112.33 2945714.64   N26 37 32.1347 E52 20 49.8010
+          2654.00  38.00  223.80  2304.99  -798.99  -864.32 634099.49 2945701.25   N26 37 31.7040 E52 20 49.3317
+          2682.00  37.80  223.80  2327.08  -811.40  -876.22 634087.59 2945688.84   N26 37 31.3048 E52 20 48.8966
+          2712.00  38.00  223.90  2350.75  -824.69  -888.99 634074.83 2945675.55   N26 37 30.8774 E52 20 48.4301
+          2740.00  37.70  224.00  2372.86  -837.06  -900.91 634062.90 2945663.18   N26 37 30.4796 E52 20 47.9944
+          2795.00  37.00  223.65  2416.58  -861.13  -924.02 634039.80 2945639.12   N26 37 29.7054 E52 20 47.1500
+          2823.00  37.00  224.00  2438.95  -873.29  -935.69 634028.14 2945626.96   N26 37 29.3144 E52 20 46.7236
+
+Page 35 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+           Statoil,Slot #11                        SURVEY LISTING    SPD-9,
+          Wellbore: SPD9-11 Statoil modelling only
+         South Pars - Phase 6, 7 & 8,Persian Gulf           Wellpath: SPD9-11 Statoil modelling only
+                                                 Date Printed: 13-Sep-2005
+
+         Wellpath Report
+        =================
+       MD  Inc   Dir   TVD    Local   Local  Grid    Grid    Latitude   Longitude  North  East
+             --------------------------------------------------------------------------------------------------------------------
+          2851.00  36.60  224.60  2461.37  -885.30  -947.40 634016.42 2945614.96   N26 37 28.9284 E52 20 46.2956
+          2879.00  36.00  224.50  2483.93  -897.11  -959.03 634004.80 2945603.15   N26 37 28.5486 E52 20 45.8707
+          2907.00  35.80  224.40  2506.61  -908.83  -970.53 633993.30 2945591.43   N26 37 28.1718 E52 20 45.4506
+          2935.00  35.50  224.60  2529.37  -920.47  -981.97 633981.87 2945579.79   N26 37 27.7975 E52 20 45.0327
+          2964.00  35.70  224.60  2552.95  -932.49  -993.82 633970.01 2945567.77   N26 37 27.4110 E52 20 44.5997
+          2982.00  35.70  224.60  2567.56  -939.97  -1001.20 633962.64 2945560.30   N26 37 27.1706 E52 20 44.3302
+          3038.00  35.10  223.90  2613.21  -963.20  -1023.83 633940.01 2945537.07   N26 37 26.4234 E52 20 43.5031
+          3066.00  35.00  224.40  2636.13  -974.74  -1035.03 633928.81 2945525.53   N26 37 26.0524 E52 20 43.0939
+          3094.00  34.80  224.40  2659.10  -986.19  -1046.24 633917.60 2945514.09   N26 37 25.6843 E52 20 42.6844
+          3122.00  35.00  224.30  2682.06  -997.64  -1057.44 633906.41 2945502.63   N26 37 25.3160 E52 20 42.2752
+          3151.00  34.60  223.90  2705.88  -1009.53  -1068.96 633894.89 2945490.75   N26 37 24.9338 E52 20 41.8544
+          3188.00  34.30  224.70  2736.39  -1024.51  -1083.58 633880.28 2945475.77   N26 37 24.4521 E52 20 41.3203
+          3243.00  34.50  224.20  2781.77  -1046.69  -1105.33 633858.52 2945453.59   N26 37 23.7388 E52 20 40.5253
+          3266.00  34.50  222.20  2800.72  -1056.18  -1114.25 633849.60 2945444.10   N26 37 23.4334 E52 20 40.1994
+          3296.00  35.10  222.20  2825.36  -1068.87  -1125.75 633838.11 2945431.42   N26 37 23.0252 E52 20 39.7788
+          3326.00  35.70  222.20  2849.81  -1081.74  -1137.43 633826.43 2945418.55   N26 37 22.6110 E52 20 39.3520
+         3356.00  36.30  222.20  2874.08  -1094.81  -1149.27 633814.59 2945405.49   N26 37 22.1906 E52 20 38.9189
+          3386.00  36.90  222.20  2898.17  -1108.06  -1161.29 633802.58 2945392.24   N26 37 21.7642 E52 20 38.4795
+          3416.00  37.50  222.20  2922.06  -1121.49  -1173.47 633790.40 2945378.80   N26 37 21.3318 E52 20 38.0340
+          3446.00  38.10  222.20  2945.77  -1135.11  -1185.82 633778.05 2945365.19   N26 37 20.8935 E52 20 37.5824
+          3476.00  38.70  222.20  2969.28  -1148.92  -1198.34 633765.53 2945351.38   N26 37 20.4493 E52 20 37.1247
+          3506.00  39.30  222.20  2992.59  -1162.90  -1211.02 633752.85 2945337.40   N26 37 19.9992 E52 20 36.6610
+          3536.00  39.90  222.20  3015.71  -1177.07  -1223.86 633740.01 2945323.24   N26 37 19.5433 E52 20 36.1913
+          3566.00  40.50  222.20  3038.62  -1191.42  -1236.87 633727.01 2945308.89   N26 37 19.0817 E52 20 35.7157
+          3596.00  41.10  222.20  3061.33  -1205.94  -1250.04 633713.84 2945294.37   N26 37 18.6144 E52 20 35.2342
+          3626.00  41.70  222.20  3083.83  -1220.63  -1263.36 633700.52 2945279.68   N26 37 18.1415 E52 20 34.7469
+          3656.00  42.30  222.20  3106.13  -1235.50  -1276.85 633687.04 2945264.81   N26 37 17.6629 E52 20 34.2539
+          3686.00  42.90  222.20  3128.21  -1250.55  -1290.49 633673.40 2945249.77   N26 37 17.1789 E52 20 33.7551
+          3688.44  42.95  222.20  3130.00  -1251.78  -1291.61 633672.28 2945248.54   N26 37 17.1392 E52 20 33.7142
+
+
+
+
+
+Page 36 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+
+
+                                All data is in Metres unless otherwise stated
+             Coordinates are from Installation and TVD's are from Rig ( Rani Woro (Post-spud) 24.9m above Mean Sea Level )
+                            Reference MD's are from Rig, Offset MD's are from Rig
+                             Vertical Section is from 2.85S 0.24W on azimuth 225.96 degrees
+                   Bottom hole distance is 1796.51 Metres on azimuth 225.96 degrees from Wellhead
+                                Calculation method uses Minimum Curvature method
+                              Confidence Limit of 95.00% Casings Included
+                                 Prepared by Baker Hughes Incorporated
+
+
+
+
+
+Page 37 of 38
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 38 ]
+────────────────────────────────────────────
+                                            Doc. no.
+          Petropars Ltd.                    SP-WELLS-2005-053
+                                           Date                   Rev. no.0
+Individual Well Program - Completion                                                   19.03.2007
+
+Wells SPD6-11 & SPD9-11
+South Pars
+
+
+
+
+
+A.8    References & Documentations
+
+
+1.   AR003 – Drilling, Well and Production activities
+2.   AR012 - Anleggsdrift, vedlikehold og modifikasjoner
+3.   WR0221 – Overlevering av brønner
+4.   WR0256 – Lekkasjetesting av brønnutstyr
+5.   WR0436 – Drilling and Completion Operations
+6.   WR0442 – Work process for Drilling & Well Operations
+7.   WR0444 – The tubing Design Selection and Installation Process
+8.   WR0460 – Safety Operating Practice for well fluids containing H2S
+9.   WR0530 – Well control – well interventions
+10.  WR0534 – Requirements to downhole well equipment
+11.  WR0536 – Requirements to well fluids and related equipment
+12.  SP-WELLS-2003-010 – South Pars Main Completion Program
+
+
+
+
+
+Page 38 of 38
+
+

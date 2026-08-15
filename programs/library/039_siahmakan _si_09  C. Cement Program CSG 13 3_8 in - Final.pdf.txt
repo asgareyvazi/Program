@@ -1,0 +1,409 @@
+# SOURCE: siahmakan #si_09  C. Cement Program CSG 13 3_8 in - Final.pdf
+
+📄 فایل 39 از 214  |  siahmakan #si_09  C. Cement Program CSG 13 3_8 in - Final.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         13 3/8" Casing Cement Job
+                                Well: 207 OEOC
+                                    Rig: SI-09
+                                       Final
+
+                                         Sarvak Kish
+                                 Eng. & Drilling Services Company
+
+Prepared by: H. Sabooei
+
+Date: 2023/01/31
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+                            Table of Contents
+      1.     CEMENTING JOB DESIGN AND CALCULATION ...................................................... 3
+      2.      Job Procedure ........................................................................................................................ 5
+      3.      Lab Result (Lead) ................................................................................................................. 7
+      4.      Lab Graph (Lead) ................................................................................................................. 8
+      5.      Lab Result (Tail) ................................................................................................................... 9
+      6.      Lab Graph (Tail) ................................................................................................................. 10
+
+                                                                              pg. 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+    1. CEMENTING JOB DESIGN AND CALCULATION
+                                        CEMENTING JOB DESIGN AND CALCULATIONS
+
+                                                                Client         PECO                                Rig Name      207 OEOC                                Job Type           13 3/8" Casing
+                                                              Field            Siah makan                           Well Name           SI-09                              Design Date          30-Jan-23
+                                                                JOB VOLUMES
+
+                                                     Returns
+                                                0 m                                                   Previous Casing
+                                                                    OD                       ID
+                                                                                                        20.000                  18.730
+
+                                                                                New Casing
+                                                                                             Weight (ppf)  OD (in)        ID (in)      Length (m)
+                                                                                           72      13 3/8       12.347        1730
+                                                                                                                      88.2      13 5/8       12.375        455
+                                                      20" Shoe
+                                                149 m                                           Open Hole
+                                                                                                                            17.5
+
+                                                                                                     Excess
+                                                                                               O.H. Tail    O.H. Lead        Cased Hole
+                                                                               100%     90%           20%
+
+                                                                                                    Volumes
+                                    TOC Tail                                  Lead Slurry with excess          1,504 bbl
+                                                     1,985 m                                               Tail Slurry with excess            153.8 bbl
+                                                          Float Collar                                 Lead Slurry                    821 bbl
+                                                     2,161 m                                               Tail Slurry                     77 bbl
+                                             13 5/8" Shoe                                  Displacement                   1,051 bbl
+                                                     2,185 m                                Shoe Track                         11.7
+
+        NOTE: Displacement volume must be calculated due to last casing tally on rig.
+
+                                                                 SLURRY DESIGN
+
+                   LEAD CEMENT SLURRY
+
+                           Material                 Conc.         UOM             Qty for Job*                             Slurry Parameters
+            Class "G" DELIGAN                       110                   lb/sk              4,564 sx                                                    8,442 cu ft
+                                                                                                                                         Slurry Volume
+              Bentonite                                  5.50                   lb/sk            25,100 lb                                                     1,504 bbl
+             Retarder Retro 120A HT                     0.17                   lb/sk              776 lb                        Slurry Density                   105 pcf
+            Dispersant-TURBO1-B                     0.220                  lb/sk              1,004 lb                        Slurry Yield                       1.85 cu ft/sk
+               Anti foam                                 0.030                 gal/bbl             137 gal                    Mix Water                           9.4 gal/sk
+                                                                                                                          Mix Fluid                          9.72 gal/sk
+
+                                                                                                               Mix Water              1,021 bbl
+                       * No excess's for losses, dead volumes, etc                                                             Mix Fluid              1,056 bbl
+            **The reason for using HT is the low consumption compared to LT
+
+                       TAIL CEMENT SLURRY
+
+                           Material                 Conc.         UOM             Qty for Job*                             Slurry Parameters
+            Class "G" delijan                          110                   lb/sk              683 sx                                                929 cu ft
+                                                                                                                                          Slurry Volume
+         OR12 HT                                  0.06                   lb/sk               41 lb                                                 165 bbl
+          FLC ( ACF-LT701 )                         0.440                  lb/sk              301 lb                         Slurry Density                  118 pcf
+             Dispersant TURBO-1-B                     1.10                   lb/sk              751 lb                         Slurry Yield                      1.36 cu ft/sk
+             Antifoam                                  0.030                 gal/sk              20 gal                      Mix Water                       5.86 gal/sk
+                                                                                                                            Mix Fluid                        6.04 gal/sk
+
+                                                                                                               Mix Water               95 bbl
+                                                                                                               Mix Fluid               98 bbl
+
+                * No excess's for losses, dead volumes,No excess's for losses, dead volumes, etc
+                                                                  TEMPERATURE
+
+                                                       Temperature Gradient                               ºF/100ft
+                                                    BHST                        183         ºF
+                                                   BHCT                       137         ºF
+
+                                                                              pg. 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+                                                          MUD REMOVAL
+
+                           Chemical Wash
+
+                                                      Material        Conc.    UOM      Qty for Job
+                                               Fresh Water          42          gal/bbl    40    bbl                CW Volume              40 bbl
+                                              Chemical wash        1          gal/bbl    40    gal                CW Density             62.40 pcf
+
+                              Spacer
+
+                                                      Material        Conc.    UOM      Qty for Job
+                                               Fresh Water          32          gal/bbl   76.2     BBL                  Spacer Volume            100 bbl
+                                    XC polymer             0.5           lb/bbl    50           lb                   Spacer Density          102.00 pcf
+                                   SPACER             5            lb/bbl    500          lb
+                                                    Solvent               1          gal/bbl   100        gal
+                                                     Surfactant              0.5         gal/bbl    50         gal
+                                                           Anti Foam             0.05         gal/bbl    5          gal
+                                                        Barite               290          lb/bbl   29000         lb
+
+                                                                PUMPING SCHEDULE
+
+                                                                            Volume    Rate               Job Time
+                               DESCRIPTION                                          Pump
+                                                                                                           (bbls)     (bpm)                     (min)
+             chemical wash                                                           40        4        Rig         10
+            Spacer                                                                 100       6         Rig          16.7
+             Mix & Pump Lead Cement Slurry                                                 1,504      10     CMT        150                 TICKENING TIME
+             Mix & Pump Tail Cement Slurry                                              165       6      CMT         28                             (hr:min)
+            Drop Top Plug                                                                                          10                   Lead (35Bc)     06:54
+            Displacement 1                                                                  1,011      15       RIG         67                   Lead (70Bc)     07:01
+            Displacement 2                                                          40        3       RIG         13                          Tail  (35Bc)     04:12
+                                                                                                                                                                                            Tail  (70Bc)     04:16
+
+                                                                                           Total Job Time (min)              295
+                                                                             Cementing Time Lead (min)        269
+                                                                             Cementing Time Tail (min)          118
+
+                                                                 MATERIAL REQUIREMENTS
+
+                           Material                  Qty       UOM       Qty  UOM                    Estimated Dead Volume
+
+              Cement G DELIJAN(Lead)
+                                                      228.2         Mton                                  Lead            100 bbl
+                    without Dead Volume
+
+                            Bentonite                    12.5           Mton           MT                       Tail             40 bbl
+
+                    Retarder Retro 120A HT            852                  lb          15.5     sk
+
+                   Dispersant-TURBO1-B             1102                 lb         20     sk
+                    ANTIFOAM                 150               gal         30     can
+
+               Cement G DELIJAN(Tail)
+                                                        34.2         Mton
+                    without Dead Volume
+
+                    OR12 HT                    58.2                 lb         1      sk
+                 FLC ( ACF-LT701 )               426.7                 lb         8     SK
+                    Dispersant TURBO-1-B             1,066.8               lb         19      sk
+                           Antifoam                     29.1               gal         6     can
+
+                                                                                             Dead Volume Factor
+                                                                                                     Lead               1.10
+                                                                                                                                             Tail               1.42
+
+                                                                              pg. 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+    2. Job Procedure
+                                               J ob Procedure
+
+                                                 Pre Job Procedure
+
+       1-Clean up tanks (pump truck's tanks) and preparing chemicals for mixing fluid.
+
+       2-Perform pressure test cement line to 500 psi for 5 minutes and the slowly increase the pressure to 3000 psi and hold for 5
+       minutes. Then release the pressure to the pump trucks.
+
+        3- Flush Cement silos hoses, mud pits and pump trucks unit lines properly.
+
+        4- Check the rig mud balance with fresh water and make sure it’s calibrated.
+
+        5- Prepare pit management design and Hold Pre job safety meeting with involved personnel and arrange with mud engineer to
+      measure mud & cement loss/gain during cement job.
+
+                                               Job Procedure
+
+       1-Prepare spacer and slurry mix fluid in mud tanks..
+
+          2-Fill tanks with Drill water due to dead volume tanks for mixing fluids.
+
+        3- start mixing cement additives and preparing mixing fluids as per company man"s instruction in following steps:
+
+         * Spacer Mixing procedure:
+          • Add Fresh Water to Mud tank.(without dead volume we need 76.2 bbl)Fresh Water
+          • Add XC Polymer to fresh water and allow mixing for 15 minutes.
+          • Add Spacer to fresh water and allow mixing for 15 minutes.
+          • Add Solvent to fresh water and allow mixing for 5 minutes.
+          • Add Surfactant to fresh water and allow mixing for 5 minutes.
+          • Add Anti Foam to fresh water and allow mixing for 5 minutes.
+          • Add Barite to fresh water and allow mixing for 5 minutes.
+
+         * Cement Solution mixing procedure:
+       Lead cement mixing procedure:
+           • Add Drill Water to Mud tank.(without dead volume we need 1021 bbl) Drill Water
+           • Add Antifoam to fresh water and allow mixing for 5 minutes .
+           • Add Bentonit and allow mixing for 45 minutes .
+           • Add Retro120A HT and allow mixing for 15 minutes .
+           • Add Turbo-1B and allow mixing for 15 minutes .
+
+         Tail cement mixing procedure:
+          • Add Drill Water to Mud tank.(without dead volume we need 95 bbl) Drill Water
+          • Add Antifoam to fresh water and allow mixing for 5 minutes.
+          • . Add O-R12 HT and allow mixing for 15 minutes
+          • . Add FLC LT and allow mixing for 15 minutes
+          • . Add Turbo-1B and allow mixing for 15 minutes
+
+                                                                              pg. 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+        4- Before running casing, check cement head specially plunger of released cement plug and put the top plug.
+
+        5- After running Casing, install circulating swage, start circulation at least 1.5 casing cap volume.
+
+        6- -Stop circulation, connect 13 3/8" cement head and cement line.
+
+      7-pump 40 bbl CHEMICAL WASH with 4 bpm with mud pump .
+
+      8-pump 100 bbl SPACER with 6 bpm with mud pump .
+
+       9-Mix and pump 1504 bbl lead cement slurry ( 105 pcf – pump rate :10 bpm)
+
+       10- Mix and pump 165 bbl tail cement slurry.( 118 pcf- pump rate : 6 bpm)
+
+        11- Switch to mud pump and start displacement with mud . Displace cement with 1011 bbl mud with 15 bpm rate and 40 bbl
+        with 3 bpm , in case of not observing Bumping pressure, pump additional displacement liquid (mud) (25% Shoe track volume).
+
+       12- Rig Down cement lines.
+      13 - End of job.
+
+                                                   Caution and Notes
+
+        1- Put slurry cement samples in water bath .Retain 2.5 gallon of mixing fluid from the tanks and 5 kg of the G cement used in
+       the job.
+
+        2- Actual displacement volume shall be calculated on rig by company man.
+
+         All numbers & volumes related to drill string capacity, pump rate and well geometry have been assumed based on initial assumptions
+                             however actual figures will be calculated and executed as per company plan.
+
+                                                                              pg. 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+    3. Lab Result (Lead)
+                                Sarvak Kish Drilling Services
+
+                        Sarvak Cementing Lab Report
+
+         Date:            2023/01/30                   1401/11/10             Field:   Siahmakan               Job Type :      CSG 13 3/8''
+        Well Depth:      (TVD):     2610  m       8563.41       ft        Client:  PECO             OH Size:           17 1/2''
+                        (MD):      2610  m       8563.41       ft       Well:    SI-09                      Last CSG/Liner:  CSG 18 5/8 "
+                                                                             Rig:   OEOC 207             Mud Weight:       105PCF
+
+        Cementing Additives                               Conc.           Units                    Cement and Mixing Water
+      CMT G Delijan                                   110        LB/SK       Mixing Water:                                 Drill Water
+         Bentonite ( Rig Sample )                                 5.5        LB/SK       Slurry Density:                         14.0 PPG      105 PCF
+         Retro 120A ( BN: 14011321C )                        0.17        LB/SK       Slurry Yield:                                           1.85 cuft/sk
+       TURBO-1B ( BN: 14011328C )                        0.22        LB/SK      Base Fluid Required:                                        9.4 gal/sk
+         Anti Foam ( BN: 207000102F1 )                       0.03       GAL/SK       Total Mixing Fluid Required:                             9.72 gal/sk
+
+         Temperature        BHST:     83.3 oC         BHCT:     58.3 oC
+         Temperature        BHST:     182 oF         BHCT:     137 oF                           Temperature Gradient:      1.2 oF / 100 ft
+
+        API Free Fluid:              2    %     @ 2 hrs
+        API Fluid Loss:          NA      cc/30 min @             137 oF        and      1000 Psi
+
+        Rheology Data:                                                                                  PV     YP
+
+               oF                      300     200        100    6       3                      10 sec Gel    10 min Gel          CP      lb/100ft2
+              80                       20      13         12    6       3                        4          14                12       8
+              137                       29      22         19    9       7                       12          23                15       14
+
+        Pumping Time:               35(BC):       06:54       Hrs:Min 50(BC):      06:57      Hrs:Min     70(BC):        07:01      Hrs:Min
+
+      UCA C.S. :                       1104        psi              in         24 Hrs @       182 oF
+
+        Crush Test C.S. :                  510         psi              in         24 Hrs @        85 oF
+
+        Water Analysis:             Chlorides:           mg/liter
+
+      UCA C.S. :                                           psi              in         24 Hrs @       142 oF (IN L.LAP TEMORATURE )
+
+        PH: Pre-Hydrated            DB:   Dry Blended     % BWOC% by weight of cement        % BWOW:    % by weight of water
+
+          Note:          The Calculation is based on 110 lbs sack of dry cement.
+        Remarks:
+
+        Sarvak Lab Supervisor:                                                     Sarvak Cement Engineer:  Hasan Sabooei
+
+         Eng. Department Manager:
+
+         Note:
+        The content and the results of this report is limited to the sample described. Any user of this report agrees SKDS shall not be liable for any loss or damage, regardless
+          of cause, including any act or omission of SKDS resulting from the use thereof.
+
+                                                                              pg. 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+    4. Lab Graph (Lead)
+
+                                              T.T Graphs
+
+                                          CS. Graphs
+
+                                                                              pg. 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+    5. Lab Result (Tail)
+                                 Sarvak Kish Drilling Services
+
+                        Sarvak Cementing Lab Report
+
+         Date:            2023/01/30                    1401/11/101            Field:   Siahmakan               Job Type :      CSG 13 3/8"
+        Well Depth:      (TVD):     2610  m       8563.41        ft        Client:  PECO             OH Size:           17 1/2 "
+                        (MD):      2610  m       8563.41        ft       Well:    SI-09                      Last CSG/Liner:  CSG 18 5/8
+                                                                               Rig:    OEOC 207            Mud Weight:       100 PCF
+
+        Cementing Additives                                Conc.           Units              Cement and Mixing Water
+      CMT G Delijan                                    110        LB/SK
+       O-R12 ( BN: 1447 )                                   0.06        LB/SK       Slurry Density:                         15.8 PPG       118 PCF
+       FLC LT ( BN: 4010901L )                             0.44        LB/SK       Slurry Yield:                                           1.36 cuft/sk
+
+       TURBO-1B ( BN: 14011328C )                           1.1         LB/SK      Base Fluid Required:                                    5.86 gal/sk
+
+         Anti Foam ( BN: 207000102F1 )                       0.03       GAL/SK       Total Mixing Fluid Required:                             6.04 gal/sk
+
+         Temperature        BHST:     83.3 oC          BHCT:     58.3 oC
+         Temperature        BHST:     182 oF          BHCT:     137 oF                           Temperature Gradient:      1.2 oF / 100 ft
+        API Schedule:                                 Heat up time:      60 min                                     Final Pressure :  6000 psi
+
+        API Free Fluid:       NA     %      @ 2 hrs
+        API Fluid Loss:           84          cc/30 min @              137 oF        and      1000 Psi
+
+        Rheology Data:                                                                                  PV     YP
+               oF                      300     200        100    6       3                      10 sec Gel    10 min Gel          CP     lbs/100ft2
+              80                       46       31          19    2       1                        1          29                 40.5       5.5
+              137                       56       40          23    2       1                        2           4                  49.5       6.5
+
+        Pumping Time:               35(BC):       04:12        Hrs:Min 50(BC):      04:13      Hrs:Min     70(BC):        04:16      Hrs:Min
+
+       UCA C.S. :                       3068      PSI              in         24 Hrs @       182 oF
+        Crush Test C.S. :                 6100      PSI              in         24 Hrs @       182 oF
+
+        Water Analysis:             Chlorides:            mg/liter
+
+        PH: Pre-Hydrated            DB:   Dry Blended      %BWOC% by weight of cement         %BWOW:    % by weight of water
+
+          Note:          The Calculation is based on 110 lbs sack of dry cement.
+        Remarks:
+
+         Sarvak Lab Supervisor:                                                       Sarvak Cement Engineer:  Hasan Sabooei
+
+         Eng. Department Manager:
+
+         Note:
+        The content and the results of this report is limited to the sample described. Any user of this report agrees SKDS shall not be liable for any loss or damage, regardless of
+
+                                                                              pg. 9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-01-24-Final
+
+    6. Lab Graph (Tail)
+
+                                              T.T Graphs
+
+                                          CS. Graphs
+
+                                                                             pg. 10

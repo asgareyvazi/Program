@@ -1,0 +1,859 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 20 ]
+────────────────────────────────────────────
+                          SAFETY PRECAUTIONS
+
+
+OBJECTIVE
+
+    This procedure describes the main precautions to take care before and during a
+    wire-line operation.
+
+
+GENERAL RULES
+
+    1- An inspection of the work area must be carried out prior to any wire-line work.
+        Particular caution should be paid to missing or damaged deck plates/hand
+          rails, faulty safety equipment,  etc...  Any irregularities should be reported
+       immediately to wire-line chief operator and POGC supervisor .
+
+    2- The extinguishers must be accessible and have a valid inspection label.
+
+    3- The POGC supervisor should hold a meeting to review the responsibilities for
+       the operations to be performed and to discuss the program.
+
+    4- Welding operations and other hot works should not be performed during wire-
+         line operations.
+
+    5- Any simultaneous  wire-line  activities must be performed under  specific
+       procedures.
+
+    6- Communication equipment should be in good working order before starting
+        operations.
+
+
+OPERATIONS
+
+    1- Any discharge of large quantities of condensate or gas to the atmosphere
+       should be to a safe area, preferably on the downwind side of the well.
+       Disposal of oil spills to the sea is prohibited.
+
+    2-  All equipment should be located so that the Chief Operator can see the wire-
+         line operators working on the lubricator.
+
+    3-  Wire-line unit should be secured to prevent any unwanted movement of the
+         unit when load is taken on the line.
+
+    4- Rope should not be used to tie off the wire-line clamp. The clamp should be
+         tied off with chain.
+
+    5- The POGC supervisor should use his own judgment to decide whether or not
+       the lubricator and mast can be rigged up safely and securely in strong wind
+        conditions.
+
+    6- Only personnel essential to perform wire-line operations should be permitted
+       near the pressurized lubricator and X-mas tree.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 20 ]
+────────────────────────────────────────────
+                          SAFETY PRECAUTIONS
+    7- Do not climb or let anyone else climb the lubricator to tighten connections
+      when it is under pressure.
+
+    8- Wear safety belt when working on elevated areas (lubricator, mast, etc.).
+
+    9-  Lubricator bleed off valve should be operated after the pressure has been bled
+      down to determine that ice or some other foreign matter is not plugged the
+       valve opening (make sure that the pressure has been bleed off to zero before
+       attempting to unscrew the lubricator).
+
+
+WELLHEAD AND X'MAS TREE
+
+    1- Annulus pressure, wellhead pressure and temperature should be recorded
+      and communicated to POGC supervisor prior to start any wire-line operations.
+
+    2-  Prior to any wire-line operations on the DHSV the control line will be isolated
+       from the general control panel and connected through the bypass manifold to
+       the wire-line hydraulic pump.
+
+    3- Always open up a well slowly until the lubricator is pressurized. The lower
+       master valve should be opened first (if closed), then the upper master valve
+      and swab valve. To close in the well, close swab valve , close UMV , crack
+      open swab valve to bleed off the volume between swab valve and UMV and
+       close swab valve.
+
+    4-  Adjust hydraulic pump pressure not to over pressure the control line.
+
+    5- Take care when climbing X-mas tree not to grasp any part of the tree which is
+       not firmly secured (valve, handles, etc.).
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 20 ]
+────────────────────────────────────────────
+                           WIRELINE STRING SELECTION
+
+
+GENERAL
+
+   The wireline tool string is necessary for the efficient surface control during running
+    or pulling operations with slickline for subsurface control devices.
+
+   An assembly of wireline tools connected as wireline string is used to deliver
+    surface controlled impact  (jar  action), upwards or downwards to manipulate
+    devices within the well bore.
+
+
+DESCRIPTION
+
+   A wireline string is composed of following items :
+
+            - Rope Socket: Slick line, WL stranded line, electric stranded line.
+
+            - Sinker Bar: Normal stem, Roller stem
+
+            - Jar: Spang, tubular, hydraulic, spring
+
+            - Specific Component: Knuckle  joint, Knuckle  jar, quick lock, centralizer,
+         stretch simulator
+
+
+STRING SELECTION
+
+        •  Length
+
+       The length of a sinker bar is given by the well head pressure which dictates
+        the weight required to offset the ejecting force exerted on the wire by WHP.
+
+         Diverting good impact with the jar is the other parameter to decide minimum
+     WL string weight .
+
+          Impact = ½ M V2 ( M: weight of stem in well fluid,V2 : square of speed )
+
+       The wireline string must not have less than 5 ft of 1 7/8” stem or 7 ft of 1 ½”
+       stem when using 0.108” wire.
+
+        •  Outside Diameter
+
+          All WL string components must have the same OD and identical fishing neck.
+
+         String OD is driven by OD of pulling tool required to fish the string if it is lost
+          in hole.
+
+       The pulling tool must pass through the tubing and through the completion
+          restrictions that the WL string may pass through when lost in hole.
+
+       The string OD should be as large as possible to ease the fishing operations
+        unless operational and well reasons such as crooked tubing,piston effect in
+        viscous effluent dictate a smaller string OD.
+
+       The pulling tool standard OD must be large enough to avoid by passing of the
+         fishing neck in the completion ID.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 20 ]
+────────────────────────────────────────────
+                           WIRELINE STRING SELECTION
+       Too small pulling tool which may by pass the fish will require a special fishing
+       gauge ring.
+
+        •  Composition:
+
+       The wireline string composition is based on:
+
+         a) Well conditions:
+             ∗   Effluent viscosity: Wire and string frictions decrease the jar up/
+              down efficiency
+             ∗   Deviation: Decreases the  vertical weight necessary  for impact,
+                       difficult to read the jar
+             ∗  Down hole completion shape: increase wire friction, jams rigid WL
+                    string
+             ∗  Working below WL entry guide: Jar scissoring risk, rope socket
+               hang up at entry.
+
+         b) Type of work:
+             ∗  Working depth: Stretch of wire available
+             ∗   Jarring up and down compatibility: Jarring control
+             ∗  Hard and soft jarring: impact control, impact efficiency loss by string
+               snake effect
+             ∗  Risk of stuck or blown up: back up jarring required, risk of fouling
+                 the string in wire
+
+         c) Type of down hole tool:
+             ∗   Internal or external fishing neck: String lift off to latch down hole tool
+             ∗  Stand off from tubing wall: to pass completion restriction
+
+
+GOLDEN RULES
+
+        •   Fishing each component of the WL string must be possible at all time
+
+        •  Back up jar (hydraulic / spring) must be included in the WL string when:
+
+            - exceed 200 lbs
+
+            - Working in viscous fluid such as heavy oil.
+            - Deviation exceed 45°
+
+        •   Stretch simulator must be included if jarring up with WL winch at less than
+         500 m from surface.
+
+        •  The fishing tool OD must be large enough to avoid by passing the fish
+
+        •  When operating with blown up risk, WL string must include a tandem
+          knuckle joint combination at the top of the string to avoid by passing the
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 20 ]
+────────────────────────────────────────────
+                    WIRELINE STRING SELECTION
+wire.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 20 ]
+────────────────────────────────────────────
+                       WIRELINE EQUIPMENT INSPECTION
+
+
+PURPOSE
+
+    Before starting a new contract, AMOS shall ensure that all equipment complies
+    with the client requirements and the required specifications.  All along the life of
+    contract, regular routine checks will be carried out to ensure the integrity and the
+    conformity of equipment with the contract and the specifications.
+
+
+WIRELINE EQUIPMENT INVENTORY
+
+   The inventory will be carried out the first time at the beginning of contract and will
+   be repeated every 3 months for all the contract duration.
+
+
+WIRELINE SURFACE EQUIPMENT TEST
+
+    This surface equipment test will be carried out the first time before the beginning
+    of the contract, under a third party witness. This test will be repeated once a year
+    (always witnessed by an approved third party), for all the contract duration. Any
+    additional equipment  required  during  operations  or   if  other equipment are
+    transferred to the field should undergo same test.
+
+   A routine test of the surface pressure equipment will be performed before the first
+    run of every job, using the pressure test unit. The equipment will be pressure
+    tested up to at least 110% of the Maximum expected SIWHP.
+
+
+WIRELINE HYDRAULIC UNITS TEST
+
+    Hydraulic power packs, triplex pumps, and winch units tests will be carried out the
+      first  time  at  the acceptance  tests  factory  or  during  the commissioning  of
+    equipment. They will be repeated once a year to ensure the equipment keep
+    specification requirements.
+
+   A copy of the test document will be sent to POGC.
+
+
+LIFTING EQUIPMENT
+
+     All lifting equipment will be examined by a certifying authority within the preceding
+   6 months period and a report made with copies sent to POGC.
+
+     Lifting equipment should follow COMPANY color coding regulations.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 20 ]
+────────────────────────────────────────────
+                        RISER & LUBRICATOR & ACCESSORIES
+
+
+GENERAL
+
+   The riser is an element of piping working under pressure when the X-mas tree is
+   opened.    It is the necessary pipe extension between the X-mas tree and the
+    working level.
+
+   The  riser  is from X-mas tree to wireline deck  for operations on well head
+    platforms.
+
+   The riser is from well head to rig floor during rig operations.
+
+   The lubricator is the piping assy, permitting the access to the well bore (for the
+     tools), when it is equalized to the well pressure. The number of lubricators and the
+     total length of them depend on the wireline string length.
+
+   These sensitive under pressure equipment must be third party certified every
+    year.
+
+
+PRESSURE CONTROL EQUIPMENT SELECTION
+
+        •  Wellhead shut in pressure
+
+       The pressure rating of PCE is normally identified to the X-mas tree pressure
+          rating.
+
+       The PCE must be capable to contain the expected WHP plus a 15% safety
+        margin.
+
+        For practical reasons and maintenance cost ,  it is best to select the lowest
+        range compatible.
+
+        •  OD of the tool to be run or retrieved
+
+      A tapered ID lubricator is used to perform WL operations to save weight and
+       an easier rig up.
+
+       The upper sections of lubricator have a reduced ID to accommodate only WL
+         string OD.
+
+       The lower section of lubricator, BOP, riser and well head cross over must
+       have a larger ID than tool OD.
+
+        •  Length of the WL string run or retrieved
+
+       The lubricator must be at least one foot longer than total WL string length (
+         with jar in open position).
+
+       The bottom lubricator with large ID must be larger than the large OD retrieved
+         or run and must accommodate the longer wireline tool or equipment used in
+        the well.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 20 ]
+────────────────────────────────────────────
+                        RISER & LUBRICATOR & ACCESSORIES
+OPERATION
+
+        •   In SPD 1 AND 2 wells the BOP is installed above the x-over 11 ½”-4
+       ACME Bowen 10 K Box x 9 ½”-4 ACME Otis 10 K Pin loacated on the top
+            of X-mas tree.
+
+        •   In SPD 3 AND 4 wells the BOP is installed just above the X-mas tree.
+
+        •  Each section ID must be capable to accommodate the corresponding
+            string OD.
+
+        •   Special care must be taken during fishing operations where the lubricator
+            selection is critical to accept the fish as it comes out of hole.
+
+        •   Pulling tool modified with a fishing gauge ring must pass  in the top
+            lubricator section to accommodate the WL string.
+
+        •    If the crane does not allow to have enough lubricator length above the
+       BOP to recover the  fish, WL riser can be used to accommodate the
+          recovered  string. Minimum  of one  meter  safety  space  should be
+          considered between the swab valve and end of the string.
+
+        •  The lowest lubricator section , located above the BOP , must have bleed
+              off connection with 2 bleed off valves in tandem to vent pressure when WL
+           operation is completed.
+
+        •  Extreme care must be taken when bleeding off pressure from a lubricator
+          having an ID closed to the OD or a sealing element which can come in to
+           contact with the lubricator wall. Keep tool moving during bleed off by
+          shaking wire.
+
+        •  Open swab valve slowly and only after the pressure is fully equalized.
+
+        •  Tool  string may also be locked up by pressure against reduced ID
+             lubricator.
+
+        •   All lifting appliances must be rated at least twice the total lubricator weight.
+
+        •  Upper lubricator must have a certified lifting bracket to attach the lifting
+            slings to a certified shackle.
+
+        •  Two guy ropes must be installed to shake the lubricator while connecting /
+           disconnecting, and to limit lubricator movements while jarring.
+
+        •   Lifting hook must be centered above the well.
+
+
+MAINTENANCE
+
+        •   Protectors must be installed while rigging down to protect thread and seal
+           bores.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 20 ]
+────────────────────────────────────────────
+                          RISER & LUBRICATOR & ACCESSORIES
+           •  Quick union seal bore & pin must be covered with oil when rigging up &
+            down  to  protect from corrosion. Cover with grease  for long storage
+               periods.
+
+
+
+           •  The union ACME thread must be regularly lubricated with very light oil.
+             Never put grease.
+
+           •  Ring must be replaced according to rig up frequency and at scheduled
+                  certification tests.
+
+           •  Seal bores and pin connections must be inspected for oversizing and oval
+                detection.
+
+
+   TESTING
+
+           •   Testing of lubricators and risers must be done annually.
+
+           •  The drift test must be sized at BOP ID or largest tool to be run or retrieved.
+
+
+  GOLDEN RULES
+
+           •   Lubricator length must be the tool string length with retrieved tools , plus at
+                least one foot.
+
+           •   String length must be with hydraulic & spring jars in open position.
+
+           •   Lifting equipment must be rated at least twice the total lubricator weight.
+
+           •  2 guy ropes must be installed to shake the lubricator while connecting  /
+               disconnecting and to limit lubricator movements while jarring.
+
+           •   Lifting hook must be located in vertical run of the well.
+
+
+DRAWING
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 20 ]
+────────────────────────────────────────────
+                    CABLE & ACCESSORIES CONTROL
+
+
+GENERAL
+
+   The line or cable is one of the most critical item in wireline operations.
+
+    This guide can not dictate the exact rules which will eradicate breaking.
+
+   A great part of the wire assessment is still based on WL chief operator and POGC
+    supervisor judgment and can not be replaced by rules.
+
+   The slick line size which will be used on South Pars field phases 1, 2, and 3 is the
+    0.108". It should be a special type alloy to work in H2S and CO2 environment.
+
+   The 0.125" slick line is used for heavy job like fishing, requiring pulling weight until
+   2000 lbs.  Specifications are the same as for 0.108" wire but upgraded to "high
+    strength".
+
+
+WIRELINE CARE AND MAINTENANCE
+
+    In order to get good service and maximum life from wireline it is necessary to take
+   some precautions in handling and usage.
+
+    Gripping the lines with tools such as pliers, hardened jaws should be avoided
+   because of damaging the surface and possibly causing failure resulting from
+    stress when the line is subjected to tensile and bending stresses.
+
+    Uncontrolled  slack and  resulting  kinking  should  always be  avoided when
+    respooling the line into the reel as it is retrieved from a well.  It should be cleaned
+    of well fluids and given a coat of protective oil.
+
+    While changing out the wire, it has to be done as drawn here below:
+
+
+                          50 FT
+
+
+                                             RIGHT
+
+
+
+
+
+                                   WRONG
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 20 ]
+────────────────────────────────────────────
+                    CABLE & ACCESSORIES CONTROL
+    Important :   In order to follow the traceability of the wire, the drum number on
+    which the wire has been spooled on, must be specified on the wires manufacturer
+     certificates.
+
+   Each drum should have a log sheet covered in plastic and close to wireline winch
+    to include all wire data including wire type , size , manufacturer , date RIH , date
+  POOH , Hrs in hole , Hard jarring ,wire cut , wire remaining , type of job , location,
+    etc.
+
+
+WIRELINE PROCEDURE
+
+        •  General
+
+         a) Both static and pulling weights must be checked before carrying out any
+        operation below 1000 meters.   If  the weight exceeds 500  lbs  wireline
+         authorities should be contacted.
+
+         b) If a tool string becomes stuck and remains so after 3 hours jarring, the wire
+       must be cut as close as possible to the tool string.
+
+         c) The wire is to be removed from around the measuring wheel (and the wire
+        flagged on) when heavy jarring is expected.
+
+         d) A log book must be available to record the wire working time and the
+        remaining length on the drum.
+
+       e)The maximum time to jar at the same depth is limited to 3 Hrs.
+
+       Above such time the wire or cable passing on the hay pulley and stuffing box
+       wheel is subject to rapid embritlement. POGC supervisor must give the order
+          prior to cut the wire at the tool string rope socket.
+
+        •  Wires
+
+         a) Wireline will be cut off and disconnected in the following circumstances :
+             ∗  Before each operation - 30 m
+             ∗  When using jar every 3 hours - 50 m
+             ∗   In case of line parted - 50 m or more
+
+         b) Jarring with the unit is not allowed above 500 m unless using a stretch
+         simulator.
+
+         c) When working in fluid a wireline wiper is to be used and the drum greased
+      when operation is completed.
+
+         d) The safe length of wire to remain on the drum at working depth is 500 m
+       minimum. If this condition can not be met to perform an operation the wire
+        should be replaced.
+
+         e) To avoid loss of jar action, particularly at shallow depth, ensure that the
+        wire being run is well lubricated.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 20 ]
+────────────────────────────────────────────
+                    CABLE & ACCESSORIES CONTROL
+             f) The maximum permissible load to put on the wire is as follows :
+              •  0.108" =     1300 lbs using upstroke jar or hydraulic jar
+
+                          1000 lbs using mechanical jar
+              •  0.125" =     2300  lbs  using  upstroke   jar  or  hydraulic   jar
+                 occasionally
+
+                          1900 lbs using upstroke jar or hydraulic jar for long
+                     heavy fishing
+
+         g) Routine wireline changes :
+              •  0.108" =     Every 250-300 hrs (production)
+
+                             Every 200-250 hrs (rig)
+              •  0.125" =     Every 200-250 hrs
+
+
+WIRELINE DRAG
+
+   Any wireline operation that requires useing of mechanical  jar should not be
+    attempted with drag of 500 lbs or more.
+
+    Stop operating if the drag is in excess of 700 lbs and report to authorities.
+
+      If there is a situation whereby it is found impossible to pull the tool string do not
+    attempt to jar, but apply a steady pull of 1300 lbs (0.108") to the line.
+
+
+ACCESSORIES
+
+    Wireline hay pulley, stuffing box wheel and counter must have a 16" diameter for
+    0.108” and 0.125" wires.
+
+   Measuring device counter wheel groove and pressure wheel wears, must be
+    inspected and replaced when necessary (≈ 106 m).
+
+    Counter wheel and Veeter Rot must be in same unit system (m or ft).
+
+   Weight indicator must be recalibrated time to time.
+
+
+GOLDEN RULES
+
+     ♦  Cut off 30 m of wire when rigging up
+
+     ♦  Never exceed the maximum allowable tension
+
+     ♦ Do not jar more than 30 minutes with wire on the measuring device
+
+     ♦ Do not jar more than 3 hours at same depth
+
+     ♦  Jarring with the winch without stretch simulator is not allowed above 500
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 20 ]
+────────────────────────────────────────────
+                CABLE & ACCESSORIES CONTROL
+   meters depth.
+
+♦  All the wheels must have a minimum diameter of 16” for 0.108” and
+   0.125” wires.
+
+♦  Keep record of wire cut and heavy jarring time + time spent in each well.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 20 ]
+────────────────────────────────────────────
+                           WIRE FOLLOW UP
+
+
+PRINCIPLE
+
+    In order to follow the history of the wire all the data concerning the wire must be
+    recorded on relevant form.
+
+
+FORM
+
+   As per attached document.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 20 ]
+────────────────────────────────────────────
+                           REPRTING
+
+
+OBJECTIVE
+
+   The objective of this W.O.S.I. is to be a guideline for the Well Supervisor in
+    recognizing the paper work for a good reporting during wireline operations.
+
+
+LIST OF PAPER WORK
+
+        Reports to be sent to DW/WOS are:
+              •  Well status report (one for each well) when applicable
+              •  Well operations program and report ( one per well)
+              •  Wireline report
+              •  Monthly wireline inventory
+              •  Monthly inspection
+              •  Wire Record (one for each drum)
+              •  Trouble shooting list
+              •  Incident/accident report when applicable
+              • WLDHSV records and follow-up (all moves - tracking down)
+              •  Contract management (offshore)  - Service tickets  - Spare parts
+                consumption, batteries, etc...
+              •  Safety checking and following up (certification, etc...)
+              •  Handover note
+              •  Improvement studies for wireline activities.
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 20 ]
+────────────────────────────────────────────
+                          WIRELINE DAILY REPORT
+
+
+PRINCIPLE
+
+   Each time wireline operations are performed on a well a record must be kept in
+    the well file.
+
+   The wireline daily report must be prepared by the wireline chief operator and to be
+    distributed to authorities.
+
+
+FORM
+
+   As per attached document.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 20 ]
+────────────────────────────────────────────
+                             RIG UP PROCEDURE
+
+
+PURPOSE
+
+    This is main features for the rig up / rig down procedures.
+
+
+RIG UP ON X-MAS TREE
+
+               1- Receive X'mas tree from production (ensure work permit is validated
+            and production / control room is informed of operational intervention).
+          Swab valve should be closed and pressure above to be bled  off.
+            Connect DHSV control line to portable test unit after isolating from
+              panel.
+
+          One man from production should be in alert during rig up operations.
+
+
+               2- Open needle valve on tree cap. Monitor for leak. Remove tree cap.
+
+             Caution : use only a copper or brass faced hammer.
+
+
+               3- Remove hatch cover from B.O.P. deck.  Erect signs and barriers to
+            warn other personnel of possible danger.
+
+
+               4- Assemble B.O.P. :Ensure B.O.P. hydraulic lines are secured.
+
+
+               5- Function test B.O.P. (BOP test performed once a month).  Connect
+              high  pressure  line  to  pressure/  bleed   off  manifold.    Ensure
+              pressure/bleed off manifold is open.
+
+
+              6- Check condition of stuffing box packings, feed wireline cable through
+                stuffing box.
+
+
+              7- Make up  lubricator  sections,  place  wireline  tool  string  inside
+                lubricator.
+
+
+              8- Make up stuffing box to the top section of lubricator, secure stuffing
+            box hydraulic hose, rope  to stuffing box.  Fix wireline clamp to bottom
+              section of lubricator and wire. Ensure sufficient slack wire is spooled
+              out prior to picking up lubricator with crane.
+
+
+               9- Pick up BOP and make up it on the top of X-mas tree.
+
+
+               9- Pick up lubricator with the B.O.P.'s.  Fix load cell and hay pulley to
+                 riser.  Secure wire to hay pulley, pick up slack wire on wireline unit.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 20 ]
+────────────────────────────────────────────
+                     RIG UP PROCEDURE
+Remove  wireline clamp from  lubricator and lower  tool  string from
+lubricator.
+
+
+10 Make up wireline tool to tool string. Raise tool string into lubricator.
+Make up lubricator to B.O.P.'s. Take zero on swab valve.  fix wireline
+clamp to wire.
+
+   Note :At this stage tree should be closed in and pressure bled off.
+All surface valves should be closed (production wing valve, hydraulic
+master valve and swab valve).
+
+
+11- Make up  lubricator bleed  off manifold  to  lubricator.   Ensure
+lubricator bleed-off manifold is open.
+
+
+12-  Fill up lubricator/riser assembly with water using high pressure
+triplex pump.  When  fluid returns are seen at lubricator bleed  off
+manifold close the valve and continue to pump to 3000 psi, monitor for
+15 minutes.
+
+13-  If pressure test is satisfactory bleed pressure to WHSIP through
+riser bleed manifold hose. Isolate lubricator from test pump.
+
+
+14- Remove wireline clamp.  Open S.S.V. (Hydraulic master valve)
+using production control panel.  Install fusible manual override. Open
+swab  valve  slowly.   Record WHSIP.  Refer  to  relevant  wireline
+procedures for wireline operations.
+
+Note : Ensure to have no pressure trapped between swab and UMV (
+two safety barrier)
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 20 ]
+────────────────────────────────────────────
+                         BHP SURVEY
+
+
+GENERAL
+
+   Many types of surveys may be performed: static / flowing bottom hole pressure
+    survey, simple gradient survey, P.L.T. and T.D.T. surveys.
+
+    Special precautions have to be taken :
+
+            - Running pulling speeds slow and constant
+
+            - Handling gauges / instruments with extreme care
+
+            - The sequence of ALL events, WHP, times are recorded ACCURATELY.
+
+
+RUNNING BHP SURVEY GAUGES
+
+   Note : A drift run should be performed prior to run BHP survey gauges.
+
+    1- Make up tool string.
+
+    2- Check and prepare running tool, shock absorber, gauges (with centralizers  if
+    necessary).
+
+    3- Make up running tool, shock absorber and gauges to wireline tool string.
+
+              - Care must be taken when handling and installing gauges into lubricator.
+
+    4- Pressure test lubricator x 15 min. Depressurise lubricator slowly.
+
+    5- Perform 15 min lubricator stop. Accurately record WHP. Production incharge to
+    record WHP.
+
+   6- RIH gently to 100 meter above the first station depth that is identified by POGC
+   as per their program (perform 15 min. gradient stops.  Normally 300 and 100 m
+   above the first station depth).
+
+              - Maximum speed 35 m/min.  Caution must be exercised when passing
+          through any sub-assemblies in the completion string.
+
+    7- Record pick up .
+
+    8- RIH gently to the first station depth.
+
+    9- Stop at the first station for time instructed by POGC and record BHP.
+
+    10- RIH gently to next stations depth respectively and record BHP for time
+    instructed by POGC and record BHP.
+
+
+RETRIEVING BHP SURVEY GAUGES
+
+    1- POOH string to 100 meter below X-mas tree.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 20 ]
+────────────────────────────────────────────
+                       BHP SURVEY
+         -     Maximum speed 35 m/min. while pulling.
+
+2- Pull tool string gently into lubricator.
+
+3- Perform 15 min.  lubricator stop. Accurately record WHP. Production incharge
+to record WHP.
+
+4- Depressurise lubricator slowly.
+
+5- Carefully check gauges, shock absorber, and pulling tool. A check on gauges
+     must be performed to verify  if they worked.  Care must be taken when
+       retrieving and handling gauges  prior  to downloading  data.  If gauges
+malfunctioned , inform POGC supervisor prior to rig down.
+
+         -    ACCURATELY RECORD TIME, WHP, AND ALL SEQUENCE OF
+    EVENTS ON DATA  SHEET.
+
+

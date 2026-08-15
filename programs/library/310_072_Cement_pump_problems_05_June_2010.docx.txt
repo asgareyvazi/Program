@@ -1,0 +1,16 @@
+
+John,
+I may be able to help by e-mail, but I need some details:
+The only unexpected shutdowns we experienced were because of low coolant level in the Detroits. We disabled that shutdown.
+There are 3 engines, did they all stop? at the same time? If not all 3 then which engine(s)? Did they lose Horsepower first?
+Did they do nothing, and just restart? Did it restart easily?
+What has been done to diagnose the problem?
+All engines need air from the rig.
+The two Detroits need battery power operate the ECM and the air valves that keep the air intakes open, they share a battery but are supposed to have one each.
+The Volvo needs PLC power to operate the air valves that keep the air intake open.
+Each engine has separate over temperature shutdowns that operate pneumatically.
+The Manual pneumatic E-stop is supposed to stop them all.
+If you can get someone to knows the details in touch with me, I can help.
+Randy
+
+

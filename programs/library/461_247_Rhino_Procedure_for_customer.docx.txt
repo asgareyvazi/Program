@@ -1,0 +1,87 @@
+
+Technical Proposal
+Rhino Reamer™ Tool Guidelines
+
+# Running Procedure
+Note: Smith International, Inc. prohibits its personnel from actually operating any rig equipment which is not furnished directly by Smith International Inc. This includes, but is not limited to: draw works brake, rig cranes, and fork trucks.
+General Procedure for Making up the Rhino Reamer™
+Clean and grease the API pin and box connections on the mating BHA components. If applicable, set the BHA components to be run below the tool in the rotary table.
+Use lifting sub and elevators to pick up Rhino Reamer™ tool and lower onto lower BHA. Make up to the specified torque listed in Table 1.
+Table 
+Makeup Torque of Top and Bottom Subs to Rhino Reamer™™ Body
+CAUTION:	Never place the tongs over the cutter sets. See Figure 1 for tong placement.
+Figure 
+Tong Placement
+Rhino Reamer™ Make up and Surface Test Procedure for
+Lockout Mechanism and Hole Enlargement While Drilling Only
+Pick up the pre-made up rotary BHA components to be tested, make up the drill bit and lower it in the hole. Do not make up the Rhino Reamer™™.
+Pick up and make up a cross over sub and/or pup joint and make up to the top drive.
+Test the rotary steerable system and/or Measuring While Drilling (MWD) assembly per manufacturer specifications. Lay down the cross over sub and/or pup joint.
+Pick up the Rhino Reamer™™ Assembly.
+Pick up and make up a cross over sub and/or pup joint and make up to the top drive.
+Slack off until the Rhino Reamer™™ cutter sets are below the rotary table.
+Bring the mud pumps online and gradually increase the flow rate to the pre-established value as specified in the hydraulic analysis for drill out.
+Verify that the cutter sets have not activated.
+Note: Full Bore Lockout Mechanism—Verify the test flow rate by comparing to the drill out flow rate.
+Tripping in the Hole with the Rhino Reamer™ Pinned for Drilling the Casing Shoe Track
+Full Bore Lockout Mechanism
+From the time the Rhino Reamer™ goes through the rotary table until it reaches bottom, care must be taken when tripping in the hole. Care should also be taken when running through diverters, blowout preventers (BOP), wellheads and casing shoes.
+Trip in the hole at two minutes per stand for the first ten stands.
+Fill up the drill pipe every ten stands for the first thirty stands. While running in the hole, fill up the drill pipe until the desired depth is reached.
+CAUTION: Do not exceed 50 percent of the flow rate as specified in H2 while filling up the drill pipe.
+Once inside the liner, it is recommended to break circulation and verify that the Rhino Reamer™ has not activated. Bring the flow rate up to the drill out value. Work or rotate the drill string. There should be no resistance or drag.
+Ball Drop Mechanism
+From the time the Rhino Reamer™ goes through the rotary table until it reaches bottom, care must be taken when tripping in the hole. Care should also be taken when running through diverters, blowout preventers (BOP), wellheads and casing shoes.
+CAUTION: Do not exceed 50 percent of the drill out flow rate while filling up the drill pipe.
+Once inside the liner, it is recommended to break circulation and verify that the Rhino Reamer™ has not activated. Bring the flow rate up to the drill out value. Work or rotate the drill string. There should be no resistance or drag.
+Drilling the Casing Shoe Track
+Lower the BHA into the hole until it reaches the top of the cement plug.
+Tag the cement plug with the drill bit and pick up approximately ten feet off bottom.
+Start pumps and establish flow to the drill out flow rate as and then rotate the tool slowly (30 to 50 RPM).
+Increase RPM until desired operating parameters are reached. Ream and wash down to the top of the cement. Drill the casing shoe track with the customer specified drill out flow.
+Back ream and re-ream every 30 feet of the casing shoe track drilled, in an attempt to prevent the hole from packing off.
+Note: 	The Rhino Reamer™ cannot be re-pinned at the job location (rig).
+Cutter Set Activation
+Full Bore Lockout Mechanism
+Lower the BHA into the hole until the Rhino Reamer™ is 10-15 feet below the casing shoe.
+Bring up pumps to the shear out flow rate as established by the pre-job hydraulic analysis. Shut the pumps off.
+The cutter sets should be activated now. If not sure, repeat the steps above using the shear out flow rate.
+Note: 	A pull test at the casing shoe can be performed to verify that the cutters sets have activated.
+Once the tool function is verified, proceed with cutout.
+Ball Drop Mechanism
+Lower the BHA into the hole until the Rhino Reamer™ is 10 to 15 feet below the casing shoe.
+Bring up pumps to shear out flow rate as established by the hydraulic analysis. Shut the pumps off.
+The cutter blocks should be activated now. If not sure, repeat the above steps using the shear out flow rate.
+If unable to activate the cutter sets using the shear out flow rate, drop the ball in the drill pipe.
+Note: When using the Ball Drop Mechanism it is important to ensure that the ball will pass through all drill string components, i.e. float valve, PBL sub, etc. In order to drop a ball and activate the tool the Rhino Reamer must be located above the MWD.
+Slowly pump the ball down the drill string until the ball seats in the catch. Refer to the Rule of thumb below.
+Increase the pump pressure to shear the shear pins and activate the cutter sets.
+A decrease in pump pressure should be seen at the surface to signal that the cutter blocks are activated.
+Once the tool function is verified, proceed with cutout.
+Note: 	A pull test at the casing shoe can be performed to verify that the cutters blocks are activated.
+Rule of thumb: After dropping the ball, the recommended pump rate is 230 gpm. At this flow rate the ball will fall at 600 ft/min. For free fall, the ball will fall at 425 ft/min. The ball is pumped down 75% and allowed to free fall 25% of the way. This will prevent the ball from being pumped down too quickly and fracturing the seat.
+Example 
+Flow rate of ball drop
+Pump rate is 230 gpm
+Depth of Rhino is 8,500 ft
+Pump the ball down 75% of the way=
+8,500 ft x .75 = 6,375 ft
+6,375 ft ÷ 600 ft/min = 11 min
+Free fall 25% of the way=
+8,500 – 6,375 = 2,125 ft
+2,125 ft ÷ 425 ft/min = 5 min
+Pump the ball at 230 gpm for 11 minutes and let the ball free fall for 5 minutes.
+Cutting the Shoulder
+Lower the BHA into the hole until the Rhino Reamer™ is 10-15 feet below the casing shoe.
+Rotate the tool slowly (30 to 50 RPM) and very slowly bring pumps up to the appropriate drill ahead flow rate to perform the cut out. Rotate while working the tool up and down approximately five to ten feet until a cutout is established.
+Note: 	The time required to initiate a cutout will vary depending on formation type and properties.
+Establish the cut out while noting weight and torque.
+Drill off slowly. Weight should be seen on indicator, verifying the shoulder.
+Hole Enlargement
+With the cutter blocks activated, the pilot hole can be enlarged. Maintain constant drilling weight.
+Tripping Out of the Hole
+Perform a pull test at the casing shoe to verify that the tool is functioning properly. Take care while pulling into the casing and other restrictions.
+Note: The parameters stated above are recommended and actual drilling conditions may require alternate parameters.
+⟐ Confidential Property of Smith International, Inc.
+
+

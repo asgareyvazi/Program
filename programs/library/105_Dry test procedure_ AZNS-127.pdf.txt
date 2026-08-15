@@ -1,0 +1,314 @@
+# SOURCE: Dry test procedure, AZNS-127.pdf
+
+📄 فایل 105 از 214  |  Dry test procedure, AZNS-127.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+               AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                               Inflow test procedure
+
+                  Project          Disc.         Type           Serial          Rev.
+                AZNS        ENG                                     00
+
+                 Detailed Working Instruction
+
+                Cement plug inflow test program
+
+                  Rev 00
+                                 August 2017
+
+                        South Azadegan Oilfield
+
+                                     TDDC
+
+                               Position                Name          Date & signature
+
+Prepared by   TDDC Senior Drilling engineer         R. Alahmoradi
+
+Reviewed by   TDDC Senior wells engineer            R. Vaziri
+
+             Head of drilling operation           M. Soroushnia
+Approved by
+             Head of drilling Engineering         MR. Jamali
+
+                                                                       P | 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                                 Inflow test procedure
+
+                     Project          Disc.         Type           Serial          Rev.
+                  AZNS        ENG                                     00
+
+                              Reservoir data
+     Item                        Measure
+                                                                   Unit
+                  Sarvak    Kazhdumi*   Gadvan    Fahliyan
+
+  Datum Depth        2800          3620         3850         4000       MSSD
+
+ Datum pressure       4610          5730        5420 (5a)     9270 (Fah-1)       Psi
+                                                    5220 (5c)     9240 (Fah-2)
+                                                                9130 (Fah-3)
+                                                                8155 (Fah-4)
+                                                                8010 (Fah-5)
+
+Pressure Gradient       1.14          1.017         0.971         0.912       Psi/m
+
+ Temperature @        96           115          124          132          c °
+  datum depth
+  Temperature          2.4            2.4            2.4           2.4      c°/100m
+    Gradient
+  H2S Content         2436           10          1650         30000      ppm
+
+  CO2 Content        142929        61107        40684        72769      ppm
+
+Formation     salt        240-250       210-220       140-165        160      *1000ppm
+water
+            CA++       11200         14400                      8000       ppm
+
+                                                                        P | 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                                 Inflow test procedure
+
+                    Project          Disc.         Type           Serial          Rev.
+                 AZNS        ENG                                     00
+
+Well name: AZNS-127
+Rig name: 304
+
+       Well Current Status Data:
+
+         9 5/8” casing shoe @ 3909m
+         7” Liner @ 4226m
+         7” Liner lap @ 3777m
+
+      7” Liner Data:
+
+         Weight: 29lbs/ft.
+         Grade: 110ss
+         Thread Connection: TPG2
+
+      Exposed Formation Characteristics (Fahliyan):
+         Datum Depth: 4000m
+         Datum Pressure: 9270psi
+
+                                                                        P | 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                       Inflow test procedure
+
+       Project          Disc.         Type           Serial          Rev.
+       AZNS        ENG                                     00
+
+                                    20" CSG @ 146m
+
+                                    13-3/8" CSG @ 1441m
+
+Cement plug, 1480m-1330m
+
+Cement plug, 3700m-3550m
+  Packer depth @3845m                                   7" Liner lap (ti-back) @ 3777m
+        Bridge plug @3875m                                   7" Liner lap @ 3826m
+                                   9-5/8" CSG @ 3909m
+                                 TCP perforated interval:
+                               3956m – 3977m
+                               3995m – 3998m
+                               4043m – 4049m
+                             WCP perforated interval:
+                               4071m - 4077m
+                                4026m - 4023m
+                                4005m - 3999m
+                               3999m - 3998m
+                                3995m - 3993m
+                       TOC: 4173m          3993m - 3987m
+                        LDC: 4167m          3987m - 3984m
+                                  7" Liner @ 4226m                             P | 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                                 Inflow test procedure
+
+                    Project          Disc.         Type           Serial          Rev.
+                 AZNS        ENG                                     00
+
+HSE Focal points:
+
+     Special attention to HSE focuses must be paid to dry test operation since
+          Fahliyan formation contains high H2S content. Prior to break tool, HSE
+           officer must be on rig floor and review Job Safety Analysis (JSA) and make
+          sure all personnel fully understands the risks of the job specially H2S.
+     Safety and operations meeting must be held prior to operation.
+     Personal safety/H2S Safety equipment.
+     Refer to safe handling/ lifting instruction.
+
+               o  Use barrier tape
+               o  Keep people away
+               o  Radio communication / Respond back on communication
+
+                                                                        P | 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                                 Inflow test procedure
+
+                    Project          Disc.         Type           Serial          Rev.
+                 AZNS        ENG                                     00
+
+Current well status
+
+       Scraped inside 7” liner to 3880m.
+
+       Permanent bridge plug is set at 3875m.
+
+       Prepare for the inflow test.
+
+                                                                        P | 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+              AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                              Inflow test procedure
+
+                Project          Disc.         Type           Serial          Rev.
+              AZNS        ENG                                     00
+
+   NOTE:
+
+ Pump 10bbl 75PCF HI-VIS NON DEBRIS AND NON SOLID BRINE AHEAD OF CUSHION.
+
+ All the packer and running calculation must be validated at rig-site.
+
+ Memory gauge should be used for record pressures(2*72 hrs-15000psi))
+
+                      Cushion type               Mud
+
+                     Cushion Density                85pcf
+
+                Cushion Height(85-75pcf)       3450m+170m
+
+                      Packer Depth              ±3845 m
+
+                        Drive Force               2000 psi
+
+               Res. Pressure @4000m (Datum
+                                             9270 psi
+                   depth of Fahliyan)
+               Res. Pressure @3934m (TVD of
+                                             9200 psi
+                          Fahliyan)
+               Res. Pressure @3956m (Top of
+                                             9223 psi
+                         Perforation)
+              Res. Pressure @±3845m (Packer
+                                             8960 psi
+                         Depth)*
+                * With respect to 104 pcf CaBr2 between DST Packer and top of
+                Perforation.
+                 *Oil Gradient 0.35psi/Ft
+
+                                                                     P | 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+               AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                                Inflow test procedure
+
+                  Project          Disc.         Type           Serial          Rev.
+                AZNS        ENG                                     00
+
+                                         PARALLEL ACTIVITIES / ITEMS TO
+           ACTIVITY DESCRIPTION
+                                               REMEMBER
+
+                          Ensure all personnel involved in
+Justify everyone that HSE issues are superior to                                                  the job have proper PPE (incl.
+any other issues and hold PJSM before each job.                                                    H2S).
+
+                          Memory gauge should be used for
+                                                   record     pressures(2*72     hrs-
+                                                     15000psi)
+
+                          Check and prepare burning line
+                                              and burning pitRun in hole with Dry Test equipment to Packer
+setting Depth @ ±3845m.                          Before RIH, DST Supervisor should
+                                              measure    and    record     all
+Use 3450m+170m mud and  brine  as  cushion.                                                  dimensions & calculations.
+2000psi  differential pressure  as  Driving Force.
+Pump 10bbl 75PCF HI-VIS DEBRIS AND SOLID  All  calculations  should  be  re-
+FREE BRINE AHEAD. (170m of HI-Vis pill shall be     calculated by WSS at rig-site.
+used to prevent settling of solid or debris on
+                          Fill up string w/cushion each 5tools.)
+                                                       stands.
+
+                          Max. RIH speed must be 8 stands
+                                                  per hour
+
+                         
+
+                          Before set the packer secure all
+                                                     chiksan lines.After reaching packer depth (30-40m above liner
+lap) make up  head &  surface  equipment &                          Before  set  the  packer  record
+pressure test (packer should not set on casing                                             upward and downward hook load.
+connection) Set Packer at ±3845m MD.
+
+                          Check Annulus level regularly
+                                                     during the test.Open tools for 3 hours or reach water cushion to
+surface.                      Visually check and Report for any
+                                                 bubble on Surface.
+
+                                                                       P | 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+               AZADEGAN OIL FIELD DEVELOPMENT PROJECT
+                                Inflow test procedure
+
+                  Project          Disc.         Type           Serial          Rev.
+                AZNS        ENG                                     00
+
+                           Reset (zero) pump stroke
+                                                   counter before reverse
+                                                          Circulation.
+
+Close the tools for 6 hours & drop shearing bar &   Mud loggers & mud engineer
+reverse circulation @ sixth hour                       should check pit level for any
+                                                             influx.
+
+                           Check & aware for any H2S in
+                                                bottoms up.
+
+                           Reset (zero) pump stroke
+                                                   counter before reverse
+                                                          Circulation.Circulate and make sure the mud is balance,
+Unset Packer, CBU.                  Mud loggers & mud engineer
+                                                     should check pit level for any
+                                                             influx.
+
+                          Since Fahliyan formation is
+                                          considered as high H2S
+                                           content, special care must
+                                     be paid while breaking the
+                                    DST tool. All safety aspects
+                                      must be reviewed prior to
+Observe well, POOH to Surface and L/D tools.
+                                          job implementation.
+
+                          As soon as the tools was on
+                                                       surface, take sample from
+                                                         barrels, retrieve the memory
+                                                  gauge, report pressures and
+                                                sample properties.
+
+Send  result of data to TDDC Tehran office &
+Client Rep. on Well-Site.
+
+                                                                       P | 9

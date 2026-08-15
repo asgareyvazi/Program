@@ -1,0 +1,1199 @@
+
+Shah Deniz Gas Development Project
+Drilling & Suspension Program
+Revision / Approval History
+Distribution List:
+Shah Deniz Library (Sunbury)
+Shah Deniz Library (Baku)
+Table of Contents
+1.0	Document Distribution List	6
+2.0	Shah Deniz Project Introduction & SD A-03 Overview	7
+3.0	SD A-03 Well Objectives & Key Risks	9
+3.1	SD A-03 Well Objectives	9
+3.2	SD A-03 Key Risks	10
+4.0	Well Data Section	11
+4.1	Well Data Summary	11
+4.2	Formation Tops	12
+4.3	Template Location Data	13
+4.4	SD A-03 Geological Forecast & Lithological Sequence	14
+4.5	Geothermal Temperature Profile	15
+5.0	Pore Pressure - MW - FG Plot	16
+6.0	Wellbore Schematics	17
+6.1 	Casing Design Schematic – Base Case	17
+6.2	Casing Design Schematic - With Contingent Liners	18
+7.0	General Well Information	19
+7.1	Well Data Sheet	19
+7.2	Casing & Liner Specification Sheet	20
+7.3	Casing & Liner Make-up Torques	21
+7.4	Burst Disk Sub Placement	21
+8.0	Well Performance	22
+8.1	Performance Measures	22
+8.2	SD A-03 Drilling Performance Curve	23
+8.3	SD A-03 ‘P10’ Time Breakdown (NB : Used for equipment/personnel planning)	24
+9.0	Primary and Contingency Operations	25
+9.1	Primary Operational Sequence	25
+Background Data for 16-1/2” & 12 ¼” Hole Sections	27
+9.2	Contingency Operations	34
+10.0	Data Acquisition / Evaluation Plan	37
+10.1	SD A-03  Data Acquisition Requirements	37
+10.2	Shah Deniz Well SD A-03 Evaluation Plan	38
+10.3	Mudlogging Evaluation Plan	40
+11.0	Directional Drilling and Survey Program	41
+11.1	Wellbore Trajectory & Listing (Version : 4i 12th Jan 2004)	41
+11.2	Anti Collision	43
+11.3	Survey Program	43
+12.0	Appendix	44
+13.0	Departures to Policy	45
+14.0	Wellhead / BOP System & Casing Test Pressure	46
+14.1	Wellhead	46
+14.2	BOP	46
+14.3	BOP and Casing Test Pressures	47
+14.4	Casing Design Summary – MASP, KT, Casing Wear	50
+14.4.1	MASP, Kick Tolerance, Test Pressures	50
+14.4.2	Casing Wear Strategy	51
+15.0	Expected Casing Load on Drillpipe	52
+15.1	22" Surface Casing with 5”, 25.6# Drillpipe	52
+15.2	16” Drilling Liner with 6-5/8”, 27.7# Drillpipe	52
+16.0	Drilling Fluid Program Summary	53
+17.0	BHA Program	59
+17.1	26” BHA	59
+17.2	22” Csg Cleanout BHA c/w PWD (LOT Interpretation)	60
+17.3	19-1/2” Primary BHA	61
+17.4	16-1/2” Primary BHA	62
+17.5	12-1/4” Primary BHA	63
+17.6	8-1/2” Primary BHA	64
+18.0	Casing Detail Schematics	65
+18.1	22” Surface Casing with High Pressure Wellhead	65
+18.2	16” Drilling Liner	66
+18.3	13-3/8” x 13-5/8” Intermediate Casing	67
+18.4	10” x 10-3/4” Production Casing	68
+18.5	5-1/2” Production Liner	69
+19.0	Cement Program	70
+19.1	22" Surface Casing	71
+19.2	16” Liner	73
+19.3	13-3/8” x 13-5/8” Casing	75
+19.4	10” x 10 3/4” Production Casing	77
+19.5	5-1/2” Production Liner	79
+20.0	Bit Program	81
+20.1	Base Plan Primary Bits & Back-up Bits	81
+21.0	Contingency Plans	84
+21.1	Hole Interval Decision Analysis/Trees	85
+21.1.1	 19 ½” Interval Decision Information - 18” Contingency Liner Trigger : Wellhead Flow or Losses	85
+21.1.2	16 ½” Interval Decision Tree - 16” Csg Shoe Test : LOT Results & Options	86
+21.1.3	13 3/8’’Csg Shoe : LOT Results & Options	87
+21.1.4	Problems in/below Sabunchi - 11 ¾”Contingency Liner or early 10” Casing & 7 5/8” Contingency Liners	88
+21.1.5	 8 ½” Interval Decision Tree - 7-5/8” Contingency Liner  Trigger : Losses, Pressures, Well Control	89
+21.1.6	8 ½” Interval Decision Tree - 7-5/8” Contingency Liner for Reservoir Isolation. Trigger : Washed Out SP1 Shale	90
+21.2	MWD  /  LWD Decision Analysis/Trees	91
+21.2.1	26” Hole for 22” Casing	91
+21.2.2	19.5” Hole for 16” Liner	91
+21.2.3	16.5” Hole for 13 3/8” Casing	92
+21.2.4	12 ¼” Hole for 10” Casing	94
+21.2.5	8 ½” Hole for 5 ½” Liner	96
+22.0	E2 Platform Location Summary of Site Conditions	97
+23.0	Challenges, Risks and Contingencies	99
+23.1	Shallow Gas	99
+23.2	Mud Volcanoes	99
+23.3	Shallow Water Flows	99
+23.4	Shallow Faults	99
+23.5	‘Q’ Sands, 22” Cementing & 19 ½” Hole Well Control	100
+23.6	Mudweight/WBS/Kick Tolerance/ECD Management	100
+23.7	Tectonic Stresses	101
+23.8	High Collapse Pressures	102
+23.9	High Burst Pressures	102
+23.10	Reservoir Depletion	102
+23.11	Depth Variation	102
+23.12	Deep Reservoir Targets	102
+23.13	Slim Clearances	102
+24.0	Overview of Exploration / Appraisal Wells	103
+24.1	SDX-1, 1Z, 1Y	103
+24.2	SDX-2, 2Z, 2Y	103
+24.3	SDX-3, 3Z, 3Y, 3X	104
+24.4	SDA-01	104
+24.5	SDA-02	104
+25.0	Contact List	105
+1.0	Document Distribution List
+2.0	Shah Deniz Project Introduction & SD A-03 Overview
+Shah Deniz is a gas condensate reservoir in the Caspian Sea, offshore Azerbaijan. To date, three exploration / appraisal wells, namely SDX-1, 2 and 3 have been drilled on the structure. Three wells, SD A-01, SD A-02 & SD A-03 will be pre-drilled, at the E2 location, from the Istiglal semi-submersible rig and tied back to a jack up platform. Pre-drill wells SD A-01 and SD A-02 have now been drilled. SD A-03 will be the third pre-drill development well and should be spudded around 21st February 2004.
+A further six production wells will be drilled from the platform starting in 2006. An additional five sub-sea wells will be drilled at a later stage from the E3a location to maintain plateau production. The primary objective for the first three pre-drills and six platform wells will be to produce SP2 and SP3 with re-completion potential in the Balakhany VIII.
+The three reservoir targets are the Balakhany VIII and Sand Packages 2 and 3 (SP2, SP3) of the Upper Fasila. SP4, below SP3 will also be penetrated for production later in the life of field.
+The reservoir section is at high pressure, between 9,250psi and 12,000psi, but low temperature. Maximum bottom hole temperature, at approximately 6000 m TVD, is around 100oC to 105oC. Stage 1 of the field development is based on a platform, plus sub sea facility, in the East Flank. These facilities are planned at locations, denoted E2 and E3a, in water depths of 101 m and 293 m respectively.
+Fig 1.1 presents a plan view of E2 and E3a locations relative to the Shah Deniz structure and the location of the three exploration / appraisal wells, SDX-1, SDX-2 and SDX-3. SDX-1 is the closest offset to the platform location E2. Probable bottom hole targets are shown for both E2 and E3a wells, based on base SP3.  Note: SD A-01 is AL, SD A-02 is AE and SD A-03 is the AM target location.
+Figure : Platform and Sub-Sea Locations Relative to the Shah Deniz Structure
+The AM well has been designed to step out 2.3 km from the E2 location, in line with the plan to progressively increase step-out for each pre-drill well. The well is planned to deviate to the southeast to penetrate the reservoir section in a more crestal location than any of the previously drilled wells. E2-AM will penetrate the Top Balakhany 8A formation approximately 300m vertically updip from SDX-2 (the previously highest penetration point), and penetrate the base SP3 approximately 420m vertically updip from SDX-2.
+E2-AM has been targeted to meet the objectives both of drilling an updip location with good reservoir properties and of extending our experience of drilling progressively more deviated wells.
+The well has also been designed to drill to the defined target zone within a set of drilling constraints.  These drilling constraints have been deliberately chosen to allow graduated learning in the drilling of increasingly deviated and complex wells.  The drilling constraints used in the design of E2-AM were:
+Drill the overburden section with an inclination angle not greater than 45 degrees
+Penetrate the upper Sabunchi section with at least a 0.1 SG drilling window
+Drill the SP1 to SP2 section with an inclination angle not greater than 20 degrees
+The narrowest drilling window in the entire borehole occurs in the upper Sabunchi formation where sands have the highest amount of overpressure.  The well has been designed to allow at least a 0.1 SG drilling window between the pore pressure in the highest pressured Sabunchi sand and the Brumfield fracture gradient in the surrounding shales (figure 3).  The Brumfield fracture gradient used here is unmodified for tectonic stress (i.e. has not been elevated to account for compressive stress effects).  Although this window is narrower than that encountered in the previous predrill wells it is still wider than that drilled by SDX-2 (0.04 SG window).
+The E2-AM planned trajectory drops angle in the Balakhany formation (by the top of SP1 (Balakhany 9).  Low inclination angles are considered necessary to maintain reservoir isolation by ensuring cement integrity around liners, and isolating high pressure SP1 sandstone from the lower pressure SP2 and Balakhany 8 gas reservoirs.  Low inclination angle also helps minimise borehole breakout through these zones.
+Taking into account the constraints above, the well trajectory for E2-AM has been designed to penetrate one geological target (SP3) and one drilling target (SP1) to facilitate drilling the well safely. The well also penetrates SP1 with TD below SP4. This the four main targets and penetration points are as follows :-
+Drilling Target : Top Sabunchi penetration point (on the se250 depth surface) which would allow a 0.1 or greater drilling window.
+Top SP1 penetration point (on se284 depth surface) to indicate where inclination should be < 20
+Primary Reservoir Target : Base SP3 penetration point (on se300 depth surface) to target the seismic amplitude anomaly for the SP3 sand.
+Base SP4 penetration point.
+The well trajectory is vertical from the surface to 30” conductor shoe at 182m MDBRT. It then maintains 4 inclination (away from the other template slots) until the KOP in the 16 ½” section. Below the KOP inclination then builds at 2 deg./30m until c.42 is achieved.  This angle is maintained in the 12 ¼” section through the Sabunchi and into the  Balakhany. Inclination is dropped in the 8 ½” section from c.42 to c.16 at 1.5 deg./30m by top of SP1, then maintained until the TD of the well.
+Well E2-AM will also meet the additional objective of providing information on the possible presence or absence of boundaries and compartmentalisation in the crestal area of Shah Deniz (via MDT results which will give an indication of reservoir interference/communication).  Previous mapping over the crest of the Shah Deniz structure identified a number of apparent near- vertical discontinuities.  These could be interpreted as the result either of faulting or of poor data imaging (due to uncertainties in the velocity model used in migration).  One of the main objectives of the recent Pre-Stack Depth Migration (PSDM) reprocessing effort at Shah Deniz has been to determine whether the number of such discontinuities is reduced with further iteration of the velocity model. Recent results of PSDM reprocessing do show a significant reduction in the number of discontinuities.
+3.0	SD A-03 Well Objectives & Key Risks
+3.1	SD A-03 Well Objectives
+HS&E
+Achieve Health, Safety, and Environmental expectations of "No Accidents, No Harm to People and No Damage to the Environment"
+Deliver industry leading safety performance for wells related activity.
+Full compliance with Azeri regulatory requirements.
+Full compliance with BP 2003 & 2005 discharge requirements.
+Meet the Base
+Meet production profile requirements.
+Ensure well deliverability and reliability
+Productivity of 170mmscfd (year 1) and 140mmscfd (4 year average).
+KH > 7,000 mdft from SP2 (Bal X) + SP3 (Fasila B) in A03.
+Minimum of 200 m standoff from BVIII GWC.
+Isolation of all major high-pressure water sands in primary cementing.
+Sand production maintained to less than 0.1 lb per mmscf from A03.
+Provide sufficient data to design detailed completions for sand free production.
+No “Facilities Surprises” from A03.
+Well availability of at least 95% from A03.
+Deliver first gas 31st August 2006
+Drill A03  in 69 days/10Kft (Ref FINAL DCUS)
+Suspended for efficient tieback and completion.
+Ramp-up profile delivered.
+2.3 km step out in A03 penetrating primary targets within target radius.
+No impact to platform location integrity from A03.
+Plateau production maintained through well reliability and reservoir access.
+Provide sufficient data to allow delivery of future 3 km ERD.
+Provide sufficient data in A03 to characterize SP2 (Bal X), SP3 (Fasila B) and SP4 (Fasila D) reservoirs for detailed completion, perforation strategy and calibrate seismic.
+Risk Mitigation and Opportunity Creation
+Create $100mm value to Stage 1 Base Case
+Improvements in drilling performance and well design.
+• 	Deliver well within AFE (Final DCUS) Cost of $50mm +/- 10%
+• 	Target 45 – 50 days/10K for Well #3 (Mean : 69 Days/10k, P10 ; 45 Days/10k)
+• 	Target 27 days completion time for A01, A02 & A03.
+• 	Target 75 days tie-back & completion time for A01, A02 & A03.
+Reduction of subsea requirements
+Target 11.9 tcf of gas accessible to platform.
+Drill to base of SP4 (Fasila D) + logging sump.
+3.2	SD A-03 Key Risks
+The slide below describes the key risks during the execution of SD A-03 and also highlights the “Top 5”. Refer to section 23 for more details.
+4.0	Well Data Section
+4.1	Well Data Summary
+Formation Tops
+
+## TD Criteria
+To retain completions flexibility particularly with respect to the initial perforating of the SP3, drill as deep as possible, but not more than 36m MD /34m TVD, beneath SP4.
+This will avoid penetration of high pressure NKG sands (17,500 psi, 1.96 EMW) which (as discovered on SD A-01) can not be penetrated or completed in phase 1 due to the current platform design (flow lines / Christmas tree).
+TD Depth
+Based on above criteria and current geological prognosis :-
+Base SP4 is at 	6249m MDBRT		5457m TVDBRT	5434m TVDss
+TD is at 	6285m MDBRT		5491m TVDBRT	5468m TVDss
+TD Downhole Data
+TD criteria & depth will be revised based on results from SD A-02 and as SD A-03 progresses.
+Template Location Data
+SD A-03 Geological Forecast & Lithological Sequence
+Geothermal Temperature Profile
+A typical geothermal temperature profile at the E2 platform location is presented below. Plotted is a Temispak extraction at the SDX-1 location and actual data points from SDX-1 logs. The latter data has been corrected to formation temperatures using the Horner plot method.
+The likely range for seawater surface temperatures is between 27oC and 6oC. Temperatures at mid water depth range from 7.3oC to 6.7oC and temperatures at mud line range from 7oC to 5oC.
+5.0	Pore Pressure - MW - FG Plot
+Wellbore Schematics
+6.1 	Casing Design Schematic – Base Case
+6.2	Casing Design Schematic - With Contingent Liners
+7.0	General Well Information
+7.1	Well Data Sheet
+* SM125S appears on BP inventory as Q125
+**Actual test pressures should be adjusted for depth and mud weight at time of test.   SEE SECTION 14 FOR MORE DETAILS ON TEST PRESSURES CRITERIA.
+Casing & Liner Specification Sheet
+7.3	Casing & Liner Make-up Torques
+7.4	Burst Disk Sub Placement
+22" Casing: 1 BD sub placed below xover joint – approx. 20 meters below mudline.  Burst Disk Outward Pressure Rated to 5000psi +/- 5% @ 150o F, 4871psi to 5384psi @ 72o F.
+16" Casing: 1 BD sub placed below first full-length casing joint below 16” casing hanger. Burst Disk Pressure Outward Rated to 4500psi @100o F and Inward Collapse Rating is 1300psi to 1500psi @150o F & 1333 psi to 1538psi @ 72o F.
+8.0	Well Performance
+8.1	Performance Measures
+The Performance measures below have been produced taking into account :-
+Performance to date on SD A-01 & SD A-02.
+Scope, complexity, risks and contingencies for SD A-03.
+Comparison to Best In Class data.
+P(Mean) Duration & Cost Estimates are shown. These have been used to secure funds for the well via the Final DCUS (Drilling & Completion Uncertainty Statement).
+However during execution the On and Offshore rig teams rig will be focused on delivering the Rig Team target set by the joint team via the Technical Limit process.
+Best in Class (BIC) data is also shown for comparison purposes.
+SD A-03 : OUTPUT FROM DCUS (Drilling & Completion Uncertainty Statement)
+SD A-03 : PERFORMANCE MEASURES AND COMPARISONS
+8.2	SD A-03 Drilling Performance Curve
+8.3	SD A-03 ‘P10’ Time Breakdown (NB : Used for equipment/personnel planning)
+9.0	Primary and Contingency Operations
+NB : Refer to Shah Deniz Well Operations Manual  for detailed steps.
+9.1	Primary Operational Sequence
+26” Open Hole, 22” Casing (Riserless)
+TD Criteria
+Top-set Q sands.
+Depth Pick.
+M/U & RIH w/ 26” steerable motor drilling BHA.
+Drill 26” hole, starting a surface nudge one stand below the 30” shoe (to avoid high dog-legs and 16” lnr hang-up problems thru 22”). Build to 4o inclination and hold to section TD of c.590m MD/TVDBRT. Section to be drilled with SW & viscous sweeps.
+Displace hole to 1.30sg Polymer + PHB mud. POOH.
+NB : Please note changes in mud used to displace 26” OH. Mud weight has been increased from 1.25 – 1.30 sg. Also, Polymer has been added to PHB mud. The objectives of these changes are as follows :-
+Mudweight has been increased in an attempt to eliminate ‘fizz-gas’ migration as observed on SD A-02 (before running 22” casing).
+Polymer has been added in an attempt to control stability of Yield point of mud and thus aid removal during cement placement.
+Run and cement 22” casing with shoe at c.581/580m MD/TVDBRT.
+Run 18 ¾” 15k BOP stack and riser. Test BOP/Wellhead connector to 15,000 psi.
+Pressure test casing as per section 14 (BOP tested on stump / only requires function test).
+MU & RIH with 17 ½’’ x 20” Under-Reamer, dedicated clean out BHA.
+Displace system to SOBM weighted to 1.50sg SMW /1.51sg DHMW.
+Drillout 22” shoe plus 3 meters of new formation and perform LOT.
+NB : Theoretical max LOT is 1.73sg. Expected LOT is 1.55sg. 1.74sg LOT is required in order to drill ahead in compliance with BP Kick Tolerance policy (Min 25 bbls) ie. a policy dispensation will be required and will be written in advance.
+The BP Drill Rep should ensure there is signed copy of the dispensation on the rig before proceeding with the next section.
+If LOT is below 1.54sg discuss squeezing 22 shoe, otherwise continue as per programme and as per dispensation.
+After LOT, continue to drill ahead with dedicated cleanout BHA to c.35m below 22” shoe to ensure RWD (on next BHA) is clear of the 22” casing. POOH with dedicated cleanout BHA.
+12-1/4” x 19-1/2” Open Hole, 16” Liner
+TD Criteria
+Above 2nd Surakhany Anhydrite.
+Geo Pick using LWD.
+RIH with 12 ¼” x 19 ½” RWD, Rotary Steerable, BHA. Drill ahead, holding 4o inclination to section TD of c.2034m MDBRT / 2030m TVDBRT.
+Run wireline logs.
+Run and cement 16” liner with shoe at c.1999m MDBRT / 1995m TVDBRT and Top of Liner at 330m TVD/MDBRT (c.250 lap). Bump plug with final circulating pressure + 1000 psi.
+Set lnr hanger top seal and P/T to 1000 psi.
+Activate 13 5/8” Csg Hgr load shoulder.
+Pressure test 16” casing, Casing Hanger Seal Assembly and BOP as per section 14.
+RIH w/ 14-3/4” x 16 ½’’ Ander-Reamer, Rotary Steerable, Drilling / Hole Opening BHA.
+Weight up to 1.88sg SMW /1.91sg DHMW (SOBM).
+Drillout 16” shoe plus 3 meters of new formation.
+Perform FIT to 1.98sg.
+NB : 1) Max shoe strength as indicated by model is 1.95sg. However wells SD A-01,2 achieved 2.01sg LOT and 1.98sg FIT respectively. Hence there is a high degree of confidence that 1.98sg FIT will be achieved. Kick tolerance policy is met.
+Background Data for 16-1/2” & 12 ¼” Hole Sections
+On SD A-03, as a result of it’s updip location, there is a tight (0.12 sg) Pore/Frac window, through the Sabunchi, just below the 13 3/8” shoe at the top of the 12 ¼” section. This results in SD A-03 being different to SD A-01,2 in the following ways.
+The mudweight used in the 12 ¼” section is higher than normal due to the increased pore pressure at the top of the section. The chosen downhole mudweight of 2.05sg provides :-
+Approximately 100 psi overbalance to predicted Pore Pressure (Swabbing Awareness is crucial).
+Approximately a c.0.06sg ECD/Fracture Strength Window.
+As a result of the above, at the base of the 12 ¼” section, the reducing fracture pressure (in the Balakhany) comes very close (0.04 sg) to the Equivalent Mud Weight (EMW) when circulating (ECD).  Accordingly, the 12 ¼” TD / 10” Casing shoe criteria has been made shallower to avoid catastrophic losses in the Bal 8A where the pore pressure regression occurs (as experience on SDX-2 in similar circumstances).
+To allow the required higher MW to be used in the 12 ¼” section, placement of the 13 3/8” shoe, slightly deeper than usual, in the Sabunchi Horn (rather than above it) will be essential to get the required increased shoe strength (as shown by well SDX 2).
+NB : If there is any doubt that the 13 3/8” shoe may not be in the Sabunchi Horn then a dedicated cleanout trip, with a BHA consisting of a 14 ¾” bit directly below a 16 ½” Ander-Reamer, will be made to open up the 14 ¾” rathole.
+This will allow the shoe to be set deeper with a greater confidence that it is in the Sabunchi Horn. Correct placement of the 13 3/8” shoe combined with a satisfactory LOT (2.15sg), is a key aspect to the successful delivery of SD A-03 in that it will avoid having to use the 11 ¾” contingency liner option early in the execution of the well due to insufficient 13 3/8” shoe strength.
+Since the 13 3/8” shoe is being ‘pushed’ slightly deeper into the Sabunchi Horn the mudweight required for the 16 ½” section will be higher than normal – 1.91sg Versus 1.83 sg DHMW.
+Correspondingly, increased awareness/management of Surface/Downhole Mudweight, Overbalance, Pit Levels/Management, Kick Tolerance, ECD, Surge/Swab trends & Wellbore Stability will be crucial in order to avoid :-
+Exceeding fracture strength which could cause losses.
+Letting the well go under balance which could cause a Well Control situation.
+To this end specialist engineers from “KSI” (a company which specialises in ECD mgt) will be on board during the end of the 16 ½”  section and during all of the 12 ¼” section with the sole objective of assisting the on/offshore teams in managing ECD during Drilling, Tripping & Casing Running/Cementing Operations.
+Cont’d overleaf…………..
+The intention is to have agreed plans for the Drilling, Tripping, Logging & Casing of the 16 ½” & 12 ¼” section to ensure ECD is managed, any hole cleaning issues addressed & casing running speeds controlled.
+Pre-section meetings will be held between the on/offshore teams to discuss these plans and to ensure that everyone is aware of the all the factors which while affect Drilling, Tripping & running Casing (See below).
+Recognition of sensitivity of Hole Cleaning vs. Well Trajectory ie. SD A-03 will be more sensitive to hole cleaning than the previous wells due to it’s higher angle.
+Segmenting of pertinent sections into Build / Tangent / Drop intervals
+Tools we can use 		- Hole Cleaning Model – ‘Virtual Hydraulics’’
+- Drill Plan: ROP, FLOW, RPM, TRIPS?
+- Trip Plan: POOH, Stage Circ, back ream?
+Trends ‘Listen to the Well’		- Torque/Drag – P/U and S/O trends.
+- Pump Pressure / PWD.
+- Cuttings Volume
+- Mud balance
+Considerations
+Move pipe into a section of clean hole before starting pumping if over pulls are observed.
+Start pumps first and gradually bring up to drilling rate and stable circulation pits.
+Bring rotary on slowly monitoring hole and pump pressure.
+REFER TO USEFUL REFERENCE SKETCHES OVERLEAF
+14-3/4” x 16-1/2” Open Hole, 13-5/8” x 13-3/8” Casing
+TD Criteria
+Top Sabunchi Horn + 74m MD (MAXIMUM).
+Geo Pick using LWD.
+Drill 14-3/4” x 16 ½’’ hole maintaining 4° inclination until the KOP at c.2230mMD / 2225m TVDBRT, then building from 4° to 42.12° inclination and holding angle to section TD of c.4441m MDBRT / 3958m TVDBRT.
+Run wireline / pipe conveyed logs (2 runs).
+Run and cement 13-5/8” x 13 3/8” casing with shoe at c.4387m MDBRT / 3918m TVDBRT. Bump plug with final circulating pressure + 1000 psi.
+NB : Casing will be run with Full bore System and 13-5/8” casing.
+Release running tool & lay down running string.
+Run mill and flush assembly.  Mill and flush 13-5/8” casing hanger seal area.
+Run casing hanger seal assembly and install on casing hanger.
+Set and pressure test seal to 7,500 psi.
+Pressure test 13 5/8” x 13-3/8” casing and BOP as per section 14.
+RIH with 12 ¼” , Rotary Steerable, BHA.
+Weight up to 2.02sg SMW /2.05sg DHMW (SOBM).
+Drillout 13 3/8” shoe plus 3 metres of new formation.
+Perform Hesitation LOT.
+NB : A hesitation LOT is being performed. This method gives a clear indication of bottom hole stabilized pressure and in turn high confidence in the resulting 13 3/8” shoe strength. A separate instruction will be written for this operation.
+Model indicates shoe strength range of 2.11sg – 2.16sg (2.16sg or higher is expected).
+Min required LOT is 2.15sg based on :-
+Max DHMW (2.07sg)+ECD (0.04sg)+Safety Margin (0.04sg).
+Refer to section 21 (Contingency Plans) for decision tree covering :-
+Lower than 2.15sg LOT at 13 3/8” casing set as planned in the Sabunchi Horn OR early (above the Sabunchi Horn).
+It should be noted that one of the options in the above situation is to pump a Designer Mud pill in an attempt to improve fracture strength.
+12-1/4” Open Hole, 10” x 10-3/4” Casing
+TD Criteria
+MAXIMUM of 133m TVD below the base Sabunchy/Top Balakhany pick (above Balakhany VIIIa).
+Geo Pick using LWD.
+Drill 12-1/4” tangent hole to section TD of c.5267m MDBRT / 4570m TVDBRT.
+Run wireline logs as required (2 runs).
+Run 10-3/4” x 10” casing to c.5257m MDBRT / 4563m TVDBRT and cement.  Bump plug with final circulating pressure + 1000 psi.
+Casing will be run with Full bore System and 10-3/4” casing.  Displace cement with 1.85sg surface density synthetic based mud, objective is to achieve 1.88 sg Downhole Mud Weight.  Release running tool and lay down running string.
+Run in hole with mill and flush assembly.  Mill and flush 10-3/4” casing hanger seal area.
+Run casing hanger seal assembly and install on casing hanger.  Set and pressure test seal to 10,000 psi.
+Pressure test 10-3/4” x 10” casing and BOP as per section 14.
+Run in hole with 8-1/2” RSS/ARC/AND/Isonic BHA.
+Drillout 10” shoe plus 3 meters of new formation.
+Perform FIT to 2.20 sg maximum equivalent downhole mud weight.
+NB : FG at 10” shoe, based on model, is estimated @ 2.13sg so L/O may occur.
+The intention is to have  ‘Drill’, ‘Trip’ & ‘Case’ Plans for the 12 ¼” section to ensure ECD is managed – refer to previous notes, pages 27 - 30.
+8-1/2” Open Hole, 5-1/2” Production Liner
+TD Criteria
+36m MD / 34m TVD, below base of SP-4.
+Geo Pick using LWD.
+Drill 8 ½” hole, dropping inclination from 42 – 16 degrees by c.5827m MDBRT / 5051m TVDBRT at 1.5 deg/30m.
+Maintain 16 degrees inclination to TD at 6285m MDBRT / 5491m TVDBRT.
+Run wireline / pipe conveyed log(s).
+Run and cement 5-1/2” liner with shoe at c.6284m MDBRT / 5490m TVDBRT. Bump plug with final circulating pressure + 1000 psi.
+Casing/Liner Cleanout, Displacement & Suspension procedure.
+NB : A separate programme will be written to cover the Casing/Liner cleanout, Displacement & Suspension procedure.
+Cleanout 10” casing to TOL with 8-1/2” bit.
+Dress off TOL and polish tieback PBR.
+Run and set liner top packer. Pressure test 5-1/2” Liner, 5-1/2” Liner Top and 10-3/4” x 10” Casing to required positive pressure as per section 14.
+Run in hole with DLT packer to perform required negative in-flow test of liner top.
+PU and RIH with 4.25” mill & motor on 2-7/8” liner clean out string. POOH.
+Run casing and cement evaluation logs
+Run back in hole with 4.25” mill & motor on 2-7/8” liner clean out string.  Displace wellbore to suspension fluid  (Treated Inhibited Seawater) in two mud weight stages to reduce displacement pressure.
+Note: May be able to eliminate second run of 2-7/8” string depending on SDA-02 USIT in water test.
+Pressure test casing to final Maximum Anticipated Wellhead Pressure.
+Run cementing string and set a 100m ‘deep-set’ cement plug in 10” above 5-1/2” liner top. POOH.
+WOC then RIH with 8 ½” bit and dress/weight-tag cement plug with 5/10Klbs.
+RU wireline to run bridge plug.  Set bridge plug +/- 20m above cement plug.
+Place ‘shallow-set’ 100m cement plug c.250m below 10-3/4” crossover. POOH.
+Pressure test cement plug to 2500psi.
+Release BOP from wellhead and pull riser and BOP stack.
+Install corrosion cap and corrosion inhibitor.
+Perform site survey with ROV. Move rig.
+9.2	Contingency Operations
+9.2.1	  18” Liner
+Due to the complex nature of the SDA-03 there is an increased likelihood of running the 18’’ contingency liner. The 18’’ liner may be run for the following reasons: -
+Due to significant losses (c. +50bph) while drilling the 19 ½’’ hole section. High losses to the formation of SBM may increase the chance of SBM flow from wellhead side ports. In this scenario, if possible, the drilling will continue to below faulted interval c.1100m TVDBRT.
+As an environmental barrier ie isolation of SBM flow from wellhead ports observed during the 19 ½” section below the 22” casing shoe.
+Note #1
+SBM flow was observed from the wellhead ports on SDA-01 and 2. The source of the SBM is not known – it may from the well that was being drilled at the time or from an adjacent well. In either case a poor cement job, between the conductor and the 22” casing was the leak path to surface. On SD A-03 the 26” open hole displacement mud weight and design & 22” cement volume have been revised in an effort to delivery an cemented 22”/conductor annulus.
+Note #2
+However it should re recognised that running of the 18” liner may induce more losses to the zone around the 22” shoe (and ultimately from the ports) by virtue of the tight clearances between the 22” casing and 18” liner ie. it may be more attractive to continue to TD and run the 16” liner as planned.
+Bearing the above in mind the best option may be to only run the 18” contingent liner if both wellhead flow and downhole losses are being experienced.
+An 18” liner and all associated components are available as a contingency.
+The sketch below is a useful reference when considering the various scenarios that may occur during the execution of SD A-03.
+9.2.2	  11-3/4” & 7 5/8” Liners
+Due to the complex nature of the SDA-03 there is an increased likelihood of running the 11 ¾’’ or 7 5/8” contingency liners.
+In the event that 13 3/8’’ or 10’’ casings do not reach the planned depth or if there are concerns over reservoir isolation, an 11 ¾’’ or 7 5/8’’ drilling liner contingency may be used respectively. Running and cementing these low clearance liners introduces further additional risks.  No contingency liners (11 ¾’’, 7 5/8’’) were required on SDA 01 or SDA 02.
+9.2.2.1  11-3/4” Liner
+It is considered that there are two scenarios which would result in the 11 ¾” Contingent Liner being run on SD A-03: -
+Scenario 1
+13 3/8” casing set early above Sabunchi Horn (due to losses/instability in 16 ½” section).
+11 ¾” liner shoe set in the Sabunchi Horn in order to drill through tight Pore/Frac window (0.1sg) below Sabunchi Horn and through Sabunchi.
+Drillout with 10 5/8” x 12 ¼” Ander-reamer BHA to as planned original TD of 12 ¼” section (top Bal 8A).
+Set 10” casing.
+Scenario 2
+13 3/8” casing set as planned in Sabunchi Horn.
+Problems encountered (due to losses/well instability) drilling through tight Pore/Frac window (0.1sg) below Sabunchi Horn and through Sabunchi.
+11 ¾” liner shoe set part-way through Sabunchi. Consider reducing MW.
+Drillout with 10 5/8” x 12 ¼” Ander-reamer BHA to as-planned original TD of 12 ¼” section (top Bal 8A) and set 10” casing.
+Set 10” casing.
+Refer to decision tree in Appendix 21 for more detail. An 11-3/4” liner and all associated components are available as a contingency.
+9.2.2.2     7-5/8” Liner
+As per comments above, it is considered that if problems were encountered BELOW the Sabunchi formation in the 12 ¼” section, then the remaining Pore/frac characteristics to reservoir TD would make it acceptable to set the 10” casing early and a drill longer 8 ½” section drilled to reservoir TD. ie. there is no real benefit of setting the 7 5/8” liner as long as the Sabunchi has been isolated.
+As per SD A-01/2 and comment above, most likely, the 7 5/8” liner would only be run (to enhance reservoir isolation) if severe washout of the shale between SP1 (HP Water) and SP2 (Gas  reservoir) is seen from the LWD or W/L caliper information.
+Refer to decision tree in Appendix 21 for more detail. A 7 5/8” liner and all associated components are available as a contingency.
+9.2.3	Sidetrack
+Depending on the outcome, a geologic sidetrack may be required. Contingency plans and alternate targets are being developed.
+9.2.4	Re-Spud
+In the unlikely event that a major failure in the top hole section results in the need to re-spud,  the contingency slots, from a directional drilling perspective, are slots 2 or 4. Compatibility of these slots will topside aspects still needs to be checked.
+9.2.5	Relief Well
+Relief well surface location still to be determined. Location will be based on drilling to the 10” casing shoe of SD A-03. Surface location Criteria :-
+Down-dip of SD A-03.
+Cleared of shallow hazards.
+Within Istiglal’s Riser Mooring Analysis envelope.
+10.0	Data Acquisition / Evaluation Plan
+10.1	SD A-03  Data Acquisition Requirements
+10.2	Shah Deniz Well SD A-03 Evaluation Plan
+10.3	Mudlogging Evaluation Plan
+Please note changes in red italics compared to previous wells.
+(FEL – Formation Evaluation Log, DEL – Driller's Evaluation Log, PEL – Pressure Evaluation Log)
+1 Mud Samples: Collect mud samples for BP only as follows::-
+every 500m
+at each change of mud system,
+at 10m intervals through any hydrocarbon bearing zones,
+before each logging
+2 Wet samples for Geochemical and/or biostratigraphical analysis will be selected as a subset of one of the sets of bagged wet samples
+NB : In situations of high ROP, the sample interval can be adjusted dependent on drill rate but only after consultation with the Wellsite Geologist. However, please note the maximum interval between samples is 30m.
+11.0	Directional Drilling and Survey Program
+11.1	Wellbore Trajectory & Listing (Version : 4i 12th Jan 2004)
+11.2	Anti Collision
+SD A-03 is within proximity to existing wells SD A-01 and 02. Slot target allocation TFN (TFN # SD-TN-DE-045) provides additional details.  Nudge away from wells SD A-01and 02 and the remaining un-drilled slots will be made early and a gyro will be used to confirm adequate departure.  Drill pipe Gyro will also be used in drill string from 26” interval TD for directional tie in.
+11.3	Survey Program
+12.0	Appendix
+13.0	Departures to Policy	45
+14.0	Wellhead / BOP System & Casing Test Pressure	46
+15.0	Expected Casing Load on Drillpipe	52
+16.0	Drilling Fluid Program Summary	53
+17.0	BHA Program	59
+18.0	Casing Detail Schematics	65
+19.0	Cement Program	70
+20.0	Bit Program	81
+21.0	Contingency Plans	84
+21.1	Hole Interval Decision Analysis/Trees	85
+21.2	MWD  /  LWD Decision Analysis/Trees	91
+22.0	E2 Platform Location Summary of Site Conditions	97
+23.0	Challenges, Risks and Contingencies	99
+24.0	Overview of Exploration / Appraisal Wells	103
+25.0	Contact List	105
+13.0	Departures to Policy
+The following are the section of the well where BP Policy is not met and dispensation is required.
+Low Kick tolerance in 19 ½” section below 22” shoe
+To comply with BP 25 bbl kick tolerance a 1.74sg shoe strength is required. Based on SDA-01 and 02 results, a 1.55sg LOT is expected. This equates to a kick tolerance of c.11 bbls. A dispensation has been written to cater for this departure from policy.
+Although not departures from BP policy, EPTG Review of Casing Design for SD A-03 identified the following casing which do not meet the ‘shoe fracture gas to surface’ criteria :
+22"; (if the 16" is a run as a liner) to use FASwater and/or LK as burst load case design.
+16";  to use FASwater and/or LK as the burst load design case.
+13-3/8" by 13-5/8"; to use LK as burst load design case.
+11-3/4";  to use LK as burst load design case.
+10" by 10-3/4"; to use LK as burst load case design for the drilling case, the production case is OK.
+7-5/8"; to use LK as burst load design case.
+NOTE: LK = Limited Kick.  FAS = Frac at shoe.
+14.0	Wellhead / BOP System & Casing Test Pressure
+14.1	Wellhead
+18 ¾" 15M Vetco 36” X 18-3/4” MS-700 FULLBORE WELLHEAD SYSTEM  w/18 ¾" 15M ABB VG H-4 Profile
+14.2	BOP
+Specifications
+21" x 50' Vetco MR6-D riser complete with (2) 3” ID 15,000 psi WP H2S trim kill and choke lines; (1) 4" ID 5000 psi WP Booster line.
+18 ¾" 15,000psi BOP stack and Lower Marine Riser Package consisting of:
+LMRP:
+18-3/4” Hydril GX 10,000psi Annular BOP (1)
+BOP Stack:
+Hydril 18-3/4” 10,000psi Annular BOP (1)
+Hydril 18-18-3/4” 15,000psi WP double ram preventors (2) fitted as follows (top to bottom):
+Top Rams		Shear
+Upper Rams		Variable, 5 x 7
+Middle Rams		5”
+Lower Rams		Variable, 3-1/2” x 5”
+14.3	BOP and Casing Test Pressures
+36 / 32 / 30” Conductor
+The conductor is a structural pile and not for pressure containment, it does not require pressure testing.
+22” Surface Casing
+BOP Surface Stump Test
+The Subsea BOP shall be pressure tested to its FULL working pressure on the surface test stump (annular to be tested to 70% of rated working pressure).
+The stump test will serve as the primary BOP test for the 22” hole interval
+BOP Subsea Test & 22” Casing Test
+The BOP/Wellhead connector will be pressure tested to 15,000 psi surface pressure against isolation test tool.
+Function test the Stack on both pods, once the BOP is landed, as per CDC & BP procedures. Record volumes pumped and opening/closing times compare to those recorded during the surface test.
+Close the shear rams and pressure test 22” casing to a pressure equivalent to Max 16” Shoe Leak-Off Pressure + 500psi. For the depths and mud weights on this well, this equates to a 2000 psi surface pressure over seawater gradient.
+16” Casing
+The 16” casing will be pressure tested to 1000 psi over the final circulating pressure on the 16” plug bump.
+The annular and pipe rams will be pressure tested to 3500psi using the BOP Isolation Test Tool.
+Initial test of 16” seal assembly will be 1000 psi against pipe rams and running tool.
+16” csg and seal assembly then tested to a pressure equivalent to Max 16” Shoe Leak-Off Pressure + 500 psi. For the depths and mud weights on this well, this equates to a 2000 psi surface pressure over 1.50/1sg  S/DHMW.
+13-3/8 x 13-5/8” Casing
+The annular will be pressure tested to 7000psi (70% of its rated working pressure) against the seal assembly running tool.
+The pipe rams will be pressure tested to 7500psi against the 13-5/8” seal assembly running tool. This pressure is 75% of the 13 5/8” burst rating and equal or greater than the MAWP while drilling through the reservoir.
+The 13-3/8” x 13-5/8” casing and seal assembly will be tested against shear rams to a pressure equivalent to Max 13 3/8” Shoe Leak-Off Pressure + 500 psi. For the depths and mud weights on this well, this equates to a 3300 psi surface pressure.
+NB : 	Max 13 3/8” LOT - Modified Brumfield FG	2.30sg (Ref PP/FG/MW chart in section 5).
+SURFACE MW used to drill 16 ½” section 	1.88sg.
+13 3/8” shoe depth 	3918 TVDBRT (Ref : Diagram in section 6)
+10” x 10-3/4” Casing
+The 10 x 10-3/4” casing will be pressure tested to 1000 psi over the final circulating pressure on the 10” plug bump.
+The annular will be pressure tested to 7000psi against the 10-3/4” seal assembly running tool and/or the isolation test tool.
+The pipe rams will be pressure tested to 10,000psi against the 10-3/4” seal assembly running tool. This pressure is 73% of the 10-3/4” burst rating and greater than the MAWP while drilling through the reservoir.
+The 10” x 10 ¾” casing and seal assembly will be tested against the shear rams to a pressure equivalent to Max 10” Shoe Leak-Off Pressure + 500 psi. For the depths and mud weights on this well, this equates to a 3000 psi surface pressure.
+NB : 	Max 10” LOT - Modified Brumfield FG	2.25sg (Ref PP/FG/MW chart in section 5).
+DOWNHOLE MW to drill subsequent 8 ½” section 	1.88sg.
+10” shoe depth 	4563m TVDBRT (Ref : Diagram in section 6)
+NB : Please note that 10” cement slurry is displaced with the lighter mud (1.88sg) that will be used for the subsequent 8 ½” section. This is done to save time & improvement operational efficiency.  This cannot be done on the previous 13 3/8” casing string because the 12 ¼” MW is greater then cement slurry weight used for the 13 3/8” casing.
+Subsequent BOP Tests
+If the new modified 10” wear bushing, c/w ‘o’ ring which isolates the casing seal, is run then subsequent BOP tests can be carried out using the BOP test plug (without the risk of disturbing the casing seal).
+However if the modified wear bushing is NOT available then subsequent BOP tests will require pulling the wear bushing and running the BOP Isolation Test Tool.
+5-1/2” Liner
+The 5-1/2” liner will be pressure tested to 1000 psi over the final circulating pressure on the 5-1/2” plug bump against the liner running tool. Note – Liner cement overlap will not be tested at this stage.
+The 5-1/2” liner, liner top packer and 10” x 10-3/4” casing will be pressure tested to 3000 psi surface pressure against annular or pipe rams (Same criteria as 10” casing pressure test above).
+The 5-1/2” liner top will be negative tested to a seawater gradient to the landing collar using a retrievable packer.
+The 5-1/2” liner, liner top packer and 10” x 10-3/4” casing and 10-3/4” seal assembly will be tested to 9,000 psi surface pressure on top of sea water after successful positive and negative tests are achieved with mud in the hole.
+14.4	Casing Design Summary – MASP, KT, Casing Wear
+14.4.1	MASP, Kick Tolerance, Test Pressures
+14.4.2	Casing Wear Strategy
+A strategy to mitigate against excessive casing wear was put in place for SD A-01.  A baseline MFCT was run inside 10-3/4"x10" casing and a post drilled MFCT run after +/- 500 krevs.  The two logs indicated that virtually no wear had occurred during this time.  Part of the procedure was to use CWEAR software to back out wear factors from the casing wear signature.  However this is not meaningful due to negligible wear occurring.  During drilling and coring of the 8½" section metal returns from ditch magnets versus cumulative revs have been recorded.  This provides a qualitative measure of casing wear against time and provides a baseline against metal returns can be compared for SDA-02.
+A final MFCT was also run the after 5-1/2” liner was set on SDA-01 to further evaluate actual wear during slow drilling 8-1/2” section to TD.  Again negligible casing was observed.
+To date on SDA-02 (part-way through well suspension) significant indications of casing wear have not been observed although the Multi Finger Caliper Tool (MFCT) has not yet been run at TD so these results are not conclusive.
+The above results from SDA-01 and SDA-02 and comparison of the SDA-01, 2, 3 trajectories, indicate that the 8½" section on SDA-03 can be drilled without casing wear protection. However, should metal returns seem excessively higher than expected casing wear protection will be needed as a contingency.
+Recommendations for SDA-03
+Do not run a baseline MFCT on the production casing.  This proved to be of only limited value for SDA-01.
+Ensure awareness raised on rig with respect to criticality of casing wear and influencing operational factors (RPM).
+Ensure ditch magnets are used while drilling the 8 ½” hole section. Ditch magnets should be monitored on a 12 hourly basis and results recorded for rig site trend analysis.  Results should be directly compared with those from SDA-01 to look for strong deviations from this trend.
+Run a MFCT log at TD as final check and record of casing wear. Compare results to those from SDA-01 and 02.
+Note: May not be required based on SDA-02 result.
+It is recommended that Weatherford's Slick Sleeve tool be used as a contingency should casing wear protection be needed.
+Note : Casing wear protection was not mobilized for SDA-02.
+15.0	Expected Casing Load on Drillpipe
+15.1	22" Surface Casing with 5”, 25.6# Drillpipe
+15.2	16” Drilling Liner with 6-5/8”, 27.7# Drillpipe
+16.0	Drilling Fluid Program Summary
+Drilling Fluid Properties Summary – WBM & Novatec SBM
+Note: ALAP = As Low As Possible
+17.0	BHA Program
+17.1	26” BHA
+22” Csg Cleanout BHA c/w PWD (LOT Interpretation)
+19-1/2” Primary BHA
+17.4	16-1/2” Primary BHA
+17.5	12-1/4” Primary BHA
+17.6	8-1/2” Primary BHA
+18.0	Casing Detail Schematics
+18.1	22” Surface Casing with High Pressure Wellhead
+18.2	16” Drilling Liner
+18.3	13-3/8” x 13-5/8” Intermediate Casing
+18.4	10” x 10-3/4” Production Casing
+18.5	5-1/2” Production Liner
+19.0	Cement Program
+The detailed cement program completed for SD A-02 remains as the baseline for SD A-03. For SDA-03 extensive work has been done in reviewing the 22” cement jobs on SDA-01 and 02, resulting in a different slurry recipe for SDA-03 in an attempt to eliminate gas and SOBM flow from the wellhead ports.
+The end of well reports for SD A-01 and 02 includes job evaluations and lessons learned, and will be available for consultation.  Included in this Well Program are design summaries of each cement job.  These contain information on depths, hole size, fluid design, properties, volumes, flow rates, centralization, and product and equipment needs.
+A final CemCADE™ simulation and cement job program will be issued before each cement job, using real well and fluids data.
+Finally, after the job is executed, all data will be compiled into a thorough end of well report document, including lessons learned and areas for improvement in future operations.  A job report template can be found in Cement Program Appendix and in the Drilling Operations Manual.  This must be completed by the offshore cementer and sent to the engineer in town after every cement job to ensure all data is captured.  This will aid in the preparation of complete and useful job evaluations.
+Design Methodology
+In simple terms, the objective of a casing cement job is to remove the mud in the annulus and replace it with cement, thus providing an annular pressure seal.  Poor displacement mechanics will lead to incomplete displacement of the mud and this will leave a continuous mud channel across zones of interest, thereby permitting undesirable communication between zones.
+Key factors affecting mud removal are -
+mud, spacer and cement rheologies and densities
+mud conditioning before cement placement
+hole size, shape, angle, and condition
+centralization of the casing
+displacement rates
+Many of the above factors are inter-related and adjustments in one have an impact on other factors.  Where relevant the above factors will be discussed in the specific casing section.
+To enhance the possibility of success in meeting the key objective of mud removal, an advanced software package called WELLCLEAN II™ has been used.  This software provides a 2D representation of the wellbore, taking into consideration the factors listed above.  A visual image is collected during the placement simulation that provides an indication of the fluid profiles and the degree of success anticipated in removing the mud from both the narrow and wide side of the casing.  This model only considers mechanical aspects of displacement, and not any chemical interactions or incompatibilities between fluids.
+From the CemCADE™ simulation results, it is clear that the most important factors in cementing the critical reservoir section on Shah Deniz are the size, condition and shape of the open hole.  Hole ovality was an issue on the exploration wells, particularly on SDX 3 (SD-TN-DE-020).  The ovality is directly attributable to tectonics and mechanical instability of the wellbore.  Ovality makes centralization and mud removal difficult and is therefore a major issue for cementing success.  Every step must be taken to eliminate it.  Also, if an overly large hole is drilled then a successful primary cement placement will clearly be impossible.
+Schlumberger policy for thickening time is:  “The minimum thickening time for a cement slurry is the greater of the following:
+1.5 times the job placement time
+job time + 2 hours”
+This policy has been followed in all designs.
+19.1	22" Surface Casing
+19.2	16” Liner
+19.3	13-3/8” x 13-5/8” Casing
+19.4	10” x 10 3/4” Production Casing
+19.5	5-1/2” Production Liner
+20.0	Bit Program
+20.1	Base Plan Primary Bits & Back-up Bits
+21.0	Contingency Plans
+This section contains the following Decision Analysis/Trees
+Hole Section Decision Analysis/Trees (Section 21.1)
+19 ½” Hole Decision Information : 18” Contingency Liner.
+16 ½” Hole Decision Tree : 16” Casing Shoe LOT Results & Options.
+13 3/8” Casing Shoe LOT Results & Options.
+Various Outcomes : Drill ahead, Squeeze shoe or Set 11 ¾” Contingency Liner.
+Problems IN and BELOW the Sabunchi Decision Tree.
+11 ¾” Contingency Liner or Early 10” Casing and 7 5/8” Liner
+8.5” Hole : 7 5/8” Contingency Liner (Trigger : Losses, Pressures, Well control).
+8.5” Hole : 7 5/8” Contingency Liner (Trigger : Reservoir Isolation of SP1 shale).
+MWD  /  LWD Decision Analysis/Trees (Section 21.2)
+12.25” x 19.5” Hole Interval MWD  /  LWD Failure Decision Tree
+14.75” x 16.5” Hole Interval MWD  /  LWD Failure Decision Tree
+12.25” Hole Interval MWD / LWD Failure Decision Tree
+8.5” Hole Interval MWD / LWD Failure Decision Tree
+21.1	Hole Interval Decision Analysis/Trees
+21.1.1	 19 ½” Interval Decision Information - 18” Contingency Liner Trigger : Wellhead Flow or Losses
+21.1.2	16 ½” Interval Decision Tree - 16” Csg Shoe Test : LOT Results & Options
+21.1.3	13 3/8’’Csg Shoe : LOT Results & Options
+Problems in/below Sabunchi - 11 ¾”Contingency Liner or     early 10” Casing & 7 5/8” Contingency Liners
+21.1.5		8 ½” Interval Decision Tree - 7-5/8” Contingency Liner 
+Trigger : Losses, Pressures, Well Control
+21.1.6	8 ½” Interval Decision Tree - 7-5/8” Contingency Liner for Reservoir Isolation. Trigger : Washed Out SP1 Shale
+21.2	MWD  /  LWD Decision Analysis/Trees
+26” Hole for 22” Casing
+Stop above the running sands, slightly shallower than the pilot hole.
+
+#### LWD & Wireline
+None planned.
+21.2.2	19.5” Hole for 16” Liner
+Stop drilling at the 2nd Anhydrite prior to drilling into the pressure ramp
+
+##### LWD / MWD
+CDR (GR/Res) – Including directional drilling package, MWD and APWD
+
+###### Real Time Tool Failure
+Wireline Logs
+1 run on wire – data is for proof of operation of  the RWD tool.
+EMS/GPIT/GR
+Log			Ranking		Comments
+GR			    2		GR to Surface as primary log for depth tie.
+EMS/GPIT		    2		Oriented Caliper for breakout studies
+
+#### Ranking
+1 - At least 2 re-runs possible to acquire data if tool fails.
+2 - 1 re-run
+3 – Do not re-run
+21.2.3	16.5” Hole for 13 3/8” Casing
+Set the shoe within the ‘Sabunchi Horn’ – a c.80m TVD thick shale above SE250.
+
+##### LWD / MWD
+CDR (GR/Res) – Including directional drilling package, MWD and APWD
+
+#### Real Time Tool Failure
+
+##### Comments
+We could live with no LWD below the shoe, but by mid Surakhany (c.3000m) we need to re - establish correlation to ensure we get casing into Sabunchi horn.
+We must have working GR Res below 3000m to get shoe in the right place.
+
+##### Wireline Logs
+2 runs on wire – data is predominantly for WBS work:
+DSI/EMS/GPIT/GR
+LDT/CNT/GR
+Log			Ranking		Comments
+DSI			    2		Through casing up to 1500m
+GR			    2		-
+EMS/GPIT		    2		Oriented Caliper for WBS work
+LDT			    2		-
+CNT			    3		-
+Ranking
+1 - At least 2 re-runs possible to acquire data if tool fails.
+2 - 1 re-run
+3 – Do not rerun.
+21.2.4	12 ¼” Hole for 10” Casing
+Casing set at a suitable point above BVIIIA to mitigate against possible losses.
+
+##### LWD / MWD
+CDR (GR/Res) – Including directional drilling package, MWD and APWD
+
+###### Real Time Tool Failure
+
+##### Comments
+It may be possible to drill the section to near base Sabunchi without LWD, however top Balakhany needs to be picked with some certainty to avoid drilling too far into the pressure regression. Hence working LWD below 5000m.
+APWD fairly critical throughout the section, however, dependant on position of the well at the time, it may be possible to drill ahead without this tool.
+
+##### Wireline Logs
+2 runs on wire – data is predominantly for WBS work:
+DSI/EMS/GPIT/GR
+LDT/CNT/GR
+Log			Ranking		Comments
+DSI			    2		-
+GR			    2		-
+EMS/GPIT		    2		Oriented Caliper for WBS work
+LDT			    2		-
+CNT			    3		-
+
+#### Ranking
+1 - At least 2 re-runs possible to acquire data if tool fails.
+2 - 1 re-run
+3 – Do not re-run
+Contingent Cased Hole Log
+1 run on wireline
+Multi Finger Caliper Tool (MFCT)
+Note
+This log may be run, however this is entirely dependant on the results of MFCT runs in SDA-02.
+At this time (based on indications on SD A-02 to date) it is considered extremely unlikely that we run an MFCT on wireline immediately after running the 10“ casing.
+However the final MFCT log in the 10” casing after the running the 5 ½” liner, which is yet to run on SD A-02, will confirm this.
+21.2.5	8 ½” Hole for 5 ½” Liner
+Liner to be set c.35m MD below base SP4 (Fasila D) as picked by LWD
+
+##### LWD/ MWD – Including directional drilling package, MWD and APWD
+ARC (GR/Res) - priority log is Resisitivity.
+ADN  (Neutron Density)
+Isonic
+
+###### Real Time Tool Failure
+
+##### Comments
+May be possible to live without GR /Res for some of this section but needs to be working for potential gas in SP1 (below 5700m) and picking TD
+
+##### Wireline Logs
+1 run on pipe –or- 3 runs on wireline – The actual  method of acquisition of these logs will be dependant on cable tension modeling yet to be completed.
+
+###### Pipe
+OBMI/GPIT/MDT – switch – CMR/GR
+
+###### Wireline
+OBMI/GPIT/DSI/NGT
+CMR/GR
+MDT /GR (If wireline is planned, DSI will replace, ISonic from the LWD )
+Ranking
+Log			Ranking		Comments
+OBMI (for Caliper)	    1		OBMI will provide 4 arm Caliper
+OBMI (for diameter)	    2		Formation dips
+MDT			    1		Confirm Pressure model/baseline pressures
+CMR		    	    2
+DSI	    		    1		If run – otherwise sonic data will be acquired by Isonic
+
+#### Ranking
+1 - At least 2 re-runs possible to acquire data if tool fails. BUT if still no data this must be discussed before proceeding
+2 - 1 re-run
+3 – Do not re-run
+
+##### Cased Hole Logs
+Probably 3 runs on wireline, logs will consist of:
+USIT
+VSI/GR (VSP)
+Multi Finger Caliper Tool (MFCT) inside 10” casing. This log will be run only if SDA-02 shows a wear issue or if  there is an abnormal amount of metal on the magnet or if the rotating hours are significantly longer than in previous wells.
+Log			Ranking		Comments
+USIT			    1		Maybe run in Mud or Water – tbc from SD A-02 results.
+VSI			    1		VSP from TD to 13 3/8” casing point in 5 ½” lnr & 10” casing
+MFCT			    1 (if run)	Casing Wear (as required when drilling 8 ½” hole).
+Tool will be run inside 10” casing only.
+
+#### Ranking
+1 - At least 2 re-runs possible to acquire data if tool fails. BUT if still no data this must be discussed before proceeding
+22.0	E2 Platform Location Summary of Site Conditions
+B P    S U R V E Y     S E C T I O N
+SUMMARY OF SITE CONDITIONS AT PROPOSED SHAH DENIZ E2 PLATFORM
+23.0	Challenges, Risks and Contingencies
+23.1	Shallow Gas
+There is a high frequency of shallow gas well control incidents in the Azerbaijani sector of the Caspian. Seismic interpretation of Shah Deniz identifies a high risk of shallow gas on Shah Deniz. The platform location is selected in an area of negligible/low risk of shallow gas and a high-resolution site survey has been run to confirm this. Pilot hole concluded shallow gas risk as negligible. This was confirmed in SDA-01.
+23.2	Mud Volcanoes
+There are a number of mud volcanoes on Shah Deniz. The risk of mud volcano activity affecting drilling operations is very low. Historic mudflows can be seen from seismic and may be encountered while drilling but should not cause significant drilling issues.
+23.3	Shallow Water Flows
+The rapid depositional environment may result in over-pressured sands as is typically seen in deep-water environments. Shallow water flows were experienced on SDX-3 and SD-6 where pressures of 1.49sg were experienced at 741m MDBRT in SDX-3 and at 716m MDBRT in SD-6. Sands were intersected by SDX-1 at around 707m MDBRT where they were drilled with a pilot hole and seawater. Although the sands flowed, causing tight hole, only minor gas percolation was observed and the sands were therefore initially interpreted as normally pressured. However, circumstantial evidence could be interpreted to suggest that the “Q” interval may be overpressured by up to 220 to 300psi at the SDX-1 location. These sands can be mapped by seismic and are laterally extensive, indicating similar pressures are present at the platform location. High percentage connection gas (17%) was observed at 752m (Q-7 sand) in SD A-01, which suggests that this interval is overpressured by up to 480psi.
+Shallow Faults
+Seismic analysis has identified significant shallow faulting on Shah Deniz. Faulting on and around the promontory, where E2 is positioned, can be divided into three distinct regimes as follows:
+Ring faults are located to the west of the location and extend to depths greater than 1200m. Their closest surface expression is ~130m away.
+Shallow detachment faults (controlling seafloor subsidence) are on the east flank and appear to tip out into the “Q” at ~700m. The closest shallow detachment faults are ~350m from the platform location .The platform site is selected to avoid these shallow faults.
+The third group of faults are at an intermediate level. This intense zone of normal faults extend from approximately the running sands at ~600m down to the lower Apsheron at ~1200m. These faults extend across the promontory with a NW to SE orientation and are downthrown to the east.
+‘Q’ Sands, 22” Cementing & 19 ½” Hole Well Control
+SDX3 experienced significant problems due to a shallow high pressure running sand. Control of this running sand was lost due to riser less drilling. The development wells have a 22’’ surface casing set above the top of the ‘’Q” interval.  The “Q” interval will then be drilled with BOP control.
+In SDA-01 the intent was to set 22” casing above the “Q” interval sands such that sands Q1 to Q4 could be drilled with a weighted mud system in the subsequent hole section. Drilling 26” hole to 612m TVDBRT, however, “Q-1” was penetrated. After having cemented the 22” casing, and prior to drilling out the shoe, a flow was observed at the wellhead. Such an observation implies possible flow from the “Q-1” interval. A low LOT provides evidence for a channel in the cement.
+To minimise the risk of this re-occurring in SDA-02, the 26” hole was TD’d 10m above the top of the “Q-1”. To further ensure a better cement job, centraliser numbers were also increased.  However on SDA 02 a lower-than-expected LOT was again experienced and gas bubbles (and SOBM, later on during the 16 ½” section) were observed from wellhead ports.
+To cater for the observed low LOT’s at 22’’ shoe and corresponding Well Control aspects & concerns raised by the BP Reps, the following measures will implemented:
+Field wide dispensation for kick tolerance below 25 bbls (BP policy) if required.
+Review well control procedures & detailed Risk Assessment for subsequent 12 ¼’’ x 19 ½’’ section
+From initial investigations on SDA 02 it seems that the observed gas may be coming from an interval exposed in the 26” section and that the source of the SOBM may that lost on SDA 01 (ie. breeched across at the 22” shoes). However it should be noted that investigations are still ongoing as to the source of the SOBM (ie. SDA 01 or SDA 02) and the true answer will probably not ever be known. Regardless, this is unacceptable from well integrity and environmental aspects. To this end the cementing procedure for the 22’’ casing is under review for SDA 03.
+Working up the above counter measures, to these Well Control & Environmental issues, may result in an increased likely hood of running the 18” liner.
+Mudweight/WBS/Kick Tolerance/ECD Management
+The key area on SDA 03 where management of the all the above aspects will be essential is through the tight (0.10 sg) Pore/Frac window, through the Sabunchi, just below the 13 3/8” shoe at the top of the 12 ¼” section. Due to the tight Pore/Frac window (0.1sg) at the top of the 12 ¼’’ section (through the Sabunchy) the required mud weight for this section on SDA –03 will be higher than SDA 01/ 02. (2.05sg DHMW V’s 2.00sg normally).
+Following comparison of ECD (with this increased DHMW) to fracture strength throughout the 12 ¼’’ interval, it has been necessary to make the TD shallower to reduce the risk of losses. The risk associated with the resulting longer 8 ½’’ section are considered to be more manageable than if 12 ½’’ TD had not be changed.  Correspondingly management of ECD will be crucial too in order to not ‘use up’ the small margin between MW and Frac.
+To allow the required higher MW to be used, placement of the 13 3/8” shoe, slightly deeper than usual, in the Sabunchi Horn will be essential to get the required increased shoe strength (as shown by explo well SDX 2). To achieve this 16 ½” TD/ 13 3/8” shoe criteria, within the 80m MD Sabunchi Horn thickness, the relative spacing of 14 ¾’’x16 ½’’ BHA and rathole have been reviewed and modification of the BHA is NOT deemed necessary due to thickness of the Horn.
+Tectonic Stresses
+Analysis of caliper data from the exploration / appraisal wells indicates large amounts of breakout within shales above and within the reservoir. Interpretation suggests tectonically stressed formations below the Surakhany Anhydrites. The resulting breakout could cause drilling and casing running challenges in deviated wellbores. The tectonic stresses could also cause long-term deformation of casing strings.
+23.8	High Collapse Pressures
+High pore pressures, in both the overburden and reservoir, result in many casings strengths being driven by collapse rather than burst pressures. Within the overburden, pressures are highest within the Sabunchi, up to 12,950psi. Within the reservoir, pressures are highest within the water bearing sand SP1, up to 14,150psi.
+23.9	High Burst Pressures
+High downhole pressures also create high burst pressures whilst drilling, in the event of well control or during production with high Well Head Shut in Pressures of up to 11,000psi in extreme case.
+23.10	Reservoir Depletion
+The platform process facilities are being designed to give a minimum Well Head Flowing Pressure (WHFP) of 2200psi giving a final bottom hole flowing pressure of around 4000psi. However, potential future installation of compression on the platform could reduce WHFP further.  The production casing and liner are therefore designed for full depletion to 2000psi bottom hole pressure, equivalent to 0.1psi/ft dry methane to surface from 20,000ft.
+Given that, within the reservoir, the pore pressure in SP1 is as high as 14,150psi, the production liner will need to isolate differentials of up to 10,150psi. This may potentially increase to 12,150psi, if compression on the platform is introduced.
+23.11	Depth Variation
+Across the Shah Deniz structure, formation depths vary greatly. On the flanks, depths to formation tops are greater than on the crest. Flank wells generally have higher absolute pressures but lower gradients, compared with crestal trajectories.
+At the E2 platform location, water depth is 100.9m, but increases moving towards the crest of the structure.
+23.12	Deep Reservoir Targets
+Deep reservoir targets in the order of 6,100m TVD will give rise to long hole sections. For some trajectories, this may result in torque and drag becoming an issue. Drilling times will also be great, with each well potentially taking between five to six months to drill to target depth.
+23.13	Slim Clearances
+The number of casing strings and contingency liners result in extremely tight clearances. Flush and semi flush integral connections have been selected to accommodate this problem.
+24.0	Overview of Exploration / Appraisal Wells
+24.1	SDX-1, 1Z, 1Y
+SDX-1 was the first well drilled to the reservoirs on Shah Deniz. The well was in a mid flank position on the east flank of the structure and was a gas discovery. Numerous problems were encountered whilst drilling, as follows:
+Tight hole in the Surakhany formation, probably due to tectonics, not recognized as such at the time.
+Higher than anticipated pressures in the Surakhany and Sabunchi formations led to several kicks.
+A very large pressure regression in the Balakhany formations leading to drilling with high overbalances.
+Thin high pressured sand, SP1, sandwiched between two low to moderately pressured reservoirs.
+Two sidetracks (SDX-1z, SDX-1y) due to mechanical sticking. The first was probably due to differential sticking or tectonics whilst the second was due to poor directional control leading to stuck logging tools and junk in the hole.
+Two changes of rig, one planned, to utilize newly refurbished high pressure rated rig and the second due to generator problems on the newly refurbished rig.
+24.2	SDX-2, 2Z, 2Y
+The second well on the structure, SDX-2, was also drilled in the east flank, but in an up dip location. This too was a gas discovery. The well location proved to be an extremely difficult area at which to drill. This was mainly due to a tight pore / fracture pressure window and a lack of planning time. Key issues were as follows:
+Only one casing string set on depth as planned.
+Losses and gains led to the premature setting of the 16”, 133/8” and 95/8” casings and the 7” liner.
+11¾” contingency liner had to be run.
+Severe lost circulation near to the base of the Surakhany and again at Top Balakhany, due to a tight pore-fracture window.
+Over 19,000 barrels of mud were lost.
+Numerous kicks, including one incidence of cross flow associated with one of the lost circulation episodes.
+BOP problems.
+Logging problems.
+The well was spudded before SDX-1 had been completed and therefore before learning from the earlier well could be incorporated in the planning.
+24.3	SDX-3, 3Z, 3Y, 3X
+SDX-3, the third well on the structure, was drilled on the northern flank in a down dip location. It was a dry hole. Despite the number of sidetracks this was an easier well to drill. Problems encountered were:
+Presence of a shallow overpressured sand led to remedial cementing on the 20” casing.
+Three stuck pipe incidents leading to sidetracks. All appear to be directly attributable to tectonics.
+24.4	SDA-01
+SDA-01, the first of pre drilled development wells on the structure, was drilled in a mid flank position  on the east flank of the structure. Key learning’s to date include:
+Greater than anticipated pressure and associated gas from 750m,  “Q”-4, sand.
+22’ cement channeling that led to flow from wellhead grout ports.
+Mechanical failure of simultaneous drill and under-reaming of 14.75 x 17.5” interval.
+Greater than anticipated pore pressure measured by MDT in top Surakhany.
+Greater than anticipated pore pressure and associated gas from Pre Fasila sands below SP-4.
+24.5	SDA-02
+SDA-02, the second of pre drilled development wells on the structure, was drilled on the east flank of the structure to the NW of the platform location. Key learning’s to date include:
+Overall excellent performance to date.
+22’ cement job may have channeled which led to flow from wellhead ports. Source of flow may in fact have been SDA-01.
+Hughes Christensen DOSRWD Eccentric Pad tool sustained damage when used to drill out 22” shoe – dedicated drill-out trip planned for SDA-03.
+No repeat of Ander-reamer mechanical failure as seen on SDA-01.
+25.0	Contact List
+
+[جدول 1]
+ | Well : SD A-03 ( Slot 03) | 
+ | Predrill Well #3 | 
+
+ | Version: | 3.0  – 10th February 2004
+ | Operator: | BP Exploration & Production, Caspian Sea Ltd, Baku, Azerbaijan
+ | Planned Operation | Drill, Log, Run Liner & Suspend
+ | Rig: | CDC, Istiglal
+ |  | 
+
+[جدول 2]
+Prepared By: | Tim Wrighton                     Tim Wrighton | Date: | 10th February 2004
+ | Shah Deniz – Senior Drilling Engineer |  | 
+ | Sahib Hasanov                Sahib Hasanov | Date: | 11th February 2004
+ | Shah Deniz – Operations Drilling Engineer |  | 
+ | Alan Cordner                   Alan Cordner | Date: | 11th February 2004
+ | Shah Deniz – Operations Drilling Engineer |  | 
+ | Nick Barker                        Nick Barker | Date: | 11th February 2004
+ | Shah Deniz – Senior Geologist |  | 
+Reviewed By: | Graham Prentice               Graham Prentice | Date: | 11th February 2004
+ | Shah Deniz - Drilling Representative |  | 
+ | Don Stewart                        Don Stewart | Date: | 11th February 2004
+ | Shah Deniz - Wells Engineering Manager |  | 
+Endorsed By: | Don Nellis                           Don Nellis | Date: | 11th February 2004
+ | Shah Deniz - Wells Project Mgr& Operations Supt |  | 
+Approved By: | Darrell Howard                Darrell Howard | Date: | 14th February 2004
+ | Shah Deniz - Wells Manager |  | 
+ |  |  | 
+ |  |  | 
+
+[جدول 3]
+Ver. | Description |  | Name | Date | Signature
+
+[جدول 4]
+Document Distribution List
+Darrell Howard | Shah Deniz Wells Team Leader
+Don Nellis | Shah Deniz Wells Project Manager
+Don Stewart | Shah Deniz Wells Engineering Manager
+Tim Wrighton | Shah Deniz Senior Drilling Engineer
+Alan Cordner | Shah Deniz Drilling Engineer
+Fazil Ganizade | Shah Deniz Drilling Engineer
+Sahib Hasanov | Shah Deniz Drilling Engineer
+Sophie Dowson | Shah Deniz Drilling Engineer
+Fikret Guliyev | Shah Deniz Senior Geologist
+Nick Barker | Shah Deniz Data Acquisition Team Leader
+Sakina Zalova | Shah Deniz Operations Geophysist
+Trevor Newley | Shah Deniz – Subsurface Team Leader (Sunbury)
+Ian Pigram | Shah Deniz – Subsurface Team Petrophysist (Sunbury)
+Paul Chapman & Chris Dyke | Shah Deniz – Senior Drilling & Senior Petroleum Engineers (Sunbury)
+Lorraine Beacon & Tim Green | Shah Deniz – Sunbury Subsurface Team - (1 copy each)
+Steve Haden | Azerbaijan Wells Manager
+Eugene Vanlangendonk | CDC Istiglal Rig Manager - Baku
+Ukpe John | Anadrill Schlumberger
+Ilham Musayev | Shah Deniz – Cost Engineer
+Natiq Ojakuliyev | Shah Deniz - BP Logistics
+Yann Dauarin | Geoservices Mudlogging
+Richard Clement | MI Azeri Drilling Fluids
+Katya Strinka | Schlumberger - Cementing
+Grant DeVitre | Schlumberger - LWD
+Colin Brady | Schlumberger – Wireline ( 2 copies )
+Ian Rodgers | ABB Vetco
+Nigel Henry | BOT – Liner Hanger Systems
+Tommy Biggs/Mark Chalker | BOT – Fishing Tools
+Gavin Olney | Franks Casing Running Services
+Russell Smith | KSI ECD Management Specialists (C/O Sahib Hasanov)
+BP Rig Engineers (2) | Istiglal/Baku
+CDC Technical Limits | Istiglal
+BP Drilling Supervisors (5) | Istiglal
+Geoservices - Istiglal | Istiglal
+Azeri MI – Istiglal | Istiglal
+Schlumberger - Cementing | Istiglal
+Schlumberger – D&M | Istiglal
+Well File(s) | Baku & Sunbury (1 copy each)
+Partners (6) | SOCAR
+ | TFE
+ | STATOIL
+ | NICO
+ | LUKOIL
+ | TPAO
+
+[جدول 5]
+Well Name: | SD A-03 / SD AM
+Slot Number: | 3
+Primary Targets: | Balakhany VIIIa, SP-2 & SP-3 Sands
+Well Type: | Development
+Proposed Spud Date: | February 21st  2004
+Operator / Field Name | BP / Shah Deniz
+Proposed Surface Location of Slot : (Gauss Kruger Zone 9 - Krasovsky) | Long. 50o 26' 44.495" E | Lat 39o 53' 48.396" N
+Proposed Surface Location of Slot : (Gauss Kruger Zone 9 - Krasovsky) | Northing = 4 418 293.00 | Easting = 9,452,593.46
+Rig Name: | Istiglal
+Drilling Contractor: | Caspian Drilling Company (CDC)
+Datum Type / Elevation: | Rotary Table (RT) / 22.6m RT-MSL
+Water Depth: | 100.1m
+Primary Target Depths: | Balakhany VIIIa / 4765m TVDBRT / 5514m MDBRT
+Primary Target Depths: | SP-2 / 5129m TVDBRT / 5908m MDBRT
+Primary Target Depths: | SP-3 / 5263m TVDBRT / 6048m MDBRT
+Well Profile  Well Targets   Primary Target ‘Area’:  A 150m radius circle around Base SP3 reservoir penetration point below. | “S” Shape. 2.4km step-out.  To adhere to the well trajectory criteria in section 2 the Primary & Secondary target ‘Areas’ below were generated Trajectory 4i passes through these target areas.
+Base SP-3 @ 5335m TVDss/5358m TVDBRT: | Long. 50o 26' 13.398" E | Lat. 39o 52' 35.241" N
+ | Northing = 4 416 041.30 | Easting = 9 451 840.50
+Secondary Target ‘Area’: A 100m radius circle around Top Sabunchi penetration point below. |  | 
+Near Top Sabunchi @ 3959m TVDss/3982m TVDBRT: | Northing = 4 416 883.5 | Easting = 9 452 121.6
+ |  | 
+Planned maximum Total Depth: | 6285m MDBRT / 5491m TVDBRT
+Azimuth \ Angle: | 198 Degrees \ 16 degrees inclination
+Proposed Bottom hole Location: | Long. 50o 26' 12.915" E | Lat. 39o 52' 34.058" N
+ | Northing = 4 416 004.88 | Easting = 9 451 828.78
+ |  | 
+Shah Deniz Partnership: | BP 25.5%, SOCAR 10%, TOTAL 10%, STATOIL 25.5%,  NICO 10%, LUKAgip 10%, TPAO 9%
+
+[جدول 6]
+Seismic Event | Formation | MD | TVDBRT | TVDSS | Error Bars +/- m
+se080 | Near Top Apsheron | 832 | 831 | 808 | +/- 30
+se180 | Nr Top Akchagyl | 1760 | 1757 | 1734 | +/- 30
+se220 | Nr Top Up.Surakhany | 2236 | 2230 | 2208 | +/- 30
+se240 | Nr Top Mid.Surakhany | 3591 | 3326 | 3303 | +/- 30
+ | Sabunchi Horn | 4368 | 3903 | 3880 | +/- 30
+se250 | Nr Top Sabunchi | 4474 | 3982 | 3959 | +/- 30
+se260 | Nr Top Balakhany | 5091 | 4434 | 4412 | +/- 30
+se273 | Nr Top Bal.VIII A | 5514 | 4765 | 4743 | +/- 50
+se274 | Nr Top Bal.VIII B | 5546 | 4796 | 4774 | +/- 50
+se275 | Nr Top Bal.VIII C | 5607 | 4851 | 4828 | +/- 50
+se280 | Nr Top Bal.VIII D | 5731 | 4963 | 4940 | +/- 50
+se284 | Nr Top SP1 (Bal.IX) | 5829 | 5053 | 5030 | +/- 75
+ | Nr Base SP1 sand | 5864 | 5085 | 5062 | +/- 75
+se290 | Nr Top SP2 sand (Bal.X) | 5908 | 5129 | 5106 | +/- 75
+se293 | Nr Top SP2 shale | 6005 | 5222 | 5199 | +/- 75
+se296 | Nr Top SP3 sand (Fasila B) | 6048 | 5263 | 5240 | +/- 75
+se300 | Nr Base SP3 (Fasila C) | 6148 | 5357 | 5335 | +/- 75
+se305 | Top SP4 sand (Fasila D) | 6206 | 5415 | 5392 | +/- 75
+ | Base SP4 sand | 6249 | 5457 | 5434 | +/- 75
+ | TD | 6285 | 5491 | 5468 | +/- 75
+
+[جدول 7]
+Prognosed TD data
+Depth | 5468 m TVDSS +/- 75m
+Lithology | Interbedded Mudstone and sandstone
+Temperature | c.96C
+Maximum predicted pressure | c.12500 psi
+
+[جدول 8]
+Centre of Template
+X Co-ordinate (mE) | Y Co-ordinate (mN) | (Z) Depth (mTVDSS)
+452 595.0 | 4 418 295.6 | 100.1 (seabed)
+
+[جدول 9]
+Casing | Hole Size | Casing Size | Weight ppf | Grade* | Conn | TD Criteria  (Method) | Csg Shoe Depth (m MDBRT) | Hole   Depth (m)   TVDRT          MDRT | Csg Test (psi)** | BOP Test (psi) | Kick Tolerance @ this Shoe (bbls) | Test @  this Shoe | DHMW (Downhole) SMW (Surface) (sg) | Mud Type | Cement Density  (sg) | TOC
+Conductor Casing | 36” | 32” 30” | 488.61 309.72 | X-65 X-52 | RL-4 | Already Set on Depth | 184 | 188 | 188 | NA | NA | NA | NA | NA | NA | NA | NA
+Surface Casing | 26" | 22" | 224.28 | X-60 | RL-4S | Above Q Sands. (Depth) | 581 | 589 | 590 | 2000 | 3500 | 10 – 19 < 25 Dispen Req’d | LOT (Exp 1.55sg) | Drill : SW Displ : 1.30 | SW PHB/Poly WBM | 1.50 Lead 1.90 Tail | Mud Line
+Drilling Liner #1 | 19-1/2" | 16" | 84 | L-80 | Hydril521 | Above 2nd Surakhany Anhydrite  (GeoPick). | 1999 | 2030 | 2034 | 2000 | 3500 | 75  > 25 Within Policy | 1.98sg FIT | 1.50 SMW 1.51 DHMW | SBM | 1.58 Lead 1.90 Tail | 50m i/s 22” shoe
+Intermediate | 16-1/2" | 13-5/8" 13-3/8” | 88.2 72 | SM125TT SM125TT | SLIJ II | Top Sab Horn + 70m MD. (GeoPick) | X/O-2395 4387 | 3958 | 4441 | 3300 | 7500 | Infinite  > 25 Within Policy | Hesit LOT | 1.88 SMW 1.91 DHMW | SBM | 1.95 | tbc (50m above shoe - 150m i/s prev shoe)
+Intermediate | 12-1/4" | 10-3/4” 10” | 73.2 68.7 | *SM125S *SM125S | Vam  HW-ST & SLIJ II | Top Bal + 133m TVD  (GeoPick). | X/O-1114 5257 | 4570 | 5267 | 3000 | 10000 | Infinite  > 25 Within Policy | 2.20sg FIT | 2.02 SMW 2.05  DHMW | SBM | 2.10 | As above
+Production Liner | 8-1/2" | 5-1/2” | 29.7 | SM13CRS110 | SLIJ II  T & C | Base Sp-4 +/- 36m MD Logging Sump (GeoPick) | 6284 | 5491 | 6285 | TOL 1. 3000 w/Mud 2. 9000 w/SW 3. In-flow To SW Grad | 10000 | NA | NA | 1.85 SMW 1.88  DHMW (In case SP1 is gas) | SBM | 2.00 | 50m above TOL
+
+[جدول 10]
+ | P10 | P Mean | P 90
+TOTAL DAYS | 121 | 165 | 219
+TOTAL COST ($mm) | 38.4 | 49.8 | 63.6
+DAYS/10K ft | 46.8 | 68.8 | 95.8
+
+[جدول 11]
+ | Total Days | Dry Hole Days (Spud to Final Log) | Days / 10k
+Final DCUS P(Mean) | 165 | 138 | 69
+RIG TEAM TARGET From TL Workshops (WIP – Approx Figs) | 118/128 | 91/101 | 45/50
+Best in Class North Sea HPHT Caspian : SDX 3 | NA NA | NA NA | 32 57
+
+[جدول 12]
+
+30" Conductor Setting Depth To ML
+Depth range: | 122m – 182m MD BRT
+Required WL: | None
+MWD  /  LWD: | None
+26” Hole For 22" Casing, Setting Depth Up To 32” Conductor Shoe
+Depth range: | 182m – 590m MD BRT
+Required WL: | Drillstring Gyro
+MWD  / LWD: | None
+19.5” Hole For 16" Liner, Setting Depth Up To 22" Surface Casing MD
+Depth range: | 590m – 2034m MD BRT  (or 1111 – 2034m MD BRT – contingency)
+Required WL: | EMS / GPIT / GR.  EMS (6 arm Caliper) will be oriented. Primary use is to check function of RWD tool. GR to surface
+MWD  /  LWD: | GR / RES / APWD / DWOB / DTORQUE / MVC  - CDR Type Tools
+16-1/2” Hole For 13-3/8” x 13-5/8” Casing, Setting Depth Up To 16” Liner MD
+Depth range: | 2034m – c.4441m MD BRT
+Required WL: | Logs will be acquired in 2 wireline runs Run #1 – DSI / EMS / GPIT / GR.  EMS (6 arm Caliper) will be oriented.  DSI should be run in open hole and through 16” casing for compressional and shear sonic up to 1500m Run #2 – LDT / CNT / GR
+MWD  /  LWD: | GR / RES / APWD / DWOB / DTORQUE / MVC  -  CDR Type Tools
+
+[جدول 13]
+12-1/4” Hole For 10-3/4” X 10” Casing, Setting Depth Up To 13-3/8” MD
+Depth range: | 4441m – 5267m MD BRT
+Whole Coring: | None
+Required WL: | Logs will be acquired in 2 wireline runs (dependant on tension modeling): Run #1- DSI / EMS / GPIT / GR Run #2 – LDT / CNT / GR  EMS (6 arm Caliper) will be oriented   Contingency option is one pipe conveyed run. Full TLC combination is: EMS / GPIT / LDT / CNT / GR.  If any of the logs have been successfully obtained on wireline, then they will be omitted
+ | If DSI acquisition on wireline is unsuccessful, then run through casing on wireline at final TD
+MWD  /  LWD: | GR / RES / APWD / DWOB / DTORQUE / MVC  -  CDR Type Tools
+8-1/2” Hole To TD Depth (Includes SP-4 and logging sump) Up To 10” Casing MD
+Depth range: | 5267m – 6285m MD BRT
+Whole Coring: | None
+Required WL: | Logs will be acquired in one pipe conveyed run or three wireline runs dependant on SDA-02 results and SDA-03 cable tension modeling:  Pipe conveyed run: Run #1 - OBMI / MDT –switch - CMR / NGT    OBMI will provide oriented, multi – arm caliper, as well as image data.  MDT pre tests & possible gas samples in SP4.   Wireline Runs:
+ | Run #1 - OBMI / GPIT / DSI / NGT Run #2 – CMR / GR Run #3 – MDT / GR OBMI will provide oriented, multi – arm caliper, as well as image data.  MDT pre tests & possible gas samples in SP4. If DSI is run on wireline then requirement to run the Sonic log as part of the LWD suite will be reviewed.
+*Other WL: | Cased Hole Data. Run #1 - MFCT.  As req.  to monitor 10” casing wear (depends on SDA-02 result) Run #2 - VSI / GR.  Walk above VSP/Checkshot up to 13 3/8” casing shoe– A boat will be required for this survey.  Run #3 – USIT / CBT.   To evaluate cement integrity.
+MWD  /  LWD: | From 10” casing point up to TD  GR / RES / APWD / Neutron / Density / Sonic / DWOB / DTORQUE / MVC   - ARC Type Tools, Stabilized ADN, Run Isonic to acquire Compressional and Shear sonic, if there is no plan for wireline conveyed TD logs.
+
+[جدول 14]
+ | Logs | Unwashed wet samples | Rinsed & dried samples | Mud | Geochemical | Biostratigraphical
+22"  Hole Section | FEL, DEL, PEL | 2 sets every 10m | 3 sets every 10m | Every 500m'1 | 1 set2 | 1 set2
+19.5” Hole Section | FEL, DEL, PEL | 2 sets every 10m | 3 sets every 10m | Every 500m'1 | 1 set2 | 1 set2
+17-1/2" Hole Section | FEL, DEL, PEL | 2 sets every 5m | 3 sets every 5m | Every 500m'1 | 1 set2 | 1 set2
+12-1/4” Hole Section | FEL, DEL, PEL | 3 sets every 5m | 3 sets every 5m | Every 500m'1 | 1 set2 | 1 set2
+8-1/2” Hole Section | FEL, DEL, PEL | 3 sets every 3m | 4 sets every 3m | Every 500m'1 | 1 set2 | 1 set2
+
+[جدول 15]
+Hole Size inches | Casing Size inches | Survey Interval m MD-BRT | Survey Type | Comments
+36 | 30 | 147-182m | N/R | NB:Conductor already set
+26 | 22 | 182-590m * ML – Csg Shoe | * SS Gyro. MWD ** Gyro (Drillpipe) | 4 degree nudge away from SD A-01/2. * Single shot gyro required for tool face orientation during nudging.   ** Gyro also run at interval TD for directional tie-in.
+19.5 | 16 | 590 - 2034m | MWD & IFR | Hold 4 degrees inclination.
+16.5 | 13.375 | 2034 - 4441m | MWD & IFR | Build inclination from 4 to 42 degrees.
+12.25 | 10 | 4441 - 5267m | MWD & IFR | Hold 42 degrees inclination.
+8.5 | 5.5 | 5267 - 6285m | MWD & IFR | Drop inclination from 42 to 16 degrees
+
+[جدول 16]
+Orientation and Elevation Parameters
+Nominal Rig Heading | 047 TRUE
+Wellhead Height-Measured from the LP Housing | 3.5 m + / - .25 m
+Wellhead Height-Measured from the HP Housing | 4.5 m + / - .25 m
+Wellhead Inclination | No more than one (1) degree
+
+[جدول 17]
+BOP Component | Test Pressure (psi)
+Annular | 7,000
+Pipe Rams | 15,000
+Shear Rams | 15,000
+
+[جدول 18]
+BOP Component | Test Pressure (psi)
+Annular | Tested at surface
+Pipe Rams | Tested at surface
+Shear Rams | Tested at surface
+Connector | 15,000
+
+[جدول 19]
+BOP Component | Test Pressure (psi)
+Annular | 3,500
+Pipe Rams | 3,500
+Shear Rams / Casing | 2,000
+
+[جدول 20]
+BOP Component | Test Pressure (psi)
+Annular | 7,000
+Pipe Rams | 7,500
+Shear Rams / Casing | 3,300
+
+[جدول 21]
+BOP Component | Test Pressure (psi)
+Annular | 7,000
+Pipe Rams | 10,000
+Shear Rams / Casing | 3,000
+
+[جدول 22]
+Casing  Size Inches | Casing  Burst psi | Basis  Of Design | Design Pressure Psi | Drilling MASP psi | BOP Test Pressure | Casing Test Pressure Psi | Kick Tolerance @ this shoe bbls
+22 | 4770 | Water to Shoe Frac | 3100 (from water to 16” shoe frac) | 1127 | 15,000psi Stump Test to Full Pressure | 2000 | 10-19 < 25 Policy Dispen Req’d
+16 | 4330 | Water to Shoe Frac | 3100 (from water to 16” shoe frac) | 2865 | 3500 | 2000 | 75 > 25 Within Policy
+13-5/8 13-3/8 | 10030 8410 | Limited Kick | 7000 (from water injection to shoe frac) | 6817 | 7500 | 3300 | Infinite > 25 Within Policy
+10-3/4 10 | 13670 15050 | Limited  Kick | 10500 (from water injection to shoe frac) | 6177 | 10000 | 3000 | Infinite > 25 Within Policy
+5-1/2 | 19670 | Max WH Shut-in Pressure | 10000 t0 11000 WH Shut-in Pressure | 6177 | 10000 | 3000 & 9000 on SW | NA
+
+[جدول 23]
+CASING / HOLE | MUD PROPERTIES | POTENTIAL ISSUES /Drilling Hazards | MITIGATION
+26” Open Hole / 22” Casing.  +/- 590 m BRT  4º Nudge | TYPE: Bentonite / Guar Gum Sweeps  Density: 1.0 sg (SW) YP: >50 for Sweeps  Displacement mud Density : 1.30 sg PV: as low as possible YP: 20 – 25 | Insufficient Yield of Bentonite      Hole Cleaning       Hole Displacement   Bit Balling   Downhole losses      Cementing | Check hardness and salinity of mix water are within prescribed range before adding Bentonite.  Allow sufficient time for Bentonite to yield (+/- 6 hours to yield fully). Have Guar Gum available on rig (and Duovis) as contingencies.  Increase frequency (and volume) of Bentonite Sweeps. Alternate with Guar Gum Sweeps if necessary. Maintain Maximum Pump Rates. Pump 100 bbl High Viscosity Sweep.    Displace open hole to weighted Bentonite/PAC Mud.  Keep stock of Citric Acid and Kleen-Up (detergent) onboard the rig.  Option to make light treatment of LCM in displacement fluid (“Pad Mud”). Formulation noted in main programme.  Ensure sufficient excess cement pumped.  To avoid cement channeling ensure YP and Gel Strengths are not excessive. See main programme for material concentration guidelines from pilot testing. Allow for substantial hole washout when calculating volumes of displacement fluid and cement required.
+
+[جدول 24]
+CASING / HOLE | MUD PROPERTIES | POTENTIAL ISSUES /Drilling Hazards | MITIGATION
+19 ½” Open Hole / 16” Liner.  +/- 2034 m BRT  Hold 4º angle | TYPE: NOVATEC SBM  Density: SMW      1.50 sg DHMW   1.51 sg PV : < 35 YP: 22 - 27  6 rpm :  12 - 15 HTHP Filtrate: < 3 SWR: 80 : 20 WPS : 170 – 190 K Excess Lime: >3.0 ppb | Correct PPE and Handling of SBM   Displacement to SBM     Water-bearing formation       “Q” or Running Sands     Shallow water flows    Hole Cleaning      Lost Circulation       Hole Instability      High Circulation Pressures/ECDs   Running Casing       Potential losses while running and cementing casing | M-I to conduct SBM-awareness talks for all crews at safety meetings offshore prior to start-up of SBM usage.  Prepare viscous LAO spacer, dress shakers with coarse mesh screens, complete displacement without stopping, & monitor returns closely.  Maintain WPS within specified range. When building new volume offshore ensure WPS & SWR are both above drilling spec. Initial mud from shore will have higher SWR (85:15) and higher salinity to maintain level in anticipation of drawing formation water into the mud.   Maintain HTHP with Novamul and Ecotrol. Maintain sufficient mud weight. Maintain rheology within spec. Sufficient flowrate for effective hole cleaning.  To detect - calculate water gain/loss in active system daily and monitor & report trends. To cure - raise mud weight.  Maintain YP and 6 rpm using Novamod + Bentone 128/38 in correct proportions. Ensure sufficient flow rate & drillpipe rpm. Ensure sufficient time for circulating the hole clean.  Ensure sufficient LCM stocks on the rig according to the Shah Deniz lost circulation procedures. Be especially vigilant when drilling shallow fault zone from 600 – 1200 m. Light pre-treatment of system.  If higher MW is required, close attention must be paid to ECDs to avoid any lost circulation incidents. Monitor shakers for cavings. Increase salinity if shale cuttings show signs of water-wetting.  Virtual Hydraulics program run onshore to monitor and assist. Do not allow rheology to exceed spec.  Possible reduction of rheology with Novathin. Be careful not to risk barite sag when reducing rheology. Do not reduce below minimum drilling spec. Use FANN 70 test results to determine downhole rheology.  Reduce rheology and Gel Strengths. Virtual hydraulics program to assist. Have sufficient reserve volume onboard.
+
+[جدول 25]
+CASING / HOLE | MUD PROPERTIES | POTENTIAL ISSUES /Drilling Hazards | MITIGATION
+16 ½” Open Hole / 13 5/8” /13 3/8” Casing.  +/- 4441 m BRT  Hold 4 deg to 2230m KOP.  From 2230m build 2°/30 m to 42 degs by 2802m and hold to section TD. | TYPE: NOVATEC SBM  Density: SMW          1.88 sg  DHMW       1.91 sg PV : < 40 YP: 20 – 24  6 RPM :  12 – 15 HTHP Filtrate: < 3 SWR: 80 : 20 WPS : 170 – 190 K Ex. Lime : > 3.0 ppb | Hole Cleaning      High Circulation Pressures/ECDs    Differential Sticking    Hole Instability      Lost Circulation       Running Casing       Potential losses while running and cementing casing | Maintain YP and 6 rpm using Novamod + Bentone 128/38 in correct proportions. Maintain high flow rate and drill pipe rotation. Ensure sufficient time for circulating the hole clean.   Virtual Hydraulics program run onshore to monitor and assist. Do not allow rheology to exceed spec.   Maintain low HTHP fluid loss and a thin filter cake with Novamul supplemented by Ecotrol.  If higher MW is required close attention must be paid to ECDs to avoid any lost circulation incidents.  Monitor shakers for cavings and increase salinity if shale cuttings show signs of water-wetting.  Ensure sufficient LCM stocks are on the rig according to the Shah Deniz lost circulation procedures. Ensure sufficient stocks available onshore as well as offshore. Have sufficient volume of bulk mud onboard.  Possible reduction of rheology with Novathin.  Be careful not to risk barite sag when lowering rheology – do not reduce below minimum drilling spec.  Use Fann 70 test results to determine downhole rheology.  Reduce rheology and Gel Strengths. Virtual Hydraulics program run onshore to assist. Have sufficient volume of bulk mud onboard.
+
+[جدول 26]
+CASING / HOLE | MUD PROPERTIES | POTENTIAL ISSUES /Drilling Hazards | MITIGATION
+12 ¼” Open Hole /  10 ¾” / 10” Casing.  +/- 5267 m BRT  Hold 42 degs to section TD | TYPE: NOVATEC SBM  Density: SMW      2.02 sg  DHMW   2.05 sg  PV : < 45 YP: 18 – 22  6 rpm :  > 12 HTHP Filtrate: <2 SWR: 80 : 20 WPS: 180 – 200 K Excess Lime > 3.0 ppb   NB : USE OF  DESIGNER MUD If an unacceptably low LOT is experienced at the 13 3/8” shoe, a Designer Mud pill may be pumped in an attempt to increase the effective shoe strength and potentially avoid the need to run the contingent 11 ¾” liner. The pill recipe, mixing, pumping and testing procedure will be covered in the detailed mud programme from M.I. | Possible Weak Shoe (Option 1)      Actual Weak Shoe (Option 2)      Hole Cleaning      High Circulation Pressures/ECDs   Differential Sticking     Hole Instability      Lost Circulation       Running Casing        Potential losses while running / cementing casing | (To be confirmed) Possibility of pumping a “Designer Mud” pill ahead of the cement when cementing the 13 3/8” casing. Pill to probably contain 20 ppb each of G-Seal & Durcal 130 in ultra-low HTHP fluid loss mud.  If a low LOT occurs a “Designer Mud” pill may be squeezed into the formation in an attempt to strengthen the casing shoe before drilling ahead. Pill to contain 20 ppb each of G-Seal, Safecarb Z3 & Durcal 130 in ultra-low HTHP fluid loss mud.  Maintain YP and 6 rpm using Novamod + Bentone 128/38 in correct proportions. Maintain high flow rate and drill pipe rotation. Ensure sufficient time for circulating the hole clean.  Virtual Hydraulics program run onshore to monitor and assist. Do not allow rheology to exceed spec.  Maintain low HTHP fluid loss and a thin filter cake by using Novamul supplemented by Ecotrol. Add CaCO3, Durcal 130 and G-SEAL to active system.  If higher mud weight is required close attention must be paid to ECDs to avoid any lost circulation incidents.  Monitor shakers for cavings. Increase salinity if shale cuttings show signs of water-wetting.  Ensure sufficient LCM stock on the rig according to the Shah Deniz lost circulation procedures. Ensure sufficient stocks available onshore as well as offshore.  Reduce rheology and Gel Strengths for casing running operations.  Be careful not to risk barite sag when lowering rheology – do not reduce below minimum drilling spec.  Use Fann 70 test results to determine downhole rheology.  Reduce rheology and Gel Strengths. Virtual Hydraulics program run onshore to assist. Have sufficient volume onboard.  Option to circulate out slug(s).  Option to either spot an LCM pill in bottom of hole before POOH to run casing, or to pump an LCM pill ahead of the cement. Products and concentrations to be advised if one of these approaches is adopted.
+
+[جدول 27]
+CASING / HOLE | MUD PROPERTIES | POTENTIAL ISSUES /Drilling Hazards | MITIGATION
+8 ½” Open Hole / 5 ½” Production Liner.  +/- 6285 m BRT  Hold 42 degs to 5305m & then drop angle at 1.5 degs/30m to 16 degs by 5827m. Then hold 16 degs to TD. | TYPE: NOVATEC SBM  Density: SMW      1.85 sg             DHMW   1.88 sg  PV: <45 YP: 17 - 20  6 rpm:  > 10 HTHP Filtrate: < 1 SWR: 80 : 20 WPS : 180 –  200 K Excess Lime: > 3.0 ppb | Pore pressure    Hole Cleaning       Differential Sticking of drill string and logging tools   High Circulation Pressures/ECDs     Downhole Losses    Running Casing         Reservoir damage | Displace the cement for the 10 ¾” / 10” casing with 1.85 sg SMW to drill this section.   Maintain YP and 6 rpm using Novamod + Bentone 128/38 in correct proportions. Maintain mud properties within spec. Maintain sufficient flow rate and drill pipe rotation. Ensure sufficient time for circulating the hole clean.  Maintain ultra-low HTHP fluid loss with Ecotrol and Novamul. Maintain precise mud weight. Avoid barite sag.  Maintain tight control over rheology to minimize ECDs but avoid barite sag and ensure good hole cleaning. Virtual Hydraulics program run onshore to monitor and assist.  Maintain appropriate concentrations of CaCO3, Durcal 130 and G-SEAL in the active system to minimize seepage losses.  Virtual Hydraulics program run onshore to monitor and assist. Also:- reduce Rheology and Gel Strengths for casing running operations.  Be careful not to risk barite sag when lowering rheology – do not reduce below minimum drilling spec.  Use Fann 70 test results to determine downhole rheology.  Maintain ultra-low HTHP fluid loss with Ecotrol and Novamul. Maintain CaCO3, Durcal 130 and G-SEAL in the active system.
+
+[جدول 28]
+Properties | 188 m    Disp. fluid | 590 m sweeps | 590 – 2034 m | 2034 – 4441 m | 4441 - 5267 m | 5267 - 6285 m
+Hole Diameter, Inches | 26 | 26 | 19 ½ | 16 ½ | 12 ¼ | 8 ½
+Mud Weight in (s.g.) SMW / DHMW | 1.30 sg | 1.05 sg | 1.50 / 1.51 | 1.88 / 1.91 | 2.02 / 2.05 | 1.85 / 1.88
+pH | 9.0 - 9.5 | 9.0 - 9.5 |  |  |  | 
+Funnel Viscosity (sec/qt) |  | >80 |  |  |  | 
+PV  (centipoise) |  | ALAP | < 35 | < 40 | < 45 | < 45
+Yield Point  (lb/100 ft2) | 20 – 25 | 50 + | 22 – 27 | 20 - 24 | 18 - 22 | 17 - 20
+Gels 10 sec | 10-20 |  | >15 | >12 | >12 | >10
+Gels 10 min | 15-25 |  | <25 | <25 | <25 | <25
+6 rpm |  |  | 12-15 | 12 - 15 | > 12 | > 10
+HPHT  (cm3/30 min) |  |  | < 3.0 | < 3.0 | < 2.0 | < 1.0
+Total Solids  (%) |  |  | 15 – 20 | 20 - 30 | 30 - 40 | 20 - 30
+LGS  (%) |  |  | < 6.0 | < 6.0 | < 6.0 | < 6.0
+LAO/Water Ratio |  |  | 80 : 20 | 80 : 20 | 80 : 20 | 80 : 20
+WPS (g/l) |  |  | 170 – 190 | 170 - 190 | 180 - 200 | 180 - 200
+CaCl % weight |  |  | 22 - 25 | 22 - 25 | 22 - 25 | 22 - 25
+E.S. (Volts) |  |  | > 500 | > 500 | > 600 | > 700
+Excess Lime, lb/bbl |  |  | > 3.0 | > 3.0 | > 3.0 | > 3.0
+Mud Types | Seawater + Sweeps Displacement Fluid | Novatec SBM | Novatec SBM | Novatec SBM | Novatec SBM
+Products For Intervals | Barite | Novamul | Novamul | Novamul | Novamul
+ | Bentonite | Novamod | Novamod | Novamod | Novamod
+ | Lime | Novathin | Novathin | Novathin | Novathin
+ | Soda Ash PAC LV | Bentone 38/128 | Bentone 38/128 | Bentone 38/128 | Bentone 38/128
+ |  | Ecotrol | Ecotrol | Ecotrol | Ecotrol
+ |  | LIME | LIME | LIME | LIME
+ |  | LAO Base | LAO Base | LAO Base | LAO Base
+ |  | Barite | Barite | Barite | Barite
+ |  | MI 157 | MI 157 | MI 157 | MI 157
+ |  | CaCl2 | CaCl2 | CaCl2 | CaCl2
+Contingency Products | Guar Gum & Duovis LCMs & Drispac Reg | Calcium Carbonates | Calcium Carbonates | Calcium Carbonates | Calcium Carbonates
+Contingency Products | Citric Acid | G-SEAL | G-SEAL | G-SEAL | G-SEAL
+Contingency Products | Kleen-Up | Kleen-Up | Kleen-Up | Kleen-Up | Kleen-Up
+
+[جدول 29]
+Base Plan Primary Bits
+Section | Size | Type | Depth In/Out (m) | Distance (m) | Bit Description | Connection | BHA
+22" Casing | 26” | CR-1 IADC 1-1-1 Hughes C RERUN S/N:LW44DR | 184 / 590 | 406 | Tricone mill tooth, standard roller bearing. | 7-5/8” Pin | Steerable Assembly
+ | 17.5’’ | 17.5’’ GTX-C1 (IADC1-1-4) Hughes C RERUN S/N:L41JD | Shoe drill out | NA | Tricone mill tooth, sealed roller bearing | 7-5/8” Pin | Junk / dedicated  shoe-track
+ | 20’’ | Baker  DTU1175 | Shoe drill out | NA | Baker  DTU1175 | 6 5/8’’ Reg | Dedicated shoe drill out
+16” Liner | 12.25" | RSX192 (TREX) IADC S-3-2-2 Reed Hycalog REPAIRED | 590 / 2034 | 1444 | Matrix body PDC, 5 blade, 13-16mm cutters | 6-5/8” Pin | RSS
+ | 19.5” | DoSRWD Hughes C | 590 / 2034 (bit depth) | 1444 |  |  | Run with 12.25” bit
+13-3/8” 13-5/8” Casing | 14.75” | RSX222 (TREX) IADC S-3-2-2 Reed-Hycalog TBC – NEW/RERUN? | 2304 / 4441 | 2407 | Steel Body, 5 Blade, 13-19mm cutters | 7-5/8” Pin | RSS
+ | 16.5” | Ander-reamer Andergauge | 2034 / 4441 (bit depth) | 2407 |  |  | Run with 14.75” bit
+10” 10-3/4” Casing | 12.25” | RSX190 (TREX) IADC M-4-2-2 Reed-Hycalog | 4441 / 5267 | 826 | Matrix body PDC, 7 blade, 13-16mm cutters | 6-5/8” Pin | RSS
+5-1/2” Liner | 8.5” | 2xRSX165A IADC M-4-3-2 Reed-Hycalog | 5267 / 6285 | 1018 | Matrix body PDC, 8 blade, 13mm cutters | 4-1/2” Pin | RSS
+
+[جدول 30]
+Base Plan Back-up Bits
+Section | Size | Type | Depth In/Out (m) | Distance (m) | Bit Description | Connection | BHA
+22” Casing | 26" | Y11C IADC 1-1-1 Reed-Hycalog | 184 / 590 | 408 | Tricone mill tooth, standard roller bearing | 7-5/8” Pin | Steerable Assembly
+ | 17.5” | MGSSH  IADC 1-1-5 Smith | 184 / 590 | 408 | Tricone mill tooth, sealed roller bearing, gauge protection | 7-5/8” Pin | Steerable Assembly
+ | 17.5” | EMS11G IADC 1-1-5 R-Hycalog | 184 / 590 | 408 | Tricone mill tooth, sealed roller bearing, gauge protection | 7-5/8” Pin | Steerable Assembly
+16” Liner | 12.25" | RSX192 (TREX) IADC M-4-2-2 Reed-Hycalog | 590 / 2034 | 1444 | Matrix body PDC, 7 blade, 13-16mm cutters | 6-5/8” Pin | RSS
+ | 12.25" | HCR607 M-3-2-3 Hughes C | 590 / 2034 | 1444 | Matrix body PDC, 7 blade, 19mm cutters | 6-5/8” Pin | RSS
+ | 19.5” | DoSRWD Hughes C | 590 / 2034 (bit depth) | 1444 |  |  | Run with 12.25” bit
+ | 17.5” | HC605S IADC S-3-2-3 Hughes C | 590 / 2034 | 1444 | Steel body PDC, 5 blade, 19mm cutters | 7-5/8” Pin | Steerable Assembly
+ | 17.5” | DS104 IADC M-3-2-3 Reed-Hycalog | 590 / 2034 | 1444 | Matrix body PDC, 6 blade, 13-19mm cutters | 7-5/8” Pin | Steerable Assembly
+ | 19.5” | DTU 1175 Under-Reamer Baker | 590 / 2034 (bit depth) | 1444 |  |  | Run with Bullnose
+13-3/8” 13-5/8” Casing | 14.75” | RSX222 (TREX) IADC S-4-2-2 Reed-Hycalog | 2034 / 4441 | 2407 | Steel body PDC, 6 blade, 13-16mm cutters | 7-5/8” Pin | RSS
+ | 14.75” | MRS74 IADC M-2-2-2 Smith | 2034 / 4441 | 22407 | Matrix body PDC, 6 blade, 13-16mm cutters | 7-5/8” Pin | RSS
+ | 16.5” | Ander-reamer Andergauge | 2034 / 4441 (bit depth) | 2407 |  |  | Run with 14.75” Bit
+ | 16.5” | Smith Rhino Reamer | 2034 / 4441 (bit depth) | 2407 |  |  | Run with 14.75” Bit
+ | 16.5” | Underreamer Baker | 2034 / 4441 (bit depth) | 2407 |  |  | Run with 14.75” Bit
+ | 14.75” | MA89 IADC M-2-2-3 Smith | 2034 / 4441 | 2407 | Matrix body PDC, 6 blade, 13-16-19mm cutters | 7-5/8” Pin | Steerable Assembly
+ | 14.75” | R-1 IADC 1-1-1 Hughes C | N/A | N/A | Tricone mill tooth, standard roller bearing. | 7-5/8” Pin | Junk / dedicated  shoe-track
+10” 10-3/4” Casing | 12.25” | RSX190 (TREX) IADC M-4-2-2 Reed-Hycalog | 4441 / 5267 | 826 | Matrix body PDC, 7 blade, 13-16mm cutters | 6-5/8” Pin | RSS
+ | 12.25” | RSX130 (TREX) S-4-2-2 Reed-Hycalog | 4441 / 5267 | 826 | Steel body PDC, 8 blade, 13mm cutters | 6-5/8” Pin | RSS
+ | 12.25” | MRS89 IADC M-2-2-3 Smith | 4441 / 5267 | 826 | Matrix body PDC, 6 blade, 13-16-19mm cutters | 6-5/8” Pin | RSS
+ | 12.25” | MA74 IADC M-2-2-3 Smith | 4441 / 5267 | 1052 | Matrix body PDC, 6 blade, 13-16mm cutters | 6-5/8” Pin | Steerable Assembly
+ | 12.25” | MA62 IADC M-4-2-3 Smith | 4441 / 5267 | 1052 | Matrix body PDC, 9 blade, 13-16mm cutters | 6-5/8” Pin | Steerable Assembly
+ | 12.25” | HP21G IADC 2-1-7 Reed Hycalog/Smith | N/A | N/A | Tricone |  | Junk / dedicated  shoe-track
+5 ½” Liner | 8.5” | 2xRSX165B (TREX) IADC M-4-3-2 Reed-Hycalog | 5267 / 6285 | 1018 | Matrix body PDC, 8 blade, 13mm cutters | 4-1/2” Pin | RSS
+ | 8.5” | RSX163 (TREX) IADC M-4-3-2 Reed-Hycalog | 5267 / 6285 | 1018 | Matrix body PDC, 6 blade, 16mm face cutters | 4-1/2” Pin | RSS
+ | 8.5” | RSX161 (TREX) IADC M-3-2-2 Reed Hycalog | 5267 / 6285 | 1018 | Matrix body PDC, 6 blade, 13-19mm cutters | 4-1/2” Pin | RSS
+ | 8.5” | RSX162A (TREX) IADC M-3-2-2 Reed Hyclaog | 5267 / 6285 | 1018 | Matrix body PDC, 6 blade, 13-16mm cutters | 4-1/2” Pin | RSS
+ | 8.5” | HCR406 / HCR407 IADC M-3-3-3 Hughes C | 5267 / 6285 | 1018 | Matrix body PDCs, 6 blade (406), 7 blade (407), 13.4mm cutters | 4-1/2” Pin | RSS
+ | 8.5” | DSX94 (TREX) IADC M-4-3-2 Reed-Hycalog | 5267 / 6285 | 1018 | Matrix body PDC, 8 blade, 13mm cutters | 4-1/2” Pin | Steerable Assembly
+ | 8.5” | DSX148 (TREX) IADC M-4-3-3 Reed-Hycalog | 5267 / 6285 | 1018 | Matrix body PDC, 6 blade, 13mm cutters | 4-1/2” Pin | Steerable Assembly
+ | 8.5” | HP21G / MHT13GC  IADC 2-1-7 / 1-3-7 Reed-Hycalog | N/A | N/A | Tricones | 4-1/2” Pin | Junk / dedicated  shoe-track
+
+[جدول 31]
+SITE COORDINATES (Slot 8 of proposed | 39° 53' 48.49"N | 50° 26' 44.60"E | Datum: Pulkovo 42(AIOC ’97) Spheroid: Krassovsky 1940
+template for E2 ) | 452 596 m E | 4 418 296 m N | Projection:  Modified GKN09            CM:    51° E
+WATER DEPTH | 101.15 m | 332 ft | Below AIOC 95 Datum
+ | 100.40 m | 330 ft | Below Predicted Level for 1/3/03
+SEABED CONDITIONS | Topography:  The proposed platform location is situated on a gently sloping (1:40) triangular shaped topographic high, which is bounded on three sides by more sharply sloping (up to 1:3) scarp features. The high covers an area of 0.35km2. The location is located 200m south of the nearest scarp, which runs E/W forming the northern boundary of the promontory on which the high is situated.  At the location the seabed slopes down to the SSE.   Over the area of the anchor pattern (up to 3km radius from location): To the north and west of the promontory the seabed slopes down gently to depths of between 104 and 160m, but to the south and east the seabed drops rapidly, via a series of scarps resulting from slope failure, to depths between 220 and 350m.
+ | Seabed Material: Fine to medium sands with some shell fragments.
+ | Obstructions within the anchor pattern:  Wells are detailed in next section.  There are a number of features associated with site investigation work: Broken Vibrocore barrel (protrudes 3m)   42m @ 031T from location   Buried CPT Cone                                      34m @ 298T from location Crater from Pilot Hole 1A                       106m @ 146T from location Crater (cement filled) from P1B              153m @ 117T from location Crater(1.5m deep, 7m diameter)              153m @ 125T from location
+ | Pipelines, cables and suspended wells within 5kms of location There are no pipelines or cables near the location Abandoned SOCAR well SD4                510m @ 250 T from location  (452115 E 4418125 N) Suspended BP well SDX1 (5m high)     1469m @ 334T from location  (451965 E 4419623 N)
+SHALLOW GEOLOGY | Summary:      Depths in metres below seabed, for further details see THFF.       0.00    – 5.0	Fine to medium sand, with some clay content       5.00   – 6.2           Clay Band       6.20    – 17.0	Fine to medium sand      17.0   – 151.0        Calcareous clay     151.0  – 563.0        Clay with mud flows	     563.0  – 599.0        ‘Running’ Sands     599.0  – 725.0         Clay with possible thin sands      725.0  – 1718.0         Shales with thin sands and possibly thin carbonates.
+ | Shallow Geohazards:   (Full details in SGA dated 10/9/02) 1) Shallow Gas: A pilot hole (P1A) was drilled 106m from location in April 2002 to a depth of 600m, no gas was observed in the pilot hole. Below 600m a seismic amplitude anomaly in the interval 924m to 1006m was analyzed and the conclusion drawn that the risk of encountering gas is negligible.  2) Faults:  Lower detachment faults, which will be crossed in the interval 759m to 1050m, were investigated, with the conclusion that the overall risk to wells drilled from the platform from this source is negligible – low. 3) Mud Volcano: Dormant mud volcano, 0.43 to 2.91kms WSW is considered to represent negligible risk to the integrity of the E2 platform. 4) Overpressured Water: The risk of encountering such a flow in the Upper Surakhany Sands below 1903m is considered to be moderate. 5) Slope Failure: Studies of the stability of the promontory have concluded the risk to the integrity of the E2 platform from this source is negligible. 6) Deep Blowout: In unlikely event of gas escaping containment at depth it is considered most likely that the closest seabed exit point would be 230m WSW
+Date of Survey: Aug/Sept 2001 (SD Survey) Svetlomor 2  Fugro &  Apr-Jun 1997 (Regional Survey) Geofizik 1 NeSA
+Site Summary Prepared By:	Mark Grove Smith | Date:	17th January 2003.
+Site Summary Checked By:	Ian Murray | Date:	20th January 2003.
+⟐ No Accidents–No Harm to People–No Damage to the Environment
+⟐ Page 6 of
+ |  |  |  | 
+ |  |  |  |  | 
+⟐ No Accidents–No Harm to People–No Damage to the Environment
+Page 21 of |  |  |  | 
+ | Page 21 o |  |  | Page 21 of | Page 21 of
+⟐ No Accidents–No Harm to People–No Damage to the Environment
+⟐ Page 44 of
+ |  |  | 
+⟐ No Accidents–No Harm to People–No Damage to the Environment
+⟐ Page 44 of
+ |  |  | 
+⟐ No Accidents–No Harm to People–No Damage to the Environment
+⟐ Page 44 of
+ |  |  | 
+⟐ No Accidents–No Harm to People–No Damage to the Environment
+Page 106 of |  |  |  | 
+ |  |  |  | Page 106 of | Page 106 of
+
+

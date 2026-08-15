@@ -1,0 +1,791 @@
+# AZNS F-20 Price Table Rev#07 — Sheet 1: Time Breakdown (F-20)
+# Extracted from AZNS-F-20 Price Table Rev#07.xlsx (pasted by user, 2026-08-11)
+# Format: desc | IADC | interval | formation | depth | rop | dur_h | dur_d | cum_d | cont% | c_dur_h | c_dur_d | c_cum_d
+# (rop may be omitted for trip-type rows; 'Rig Less' replaces rop+durations for rig-less ops)
+# Row numbers were dropped during paste; order is preserved.
+
+26" Hole Section / 20" Casing | 26" Hole Section / 20" Casing
+P/U & M/U 26" bit #1 and 9-3/4" drill collars, RIH to tag formation @ ±14m. | Drilling | 5 | Agh. | 14 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Drilling 26" hole from 14 to 150m (20" casing point in Aghajari formation) using Hi-vis bentonite pill (Run Totco each 50m). | Drilling | 136 | Agh. | 150 | 5 | 31 | 1.2916666666666667 | 1.2916666666666667 | 1.4208333333333336 | 34.1 | 1.4208333333333334 | 1.4208333333333334
+Circulate and clean the hole. Spot high viscosity pill at bottom, drop Inclinometer (Totco). | Trip | Agh. | 150 | 3 | 0.125 | 1.4166666666666667 | 0.1375 | 3.3000000000000003 | 0.1375 | 1.5583333333333333
+Perform hole condition prior to run casing. If observe any indication of drag, run back to bottom, POOH to surface. | Trip | Agh. | 150 | 5 | 0.20833333333333334 | 1.625 | 0.22916666666666669 | 5.5 | 0.22916666666666666 | 1.7875
+R/U casing running equipment & run 150 m approximately 13 Jts. 20" casing to 150 m.Fill casing by non-LCM fresh mud. | Csg. Running | Agh. | 150 | 13 | 0.5416666666666666 | 2.1666666666666665 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 2.3833333333333333
+Circ mud, RIH W/ Stringer on 5" DP, Circulate mud.Cement Casing as per program.POOH to Surf., L/D stinger, Wait on cement to get hard meanwhile perform top job(s) to fill annulus if required | CMT | Agh. | 150 | 13 | 0.5416666666666666 | 2.708333333333333 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 2.9791666666666665
+Cut 30" conductor pipe, Cut & bevel 20" casing. Weld and Installed 20-3/4" x 3K C.H.H & pressure test same with 80% Casing Collapse. | Trip | Agh. | 150 | 9 | 0.375 | 3.083333333333333 | 0.41250000000000003 | 9.9 | 0.41250000000000003 | 3.3916666666666666
+N/U BOP and releated lines and valves, test BOP & choke manifold as per NIOC policy. | BOP Test | Agh. | 150 | 26 | 1.0833333333333333 | 4.166666666666666 | 1.1916666666666667 | 28.6 | 1.1916666666666667 | 4.583333333333333
+Rack back 700m drill pipes, P/U and M/U next 17 1/2" Bit and BHA, RIH to bottom (Bit#2). | Trip | Agh. | 150 | 13 | 0.5416666666666666 | 4.708333333333333 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 5.179166666666666
+Drill out cement and shoe with 17-1/2" bit, work on junk sub. | D/Out | Agh. | 150 | 4 | 0.16666666666666666 | 4.875 | 0.18333333333333335 | 4.4 | 0.18333333333333335 | 5.3625
+Total Duration of 26" Hole Section: | 4.875 | 4.875 | 5.3625 | 5.3625
+17-1/2" Hole Section / 13-3/8" Casing | 17-1/2" Hole Section / 13-3/8" Casing
+Commence drilling 17-1/2" hole to 174m (bit#2). | Drilling | 24 | Agh. | 174 | 5 | 5 | 0.20833333333333334 | 5.083333333333333 | 0.22916666666666669 | 5.5 | 0.22916666666666666 | 5.591666666666667
+Circulate and clean hole, POOH to surf. | Trip | Agh. | 174 | 4 | 0.16666666666666666 | 5.25 | 0.18333333333333335 | 4.4 | 0.18333333333333335 | 5.775
+RIH w/ same bit (bit #2RR1) and S.Stab @ 20m to bottom.Survey shall be taken by running single shot (Each 100 m) & multishot (Each 300 m) in this hole section. | Survey | Agh. | 174 | 4 | 0.16666666666666666 | 5.416666666666667 | 0.18333333333333335 | 4.4 | 0.18333333333333335 | 5.958333333333334
+Continue drilling 17-1/2" hole to ±250m while pumping hi-vis pill periodically | Drilling | 76 | Agh. | 250 | 6 | 14 | 0.5833333333333334 | 6 | 0.6416666666666667 | 15.400000000000002 | 0.6416666666666667 | 6.6000000000000005
+Take survey | Survey | Agh. | 250 | 2 | 0.08333333333333333 | 6.083333333333333 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 6.691666666666667
+Continue drilling 17-1/2" hole to ±350m while pumping hi-vis pill periodically | Drilling | 100 | Agh. | 350 | 6 | 19 | 0.7916666666666666 | 6.875 | 0.8708333333333333 | 20.900000000000002 | 0.8708333333333335 | 7.562500000000001
+Take survey | Survey | Agh. | 350 | 2 | 0.08333333333333333 | 6.958333333333333 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 7.654166666666668
+Continue drilling 17-1/2" hole to ±450m while pumping hi-vis pill periodically | Drilling | 100 | Agh. | 450 | 6 | 19 | 0.7916666666666666 | 7.75 | 0.8708333333333333 | 20.900000000000002 | 0.8708333333333335 | 8.525
+Condition trip to 150m Run back, Take survey as multi-shot | Survey | Agh. | 450 | 5 | 0.20833333333333334 | 7.958333333333333 | 0.22916666666666669 | 5.5 | 0.22916666666666666 | 8.754166666666666
+Continue drilling 17-1/2" hole to ±550m while pumping hi-vis pill periodically | Drilling | 100 | Agh. | 550 | 6 | 18 | 0.75 | 8.708333333333332 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 9.579166666666666
+Take survey | Survey | Agh. | 550 | 2 | 0.08333333333333333 | 8.791666666666666 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 9.670833333333333
+Continue drilling 17-1/2" hole to ±650m while pumping hi-vis pill periodically | Survey | 100 | Agh. | 650 | 6 | 18 | 0.75 | 9.541666666666666 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 10.495833333333332
+Take survey | Survey | Agh. | 650 | 2 | 0.08333333333333333 | 9.625 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 10.587499999999999
+Continue drilling 17-1/2" hole to ±750m while pumping hi-vis pill periodically | Drilling | 100 | Agh. | 750 | 6 | 18 | 0.75 | 10.375 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 11.412499999999998
+Condition trip to 450m and Run back , displace mud in hole by 74pcf KCL/Polymer mud @ ±750m, | Survey | Agh. | 750 | 4 | 0.16666666666666666 | 10.541666666666666 | 0.18333333333333335 | 4.4 | 0.18333333333333335 | 11.595833333333331
+Continue drilling 17-1/2" hole to 850m (bit hrs), while pump hi-vis Pill periodically. | Drilling | 100 | Agh. | 850 | 6 | 18 | 0.75 | 11.291666666666666 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 12.42083333333333
+Circulate clean hole, Take survey as multi-shot | Trip | Agh. | 850 | 13 | 0.5416666666666666 | 11.833333333333332 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 13.016666666666664
+POOH to surface, change bit to PDC (bit #3), RIH to bottom while pick up drill pipe. | BOP Test | Agh. | 850 | 6 | 0.25 | 12.083333333333332 | 0.275 | 6.6000000000000005 | 0.275 | 13.291666666666664
+Continue drilling 17-1/2" hole to 950m while pump hi-vis Pill periodically. | Drilling | 100 | Agh. | 950 | 6 | 18 | 0.75 | 12.833333333333332 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 14.116666666666664
+Take survey | Survey | Agh. | 950 | 2 | 0.08333333333333333 | 12.916666666666666 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 14.20833333333333
+Continue drilling 17-1/2" hole to 1050m while pump hi-vis pill periodically. | Drilling | 100 | Agh.-Gas. | 1050 | 6 | 18 | 0.75 | 13.666666666666666 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 15.03333333333333
+Take survey | Survey | Agh.-Gas. | 1050 | 2 | 0.08333333333333333 | 13.75 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 15.124999999999996
+Continue drilling 17-1/2" hole to 1150m while pump hi-vis pill periodically. | Drilling | 100 | Gas. | 1150 | 3.3 | 34 | 1.4166666666666667 | 15.166666666666666 | 1.5583333333333336 | 37.400000000000006 | 1.5583333333333336 | 16.68333333333333
+Perform Wiper Trip as POOh ti 850 m & Run back to BTM. Take survey as multi-shot | Trip | Gas. | 1150 | 6 | 0.25 | 15.416666666666666 | 0.275 | 6.6000000000000005 | 0.275 | 16.95833333333333
+Continue drilling 17-1/2" hole to 1250m while pump hi-vis pill periodically. | Drilling | 100 | Gas. | 1250 | 6 | 18 | 0.75 | 16.166666666666664 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 17.783333333333328
+Take survey | Survey | Gas. | 1250 | 2 | 0.08333333333333333 | 16.249999999999996 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 17.874999999999993
+Continue drilling 17-1/2" hole to 1350m while pump hi-vis pill periodically. | Drilling | 100 | Gas. | 1350 | 6 | 18 | 0.75 | 16.999999999999996 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 18.699999999999992
+Take survey | Survey | Gas. | 1350 | 2 | 0.08333333333333333 | 17.08333333333333 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 18.791666666666657
+Continue drilling 17-1/2" hole to 1450m while pump hi-vis pill periodically. | Drilling | 100 | Gas.-As. | 1450 | 6 | 18 | 0.75 | 17.83333333333333 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 19.616666666666656
+Perform Wiper Trip as POOH to 1150 m & Run back to BTM. Take survey as multi-shot | Trip | As. | 1450 | 7 | 0.2916666666666667 | 18.124999999999996 | 0.32083333333333336 | 7.700000000000001 | 0.32083333333333336 | 19.93749999999999
+Continue drilling 17-1/2" hole to 1550m while pump hi-vis pill periodically. | Drilling | 100 | As. | 1550 | 6 | 18 | 0.75 | 18.874999999999996 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 20.76249999999999
+Take survey | Survey | As. | 1550 | 2 | 0.08333333333333333 | 18.95833333333333 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 20.854166666666654
+Continue drilling 17-1/2" hole to 1650m while pump hi-vis pill periodically. | Drilling | 100 | AS/Pb.-Ja. | 1650 | 6 | 18 | 0.75 | 19.70833333333333 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 21.679166666666653
+Take survey | Survey | Pb.-Ja. | 1650 | 2 | 0.08333333333333333 | 19.79166666666666 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 21.770833333333318
+Continue drilling 17-1/2" hole to 1750m while pump hi-vis pill periodically. | Drilling | 100 | Ja. | 1750 | 6 | 18 | 0.75 | 20.54166666666666 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 22.595833333333317
+Perform Wiper Trip as POOH to 1450 m & Run back to BTM. Take survey as multi-shot | Trip | Ja. | 1750 | 7 | 0.2916666666666667 | 20.83333333333333 | 0.32083333333333336 | 7.700000000000001 | 0.32083333333333336 | 22.91666666666665
+Continue drilling 17-1/2" hole to 1900m while pump hi-vis pill periodically. | Drilling | 150 | Ja. | 1900 | 6 | 28 | 1.1666666666666667 | 21.999999999999996 | 1.2833333333333334 | 30.800000000000004 | 1.2833333333333334 | 24.199999999999985
+Take survey, Due to Cherty Trace in Pabdeh formation, POOH to surface, Change Bit, RIH with Tri cone Bit#4 and same BHA to BTM. | Trip | Ja. | 1900 | 17 | 0.7083333333333334 | 22.70833333333333 | 0.7791666666666668 | 18.700000000000003 | 0.7791666666666668 | 24.97916666666665
+Continue drilling 17-1/2" hole to 2000m while pump hi-vis pill periodically. | Drilling | 100 | Ja.-Pb. | 2000 | 6 | 18 | 0.75 | 23.45833333333333 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 25.80416666666665
+Take survey | Survey | Ja.-Pb. | 2000 | 2 | 0.08333333333333333 | 23.54166666666666 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 25.895833333333314
+Continue drilling 17-1/2" hole to 2100m while pump hi-vis pill periodically. | Drilling | 100 | Pb. | 2100 | 6 | 18 | 0.75 | 24.29166666666666 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 26.720833333333314
+Take survey | Survey | Pb. | 2100 | 2 | 0.08333333333333333 | 24.374999999999993 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 26.81249999999998
+Continue drilling 17-1/2" hole to 2182m (13-3/8" Casing point) while pump hi-vis pill periodically. | Drilling | 82 | U-Gu. | 2182 | 6 | 15 | 0.625 | 24.999999999999993 | 0.6875 | 16.5 | 0.6875 | 27.49999999999998
+Take survey | Survey | U-Gu. | 2182 | 2 | 0.08333333333333333 | 25.083333333333325 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 27.591666666666644
+Circulate and clean hole, Condition hole prior to run Log, POOH to surface | Hole Cond/Circ | U-Gu. | 2182 | 16 | 0.6666666666666666 | 25.749999999999993 | 0.7333333333333334 | 17.6 | 0.7333333333333334 | 28.324999999999978
+Run CDR/GR/Caliper log, POOH and L/D log | Log | U-Gu. | 2182 | 13 | 0.5416666666666666 | 26.29166666666666 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 28.920833333333313
+R/U casing running equipment, Run 13-3/8" casing as per program to bottom, Rig pump efficiency should be check in trip-tank before cement job. | Csg. Running | U-Gu. | 2182 | 47 | 1.9583333333333333 | 28.249999999999993 | 2.154166666666667 | 51.7 | 2.154166666666667 | 31.07499999999998
+Circulate Mud one casing vol., Perform Cementing, Bump plug w/1500psi for 15min for CIT. (In case, not observing bumping during CMT job, perform CIT with 1500psi /15min after D/O 7m CMT above F.shoe) | N/U WH | U-Gu. | 2182 | 11 | 0.4583333333333333 | 28.708333333333325 | 0.5041666666666667 | 12.100000000000001 | 0.5041666666666668 | 31.579166666666648
+Set 13-3/8" casing slip and test to 800-1000psi, N/D BOP, Cut and L/D landing Joint, N/U 20-3/4" 3000 x 13-5/8" 5000psi C.H.S., inject and pressure test p-seals and cavity with maximum 80% of collapse pressure rating.(1800 psi) | N/U BOP | U-Gu. | 2182 | 24 | 1 | 29.708333333333325 | 1.1 | 26.400000000000002 | 1.1 | 32.679166666666646
+N/U 13-5/8" 10000psi BOP's stack meanwhile fill 13-3/8" casing annulus (Top Job) if required, perform BOPs test as NIOC policy. (Set 4-1/2" *7" Rams in top Rams) | BOP TEST | U-Gu. | 2182 | 36 | 1.5 | 31.208333333333325 | 1.6500000000000001 | 39.6 | 1.6500000000000001 | 34.329166666666644
+L/D 9-3/4" drill collars, P/U and M/U 8 1/2" drill collars (junk sub is included). | Trip | U-Gu. | 2182 | 9 | 0.375 | 31.583333333333325 | 0.41250000000000003 | 9.9 | 0.41250000000000003 | 34.741666666666646
+P/UP 12-1/4" bit#5 & RIH joint by joint , Drill out f.collar and cement to 7m above shoe (In case not bumping plugs during cementing, perform casing integrity test with 1500psi/15min) drill out cement and shoe track, work on junk sub. | D/Out | U-Gu. | 2182 | 22 | 0.9166666666666666 | 32.49999999999999 | 1.0083333333333333 | 24.200000000000003 | 1.0083333333333335 | 35.74999999999998
+Total Duration of 17-1/2" Hole Section: | 27.625 | 32.49999999999999 | 30.3875 | 35.74999999999998
+12-1/4" Hole Section / 9-5/8" Casing | 12-1/4" Hole Section / 9-5/8" Casing
+Drilling new formation about 2-3m below shoe. | Drilling | 3 | U-Gu. | 2186 | 2 | 1.9500000000000002 | 0.08125 | 32.58124999999999 | 0.08937500000000001 | 2.1450000000000005 | 0.08937500000000002 | 35.839374999999976
+Work on junk sub, Circulate and clean hole, POOH to Surf. Change top Rams | Cir. | U-Gu. | 2186 | 15 | 0.625 | 33.20624999999999 | 0.6875 | 16.5 | 0.6875 | 36.526874999999976
+R/U logging equipment, Run GR/CCL/CBL/VDL as per program, POOH & R/D logging Equip. | Log | U-Gu. | 2186 | 9 | 0.375 | 33.58124999999999 | 0.41250000000000003 | 9.9 | 0.41250000000000003 | 36.93937499999998
+P/U & M/U New 12 1/4" PDC bit (bit#6) and S.Stab @ 20m, RIH to bottom. | Trip | U-Gu. | 2186 | 13 | 0.5416666666666666 | 34.122916666666654 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 37.53520833333331
+Circulate and displace hole with new KCL polymer mud (76 pcf), perform FIT (2-5m below shoe: EMW should be equal to max. planned mud weight for next hole section plus 2 pcf, 550 PSI) | Cir. | U-Gu. | 2186 | 5 | 0.20833333333333334 | 34.33124999999999 | 0.22916666666666669 | 5.5 | 0.22916666666666666 | 37.76437499999997
+Drilling 12-1/4" hole to 2350m while adjust MW based on hole condition .Use single-shot every 100m multi-shot survey every 300m to control well deviation in this hole section. | Trip | 164 | Tar. | 2350 | 3 | 60 | 2.5 | 36.83124999999999 | 2.75 | 66 | 2.75 | 40.51437499999997
+Take survey | Survey | Tar. | 2350 | 2 | 0.08333333333333333 | 36.914583333333326 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 40.60604166666664
+Cont. drlg 12 1/4" hole section to 2450m,while pump hi-vis Pill periodically. | Drilling | 100 | L-Gurpi | 2450 | 3 | 37 | 1.5416666666666667 | 38.45624999999999 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 42.301874999999974
+Take survey | Survey | L-Gurpi | 2450 | 2 | 0.08333333333333333 | 38.539583333333326 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 42.39354166666664
+Cont drlg 12 1/4" hole section to 2550m while pump hi-vis Pill periodically. | Drilling | 100 | L-Gurpi | 2550 | 3 | 37 | 1.5416666666666667 | 40.08124999999999 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 44.089374999999976
+Perform Wiper Trip as POOH till 2220m & Run back to BTM. Take survey as multi-shot | Trip | L-Gurpi | 2550 | 6 | 0.25 | 40.33124999999999 | 0.275 | 6.6000000000000005 | 0.275 | 44.364374999999974
+Cont drlg 12 1/4" hole section to 2650m while pump hi-vis Pill periodically. | Drilling | 100 | Il-La-Sv | 2650 | 3 | 37 | 1.5416666666666667 | 41.872916666666654 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 46.06020833333331
+Take survey | Survey | Il-La-Sv | 2650 | 2 | 0.08333333333333333 | 41.95624999999999 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 46.151874999999976
+cont drlg 12 1/4" hole section to 2750m while pump hi-vis Pill periodically. | Drilling | 100 | SV | 2750 | 3 | 37 | 1.5416666666666667 | 43.497916666666654 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 47.84770833333331
+Take survey | Survey | SV | 2750 | 2 | 0.08333333333333333 | 43.58124999999999 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 47.93937499999998
+cont drlg 12 1/4" hole section to 2850m while pump hi-vis Pill periodically. | Drilling | 100 | SV | 2850 | 3 | 37 | 1.5416666666666667 | 45.122916666666654 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 49.63520833333331
+Perform Wiper Trip as POOH till 2550m & Run back to BTM. Take survey as multi-shot | Trip | SV | 2850 | 6 | 0.25 | 45.372916666666654 | 0.275 | 6.6000000000000005 | 0.275 | 49.91020833333331
+BOP Test. | BOP Test | SV | 2850 | 6 | 0.25 | 45.622916666666654 | 0.275 | 6.6000000000000005 | 0.275 | 50.18520833333331
+cont drlg 12 1/4" hole section to 2950m while pump hi-vis Pill periodically. | Drilling | 100 | SV | 2950 | 3 | 37 | 1.5416666666666667 | 47.16458333333332 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 51.88104166666664
+Take survey | Survey | SV | 2950 | 2 | 0.08333333333333333 | 47.247916666666654 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 51.97270833333331
+cont drlg 12 1/4" hole section to 3050m while pump hi-vis Pill periodically. | Drilling | 100 | SV | 3050 | 3 | 37 | 1.5416666666666667 | 48.78958333333332 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 53.66854166666664
+Take survey | Survey | SV | 3050 | 2 | 0.08333333333333333 | 48.872916666666654 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 53.76020833333331
+cont drlg 12 1/4" hole section to 3150m while pump hi-vis Pill periodically. | Drilling | 100 | SV | 3150 | 3 | 37 | 1.5416666666666667 | 50.41458333333332 | 1.6958333333333335 | 40.7 | 1.6958333333333335 | 55.45604166666664
+CBU, POOH to surf (due to rotating HRS), change BHA & Bit, RIH W/BIT#7 to btm. | Trip | SV | 3150 | 2 | 0.08333333333333333 | 50.497916666666654 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 55.54770833333331
+cont drlg 12 1/4" hole section to 3250m while pump hi-vis Pill periodically. | Drilling | 100 | SV | 3250 | 2 | 56 | 2.3333333333333335 | 52.83124999999999 | 2.566666666666667 | 61.60000000000001 | 2.566666666666667 | 58.11437499999998
+Take survey | Survey | SV | 3250 | 2 | 0.08333333333333333 | 52.914583333333326 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 58.20604166666665
+cont drlg 12 1/4" hole section to 3350m while pump hi-vis Pill periodically. | Drilling | 100 | Kz. | 3350 | 2 | 56 | 2.3333333333333335 | 55.24791666666666 | 2.566666666666667 | 61.60000000000001 | 2.566666666666667 | 60.77270833333332
+Take survey | Survey | Kz. | 3350 | 2 | 0.08333333333333333 | 55.33125 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 60.86437499999999
+cont drlg 12 1/4" hole section to 3450m while pump hi-vis Pill periodically. | Drilling | 100 | Kz. | 3450 | 2 | 56 | 2.3333333333333335 | 57.66458333333333 | 2.566666666666667 | 61.60000000000001 | 2.566666666666667 | 63.43104166666666
+Perform Wiper Trip as POOH till 3150m & Run back to BTM. Take survey as multi-shot | Trip | Kz. | 3450 | 6 | 0.25 | 57.91458333333333 | 0.275 | 6.6000000000000005 | 0.275 | 63.70604166666666
+cont drlg 12 1/4" hole section to 3550m while pump hi-vis Pill periodically. | Drilling | 100 | Da. | 3550 | 2 | 56 | 2.3333333333333335 | 60.24791666666667 | 2.566666666666667 | 61.60000000000001 | 2.566666666666667 | 66.27270833333333
+Take survey | Survey | Da. | 3550 | 2 | 0.08333333333333333 | 60.331250000000004 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 66.364375
+BOP Test. | BOP Test | Da. | 3550 | 6 | 0.25 | 60.581250000000004 | 0.275 | 6.6000000000000005 | 0.275 | 66.639375
+cont drlg 12 1/4" hole section to 3650m while pump hi-vis Pill periodically. | Drilling | 100 | Da/Ga. | 3650 | 2 | 56 | 2.3333333333333335 | 62.91458333333334 | 2.566666666666667 | 61.60000000000001 | 2.566666666666667 | 69.20604166666666
+Take survey | Survey | Da/Ga. | 3650 | 2 | 0.08333333333333333 | 62.997916666666676 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 69.29770833333333
+cont drlg 12 1/4" hole section to 3750m while pump hi-vis Pill periodically. | Drilling | 100 | Ga. | 3750 | 2 | 56 | 2.3333333333333335 | 65.33125000000001 | 2.566666666666667 | 61.60000000000001 | 2.566666666666667 | 71.864375
+Perform Wiper Trip as POOH till 3450m & Run back to BTM. Take survey as multi-shot | Trip | Ga. | 3750 | 6 | 0.25 | 65.58125000000001 | 0.275 | 6.6000000000000005 | 0.275 | 72.139375
+cont drlg 12 1/4" hole section to 3850m while pump hi-vis Pill periodically. | Drilling | 100 | Ga. | 3850 | 2 | 56 | 2.3333333333333335 | 67.91458333333334 | 2.566666666666667 | 61.60000000000001 | 2.566666666666667 | 74.70604166666666
+Take survey | Survey | Ga. | 3850 | 2 | 0.08333333333333333 | 67.99791666666667 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 74.79770833333333
+BOP Test. | BOP Test | Da. | 3850 | 6 | 0.25 | 68.24791666666667 | 0.275 | 6.6000000000000005 | 0.275 | 75.07270833333334
+cont drlg 12 1/4" hole section to 3915 m(section TD) while pump hi-vis Pill periodically. | Drilling | 65 | Ga-FH. | 3915 | 2 | 36 | 1.5 | 69.74791666666667 | 1.6500000000000001 | 39.6 | 1.6500000000000001 | 76.72270833333334
+Take survey | Survey | FH. | 3915 | 2 | 0.08333333333333333 | 69.83125 | 0.09166666666666667 | 2.2 | 0.09166666666666667 | 76.81437500000001
+Circulate and clean hole, Condition hole prior to logging. POOH to surface. | Trip | FH. | 3915 | 40 | 1.6666666666666667 | 71.49791666666667 | 1.8333333333333335 | 44 | 1.8333333333333333 | 78.64770833333334
+R/U logging equipment, run Full Suite logs & Deviation tools & MDT as per program. POOH, L/D logging equipment. | Log | FH. | 3915 | 45 | 1.875 | 73.37291666666667 | 2.0625 | 49.50000000000001 | 2.0625000000000004 | 80.71020833333334
+Perform condition trip perior to run CSG.POOH to surface.Change Top Rams. | Trip | FH. | 3915 | 27 | 1.125 | 74.49791666666667 | 1.2375 | 29.700000000000003 | 1.2375 | 81.94770833333334
+R/U casing running equipment.Run 9-5/8" casing to bottom, rig pump efficiency should be check in trip-tank before cement job. | Csg. Running | FH. | 3915 | 45 | 1.875 | 76.37291666666667 | 2.0625 | 49.50000000000001 | 2.0625000000000004 | 84.01020833333334
+Circulate one casing vol. mud, Perform Cementing casing and displacing. in case of observed bumping; perform CIT With 3000psi/15 Min. (Max 80% Casing Burst) Record and Report the final pressure.(In case of not observing bumping during CMT job, perform CIT with 3000psi after D/O 7m CMT above F.shoe) | Cir. | FH. | 3915 | 17 | 0.7083333333333334 | 77.08125 | 0.7791666666666668 | 18.700000000000003 | 0.7791666666666668 | 84.789375
+Hang up BOPs. Set the 9-5/8" casing slip & Pressure test same w/ 800-1000psi. (open side outlet valves while testing), Cut and L/D landing Joint, N/U 13 5/8"-5000 x 11"-10000 T.H.S Pack & test p-seals & cavity w/ max 80% of CSG collapse pressure.(3800 psi) | well Head | FH. | 3915 | 24 | 1 | 78.08125 | 1.1 | 26.400000000000002 | 1.1 | 85.889375
+N/U 13-5/8" x 10000 BOPs stack meanwhile fill the 9-5/8" casing annulus if required, Perform BOP's test as per NIOC Policy | N/U BOP | FH. | 3915 | 24 | 1 | 79.08125 | 1.1 | 26.400000000000002 | 1.1 | 86.989375
+L/D 8-1/2" drill collars and, P/U 6-1/2" DC (junk sub is included), RIH with 8-1/2" bit (bit#8) and 5" drill pipe as jt by jts to BTM. | Trip | FH. | 3915 | 34 | 1.4166666666666667 | 80.49791666666667 | 1.5583333333333336 | 37.400000000000006 | 1.5583333333333336 | 88.54770833333333
+Drill out shoe track with 8-1/2" bit to 7m above shoe, in case not bumping plugs during cementing; perform casing integrity test with 3000psi, cont drill out shoe track and rat hole, | D/Out | FH. | 3915 | 9 | 0.375 | 80.87291666666667 | 0.41250000000000003 | 9.9 | 0.41250000000000003 | 88.96020833333333
+Total Duration of 12-1/4" Hole Section: | 48.37291666666666 | 80.87291666666667 | 53.210208333333334 | 88.96020833333333
+8-1/2" Hole Section / 7" Liner | 8-1/2" Hole Section / 7" Liner
+Drilling new formation about 3-5m below shoe | Drilling | 3 | FH | 3918 | 2 | 1.9500000000000002 | 0.08125 | 80.95416666666667 | 0.08937500000000001 | 2.1450000000000005 | 0.08937500000000002 | 89.04958333333333
+Work on junk sub, Circulate and clean hole, POOH to Surf. Change top Rams | Trip | FH | 3918 | 20 | 0.8333333333333334 | 81.7875 | 0.9166666666666667 | 22 | 0.9166666666666666 | 89.96625
+R/U logging equipment, Run GR/CCL/CBL/VDL/SBT, CAST or USIT as per program, POOH & R/D logging Equip. | Log | FH | 3918 | 18 | 0.75 | 82.5375 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 90.79125
+P/U & M/U New 8 1/2" PDC bit (bit#9) and S. Stab @ 20m, RIH to bottom. | Trip | FH | 3918 | 18 | 0.75 | 83.2875 | 0.8250000000000001 | 19.8 | 0.8250000000000001 | 91.61625000000001
+Displace hole with KCL Polymer mud (100 pcf), perform FIT. (EMW (720 psi) should be equal to max. planned mud weight for 8-1/2" hole section plus 2 PCF), | Hole Cond/Circ | FH | 3918 | 5 | 0.20833333333333334 | 83.49583333333332 | 0.22916666666666669 | 5.5 | 0.22916666666666666 | 91.84541666666668
+Drilling 8-1/2" hole to 4180m (TD) While use single-shot every 100m, multi-shot survey every 300m to control well deviation in this hole section. | Drilling | 262 | FH-5b | 4180 | 3 | 98 | 4.083333333333333 | 87.57916666666665 | 4.491666666666667 | 107.80000000000001 | 4.491666666666667 | 96.33708333333334
+Circualte clean hole, perform condition trip f/4180 to 3915m & run back to BTM, C.B.U and POOH to Surface. | Trip | FH-5b | 4180 | 27 | 1.125 | 88.70416666666665 | 1.2375 | 29.700000000000003 | 1.2375 | 97.57458333333334
+BOP Test. | BOP Test | FH-5b | 4180 | 6 | 0.25 | 88.95416666666665 | 0.275 | 6.6000000000000005 | 0.275 | 97.84958333333334
+Change Ram, Install shooting nipple, R/U WL Logging Eq. Perform Logging (Full Suite/CDR/GR Logs,MDT), R/D Logging Eq., change Ram. | Log | FH-5b | 4180 | 54 | 2.25 | 91.20416666666665 | 2.475 | 59.400000000000006 | 2.475 | 100.32458333333334
+RIH w/ 8-1/2" PDC Bit BHA (Without MWD), condition hole prior to 7" Liner running (RIH to Btm, CBU, Spot pill, POOH to surface) | Hole Cond/Circ | FH-5b | 4180 | 47 | 1.9583333333333333 | 93.16249999999998 | 2.154166666666667 | 51.7 | 2.154166666666667 | 102.47875
+R/U 7" Liner running Eq., Run 7" liner (+/- 365m LNR) to Btm @ 4180m, R/U CMT lines, Set L.Hanger +/- 3815m (100m overlap), release L.Hanger setting tool. | CSG | FH-5b | 4180 | 40 | 1.6666666666666667 | 94.82916666666665 | 1.8333333333333335 | 44 | 1.8333333333333333 | 104.31208333333333
+Cement 7" Liner as per program.. perform liner integrity test w/ 3000 psi while cementing. | CMT | FH-5b | 4180 | 10 | 0.4166666666666667 | 95.24583333333332 | 0.45833333333333337 | 11 | 0.4583333333333333 | 104.77041666666666
+POOH w/ L.Hanger setting tool to 3500m, Flush string & CBU, POOH to 3300m. | CSG | FH-5b | 4180 | 7 | 0.2916666666666667 | 95.5375 | 0.32083333333333336 | 7.700000000000001 | 0.32083333333333336 | 105.09125
+Close the well and WOC. | WOC | FH-5b | 4180 | 5 | 0.20833333333333334 | 95.74583333333332 | 0.22916666666666669 | 5.5 | 0.22916666666666666 | 105.32041666666667
+Open the Well. Cont' POOH to surface & L/D L.Hanger setting tool. | CSG | FH-5b | 4180 | 13 | 0.5416666666666666 | 96.2875 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 105.91625
+P/U & M/U 8-1/2" MT Bit (8RR1) BHA, RIH to L.Lap @ +/- 3815m while D/Out cement (If any cement: Considered 7STD wet for CMT Job), Circ & clean the well, POOH. | D/Out | FH-5b | 4180 | 45 | 1.875 | 98.1625 | 2.0625 | 49.50000000000001 | 2.0625000000000004 | 107.97875
+L/D excess 5" DPs/HWDP. | D/Out | FH-5b | 4180 | 5 | 0.20833333333333334 | 98.37083333333332 | 0.22916666666666669 | 5.5 | 0.22916666666666666 | 108.20791666666668
+P/U & M/U 4-3/4" DCs & 3-1/2" DPs/HWDPS, R/Back same in derrick. | D/Out | FH-5b | 4180 | 7 | 0.2916666666666667 | 98.6625 | 0.32083333333333336 | 7.700000000000001 | 0.32083333333333336 | 108.52875000000002
+P/U & M/U 5-7/8" MT Bit(bit#10) BHA, RIH to tag POB, D/Out POB, RIH to LDC depth while D/Out any cement, work on junk sub and CBU. Perform 7" Liner CIT. (80% of Burst press) with 1500 psi,for 10 min, (If not obs bumping). POOH to top of Liner Lap @ +/- 3815m, CBU, perform Liner lap positive test w/ 2000 psi, POOH to Surface. | D/Out | FH-5b | 4180 | 45 | 1.875 | 100.5375 | 2.0625 | 49.50000000000001 | 2.0625000000000004 | 110.59125000000002
+RIH with 5-7/8" MT Bit and tandem scraper (7" & 9-5/8") to LDC depth, Scrap inside 7" Liner and 9-5/8" casing before Dry test, CBU, POOH to Surface. | Testing | FH-5b | 4180 | 45 | 1.875 | 102.4125 | 2.0625 | 49.50000000000001 | 2.0625000000000004 | 112.65375000000002
+BOP Test. | BOP Test | FH-5b | 4180 | 7 | 0.2916666666666667 | 102.70416666666667 | 0.32083333333333336 | 7.700000000000001 | 0.32083333333333336 | 112.97458333333336
+RIH with 9-5/8" Dry test BHA, RIH to L.Lap @ +/- 3815m, Perform 7" Liner lap Dry Test (based on fahliyan Reservoir Datum Pressure), POOH. | Testing | FH-5b | 4180 | 75 | 3.125 | 105.82916666666667 | 3.4375000000000004 | 82.5 | 3.4375 | 116.41208333333336
+Change Ram, Install shooting nipple, R/U WL Logging Eq. Perform CMT quality Logging of 7" Liner from 7" liner shoe @ 4180 m to 7" Liner Lap @ 3815 m (SBT/CCL/GR ), R/D Logging Eq, change Ram. | Log | FH-5b | 4180 | 12 | 0.5 | 106.32916666666667 | 0.55 | 13.200000000000001 | 0.55 | 116.96208333333335
+P/U & M/U 5-7/8" MT Bit and C/Out BHA, RIH to LDC depth. Displace 7" Liner volume with CaBr2 Perforation fluid. | Completion | FH-5b | 4180 | 45 | 1.875 | 108.20416666666667 | 2.0625 | 49.50000000000001 | 2.0625000000000004 | 119.02458333333335
+Hold pre-job safety meeting.Rig Up WL & Pressure Test,RIH CCL & Dummy Gun,POOH & Rig Down. | Completion | FH-5b | 4180 | 13.5 | 0.5625 | 108.76666666666667 | 0.61875 | 14.850000000000001 | 0.61875 | 119.64333333333336
+Rig Up for Perforation,RIH String (Firing head & shooting ,CCL+Guns),Correlate Depth,Shooting the gun,POOH String & RIH again to Perforate all the Depths then Rig Down | Completion | FH-5b | 4180 | 96 | 4 | 112.76666666666667 | 4.4 | 105.60000000000001 | 4.4 | 124.04333333333336
+Rig Up WL & Pressure Test,RIH CCL & Dummy Gun to cross checking perforated intervals,POOH & Rig Down. | Completion | FH-5b | 4180 | 13 | 0.5416666666666666 | 113.30833333333334 | 0.5958333333333333 | 14.3 | 0.5958333333333333 | 124.6391666666667
+P/U & M/U 5-7/8" Mill BHA, RIH to top of LDC depth while smoothing Perforated intervals. | Completion | FH-5b | 4180 | 45 | 1.875 | 115.18333333333334 | 2.0625 | 49.50000000000001 | 2.0625000000000004 | 126.7016666666667
+Change Ram, Install shooting nipple, R/U WL Eq. RIH WL with CCL/GR Log to confirm Perforated intervals, POOH and R/D Logging Eq, change Ram. | Completion | FH-5b | 4180 | 10 | 0.4166666666666667 | 115.60000000000001 | 0.45833333333333337 | 11 | 0.4583333333333333 | 127.16000000000003
+P/U and M/U 5-7/8" Mill and 7" Scraper. RIH to Perforation depth while Scrap 7" PKR setting depth interval, CBU. Displace well volume with CaBr2 Completion fluid. | Completion | FH-5b | 4180 | 36 | 1.5 | 117.10000000000001 | 1.6500000000000001 | 39.6 | 1.6500000000000001 | 128.81000000000003
+POOH to surface while L/D all Tubulars. | Completion | FH-5b | 4180 | 63 | 2.625 | 119.72500000000001 | 2.8875 | 69.30000000000001 | 2.8875000000000006 | 131.69750000000002
+BOP Test. | BOP Test | FH-5b | 4180 | 6 | 0.25 | 119.97500000000001 | 0.275 | 6.6000000000000005 | 0.275 | 131.97250000000003
+R/U Completion running Eq, Run 4-1/2" *3-1/2", 10K Completion string as per program, R/D completion running Eq. | Completion | FH-5b | 4180 | 140 | 5.833333333333333 | 125.80833333333334 | 6.416666666666667 | 154 | 6.416666666666667 | 138.38916666666668
+Install BPV in TBG Hanger, N/D BOPs.N/U X-mass Tree, perform required test as per program, | Completion | FH-5b | 4180 | 40 | 1.6666666666666667 | 127.47500000000001 | 1.8333333333333335 | 44 | 1.8333333333333333 | 140.22250000000003
+Secure the well by set BPV in TBG Hanger, close all X-mas Tree valves except BMV, Release the Rig. | Completion | FH-5b | 4180 | 10 | 0.4166666666666667 | 127.89166666666668 | 0.45833333333333337 | 11 | 0.4583333333333333 | 140.68083333333337
+R/U Slick Line, Set protection sleeve in TRSSSV, R/D Slick Line. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+R/U CTU, Stimulation and Well Testing Eq. RIH w/ CT to Btm, displace the well with Diesel, POOH CT to surface. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+R/U Slick Line, Retrieve protection sleeve from TRSSSV, R/D Slick Line. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+Flow the well as Pre-Acid clean up till acceptable BSW and reading stable flow rate on 2 different choke size for 72 hrs. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+R/U Slick Line, Set protection sleeve in TRSSSV, R/D Slick Line. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+RIH w/ CT and perform Acid Wash as per program, POOH CT to surface. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+R/U Slick Line, Retrieve protection sleeve from TRSSSV, R/D Slick Line. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+Flow the well as Post-Acid clean up till acceptable BSW and reading stable flow rate on 2 different choke size for 96 hrs. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+R/U Slick Line, Set protection sleeve in TRSSSV, R/D Slick Line. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+RIH w/ CT to Btm, displace well with Diesel, POOH CT to surface, R/D CTU and well Testing Eq. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+R/U Slick Line, RIH w/ SL and Install Plug and Prong into NO-GO L.NPL, POOH. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+RIH w/ SL and Retrieve protection sleeve from TRSSSV, R/D Slick Line. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+Secure the well by set BPV in TBG Hanger, close all X-mas Tree valves except BMV, Release the Rig. | Completion | FH-5b | 4180 | Rig Less | 0 | 127.89166666666668 | 0 | 0 | 0 | 140.68083333333337
+Total Duration of 8-1/2" Hole Section: | 47.01875 | 127.89166666666668 | 51.720625000000005 | 140.68083333333337
+NOTE: | NOTE:
+Total Duration for Cut & Slip DL in all hole section. | Cut & Slip | FH | 4180 | 24 | 1 | 128.89166666666668 | 1.1 | 26.400000000000002 | 1.1 | 141.78083333333336
+Total Duration for Rig Service (Consider 0.5hr per day) in all hole section. | Rig Service | FH | 4180 | 70.34041666666668 | 2.930850694444445 | 131.82251736111112 | 3.22393576388889 | 77.37445833333337 | 3.2239357638888904 | 145.00476909722227
+Total Duration of F-20 Well: | FH | 4180 | 131.82251736111112 | 145.00476909722227
+# AZNS F-20 Price Table Rev#07 — Sheets 2-6 (cost summaries & breakdowns)
+# Sheet 2: Total Cost-EPD & Rigless
+Table 3: TOTAL COST (USD)
+No. | Item | Cost (USD)
+1 | Re-Entry, Completion & Procurement COST CEILING (USD) | 13184922.684535593
+2 | Rig-less Stimulation COST CEILING (USD) | 748673.64
+TOTAL COST CEILING (USD) | 13933596.324535593
+
+# Sheet 3: Total Cost-EPD
+Table 1: Re-Entry, Completion & Procurement Total Cost
+No. | Item | Qty. | Weight Factor | Well Code | Unit Cost (USD/each) | Total Cost (USD)
+1 | F-20 Fahliyan Producer Drilling | 1 | 1 | IIIF | 12907547.684535593 | 12907547.684535593
+2 | Procurement for AZNS- F-20 | 1 | 1 | IIIF | 3585578.75 | 0
+3 | Rig mobilization | 0 | 1 | - | 1092550 | 0
+4 | Rig demobilization | 0 | 1 | - | 478500 | 0
+5 | Rig Moving (Pad to Pad) | 1 | 1 | - | 247000 | 247000
+6 | Rig Moving (Celler to Celler) | 0 | 1 | - | 0 | 0
+7 | Mission cost | 145.00476909722227 | 1 | - | 202.5 | 30375
+7 | Mission cost | Man-day | 1 | - | 202.5 | 30375
+Re-Entry, Completion & Procurement COST CEILING (USD) | 13184922.684535593
+
+# Sheet 4: Rig-less Stimulation total cost
+Table 2: Rig-less Stimulation Total Cost
+No. | Item | Cost (USD)
+1 | Mobilization, Demobilization | 34138
+2 | Materials and Consumables | 159182.5
+3 | Acidizing and N2 services | 117529
+4 | Coiled Tubing Services | 44900
+5 | Oil Transportation Services | 60000
+6 | Production Well Testing Services | 83282.84
+7 | Wireline Cased hole Logging and Perforation Services | 75370
+8 | Slickline Services | 19732.3
+9 | Memory Gauge Service | 2927
+10 | Bottomhole PVT Sampling | 39100
+11 | Personnel Rates | 49512
+12 | Design, Interpretation, Reporting | 13000
+13 | Accommodation | 50000
+Stimulation COST CEILING (USD) | 748673.64
+
+# Sheet 5: Cost Breakdown-F-20 (EPDS LUMP SUM PRICE per Well F-20)
+Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well F-20 Code: F-20
+Item Description | UNIT | Unit Price (USD) | QTY | Total (USD)
+1 | Rig Service | DAY | 23000 | 145.00476909722227 | 3335109.689236112 | MSA Service
+2 | Drilling Fluid Service | 1060254.5306423611 | 251243 | 671019.0763888891 | Management
+Mud Engineer | DAY | 950 | 145.00476909722227 | 137754.53064236115 | 2642453.75 | Material
+Mud Chemicals for 26" hole | HOLE | 5 | 3300 | 16500 | 251243 | OEOC Services
+Mud Chemicals for 17 ½" hole | HOLE | 60 | 8000 | 480000 | 3335109.689236112 | Rig Services
+Mud Chemicals for 12 ¼" hole | HOLE | 50 | 6000 | 300000 | 247000 | Moving
+Mud Chemicals for 8 ½" hole | HOLE | 63 | 2000 | 126000 | 748673.64 | Rigless
+Mud Chemicals for 6 1/8" hole | HOLE | 0 | 12998466.324535593
+3 | Cementing Service | 1059225
+Cementing Service Personnel | DAY | 150 | 24 | 3600
+Cementing Equipment | DAY | 1750 | 24 | 42000
+Cementing 20" Casing | JOB | 198000 | 1 | 198000
+Cementing 13 ⅜" Casing | JOB | 375000 | 1 | 375000
+Cementing 9 ⅝" Casing | JOB | 114062.5 | 3 | 342187.5
+Cementing 7" Liner | JOB | 32812.5 | 3 | 98437.5
+4 | Mud logging services (lump Sum as Complete package) | 162042.82946614586
+Mud logging Personnel & equipment | DAY | 937.5 | 145.00476909722227 | 135941.97102864587
+Communication service within wellsite | DAY | 60 | 145.00476909722227 | 8700.286145833335
+Real time data transmission | DAY | 120 | 145.00476909722227 | 17400.57229166667
+5 | Wire line logging (lump Sum as Complete package) | 1602764.5
+Rental Charge | 0
+Service Charge | FOC | 0
+Service Charge for Wireline Cutter | 0
+Interpretation Charge | FOC | 0
+CCL/GR/CBL·VDL/CAST OR USIT OR SBT | ea. | FOC | 0
+Full Suite | ea. | FOC | 1 | 1000
+CDR/DT | ea. | FOC | 1 | 1500
+Wireline logging in 17 ½" Hole | 0
+CDR/DT/GR/CALI | JOB | 66768 | 1 | 66768
+CCL/GR/CBL/ VDL | JOB | 110408 | 1 | 110408
+Wireline Logging in 12 ¼" Hole | 0
+CDR/DT/GR/CALI | JOB | 0
+CCL/GR/CBL· VDL | JOB | 91750 | 1 | 91750
+Full-Suit Log | JOB | 293616 | 1 | 293616
+Wireline logging in 8 ½" Hole | 0
+CCL/GR/CBL0VDL/CAST or USIT or SBT | JOB | 91875 | 1 | 91875
+Corrosion Log for 7" Liner and 9 5/8" casing (MTT or MTD or EMDS) CCL/GR (after perforation) | JOB | 0 | 0
+Full-Suit Log | JOB | 165847.5 | 1 | 165847.5
+GR/DLL/MSFL/ SONIC/CDR | JOB | 0
+SPECTRAL GR/NEUTRON/DENSITY | JOB | 0
+DSI | JOB | 0
+FMI | JOB | 0
+NMR | JOB | 0
+MDT | JOB | 780000 | 1 | 780000
+LFA | JOB | 0
+Wireline logging in 6 1/8" Hole | 0
+CCL/GR/CBL0VDL/CAST or USIT or SBT | JOB | 0
+Deviation/GR/CALI | JOB | 0
+Full-Suit Log | JOB | 0
+GR/DLL/MSFL/ SONIC/CDR | JOB | 0
+SPECTRAL GR/NEUTRON/DENSITY | JOB | 0
+DSI | JOB | 0
+FMI | JOB | 0
+NMR | JOB | 0
+MDT | JOB | 0
+LFA | JOB | 0
+6 | Drilling Waste Management | 694253.0999131945
+Drilling Waste Management Engineer | DAY | 150 | 145.00476909722227 | 21750.71536458334
+Drilling Waste Management Equipment for cutting fixation | DAY | 300 | 145.00476909722227 | 43501.43072916668
+Drilling Waste Management Equipment for water treatment | DAY | 200 | 145.00476909722227 | 29000.953819444454
+Chemical consumption for cutting fixation | SUM/HOLE | 20000 | 10 | 200000
+Chemical consumption for water treatment | SUM/HOLE | 30000 | 10 | 300000
+Transportation of fixed/stabilized cuttings from location to disposal area | LOAD | 10000 | 10 | 100000
+7 | Directional Drilling Service (lump Sum as Complete package) | 0
+Multishot Survey | RUN | 0 | 0 | 0
+Directional Drilling Engineer | DAY | 0 | 0 | 0
+MWD and LWD Engineer | DAY | 0 | 0 | 0
+Directional Drilling in 12 ¼" Hole with MWD+GR | M | 0 | 0 | 0
+LWD tool rental in 12 ¼" Hole | M | 0 | 0 | 0
+Directional Drilling in 8 ½" Hole with MWD+GR | M | 0 | 0 | 0
+LWD tool rental in 8 ½" Hole | M | 0 | 0 | 0
+Directional Drilling in 6 " Hole with MWD+GR | M | 0 | 0 | 0
+LWD tool rental in 6" Hole | M | 0 | 0 | 0
+8 | Casing Running Service (lump Sum as Complete package) | 123998
+Casing Running 20" | M | 65 | 150 | 9750
+Casing Running 13 ⅜" | M | 24 | 2182 | 52368
+Casing Running 9 ⅝" | M | 7 | 3915 | 27405
+Casing Running 7" Liner | M | 25 | 365 | 9125
+Casing Running 5" Liner | M | 0 | 0 | 0
+Casing/tubing Running 4 ½" | M | 6.5 | 3800 | 24700
+Tubing Running 3 ½" | M | 6.5 | 100 | 650
+9 | Temporary Well suspension (lump Sum as Complete package) | 0
+Coiled tubing equipment and personnel | DAY | 0
+Diesel (for Displacement in Completion String) | BBL | 0
+10 | Slick line services (lump Sum as Complete package) | 38370
+Slick line for Vertical well | JOB | 12790 | 3 | 38370
+Slick line for Horizontal well | JOB | 0
+11 | Completion running (lump Sum as Complete package) | 15000
+Completion running in Fahliyan vertical wells | JOB | 15000 | 1 | 15000
+Completion running in Sarvak vertical wells | JOB | 0
+Completion running in Sarvak Horizontal wells | JOB | 0
+Completion running in Kazhdumi vertical wells | JOB | 0
+Completion running in Gadvan vertical wells | JOB | 0
+Completion running in Gadvan directional wells | JOB | 0
+12 | Liner hanger running (lump Sum as Complete package) | 3900
+7" liner hanger running equipment and personnel (lump Sum as Complete package) | JOB | 3900 | 1 | 3900
+5 ½" liner hanger running equipment and personnel (lump Sum as Complete package) | JOB | 0
+5" liner hanger running equipment and personnel (lump Sum as Complete package) | JOB | 0
+4 ½" liner hanger running equipment and personnel (lump Sum as Complete package | JOB | 0
+13 | H2S Service | 30451.001510416678
+H2S Equipment | DAY | 170 | 145.00476909722227 | 24650.810746527786
+H2S Service Personnel | DAY | 40 | 145.00476909722227 | 5800.190763888891
+14 | Perforation (Please Consider 50 Meters Perforation Interval, if any) | 124315
+Depth charge | M | 2 | 4170 | 8340
+TCP Guns & Charges | ea. | 98475 | 1 | 98475
+Depth Correlation | M | 350 | 50 | 17500
+DST Service | ea. | 0
+15 | Wellhead services | 75000
+Wellhead services in kazhdumi, Gadvan and Fahliyan wells (Full Stack) | JOB | 15000 | 5 | 75000
+Wellhead services in Sarvak and Disposal wells (Full Stack) | JOB | 0
+16 | Dry test services | 13875
+Dry test services for 7 in liner | JOB | 13875 | 1 | 13875
+Dry test services for 5 in liner | JOB | 0
+17 | Drilling Rig and Related Service for Completion Period | 268258.8228298612
+Rig Rental | DAY | 0 | 0 | 0
+Completion Engineer and Completion | DAY | 0 | 0 | 0
+Cementing Service Personnel | DAY | 100 | 145.00476909722227 | 14500.476909722227
+Cementing Equipment | DAY | 1750 | 145.00476909722227 | 253758.34592013896
+H2S Equipment | DAY | 0 | 0 | 0
+H2S Service Personnel | DAY | 0 | 0 | 0
+Completion Fluids | Lump | 0 | 0 | 0
+18 | Other Services | 72502.38454861114
+Car rental (2 vehicle/each rig) | DAY | 200 | 145.00476909722227 | 29000.953819444454
+Ambulance | DAY | 200 | 145.00476909722227 | 29000.953819444454
+Catering service (for 10 client personnel) | DAY | 100 | 145.00476909722227 | 14500.476909722227
+19 | Clean Up Services | 0
+Displacing 400bbl Diesel for Clean up | BBL | 0 | 0
+Lifting with 7000Gal Liquid Nitrogen | BBL | 0 | 0
+LPU & Nitrogen Unit with Storage Tanks Full Package | Day | 0 | 0
+Coiled Tubing Full Package | Day | 0 | 0
+Well Test Full Package | Day | 0 | 0
+20 | Drilling Materials * | 2642453.75
+Completion Equipment | SET | 943125
+well head & X-mas tree | SET | 402520
+Tubular goods | SET | 1313883.75
+Casing Accessories | SET | 330850
+Liner Hanger | SET | 85200
+Drilling Bit & mill | SET | 510000
+Bridge Plug | SET | 0
+Downhole Pressure Gauge | SET | 0
+21 | Project Management including Planning, Management and etc. | 580019.0763888891
+Planning and Cost control | Day | 2000 | 145.00476909722227 | 290009.53819444455
+Management | Day | 2000 | 145.00476909722227 | 290009.53819444455
+22 | Engineering | 91000
+Geological forecast | ea. | 2000 | 1 | 2000
+Drilling / Workover program | ea. | 5000 | 1 | 5000
+Operation Program & Report (Like Perforation, Dry Test, Cementing …) | WELL | 6500 | 10 | 65000
+Completion program | ea. | 6000 | 1 | 6000
+Final well geological and mud logging report | ea. | 2000 | 1 | 2000
+Final well completion report | ea. | 4000 | 1 | 4000
+Final well drilling report | ea. | 5000 | 1 | 5000
+Final HSE report | ea. | 2000 | 1 | 2000
+23 | Tubing Inspection Services | 0
+Tubing Inspection Services (Pin, Box,Drift, OD, Thickness …) | Joint | 0
+Cut Tubing Pin end | each | 0
+Threading pin on cut end | each | 0
+Coupling, 4-1/2" 18.9 PPF, L080, Premium Conn., PSL03 | each | 0
+Coupling, 3-1/2" 10.2 PPF, L080, Premium Conn., PSL03 | each | 0
+24 | W.H & XMT Inspection Services (Lumpsum package for each well) | Lumpsum | 5000 | 1 | 5000
+25 | D.H Completion Inspection Services (Lumpsum package for each well) | Lumpsum | 5000 | 1 | 5000
+9321968.934535593
+# AZNS F-20 Price Table Rev#07 — Sheet 6: Cost Breakdown-Material-F-20
+Table6: Cost breakdown for Material for EPDS LUMP SUM PRICE
+Item Description | UNIT | Unit Price (USD) | QTY | Total (USD)
+20.1 | Completion Equipment | 943125
+10K Completion Equipment, for Fahliyan | set | 943125 | 1 | 943125
+5K Completion Equipment, for Sarvak wells | set | 0
+7.5K Completion Equipment, for Gadvan wells | set | 0
+7.5K Completion Equipment, for Kazhdumi wells | set | 0
+20.2 | Wellhead & Xmas tree Equipment | 402520
+10K for Fahliyan wells | set | 0
+Section A | set | 39005 | 1 | 39005
+Section B | set | 40455 | 1 | 40455
+Section C | set | 91785 | 1 | 91785
+Section D | set | 231275 | 1 | 231275
+5K for Sarvak wells | set | 0
+5K for Water Disposal wells | set | 0
+10K for Gadvan wells | set | 0
+5K for Kazhdumi wells | set | 0
+20.3 | Tubular goods | 1313883.75
+Casing, 20", K-55, 94 PPF, BTC, R3, PSL3. | m | 0
+Casing,13-3/8", N-80, 68 PPF, R3, PSL3. | m | 0
+Casing, 9-5/8", 110S, 53.5 PPF, Special drift, Gas Tight Conn, seamless, R3, PSL3. | m | 283.5 | 4306.5 | 1220892.75
+Casing, 7", 110S, 32 ppf Premium Conn.,seamless, R3, PLS-3. | m | 169.5 | 438 | 74241
+Liner, 7", L80, 29 ppf, Gas Tight Conn.,Seamless, R3, PLS3 | m | 0
+Liner, 5", L80 type 1, 18 PPF, premium flush connection, seamless, R3, PSL3. | m | 0
+Liner, 4-1/2", L80 type 1, 13.5 PPF, BTC,seamless, R3, PSL3. | m | 0
+Perforated Liner, 4 1/2", L80, 13.5 PPF, BTC, Hole size 10mm, 100holes/m, R3,PSL1. | m | 0
+Tubing, 4 1/2", L80, 18.9 ppf, Premium Conn., Seamless, R2, PSL3. | m | 75 | 0
+Tubing, 3 1/2", L80, 10.2 ppf, Premium Conn., seamless, R2, PSL3. | m | 40.5 | 0
+Casing Pup Joint 13 3/8" Pup Joint, 68 ppf, N-80, BTC,seamless, 1.5m long, PSL3. | ea. | 1200 | 1 | 1200
+Casing Pup Joint 13 3/8" Pup Joint, 68 ppf, N-80,BTC seamless, 3m long, PSL3. | ea. | 2000 | 1 | 2000
+Casing Pup Joint, 9 5/8", 110SS, 53.5 PPF, Gas Tight Conn.,seamless, 1.5m long, PSL3. | ea. | 400 | 1 | 400
+Casing Pup Joint, 9 5/8", 110SS, 53.5 PPF,Gas Tight Conn.,seamless, 3m long, PSL3. | ea. | 600 | 1 | 600
+Liner Pup Joint, 7", 110S, 32 PPF, Gas Tight Conn, seamless, PSL3. | ea. | 250 | 2 | 500
+Liner Pup Joint, 7", L80, 29 ppf, Gas Tight Conn., Seamless, PLS3 | ea. | 0 | 0
+Liner Pup Joint, 5", L80 type 1, 18 PPF, premium flush connection, seamless, PSL3. | ea. | 0 | 0
+Liner Pup Joint, 4-1/2", L80 type 1, 13.5 PPF, BTC, seamless, PSL3. | ea. | 0 | 0
+Blanked liner, 4 1/2", L80, 13.5 PPF, BTC, R3, PSL1. (For Perforarted Liners) | ea. | 0 | 0
+Tubing pup joint, 4 1/2", L-80 type 1, 18.9 PPF, Gas Tight Conn, seamless, 1.5m, PSL3. | ea. | 350 | 4 | 1400
+Tubing pup joint, 3 1/2", L-80 type 1, 10.2 PPF, Gas Tight Conn, seamless, 1.5m long, PSL3. | ea. | 300 | 15 | 4500
+Tubing pup joint, 5 ", L80 9CR-1 MO, premium Connection 20 ppf, seamless, 3m, PSL3. | ea. | 0 | 0
+Tubing pup joint, 4 1/2", L-80,Gas Tight Connection 18.9 ppf, seamless,1.5 m long , PSL3 | ea. | 350 | 5 | 1750
+Tubing pup joint, 3 1/2", L-80,premium Connection 10.2 ppf,13CR-1 MO, seamless,3 m long , PSL3 | ea. | 300 | 15 | 4500
+Crossover,4-1/2" 18.9ppf Box ×3-1/2" 10.2 ppf Pin, Premium Conn. | ea. | 0
+Crossover,5-1/2" 20ppf Box ×4-1/2" 18.9 ppf Pin, Premium Conn. L-80, 9CR-1MO | ea. | 0
+Crossover, 4-1/2" 18.9 PPF Box × 3-1/2" 10.2 PPF Pin, Gas Tight Conn, L-80 type1 1.2m long, PSL3. | ea. | 380 | 5 | 1900
+20.4 | Casing Accessories | 330850
+Stab-in stinger w/Redress O-Ring for stinger | set | 5000 | 2 | 10000
+20", 94 (lb/ft), K-55, BTC, "Stab in" type duplex shoe | ea. | 6000 | 2 | 12000
+26" x 20", Bow Centralizers | ea. | 300 | 10 | 3000
+20" x 5", Bow Centralizers | ea. | 300 | 10 | 3000
+20" Stop Collar | ea. | 250 | 40 | 10000
+13 3/8" Float Shoe (PDC drillable), 68 ppf, N-80, BTC. | ea. | 7500 | 2 | 15000
+13 3/8" Float Collar (PDC drillable), 68 ppf, N-80, BTC. | ea. | 7500 | 2 | 15000
+13 3/8" Top & Bottom cementing plugs (non-rotating type) | Set. | 0
+17 1/2" x 13 3/8", Bow Centralizers | ea. | 250 | 80 | 20000
+20" x 13 3/8", Rigid Centralizers | ea. | 250 | 5 | 1250
+13 3/8" Stop Collar | ea. | 230 | 170 | 39100
+Float Shoe, 9 5/8", L80, 47#, premium connection, PDC drillable, PSL3. | ea. | 0 | 0
+Float Collar, 9 5/8", L80, 47#, premium connection, c/w non-rotating profile, PDC drillable, PSL3. | ea. | 0 | 0
+Float Shoe, 9 5/8", 110S, premium connection, 53.5 ppf, Special drift, PDC drillable, PSL3. | ea. | 7000 | 2 | 14000
+Float Collar, 9 5/8", 110S, premium connection, 53.5 ppf, Special drift, c/w non-rotating profile, PDC drillable, PSL3. | ea. | 7000 | 2 | 14000
+Centralizer, 9 5/8" x 12 1/4", Non-weld,Bow-spring type, c/w nails | ea. | 160 | 120 | 19200
+Centralizer, 7" x 8 1/2", Non-weld, Bow-spring type, c/w nails | ea. | 0
+Centralizer, 5 " x 8 1/2", Non-weld, Bow- spring type, c/w nails | ea. | 0
+Centralizer, 4 1/2" x 6-1/8", Non-weld, Bow-spring type, c/w nails | ea. | 0
+Centralizer, Rigid, 9 5/8" x 12 1/4" | ea. | 150 | 40 | 6000
+Centralizer, Rigid, 7" x 8 1/2" | ea. | 130 | 10 | 1300
+Centralizer, Rigid, 5" x 8 1/2" | ea. | 0
+Centralizer, Rotating type, 7" x 8 1/2" | ea. | 130 | 40 | 5200
+Centralizer, Rotating type, 5 1/2" x 8 1/2" | ea. | 0
+Centralizer, Rotating type, 4 1/2" x 6-1/8" | ea. | 0
+Centralizer, Rotating type, 5 " x 6 1/8" | ea. | 0
+Stop Collar, 9 5/8", c/w nails and pins | ea. | 120 | 350 | 42000
+Stop Collar, 7", c/w nails and pins | ea. | 120 | 100 | 12000
+Stop Collar, 5 1/2", c/w nails and pins | ea. | 0
+Stop Collar, 5", c/w nails and pins | ea. | 0
+Stop Collar, 4 1/2", c/w nails and pins | ea. | 0
+Cement Plug, Top, for 13 3/8" 68-72#casing, oil and PH resistance element, Non- rotating type | ea. | 9800 | 2 | 19600
+Cement Plug, Bottom, for 13 3/8" 68-72#casing, oil and PH resistance element, Non- rotating type | ea. | 9800 | 2 | 19600
+Cement Plug, Top, for 9 5/8" 47-53.5#casing, oil and PH resistance element, Non- rotating type | ea. | 4500 | 2 | 9000
+Cement Plug, Bottom, for 9 5/8" 47-53.5#casing, oil and PH resistance element, Non- rotating type | ea. | 4500 | 2 | 9000
+Cement Basket, 9 5/8" x 12 1/4" | ea. | 0
+Cement Basket, 7" x 8 1/2" | ea. | 0
+Thread Lock Compound, API modified, each box contains 12 kits, 1 lb/kit | ea. | 1000 | 10 | 10000
+Thread Seal Compound, 10 kg/pail | ea. | 1000 | 10 | 10000
+Stage collar, two-stage, mechanical, 9 5/8", 47#, L80, premium Conn. c/w Standard Plug | ea. | 0
+Stage collar, two-stage, mechanical, 9 5/8", 53.5 ppf, Special drift, 110SS, premium Conn. c/w Standard Plug Set | ea. | 0
+Drift Gauge, API, for 20" 94# casing | 1000 | 2 | 2000
+Drift Gauge, API, for 13-3/8" 68# casing | 1000 | 2 | 2000
+Drift Gauge, API, for 9-5/8" 53.5# casing | ea. | 1000 | 2 | 2000
+Drift Gauge, API, for 7" 32# casing | ea. | 1000 | 2 | 2000
+Drift Gauge, API, for 5 1/2" 23# casing | ea. | 0 | 0
+Drift Gauge, API, for 4-1/2" 13.5# casing | ea. | 0 | 0
+Drift Gauge, API, for 3-1/2" 10.2# tubing | ea. | 900 | 2 | 1800
+Drift Gauge, API, for 5-1/2" 20# tubing | ea. | 0 | 0
+Drift Gauge, API, for 5" 18# casing | ea. | 0 | 0
+Drift Gauge, API, for 4-1/2" 18.9# tubing | ea. | 900 | 2 | 1800
+Casing Scratcher 9 5/8" | ea. | 0 | 0
+Casing Scratcher 7" | ea. | 0 | 0
+20.5 | Whip stock | 0
+9-5/8" single Trip Whip stock | ea. | 0
+7" single Trip Whip stock | ea. | 0
+Service Charge | job | 0
+20.6 | Liner Hanger | 68200
+Rotating liner hanger, hydraulic set, tandem cone, with integral/split, weight set top packer, 7" 29-32# x 9 5/8" 47-53.5#, L80-110S, PREMIUM connection, 10 ft PBR,load capacity 2,000KN, packer seal capacity 5000 psi, Temperature 150 ºC | set | 0
+Rotating Liner Hanger Assembly, 7" 29-32# x 9 5/8" 47-53.5#, L80-110S, PREMIUM Conn, to be used in Sarvak, Kazhdumi & Gadvan vertical and directional wells/sections | 0
+Rotating Liner Hanger Assembly, 7" 29# x 9 5/8" 47-53.5#, L80, 9CR-1 MO, PREMIUM Conn, to be used in Water disposal well | 0
+Rotating Liner Hanger Assembly, 7" 29-32# x 9 5/8" 47-53.5#, 110S, PREMIUM Conn. to be used in Fahliyan vertical wells | set | 31200 | 1 | 31200
+Float shoe, reamer type, 7", 32#, 110S,PREMIUM connection, PDC drillable | ea. | 4500 | 2 | 9000
+Float collar, 7", 32#, 110S, PREMIUM connection, PDC drillable | ea. | 4500 | 2 | 9000
+Landing collar c/w setting ball, 7", 32#, 110S,PREMIUM connection, PDC drillable | ea. | 4500 | 2 | 9000
+Drill pipe dart, to suit to 5" 19.5# drill pipe | ea. | 2500 | 2 | 5000
+Liner wiper plug, to suit to 7", 32# casing | ea. | 2500 | 2 | 5000
+Rotating Liner Hanger Assembly, 5" 18# x 7" 29-32#, L80, PREMIUM Conn, to be used in, Kazhdumi & Gadvan vertical and directional wells/sections | set | 0
+Rotating Liner Hanger Assembly, 5" 18-23# x 9 5/8" 47-53.5#, 110S, PREMIUM Conn, for use with liner in Fahliyan wells (Block II& III) | set | 0
+Rotating Liner Hanger Assembly, 4 1/2" 13.5# x 7" 29-32#, L80, BTC connection, for use with perforated liner in Sarvak Horizontal wells | set | 0
+20.7 | Liner Top Packer Assembly | 17000
+Liner Top Packer Assembly, 7" 29-32#, L80, Premium connection, C/W Seal Nipple & Packer | ea | 12000 | 1 | 12000
+Liner Top Packer Assembly, 5" 18-20#, L80, Premium connection, C/W Seal Nipple & Packer | ea | 0
+Installation Charge | job | 5000 | 1 | 5000
+20.8 | Drilling Bit & mill | 510000
+26" Rock Bit | each | 48000 | 2 | 96000
+17-1/2" Rock Bit | each | 45000 | 2 | 90000
+17-1/2" PDC Bit | each | 60000 | 2 | 120000
+12-1/4" Rock Bit | each | 13000 | 2 | 26000
+12-1/4" PDC Bit | each | 40000 | 3 | 120000
+8-1/2" Rock Bit | each | 9500 | 2 | 19000
+8-1/2" PDC Bit | each | 26000 | 1 | 26000
+5-7/8" Rock Bit | each | 6500 | 1 | 6500
+6-1/8" PDC Bit | each | 0
+6" Mill | each | 6500 | 1 | 6500
+4-1/8" Mill | each | 0 | 0
+3-3/4" Mill | each | 0
+K-Mill for cut 20m of 7" liner | each | 0
+20.9 | Bridge Plug | 0
+Bridge Plug, to set inside 9-5/8" casing 47-53.5 ppf,Body material: Cast Iron, Packing Element, VITON | ea. | 0
+Millable, Sleeve Valve Cement Retainer, for 7", 29-32 PPF casing, 7.5 K Differational Pressure.Packing Element: NITRILE, Body Material: 13Cr. | ea. | 0
+Bridge Plug, to set inside 5" liner 15-18 ppf, Body material: Cast Iron, Packing Element, VITON | ea. | 0
+Installation Services | ea. | 0
+عدد نهایی کالای مربوط به چاه در جدول کلی چاه f-20 و در مجموع برآورد لحاظ گردیده است. | 3585578.75
+# AZNS F-20 Price Table Rev#07 — Sheets 7-22 (Rig Move, Catering, Rig-less services)
+# Sheet 7: Rig Move
+Table 8: Rig move
+No. | Description | Lump Sum Rate per Move, (USD) | Quantity (ea.) | Sub-total (USD)
+1 | Rig move between well pads | 247000 | 1 | 247000
+2 | Rig move between Cellar-to-Cellar within the same pad | 0 | 0 | 0
+
+# Sheet 8: Catering & Accommodation
+Table 9: Catering and accommodation
+No | Item | Amount (USD) | Unit
+1 | Full board catering and accommodation | 30 | Person/day
+2 | Breakfast | 10 | Person/day
+3 | Lunch | 15 | Person/day
+4 | Dinner | 15 | Person/day
+5 | Night Meals | 10 | Person/day
+6 | Accommodation | 15 | Person/day
+
+# Sheet 9: Cost breakdown R-less Stim-F-20
+Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICE for Well F-20
+No. | Item | Total Cost (USD)
+1 | Mobilization, Demobilization | 34138
+2 | Materials and Consumables | 125955
+3 | Acidizing and N2 services | 117529
+4 | Coiled Tubing Services | 44900
+5 | Oil Transportation Services | 60000
+6 | Well Testing and Production Services | 83282.84
+7 | Wireline Production Logging Services | 75370
+8 | Slickline Services | 19732.3
+9 | Memory Gauge Service | 2927
+10 | Bottomhole PVT Sampling | 39100
+11 | Personnel Rates | 49512
+12 | Design, Interpretation, Reporting | 13000
+13 | Accommodation | 50000
+Total Contract Value | 715446.14
+
+# Sheet 10: Mob.& Demob for Stim.-F-20
+Table 11- Mobilization and Demobilization for Well F-20
+No. | Equipment | Unit | Quantity | Mob/Demob Price (USD/Trip) | Total Price (USD)
+1 | Liquid Pumping Unit, and Personnel | 1 set | 1 | 3038 | 3038
+2 | Fracturing Unit and Personnel | 1set | 0 | 7000 | 0
+3 | Storage/Mixing Tank (water,acid, diesel) 500BBL Minimum | 1x500 BBL tank | 1 | 300 | 300
+4 | Batch mixer | 1 set | 1 | 2500 | 2500
+5 | Blender | 1 set | 1 | 2500 | 2500
+6 | Liquid N2 Pump Unit and Personnel | 1set | 1 | 2500 | 2500
+7 | Liquid Nitrogen Storage Tank | 1set | 1 | 1000 | 1000
+8 | Coiled Tubing Unit and Personnel | 1set | 1 | 8100 | 8100
+9 | Test Choke Manifold | 1set | 1 | 1500 | 1500
+10 | 3-Phase Test Separator | 1set | 1 | 2000 | 2000
+11 | Gauge Tank | 1set | 1 | 1000 | 1000
+12 | Surge Tank | 1set | 1 | 1000 | 1000
+13 | Burner System and Accessories | 1set | 1 | 2000 | 2000
+14 | Slickline Unit and Personnel | 1set | 1 | 1500 | 1500
+15 | Wireline Unit and Personnel | 1set | 1 | 2500 | 2500
+16 | Downhole PVT Sampling Tools and Personnel | 1set | 1 | 1700 | 1700
+17 | Memory Gauge | 1set | 1 | 1000 | 1000
+Total | 34138
+
+# Sheet 11: Material & Consumable-F-20
+Table 12- Materials and Consumables for Well F-20
+Item | Material Description | Unit | Estimated Volume | Unit Price (USD/Unit) | Total Price (USD)
+1 | HCL (≥28%) | Gal | 1000 | 2 | 2000
+2 | Corrosion Inhibitor | Gal | 50 | 57 | 2850
+3 | Corrosion Inhibitor Aid | Gal | 70 | 30 | 2100
+4 | De-Emulsifier | Gal | 40 | 22.5 | 900
+5 | Gelling Agent | Gal | 0 | 52.5 | 0
+6 | Iron Control Agent | Gal | 40 | 73.5 | 2940
+7 | Cross Linker | Gal | 0 | 45 | 0
+8 | Buffering Agent | Gal | 0 | 42 | 0
+9 | Anti-Sludge agent | Gal | 50 | 25.5 | 1275
+10 | H2S Scavenger | Gal | 45 | 27 | 1215
+11 | Suspending Agent | Gal | 0 | 22.5 | 0
+12 | Acetic Acid (98%) | Gal | 0 | 10 | 0
+13 | Surfactant | Gal | 45 | 15 | 675
+14 | Foaming Agent | Gal | 0 | 30 | 0
+15 | Clay Stabilizer | Gal | 0 | 22.5 | 0
+16 | Mutual Solvent | Gal | 100 | 30 | 3000
+17 | Self Diverting Viscoelastic Surfactant (SDVES) | Gal | 0 | 92 | 0
+18 | Xylene | Gal | 2000 | 9 | 18000
+19 | Friction Reducer | Gal | 0 | 18 | 0
+20 | Retarding Agent | Gal | 0 | 25.5 | 0
+21 | Liquid Nitrogen (N2) | Gal | 7000 | 4 | 28000
+22 | Defoaming Agent | Gal | 0 | 33 | 0
+23 | Iron Stabilizer | Gal | 40 | 30 | 1200
+24 | Gel Breaker | Gal | 0 | 39 | 0
+25 | Benzoic Acid | lb | 0 | 7.5 | 0
+26 | Oil Soluble Resin | lb | 0 | 31.5 | 0
+27 | Ammonium Chloride | lb | 0 | 4.5 | 0
+28 | Ammonium Bifluoride | lb | 0 | 6 | 0
+29 | Caustic Soda | lb | 0 | 3 | 0
+30 | Water | BBL | 400 | 4.5 | 1800
+31 | Diesel | BBL | 300 | 200 | 60000
+Total | 125955
+
+# Sheet 12: Acidizing & N2 service-F-20
+Table 13- Acidizing and N2 Services for Well F-20
+Item | Equipment | Unit | Standby Days | Operating Days | Standby Rate (USD/Day) | Operating Rate (USD/Day) | Total Price (USD) | Remark
+1 | Fracturing Unit | 1 EA | 0 | 0 | 10000 | 10000 | 0
+2 | Twin Pump Truck | 1 EA | 5 | 12 | 2000 | 2000 | 34000
+3 | Hoses & Manifold | 1 EA | 5 | 12 | 64.8 | 72 | 1188 | 3" piping for matrix acidizing
+4 | Batch Mixer | 1 EA | 5 | 12 | 2000 | 2000 | 34000
+5 | Blender | 1 EA | 5 | 12 | 500 | 500 | 8500
+6 | Data Acquisition System | 1 EA | 5 | 12 | 64.8 | 72 | 1188
+7 | Acid and Chemical Pump | 1 EA | 5 | 12 | 32.4 | 36 | 594
+8 | Booster Pump | 1 EA | 5 | 12 | 32.4 | 36 | 594
+9 | Acid Testing Lab | 1 EA | 5 | 5 | 243 | 270 | 2565
+10 | Acid Storage Tanks | 1 EA | 5 | 12 | 350 | 350 | 5950 | 500 BBL
+11 | Acid Mixing Tanks | 1 EA | 5 | 12 | 350 | 350 | 5950 | 500 BBL
+12 | Water/Diesel Tanks | 1 EA | 5 | 12 | 350 | 350 | 5950 | 500 BBL
+13 | Crane with Driver | 1 EA | 5 | 5 | 135 | 135 | 1350
+14 | Liquid Nitrogen Unit | 1 EA | 5 | 2 | 1500 | 1200 | 9900
+15 | Liquid Nitrogen Tank | 1 EA | 5 | 2 | 400 | 400 | 2800
+16 | Corrosive Fluid | BBL | 200 | 3 | 600 | Such as Acid,Xylene, etc.
+17 | Non-corrosive Fluid | BBL | 400 | 6 | 2400 | Such as water, diesel,condensate
+Total Operation and Standby Charges for Acidizing and Nitrogen Services (USD) | 117529
+
+# Sheet 13: Coil Tubing Service-F-20
+Table 14-Coiled Tubing Services for Well F-20
+Item | Equipment | Unit | Standby Days | Operating Days | Standby Rate (USD/Day) | Operating Rate (USD/Day) | Total Price (USD) | Remark
+1 | Coiled Tubing Unit (1 1/2") | 1 EA | 3 | 5 | 4800 | 4800 | 38400
+2 | Coiled Tubing Unit (1 3/4" or 2") | 1 EA | 5000 | 5000 | 0
+3 | E-Line Coiled tubing Unit | 1 EA | 5000 | 5000 | 0
+4 | 30 Tonnes Crane with driver | 1 EA | 8 | 8 | 600 | 600 | 4800
+5 | Mechanical cleanout | Days | 0
+6 | Fishing | Days | 0
+7 | Cementing | Days | 0
+8 | Corrosive Fluid | BBL | 150 | 3 | 450 | Such as Acid,Xylene, etc.
+9 | Non-Corrosive Fluid | BBL | 250 | 5 | 1250 | Such as water, diesel,condensate
+Total Operation and Standby Charges for Coiled Tubing Services(USD) | 44900
+
+# Sheet 14: Oil Transportation Service-F-20
+Table 15- Oil Transportation Services for Well F-20
+No. | Equipment | Unit | Quantity | Operation Charge (USD/Unit) | Total Price (USD) | Remark
+1 | Oil Storage | BBL | 6000 | 3 | 18000
+2 | Oil Pumping | BBL | 6000 | 1.5 | 9000
+3 | Oil Transportation by 200BBL Mobile Tank | Load up to 50km | 30 | 400 | 12000 | 200 BBL Loads
+3 | Oil Transportation by 200BBL Mobile Tank | Load (50< and <150 km) | 30 | 500 | 15000 | 200 BBL Loads
+4 | Standby Oil Transportation Service and Equipment | Days | 4 | 1500 | 6000
+Total Operation and Standby Charges for Oil Transfer Services(USD) | 60000
+
+# Sheet 15: Well testing and production-127
+Table 16- Well Testing and Production Services for Well F-20
+Item | Equipment | Unit | Standby Days | Operating Days | Standby Rate (USD/Day) | Operating Rate (USD/Day) | Total Price (USD)
+1 | Test Choke Manifold | 1 set | 4 | 9 | 1000 | 1000 | 13000
+2 | Upstream Data Header | 1 EA | 4 | 9 | 38.88 | 48.6 | 592.9200000000001
+3 | Downstream Data Header | 1 EA | 4 | 9 | 38.88 | 48.6 | 592.9200000000001
+4 | Surface Safety Valve and ESD system | 1 set | 4 | 9 | 86 | 108 | 1316
+5 | 3-Phase Separator | 1 set | 4 | 9 | 1000 | 1200 | 14800
+6 | 100 BBL Gauge Tank | 1 set | 4 | 9 | 74 | 91 | 1115
+7 | 100 BBL surge Tank | 1 set | 4 | 9 | 203 | 253 | 3089
+8 | Oil Manifold | 1 set | 4 | 9 | 64 | 81 | 985
+9 | Gas Manifold | 1 set | 4 | 9 | 64 | 81 | 985
+10 | Flare Line X/O | 1 EA | 4 | 9 | 18 | 23 | 279
+11 | direct Heater | 1 set | 4 | 9 | 46 | 58 | 706
+12 | Transfer Pump | 1 set | 4 | 9 | 87 | 108 | 1320
+13 | Chemical Injection Pumps | 1 set | 4 | 9 | 36 | 46 | 558
+14 | Air Compressor for Burner | 1 set | 4 | 9 | 36 | 46 | 558
+15 | Burner System (Max 10000 BPD) | 1 set | 4 | 9 | 1000 | 1000 | 13000
+16 | Burner Water Supply Pump | 1 set | 4 | 9 | 200 | 200 | 2600
+17 | Pipes/Hoses for Burner | 1 set | 4 | 9 | 216 | 270 | 3294
+18 | 3" Fig 1502 piping | 1 Lot | 4 | 9 | 108 | 135 | 1647
+19 | 3" Fig 602 piping | 1 Lot | 4 | 9 | 108 | 135 | 1647
+20 | X-mas tree X/O | 1 pack | 4 | 9 | 26 | 27 | 347
+21 | FIG 1502 (3" x 2") X/O | 1 EA | 4 | 9 | 9 | 12 | 144
+22 | Testing Lab | 1 EA | 4 | 9 | 108 | 135 | 1647
+23 | Data Acquisition and processing | 1 set | 4 | 9 | 130 | 162 | 1978
+24 | Gas Sampler Bottle | 1 EA | per sample | 0 | 38 | 45 | 0
+25 | Oil Sampler Bottle | 1 EA | per sample | 0 | 42 | 50 | 0
+26 | Flare Line (up to 1000m) | 1 set | 18 | 24 | 216 | 270 | 10368
+27 | Flare line installation and Nipple Down | 1 well pad | pad | 6 | 120 | 144 | 864
+28 | Generator | 1 set | 45 | 45 | 130 | 130 | 5850
+Total Operation and Standby Charges for Production Well Testing Services(USD) | 83282.84
+
+# Sheet 16: Wireline prod. logging-F-20
+Table 17- Wireline Production Logging Services for Well F-20
+Item | Equipment | Unit | Standby Days | Standby Rate (USD/Day) | Operating Days | Operating Rate (USD/Day) | Total Price(USD)
+1 | Wireline Unit | 1 set | 2 | 3000 | 4 | 3500 | 20000
+2 | Crane With Driver | 1 set | 2 | 600 | 4 | 700 | 4000
+3 | Cased Hole GR | 1 set | 1 | 542.5 | 4200 | 1 | 50 | 3.1 | 4897.5
+4 | CCL | 1 set | 1 | 465 | 4200 | 1 | 50 | 1 | 4715
+5 | Full stack PLT | 1 set | 1 | 852.5 | 4200 | 1 | 50 | 18.6 | 5982.5
+6 | Flow Scan Image (FSI) | 1 set | 1 | 850 | 4200 | 1 | 50 | 8 | 5450
+7 | Reservoir Saturation Tools | 1 set | 1 | 550 | 4200 | 1 | 50 | 8 | 5150
+8 | Horizontal Flow Tool (MAPS) | 1 set | 1 | 350 | 4200 | 1 | 50 | 10 | 5050
+9 | Flagship Tool String | 1 set | 1 | 250 | 4200 | 1 | 50 | 5 | 4700
+10 | Spectral Noise Log(SN) | 1 set | 1 | 500 | 4200 | 1 | 50 | 8.5 | 5125
+11 | HPHT Log | 1 set | 1 | 300 | 4200 | 1 | 50 | 18.5 | 5425
+12 | Multifinger Caliper (MFC) | 1 set | 1 | 250 | 4200 | 1 | 50 | 8.5 | 4875
+Total Operation and Standby Charges for Wireline Production Logging Services (USD) | 75370
+
+# Sheet 17: Slick line-F-20
+Table 18- Slickline Services for Well F-20
+Item | Equipment | Unit | Standby Days | Operating Days | Standby Rate (USD/Day) | Operating Rate (USD/Day) | Total Price (USD)
+1 | Slickline Unit | 1 Set | 3 | 8 | 500 | 500 | 5500
+2 | X-mas Tree X/O | 1 EA | 3 | 8 | 17 | 32 | 307
+3 | Slickline Depth Charge | meter | 100 | 3 | 3 | 0
+4 | Dual BOP and Pressure Control Equipment | 1 EA | 3 | 8 | 150 | 200 | 2050
+5 | 8 ft Upper Lubricator | 1 Set | 3 | 8 | 54 | 63 | 666
+6 | 8 ft Lower Lubricator | 1 EA | 3 | 8 | 54 | 63 | 666
+7 | Stuff Box | 1 EA | 3 | 8 | 54 | 63 | 666
+8 | Test Kits | 1 Set | 3 | 8 | 27 | 32 | 337
+9 | 1 1/2" String Components BOX | 1 Set | 3 | 8 | 80 | 95 | 1000
+10 | 1 7/8" String Components Box | 1 Set | 3 | 8 | 107.1 | 126 | 1329.3
+11 | Conventional Tool Box | 1 set | 3 | 8 | 54 | 63 | 666
+12 | fishing Tool Box | 1 Set | 3 | 8 | 95 | 95 | 1045
+13 | Crane With Driver | 1 Set | 3 | 8 | 500 | 500 | 5500
+Total Operation and Standby Rates for Slickline Services (USD) | 19732.3
+
+# Sheet 18: Memory gauge-F-20
+Table 19- Memory Gauge Services for Well F-20
+Item | Description | Unit | Standby Days | Operating Days | Standby Rate (USD/Day) | Operating Rate(USD/Day) | Total Price (USD)
+1 | Memory Gauge | 1 EA | 1 | 3 | 600 | 600 | 2400
+2 | Computer System for Memory Gauge | 1 EA | 1 | 3 | 122 | 135 | 527
+Total Operation and Standby Rates for Memory Gauges (USD) | 2927
+
+# Sheet 19: Bottom Hole PVT Samp.-F-20
+Table 20- Bottom hole PVT Sampling for Well F-20
+Item | Description | Unit | Standby Days | Operating Days | Standby Rate (USD/Day) | Operating Rate (USD/Day) | Total Price (USD)
+1 | Bottomhole PVT Sampler (PDS) | 1 EA | 1 | 3 | 4200 | 5000 | 19200
+2 | Single Phase Bottomhole Sampler (SRS,OPS, PCS) | 1 EA | 1 | 3 | 2000 | 2000 | 8000
+3 | Site Sampler Transfer Unit for PDS | 1 EA | 1 | 3 | 850 | 1700 | 5950
+4 | Site Sampler Transfer unit for SRS, OPS, PCS | 1 EA | 1 | 3 | 850 | 1700 | 5950
+Total Operation and Standby Rates for Bottomhole PVT Sampling (USD) | 39100
+
+# Sheet 20: Personnel rate-F-20
+Table 21- Personnel Rates for Well F-20
+Item | Position | Qty. | Standby Days | Operating Days | Standby Rate (USD/Day) | Operating Rate (USD/Day) | Total Price(USD)
+1 | Well Completion Testing and Acidizing Supervisor | 1 | 5 | 7 | 200 | 200 | 2400
+2 | Liquid Pumping/Fracturing Unit Operator | 1 | 5 | 7 | 250 | 250 | 3000
+3 | Liquid Pumping/Fracturing Unit Assistant | 1 | 5 | 7 | 150 | 150 | 1800
+4 | Liquid Pumping/Fracturing Unit Helper | 2 | 5 | 7 | 100 | 100 | 2400
+5 | Stimulation Service Engineer | 1 | 5 | 7 | 180 | 180 | 2160
+6 | Stimulation Service Assistant | 1 | 5 | 7 | 100 | 100 | 1200
+7 | Stimulation Service Helper | 2 | 5 | 7 | 48 | 48 | 1152
+8 | Coiled Tubing Unit Engineer | 1 | 5 | 7 | 238 | 238 | 2856
+9 | Coiled Tubing Unit Operator | 2 | 5 | 7 | 196 | 196 | 4704
+10 | Coiled Tubing Unit Helper | 2 | 5 | 7 | 100 | 100 | 2400
+11 | Liquid Nitrogen Unit Pump Operator | 2 | 5 | 7 | 149 | 149 | 3576
+12 | Liquid Nitrogen Unit Helper | 1 | 5 | 7 | 124 | 124 | 1488
+13 | Production Well Testing Test Specialist | 1 | 5 | 7 | 250 | 250 | 3000
+14 | Production Well Testing Test Engineer | 1 | 5 | 7 | 200 | 200 | 2400
+15 | Production Well Testing Test Operator | 2 | 5 | 7 | 124 | 124 | 2976
+16 | Production Well Testing Test Assistant | 2 | 5 | 7 | 100 | 100 | 2400
+17 | Slickline Services SL specialist | 1 | 2 | 5 | 178 | 178 | 1246
+18 | Slickline Services SL Operator | 1 | 2 | 5 | 119 | 119 | 833
+19 | Slickline Services SL Assistant | 2 | 2 | 5 | 74 | 74 | 1036
+20 | Wireline Services WL Engineer | 1 | 2 | 5 | 237 | 237 | 1659
+21 | Wireline Services WL operator | 1 | 2 | 5 | 142 | 142 | 994
+22 | Wireline Services WL Assistant | 2 | 2 | 5 | 142 | 142 | 1988
+23 | Wireline Services Logging Tool Specialist | 1 | 2 | 5 | 142 | 142 | 994
+24 | Memory Gauge Gauge Specialist | 1 | 1 | 1 | 125 | 125 | 250
+25 | Bottomhole Sampling Sampling Specialist | 1 | 1 | 1 | 300 | 300 | 600
+Total Personnel Charge for Acidizing, Testing and Related Services (USD) | 49512
+
+# Sheet 21: Design,Interp.,Reporting-F-20
+Table 22- Design, Interpretation and Reporting for Well AZN-F-20
+Item | Description | Unit | Quantity | Price (USD/Job) | Total Price (USD)
+1 | Full Well testing & Stimulation Design and Program | Job | 1 | 2500 | 2500
+2 | End of job Report | Job | 1 | 1500 | 1500
+3 | Full Well testing interpretation and report | Job | 1 | 2000 | 2000
+4 | Acid Labaratory Experiments | Test of Acidizing Fluid | 1 | 2000 | 2000
+4 | Acid Labaratory Experiments | Acid Core Flow Test | 1 | 5000 | 5000
+Total Interpretation, Design and Report Service Charge (USD) | 13000
+
+# Sheet 22: Full package Accomm-F-20
+Table 23-Accommodation for well F-20
+Item | Description | Unit | Quantity | Price (USD/Day) | Total Price
+1 | Full package Accommodation | Day | 10 | 5000 | 50000
+Total Full Package Accommodation Charge (USD) | 50000

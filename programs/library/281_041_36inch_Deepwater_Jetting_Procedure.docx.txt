@@ -1,0 +1,80 @@
+
+
+## 36” Casing Interval (ML TO 3,039’ RKB, 240’ BML)
+
+### Introduction
+The MC ? #1 well design calls for jetting the 36” structural pipe to 240’ BML.  Offset wells jetted this string anywhere from 240’ to 250’ BML.  Following proper jetting procedures will be necessary to ensure that the 28” and 22” casing strings will be properly supported.  It is imperative that the structural pipe has no more than 7’ - 9’ of stickup.  All bending calculations on the 18-3/4” wellhead housing are based on 12’ of stick up.
+
+### Objectives
+Achieve Health, Safety and Environmental (HSE) goals of: Zero Loss Time Accidents (LTA), Zero Environmental Incidents and Zero Incidents of Non-Compliance (INC) with governmental regulations.
+HSE goals are measured by: number of LTA’s, number of days away from work, spills, INCs.
+HSE goals are tracked by using a scorecard system, which identifies performance based on goals versus actual results.
+Achieve better than the target drilling time established for the well.
+Jet 36” conductor to 240’ or greater BML with a minimum of 7’ and maximum of 9’ stick up above mudline.
+No washout around 36” conductor.
+Installation of 36” with < 1.0 degree of inclination.
+
+### Risks
+
+### General 36” Conductor Operations Procedure
+Attempt to perform as many of the following steps out of the critical path while mobilizing the rig and setting the location grid.
+Conduct and hold a pre-tour review on casing running operations.  Refer to Dril-Quip Service Manuals for detailed operational procedures.
+All tubular specifications are found in the Casing Data Sheet section of the well plan.
+Space out BHA to place bit cones as close to end of shoe joint as possible (recommend to place 4” inside of shoe joint).  The 36” wellhead housing should be planned to allow for a 7’- 9’ of stick-up above the mud line.  Consider length of the structural casing when selecting the jetting assembly components.  Adjust casing shoe length incorporating the jetting length to allow space-out of casing.  Install split rotary bushing adapters in the rotary prior to running 36” casing, as they may assist in maintaining centralization of the 36” casing during make-up.
+Note: Starting at the shoe, paint white ROV reference stripes at the pipe yard at 5’ intervals along the length of the 36” casing joints. Paint numbers above the stripes to indicate the length from shoe.  Also, paint white stripes 6” and 12” inside the bottom of the 36” jet shoe.  This will be used to reference the bit position by the ROV.
+Note:  Physically strap the distance between the housing and the shoulder where the 28” hanger lands – This is a critical measurement.  Paint a stripe on the landing string as a reference point to indicate when the 28” hanger is 5’ above the land out point.  This can be referenced with the ROV later.
+Rig up to run 36” structural casing (see Drawing #: DWG-001).  Joints are pre-equipped with weld-on pad eyes (box end). Visually inspect pad eyes. Torque eyes (pin ends) have been preinstalled by Dril-Quip to eliminate the need for bull tongs.  Torque joints to Dril-Quip recommended 36,000 ft-lbs for the 36” connectors. Make-up and back-up bull tongs may be required as backup. Make-up same by locking the rotary and pulling required make-up torque with tong make-up line.  The 36” cross-over joint below the wellhead-housing joint will include a profile (ID of 30.24”) for landing 28” conductor casing.
+Note: The maximum current to run casing is 2 knots.
+Running order is as follows:
+Note: Be sure to document depth of 28” supplemental adapter landing shoulder (30.24” ID) relative measurements for subsequent 28” conductor casing landing and report on the daily drilling report.
+Casing connections should be cleaned and lubricated with API-5 grease, heavyweight oil, or equivalent.
+Install split c-plate or deep swallow support plate in rotary.  Land 36” WHH with 36” running tool installed in rotary.  Back-out RT and stand back.
+Note: Prefer to utilize deep swallow support plate if available.
+Install false bowl and slips on 36” WHH.  RU and run the jetting assembly inside the structural casing.  The jetting assembly should be spaced out to place the 30” drill bit jets 4” inside the 36” shoe bevel.  See BHA section (Section 7) for description of the jetting assembly.
+Note: Record the weight of the jetting assembly.  Paint 30” bit white to improve visibility.
+MU Dril-Quip Cam-Actuated Drill Ahead (CADA) tool and install into 36” WHH per DQ procedures. PU and record combined weight of 36” casing string and jetting assembly.  Remove support plate.  Lower the 36” housing through the rotary table.    Refer to Dril-Quip Service Manuals for detailed operational procedures.
+Paint a vertical white reference stripe on the drill pipe tool joint above the CADA tool and subsequent tool joint.
+Ensure that the slope indicator (bullseye) are maintaining near vertical orientation.  Install penetration indicator rods on wellhead assembly.
+Jump the ROV and ensure that the 30” drill bit is properly positioned in relation to the 36” casing shoe.
+PU the 36” LP Wellhead Housing with running string. Run the 36” casing on 6-5/8” 40.9 ppf S-135 drill pipe to mudline.  Use the ROV to observe deployment operations.
+Before tagging the sea floor record the weight of the casing, jetting assembly, and running string. Circulate to verify that the string is not plugged and check slope indicator to confirm bullseye reading.  Estimated ML depth is 2,793’ TVD-RKB, (2,714’ WD, + 79’ RKB to MSL).
+Mark the drill pipe to assist in verifying that surface ROP corresponds to mud line penetration during jetting operations.  Verify surface location positioning with surveyors per Maxus (US) Exploration Company location plat requirements.
+Spud with pumps idling and allow casing to freefall until resistance is encountered. Pump slowly (from pump idle) to avoid hole washout until more competent formations are encountered as indicated by weight required to advance casing.  Use ROV to watch for washout around the outside of the structural casing.
+Plot slack-off weight vs. penetration on the plot of estimated resistance vs. penetration.  Reciprocation may/will be required once the maximum pump pressure and WOB (See chart # CHT-002) is reached. Every effort should be made to minimize reciprocation.  Decision as to where to begin reciprocation should be based on actual conditions at rig site.  Every effort should be made to minimize reciprocation to 10’.
+The ROV should observe the bumper sub stroke to ensure the maximum WOB is not exceeded.
+Observe slope indicator to ensure the 36” conductor inclination is below 1.0° of level.  If the inclination is above 1.0 deg, consider pulling the 36” casing and re-jet to attempt to reduce inclination. Attempt to re-jet 50’ from the location before going to alternate location.  Confirm suitability of alternate location per Maxus (US) Exploration Company’s requirements and bottom survey.
+Once the 36” casing is in position, shut down the pumps.  Depending on how well the jetting operation followed the predicted plot, wait 1 to 4 hours for the soil to heal without circulating.  Monitor the soils around the 36” casing for indications of settling or other seafloor deformation indicators.
+Release the 36” CADA tool by picking up 10,000 lb. over the weight of the running string and jetting assembly.  Rotate the drill string six plus (6 1/4) turns to the right.  This unlocks the CADA tool from the wellhead housing.  The CADA tool will remain latched to the wellhead housing by the ten (10) shear pins. (Shear pin rating 10 x 7,500 lbs)
+Set 3,000 lbs of the running string and jetting assembly weight down.  Apply right hand torque to the landing string.  At approximately 13,000 ft-lbs, the shear pins on the center stem of the CADA tool will shear.  Rotate an additional 1/4 turn to the right.  The running string and jetting assembly are now free to move down.
+Note: DIMS interval changes at this point.  Include the following information on the Daily Drilling Report and IADC Report.
+Actual water depth and RKB-ML depth
+Date and time on location
+Date and time of spud
+Depth from ML to top of the WH housing
+Actual final spud coordinates: x, y, and latitude/longitude coordinates.
+Bulls eye inclination with pipe hanging free in water column
+Bulls eye inclination at depth where reciprocation is started
+Bulls eye inclination and final jetted depth
+Position of bit relative to 36” casing shoe
+Reference tidal measurement
+
+### Weight on Bit vs. Depth of Penetration
+
+### 36” Section Materials Load Out:
+
+[جدول 1]
+Risk / Hazard | Mitigation of Risk / Hazard
+Big Bore II System | Close tolerances with this system make critical the 36” wellhead is as close to vertical as possible to minimize the tortuosity of the subsequent path of the 17-7/8” casing.  A 1.0-degree limit has been set.
+36” Structural Casing | Rig crews should verify ratings of all lifting equipment
+Jetting to Correct Depth | Install two bottom indicator rods to confirm final wellhead elevation
+
+[جدول 2]
+Run Order | Item | Size | wall | ppf | Grade | Dril-Quip Connection
+Jt #1 41’ | Drive Shoe | 36” | 1.00” | 374 | X-56 | D-60MT Bevel x Box
+Jt #2 41’ | Intermediate | 36” | 1.50” | 553 | X-56 | D-90MT Pin x Box
+Jt #3 41’ | Intermediate | 36” | 1.50” | 553 | X-56 | D-90MT Pin x Box
+Jt #4 41’ | Intermediate | 36” | 1.50” | 553 | X-56 | D-90MT Pin x Box
+Jt #5 45’ | Jt w/ 28” hanger adapter | 36” | 2.0” | 726 | X-60 (73 ksi) | HC100D MT Box x D-90MT Pin
+Jt #6 45’ | 36” Housing Jt | 36” | 2.0” | 726 | X-60 (73ksi) | HC100D MT Pin
+
+

@@ -1,0 +1,6002 @@
+# SOURCE: well controll procedure tests.pdf
+
+📄 فایل 151 از 214  |  well controll procedure tests.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+   WELL CONTROL THEORY QUESTIONS
+
+           CONTENTS PAGE
+
+Section 1                              Causes of Kicks
+
+Section 2                            Warning Signs and Indicators
+
+Section 3                              Shut in Procedures
+
+Section 4                              Data to Collect
+
+Section 5                                  Fractures and MAASP
+
+Section 6                                    Kill Methods
+
+Section 7                                    Kill Problems and Bad practices
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+1.  What is the PRIMARY means of preventing kicks?
+
+         Closing in the well with the BOPs.
+
+         Monitoring pit levels and flow rate to recognise a kick.
+
+        Taking regular slow circulating rate pressures.
+
+        The use of mud hydrostatic to balance fluid pressure in the formation.
+
+2.  What is the PRIMARY means used to prevent formation fluid entering the well bore?
+
+        The BOP stack.
+
+        The Annular Preventer.
+
+         Hydrostatic pressure of the mud.
+
+         Monitoring trips.
+
+3.  What is the correct definition of ‘Primary Well Control’ during normal drilling
+
+    operations?
+
+         Preventing the flow of formation fluid into the well bore by using BOP equipment
+
+        when the hydrostatic pressure in the well bore does not balance or exceed the
+
+         formation pressure.
+
+         Preventing the flow of formation fluid into the well bore by keeping the dynamic
+
+          pressure loss in the annulus equal to or greater than formation pressure.
+
+         Preventing a kick by maintaining drilling mud hydrostatic pressure equal to or
+
+          greater than formation pressure.
+
+         Preventing the flow of formation fluid into the well bore by maintaining the sum of
+
+           drilling mud hydrostatic pressure and dynamic pressure loss in the annulus equal to
+
+          or greater than formation pressure.
+
+4. A well 9,850 feet (TVD) is filled with 9.2 ppg brine.
+
+   The plan is to run in the hole to 6,200 feet TVD (6,600 feet measured depth) and displace
+
+    with drill water (8.4 ppg).
+
+   What will the hydrostatic pressure be at 9,850 feet when the drill water has been
+
+    circulated back to the surface?
+
+         4,815 psi
+
+         4,303 psi.
+
+         4,454 psi.
+
+         5,164 psi.
+
+                                                  1 - 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+5.  In a well with gas cut mud, when is the reduction in bottom hole pressure greatest?
+
+       When the gas is at the casing shoe.
+
+       When the gas is at bottom.
+
+       When the gas reaches the surface.
+
+6.  Gas cut mud may reduce the bottom hole pressure enough to cause a well kick; when is
+
+   bottom hole pressure reduced most?
+
+       When the gas is at the bottom.
+
+       When the gas is near the surface.
+
+       When the gas is halfway up the well bore.
+
+                                                  1 - 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+7. A well is shut in on a 30 bbl kick, with the bit on bottom.
+
+   Hole size                                  8-1/2 inch
+
+   Hole depth                              10,000 feet
+
+    Drill pipe                            5 inch, 19.5 lbs/ft
+
+    Drill collars                               6-1/2 inch x 3 inch, length = 360 feet
+
+   Open hole/drill collar capacity             0.0291 bbls/ft
+
+   Open hole/drill pipe capacity              0.0447 bbls/ft
+
+     Calculate the length of the influx assuming.
+
+                          feet
+
+8.  Calculate the reduction in bottom hole pressure when circulating gas cut mud in the
+
+    following well:
+
+    Vertical depth                      = 7,000 feet
+
+    Surface to 800 feet                  mud weight = 11.2 ppg
+
+   800 – 2,100 feet                   mud weight = 11.8 ppg
+
+    2,100 feet to bottom                 mud weight = 12.5 ppg
+
+    Original mud weight                 = 12.5 ppg
+
+        76 psi.
+
+        101 psi.
+
+        139 psi.
+
+9. How will bottom hole pressure be affected by gas cut mud whilst drilling?
+
+        There will be a small drop.
+
+        There will be a large drop.
+
+        There will be no change.
+
+                                                  1 - 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+10. Which of the following would be the immediate effect of swabbing?
+
+         Reduction in bottom hole pressure.
+
+     A kick.
+
+         Losses.
+
+         Increase in bottom hole pressure.
+
+11. Which of the following are likely to increase the chance of swabbing?
+
+   (THREE ANSWERS)
+
+          Pulling through tight hole with the pump off.
+
+          Pulling pipe too quickly.
+
+          Pulling pipe too slowly.
+
+        Pumping out of the hole.
+
+          Pulling through tight hole with the pump on.
+
+        High mud viscosity.
+
+12. Which of the following increase the risk of swabbing?
+
+   (THREE ANSWERS)
+
+      Low permeability formation.
+
+         Viscous mud.
+
+          Spiral drill collars in the BHA.
+
+         Tripping out too fast.
+
+         Balled up stabilisers.
+
+13. Overpull while tripping out is a stuck pipe warning sign.
+
+   What well control problem may be associated with overpull?
+
+        Swabbing.
+
+         Losses
+
+        Hydrogen Sulphide gas.
+
+         Surging.
+
+                                                  1 - 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+14. Which of the following increase surge pressures when running in the hole.
+
+   (TWO ANSWERS)
+
+        Small annular clearance.
+
+        Large bit nozzles.
+
+         Running-in slowly.
+
+        High gel strength mud.
+
+        Large annular clearance.
+
+      Low gel strength mud.
+
+15. When pulling out of the hole from the top of the reservoir at 10,000 feet swab pressures
+
+    are calculated to be 150psi.
+
+   Mud Weight        = 10.2 ppg.
+
+    Formation Pressure   = 5200 psi.
+
+    Will the well flow?
+
+        No.
+
+         Yes.
+
+                                                  1 - 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+16. WELL DATA
+
+    Drill Pipe Capacity                      0.01776 bbls/ft
+
+    Drill Pipe Metal Displacement             0.0083 bbls/ft
+
+   Average Stand Length                  93 feet
+
+    Calculate the mud required to fill the hole per stand when pulled ‘dry’.
+
+        .                  bbls
+
+17. WELL DATA
+
+    Drill Pipe Capacity                      0.01776 bbls/ft
+
+    Drill Pipe Metal Displacement             0.0083 bbls/ft
+
+   Average Stand Length                  93 feet
+
+    Calculate the mud required to fill the hole per stand when pulled ‘wet’.
+
+        .                  bbls
+
+18. A vertical well has been drilled to a depth of 7,480 feet.
+
+    Casing shoe depth                        3,800 feet
+
+   Mud weight                          12 ppg
+
+    Pore pressure gradient (7,480 feet)          0.6 psi/ft
+
+   Open hole capacity                       0.1458 bbls/ft
+
+    Casing capacity                         0.1571 bbls/ft
+
+    Drill pipe metal displacement              0.008 bbls/ft
+
+   How many complete stands can be pulled dry before the well flows? (Assume one stand
+
+    equals 93 feet)
+
+       .                     stands.
+
+                                                  1 - 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+19. Two stands of drill collars are pulled from the well (dry)
+
+    Drill collar capacity                      0.0073 bbls/ft
+
+    Drill collar metal displacement            0.0370 bbls/ft
+
+   How many barrels of drilling mud should be pumped into the well? (Assume one stand
+
+    equals 90 feet)
+
+         5.5 bbls.
+
+         6.6 bbls.
+
+         1.3 bbls.
+
+         7.9 bbls.
+
+20. A vertical well has been drilled to a depth of 9,400 feet
+
+    Casing shoe depth                        5,100 ft
+
+   Mud weight                          12 ppg
+
+    Pore pressure gradient (9,400 feet)          0.6 psi/ft
+
+   Open hole capacity                       0.146 bbls/ft
+
+    Casing capacity                          0.157 bbls/ft
+
+    Drill pipe metal displacement              0.008 bbls/ft
+
+   How many complete stands can be pulled dry before the well flows? (Assume one stand
+
+    equals 93 feet)
+
+                        stands
+
+21. Which of the following causes of well kicks is totally avoidable and due to a lack of
+
+    alertness by the Driller?
+
+         Lost circulation.
+
+        Gas cut mud.
+
+        Not keeping the hole full.
+
+        Abnormal pressures.
+
+                                                  1 - 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+22. On pulling out of the well from 10,000 feet, the first 930 feet of 5 inch drill pipe is pulled
+
+   wet without filling the hole (no mud returning to the well).
+
+  WELL DATA
+
+    Casing capacity                          0.074 bbls/ft
+
+    Drill pipe capacity                       0.0178 bbls/ft
+
+    Drill pipe steel displacement              0.0077 bbls/ft
+
+   Mud Weight                              11.4 ppg
+
+   What is the drop in bottom hole pressure
+
+          84psi.
+
+        290 psi.
+
+        220 psi.
+
+        140 psi.
+
+23. On a trip out of the hole the hole fill pump was stopped and the complete BHA was
+
+    pulled dry.
+
+   Hole size                                        81/2 inch
+
+   Length of BHA                       600 feet
+
+    Internal capacity of BHA                  0.006 bbls/ft
+
+    Steel displacement of BHA                0.03 bbls/ft
+
+    Internal capacity of casing                 0.072 bbls/ft
+
+    Capacity between BHA and casing         0.035 bbls/ft
+
+   Mud weight                          12 ppg
+
+    Calculate the reduction in bottom hole pressure?
+
+        250 psi.
+
+        208 psi.
+
+        156 psi.
+
+        127 psi.
+
+                                                  1 - 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+24. Whilst running 9-5/8 inch casing, 15 joints are run without filling the string.
+
+   Mud weight                              10.8 ppg
+
+    Casing capacity                         0.0719 bbls/ft
+
+    Annular capacity                        0.0558 bbls/ft
+
+    Casing joint                          40 feet
+
+     If the float valve was to fail at this point, what would be the reduction in bottom hole
+
+    pressure?
+
+                            psi.
+
+25. A 20 bbl heavy slug with a weight of 13 ppg is pumped before pulling out of the hole.
+
+  TVD = 9,750 feet. The level in the pipe falls by 180 feet.
+
+   What is the change in bottom hole pressure if the original mud weight was 10.7 ppg?
+
+         1,200 psi
+
+        100 psi.
+
+        0 psi.
+
+        180 psi.
+
+26. Before pulling out of the hole a 20 bbl heavy slug is pumped and followed by 15 bbls of
+
+    regular mud.
+
+  WELL DATA
+
+   Depth of hole (RKB)                     10,400 feet
+
+    Drilling mud weight                      11.0 ppg
+
+   Heavy slug weight                        13.0 ppg
+
+    Drill pipe capacity                       0.01776 bbl/ft
+
+    Surface line volume                    10 bbls
+
+   How far will the mud level in the string drop when the well has equalised?
+
+        62 feet.
+
+        180 feet.
+
+        205 feet.
+
+        307 feet.
+
+                                                  1 - 9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+27. Before a trip out of the well, a slug was pumped and chased by mud with returns to the
+
+     pit. The pumps were stopped. The trip tank was lined up on the well. The top-drive was
+
+    then disconnected and the slug allowed to fall.
+
+  WELL DATA
+
+   Well depth                              8,000 feet
+
+    Drill pipe internal capacity                0.0176 bbls/ft
+
+   Mud weight                                9.8 ppg
+
+    Slug weight                              11.3 ppg
+
+    Slug volume in the string                20 bbls
+
+    Calculate the mud volume increase in the trip tank.
+
+        3 bbls.
+
+        15 bbls.
+
+        20 bbls.
+
+28. Prior to starting a trip out of the well, a heavy slug was pumped.
+
+      WELL DATA
+
+          Drill pipe capacity                  0.0177 bbls/ft
+
+        Annulus capacity DP/Casing         0.0514 bbls/ft
+
+      Mud weight                         10.8 ppg
+
+         Slug weight                         13.3 ppg
+
+         Slug volume inside the drill pipe     15 bbls
+
+        Well depth                         10,200 feet
+
+      How far will the mud level drop when the well has equalised?
+
+          197 feet.
+
+          247 feet.
+
+          597 feet.
+
+          847 feet.
+
+                                                  1 - 10
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+29. During normal drilling operations 30 bbls of light mud is pumped into the string followed
+
+   by original mud. The Driller shuts down with the light mud still inside the drill pipe and
+
+    observes the well.
+
+  WELL DATA
+
+   Well depth (TVD)                        9,000 feet
+
+    Drill pipe capacity                       0.0176 bbls/ft
+
+    Original mud weight                   12 ppg
+
+    Light mud weight                      10 ppg
+
+   Which of the following is correct?
+
+        Bottom hole pressure will remain the same, but a back pressure of 177 psi will be
+
+         seen on the drill pipe pressure gauge.
+
+        Bottom hole pressure will increase 177 psi.
+
+        Bottom hole pressure will drop by 177 psi.
+
+30. With the pumps running continuously a heavy mud pill is circulated. When will bottom
+
+    hole pressure start to increase (ignore dynamic pressure losses in the well)?
+
+       Once all the pill is in the annulus.
+
+       Once the pill starts to be displaced into the annulus.
+
+       As soon as the pill is pumped into the drillstring.
+
+       Once all the pill is inside the drillstring and is about to exit the bit.
+
+31. With the pumps running continuously a light mud pill is circulated. When will bottom
+
+    hole pressure start to decrease (ignore dynamic pressure losses in the well)?
+
+       As soon as the pill starts to be pumped down the drillstring.
+
+       Once all the pill is pumped inside the drill string and is about to exit the bit.
+
+       Once the pill starts to be displaced into the annulus.
+
+       Once all the pill is in the annulus.
+
+32. Does a kick always occur after a total loss of circulation?
+
+        No, it depends on the mud level in the annulus and the formation pressure.
+
+         Yes, losses will always occur above any potential kick zone.
+
+        No, it depends on the reductio in drill string weight.
+
+                                                  1 - 11
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+33. While drilling ahead through a faulted formation, the flow meter drops from 60% to 35%.
+
+   What is the most likely cause of this?
+
+        There is a washout in the string.
+
+           Partial lost circulation has occurred.
+
+     A kick has been swabbed in.
+
+         Total lost circulation has occurred.
+
+34. Whilst drilling ahead, partial losses are measure at 10 bbls/hour. A total power loss
+
+    occurs.
+
+    Annular capacity                        0.1512 bbls/ft (with pipe).
+
+   Mud weight                              10.2 ppg.
+
+     If the hole cannot be filled, what will be the reduction in bottom hole pressure after 4
+
+    hours?
+
+        250 psi.
+
+        560 psi.
+
+        175 psi.
+
+        140 psi.
+
+35. When drilling with water based mud, a complete loss of returns occurs and no mud is
+
+    visible when looking down the hole.
+
+   What is the first action to take?
+
+       Pump lost circulation material immediately.
+
+       Pump a heavy slug into the annulus.
+
+           Fill the annulus with water and record the volume added.
+
+       Pump a cement plug into the annulus using the kill line.
+
+36. The flow sensor shows a total loss of returns and the mud level cannot be seen in the
+
+    annulus.
+
+   What immediate action should be taken?
+
+         Shut the well in and pump lost circulation material.
+
+           Fill the annulus with water (or lightest mud available) and record volume.
+
+       Pump at reduced rate adding lost circulation material.
+
+         Continue drilling ahead cautiously.
+
+                                                  1 - 12
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+37. Severe losses occurred while drilling. The pumps were stopped and the mud in the well
+
+    could not be seen. The well was then filled to the top with water.
+
+   Mud weight                          12 ppg
+
+   Sea water weight                           8.6 ppg
+
+    Equivalent height of water column        150 ft of annulus
+
+   What is the reduction in bottom hole pressure with the 150 ft of water?
+
+        94 psi.
+
+        26 psi.
+
+        67 psi.
+
+        30 psi.
+
+38. At 171/2 inch surface hole is being drilled at 3750 feet
+
+   The formation fluid pressure is 2000 psi at this depth.
+
+     Is the formation fluid pressure?
+
+       Above normal.
+
+        Below normal.
+
+        Normal.
+
+39. What is meant by abnormal pressure?
+
+        The excess pressure due to circulating mud at high rates.
+
+        The excess pressure that needs to be applied to cause ‘leak-off’.
+
+        Heavy weight mud used to give an overbalance.
+
+        The formation fluid pressure that exceeds formation water hydrostatic pressure.
+
+40. A formation is over-pressured by an artesian effect.
+
+   What has created the over-pressure?
+
+        Compaction of the formation by the overburden pressure.
+
+     A formation water source located at a higher level than the rig floor.
+
+        The difference in density between oil and formation fluid.
+
+                                                  1 - 13
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+41. What is the most common cause of abnormally high formation pressures worldwide?
+
+        Under-compacted shales.
+
+         Carbonate layers.
+
+         Depleted sands.
+
+42. When drilling top-hole with a risk of shallow gas, which of the following statements are
+
+   good practice?
+
+   (TWO ANSWERS)
+
+         Regularly pump fresh water pill to clean cuttings from hole.
+
+          Drill a pilot hole at a controlled rate.
+
+          Drill at a high rate of penetration and keep mud viscosity as high as possible.
+
+        Use heavy weight mud to create maximum overbalance.
+
+       Pump out of the hole on trips.
+
+43. Is it true that shallow gas kicks are easier to handle than those taken when drilling deeper?
+
+         Yes.
+
+        No.
+
+44. Which of the following statements are good operating practices when drilling TOPHOLE
+
+    formations where there is a risk of shallow gas?
+
+   (TWO ANSWERS)
+
+         Maintain high rate of penetration and keep mud viscosity as high as possible.
+
+        Use a heavy weight mud to create maximum overbalance.
+
+       Pump out of the hole on trips.
+
+        Use oil-based mud.
+
+          Drill a pilot hole at a controlled rate.
+
+45. Formation strengths are generally weak when drilling top hole and total losses may occur.
+
+   How can the risk of total losses be reduced when drilling top hole?
+
+       By pumping slowly to reduce the drillstring pressure loss.
+
+        Keeping a high overbalance.
+
+       By controlling penetration rate to prevent loading the annulus with cuttings.
+
+                                                  1 - 14
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+46. What is the PRIMARY means used to control formation fluid pressure. (Choose ONE
+    answer).
+
+      The Blow Out Preventers.
+
+       Hard Shut-in.
+
+     Mud hydrostatic pressure.
+
+        Soft Shut-in.
+
+47. What is the SECONDARY means used to control formation fluid pressure. (Choose
+
+  ONE answer).
+
+      The Blow Out Preventers.
+
+     Mud Viscosity
+
+     Mud hydrostatic pressure.
+
+      Cement Plugs
+
+48. What is the PRIMARY means of preventing a kick? (Choose ONE answer).
+
+       Monitoring trips.
+
+       Closing a well with the Blow Out Preventers.
+
+       Monitoring Pit Volume and Flow Rate to quickly recognise a kick.
+
+       Using Mud hydrostatic to balance fluid pressures in the formation.
+
+                                                  1 - 15
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+49. What is meant by Abnormal Pressure. (Choose ONE answer).
+
+       High overbalance with heavy mud.
+
+       Formation fluid pressure that is greater than normal formation water hydrostatic
+
+        pressure.
+
+        Pressure required to exceed MAASP.
+
+      The excess pressure due to Annular Pressure loss.
+
+50. Which of the following is good operating practice in TOP HOLE? (Choose TWO
+    answers).
+
+       Maintain a high safety margin (overbalance).
+
+      Pump out of the hole on trips.
+
+         Drill a pilot hole.
+
+         Drill section as fast as possible.
+
+      Keep mud viscosity high then pump fresh water pills to clean hole.
+
+51. Which of the following are likely to increase the chance of swabbing? (Choose THREE
+    answers).
+
+        Pulling through tight hole with pump off.
+
+        Pulling through tight hole with pump on.
+
+      Pumping out of the hole.
+
+        Pulling pipe too quickly.
+
+       Maintaining high mud viscosity.
+
+        Pulling pipe slowly.
+
+52. Which of the following drilling practices should be considered when connection gas is
+    noticed? (Choose TWO answers).
+
+        Increase mud viscosity.
+
+      Keep connection time to a minimum.
+
+       Reduce mud weight by a small amount.
+
+        Control ROP so that only one slug of connection gas is in the hole at any one time.
+
+      Change the bit.
+
+                                                  1 - 16
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+53. ROP remains steady. Cuttings volume at Shaker is increasing, causing overloading.
+   Which of the following would be the safest course of action? (Choose ONE answer).
+
+       By-pass the Shakers.
+
+      Check for flow, if negative, circulate bottoms up at a reduced rate so Shakers can
+       handle cuttings volume. Monitor pit levels closely.
+
+        Increase pump rate to improve hole cleaning.
+
+       Reduce pump rate until Shakers can handle volume of cuttings.
+
+54. A complete loss of returns occurs, there is no mud visible when looking down the hole.
+   Which of the following is the first action to take? (Choose ONE answer).
+
+       Pump a cement plug below the loss zone.
+
+           Fill the Annulus with base fluid at the surface and record the volume.
+
+       Pump LCM as soon as possible.
+
+       Pump a heavy slug on top of the loss zone.
+
+55. Using the following data:
+
+         Drill pipe capacity                                :              0.0178 bbls/ft
+         Drill pipe metal displacement                :              0.008 bbls/ft
+       Stand length                                         :             92 ft
+
+        Calculate:
+
+         a.    Mud required to fill the hole per stand when pulled ‘dry’ -
+
+                    _____________________ bbls
+
+         b.    Mud required to fill the hole per stand when pulled ‘wet’ -
+
+                    _____________________ bbls
+
+56. If the mud is gas cut, when will the gas cause the greatest reduction in bottom hole
+    pressure. (Choose ONE answer).
+
+      When the gas is at bottom of the hole.
+
+      When gas reaches the surface.
+
+      When the gas is at the Casing Shoe.
+
+                                                  1 - 17
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+57. Select the factors that can cause swabbing. (Choose THREE answers).
+
+         a.   High viscosity mud.
+
+         b.   Keeping the hole full.
+
+         c.  Pumping out of the hole.
+
+         d.   Balled up bit or stabilisers.
+
+         e.   Pulling out of hole too fast.
+
+58. Do kicks always occur following total losses.  (Choose ONE answer).
+
+           Yes, kicks will always occur in this situation.
+
+           No, it depends on the mud viscosity.
+
+           No, it depends on how much the mud level drops in the Annulus.
+
+59. What is the most common cause of abnormal formation pressures. (Choose ONE
+    answer).
+
+           Trapped water in under-compacted shales/claystones.
+
+           Thick layers of Limestone.
+
+           Depleted reservoir sands.
+
+        d.  Lost circulation zones.
+
+60. Which of the following statements are good practice when drilling TOP HOLE
+    formations? (Choose TWO answers).
+
+              Drill a pilot hole.
+
+          Use a high density mud to maintain maximum overbalance.
+
+              Drill top hole sections with Oil-based muds.
+
+            Control the rate of penetration.
+
+           Maintain a high rate of penetration.
+
+                                                  1 - 18
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+61. If there are total losses and the mud cannot be seen in the Annulus, what action should be
+    taken? (Choose ONE answer).
+
+            Increase pump rate by 30% and continue drilling.
+
+         b.  Slow down the pump and start mixing LCM.
+
+         c.  Try to fill the Annulus with water (or lightest fluid available) and record volume
+          pumped.
+
+           Close the well in.
+
+62. Swabbing is due to: (Choose ONE answer).
+
+        An increase in bottom hole pressure while tripping.
+
+       A reduction in bottom hole pressure while tripping.
+
+       A kick.
+
+            Lost circulation.
+
+63. When tripping:
+
+       Slug Volume        =            20 bbls
+       Slug Weight         =            12 ppg
+     Mud Weight        =            10 ppg
+
+          If slug causes mud level in the pipe to drop by 200 ft, what will happen to bottom
+        hole pressure? (Choose ONE answer).
+
+           Decreases by 21 psi
+
+            Increases by 1000 psi
+
+        No change to bottom hole pressure
+
+            Increases by 125 psi
+
+64.    During a trip, the Driller decides that the well is swabbing. A flow check is negative.
+
+      What should the Driller do next? (Choose ONE answer).
+
+         a.   Because the well is not flowing, continue pulling pipe from the hole.
+
+         b.   Shut the well in and check for pressures.
+
+         c.  Run to bottom and circulate bottoms up.
+
+         d.   Pull 5 stands and carry out another flow check.
+
+                                                  1 - 19
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+65. Which of the following statements are true for drilling TOP HOLE? (Choose ONE
+    answer)
+
+          a.   Reduce SPM to prevent breaking down formation.
+
+         b.   Control ROP to prevent too many cuttings in the hole.
+
+         c.   Maintain high overbalance to prevent shallow gas kick.
+
+66. How will the drilling of a gas bearing formation affect Bottom Hole Pressure? (Choose
+  ONE answer).
+
+         a.   Bottom Hole Pressure will fall by a large amount.
+
+         b.   Drilled gas in the mud, as a result of drilling through a gas bearing formation,
+             will normally cause a small reduction in the bottom hole pressure.
+
+           There will be no change in the bottom hole pressure.
+
+67. If total losses occurred while drilling with Water based mud, what would you do? ?
+
+   (Choose ONE answer).
+
+              Drill blind.
+
+           Stop drilling, shut the well in and see what happens.
+
+         c.  Stop drilling and try to fill the hole up with water.
+
+68. If a light mud pill is circulated around the well, when will the bottom hole pressure start
+    to decrease? (Choose ONE answer).
+
+          Once all the pill is in the Annulus.
+
+         When all the pill has been pumped into the drillstring.
+
+         When the pill starts to be pumped into the drillstring.
+
+         When the pill starts to be pumped into the Annulus
+
+                                                  1 - 20
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+69. When tripping in the hole, mud returns to the trip tank are less than calculated. Once
+   back drilling, the return flow is less than expected. What is the most likely cause of this?
+   (Choose ONE answer).
+
+           Swabbing.
+
+       A kick.
+
+            Total losses.
+
+              Partial losses.
+
+70. In a trapped gas reservoir, the highest point of the reservoir usually has the highest
+    pressure. Why is this? (Choose ONE answer).
+
+            Reservoir Gas is less dense than formation water.
+
+            Artesian effect.
+
+            Highest point of the reservoir is more compacted.
+
+71. In a clean well:-
+
+        Vertical depth                           :             8000 ft
+     Mud density                             :              11.50 ppg
+
+Due to gas cutting the mud in the Annulus has the following densities:-
+
+        Surface to 800 ft                       :           mud density of 10.20 ppg
+       800-2000 ft                              :           mud density of 11.0 ppg
+       2000 ft to bottom                      :           mud density of 11.50 ppg
+
+Calculate the reduction in bottom hole pressure due to the gas cut mud
+
+          20 psi
+
+          70 psi
+
+         c.  85 psi
+
+          108 psi
+
+                                                  1 - 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+72.    Measured Depth      =     9800 ft
+
+     Mud Weight        =       9.4 ppg
+
+      The mud from 3800 ft to surface is to be displaced with 8.5 ppg water. What will be
+        the mud hydrostatic after displacement of the water. (Choose ONE answer).
+
+          1680 psi
+
+          2933 psi
+
+          4612 psi
+
+          4815 psi
+
+73. Five stands of drill collars are pulled from the well (dry).
+
+         Drill collar capacity                                          :              0.0073 bbls/ft
+         Drill collar metal displacement                          :              0.0370 bbls/ft
+
+     How much fluid would be pumped into the well to maintain fluid level (one stand =
+         90’). (Choose ONE answer).
+
+           2 bbls
+
+            8.20 bbls
+
+           16.65 bbls
+
+           12.23 bbls
+
+74. If the BHA is pulled (dry) without filling the hole, calculate the reduction in bottom hole
+
+    pressure? (Assume 12 1/4 inch hole to surface). (Choose ONE answer).
+
+     BHA length                                                     :             580 ft
+     BHA capacity                                                  :              0.0061 bbls/ft
+     BHA Steel Displacement                                  :              0.032 bbls/ft
+       Annular Capacity BHA to 12 ¼ inch Bore          :              0.0322 bbls/ft
+       Casing Capacity                                               :              0.0719 bbls/ft
+     Mud density                                                     :             11 ppg
+
+          148 psi
+
+          188 psi
+
+          258 psi
+
+        d.  100 psi
+
+                                                  1 - 22
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+75. What is the bottom hole hydrostatic pressure reduction when pulling 600 ft of 5” drill
+    pipe wet without filling the hole (no mud returning to the well). (Choose ONE answer).
+
+       Well Data:
+
+       Casing capacity                                                :              0.1522 bbls/ft
+
+         Drill pipe capacity                                            :              0.0178 bbls/ft
+
+         Drill pipe steel displacement                             :              0.0076 bbls/ft
+
+     Mud density                                                     :               9.8 ppg
+
+          51 psi
+
+          61 psi
+
+          81 psi
+
+          101 psi
+
+   76. 13 3/8” string of casing is run into the hole with conventional float. The Driller did
+
+       not fill the casing for fourteen 40 ft joints.  If the float were to fail at this point, and
+
+     mud U-tubes up inside the casing, calculate the effect on bottom hole pressure.
+
+        Data:
+
+       Casing capacity      =             0.152 bbls/ft
+       Annular capacity     =             0.1238 bbls/ft
+     Mud Weight        =              12.6 ppg
+
+        BHP decreases by 298 psi.
+
+        BHP decreases by 102 psi
+
+        BHP decreases by 202 psi
+
+        BHP decreases by 83 psi
+
+                                                  1 - 23
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+77. Mud losses are 20 bbls/hour.
+       Annular Capacity     =      0.1252 bbls/ft
+     Mud Density        =     12 ppg
+
+      What would be the effect on bottom hole pressure if the hole was not filled for a
+        period of 2 hours? (Choose ONE answer).
+
+            decrease by 320 psi
+
+            decrease by 200 psi
+
+            decrease by 150 psi
+
+            decrease by 470 psi
+
+78. A well has been drilled to a depth of 10100 ft:
+
+       Casing Shoe depth                                                        :             7210 ft
+     Mud density                                                                :              12.0 ppg
+       Pore pressure gradient                                                  :              0.61 psi/ft
+       Casing capacity                                                            :              0.156
+         bbls/ft
+      Open hole capacity                                                       :              0.146
+         bbls/ft
+         Drill pipe metal displacement                                        :              0.008
+         bbls/ft
+       Average Stand Length                                                  :             93 ft
+
+        Calculate number of stands that can be pulled (dry) before the well starts to flow.
+
+       Answer: ____________________ stands
+
+79. Pressure recorders located below the drill stem test tools show that swab pressure when
+    pulling a stand was 250 psi.
+
+        Drilling fluid density in the hole is 10 ppg.
+      Top of reservoir is at 9500 ft.
+
+          If the well does not flow when the pipe is static, what would the reservoir pressure
+       have to be to allow it to flow at this swab pressure. (Choose ONE answer).
+
+         a.   3800 psi.
+
+         b.  5800 psi.
+
+         c.   4690 psi.
+
+         d.  4940 psi.
+
+                                                  1 - 24
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+80.    Gas/Water Contact in a Reservoir = 5400 ft
+      Top of Reservoir is at 4000 ft.
+      Gas Gradient = 0.1 psi/ft.
+       Formation Water Gradient = 0.465 psi/ft
+
+        Calculate pressure at top of the reservoir?  (Choose ONE answer).
+
+          2511 psi
+
+          140 psi
+
+          2371 psi
+
+          2231 psi
+
+                                                  1 - 25
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+1.  Which of the following are indicators that a well might be going under-balanced?
+
+   (TWO ANSWERS)
+
+         Increase in the mud weight returning at surface.
+
+         Increasing background gas levels.
+
+     A big increase in the pump pressure.
+
+     A change in the size and shape of the cuttings.
+
+     A reduction in the drilling rate.
+
+2.   If WOB, RPM, and SPM are held constant, which of the following may be a warning of
+
+   abnormal pressure?
+
+   (THREE ANSWERS)
+
+        Change of cuttings shape and size on the shakers.
+
+         Increase in pump pressure.
+
+         Increase in penetration rate.
+
+         Connection gas.
+
+         Increase in Shale Density.
+
+         Increased trip tank level.
+
+3.  Drilling ahead at constant rate of penetration (ROP). Shale Shakers cannot handle amount
+
+    of cuttings returning in the mud.
+
+   What would be the safest course of action?
+
+        Slow down the mud pump until the shakers can handle the amount of cuttings in the
+
+           returns.
+
+        Check for flow – if none, circulate bottoms up at a reduced rate so that shakers can
+
+         handle cuttings volume, flow-check periodically during circulation.
+
+        Check for flow – if none continue drilling at same ROP.
+
+        Check for flow – if none, then continue at the same ROP. Allow half of the mud
+
+          returns to bypass the shakers.
+
+                                                  2 - 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+4.  Which of the following is good practice when connection gas is observed?
+
+   (TWO ANSWERS)
+
+         Control drilling rate so that only one slug of connection gas is in the hole at any one
+
+          time.
+
+          Pull out the hole to change the bit.
+
+         Raise the mud viscosity.
+
+        Reduce mud viscosity to minimise swabbing during trips.
+
+        Minimise the time during a connection when the pumps are switched off.
+
+5.   If mud flows from the well with the pump off, but there is no gain when the pump is
+
+    running, what is the problem?
+
+      Low mud weight inside the drill string.
+
+      Mud hydrostatic pressure is greater than formation pressure.
+
+       Pump pressure is greater than mud hydrostatic pressure.
+
+        Annular pressure loss is giving an overbalance against formation pressures.
+
+6.  While pulling out of the hole the mud required to fill the hole is less than calculated.
+
+   What action should be taken?
+
+       Pump remaining stands out of the hole.
+
+        Flow check, if negative continue to pull out of the hole.
+
+         Shut the well in and circulate hole clean.
+
+        Flow check, if negative run back to bottom and monitor returns.
+
+7.  While drilling, which of the following situations make kick detection with a P.V.T more
+
+    difficult?
+
+        Allowing mud to overflow the shakers.
+
+        Reducing the pit level alarm settings from 10 bbls to 5 bbls.
+
+        Keeping active mud system transfers to a minimum when drilling ahead.
+
+         By-passing the solids control pits.
+
+                                                  2 - 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+8.  After pulling 15 stands of pipe, the well has not taken the correct amount of mud. The
+
+    Driller takes a flow check, which is negative.
+
+   What action should be taken?
+
+       Run or strip back to bottom and circulate bottoms up.
+
+         Continue pulling pipe from the hole because there was no flow.
+
+         Shut the well in and check for pressures.
+
+          Pull another 15 stands and flow check.
+
+9.  Whilst pulling out of the hole, the Driller observes that the hole is taking less than the
+
+    calculated volume.
+
+   Which is the safest action to follow?
+
+        Flow check for at least 15 minutes.  If the well is static, continue pulling out of the
+
+          hole slowly and carry out a flow check after every 15 stands pulled.
+
+        Flow check for at least 15 minutes.  If the well is static, continue pulling out of the
+
+          hole slowly to prevent swabbing.
+
+        Flow check.  If the well is static, circulate bottoms up and observe returns for any
+
+        swabbed fluids.  If negative, continue pulling out of the hole slowly to avoid any
+
+           further swabbing.
+
+        Flow check.  If the well is static, run back to bottom, whilst monitoring the trip
+
+          tank. Circulate bottoms up and observe returns for any swabbed fluids.
+
+10. What action should a Driller take after a drilling break.
+
+        Reduce weight on bit.
+
+          Circulate bottoms up.
+
+        Flow check.
+
+        Reduce pump speed.
+
+11. Which of the following is a positive indication that the well is flowing?
+
+         Increase in torque.
+
+         Increase in flow returns.
+
+         Decrease in pump pressure.
+
+        Gas cut mud.
+
+                                                  2 - 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+12. Which of the following are positive indications of a kick whilst drilling?
+
+   (TWO ANSWERS)
+
+         Increase in pit volume.
+
+         Increase in flow rate with constant spm.
+
+         Decrease in flow rate with constant spm.
+
+         Decrease in pit volume.
+
+13. Which of the following IS NOT an indicator of a kick whilst drilling?
+
+           Pit gain.
+
+         Decrease in pump strokes.
+
+         Decrease in pump pressure.
+
+        Flow rate increase.
+
+14. The following describes one of the differences between drilling with water based mud
+
+   and oil based mud.
+
+   Hydrocarbon gas is more soluble in water based mud than in oil based mud.
+
+          False.
+
+         True.
+
+15. The following describes one of the differences between drilling with water based mud
+
+   and oil based mud.
+
+   Hydrocarbon gas remains in solution longer in oil-based mud than in water-based mud
+
+   when circulating up to surface.
+
+         True.
+
+          False.
+
+16. The following describes one of the differences between drilling with water based mud
+
+   and oil based mud.
+
+   Gas is less soluble in water based mud than in oil based mud.
+
+         True.
+
+          False.
+
+                                                  2 - 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+17. The following describes one of the differences between drilling with water based mud
+
+   and oil based mud.
+
+   Gas entering the well bore whilst drilling with oil-based mud will reduce the hydrostatic
+
+    pressure more than it would when drilling with water-based mud.
+
+         True.
+
+          False.
+
+18. The following describes one of the differences between drilling with water based mud
+
+   and oil based mud.
+
+Whilst circulating out a kick, gas expansion occurs in the annulus at the same rate in oil and
+
+    water-based mud.
+
+         True.
+
+          False.
+
+19. The following describes one of the differences between drilling with water based mud
+
+   and oil based mud.
+
+   Gas entering the well bore whilst drilling with water-based mud will reduce the
+
+    hydrostatic pressure more than it would when drilling with oil-based mud.
+
+         True.
+
+          False.
+
+20. The following describes one of the differences between drilling with water based mud
+
+   and oil based mud
+
+    Whilst circulating out a kick, gas expansion occurs in the annulus at a different rate in oil
+
+   and water-based mud.
+
+         True.
+
+          False.
+
+                                                  2 - 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+21. Which of the following causes of well kicks is totally avoidable and due to bad practice
+   by the Driller? (Choose ONE answer).
+
+          Gas cut mud.
+
+          Not keeping hole full during a trip.
+
+          Abnormal formation pressure.
+
+        d.  Reduction in mud hydrostatic due to lost circulation.
+
+22. Which of the following could indicate that the well may be going under-balanced.
+   (Choose TWO answers).
+
+        An increase in the size and amount of cuttings.
+
+        An increase in the mud density returning at Shakers.
+
+            Increase in background gas levels.
+
+       A gradual reduction in the drilling rate.
+
+        An increase in pump pressure.
+
+23. Which of the following is not a kick warning sign ? (Choose ONE answer).
+
+            Increase in pump pressure.
+
+          Gas cut mud.
+
+          Flow rate increase.
+
+           Connection gas.
+
+            Increase in mud temperature.
+
+24. Overpull (drag) while tripping is a stuck pipe warning sign. What problem may overpull
+    result in. (Choose ONE answer).
+
+            Surging.
+
+           Swabbing.
+
+           On-bottom kick.
+
+            Increase in bottom hole pressure.
+
+                                                  2 - 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+25. Whilst pulling out of the hole, the mud required to keep the hole full is less than
+    calculated. What action should be taken? (Choose ONE answer).
+
+          Flow check, if negative, continue to pull out of the hole.
+
+         b.  Flow check, if negative, pump a heavy slug around BHA then continue to pull
+            out of the hole.
+
+         c.   Shut the well in and circulate the hole through the choke.
+
+         d.  Flow check, if negative, run back to bottom and monitor returns.
+
+         Pump remaining pipe out of the hole.
+
+26. Which of the following are warning signs that the well may be going underbalanced
+
+   (Choose THREE answers).
+
+       A reduction in the rate of penetration.
+
+         b.   Increasing background gas levels.
+
+         c.  Change in the shape, size and volume of cuttings.
+
+         d.   Increase in the flowline mud weight.
+
+        An increase in drag values.
+
+27. Which of the following is not a kick warning sign? (Choose ONE answer).
+
+           Decrease in pump strokes.
+
+              Pit gain.
+
+           Decrease in pump pressure.
+
+          Flow rate increase.
+
+                                                  2 - 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+28. Which of the following is the first indication that the well  is flowing? (Choose ONE
+    answer).
+
+           Decrease in pump pressure.
+
+            Increase in rotary torque.
+
+          Gas cut mud seen at the Shakers.
+
+            Increase in mud returns from the well.
+
+29. What should the Driller do at a drilling break? (Choose ONE answer).
+
+           Stop drilling and flow check
+
+         b.  Stop drilling and circulate bottoms up.
+
+         c.   Increase pump speed to keep hole clean.
+
+         d.  Reduce weight on bit and control drill.
+
+30. Well flows when mud pump is shut off. No excess flow or pit gain when pumps are
+    running. What is happening? (Choose ONE answer).
+
+        Mud hydrostatic pressure exceeds formation fracture pressure.
+
+          The mud pump is leaking.
+
+        Mud hydrostatic pressure is greater than formation pressure
+
+           Annular friction losses are keeping enough overbalance to prevent the formation
+           from flowing.
+
+31. What are the positive indicators of a kick seen by the Driller? (Choose TWO answers).
+
+         a.      Increase in flow rate (constant SPM).
+
+         b.      Decrease in pit volume (constant SPM).
+
+         c.      Decrease in flow rate (constant SPM).
+
+                Increase in pit volume (constant SPM).
+
+                                                  2 - 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+32. Which of the following actions will make it harder to detect a pit gain? (Choose ONE
+
+    answer).
+
+             Setting high/low alarms to ±5 barrels.
+
+         By passing the Shakers.
+
+           Allowing mud to overflow shakers.
+
+           Keeping mud transfers to a minimum while drilling ahead.
+
+33. Will a gas kick entering the hole always cause a pit level increase? (please tick in space
+    provided).
+
+         a.    When using Water-based mud
+
+             ___ True                     ___False
+
+         b.    When using Oil-based mud
+
+             ___ True                   ___ False
+
+34. The following statements describe the difference in behaviour between drilling with Oil-
+    based and Water-based mud. Indicate whether the statements are true or false (please tick
+    in space provided).
+
+         a.  Gas kicks in Water-based mud are normally easier to detect due to lower gas
+              solubility.
+
+             ___ True                   ___ False
+
+         b.  Gas kicks in Water-based mud are normally harder to detect due to higher gas
+              solubility.
+
+             ___ True                   ___ False
+
+         c.  Gas entering the Wellbore while drilling with Oil-based mud will reduce the
+             hydrostatic pressure more than when drilling with Water-based mud.
+
+             ___ True                   ___ False
+
+         d.  When circulating out a gas kick, gas expansion occurs in the Annulus at the
+
+          same rate in Oil-based and Water-based muds.
+
+          ___ True                      ___ False
+
+                                                  2 - 9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+1.  What is the choke manifold line up for a soft shut-in procedure whilst drilling?
+
+      BOP side outlet hydraulic valve (HCR) open.
+
+        Remote choke open.
+
+        Valve upstream of the mud-gas separator closed.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Remote choke open.
+
+        Valve upstream of the mud-gas separator open.
+
+      BOP side outlet hydraulic valve (HCR) open.
+
+        Remote choke closed.
+
+        Valve upstream of the mud-gas separator closed.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Remote choke closed.
+
+        Valve upstream of the mud-gas separator open.
+
+2.  What is the choke manifold line up for a hard shut-in procedure whilst drilling?
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Choke line open to remote choke.
+
+        Remote choke closed.
+
+      BOP side outlet hydraulic valve (HCR) open.
+
+        Choke line open to remote choke.
+
+        Remote choke open.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Choke line open to remote choke.
+
+        Remote choke open.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Choke line open through manual choke.
+
+        Manual choke open.
+
+                                                  3 - 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+3.  The well kicks while tripping.
+
+    Which of the following actions should be taken to shut the well in using the hard shut in?
+
+         Stab full opening safety valve.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+        Space out for tool joint.
+
+         Close BOP.
+
+         Close choke.
+
+        Record pressure.
+
+        Space out for tool joint.
+
+         Close the BOP.
+
+         Stab full opening safety valve.
+
+         Close the safety valve.
+
+       Open choke.
+
+         Record pressure.
+
+         Stab full opening safety valve.
+
+         Close the safety valve.
+
+        Space out for tool joint.
+
+         Close BOP.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+        Record pressure.
+
+       Open side outlet hydraulic valve (HCR) and remote choke.
+
+        Space out for tool joint.
+
+         Close BOP.
+
+         Stab full opening safety valve.
+
+         Close safety valve.
+
+        Record pressure.
+
+4.  Which of the following practices would lead to a bigger influx when shutting the well in?
+
+   (THREE ANSWERS)
+
+         Regular training for the Derrickman on his duties for monitoring pit level.
+
+         Testing stab in valves during BOP tests.
+
+        Flow Check drilling break after 20 feet drilled.
+
+        Running regular pit drills for drill crew.
+
+         Calling Toolpusher to floor prior to shutting in the well.
+
+         Switching off the flow meter alarms while drilling.
+
+                                                  3 - 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+5. When tripping out of the hole with 40 stands still to pull the well flows.
+
+   How do we shut the well in using the soft shut-in method?
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+         Close BOP.
+
+         Stab full opening safety valve.
+
+         Close safety valve.
+
+         Close choke.
+
+        Record pressure.
+
+         Stab full opening safety valve.
+
+         Close the safety valve.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+         Close BOP.
+
+         Close choke.
+
+        Record pressure.
+
+         Close BOP.
+
+         Stab full opening safety valve.
+
+         Close the safety valve.
+
+       Open choke.
+
+        Record pressure.
+
+         Stab full opening safety valve.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+         Close BOP.
+
+         Close choke.
+
+        Record pressure.
+
+6. When picking up to check for flow the pumps are usually kept running, why?
+
+       To take a slow circulating rate pressure.
+
+       To check the pressure losses in the Annulus.
+
+       To clean the bottom of the hole of cuttings.
+
+       To maximise the pressure on the bottom of the hole.
+
+                                                  3 - 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+7.  Whilst tripping out of the hole the well starts flowing.
+
+   What is the first action that should be taken?
+
+         Stab a drillstring safety valve and shut the well in.
+
+          Pull back to shoe and shut in.
+
+       Run back to bottom as quickly as possible.
+
+         Close the Annular and make up the Top Drive or Kelly.
+
+8. Why should the well be shut in quickly after a kick has been detected?
+
+       To minimise the Shut In Drill Pipe Pressure (SIDPP).
+
+       To reduce the migration speed of the influx.
+
+       To minimise the size of the influx.
+
+9.  Put the following five steps in the correct sequence to shut the well in using the soft shut-
+
+    in procedure (according to API RP59).
+
+                .                    Close the BOP.
+
+                        Open the BOP side outlet hydraulic valve (HCR).
+
+                .                  With choke already open, position the drill sting correctly.
+
+   5                        Close the choke.
+
+                             Stop the pumps.
+
+10. What is the Choke Manifold line up for the soft shut-in procedure whilst drilling?
+
+      BOP side outlet hydraulic valve (HCR) open.
+
+        Choke line open through remote choke.
+
+        Remote choke open.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Choke line open through remote choke.
+
+        Remote choke closed.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Choke line open through manually operated choke.
+
+        Manual choke closed.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Choke line open through remote choke.
+
+        Remote choke open.
+
+                                                  3 - 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+11. Which of the following describes the hard shut-in procedure for a surface stack according
+
+    to API RP59?
+
+        With remote choke open, position the drill string correctly
+
+         Stop the pumps.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+         Close BOP.
+
+         Close the choke.
+
+        Record pressures.
+
+        With remote choke closed, position the drill string correctly.
+
+         Stop the pumps.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+         Close BOP.
+
+        Record pressures.
+
+        With remote choke closed, position the drill string correctly.
+
+         Stop the pumps.
+
+         Close BOP.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+        Record pressures.
+
+                                                  3 - 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+12. Which of the following describes the soft shut-in procedure when the well is observed to
+
+    be flowing while tripping?
+
+         Stab open drill pipe safety valve.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+        Space out to clear tool joints from Ram.
+
+         Close BOP.
+
+         Close choke.
+
+        Record pressure.
+
+       Open BOP side outlet hydraulic valve (HCR) and Remote choke.
+
+        Space out to clear tool joints from Ram.
+
+         Close BOP.
+
+         Stab open drill pipe safety valve.
+
+         Close drill pipe safety valve.
+
+         Close remote choke.
+
+        Record pressure.
+
+        Space out to clear tool joints from the Ram.
+
+         Close the BOP.
+
+         Stab open drill pipe safety valve.
+
+         Close drill pipe safety valve.
+
+       Open choke.
+
+        Record pressure.
+
+         Stab open drill pipe safety valve.
+
+         Close drill pipe safety valve.
+
+       Open BOP side outlet hydraulic valve (HCR).
+
+        Space out to clear tool joint from Ram.
+
+         Close BOP.
+
+         Close choke.
+
+                                                  3 - 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+13. When drilling with a surface BOP how should the stack and choke manifold be set up for
+
+    a soft shut-in?
+
+   (THREE ANSWERS)
+
+        Remote choke open.
+
+      BOP side outlet hydraulic valve open.
+
+        Remote choke closed.
+
+        Choke line open through remote choke.
+
+      BOP side outlet hydraulic valve (HCR) closed.
+
+        Choke line closed through remote choke.
+
+14. According to API RP59 which type of BOP can be used for the hard shut-in?
+
+        Annular BOP.
+
+          Either type of BOP can be used.
+
+      Ram BOP.
+
+15. Which of the following correctly describes the soft shut-in procedure according to API
+
+   RP 59?
+
+        With choke already open,
+
+          pick up off bottom,
+
+          shut down pumps,
+
+        open BOP side outlet hydraulic valve (HCR),
+
+          close the BOP,
+
+          close the choke,
+
+          record pressures.
+
+        With choke already closed,
+
+          pick up off the bottom,
+
+          shut down pumps,
+
+        open BOP side outlet hydraulic valve (HCR),
+
+          close the BOP,
+
+          record pressures.
+
+                                                  3 - 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+16. Which of the following describes the API RP59 hard shut-in procedure?
+
+        With choke already closed,
+
+          pick up off bottom,
+
+          shut down pumps,
+
+          close the BOP,
+
+        open BOP side outlet hydraulic valve (HCR),
+
+          record pressures.
+
+        With choke already open,
+
+          pick up off the bottom,
+
+          shut down pumps,
+
+        open BOP side outlet hydraulic valve (HCR),
+
+          close the BOP,
+
+          close the choke,
+
+          record pressures.
+
+                                                  3 - 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+17. Listed below are two procedures to Shut-in the well:
+
+         1.  With choke open, pick up off bottom, shut down pumps, open side outlet valve
+          on BOP, close BOP, close the choke, record pressures.
+
+         2.  With choke closed, pick up off bottom, shut down pumps, close BOP, open side
+              outlet valve on BOP, record pressures.
+
+      Which procedure above is:-
+
+       Hard Shut-in Procedure Number:    ________
+
+        Soft Shut-in Procedure Number      ________
+
+18. How should the Choke Manifold be lined up, when drilling, for a Soft Shut-in procedure?
+    (Tick the appropriate box below).
+
+       Tick here:
+
+                         a.         Side outlet valve on BOP closed.
+                         Choke Line open through remote adjustable choke.
+                          Remote adjustable choke closed.
+                       b.         Side outlet valve on BOP open.
+                         Choke Line open through manual choke.
+                          Remote choke open.
+                         c.         Side outlet valve on BOP open.
+                         Choke Line open through remote adjustable choke.
+                          Manual choke closed.
+                       d.         Side outlet valve on BOP closed.
+                         Choke Line open through remote adjustable choke.
+                          Remote adjustable choke open.
+
+19. Shallow Gas Kicks are less dangerous than deeper kicks because there is more time to
+    react to the warning signs.
+
+           True
+
+            False
+
+                                                  3 - 9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+20. How should the Choke Manifold be lined up, when drilling, for a Hard Shut-in
+    procedure? (Tick the appropriate box below).
+
+       Tick here:
+
+                         a.         Side outlet valve on BOP closed.
+                         Choke Line open through remote adjustable choke.
+                          Remote adjustable choke closed.
+                       b.         Side outlet valve on BOP open.
+                         Choke Line open through manual choke.
+                          Remote choke open.
+                         c.         Side outlet valve on BOP open.
+                         Choke Line open through remote adjustable choke.
+                          Manual choke closed.
+                       d.         Side outlet valve on BOP closed.
+                         Choke Line open through remote adjustable choke.
+                          Remote adjustable choke open.
+
+21. From the list of practices shown below, select those which lead to an increase in the size
+    of the influx? (Choose THREE answers).
+
+           Running regular pit drills for Drill Crew.
+
+             .    Switching off the flow meter alarms.
+
+           Regular briefing for the Derrickman on his duties regarding the monitoring of pit
+
+              level.
+
+             .    Drilling a further 15 ft after a Drilling Break, before flow checking.
+
+         e.   Calling Toolpusher to floor prior to shutting in the well.
+
+            Testing stab in valves during BOP tests.
+
+                                                  3 - 10
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+22. The well starts to flow when tripping out of the hole. Which of the following actions
+    should be taken to close the well in using the Soft Shut-in? (Choose ONE answer).
+
+         a.   Close the BOP
+             stab full opening safety valve
+           open choke
+             close the safety valve.
+
+             .    Stab full opening safety valve
+           open BOP side outlet hydraulic valve
+             close BOP
+             close choke.
+
+         c.  Open BOP side outlet hydraulic valve
+             close BOP
+             stab full opening safety valve
+             close choke
+             close safety valve.
+
+            Stab a full opening safety valve
+             close the safety valve
+           open BOP side outlet hydraulic valve
+             close BOP
+             close choke.
+
+23. When shutting in on a kick, which of the following are affected by formation
+    permeability? (Choose THREE answers).
+
+          Time for pressure to stabilise.
+
+          The bottom hole pressure.
+
+           SICP.
+
+          SIDPP.
+
+            Size of influx
+
+24. What steps should be taken to divert a shallow gas flow? (Choose ONE answer).
+
+          Slow pumps, space out and use choke to maintain a constant bottom hole
+            pressure until the well is dead.
+
+             .    Maintain or increase pump rate and activate Diverter.
+
+            Pick up and space out. Switch off pumps. Open downwind vent line, close
+            valve to shakers, close Diverter.
+
+                                                  3 - 11
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+25. Why is it important to shut the well in quickly if a kick is detected? (Choose ONE
+    answer).
+
+         a.  Keep kick volume as small as possible.
+
+            Prevent gas migration.
+
+         c.  Keep SIDPP as small as possible.
+
+26. What action should be taken if the well flows while Tripping out of the hole? (Choose
+  ONE answer).
+
+         a.   Install a safety valve on drill string and shut the well in.
+
+         b.  Run back to bottom immediately.
+
+          c.   Continue pulling out of hole.
+
+           Close BOP then install kelly or Top Drive.
+
+                                                  3 - 12
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+1. A well has been shut in on a kick. Which pressure gauge readings can be used to
+
+    determine formation pressure?
+
+   (TWO ANSWERS)
+
+          Drill pipe pressure gauge on the choke panel.
+
+        Casing pressure gauge on the choke panel.
+
+          Drill pipe pressure gauge on the Driller’s panel.
+
+        Choke manifold pressure gauge.
+
+2. A well is shut in on a kick and drill pipe pressure recorded. The casing gauge is not
+
+    working. Which pressure cannot found?
+
+            Initial Circulating Pressure.
+
+         Shut In Casing Pressure.
+
+        Bottom hole pressure.
+
+         Formation pressure.
+
+3.  Which of the following affect the Shut In Drill Pipe Pressure?
+
+   (TWO ANSWERS)
+
+      Mud weight in drillstring.
+
+         Size of Influx.
+
+        Annular volume from Bit to Shoe.
+
+          Influx gradient.
+
+        Formation fluid pressure.
+
+4. Why is Shut In Drillpipe Pressure usually lower than Shut In Casing Pressure?
+
+        The influx fluid is usually less dense than the mud.
+
+        The cuttings in the annulus are lighter, therefore creating a lighter hydrostatic.
+
+        The only difference is in the type of gauges used.
+
+        The casing pressure is not always higher; it depends on whether it is a land or
+
+          offshore rig.
+
+                                                            4- 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+5. A vertical well with a surface BOP stack is shut in on a kick. The pressure readings are
+
+    as follows:
+
+    Shut In Pipe Pressure                   350 psi
+
+    Shut In Casing Pressure                 450 psi
+
+   What is the reason for the difference in the two readings?
+
+        The influx is inside the drillstring.
+
+        The influx has a lower density than the mud.
+
+        The BOP was closed too fast causing trapped pressure.
+
+        The influx has a higher density than the mud.
+
+6.  Which pressures are needed to calculate Shut In Drill Pipe Pressure?
+
+   (TWO ANSWERS)
+
+         Fracture pressure.
+
+        Shoe pressure.
+
+         Hydrostatic pressure.
+
+         Formation pressure.
+
+7.  Whilst pumping why can the standpipe pressure be slightly lower than the pressure shown
+
+   on the gauge at the mud pump?
+
+         Hydrostatic pressure of the mud in the standpipe causes the difference.
+
+        Dynamic pressure losses from the pump to the standpipe affect the readings.
+
+       The stand pipe pressure gauge is situated at a lower elevation than the gauge at the
+
+        pump.
+
+8.  Whilst drilling ahead, the well kicks and is shut in. Drill pipe pressure and casing
+
+    pressure both start to build up, but before stabilising both start to drop quite rapidly.
+
+   Which of the following might have occurred?
+
+        Gas is to migrating up the well.
+
+        The drill string has washed out.
+
+        The bottom hole assembly has packed off.
+
+        Both gauges have malfunctioned.
+
+      A weak formation has broken down.
+
+                                                            4- 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+9. A well has been shut in on a kick. The drill pipe pressure is zero because there is a float
+
+    (non-return) valve in the string.
+
+   How can you find the Shut In Drill Pipe Pressure?
+
+         Bring the pump up to kill rate holding the casing pressure constant by opening the
+
+         choke. The pressure shown when the pump is at kill rate is the Shut In Drill Pipe
+
+          pressure.
+
+         Shear the pipe and read the drill pipe pressure directly off the casing gauge.
+
+       Pump very slowly into the drill string with the well shut in. When casing pressure
+
+            starts to rise, stop the pump and read the pressure. This is the Shut In Drill Pipe
+
+          pressure.
+
+       Pump at 2 barrels per minute into the annulus with the well shut in. When the
+
+          pressure equalises the float will open. This pump pressure is the Shut In Drill Pipe
+
+          pressure.
+
+10. A well has kicked, and is shut in. There is a float valve in the drill string.
+
+   What would be the correct course of action to determine the kill mud weight?
+
+       Pump very slowly into the drill string with the well shut in. When the casing
+
+         pressure rises the float valve has opened. This pressure on the drill pipe gauge is the
+
+        Shut In Drill Pipe Pressure.
+
+          Start raising the mud weight by 0.5 ppg increments until the well is dead.
+
+       Remove Kelly and drop float-opening tool.
+
+        Use the annulus pressure to calculate the kill mud weight.
+
+11. A well has kicked with a float in the drill string and the Shut In Drill Pipe Pressure gauge
+
+    reads zero.
+
+   Which of the following methods should be used to find the kill mud weight?
+
+         Calculate hydrostatic pressure of the influx and subtract from the Shut In Casing
+
+          Pressure.
+
+          Start circulating at the slow circulating rate, determine the Initial Circulating
+
+          Pressure and calculate the Shut In Drill Pipe Pressure.
+
+       Pump very slowly into the drill pipe with the well shut in. When the casing
+
+          pressure rises the float has opened. The pressure on the drill pipe is the Shut In
+
+           Drill Pipe Pressure.
+
+                                                            4- 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+12. Shut In Casing Pressure is usually higher than Shut In Drill Pipe Pressure.
+
+     If there was a large volume of cuttings in the annulus how would this effect pressure
+
+    readings?
+
+         Shut In Casing Pressure would be higher than expected.
+
+             It would not affect pressure readings.
+
+         Shut In Casing Pressure would be lower than expected.
+
+13. Which of the following parameters affect the value of Shut In Casing Pressure after a well
+
+     is shut in during a kick?
+
+   (THREE ANSWERS)
+
+        The formation fluid pressure (pore pressure).
+
+        Bottom hole temperature.
+
+        Annulus capacity.
+
+        The kick volume.
+
+        Choke line length.
+
+          Drill string capacity.
+
+14. Once the well is shut in, which factors determine the time taken for Shut In Drill Pipe
+
+    Pressure and Shut In Casing Pressure to stabilise?
+
+          Porosity.
+
+          Permeability.
+
+        Gas migration.
+
+          Friction losses.
+
+15. Which of the following are affected by formation permeability.
+
+   (THREE ANSWERS)
+
+       SICP
+
+       Time for pressures to stabilise
+
+        ICP
+
+          Kill Mud Weight
+
+          Influx volume
+
+       SIDPP
+
+                                                            4- 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+16. When drilling a horizontal section of a well a gas kick is taken and the well shut in.
+
+     If the influx is in the horizontal section what would you expect the SIDPP and SICP to
+
+    be?
+
+        Both are about the same.
+
+       SICP is much greater than the SIDPP.
+
+       SIDPP is much greater than the SICP.
+
+       SIDPP will be zero.
+
+17. A well is shut in with a gas kick.
+
+   The bit is 90 feet off bottom and the influx is on bottom and 30 feet long (all the influx is
+
+   below the bit).
+
+    Shut In Drill Pipe Pressure is 300 psi.
+
+   What is the Shut In casing Pressure likely to be?
+
+        Lower than the Shut In Drill Pipe Pressure because of the effect of the annular
+
+           friction loss.
+
+        Higher than the Shut In Drill Pipe Pressure.
+
+        The same as the Shut In Drill Pipe Pressure.
+
+         Will depend on gradient of the influx.
+
+18. The well is shut in on a kick after an extended period of fast drilling.
+
+   What would you expect the Shut In Casing Pressure to be?
+
+        Lower than if the drilling had been slow.
+
+        Higher than if drilling had been slow.
+
+        The same, whether the annulus is clean or loaded with cuttings.
+
+                                                            4- 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+19. WELL DATA
+
+    Shut In Drill Pipe Pressure    = 300 psi
+
+   Mud weight               = 10.0 ppg
+
+  A salt-water kick has been taken, filling 250 feet of the annulus.
+
+    Salt Water weight           = 8.6 ppg
+
+   From the data above calculate the Shut In Casing Pressure?
+
+        18 psi.
+
+        318 psi.
+
+        430 psi.
+
+        412 psi.
+
+20. A well is shut in after a kick.
+
+  TVD                                    9,500 feet
+
+   Mud weight                          10 ppg
+
+    Shut In Drill Pipe Pressure               400 psi
+
+    Height of influx                       700 feet
+
+    Influx gradient                             0.1 psi/ft
+
+    Calculate the Shut In Casing Pressure?
+
+        70 psi.
+
+        765 psi.
+
+        695 psi.
+
+        700 psi.
+
+21. A well is shut in on a kick and the pressures have stabilised. Due to equipment problems
+
+    the kill operation is delayed. Shut in Drill Pipe Pressure and Shut In Casing Pressure are
+
+    gradually rising after stabilisation.
+
+   What is the most likely cause of this?
+
+        There is a non-return valve in the BHA.
+
+        The mud in the hole is heating up and it is causing the volume to decrease.
+
+        The influx is gas and is migrating.
+
+        The formation that kicked has high permeability.
+
+                                                            4- 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+22. What could happen if gas migrates after a well is shut in and pressures have stabilised?
+
+        Only the drill pipe pressure will increase.
+
+         Shut in pressures will remain constant.
+
+        Both drill pipe and annulus pressures will increase.
+
+        Only the annulus pressure will increase.
+
+23. A well is shut in following a kick whilst drilling. After pressures have been stabilised,
+
+    both drill pipe and casing pressures are observed to be gradually increasing by the same
+
+    amount.
+
+   What is the most likely reason for this?
+
+        The influx is gas and is migrating up the annulus and drill string.
+
+        The influx is gas and is migrating up the annulus.
+
+        The influx is gas and is migrating up the drill string.
+
+        The influx is gas and is expanding rapidly.
+
+24. A vertical well is shut in with a gas kick. Surface Pressures are:
+
+   SIDPP      = 500 psi
+
+   SICP       = 600 psi
+
+   Mud Weight  = 11.5 ppg
+
+     If the gas migrates 500 feet up the well what would the pressures be if no action is taken?
+
+          Drillpipe = 800 psi, Casing = 900 psi
+
+          Drillpipe = 500 psi, Casing = 900 psi
+
+          Drillpipe = 800 psi, Casing = 600 psi
+
+          Drillpipe = 600 psi, Casing = 900 psi
+
+25. A well is shut in on a kick. SIDPP = 400 psi. SICP = 600 psi.
+
+   Mud Weight = 13 ppg      Influx gradient = 0.1 psi/ft
+
+    After 30 minutes both pressures have risen by 150 psi due to gas migration. Calculate the
+
+    speed of gas migration in feet per hour.
+
+        325 ft/hr
+
+        444 ft/hr
+
+        590 ft/hr
+
+        200 ft/hr
+
+                                                            4- 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+26. A vertical well has been shut in after a gas kick.
+
+   The surface pressures are as follows:-
+
+    Shut In Drill Pipe Pressure (SIDPP)            = 500 psi
+
+    Shut In Casing Pressure (SICP)               = 700 psi
+
+   Mud weight in the well                     = 12.0 ppg
+
+   The well is left shut in for some time, during which time the gas migrates 500 feet up the
+
+    well. What will be the expected pressures at surface?
+
+          Drill pipe pressure – 812 psi, Casing pressure – 1,012 psi.
+
+          Drill pipe pressure – 500 psi, Casing pressure – 700 psi.
+
+          Drill pipe pressure – 812 psi, Casing pressure – 700 psi.
+
+          Drill pipe pressure – 500 psi, Casing pressure – 1,012 psi.
+
+                                                            4- 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+27. Which of the following affect the choice of slow circulation rate? (Choose THREE
+    answers).
+
+           Casing burst pressure.
+
+           Annular friction losses.
+
+             Ability to mix kill mud.
+
+          Volume of trip tank.
+
+            Size of choke and Choke Lines.
+
+28. Which of the following statements about slow circulating rates (SCR) are correct?
+   (Choose THREE answers).
+
+          SCR’s should be taken through the choke manifold..
+
+          SCR’s are needed to calculate formation pressure
+
+          SCR’s should be taken when mud properties are changed.
+
+             .   SCR’s should be read on the drill pipe pressure gauge at the remote choke panel.
+
+          SCR’s should be taken with the bit near the bottom
+
+29. Which of the following can determine the SPM chosen to kill the well? (Choose TWO
+    answers).
+
+          Volume of mud in the drill pipe.
+
+         Maximum pressure the pump can handle.
+
+          Volume of mud in the Annulus.
+
+            Viscosity of the mud.
+
+30. When should the Driller consider taking a slow circulation rate pressure? (Choose TWO
+    answers).
+
+          At beginning of each shift.
+
+            After the well has been shut in on an influx.
+
+           Before running casing.
+
+            After mud weight change.
+
+31. Select the reason for circulating out a kick at a slow pump rate. (Choose ONE answer).
+
+            Prevent gas expansion as it is circulated up the well.
+
+          Allow Annular Pressure loss to maintain a high overbalance.
+
+           Minimise excess pressure exerted on formations during the kill.
+
+                                                            4- 9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+32. Tick 5 situations, from the following list, under which you would consider taking a new
+   SCR.
+
+         a.   Every shift.
+
+          __________
+
+         b.   Before and after a leak-off test.
+
+          __________
+
+         c.  Mud property changes.
+
+          __________
+
+         d.  Mud weight changes.
+
+          __________
+
+         e.   After each connection when drilling with top drives.
+
+          __________
+
+           f.   After recharging mud pump pulsation dampener.
+
+          __________
+
+         g.  When long sections of hole are drilled rapidly.
+
+          __________
+
+         h.  When returning to drilling after a kick.
+
+          __________
+
+33. An influx is to be displaced from the hole at a pump rate slower than used when drilling.
+   Why? (Choose FOUR answers).
+
+         a.   Allow Choke Operator time to make the necessary
+           choke adjustments.
+
+          __________
+
+         b.  To reduce damage to the pump.
+
+          __________
+
+         c.   Minimise Pressures in the wellbore.
+
+          __________
+
+         d.  To allow kick fluids to be handled at surface.
+
+          __________
+
+         e.  To reduce gas migration.
+
+          __________
+
+        d. To reduce the chance of overloading the mud gas separator.
+          __________
+
+                                                            4- 10
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+34. Which of the following would cause pump pressure to increase if pumping at a constant
+   SPM? (Choose TWO answers).
+
+         a.   Using larger nozzles.
+
+         b.   Drilling deeper.
+
+         c.  When the mud weight is reduced.
+
+            Increasing the mud viscosity.
+
+35.   Mud density = 12 ppg
+      Pump pressure = 750 psi at 60 SPM
+
+        Calculate approximate pump pressure if mud weight is:-
+
+         a.      Increased to 13 ppg
+
+             Answer _________________ psi
+
+         b.     Decreased to 11 ppg
+
+             Answer _________________ psi
+
+36. Which of the following determines the SIDPP. (Choose TWO answers).
+
+             Influx density.
+
+             Influx size.
+
+        Mud density inside the drillstring.
+
+           Formation fluid pressure.
+
+            Cuttings volume in the Annulus.
+
+37. Which pressure gauge readings could be used to calculate formation fluid pressure?
+   (Choose TWO answers).
+
+             .    Accumulator Gauge.
+
+           Casing Pressure Gauge on Choke panel.
+
+              Drill Pipe Pressure Gauge at Driller’s console.
+
+         c.   Drill Pipe Pressure Gauge on Choke panel.
+
+                                                            4- 11
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+38. What action should be taken if a well is shut-in and a float is in the string? (Choose ONE
+
+    answer).
+
+         a.   Calculate kill mud density using Shut-in Casing Pressure.
+
+         b.   Raise the mud density by 0.5 ppg increments until the well is dead.
+
+         c.  Pump very slowly into the drill string with the well shut in. When the pump
+             pressure stabilises, the float valve should have opened. This pressure is the
+            Shut-in Drill Pipe Pressure.
+         d.  Remove Top Drive or kelly and install a float opening tool.
+
+39. Why is casing pressure usually higher than the shut-in drill pipe pressure: (Choose ONE
+    answer).
+
+         a.  Choke Line is larger in diameter than Kill Line.
+
+             .   The influx fluid is usually lighter than the mud weight in the hole.
+
+         c.  The Choke Line is longer than the Kill Line.
+
+            Cuttings in the Annulus help reduce the hydrostatic pressure.
+
+40. In a well kick situation, SICP is normally greater than SIDPP.  If the Annulus was loaded
+
+    with cuttings at the time of Shut-in, how would this affect SICP compared to a clean
+
+   Annulus? (Choose ONE answer).
+
+          SICP would be higher.
+
+          SICP would be lower.
+
+          SICP would be the same.
+
+41. After a kick is taken and the well shut-in, it can take 5-10 minutes or more for the
+    pressures to build up. What affects the time for this build up? (Choose ONE answer).
+
+             Friction losses
+
+          Gas migration
+
+         c.   Formation Porosity
+
+         d.  Formation Permeability
+
+42. Why would the pump pressure gauge on the rig floor read a lower pressure than the gauge
+   on the pump?  (Choose ONE answer).
+
+          The pressure loss from the pump to the rig floor affects the readings.
+
+          The pump pressure gauge on the rig floor is lower than the gauge on the pump.
+
+          The mud is less dense at the pump.
+
+                                                            4- 12
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+43. How can we establish SIDPP if there is a float in the string? (Choose ONE answer).
+
+         a.   Bring the pump up to kill rate holding Casing Pressure constant. Once up to
+            speed, the pump pressure is SIDPP.
+
+             .   Pump slowly into the drill pipe with the well shut-in. When the pump pressure
+               stabilises, the float has opened. This pump pressure is the SIDPP.
+
+         Pump at kill rate into the drill string with the well shut in. When Casing
+             pressure starts to rise, read the pump pressure. This is SIDPP.
+
+          Reduce SICP by 20%.
+
+44. After SIDPP and SICP have stabilised, it is noticed that they both start slowly rising by
+    the same amount. What is the probable cause of this? (Choose ONE answer).
+
+          Remote choke is leaking.
+
+             Influx migration up the bore.
+
+         Pumps are being operated at slow circulating rate.
+
+            Second influx.
+
+45. The Shut-in Casing Pressure (SICP) is used to: (Choose ONE answer).
+
+             Establish the true Initial Circulating Pressure at start up.
+
+            Calculate kill mud weight.
+
+            Calculate Initial Circulating Pressure.
+
+46. A well that kicked was Shut-in. While waiting, it is noted that the SIDPP and SICP are
+     still rising after several hours. What is the most likely cause of this? (Choose ONE
+    answer).
+
+          The influx is migrating.
+
+          The formation has a high permeability.
+
+          The non-return valve in the string is leaking.
+
+          The mud in the hole is heating up, causing the volume to decrease.
+
+                                                            4- 13
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+47.    SIDPP          =  700 psi
+      SICP           =  900 psi
+     Mud Weight      =  13.5 ppg
+        Influx Gradient    =  0.15 psi/ft
+
+        After 30 minutes, both SIDPP and SICP have risen by 150 psi. Calculate speed in
+        ft/hour that influx is migrating. (Choose ONE answer).
+
+          214 ft/h
+
+          427 ft/h
+
+          14 ft/h
+
+          28 ft/h
+
+48. Well has been shut-in on a kick..
+
+        Shut-in drill pipe pressure is                  :      400 psi
+        Shut-in casing pressure is                      :      600 psi
+
+       Both pressures start rising due to gas migration.  If Casing pressure is held constant at
+       600 psi, what will happen to the bottom hole pressure?
+
+             Increase.
+
+            Decrease.
+
+            Stay constant.
+
+49.   TVD                      :      8000 FT
+     Mud density           :      10 ppg
+      SIDPP                    :      600 psi
+       Height of influx      :      700 ft
+        Influx density         :       0.1 psi/ft
+
+        Calculate Shut-in Casing Pressure (SICP). (Choose ONE answer).
+
+          700 psi
+
+          600 psi
+
+          294 psi
+
+          894 psi
+
+                                                            4- 14
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+50.     Salt Water kick weight =  320 ft
+        Influx Gradient      =  0.45 psi/ft
+     Mud Weight in hole   =  11.2 ppg
+      SIDPP             =  350 psi
+
+        Calculate SICP:- (Choose ONE answer).
+
+          42 psi
+
+          128 psi
+
+          392 psi
+
+          478 psi
+
+51. When pumping at 80 SPM the pump pressure = 4000 psi. What would be approximate
+   pump pressure if pumps were slowed to 40 SPM? (Choose ONE answer).
+
+          500 psi.
+
+             .    800psi.
+
+         c.   1000 psi.
+
+          2000 psi.
+
+52. Killing the well at 40 SPM with 750 psi pump pressure.  If SPM was increased to 50 and
+   pump pressure held constant at 750 psi, what would happen to bottom hole pressure?
+   (Choose ONE answer).
+
+                 It will increase.
+
+                 It will stay constant.
+
+                 It will decrease.
+
+                                                            4- 15
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+53. From the statements below select the correct reason for circulating a kick at a slow rate.
+
+        Minimise pressure exerted on formations during the kill operation.
+
+        Minimise expansion of gas influx to reduce casing pressure during the kill
+
+          operation.
+
+        Give sufficient pressure loss in the annulus to give greater overbalance during the
+
+            kill operation.
+
+54. Which of the following determine the selection of the slow circulation rate?
+
+   (FOUR ANSWERS)
+
+         Trip tank volume.
+
+        The mud/gas separator handling capacity.
+
+        The volume of mud the choke can handle.
+
+         Capacity of mud mixing equipment.
+
+        Annular friction loss during the kill.
+
+        The burst pressure of the casing.
+
+55. With a constant flow rate, which factors will increase the circulating pressure?
+
+   (TWO ANSWERS)
+
+       When bit nozzle size is increased.
+
+       When hole is drilled deeper.
+
+       When more drill collars are added.
+
+       When mud weight is reduced.
+
+56. Slow circulation rate tests are made at different pump rates (spm).
+
+   Which of the following help you decide which pump rate is used?
+
+   (TWO ANSWERS)
+
+      Mud pump pressure limitation.
+
+        Mud/gas separator capacity.
+
+        Depth of Casing Shoe.
+
+                                                            4- 16
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+57. Prior to drilling out the surface casing shoe the slow circulating rates are taken.
+
+   Which of the following determines the choice of pump rate?
+
+        The size of the surface casing.
+
+        Gas handling equipment limitation and kill mud-mixing capability.
+
+        The expected Shut In Casing Pressure.
+
+        The volume of the trip tank.
+
+58. When should a Driller consider taking a slow circulation rate pressure?
+
+   (TWO ANSWERS)
+
+        Every time mud weight is changed.
+
+        At the beginning of each shift.
+
+        Only after drilling out the casing shoe.
+
+         Immediately before running casing.
+
+59. Which of the following statement about slow circulating rate pressure are correct?
+
+   (THREE ANSWERS)
+
+        Should be recorded when mud properties have changed significantly.
+
+        Recorded on the drill pipe pressure gauge on the choke panel.
+
+        The recorded pressures are used to calculate formation pressure.
+
+        Recorded with the bit near bottom.
+
+60. The equivalent circulating density (ECD) determines the actual bottom hole pressure
+
+    while circulating.
+
+   Which part of the system pressure losses used to calculate ECD?
+
+        The pressure loss in the annulus.
+
+        The pressure loss in the open hole section only.
+
+        The pressure loss across the nozzles.
+
+        The pressure loss in the drill string.
+
+        The pressure loss in the surface system.
+
+                                                            4- 17
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+61. A vertical well is 5500 feet deep and filled with 11.2 ppg mud. While circulating at 100
+
+   spm the friction losses in the well are as follows:
+
+   150 psi through surface equipment.
+
+   900 psi in drill string.
+
+    1,700 psi through bit nozzles.
+
+   100 psi in annulus.
+
+   What is the bottom hole pressure when the pumps are running at 100 spm?
+
+                                  psi
+
+62. A vertical well is 5,520 feet deep and filled with 11.2 ppg mud. While circulating at 100
+
+   spm the friction losses in the well system are as follows:
+
+   150 psi pressure loss through surface equipment.
+
+   900 psi pressure loss in drill string.
+
+    1,700 psi pressure loss through bit nozzles.
+
+   100 psi pressure loss in annulus.
+
+   What is the pump pressure when circulating at 100 spm?
+
+                                  psi
+
+63. At 60 strokes/minute, with a mud weight of 12 ppg, the circulating pressure is 600 psi.
+
+   What would be the approximate circulating pressure (at the same spm) if the mud weight
+
+   were raised to 13 ppg?
+
+                                  psi
+
+64. When circulating the drilling mud at 80 spm, the pressure on the standpipe gauge reads
+
+    3,000 psi.
+
+   What would the calculated standpipe pressure be if the pump speed were reduced to 40
+
+   spm?
+
+        Approximately 500 psi.
+
+        Approximately 600 psi.
+
+        Approximately 750 psi.
+
+        Approximately 1500 psi.
+
+                                                            4- 18
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+65. At 60 spm, with 10 ppg mud, the pump pressure is 1,500 psi.
+
+   What would the pump pressure be if the rate were decreased to 20 spm and the mud
+
+    weight increased to 11.0 ppg?
+
+        167 psi.
+
+        183 psi.
+
+        204 psi.
+
+        262 psi.
+
+                                                            4- 19
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+1.  After setting casing, which of the following actions are normally taken prior to making a
+
+    leak-off test?
+
+   (TWO ANSWERS)
+
+       Run bit close to bottom.
+
+          Circulate the mud to get a uniform column of mud in the hole.
+
+          Drill out the casing shoe approximately 15 feet into new formation.
+
+         Line up the mud pump to do the leak-off test at the slow circulating rate.
+
+2. When should a leak-off test be carried out?
+
+         Before drilling out casing shoe.
+
+         Before running casing.
+
+         Immediately after running and cementing casing.
+
+         After drilling out the casing shoe and 5 to 15 feet of new formation.
+
+3.  Which of the following are needed for the calculation of an accurate formation strength at
+
+    the shoe?
+
+   (THREE ANSWERS)
+
+         Accurate pressure gauge.
+
+         Accurate stroke counter.
+
+         Accurate hole capacity
+
+         Exact vertical depth of casing shoe.
+
+          Installation of retrievable packer approximately 1000 feet below the rig floor.
+
+         Constant mud weight around the well.
+
+4.  Which of the following need to be known for a leak-off test to be correct?
+
+   (TWO ANSWERS)
+
+        The mud weight in the well.
+
+        The volume of mud in the annulus from casing shoe to surface.
+
+        Slow circulating rate.
+
+        The pressure limit for the mud pump.
+
+      Mud hydrostatic pressure in the casing annulus.
+
+                                                            5- 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+5.  Which of the following could influence the leak-off test result?
+
+   (TWO ANSWERS)
+
+        The pressure limit for the mud pump.
+
+        The planned pump rate for drilling.
+
+        Casing burst pressure.
+
+        The mud volume in the casing annulus.
+
+        The mud hydrostatic pressure at the casing shoe.
+
+6.  To ensure that an accurate leak-off test result a number of parameters must be accurately
+
+    recorded.
+
+    Select those parameters from the following.
+
+   (THREE ANSWERS)
+
+        Measured depth of the casing shoe.
+
+      Mud volume in the casing.
+
+        Pumping time till leak-off starts.
+
+        True vertical depth of the casing shoe.
+
+      Mud volume pumped till leak-off starts.
+
+      Mud Weight in hole.
+
+7.  The casing shoe has been drilled and 10 feet of new hole made. A leak-off test is to be
+
+    taken. The mud is being conditioned to make the weight the same around the well.
+
+   Which of the following would help give an accurate leak-off test result?
+
+         Condition the mud until the mud weight in the well is constant before conducting
+
+          the leak-off test.
+
+         Stop the pump after 5 barrels and record the drill pipe pressure as leak-off.
+
+        Choose the lightest mud weight in the hole and use it in the leak-off test result.
+
+        Slowly pump water down the annulus with the cement pump and record the
+
+          pressure.
+
+                                                            5- 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+8.  Which of the following is a definition of MAASP?
+
+       The pressure in excess of mud hydrostatic that, if exceeded, is likely to cause losses
+
+           at the shoe.
+
+        The maximum pressure allowed in the hole during a kill operation.
+
+       The maximum pressure allowed on the drill pipe gauge during a kill operation.
+
+        The total pressure applied at the shoe that is likely to cause losses.
+
+9.  Shoe TVD = 6000 feet.
+
+   Mud Weight = 11 ppg
+
+    Leak-off pressure = 900 psi
+
+    Calculate the maximum allowable mud weight.
+
+                    ppg
+
+10. WELL DATA:
+
+     13-3/8 inch casing is set at 5,210 feet TVD. Formation strength at the shoe is 3,800 psi.
+
+     Current Mud Weight = 10.6 ppg.
+
+    What is the Maximum Allowable Annulus Surface Pressure (MAASP)
+
+         2,050 psi.
+
+        555 psi.
+
+        928 psi
+
+         1,800 psi.
+
+11. Which of the following conditions in the well increase the risk of exceeding MAASP
+
+    during a kill operation?
+
+   (THREE ANSWERS)
+
+        Small difference between formation breakdown pressure and mud hydrostatic
+
+          pressure.
+
+        Small influx.
+
+        Large difference between formation breakdown pressure and mud hydrostatic
+
+          pressure.
+
+       Long open hole section.
+
+        Large influx.
+
+         Short open hole section.
+
+                                                            5- 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+12. What will happen to MAASP if Mud Weight is increased?
+
+      MAASP will stay the same.
+
+      MAASP will increase.
+
+      MAASP will decrease.
+
+13. Which of the following affect Maximum Allowable Annular Surface Pressure (MAASP)?
+
+   (THREE ANSWERS)
+
+        The TVD of the last casing shoe.
+
+        The maximum pump pressure.
+
+        The mud weight in the hole.
+
+         Viscosity and water loss of the mud.
+
+        The fracture pressure of the formation at the shoe.
+
+        The ID of the last casing string.
+
+14. When should MAASP be recalculated?
+
+        At the beginning of each shift.
+
+         Immediately before entering a reservoir.
+
+         After each bit change.
+
+         After changing the mud weight.
+
+15. Which of the following would give the highest MAASP?
+
+      When formation breakdown pressure is much higher than mud hydrostatic pressure.
+
+        The casing shoe is set deep.
+
+       When formation pressure is close to mud hydrostatic pressure.
+
+        The casing shoe is set close to surface.
+
+                                                            5- 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+16. Which of the following have to be performed before taking a leak-off test? (Choose
+   THREE answers).
+
+             Circulate the mud to get same weight all the way around.
+
+           Line up through kill line and pump at the slow circulating rate
+
+         To prevent damage to the formation, raise the bit up inside the shoe.
+
+              Drill out the Casing Shoe and approximately 15 ft into new formation..
+
+         To minimise chance of stuck pipe, raise the bit up inside the shoe.
+
+17. Which of the following could influence the leak-off test result? (Choose TWO answers).
+
+          Volume of mud in the well.
+
+          The slow circulating rate (SCR).
+
+           Having mud of different densities around the well.
+
+         Maximum pressure mud pump can handle.
+
+        Mud hydrostatic in the Annulus.
+
+18. When should a leak-off test be carried out? (Choose ONE answer).
+
+           While waiting on cement to harden.
+
+            After drilling out Casing Shoe 5 to 15 ft in new formation.
+
+           Before running casing.
+
+           Before drilling out the Casing Shoe.
+
+19. Which of the following conditions help to obtain an accurate formation strength at the
+
+    shoe? (Choose THREE answers).
+
+         Good pressure test of surface equipment.
+
+          Working SPM gauge.
+
+            Calibrated pressure gauges.
+
+           Clean mud in well.
+
+           Accurate measured depth of Casing Shoe.
+
+           Accurate calculation of Annular Volume.
+
+                                                            5- 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+20. At what pressure does leak-off begin to take place in the graph below?
+
+       1200
+
+       1000
+
+       800            Pressure
+      Pump 600                  Vertical Depth = 8500 ft.       400
+                    Mud Weight = 12.3 ppg
+       200
+
+                   Volume Pumped
+
+                   Answer ____________________ psi
+
+21. The Casing Shoe has been drilled out and 15 ft of new hole made. A leak-off test is to be
+    carried out, but the mud in the wellbore is not the same density all round. Which of the
+    following actions would give the most accurate leak off test results? (Choose ONE
+    answer).
+
+         a.   Stop the pump after 10 barrels has been pumped then read the drill pipe
+             pressure.
+
+             .    Condition the mud until mud density in the well is constant. Then carry out the
+             leak-off test.
+
+         Pump at Slow Circulating Rate until fracture pressure is reached.
+
+             .   Pump down drill string at Slow Circulating Rate and read drillpipe pressure.
+
+                                                            5- 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+22. Calculate the initial fracture pressure at the Casing Shoe using the leak-off plot below.
+
+       1400
+
+       1200
+
+       1000
+
+       800          Pressure
+     Pump 600                  Vertical Depth = 8760 ft.       400
+                   Mud Weight = 11.3 ppg
+       200
+
+                  Volume Pumped
+
+                    Answer: initial fracture pressure = __________________ psi.
+
+23. Which of the following is a definition of MAASP? (Choose ONE answer).
+
+          The maximum pressure rating of the choke.
+
+          The pressure above mud hydrostatic that is likely to cause losses at the shoe
+
+            formation
+
+          The pressure at the shoe which causes losses.
+
+          The maximum bottom hole pressure allowed during a kill operation.
+
+24. What happens to MAASP if the mud weight is increased? (Choose ONE answer).
+
+       MAASP will increase.
+
+       MAASP will decrease.
+
+       MAASP will stay the same.
+
+                                                            5- 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+25. Which of the following increase the risk of exceeding MAASP during a well kill?
+   (Choose THREE answers).
+
+            Short section of open hole.
+
+           Large influx.
+
+           Small influx.
+
+           Large overbalance.
+
+         e.   Small overbalance.
+
+          Long section of open hole.
+
+26. Which of the following can affect MAASP. (Choose THREE answers).
+
+           Annular Volume.
+
+        pH of the mud.
+
+          Shoe Depth.
+
+        Mud Weight.
+
+          The maximum pressure the pump can handle.
+
+          The fracture pressure of the formation at the Casing Shoe.
+
+27. 9 5/8 inch casing set at 8900 ft TVD. Formation strength at the shoe is 6350 psi. Mud
+   Weight is 11 ppg.
+
+        Calculate MAASP? (Choose ONE answer).
+
+          5091 psi.
+
+          1260 psi.
+
+          3832 psi.
+
+          685 psi.
+
+28.   When should MAASP be recalculated? (Choose ONE answer).
+
+          At top of the reservoir.
+
+            After changing mud weight.
+
+           Every 12 hours.
+
+          At casing setting point.
+
+                                                            5- 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+1.  Which of the following statements are true?
+
+   (TWO ANSWERS)
+
+        The surface line volume (pump to Rig Floor) does not need to be considered when
+
+           starting the kill.
+
+         Bring pumps must be brought up to speed holding the casing pressure constant.
+
+        The surface line volume will affect the time at which the kill mud will increase
+
+         bottom hole pressure.
+
+         Maintain the drill pipe pressure constant when bringing the pumps up to kill speed.
+
+2. When is Shut In Casing Pressure used in well control.
+
+       To calculate the slow circulating rate.
+
+       To calculate kill mud weight.
+
+       To maintain bottom hole pressure constant during pump start up.
+
+3.  With a surface BOP what will happen if, when bringing the pumps up to kill speed, the
+
+    casing pressure is allowed to increase above Shut In Casing Pressure?
+
+      No change to downhole pressure.
+
+       Downhole pressure would decrease and possibly cause more influx to enter the
+
+         wellbore.
+
+        Downhole pressure would increase and may exceed formation fracture.
+
+                                                  6 - 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+4. WELL DATA
+
+   Slow circulation rate pressure            400 psi at 40 spm
+
+   The well has been shut in after a kick: -
+
+    Shut In Drill Pipe Pressure               300 psi
+
+    Shut In Casing Pressure                 700 psi
+
+    Circulation is started with the original mud. While the pump is being brought up to 40
+
+   spm which pressure must be held constant to maintain the correct bottom hole pressure?
+
+         1,000 psi at the casing gauge.
+
+        700 psi at the casing gauge.
+
+        700 psi at the drill pipe gauge.
+
+        1100 psi at the drill pipe gauge.
+
+5.  During a kill operation the choke is adjusted to increase drill pipe pressure by 100 psi.
+
+  SPM is held constant.
+
+   What will happen to the bottom hole pressure?
+
+             It will remain constant.
+
+             It will decrease.
+
+             It will increase.
+
+6.  During a kill operation the choke is adjusted to increase drill pipe pressure by 100 psi.
+
+  SPM is held constant.
+
+   What will happen to the casing shoe pressure?
+
+             It will decrease.
+
+             It will remain constant.
+
+             It will increase.
+
+                                                  6 - 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+7.  During a kill operation the choke is adjusted to increase drill pipe pressure by 100 psi.
+
+  SPM is held constant.
+
+   What will happen to the choke pressure?
+
+             It will increase.
+
+             It will decrease.
+
+             It will remain constant.
+
+8.  Whilst drilling a horizontal well a fault is crossed and a kick is taken. The well is shut in.
+
+    Calculate the mud weight required to kill the well using the data below:
+
+  WELL DATA                    MD          TVD
+
+   Depth at start of horizontal                       7,690 feet            6,100 feet
+
+   Depth at time of kick                            11,000 feet           6,140 feet
+
+   Length of horizontal section                      3,310 feet
+
+   Mud weight                                 11 ppg
+
+   KICK DATA
+
+    Shut In Drill Pipe Pressure                     150 psi
+
+    Shut In Casing Pressure                       170 psi
+
+                          ppg
+
+9.  In a well with a long open hole section, which of the following kill methods will
+
+    minimise the risk of losses?
+
+         Bullheading Method.
+
+          Driller’s Method.
+
+        Wait and Weight Method.
+
+         Volumetric Method.
+
+10. When killing a well what will happen to the mud pit volume as the gas is circulated up the
+
+    hole?
+
+             It will increase.
+
+             It will stay the same.
+
+             It will decrease.
+
+                                                  6 - 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+11. What is surface pit volume most likely to do as a gas kick is being circulated up the hole?
+
+          Increase.
+
+         Stay the same.
+
+         Decrease.
+
+12. A gas kick is being circulated out using the Drillers Method.
+
+   What will happen to the bottom hole pressure if the gas bubble is not allowed to expand
+
+    as it is circulated up the hole?
+
+             It will increase.
+
+         Stay the same
+
+             It will decrease.
+
+13. Which method removes the influx from the hole before pumping kill mud?
+
+        Wait and Weight Method.
+
+          Driller’s Method.
+
+14. Which method maintains drill pipe pressure constant for the first circulation?
+
+        Wait and Weight Method.
+
+          Driller’s Method.
+
+15. When operating the choke there is normally a time delay before the drillpipe pressure
+
+    changes.
+
+   What is the ‘rule of thumb’ for this time delay in pressure transmission from choke to
+
+    drillpipe gauge?
+
+        3 – 5 seconds
+
+        750 feet/minute
+
+        1 minute per 1000 feet of travel
+
+        1 second per 1000 feet of travel
+
+                                                  6 - 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+16. When using the Driller’s Method, what must happen to the casing pressure when
+
+   pumping kill mud to the bit?
+
+        Must be held constant.
+
+        Must be allowed to increase.
+
+        Must be allowed to decrease.
+
+             It is impossible to say.
+
+17. The Driller’s Method is used to kill a salt-water kick.
+
+   What will happen to the casing pressure when the influx moves up the annulus?
+
+         Casing pressure will slowly decrease as influx is circulated up the annulus.
+
+          Salt water will behave in the same way as a gas influx.
+
+       As influx expands Casing Pressure will increase.
+
+         Casing pressure will only change due to changes in annular size.
+
+18. A well is being killed using the Driller’s method.
+
+    Original Shut In Drill Pipe Pressure       = 600 psi
+
+    Original Shut In Casing Pressure         = 900 psi
+
+    After the first circulation, the well is shut in and the pressures read: -
+
+    Shut In Drill Pipe Pressure             = 600 psi
+
+    Shut In Casing Pressure               = 700 psi
+
+     It is decided not to spend any more time cleaning the hole.
+
+   Which of the following actions should be taken?
+
+         Continue with second circulation of Driller’s method, holding casing pressure
+
+          constant until kill mud reaches the bit.
+
+         Bullhead annulus until Shut In Casing Pressure is reduced to 600 psi.
+
+        Use Volumetric technique to remove remaining influx.
+
+         Continue with the second circulation of Driller’s method, following a calculated
+
+            drill pipe pressure schedule as kill mud is pumped to the Bit.
+
+                                                  6 - 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+19. When circulating a gas kick from a well using the Driller’s Method, what happens to the
+
+    casing shoe pressure as the influx is circulated past the shoe?
+
+        The casing shoe pressure will decrease.
+
+        The casing shoe pressure will remain stay the same.
+
+        The casing shoe pressure will increase.
+
+20. On a land rig a salt-water kick is circulated out using the Driller’s Method.
+
+   When will the surface casing pressure be at it maximum value?
+
+   (TWO ANSWERS)
+
+       When the kill mud is pumped into the drill pipe.
+
+       When the kick reaches the casing shoe.
+
+       When the kick has been circulated to the surface.
+
+       When the kill mud reaches the bit.
+
+         Immediately after the well has been shut in.
+
+       When the kick is in the narrowest annulus
+
+21. When killing a vertical well when is Final Circulating Pressure reached?
+
+       When kill mud reaches the casing shoe.
+
+       When the influx is out of the hole.
+
+       When kill mud reaches the bit.
+
+       When starting to pump kill mud down the drill string.
+
+22. Which kill method pumps kill mud at the same time as circulating the influx up the
+
+    annulus?
+
+        Wait and Weight Method.
+
+          Driller’s Method.
+
+23. Which kill method minimises the pressure in the annulus caused by gas expansion?
+
+        Wait and Weight Method.
+
+          Driller’s Method.
+
+                                                  6 - 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+24. A kill operation is ready to start. The Wait and Weight Method is to be used.
+
+      The kill mud is ready to be pumped.  It takes 100 strokes to displace surface lines.
+
+      What is the correct procedure?
+
+               Ignore the 100 strokes.  It will not affect the drill pipe pressure schedule, and
+
+           may give an added safety factor.
+
+                Subtract the 100 strokes from the surface to bit strokes and re-calculate the
+
+                    drill pipe pressure schedule.
+
+              Re-Zero stroke counter after 100 strokes are pumped.
+
+25. A kick is shut in and is to be killed using the Wait and Weight Method.
+
+    Pre-recorded data:-
+
+    Vertical depth of well                           11,000 feet
+
+    Total string volume                              1,900 strokes
+
+    Total annulus volume                           13,300 strokes
+
+   Slow pump rate data:-
+
+   At 25 SPM                                  300 psi
+
+   Kick data:-
+
+    Shut In Drill Pipe Pressure                     550 psi
+
+    Shut In Casing Pressure                       650 psi
+
+   Mud weight in the well                           11.0 ppg
+
+    Calculate the kill mud weight?
+
+                       ppg
+
+                                                  6 - 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+26. A kick is shut in and is to be killed using the Wait and Weight Method.
+
+    Pre-recorded data:-
+
+    Vertical depth of well                           11,000 feet
+
+    Total string volume                              1,900 strokes
+
+    Total annulus volume                           13,300 strokes
+
+   Slow pump rate data:-
+
+   At 25 SPM                                  300 psi
+
+   Kick data:-
+
+    Shut In Drill Pipe Pressure                     550 psi
+
+    Shut In Casing Pressure                       650 psi
+
+   Mud weight in the well                           11.0 ppg
+
+   What is the Initial Circulating Pressure (ICP) at 25 SPM?
+
+                                  psi
+
+27. A kick is shut in and is to be killed using the Wait and Weight Method.
+
+    Pre-recorded data:-
+
+    Vertical depth of well                           11,000 feet
+
+    Total string volume                              1,900 strokes
+
+    Total annulus volume                           13,300 strokes
+
+   Slow pump rate data:-
+
+   At 25 SPM                                  300 psi
+
+   Kick data:-
+
+    Shut In Drill Pipe Pressure                     550 psi
+
+    Shut In Casing Pressure                       650 psi
+
+   Mud weight in the well                           11.0 ppg
+
+    What is the Final Circulating Pressure (FCP) at 25 SPM?
+
+                                   psi.
+
+                                                  6 - 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+28. If a kick is shut in on a surface BOP stack and the slow circulating rate pressures is not
+
+   known. What procedure should be used to obtain the correct Initial Circulating Pressure?
+
+        Only use the Driller’s Method. As the drill pipe pressure does not change during
+
+          the entire circulation it is only required to observe that the drill pipe pressure
+
+         remains constant and equal to the Shut In Drill Pipe Pressure.
+
+       When starting to kill the well, keep the choke pressure as close as possible to the
+
+         Shut In Casing Pressure. When the selected kill pump rate has been reached, read
+
+          the drill pipe pressure and use that as the Initial Circulating Pressure.
+
+        Check the records and choose the kill rate circulating pressure taken with the last
+
+      BHA in the hole nearest to the depth where the kick took place. Add 100 psi to this
+
+         value as a precautionary measure.
+
+         Contact the mud logger and request the best possible calculation of the Initial
+
+          Circulating Pressure intended for use during the well kill.
+
+29. A kill operation is ready to start. The Wait and Weight Method is to be used.
+
+    Kill mud is ready to be pumped, but it takes 10 bbls to fill the surface lines.
+
+   What is the correct procedure?
+
+         Subtract the 10 bbls (converted to pump strokes) from the total strokes to be
+
+        pumped.
+
+         Ignore it. Start the kill operation.  It will not affect your drill pipe pressure
+
+          schedule.
+
+         Re-zero stroke counter when kill mud reaches the drill pipe.
+
+30. Kill mud is being circulated down the drill string in a horizontal well. The pumps are
+
+    stopped and the well is shut in as the kill mud reaches the start of the horizontal section
+
+    (2000 ft. long).
+
+   What would you expect the Shut In Drill Pipe Pressure to be?
+
+         Zero.
+
+        The same as the slow circulation rate.
+
+        The same as the original Shut In Drill Pipe Pressure.
+
+        The same as the Shut In Casing Pressure.
+
+         Original SIDPP less the hydrostatic of 2000 ft of mud.
+
+                                                  6 - 9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+31. A gas kick is being circulated out using the Wait and Weight Method.
+
+   What will happen to the bottom hole pressure if drill pipe pressure is held constant when
+
+     kill mud is being pumped to the bit?
+
+         Stay the same.
+
+         Decrease.
+
+          Increase.
+
+32. A gas kick is being circulated out using the Wait and Weight Method.
+
+   What will happen to the bottom hole pressure if spm is increased whilst holding casing
+
+    pressure constant? (Ignore pressure losses in the annulus).
+
+         Stay the same.
+
+          Increase.
+
+      I    Decrease.
+
+33. What will happen if we ignore a large surface line volume (from the mud pumps to the
+
+     drill floor)when preparing a kill sheet for a Wait and Weight Method kill?
+
+   (TWO ANSWERS)
+
+        The drill pipe pressure schedule will result in a bottom hole pressure that is too low.
+
+        The total time to kill the well will be shorter than calculated.
+
+        The total time to kill the well will be longer than calculated.
+
+        The drill pipe pressure schedule will result in a bottom hole pressure that is too
+
+          high.
+
+        There will be not effect on the bottom hole pressure.
+
+34. Which of the following statements is true?
+
+        The Wait and Weight Method should always be used because the pressure against
+
+          the open hole will always be lower than when using the Driller’s Method.
+
+            If the kill mud enters the annulus before the kick reaches the shoe then the Wait and
+
+        Weight Method will reduce the risk of formation breakdown compared to the
+
+           Driller’s Method.
+
+        There is no difference between using the Driller’s Method or the Wait and Weight
+
+         Method.
+
+                                                  6 - 10
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+35. While circulating out a gas kick, when is it possible for the pressure at the casing shoe to
+
+    be at its maximum?
+
+   (TWO ANSWERS)
+
+       When kill mud reaches the casing shoe.
+
+        At initial shut in.
+
+       When kill mud reaches the bit.
+
+       When top of gas reaches the casing shoe.
+
+36. When circulating out a kick in a deep well the casing pressure approaches the MAASP
+
+    while the influx is still in the open hole.
+
+   Which is the MOST IMPORTANT action to take?
+
+        Minimise any extra pressure in the annulus without allowing bottom hole pressure
+
+           to fall below pore pressure.
+
+       Keep the casing pressure at MAASP by opening the choke.
+
+          Start pumping mud down the drillstring at 1 ppg higher than needed to kill.
+
+37. At what stage during a kill operation can choke pressure reading exceed MAASP without
+
+    breaking down the formation at the shoe?
+
+       When the influx is in the open hole section.
+
+       When the influx is on bottom.
+
+       When the kill mud is at the bit.
+
+       When the influx is above the casing shoe.
+
+38. In a well with a long open hole section, which of the following kill methods will
+
+    minimise the risk of losses?
+
+         Bullheading Method.
+
+          Driller’s Method.
+
+        Wait and Weight Method.
+
+         Volumetric Method.
+
+                                                  6 - 11
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+39. Which of the following statements are true for the Casing Shoe?
+
+        The Wait and Weight Method will always give a lower pressure on the casing shoe
+
+          than the Driller’s Method.
+
+        The Driller’s Method will give the lowest casing shoe pressure when the open hole
+
+         annulus volume is larger than the drill string volume.
+
+        The Wait and Weight Method will give the lowest casing shoe pressure when the
+
+        open hole volume is greater than the drill string volume.
+
+        The Wait and Weight Method will give the lowest casing shoe pressure when the
+
+        open hole annulus volume is smaller than the drill string volume.
+
+        The casing shoe pressure will always be the same, regardless of the method used.
+
+40. Which of the following is correct when comparing the Driller’s Method with the Wait and
+
+   Weight Method?
+
+        The Wait and Weight Method should always be used because the pressure against
+
+          the open hole will always be lower.
+
+             It the kill mud is being circulated up the annulus before the kick has reached the
+
+          shoe, then the Wait and Weight Method will reduce the risk of lost circulation.
+
+        There is no difference between using the Driller’s Method or the Wait and Weight
+
+         Method.
+
+41. A kick was detected whilst drilling ahead and the well shut in. The long open hole section
+
+    has a number of formations that are potential lost circulation zones.
+
+   Which of the following methods should be used to minimise the well bore pressure in the
+
+   open hole?
+
+         Volumetric Method.
+
+          Driller’s Method.
+
+        Wait and Weight Method.
+
+         Bullheading.
+
+                                                  6 - 12
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+42. In which of the following situations will the Wait and Weight Method give lower casing
+
+    shoe pressures than the Driller’s Method?
+
+         Casing shoe pressure is always lower when using the Wait and Weight method.
+
+          Drill string volume less than annulus open hole volume.
+
+          Drill string volume greater than annulus open hole volume.
+
+43. A kick is being circulated out at 50 spm. Drill pipe pressure reads 850 psi and casing
+
+    pressure 1,150 psi.  It is decided to slow the pumps to 30 spm while maintaining 1,150 psi
+
+   on the casing gauge.
+
+   How will this affect bottom hole pressure (exclude any annular friction losses)?
+
+          Increase.
+
+         Stay the same.
+
+         Decrease.
+
+44. Kill mud is pumped to the bit holding drillpipe pressure constant. What is the effect on
+
+   bottom hole pressure?
+
+         Stay the same.
+
+         Decrease.
+
+          Increase.
+
+45. During a kill pump speed is increased from 20 to 40 spm whilst holding drill pipe
+
+    pressure constant. What will happen to bottom hole pressure?
+
+             It will stay the same.
+
+             It will increase.
+
+             It will decrease.
+
+46. If pump speed is increased whilst killing a well, what should happen to the casing
+
+    pressure to maintain constant bottom hole pressure?
+
+         Casing pressure should be held steady during spm increase.
+
+        Casing pressure should be allowed to rise during spm increase.
+
+        Casing pressure should be allowed to fall during spm increase.
+
+                                                  6 - 13
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+47. A well is being killed using the Driller’s method. The drill pipe pressure is 950 psi at 35
+
+   spm.
+
+   Due to increasing pressure inside the mud/gas separator it is decided to reduce the pump
+
+    speed to 25 spm.
+
+   What is the effect on bottom hole pressure if 950 psi is held on the drill pipe gauge while
+
+    the pump rate is reduced?
+
+        Bottom hole pressure will decrease.
+
+        Bottom hole pressure will increase.
+
+        Bottom hole pressure will stay the same.
+
+48. During a kill the pump rate is reduced whilst holding casing pressure constant.
+
+   How will this affect bottom hole pressure?
+
+        There is no way of knowing the effect on bottom hole pressure.
+
+        There will be a large drop in bottom hole pressure.
+
+        Bottom hole pressure will increase and may cause formation breakdown.
+
+        Bottom hole pressure will stay constant.
+
+49. A kick is being circulated out at 30 spm and the Final Circulating Pressure is 650 psi.
+
+   What will happen to the bottom hole pressure if the pump speed is increased to 35 spm
+
+    whilst holding drill pipe pressure at 650 psi?
+
+             It will decrease.
+
+             It will stay the same.
+
+             It will increase.
+
+50. When starting a kill operation on a Jack Up, the choke pressure is kept constant whilst
+
+    bringing the pump up to speed. The drill pipe gauge reads 150 psi higher than the
+
+    calculated Initial Circulating Pressure (ICP).
+
+   What is the correct action to take?
+
+        There will now be 150 psi overbalance on the bottom. Nothing needs to be done.
+
+        Continue to circulate with the new ICP and adjust the drill pipe pressure graph.
+
+       Open the choke and let the standpipe pressure drop to the calculated value (ICP).
+
+                                                  6 - 14
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+51. The pump is brought up to kill rate holding the casing pressure constant. The drill pipe
+
+   gauge reading was 150 psi above calculated Initial Circulating Pressure.
+
+   What action should be taken?
+
+       Open choke to reduce drill pipe pressure back to the calculated Initial Circulating
+
+          Pressure.
+
+         Shut down and clean out choke manifold or change to another choke.
+
+         Carry on, everything is OK.
+
+         Recalculate circulating pressure schedule based on actual drill pipe gauge reading.
+
+52. Due to a power failure, it is not possible to start the kill operation and both drill pipe and
+
+    casing pressure readings are increasing at the same rate due to gas migration. The bit is
+
+   on bottom.
+
+   Which pressure must be kept constant to maintain constant bottom hole pressure?
+
+         Casing shoe pressure.
+
+          Influx pressure.
+
+         Shut In Casing Pressure.
+
+         Shut In Drill Pipe Pressure.
+
+                                                  6 - 15
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+53. A vertical well is shut in following a gas kick. The kill operation is delayed and the
+
+    influx has started to migrate with both drill pipe pressure and casing pressure increasing
+
+   by 100 psi.
+
+  WELL DATA
+
+   Well depth                                      9,000 feet
+
+    Casing shoe depth                               5,000 feet
+
+   Mud weight                                 11 ppg (.572 psi/ft)
+
+   Open hole/drill pipe capacity                     0.060 bbls/ft
+
+    Casing/drill pipe capacity                        0.065 bbls/ft
+
+   NOTE: Assume only drill pipe to be present in the well.
+
+   Kick Data:
+
+    Shut in stabilised drill pipe pressure              600 psi
+
+    Shut in stabilised casing pressure                800 psi
+
+   Kick volume                                25 bbls
+
+   How may barrels of mud should be bled from the well in order to maintain original
+
+   bottom hole pressure (before gas started migrating)?
+
+                               bbls
+
+54. When stripping into the hole which of the following will maintain a constant bottom hole
+
+    pressure? (Assume there is no influx migration).
+
+        Bleed off the drill pipe closed end displacement while stripping each stand.
+
+       Pump a volume of mud into the well equal to the drill pipe closed end displacement
+
+         while stripping each stand.
+
+        Bleed off the drill pipe steel displacement while stripping each stand.
+
+       Pump a volume of mud into the well equal to the drill pipe steel displacement while
+
+          stripping each stand.
+
+                                                  6 - 16
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+55. 5-inch drill pipe is stripped into the hole through the Annular Preventer.
+
+   Average length of a stand               93 feet
+
+    Drill pipe inside capacity                 0.0177 bbls/ft
+
+    Closed end displacement                 0.0253 bbls/ft
+
+    Metal displacement                      0.0076 bbls/ft
+
+    For each stand of pipe stripped, how many barrels of mud must be pumped to keep the
+
+     drillstring full?
+
+                                  bbls.
+
+56. Well kicks after 25 stands have been pulled out of the hole.
+
+    Shut In Casing Pressure = 100 psi
+
+    Shut In Drillpipe Pressure = 100 psi
+
+   Which of the following would be the best action to take to return to primary control?
+
+          Circulate the kick out using the Wait & Weight Method whilst keeping drill pipe
+
+          pressure constant at the Shut In Drillpipe Pressure.
+
+          Strip back to bottom using the combined Stripping and Volumetric Method, then
+
+           circulate the influx out using Driller’s Method.
+
+         Increase mud weight by 100 psi and circulate this heavy mud with the bit 25 stands
+
+           off bottom.
+
+57. 5-inch drill pipe is stripped into the hole through the Annular Preventer.
+
+   Average length of a stand               93 feet
+
+    Drill pipe inside capacity                 0.0178 bbls/ft
+
+    Closed end displacement                 0.0252 bbls/ft
+
+    Metal displacement                      0.0076 bbls/ft
+
+    For each stand of pipe stripped, how many barrels of mud must be bled off from the
+
+    annulus?
+
+                                 bbls.
+
+                                                  6 - 17
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+58. After pulling 40 stands the well starts to flow and is shut in.
+
+   Well Data:
+
+   Well depth                        = 11,000 feet
+
+    9-5/8 inch casing shoe                = 7,000 feet
+
+    8-1/2 inch hole capacity              = 0.702 bbls/ft
+
+   Mud weight                       = 11 ppg
+
+    Drill Collar length                  = 450 feet
+
+                  -Capacity              = 0.0077 bbls/ft
+
+                 -Metal displacement      = 0.033 bbls/ft
+
+    5” Drill pipe  -Capacity              = 0.0178 bbls/ft
+
+                 -Metal displacement      = 0.0075 bbls/ft
+
+    Capacity drill collar/open hole          = 0.0292 bbls/ft
+
+    Capacity drill pipe/open hole           = 0.0459 bbls/ft
+
+    Capacity drill pipe/casing             = 0.0515 bbls/ft
+
+   The bit depth at time of kick           = 7,280 feet
+
+    Shut In Casing Pressure              = 150 psi
+
+    Influx volume                     = 15 bbls
+
+   The influx is on bottom and is NOT migrating.
+
+    a) Calculate the volume to bleed off per 93 feet of drill pipe stripped back into the hole?
+
+                                  bbls.
+
+    b) What will happen to the bottom hole pressure if too much mud is bled off whilst
+
+        stripping back to bottom?
+
+          Increase.
+
+         Decrease.
+
+         Stay the same.
+
+    c) What is likely to happen to casing pressure as the drill string is stripped into the influx?
+
+          Increase.
+
+         Decrease.
+
+         Stay the same.
+
+                                                  6 - 18
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+59. Which of the following statements best describes the Volumetric Method?
+
+         Maintain constant casing shoe pressure as the influx migrates to surface.
+
+         Maintain Shut In Casing Pressure at its initial value as the influx migrates to
+
+          surface.
+
+         Maintain constant bottom hole pressure as the influx is migrates to surface.
+
+         Maintain constant pressure inside the influx as it is allowed to migrate to surface.
+
+60. A well is shut in on a kick. Circulation cannot start due to mechanical problems. Gas is
+
+    migrating and bottom hole pressure has to be kept constant.
+
+    In which of the following situations can the volumetric method of well control be used?
+
+   (THREE ANSWERS)
+
+        With the bit on bottom, and a non-return valve in the string.
+
+       When the bit is a long way off the bottom, and no non-return valve in the string.
+
+        With bit on bottom, no non-return valve in the string.
+
+        With the bit on bottom, and the drill string fully plugged off.
+
+61. A gas kick has been taken in a well with a long open hole section. The drill pipe is
+
+    plugged (Drill pipe pressure cannot be read, and pumping down the drill pipe is not
+
+     possible). There is evidence of gas migration taking place.
+
+    Which one of the following well control procedures can be applied?
+
+         Volumetric Method.
+
+        Wait and Weight Method.
+
+          Driller’s Method.
+
+         Concurrent Method.
+
+                                                  6 - 19
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+ 62. When stripping into the hole which of the following will maintain a constant bottom hole
+
+     pressure? (Assume there is no influx migration).
+
+         Bleed off the drill pipe closed end displacement while stripping each stand.
+
+       Pump a volume of mud into the well equal to the drill pipe closed end displacement
+
+          while stripping each stand.
+
+         Bleed off the drill pipe steel displacement while stripping each stand.
+
+       Pump a volume of mud into the well equal to the drill pipe steel displacement while
+
+           stripping each stand.
+
+ 63. During top hole drilling from a jack-up rig, the well starts to flow due to shallow gas.
+
+    What will be the safest action to take to secure the safety of the rig and personnel?
+
+   (TWO ANSWERS)
+
+         Line up to the mud/gas separator, close the diverter and send personnel to the
+
+            lifeboats.
+
+           Start pumping mud into the well at the highest possible rate.
+
+         Shut in the well and prepare to bullhead immediately.
+
+          Shut in the well using the blind/shear rams.
+
+          Activate the diverter system and remove non-essential personnel from the rig floor.
+
+64.  If a shallow gas flow is detected, which of the following should be taken at the same time
+
+     as activating the diverter?
+
+          Maintain pump rate.
+
+          Increase pump rate.
+
+         Decrease pump rate.
+
+                                                   6 - 20
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+65. For each of the following statements, note if it relates to either the Wait and Weight
+
+   method or the Driller’s Method . Tick the appropriate space.
+
+         a.   Maintain Drill Pipe pressure constant for 1st circulation.
+
+              Driller’s  ___ Wait and Weight   ___
+
+         b.   Minimise pressures in the Annulus due to gas expansion.
+
+              Driller’s  ___ Wait and Weight   ___
+
+         c.  Pump kill mud whilst circulating influx up the Annulus.
+
+              Driller’s  ___ Wait and Weight   ___
+
+         d.  Remove influx from hole before pumping kill mud.
+
+              Driller’s  ___ Wait and Weight   ___
+
+         e.   Hold Casing Pressure constant as kill mud is pumped to the bit.
+
+              Driller’s  ___ Wait and Weight   ___
+
+66. Which of the following statements are true when starting up to kill a well? (Choose TWO
+    answers).
+
+            Maintain the Drill Pipe Pressure constant when bringing the pumps up to kill
+
+            speed.
+
+          The Surface line volume (pump to rig floor) will affect the time at which kill
+         mud starts to increase mud hydrostatic.
+
+            Bring pumps up to speed holding casing pressure constant.
+
+          The Surface line volume (pump to rig floor) will not need to be considered
+            during start up.
+
+                                                  6 - 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+67. When circulating up a gas influx, what will happen to the pit volume while the gas is still
+
+    in the hole? (Choose ONE answer).
+
+                 It will stay the same.
+
+                 It will decrease.
+
+                 It will increase.
+
+68. Ready to kill well using Wait and Weight method.  It takes 100 strokes to pump kill mud
+    to the rig floor. What action has to be taken? (Choose ONE answer).
+
+         a.   Re-zero stroke counter after 100 strokes are pumped.
+
+         Add the 100 strokes to the bit to surface strokes.
+
+             .    Ignore the 100 strokes.  It will not affect the drill pipe pressure graph.
+
+69. Which of the following kill techniques will minimise risk of losses. (Choose ONE
+    answer).
+
+            Bullheading Method.
+
+              Driller’s Method .
+
+           Wait and Weight Method.
+
+           Volumetric Method.
+
+70.   A well is being killed using the Drillers Method.
+
+        Original SIDPP = 750 psi   Original SICP     = 1000 psi
+
+        After the first circulation, the well is shut in and pressure allowed to stabilise. They
+
+        read:-
+
+      SIDPP =  750 psi       SICP       = 850 psi
+
+           It is decided not to spend anymore time circulating. Which one of the following
+
+        actions should be taken? ( Choose ONE answer)
+
+          Use the Wait and Weight Method
+
+           Bullhead to reduce SICP to 0 psi
+
+           Continue with second circulation of Drillers Method (holding Casing Pressure
+
+            constant until kill mud reaches the bit)
+
+           Reverse circulate to reduce pressures to 0 psi
+
+                                                  6 - 22
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+71. Which of the following actions would minimise pressure on the open hole? (Choose
+
+   THREE answers).
+
+           Slower pump rate to kill well.
+
+          Use the Wait and Weight Method.
+
+          Use the Driller’s Method.
+
+            Shut-in early to minimise kick size.
+
+72. When using the Driller’s Method , what should happen to the Casing Pressure as kill mud
+     is pumped to the Bit? (Choose ONE answer).
+
+            Stay the same.
+
+            Decrease.
+
+             Increase.
+
+73. During a kill operation, there is a time delay between operating the choke and observing a
+   change in the Drill Pipe Pressure. This delay is approximately: (Choose ONE answer).
+
+          1 second per 1000 ft of hole length.
+
+          5 to 10 seconds.
+
+          5 to 10 minutes.
+
+          750 feet per minute.
+
+74. Final Circulating Pressure (FCP) is maintained constant: (Choose ONE answer)
+
+          Once influx is out of the well.
+
+           While pumping bottoms up after kill mud has passed the bit.
+
+          Once kill mud reaches the Casing Shoe.
+
+         When pumping kill mud down to the bit.
+
+                                                  6 - 23
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+75. Well has kicked when 30 Stands off bottom. Shut-in pressures both equal 150 psi.
+
+      Which of the following is the best action to take to restore primary control? (Choose
+     ONE answer).
+
+             Strip to bottom and circulate well using Driller’s Method.
+
+             Circulate kick out while 30 stands off bottom using the Driller’s Method.
+
+         c.   Raise mud weight by 150 psi and circulate out using Wait and Weight Method.
+
+76. What is the correct action to take when stripping in the hole? Assume that there is no
+    influx migration? (Choose ONE answer).
+
+             Strip in until Casing Pressure equals MAASP then bleed off each stand to keep
+
+           Casing Pressure constant.
+
+           Bleed off the Drill Pipe capacity each stand
+
+           Bleed off the Drill Pipe closed end displacement each stand.
+
+           Bleed off the Drill Pipe steel displacement each stand.
+
+77. During a trip out, the well kicks due to swabbing. The pipe is stripped back to bottom.
+    Will the original mud weight be sufficient to control the well?
+
+         a.     Yes
+
+             .     No
+
+78. In which of the following situations will the Wait and Weight method give lower Casing
+   Shoe pressure, compared to Driller’s Method? (Choose ONE answer).
+
+           Annulus open hole capacity  is less than drillstring capacity.
+
+           Annulus open hole capacity is greater than drillstring capacity.
+
+           Wait and Weight will always give lower Casing Shoe pressures.
+
+                                                  6 - 24
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+79.    Well Data:
+
+        Hole Size:                           8 ½ inch
+
+          Drill Pipe:                           5 inch
+
+          Drill collars:                         6 ¼ x 2½ inch, length = 380 ft
+
+        Hole depth:                             9,720 ft
+
+       Open hole - Drill collar capacity:          0.0322 bbls/ft
+
+       Open hole - Drill pipe capacity:           0.0459 bbls/ft
+
+        Calculate the length of a 30 bbl influx
+
+       Answer: ___________________ ft
+
+80. A gas kick is being circulated out. What will happen to the bottom hole pressure in the
+    three situations below? (Assume no pressure loss in the Annulus).
+          If drill pipe pressure is held constant when kill mud is being pumped to the bit?
+
+            Stay the same.
+
+             Increase.
+
+            Decrease.
+
+          If the gas influx is not allowed to expand as it migrates up the hole?
+
+            Stay the same.
+
+             Increase.
+
+            Decrease.
+
+          If SPM is increased holding casing pressure constant?
+
+            Stay the same.
+
+             Increase.
+
+            Decrease.
+
+                                                  6 - 25
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+81. A kick is taken while drilling a horizontal well. Using the data below, calculate the kill
+   mud weight.
+
+Well Data:
+
+       Measured depth at start of horizontal section                  :               6,500 ft
+       Measured depth at time of kick                                      :              10,500 ft
+       True vertical depth at start of horizontal                         :               4,050 ft
+       True vertical depth at time of kick                                 :               3.970 ft
+       Length horizontal section                                              :               4,000 ft
+        Drilling fluid density                                                    :              11.2 ppg
+
+Kick Data:
+
+         Shut-in drill pipe pressure                                                     :              150 psi
+         Shut-in casing pressure                                                         :              150 psi
+
+       Answer: _________________ ppg
+
+82.  If a kick occurs while drilling a horizontal well, why is there little or no difference between SIDPP
+
+    and SICP? (Choose ONE answer).
+
+              In horizontal wells, the influx is not able to migrate.
+
+         Mud density and formation fluid density are the same when drilling horizontal wells.
+
+           Volume inside the string is the same as volume in the Annulus.
+
+           The vertical height of the influx has little effect on the hydrostatic head in the Annulus.
+
+83. When pumping kill mud to the bit in high angle wells, the stand pipe pressure is always? (Choose
+   ONE answer).
+
+           Lower than in a vertical well with the same measured depth.
+
+            Higher than in a vertical well with the same measured depth.
+
+           The same as in a vertical well with the same measured depth.
+
+                                                  6 - 26
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+84. Drill pipe is to be stripped in the hole. There is a float valve in the string.
+
+       Average Stand length        =     93 ft
+         Drill pipe capacity       =      0.0346 bbls/ft
+       Closed end displacement      =      0.0438 bbls/ft
+       Metal displacement      =      0.0092 bbls/ft
+
+       For each stand stripped, calculate:
+
+         a.  Volume of mud to bleed from Annulus.    Answer = ____________ bbls
+
+        b.  Volume of mud to keep the pipe full.      Answer = ____________ bbls
+
+85. When can maximum Casing Shoe pressure occur when using the Volumetric Method.?
+   (Choose TWO answers).
+
+         When the influx reaches the BOP stack.
+
+         When the influx reaches the Casing Shoe.
+
+         When the well is first Shut-in.
+
+86. If gas is migrating and you are unable to start the kill operation, which pressure should be
+    held constant to maintain a constant bottom hole pressure? (Choose ONE answer)
+
+            Shut-In Casing Pressure.
+
+           Casing Shoe Pressure.
+
+             Influx Pressure.
+
+            Shut-In Drill Pipe Pressure.
+
+87. When stripping to bottom, which of the following actions should be taken? (Choose ONE
+    answer).
+
+           Bleed off a volume of mud equal to 100 psi of hydrostatic head.
+
+           Bleed off a volume of mud equal to the closed end displacement of the pipe
+             stripped into the well.
+
+         c.   Bleed off a volume of mud equal to the metal displacement of the pipe stripped
+
+             into the well.
+
+                                                  6 - 27
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+88.  .   Shoe at            =      6,000 ft
+
+     TVD at            =      9,000 ft
+     Mud Weight        =      11.4 ppg
+
+        Collar Capacity      =      0.0077 bbls/ft
+        Collar Displacement   =      0.033 bbls/ft
+        Collar Length        =     1000
+
+       Pipe Capacity        =      0.0178 bbls/ft
+       Pipe Displacement    =      0.0082 bbls/ft
+
+       Pipe to Casing Annulus =      0.052 bbls/ft
+       Pipe to Open Hole    =      0.046 bbls/ft
+        Collars to Open Hole  =      0.029 bbls/ft
+
+       Well starts to flow after 50 stands pulled.
+
+        Shut-in Data is:-
+
+        Bit Depth          =     4350 ft
+        Influx             =     38 bbls
+      SICPP             =     400 psi
+        Influx Gradient      =      0.12 psi/ft
+
+      Answer the following question (assume no gas migration).
+
+         a.      Calculate the volume to bleed off to strip back to bottom ?
+
+                   Answer __________ bbls
+
+        b.   What will happen to bottom hole pressure if too much mud is bled off? (Tick
+             appropriate space provided).
+
+             ____ Increase         ____ Decrease              ____ Stay the same
+
+         c.  What will happen to bottom hole pressure if too little mud is bled off? (Tick
+             appropriate space provided).
+
+             ____ Increase         ____ Decrease              ____ Stay the same
+
+        d.   What should happen to Casing Pressure as string is stripped into influx? (Tick
+             appropriate space provided).
+
+             ____ Increase         ____ Decrease              ____ Stay the same
+
+                                                  6 - 28
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+89. A well is being killed at 30 spm using the Driller’s Method. Halfway through this first
+
+    circulation the choke operator observes a sudden increase in drill pipe pressure. The
+
+   choke pressure and pump speed have not changed.
+
+   What could have happened?
+
+   (TWO ANSWERS)
+
+        There is a blockage in the standpipe manifold.
+
+        The bit nozzles have partly plugged.
+
+        The kick is about to enter the choke.
+
+        The choke has partly plugged.
+
+        The mud/gas separator.is plugged with cuttings.
+
+90. Using the Drillers Method to circulate out the influx the circulating pressure = 1,000 psi
+
+    The circulating pressure increases rapidly to 1,400 psi (pump speed remains constant). It
+
+      is decided that a bit nozzle has plugged.
+
+   Which of the following will maintain constant bottom hole pressure?
+
+         Maintain the circulating pressure at 1,400 psi and the pump speed constant.
+
+         Adjust the circulating pressure to 1,000 psi by changing the pump speed.
+
+         Stop the pump and shut the well in. Re-calculate Initial Circulating Pressure and
+
+          Final Circulating Pressure adding 400 psi to the original SIDPP.
+
+         Adjust the circulating pressure to 1,000 psi by adjusting the choke and maintaining
+
+          constant spm.
+
+91. During a kill, a washout in the string develops.
+
+   What happens to the drill pipe pressure?
+
+             It should increase.
+
+             It should decrease.
+
+             It should remain constant.
+
+92. Which of the following could be affected by a string washout during a kill operation?
+
+   (TWO ANSWERS)
+
+      MAASP.
+
+        Bottom hole pressure.
+
+        Slow circulating rate pressure.
+
+        Kick Tolerance and Fracture Pressure.
+
+                                                  6 - 29
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+93. The choke is gradually closed to compensate for a string washout. What effect does the
+
+    gradual closing of the choke have on the bottom hole pressure?
+
+          Increase.
+
+         Stay the same.
+
+         Decrease.
+
+94. If the drill string washes out during a kill operation which of the following pressures
+
+   would remain constant?
+
+        Slow circulating rate pressure.
+
+         Casing pressure.
+
+          Drill pipe pressure.
+
+            Initial Circulating Pressure
+
+95. During a kill a washout develops in the drill string above the influx. What is the safest
+
+   way to handle this situation?
+
+         Stop pumping. Use the volumetric method until the influx is above the washout.
+
+        Then resume pumping.
+
+         Stop pumping. Strip out of the hole to locate the washout in the drill string, then
+
+          replace washed out joint and strip back to bottom.
+
+       Keep pumping until the influx is above the washout, then use the Volumetric
+
+         technique to remove the influx.
+
+96. A well is shut in with the following readings:
+
+    Shut In Casing Pressure                 0 psi
+
+    Shut In Drill Pipe Pressure               200 psi
+
+    There is no flow from the annulus when the choke is opened.
+
+   What is the most likely cause of zero Shut In Casing Pressure?
+
+        Swabbing.
+
+        The choke gauge has failed.
+
+        The formation at the shoe has been fractured.
+
+        The drill string is plugged.
+
+        The hole is packed off around the BHA.
+
+                                                  6 - 30
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+97. Which of the following would give lower annulus pressures in a long open hole section?
+
+   (THREE ANSWERS)
+
+        Use the Driller’s Method.
+
+        Use the Wait and Weight Method.
+
+        Use a slower pump rate to kill the well.
+
+        Minimise the amount of influx.
+
+98. What are the correct actions that can be taken to minimise pressure in the annulus during
+
+     the kill operation?
+
+   (TWO ANSWERS)
+
+        Use the Wait and Weight Method.
+
+        Choose a lower pump rate.
+
+        Choose a higher pump rate.
+
+         Maintain extra back-pressure on the choke for safety.
+
+99. During a kill operation, minor losses are experienced. What could you do to reduce the
+
+    pressure at the loss zone?
+
+        Reduce mud viscosity.
+
+         Stop circulation and shut in the well. Allow the influx to migrate to surface using
+
+          the Volumetric Method.
+
+        Reduce pump speed and keep bottom hole pressure as close to formation pressure as
+
+          possible.
+
+100. How is lost circulation usually detected during a well control operation?
+
+       By a decrease in the mud volume in the pits.
+
+       By a decreasein the weight indicator.
+
+       By monitoring the return flow with the flow-show.
+
+       By an increase in pump speed.
+
+                                                  6 - 31
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+101. Why is it important to monitor the pit volume during a well control operation?
+
+   (TWO ANSWERS)
+
+       To check for mud losses.
+
+          Tells you when to adjust drill pipe pressure.
+
+       To monitor the gas expansion.
+
+       To maintain bottom hole pressure constant.
+
+          Tells you when to adjust pump speed.
+
+102.   The choke line parted while killing a well, what is the first action to take?
+
+         Stop pump and close the choke.
+
+         Stop pump and close the BOP side outlet hydraulic valve (HCR).
+
+         Stop pump and close the IBOP at the Top Drive or Kelly.
+
+         Stop pump and close the shear rams.
+
+103.     Whilst circulating out a kick, the mud pump fails.
+
+   What is the FIRST action to take?
+
+        Change over to No.2 pump.
+
+         Shut the well in.
+
+         Divert the well.
+
+         Fix pumps as soon as possible.
+
+104. Whilst circulating out a kick the Rotary (Kelly) hose in the Derrick bursts, what is the
+
+     first action to take?
+
+       Hang tool joint on pipe ram and close the shear rams. (Shear ram above the pipe
+
+        ram being used).
+
+         Stop the pump, close the full opening safety valve on the drill string then close the
+
+         choke.
+
+        Drop the drill string and close the blind/shear rams.
+
+         Stop the pump, close the choke and record pressures.
+
+                                                  6 - 32
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+105. When killing a well what is the correct action to take if a sudden loss in drill pipe
+
+    pressure is observed?
+
+         Increase the pump rate to return drillpipe to correct value.
+
+         Continue at the same pump rate holding the new drillpipe pressure.
+
+         Shut the well in and investigate pressure loss.
+
+         Close the choke to compensate for the pressure loss.
+
+106. Whilst drilling, a 20 bbl gas kick is taken and the well shut in. The pressures at surface
+
+     stabilise after a 15 minutes. Due to a delay in mixing kill mud the kill operation cannot
+
+     start. The pressures at surface begin to increase due to gas migration.
+
+   What action should be taken to keep bottom hole pressure constant (assume there is no
+
+    float in the string)?
+
+          Start bleeding off mud and let the casing pressure decrease according to volumetric
+
+          calculations.
+
+        Bleed mud from the choke, keeping the drill pipe pressure constant.
+
+        Bleed off mud keeping the casing pressure constant.
+
+        Leave it as it is. Gas migration will not affect the bottom hole pressure.
+
+107. WELL DATA:
+
+    Slow rate circulation pressure            300 psi at 30 spm
+
+   The well has been shut in after a kick:
+
+    Shut In Drill Pipe Pressure               600 psi
+
+    Shut In Casing Pressure                 750 psi
+
+    Before starting to kill the well, there is a complete power failure at the pumps.
+
+   Which pressure should be kept constant in order to maintain the correct bottom hole
+
+    pressure if the influx migrates?
+
+        600 psi drill pipe pressure.
+
+        750 psi casing pressure.
+
+        1050 psi casing pressure.
+
+        900 psi drill pipe pressure.
+
+                                                  6 - 33
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+108. A well is shut in on a 15 bbl kick. The influx is known to be a gas condensate (with both
+
+    gas and liquid present).
+
+    Shut In Drill Pipe Pressure               400 psi
+
+    Shut In Casing Pressure                 500 psi
+
+    There is a power failure on the rig and the influx starts to migrate. Drill pipe and casing
+
+    pressures are increasing.
+
+     If the choke was used to keep casing pressure constant at 500 psi, what would happen to
+
+   bottom hole pressure?
+
+          Increase.
+
+         Decrease.
+
+        Remain constant.
+
+109.   Whilst killing a well a sudden loss in standpipe pressure is observed.
+
+     If the choke was closed to compensate for the reduction in pressure, what would happen
+
+    to the bottom hole pressure?
+
+             It would increase.
+
+             It would decrease.
+
+             It would remain constant.
+
+110. During a kill operation the pump starts to leak. The choke operator knows nothing about
+
+    the leak and is maintaining correct drill pipe pressure.
+
+   What will happen to the bottom hole pressure?
+
+             It will increase.
+
+             It will decrease.
+
+             It will remain constant.
+
+111. Why is pressure build up in the mud/gas separator (poor boy degasser) dangerous whilst
+
+    circulating out a kick?
+
+         Pressure build up will increase the risk of lost circulation.
+
+         Pressure build up may allow gas to be blown up the derrick vent line.
+
+         Pressure build up may allow gas to enter the shale shaker area.
+
+         Pressure build up will make choke adjustment difficult.
+
+                                                  6 - 34
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+112. When killing a well using the Driller’s Method the choke pressure suddenly increases by
+
+   200 psi.
+
+    Shortly after, the choke operator sees the same pressure increase on the drill pipe pressure
+
+    gauge.
+
+   What is the most likely cause of this pressure increase?
+
+     A restriction in the Rotary (Kelly) hose.
+
+     A plugged nozzle in the bit.
+
+        The choke is partly plugged.
+
+     A wash out in the drill string.
+
+     A second influx has entered the well.
+
+113. When killing a well using the Driller’s Method the choke pressure suddenly increases by
+
+   200 psi.
+
+    Shortly after, the choke operator observes the same pressure increase on the drill pipe
+
+    pressure gauge.
+
+    What would be the correct response to this problem?
+
+        Reduce the pump rate to reduce both pressures by 200 psi.
+
+      No action required.
+
+         Shut the well in and change to another pump.
+
+         Shut the well in and change to another choke.
+
+114. During a kill operation which of the following problems require the pump to be shut
+
+   down quickly to prevent over-pressuring the formation.
+
+     A washout in the choke.
+
+     A plugged choke.
+
+     A washout in the drill pipe.
+
+     A plugged standpipe.
+
+     A washed out bit nozzle.
+
+     A plugged bit nozzle.
+
+115. How would a choke washout be recognised?
+
+          Drill pipe and casing pressures both falling despite closing the choke.
+
+         Increase in casing pressure with no change in drillpipe pressure.
+
+        Rapid rise in drillpipe pressure with no change in casing pressure.
+
+          Drill pipe and casing pressures both rising despite closing the choke.
+
+                                                  6 - 35
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+116.  How would a choke washout be recognised?
+
+        Rapid rise in casing pressure and no change in drill pipe pressure.
+
+         Continually closing the choke to maintain correct circulating pressure.
+
+         Increase in drill pipe pressure and no change to casing pressure.
+
+         Continually opening the choke to maintain correct circulating pressure.
+
+117.     Select the products commonly used to prevent the formation of hydrates:
+
+   (TWO ANSWERS)
+
+         Fresh Water.
+
+         Methanol.
+
+        Carboxy Methyl Cellulose (CMC).
+
+         Glycol.
+
+         Diesel oil.
+
+                                                  6 - 36
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+1.  Whilst circulating out a kick, the mud pump fails. What is the first action to take?
+   (Choose ONE answer).
+
+           Shut the well in.
+
+            Fix pump as soon as possible.
+
+          Change over to No 2 pump.
+
+            Divert the well.
+
+2.   If the kelly hose split during a kill operation, what would be the first action to take.
+   (Choose ONE answer).
+
+           Close the Shear Rams.
+
+            Prepare to reverse circulate.
+
+         c.   Stop pump and close the full opening safety valve on the drill string. Close the
+            choke.
+
+3.  What action should be taken if the choke line parted during a kick?. (Choose ONE
+    answer)
+
+           Continue to kill the well only if influx is past the shoe.
+
+           Stop the pumps and shear the pipe.
+
+           Stop pumps and close choke.
+
+           Stop pumps and close the hydraulic valve on BOP side outlet.
+
+4. Why can a pressure build up in the Mud Gas Separator be dangerous? (Choose ONE
+    answer).
+
+        May allow gas to enter shale shaker area.
+
+            Will affect Drill Pipe pressure.
+
+            Will increase risk of lost circulation.
+
+            Will allow gas to be blown along the Vent Line.
+
+5.  Losses during a well control operation are usually detected by: (Choose ONE answer).
+
+           Monitoring SPM.
+
+           Monitoring pit level.
+
+           Monitoring the return flow at the flow line.
+
+           Monitoring hook load.
+
+                                                  7 - 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+6.  During the first circulation of the Driller’s Method, the mud pump develops a leak.  If the
+
+   choke operator maintains constant drill pipe pressure, what will happen to bottom hole
+
+    pressure? (Choose ONE answer).
+
+                 It will increase.
+
+                 It will stay constant.
+
+                 It will decrease
+
+7.   If the drill pipe is plugged and SIDPP cannot be read, which of the following pressures
+    cannot be calculated? (Choose TWO answers).
+
+          Shoe pressure.
+
+           Formation fluid pressure.
+
+            Hydrostatic pressure.
+
+            Fracture pressure.
+
+             Kill Mud Weight.
+
+8.  After a kick the Drill pipe pressure and Casing pressure start to build up, but before
+    stabilising they suddenly drop. Which of the following situations may have occurred?
+   (Choose ONE answer).
+
+       A weak formation has broken down.
+
+         Wash out in the drill string.
+
+           Problem with the gauges.
+
+           Annulus has packed off.
+
+             Salt water influx is migrating up the hole.
+
+            Size of influx.
+
+                                                  7 - 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+9.  Choke is adjusted to increase Drill Pipe pressure by 150 psi (SPM held constant). What
+    will happen to the following pressures? (Tick appropriate space provided).
+
+       Casing Shoe Pressure:
+
+         a.     ____ Increase        ____ Decrease        ____ Remain Constant
+
+       Bottom Hole Pressure:
+
+         b.     ____ Increase        ____ Decrease        ____ Remain Constant
+
+      Choke Pressure:
+
+         c.     ____ Increase        ____ Decrease        ____ Remain Constant
+
+10. The choke has to be gradually closed due to a string washout. What effect does this have
+
+   on the bottom hole pressure? (Choose ONE answer).
+
+            Increase
+
+           Decrease
+
+            Stay the same.
+
+11. How is a choke washout recognised? (Choose ONE answer).
+
+            Increase in drill pipe pressure but casing pressure does not change.
+
+            Increase in casing pressure but drill pipe pressure does not change.
+
+           Having to close choke to maintain drill pipe and casing pressures.
+
+           Having to open choke to maintain drill pipe and casing pressures.
+
+12. When SPM is increased during a kill, what should happen to casing pressure to keep
+   bottom hole pressure steady? (Choose ONE answer).
+
+           Casing pressure should be allowed to increase.
+
+           Casing pressure should be allowed to decrease.
+
+           Casing pressure should be held steady.
+
+13. How would choke plugging be recognised during a kill operation? (Choose ONE answer)
+
+           Decrease in pump pressure with no change to casing pressure.
+
+            Continually opening the choke to maintain correct circulating pressure.
+
+           Decrease in casing pressure with no change to pump pressure.
+
+            Continually closing the choke to maintain correct circulating pressure.
+
+                                                  7 - 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+14. The drill string is slowly washing out and choke is closed to maintain correct drill pipe
+    pressure. What is happening to the bottom hole pressure? (Choose ONE answer)
+
+                 It will decrease.
+
+                 It will remain constant.
+
+                 It will increase.
+
+15. Which of the following will be affected by a string washout? (Choose TWO answers).
+
+        MAASP.
+
+         Pump Pressure for kill.
+
+           Formation fracture pressure.
+
+          Bottom Hole pressure
+
+16. The well is shut-in with the following pressure readings:
+
+        Shut-in casing pressure              :      0 psi
+        Shut-in drill pipe pressure          :      435 psi
+
+      The annulus is observed through the choke, and there is no flow. What will be the
+        diagnosis?
+
+          The well was swabbed in.
+
+          The hole is packed off around BHA.
+
+          The formation at the shoe has been fractured.
+
+          The drill string has twisted off.
+
+          The choke gauge failed.
+
+                                                  7 - 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+17. During a kill operation, it is recognised that there is a small loss of drilling fluid to the
+    formation. Which of the following actions has to be performed in order to reduce the
+    pressure at the weak zone?
+
+          Reduce the viscosity in the kill fluid circulated.
+
+          Reduce the drilling fluid pump speed or change to the cement pump for a
+            reduction in the flow rate and keep the bottom hole pressure as close as possible
+             to pore pressure.
+
+               c.  Stop circulation and shut-in the hole. Let the influx come to the surface by
+            migration while the bottom hole pressure is controlled by use of the Volumetric
+           Method.
+
+18. Which of the following parameters will NOT be affected by a string wash-out during a
+    well kill operation, when using the Driller’s Method?
+
+          Bottom hole pressure.
+
+           Formation fracture pressure.
+
+          Slow circulating rate pressure.
+
+19. How can a washout at the choke be recognised? (Choose ONE answer).
+
+              Drill pipe and casing pressures both falling.
+
+            Increase in casing pressure but drill pipe pressure does not change.
+
+              Drill pipe and casing pressures both rising.
+
+            Increase in drill pipe pressure but casing pressure does not change.
+
+20. Kill rate is 35 SPM. Pump Pressure = 700 and Casing Pressure = 1000. Pump speed is
+    decreased to 25 SPM holding 1000 psi on Casing. How will this affect bottom hole
+    pressure (ignore any ECD effect).(Choose ONE answer).
+
+            Decrease.
+
+            Stay the same.
+
+             Increase.
+
+21. When circulating out a kick, the Casing pressure approaches MAASP while influx is still
+    in the open hole. What should be done? (Choose ONE answer).
+
+           Operate choke to prevent pressure exceeding MAASP.
+
+           Minimise any extra pressure in the annulus without going underbalance.
+
+              Start pumping extra heavy mud down the drill string.
+
+                                                  7 - 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+22. What is the effect on bottom hole pressure if the following actions are taken during a well
+     kill?
+
+         a.    If SPM is increased from 20 to 30 whilst holding drill pipe pressure constant:
+           (Choose ONE answer).
+
+          ____ Increase           ____ Decrease           ____ Stay the same
+
+         b.   Kill Mud is pumped to the bit while holding drill pipe pressure constant:
+           (Choose ONE answer).
+
+          ____ Increase           ____ Decrease              ____ Stay the same
+
+23. Kick is taken in a horizontal well. SIDPP = SICP. Influx is circulated out using Driller’s
+   Method. When influx is circulated out of the horizontal section and into the more vertical
+    section, the Casing pressure increase quite rapidly, why?
+
+        ECD is much greater in the horizontal section.
+
+             .    This is because kill mud was not pumped from the start of the kill.
+
+         c.   This is normal for any well when Driller’s Method is used.
+
+             .    There is no loss of hydrostatic head until gas arrives at the inclined or vertical
+             section of the well.
+
+24. Pump speed is increased during a kill and bottom hole pressure is kept constant. What
+    should happen to pump pressure? (Choose ONE answer)
+
+           Pump pressure should rise.
+
+             .     Pump pressure should stay the same.
+
+           Pump pressure should fall.
+
+25. During a well kill operation, the choke operator notices that both drill pipe and casing
+    pressures are slowly decreasing. He reacts by adjusting the choke to maintain the original
+   pump pressure.
+
+      What effect does this choke adjustment have on the bottom hole pressure?
+
+          Bottom hole pressure decreases.
+
+          Bottom hole pressure is returned to correct value.
+
+          Bottom hole pressure is not affected by choke adjustment.
+
+                                                  7 - 6

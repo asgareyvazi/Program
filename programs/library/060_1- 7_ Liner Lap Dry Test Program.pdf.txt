@@ -1,0 +1,339 @@
+# SOURCE: 1- 7'' Liner Lap Dry Test Program.pdf
+
+📄 فایل 60 از 214  |  1- 7'' Liner Lap Dry Test Program.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            NIDC Drilling Projects Management
+              Drilling Engineering & Programming Division
+                South Azadegan Oil field
+
+               Dry Test Program AZNS 166 – Rev 0.0                                                         PEDEC
+
+              Detailed Working Instruction
+
+               7” Liner Lap inflow test program
+
+                  Rev.0.0
+
+                              Nov. 2019
+
+                    South Azadegan Oilfield
+                  (Deviated Well Pad 9 – Area: I)
+
+                         Position            Name         Date & signature
+Prepared by  NIDC Senior drilling Eng.      M.Shokri
+             Head of drilling operation   M.Khavarinejad
+Approved by
+              Head of drilling Eng.     M. Mazaheri
+
+                                                             1 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+             NIDC Drilling Projects Management
+               Drilling Engineering & Programming Division
+                 South Azadegan Oil field
+
+                Dry Test Program AZNS 166 – Rev 0.0                                                          PEDEC
+
+Well name: AZNS-166
+
+Rig name: 28 Fath
+
+Well Current Status Data:
+
+   KOP @ 2735m
+    9 5/8” Casing shoe @ 1764m, MD
+    8 1/2” hole @ ±4197m, MD-3532.98 m, TVD
+   Mud Weight ±80pcf
+
+7” Liner Data:
+
+    Weight: 29lbs/ft (SD)
+    Grade: L-80
+    Thread Connection: TPCQ
+    7” Top of Liner ±1608 m MD
+    7” Shoe 4193m, MD
+
+Exposed Formation Characteristics (Asmari):
+    Datum Depth: 1774m TVD
+    Datum Pressure: 3026psi
+
+                                                               2 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 NIDC Drilling Projects Management
+                      Drilling Engineering & Programming Division
+                     South Azadegan Oil field
+
+                     Dry Test Program AZNS 166 – Rev 0.0                                                               PEDEC
+
+     Well profile :
+
+                           Formation Tops
+      Formation                       AZNS#166 K03 Well Sketch
+                         Depth(m), MD, TVD
+
+                             MD         TVD
+  0
+                    Aghajari                                                 20" Casing @ 147 m
+
+500m
+
+1000m
+
+                                        1283           1283                   13 3/8" Casing @ 1338m
+                  Gachsaran
+
+1500m
+
+                                        1774           1774                    9 5/8" Casing @ 1764m
+                    Asmari
+
+ 2000m
+                                        2111           2111
+                  Pabdeh
+
+                                        2357           2357
+                      Gurpi                                             7" liner F/1608.2 m to 4193m,MD
+
+2500m
+                                        2618           2618
+                      Ilam
+                                        2727           2727
+                     Lafan              2736           2736                 KOP @ 2735m
+                    Sarvak
+
+3000m
+
+            Kazhdumi                3847            3366
+
+3500m
+              7" Liner Point             4197           3532.98
+
+                                                                    3 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                              NIDC Drilling Projects Management
+                                         Drilling Engineering & Programming Division
+                                   South Azadegan Oil field
+
+                                    Dry Test Program AZNS 166 – Rev 0.0                                                                            PEDEC
+
+   PROPOSED SCKETCH OF DRY TEST BHA
+
+                                                                          O.D.    I.D.    Length  Top Depth BTM Depth
+                       Description              Top Connection BTM Connection
+                                                                                                                 (Inch)    (Inch)       (m)           (m)           (m)
+
+                   5" DP (±163 Joints)          4 1/2 IF     4 1/2 IF       5    4.278    1568.06         -1.3        1566.8
+
+                    Reversing Sub            4 1/2 IF     4 1/2 IF    6 1/4"  3 1/8"      0.28        1566.8       1567.1
+
+                  5" Drill Pipe (1 Joint)          4 1/2 IF     4 1/2 IF      5    4.278      9.62        1567.1       1576.7
+
+                      X.Over Sub             4 1/2 IF     3 1/2 FH     4.75    2.25       0.80        1576.7       1577.5
+
+                         D.C.I.P Valve             3 1/2 FH    3 1/2 FH      5"    0.87"     1.48      1577.5     1579.0
+
+                  Hydro.Spring Tester         3 1/2 FH    3 1/2 FH      5"     0.75       1.50        1579.0       1580.5
+
+                      Middle B.T             3 1/2 FH    3 1/2 FH      5"   2 1/16"      1.26        1580.5       1581.7
+
+                           Jar                3 1/2 FH    3 1/2 FH     5      1.00"       1.01        1581.7       1582.8
+
+                   V.R Safety Joint           3 1/2 FH    3 1/2 FH      5"     1.00"       0.84        1582.8       1583.6
+
+                     9-5/8" RTTS Packer
+                                                                                                               0.41        1583.6       1584.0
+            (Above Middle Element= 0.41 m)
+                                            3 1/2 FH    3 1/2 FH    8 1/4"   2 3/8"
+                     9-5/8" RTTS Packer
+                                                                                                               1.26        1584.0       1585.3
+            (Below Middle Element= 1.26 m)
+
+                   Anchor Pipe             3 1/2 FH    3 1/2 FH      5"       2"        1.50        1585.3       1586.8
+
+                   Blanked Off B.T           3 1/2 FH            --         5"   B.OFF     1.24      1586.8     1588.0
+
+Note: All a/m depths are predicted.Actual taley will be produced based on real packer depth on site and will be delivered as a job final
+report.
+
+                                                                                                    4 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                NIDC Drilling Projects Management
+                    Drilling Engineering & Programming Division
+                    South Azadegan Oil field
+
+                   Dry Test Program AZNS 166 – Rev 0.0                                                             PEDEC
+
+   HSE Focal points:
+
+    Safety and operations meeting held prior to operation.
+    Personal safety/H2S Safety equipment.
+    Refer to safe handling/ lifting instruction.
+
+              Use barrier tape
+              Keep people away
+
+o Radio communication / Respond back on communication
+
+                                                                  5 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                NIDC Drilling Projects Management
+                    Drilling Engineering & Programming Division
+                    South Azadegan Oil field
+
+                   Dry Test Program AZNS 166 – Rev 0.0                                                             PEDEC
+
+Normal practice:
+
+1-  Prior to start the jobs for the inflow test, it is necessary to scrape 9 ⅝” casing specially 1584 m
+   ±20 m ( packer set depth)
+2- Lay down 9 5/8" scraper BHA and check  all scraper blades.
+3- Remove wear bushing.
+4- Assemble Dry DST BHA under instruction of in charge operator.put one set mechanical
+   guage in the BTM carrier and one set electronic memeory gauges in the middle carrier.
+5-  Start run in hole while Fill string every each 5 stands with cushion to 478 m. Check the level of
+   cushion inside string.Any drop level or return must be reported to DST operator ASAP.
+6-  Cont. RIH to 1588 m.
+7- Pick up and make up surface test equipments including flow head,flowing lines, DST floor
+   choke manifold. Test surface equipments up to 3000 psi for 15 min.
+8-  Set the packer at 1584 m.
+   Note: Dry test packer Not be set on casing coupling
+9- Check to observe indication of tester valve opening.check annalus level.
+10- Perform initial flow period to 180 minutes.Check bubbles in bucklet. If cushion got on
+    surface, terminate flowing period and go to next step of Dry test by closing DCIP valve.
+11- Shutt the well from DCIP for 360 minutes.
+12- Drop the bar and perform reverse mud circulation from reversing sub in the fifth hour of
+    build up period.check return.record water, mud and probable influx.
+13- Continue till mud balanced on both sides.
+14- Perform direct circulation at least one cycle.
+15- Lay down surface tools and unset packer.
+16- Perform mud circulation one cycle.Monitor the well for 30 min., If static start, make the
+   well secured under supervision of DSV ,then POOH to surace slowly to prevent swabbing.
+17- Lay down DST BHA,Read charts, provide final report and inform the base in Ahwaz.
+
+Formation Pore Pressure
+
+                                                                  6 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 NIDC Drilling Projects Management
+                    Drilling Engineering & Programming Division
+                    South Azadegan Oil field
+
+                    Dry Test Program AZNS 166 – Rev 0.0                                                              PEDEC
+
+NOTE: All the packer and running calculation must be validated at rig-site.
+
+Memory gauge should be used for record pressures (72 hrs-5000psi)
+
+                 Cushion type                     Fresh Water
+
+                 Cushion Density                  62.4 pcf
+
+                 Cushion Height                478 m
+
+                  Packer Depth                  ±1584 m MD
+
+                  Pressure @±1774m (TVD of
+                                              3026 psi
+                Asmari)
+
+                 Asmari Pressure@1584m (PKR
+                                          2679 Psi
+                   depth)
+
+                  Drive Force                    2000 psi
+
+              478m Water cushion head        679 Psi
+
+ * With respect to 80 pcf mud between DST Packer and 7"Liner Lap and 80 pcf mud between liner lap
+
+ and Asmari formation.
+
+                                                                   7 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                    NIDC Drilling Projects Management
+                          Drilling Engineering & Programming Division
+                        South Azadegan Oil field
+
+                        Dry Test Program AZNS 166 – Rev 0.0                                                                 PEDEC
+
+    Contingency Plan for Dry Test Operation
+
+Item            Situation                                   prospect
+
+        Observe reverse             1- Put safety valve on the string
+                                      2- Check annulus to ensure the level getting down          circulation during RIH
+  1                                  3- R/Up surface equipment , complete reverse circulation till         before getting packer
+                             mud balance ,direct circ., POOH
+        depth
+
+                                      1- Remove the weight up to neutral weight
+                                      2- Check stuck under supervision of Dry test operator
+         String took weight in the                                      3- Problem solved , continue RIH , if not ,reverse circ., dump  2
+         casing during RIH              water cushion, Till mud balanced, direct circulation,
+                         POOH to check packer and make decision
+
+                                      1- Check instruction of set the packer
+                                      2- Complete Trouble shooting under supervision of Dry test
+                                         operator
+  3     Packer set has problem       3-  If problem remained, up to DST operation decision ,
+                                           release the bar , complete reverse circulation, mud circ.,
+                         POOH change BHA
+
+                                      1- Check return fluid on the floor
+        Annulus level is dropped                                      2- Close down hole auxiliary valve  4
+         during the test period        3- Complete reverse circulation ,direct Circ., POOH
+
+                                      1- Close the well from DCIP valve and finish flowing period        Water cushion reached to
+  5                                  2- Go to next step for well shut-in period         surface during test period
+
+                                      1-  Control the determined weight on the packer
+        Observe flowing from the                                      2- Close pipe rams , perform precaution action of well  6
+        annulus during the period        control as NIDC policy
+
+                                      1- Complete procedure of releasing packer
+                                      2-  If DST operation requests , back off string from safety
+  7     Packer not released                joint, POOH,
+                                      3- Perform fishing job
+
+        Data charts are not in good
+  8                                  1- Check the BHA and down hole gauges
+         condition                                      2-  Change gauges and repeat the job
+                                      1-  close safety valve
+                                      2-  install accessories devices to bypass leakage        Observe leakage from
+  9                                  3- Perform well control and HSE safety rules as NIDC         surface equipment
+                                         policy
+
+                                      1- Wait 10 minutes more than usual situation.
+        Pin not sheared when                                      2- Complete the job and perform reserve circulation via 11
+        dropped the bar             DCIP valve.
+
+                                                                       8 | P a g e o f  9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                   NIDC Drilling Projects Management
+                        Drilling Engineering & Programming Division
+                       South Azadegan Oil field
+
+                       Dry Test Program AZNS 166 – Rev 0.0                                                                PEDEC
+
+                                    1- Close the well from down hole tester valve
+     DCIP failure when closing                                    2- Up to well condition and flowing period perform the test12
+       the well                         or going to next step to perform reverse circulation.
+
+                                                                      9 | P a g e o f  9

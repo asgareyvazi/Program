@@ -1,0 +1,837 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 18 ]
+────────────────────────────────────────────
+                                        Sarkhoon-14 Loc. W058N
+
+
+                                  Workover Program-1
+
+
+                                 In the Name of God
+
+               Workover Program
+
+          « SARKHOON-14 (W/O-1) »
+
+
+
+                                                           SIGNATURES & DATE
+
+                                     P.P.Z
+
+                P.Gitynejad      Drilling Engineer
+Prepared by  :
+
+                M.Alekasir     Head of Drilling Engineering Department
+Supervised by :
+
+Approved by  :  S.Eskandari    Head of Drilling Operation
+
+                                                  I. C. O. F. C
+
+Approved by :   T.Farhadian    Head of Drilling Chemicals Department
+
+Approved by :   S.Zarei        Head of Drilling Programming
+
+Approved by :   L.Eshghee      Head of Drilling Engineering Department
+
+Approved by :   G.Dowlatnia    Head of Drilling Operation
+
+
+
+       DISTRIBUTION LIST:
+
+          I.C.O.F.C.                                    4 Copies
+       NIDC                                       4 Copies
+          P.P.Z.                                       2 Copies
+        Rig Site                                      2 Copies
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 18 ]
+────────────────────────────────────────────
+                                        Sarkhoon-14 Loc. W058N
+
+
+                                  Workover Program-1
+
+
+                              Table of Contents
+
+
+
+1.      Introduction ................................................................................................................... 1
+1.1     Program Introduction ......................................................................................................................... 1
+1.2      General Well Information .................................................................................................................. 2
+1.3     Well Drilling History ......................................................................................................................... 3
+1.4     Workover & Production History ...................................................... Error! Bookmark not defined.
+1.5      Formation Tops / Well Sketch (Before Workover)............................................................................ 6
+1.6      Reservoir Data .................................................................................................................................... 7
+1.7      Casing in Hole .................................................................................................................................... 8
+1.8      Current completion string (Before Workover) ................................................................................... 9
+
+2.     Workover Program ..................................................................................................... 10
+2.1    Sequence of Workover Operation ................................................................................. 10
+2.2   Mud program ................................................................................................................. 12
+2.3   BHA Design .................................................................. Error! Bookmark not defined.
+2.4     Hydraulic Program ........................................................ Error! Bookmark not defined.
+2.5    Time Break down of operation ..................................................................................... 17
+2.6    Time Vs. Depth Chart ................................................... Error! Bookmark not defined.
+
+3.     Formation Tops / Well Sketch (After Workover) ........ Error! Bookmark not defined.
+
+4.     Proposed Completion String (After Workover) ........... Error! Bookmark not defined.
+
+5.     Completion Fluid Formulation ...................................... Error! Bookmark not defined.
+
+6.     Wellhead Schematic (Before Workover) ...................... Error! Bookmark not defined.
+
+7.     Wellhead Schematic (After Workover)..................................................................... 19
+
+8.     Requirement ................................................................................................................ 20
+
+9.     Contact List .................................................................................................................. 21
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 18 ]
+────────────────────────────────────────────
+                                    Sarkhoon-14 Loc. W058N
+
+
+                               Workover Program-1
+
+
+1. Introduction
+
+     1.1    Program Introduction
+
+              This program covers workover of well No.14, of Sarkhoon gas field, I.R.Iran. The well is
+              gas producer from Razak formation right now with 51.2 MMSCFD.
+
+            Problem
+            The main problem is the flowing of salt water from both 7" x 9-5/8" and 9-5/8" x 13-3/8"
+              annuluses. All evidences show a relation between 7" x 9-5/8" and 9-5/8" x 13-3/8"
+              annuluses. The relating fluid is milky salt water.
+
+           Main Objective
+           The main objective of this program is to fix the problem and to resume gas production
+            from Razak formation.
+
+             Note: This program has been written with respect to the available information of
+             workover request no. 860/50/ چ ت ب, dated: 1386 0//3 26 petroleum engineering
+              department.
+
+           The main head lines of this program are as follow:
+                1.     Re-check the pressure of well head and annuluses. Investigate for any relation
+                   between the annuluses.
+                2.      Kill well using hi-PH water.
+                3.      Install plug in top No-Go landing nipple and pressure test inside tubing.
+                4.    Open SSD and displace annulus with hi-PH water. Close SSD. Monitor and
+                       investigate for any leakage of 9-5/8" casing and any relation between 7"x9-5/8"
+                   and 9-5/8"x13-3/8" annuluses.
+                5.      Kill the well above packer using proper hi-weight. N/D well head & N/U BOP'S.
+                6.      Pull out & L/D completion string to top of packer.
+                7.     Try to find out leak point/interval of 9-5/8" casing using RTTS and hi-PH water.
+                       (In case of hi-flowing rate of salt water cement squeezing job maybe planed in
+                   due time)
+                8.     Mill out and retrieve packer and its tail.
+                9.     Set a bridge plug inside 7" liner.
+              10.    Displace hole with proper mud weight (max 114 pcf).
+              11.    Tie beck 7" short liner up to 120m above the top of leakage area.
+                            (It is probable to extend 7" liner to surface)
+              12.    Clean out inside 7" liner down to bottom.
+              13.   Run completion string.
+              14.   Flow the well on proper choke sizes & record the flowing pressures.
+              15.    Secure well.
+
+              Attentions:
+
+                •  The detailed program is illustrated here after in this document under the
+                  head of "Workover Program".
+
+                                                                         - 1 -
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 18 ]
+────────────────────────────────────────────
+                                   Sarkhoon-14 Loc. W058N
+
+
+                              Workover Program-1
+
+   1.2    General Well Information
+
+
+Country / Area:       Iran / Bandar Abbass     Client:             ICOFC
+
+ Field:              Sarkhoon                Contractor:         NIDC
+
+Well Name:         SA-14                  Rig Name:          FA 84
+
+Well Type:          Workover # 1         RTE:               139m
+                  Gas producer from
+ Present Status:      Razak Fm (Perforated)   GLE:               132m
+                       51.2 MMSCFD
+                   N: 653,354                                  X: 438,144
+Lambert:                          UTM:                    E: 2,626,556                                 Y: 3,023,476
+                                   Casing / Liner
+                                                                7" Liner @
+    20" @ 60m         13-3/8" @ 1467m          9-5/8" @ 2560m
+                                                                 2436-2882m
+
+                                Other Information
+
+Razak Entry Point:      2660m (-2520.8)     Jahrum Entry Point:    2866m (-2726.75)
+Gas / Water                          -3075m          Total Vertical Depth:   3340m (-3200.75)
+Contact:
+
+
+
+
+
+                                                                       - 2 -
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 18 ]
+────────────────────────────────────────────
+                                    Sarkhoon-14 Loc. W058N
+
+
+                               Workover Program-1
+
+
+    1.3    Well Drilling History
+
+                                                                                               :گرديد پا بر 84 /03/31 مورخ 12:00 ساعت ر د فتح 66 دكل
+                                               :26"حفره
+                                                           .شد حفاري 70 PCF وزن حداكثر با بنتونايتي گل با متري 62 عمق تا 111 مته با حفره اين
+"ABB                                                60       (K-55, 133#) 20 "     مشخصات به مبنا ماسوره .شد مالحظه سيمان برگشتي گرديد، سيمان و شد رانده متري   عمق تا                جداري
+                                                                                                           .بود خوب شد، فشار آزمايش و نصب 20-3/4"-3K"
+
+                                             :17-/12"حفره
+       تا گل وزن چاه تنگي سبب به شد حفاري 90-70) PCF ( نمكي آب گل با متري 1467 عمق تا 135 ، 121 ، 111 هاي مته با حفره اين
+                                    .است داده نشان را انحراف درجه /075 كه شد يابي زاويه چاه متري 926 عمق در .شد داده افزايش 90 PCF
+                              1467      N-80     83  NSST     11 C-95     30، 72 #  13   8 " برگشتي گرديد، سيمان و شد رانده متري     عمق تا )     شاخه   و       شاخه     ،     شاخه         (   - /3   جداري
+  (FMC, مشخصات به جداري لوله سر ماسوره همچنين و DSA (ABB, 20-3/4"-3K x 16-3/4"-5K) تبديل نصب .شد مالحظه سيمان
+     به مربوط هاي P.Seal و بود شده نصب تبديل از نشتي .داد نشان نشتي كه شد فشار آزمايش و نصب 16-3/4"-5K x 13-5/8"-5K)
+                                                                                                                                                .اشتند ند مشكلي ماسوره
+
+                                             :12-/14"حفره
+     دليل به مرحله چند طي گل وزن شد، حفاري ) 114-90 PCF ( آبي پايه گل با متري 2564 عمق تا PDC و 135 هاي مته با حفرهاين
+                                                                                                                                .شد برده باال 114 PCF تا چاه تنگي
+                                                                                     .شد گرفته متري 2562 عمق تا متري 1391 عمق از GR-CDR نمودار
+   2560        L-80, 43.5#     59  L-80, 47#     92  L-80, 53.5#     59  P110, 53.5#     9- 5/ 8 "       عمق تا )           شاخه   و          شاخه   و            شاخه   و            شاخه (6        جداري
+                                                                                                 .نشد مالحظه سيمان برگشتي گرديد، سيمان و شد رانده متري
+                                                    .بود خوب شد، فشار آزمايش و نصب 13-5/8" x 11"-5K "Cameron" مغزي سرلوله ماسوره
+
+                                              :8-/12"حفره
+      ادامه متري، 2657 عمق تا متري 2605 عمق از گيري مغزه عمليات انجام ، ) آبي پايه گل 88/89-5 PCF ( متري 2605 عمق تا حفاري
+ ، آبي پايه گل 91-90 PCF( متري 2870 عمق تا متري 2821 عمق از گيري مغزه عمليات انجام متري، 2821 عمق تا PDC مته با حفاري
+         2882     در 7 "                                 DST-    ( متري     عمق      آستري نصب محل تا حفاري ادامه ، ) گرفت صورت        مته ساق آزمايش گيري مغزه مرحله دو هر در
+ تست و RFT, QPG, GR نمودار راندن .شد گرفته متري 2500 تا متري 2881 از Full Suite Log نمودار .) آبي پايه گل 92-91PCF
+                                                                                                 .نرفت تر پايين ابزار نقطه اين از كه متري 2830 عمق تا نقاط
+
+
+                                                                         - 3 -
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 18 ]
+────────────────────────────────────────────
+                                    Sarkhoon-14 Loc. W058N
+
+
+                               Workover Program-1
+
+  لبه خشك و فشار آزمايش سيمان حفاري از بعد كه گرديد سيمان و شد رانده متري 2882 تا متري 2436 عمق از L-80 ، 29 # ، 7 " آستري
+                                                                                                                                              .بود خوب دو هر آستري
+                                            :6   8"                                    -/1 حفره
+    از Core bit 6- /18 " با گيري مغزه عمليات انجام و مته ساق با آزمايش شد انجام متري 2936 عمق تا باال PH آب با حفره اين حفاري
+       تا متري 3300 عمق از Full Suite نمودار راندن . 65 pcf گل وزن با متري 3340 عمق تا سازند حفاري  .متري 3036 تا متري 2936
+                                                              . CBL/VDL نمودار راندن ،) 67 pcf  تا گل وزن افزايش چاه تنگي دليل به( متري 2882
+                                                                                                                                             : CBL/VDL نمودار نتيجه
+                 %60 - 70 :متري 2630- 2660 ، %90- 100 :متري 2660- 2760، %70 :متري 2760 - 2850 ، % 90 :متري 2880-2850
+            سيمانبدون:سطح-2050 ، %40- 50 :متري 2050- 2100 ، %80- 90 :متري 2100- 2436 ، %90- 100 :متري 2630 -2436
+                       VSP و RFT           70 pcf    به .گرفت صورت مخزن ارزيابي براي              نمودار راندن).           تا گل وزن افزايش چاه تنگي دليل به( چاه شرايط بهسازي
+                                                                                                        .شد برده باال 82 pcf تا گل وزن چاه داشتن جريان دليل
+
+                                     CLORIDE
+      MW (PCF)      FLOW (BPH)                      Ca (PPM)
+                                             (SALINITY)
+                73                  1               286000               600
+
+                74                     1.8              294000              1040
+
+                76                     1.3              294000              1360
+
+                78                     1.5                        ---                         ---
+
+                80                     1.1                        ---                         ---
+
+                82                  1                         ---                         ---
+
+        انجام .باال PH آب با چاه داخل گل جابجايي .شد داده قرار (Plug Back) سيماني پالگ متري 2770 عمق تا متري 2876 عمق از
+  .)متري 2727 عمق در پكر نصب( مته ساق با آزمايش ، )15 S.P.M & 4-1/2" HSD ،متري 2753 تا متري 2747 ( كاري مشبك عمليات
+
+
+DST#1:
+
+
+                                       RIG CHOKE
+                       DST CHOKE                 BURNNING LINE
+      CHOKE SIZE (in)                 MANIFOLD
+                    MANIFOLD (PSI)                               (PSI)
+                                                           (PSI)
+                  1/4                2200              1700                110
+
+                  1/2              1850-2000          1300-1400             120
+
+                  3/4                1880              800-900              120
+
+                1                 1780              500-550              120
+
+
+
+
+                                                                         - 4 -
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 18 ]
+────────────────────────────────────────────
+                                    Sarkhoon-14 Loc. W058N
+
+
+                               Workover Program-1
+
+
+ آزمايش ، ) Totally: 99 Shots & 4-1/2" HSD ،متري 2680 تا متري 2674 ( كاري مشبك عمليات انجام . 66 pcf تا گل وزن افزايش
+                                                                                                    .)متري 2650 عمق در پكر نصب( مته ساق با
+
+DST#2:
+
+                                       RIG CHOKE
+                       DST CHOKE                 BURNNING LINE
+      CHOKE SIZE (in)                 MANIFOLD
+                    MANIFOLD (PSI)                               (PSI)
+                                                           (PSI)
+
+                1               1700-1750           480-500             110-115
+
+
+                           .Packer Fluid (MW:66 PCF, PH=11 W/Corrosion inhibitor)                                                                                                                                                                        با چاه داخل گل جابجايي
+                     2380 73                         2414      (Baker Type) 7" x 9- 5 / 8 " و مغزي فشار آزمايش .متري      /  عمق در پكر نصب شد، رانده متري     عمق تا                             تكميلي رشته
+                                                 .بود خوب شد، فشار آزمايش پام 4500 با و شد نصب چاه سر تاج .بود خوب پكر، و حلقوي فضاي
+،،بستند ساعت يك مدت به را چاه  Landing Nipple داخل در Dummy نصب كردند، خارج NO-GO داخل از را Prong و Plug
+                                                                .نتيجه بدون پام، 3000 فشار حداكثر با پذيري تزريق در سعي .نشد مشاهده جرياني هيچ
+  چاه تاج شيرهاي تمام و شد ايمن چاه .شد موكول سيار مغزي لوله حضور در و دكل ترخيص از بعد به چاه دادن جريان عمليات ضمن در
+                                                                                                           .شد بسته سطحي ايمني شير و پاييني اصلي شير جز به
+                                                                                                      .شد خيص تر 1384 /07/21 مورخ صبح 6 ساعت در دكل
+
+
+                                     كاري مشبك
+                     نتيجه                       سازند   )(حفار متر عمقي بازه     شماره
+      آب مقداري با همراه گاز جريان            رازك             2680-2674        1
+                   گاز توليد                   رازك     )(جديد 2728-2707      2
+                   گاز توليد                   رازك     )(جديد 2742-2731      3
+      آب مقداري با همراه گاز جريان            رازك             2753-2747        4
+
+
+                                                       .جهرم سازند در ترش گاز ورازك سازند وبازدهگوري در شيرين گاز :هيدروكربن هاي نشانه
+
+
+
+
+
+                                                                         - 5 -
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 18 ]
+────────────────────────────────────────────
+                               Sarkhoon-14 Loc. W058N
+
+
+                           Workover Program-1
+
+1.4    Formation Tops / Well Sketch (Before & After Workover)
+
+
+
+
+
+                                                                 - 6 -
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 18 ]
+────────────────────────────────────────────
+                                    Sarkhoon-14 Loc. W058N
+
+
+                               Workover Program-1
+
+     1.5    Reservoirs Data
+
+
+
+Guri Bazdeh:
+
+
+               Item                     Measure                     Unit
+
+Datum Depth:                                -2400                        m.s.s.d
+
+Datum Pressure (Gas):                       3090                           psi
+
+Temperature @ Datum Depth:                 208                    ºFahrenheit
+
+Gas Water Contact:                           -3075                        m.s.s.d
+
+Gas Pressure Gradient:                            0.1                              psi/ft
+
+Temperature Gradient:                        0.0184                  ºFahrenheit /ft
+
+
+
+
+Razak / Jahrum:
+
+
+               Item                     Measure                     Unit
+
+Datum Depth:                                -2750                        m.s.s.d
+
+Datum Pressure:                            3288                           psi
+
+Temperature @ Datum Depth:                 220                    ºFahrenheit
+
+Gas Water Contact:                           -3075                        m.s.s.d
+
+Gas Pressure Gradient:                            0.1                              psi/ft
+
+Temperature Gradient:                        0.0184                  ºFahrenheit /ft
+
+
+
+
+
+                                                                         - 7 -
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 18 ]
+────────────────────────────────────────────
+                               Sarkhoon-14 Loc. W058N
+
+
+                           Workover Program-1
+
+1.6    Casing in Hole
+
+
+
+
+              Casing shoe                                      Collapse     Burst
+Casing/Liner
+                 depth     Casing Specification  Interval (m)   resistance   resistance
+     size
+                 (m)                                                     (psi)         (psi)
+
+
+
+    20"           60         133#, K-55, BTC       0-60        1500       3060
+
+
+
+
+                                72#, N-80, BTS       0-1000       2670       5380
+
+
+   13-3/8”        1467        72#, NSST, BTS     1000-1120
+
+
+                                72#, C-95, BTS     1120-1467     2820       6390
+
+
+
+
+                                 43.5#, L-80, SEC       0-692       3810       6330
+
+
+                                47#, L-80, PTB      692-1786      4750       6870
+
+   9-5/8"        2560
+
+                                 53.5#, L-80, SEC    1786-2487     6620       7930
+
+
+                                53.5#, P-110, SEC    2487-2560     7950      10900
+
+
+
+
+  7" liner        2882       29#, L-80, N.Vam   2436m-2882     7030       8160
+
+
+
+
+
+                                                                 - 8 -
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 18 ]
+────────────────────────────────────────────
+                               Sarkhoon-14 Loc. W058N
+
+
+                           Workover Program-1
+
+1.7    Completion String before Workover
+
+
+
+
+
+1.8    Completion String after Workover
+
+         This completion string will be issued in due time according to the final well condition.
+
+
+                                                                 - 9 -
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 18 ]
+────────────────────────────────────────────
+                                    Sarkhoon-14 Loc. W058N
+
+
+                               Workover Program-1
+
+2. Workover Program
+
+
+   2.1  Sequence of Workover Operation
+
+
+                1. Move from AGH11 to the well site of SA14, R/U and make  it ready for operation,
+               Record rotary table and tubing head spool elevations from sea level.
+
+                2. The well head spools, valves & P-Seals and x-mas tree must be checked and
+                  serviced by well head specialist. Shall it necessary, well head components should be
+                  repaired after being L/D on the well site or at AHWAZ workshop.
+
+              Attention: Ref to letter No. 86/114/ چ ت ب dated 86/06/06 of head of completion
+               office- South Zagros; the wellhead vales have internal leakage.
+
+                3.  Connect killing & flowing lines to the x-mas tree side outlets and connect return line
+                   to 2-1/16" -5000 side valves of tubing head spool. Test all to 4500 psi pressure.
+
+                4. Record the wellhead pressures; those of tubing, 7" x 9-5/8" annulus, 9-5/8" x 13-3/8"
+                annulus and 13-3/8" x 20" annulus. Release / Bleed off pressures, monitor their build
+               up and investigate for the probable relations.
+
+             Note: Take enough care to consider the collapse and burst pressures of pipes
+             while relation investigation.
+
+                5.  Bullhead the well by pumping hi-PH water which its full column imposes 584psi over
+                 pressure to the reservoir @ top perforations (2674m). Shall could not able to
+                  bullhead, lubricate the well and make sure about well condition.
+
+             Note: Monitor the pressures of annuluses all the time.
+
+                6.  Rig up wireline equipment; test same and lubricators to max 4500psi pressure. Set
+                "AF-4.312" top no-go plug @ ±2394m. Test same and inside tubing to max 4500psi.
+             Open SSD. Displace the well by fresh water (its full column has 266 psi over
+                 pressure against the reservoir pressure @ packer depth (±2382m).
+
+                7.  Monitor tubing annulus flow and pressure build up behaviour and record the flowing
+                   rate and the max pressure build up to calculate proper mud weight to kill the well
+                (114 pcf mud weight maybe necessary).
+
+                8.  Kill the well using proper mud weight. Secure the well and L/D well Head. N/U
+                BOP's.
+
+                9.  Prepare to pull out completion string. Un-Jay anchor seal, pull out and L/D
+                 completion string.
+
+              10. RIH with 8-1/2" E.mill and 8-1/2" casing scraper to top of packer. Scrap the 9-5/8"
+                 casing from surface down to top of packer.
+
+              11. Run CBL/VDL log inside 9-5/8" casing and interpret its reading in due time.
+
+
+                                                                        - 10 -
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 18 ]
+────────────────────────────────────────────
+                       Sarkhoon-14 Loc. W058N
+
+
+                    Workover Program-1
+
+
+12. RIH with 9-5/8" RTTS (Suitable for 43.5 – 53.5 # casing). Perform investigation
+    operation to find out leakage point/interval by setting RTTS at some depths and
+    displacing mud of annulus above circulating valve by fresh water. Record all results
+    carefully for accurate decision.
+
+13. Having find out the leakage point/interval perform injectivity test inside damaged
+   zone and record the injection result. In case of getting good injection rate (at least
+   3bpm / max2000 psi injection pressure), inject neat cement slurry using 9-5/8" RTTS
+    to prevent salt water cross flowing inside perforations after being exposed to hi-PH
+   water column which its full column has less hydrostatic pressure against salt water of
+   damaged zone, but it imposes ±584psi over reservoir pressure @ the perforations.
+
+Note: Shall it impossible to get injectivity inside 9-5/8" casing damaged zone;
+continue the operation following up Item No.15.
+
+14. Displace hole by hi-PH water which imposes 266psi to the reservoir @ packer depth
+   (±2382m) and ±584psi over reservoir pressure @ the perforations. Drill out cement,
+   check inside 9-5/8" casing for any salt water flow. Shall it be static, mill out and push
+   down the packer and its tail down to liner lap. Retrieve packer and its tail.
+
+Attention: Heavy mud losses may occur while milling operation. Use hi-vis pill to
+cure same.
+
+15. Scrap into 7" liner from 2480m to 2550m. Set an EZ-drill bridge plug @ 2500m.
+
+16. Displace mud in hole by previous high weight mud.
+
+17. Dress inside tie back sleeve, run and cement 7" tie back liner up to 120m above the
+    top of damaged area.
+
+Attention: In accordance to the depth of 9-5/8" casing damage, decision maybe
+made to extend the 7" liner to surface. It is highly recommended to pre-plan for
+this operation in due time.
+
+18. Clean out inside 9-5/8" casing to liner lap and inside 7" liner to top of EZ-Drill plug @
+   2500m. Perform liner lap pressure test, max to 2000psi. Dry test liner lap by
+    displacing hole using fresh water.
+
+Attention: Considering the packer setting depth, include casing/liner scraper into
+clean out string while tripping in.
+
+19. Drill out cement and EZ-Drill using hi-PH water, drop and push same down to
+   2770m; top of permanent cement plug.
+
+20. Run completion string as per program which will be offered in due time according to
+    the final well condition.
+
+21. L/D BOP"s stack. N/U wellhead. Perform all needed pressure tests.
+
+22. Connect flowing lines and R/U wireline equipments. Pressure-test them all to
+   4500psi. Retrieve top no-go plug and let the well do flow. Record flowing pressures
+    via different choke sizes.
+
+                                                   - 11 -
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 18 ]
+────────────────────────────────────────────
+                                 Sarkhoon-14 Loc. W058N
+
+
+                             Workover Program-1
+
+
+           23. Shut in the well. Monitor and record wellhead pressure. Operate 3SV, release tubing
+             pressure and test it against well pressure. Fill up above 3SV using completion fluid.
+
+           24. Clean well location and cellar. Secure well. L/D pipes. Release the rig.
+
+2.2 Mud program
+        Hi-PH Water will be used. Proposed mud weight imposes 584psi over pressure to the
+         Razak and 667.5 psi to the Guri Bazdeh reservoirs on top perforations @ 2674m.
+
+        Total Vertical Depth                   3340m (P.Back @ 2770m)
+                     Surface                             700
+                 Open Hole                           0
+                    C.Hole                             637
+               Mud Losses                         563
+        Volume
+                 W/Out                              0
+            (bbls)
+               Mud Treatment                      200
+                  Volume Safety Factor                 800
+                     Less Volume Retained                 0
+                      Total New Volume                   2900
+
+               Mud Type                     Water Base
+               Mud Weight (pcf)              62.4            114
+               PV (CP)                                 ---            ±35
+               YP (Lbs/100ft²)                         ---             15
+                     Gels                                      ---               2/4                                 System    PH                          11             9.5-10
+                Mud       Viscosity (Sec.)                        ---             55
+                W.L (CC)                  N.C           <10
+                       Alkalinity (ppb)                       ---                    ---
+              HPHT (CC)                            ---                    ---
+                     Oil/Water                              ---                    ---
+
+                                Item             Unit           Quantity
+                     Water                        As Required
+                   Lime                       sxs     200        150
+                    Soda Ash                   sxs     50         100                                                 Materials                          Salt                         ton        ---         200
+                        Starch                      sxs        ---         800                Mud
+                         Barite                       ton        ---         500
+             CMC Hi Vis (2-3 lb/bbl)     sxs     200
+
+
+
+
+                                                                   - 12 -
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 18 ]
+────────────────────────────────────────────
+                                                       Sarkhoon-14 Loc. W058N
+
+
+                                                Workover Program
+
+
+2.3  Time Break down of operation
+
+
+      Item                                             Description                                     Estimated Time (Hours)
+
+       1    cking wellhead for any damage or leakage.                                                4
+       2     necting killing, flowing and return lines                                                  10
+       3    ord well head pressures, investigate for pressure relations                                   10
+       4                                      Kill and secure well                                         72
+       5                        L/D well head and N/U BOP's                                     36
+       6                                Pull out completion string                                      30
+       7                 Scrap and clean inside 9-5/8" casing to top of packer                           30
+       8                   Run CBL/VDL log inside 9-5/8" casing                               12
+       9     Check inside of 9-5/8" casing using 9-5/8" RTTS for probable leak point/interval              24
+       12             Cure salt water flowing zone by squeezing cement slurry                         40
+       13                         Mill out and recover packer and its tail                                 32
+       14              Isolate perforated interval from upper section using bridge plug                      36
+       15                   Tie back 7" liner up to 120m above top of leakage                            76
+       16      Drill out Bridge plug and push it down to 2770m; top of permanent cement plug               30
+       17                        Run completion string                                        72
+       18                      N/D BOP's and N/U well head                                     30
+       19                                 Well flowing                                            60
+       20                           Securing well and releasing rig                                    20
+       21                                  Contingency                                            48
+                                             Total Rig Days                                              28
+                                            Total String Days                                             42
+
+
+                                                                                                    - 17 -
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 18 ]
+────────────────────────────────────────────
+                                 Sarkhoon-14 Loc. W058N
+
+
+                             Workover Program
+
+
+3. Wellhead Schematic (Before & After Workover)
+
+
+
+
+
+                                                                   - 19 -
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 18 ]
+────────────────────────────────────────────
+                                 Sarkhoon-14 Loc. W058N
+
+
+                             Workover Program
+
+
+
+4. Requirement
+
+
+
+
+
+                                                                   - 20 -
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 18 ]
+────────────────────────────────────────────
+                                 Sarkhoon-14 Loc. W058N
+
+
+                             Workover Program
+
+
+
+
+
+5. Contact List
+
+
+
+                                        I.C.O.F.C.
+
+
+    Contact             Position          Phone             Ext.          Mobile          Fax
+
+
+                                                                                   88650099
+                 Head of Drilling
+Mr. G.Dowlatnia                        88650100         2534       0912-200-8142   88650158-1008
+                       Operation
+                                                                                  88650159-1008
+
+                 Head of Drilling
+Mr. L.Eshghiee        Engineering        88650100         2516       0912-378 34 57     88650140
+                     Department
+
+                 Head of Drilling
+Mr. S.Zarei                             88650100         2519       0912-324 2709     88650140
+                   Programming
+
+                  Head off
+Mr. T.Farhadian       Chemical         88650100         2522       0912-350 1208     88650140
+                    Engineering
+
+                                          P.P.Z.
+
+
+Mr. M.R.Amiri       Project Manager      88703979          116       0917 313 0989     88703978
+
+
+                                                                                   88650099
+                 Head of Drilling
+Mr. S.Eskandari                         88650100         2535       0912 260 2766   88650158-1008
+                       Operation
+                                                                                  88650159-1008
+
+                 Head of Drilling
+Mr. M.Alekasir        Engineering        88650100         2533       0912 210 2985     88650099
+                     Department
+
+
+Mr. P.Gitynejad      Drilling Engineer      88650100         2536               --------         88650099
+
+
+
+
+
+                                                                   - 21 -
+
+

@@ -1,0 +1,272 @@
+
+
+# TOOL JOINT BACK-OFF PROCEDURE
+Back-off operations must be carefully planned and executed in order to achieve success on the first attempt, while at the same time avoiding injury to rig floor personnel.
+As this is a non-routine operation, all procedures must be performed under the direct supervision of the Smith Red Baron Fishing Tool Supervisor and Contractor Driller/Tourpusher.
+1. 	SAFETY PRECAUTIONS
+a)	Prior to beginning the back-off procedure, the Drilling Supervisor is to conduct a safety 	meeting with all rig personnel who will be involved with the operation.  Personnel are to be 	briefed on the hazards of back-off operation, off-limits areas while torque is being applied 	or held on the drill string, and how equipment is to be handled/operated to avoid injury. All
+Non-essential personnel are to be warned to stay clear of the rig floor until the back off has been completed.
+b)	If the rig tongs and rotary slips will be used to apply and hold either left hand or right hand 		torque in the string, then the slip insert dies are to be inspected to be certain they are sharp 		and fit securely in the insert slots.  Any dies that show even the slightest wear are to be 			replaced.
+c)	If either of the manual drill pipe tongs will be used to hold surface torque in the string while 	the pipe is raised and lowered to work the torque downhole, then it must be ensured that the 	snub line attached to the tong is sufficiently long for this purpose.  If the snub line is too 	short, then when the pipe is raised the tong may lose its bite on the pipe and backlash in an 	uncontrolled and potentially dangerous manner.  If necessary, install extra long snub lines 	and secure them to a derrick leg (or other suitable snub point) to be certain the tongs will 	maintain their bite while working torque downhole.
+d)	When torque is being worked into the pipe using the rotary slips the elevators are to be 	latched around the pipe but positioned slightly below the tool joint such that the pipe is free 	to rotate through the elevators.  Furthermore, if the elevators are being used to manipulate 	the pipe while torque is trapped in the string, the hook swivel is to be Locked if the blocks 	are secured to a guide rail system or Unlocked if they are not.
+e)	Prior to applying left-hand torque, right hand torque is to be applied to the pipe and worked 		downhole to the planned back-off point.  This requirement can be waived in cases where the 		pipe has been worked hard to the right while trying to free the drilling assembly.
+1.	SAFETY PRECAUTIONS - Continued
+f)	While applying left hand torque with the rotary slips, the slip handles are to be tied together 		with a length of wire rope.  This will ensure that the slips are not thrown clear of the rotary 		in the event the pipe breaks high, causing the pipe to jump due to the instantaneous loss of 		strain.
+g)	In cases where the wellbore fluids are not balanced between the inside and outside of the 	drill 	string, or where it is suspected that formation fluids may have migrated into the drill 	string 	annulus, the string shot is to be run using a wireline lubricator and stuffing box.
+h)	The wireline safety procedures for perforating operations are to be followed while making 	up and running the string shot.
+2.	DETERMINING THE FREE POINT
+Two techniques are commonly used to determine the free point of a stuck drilling assembly.
+The first technique simply involves the measurement of pipe stretch for a given over-pull and 	then calculation of the length of free pipe.
+The second technique requires the use of an electronic free point indicating system run on electric line. When possible, the free point tool and back off shot should be run in combination.
+In general, all Red Baron back-off's will be performed based on the free point established using the electronic free point indicator.  However, the calculated free point from pipe stretch data is useful in planning fishing and subsequent operations since the actual free point will typically be within +/- 500'.
+a)	Determining Free Point Based on Pipe Stretch Data
+Free point calculations using pipe stretch data are most accurate in vertical holes where the 	impact of hole drag is minimal.  This method may also be used in directional wells, but will 	probably underestimate the length of free pipe due to the effects of hole drag.
+The following procedure is to be followed when using this technique: -
+i)	Pickup the drill string to the normal pickup weight and mark the pipe at a convenient 	reference point.
+ii)	Take an overpull on the pipe of +/- 50,000 lb. (but do not exceed 80% of the minimum yield strength of the pipe) and set the brake.
+2.	DETERMINING THE FREE POINT - continued
+a)	Determining Free Point Based on Pipe Stretch Data
+iii)	Measure and record the amount of stretch (in inches) that resulted from the overpull.
+iv)	Calculate the length of free pipe using the following equation: -
+Lf = (L x Ap x E ) / (12 x P)
+where:
+Lf	= length of free pipe, feet
+L	= length change due to over-pull, inches
+Ap	= cross-sectional areas of pipe tube, sq.in.
+E	= modulus of elasticity, psi (=30,000,000 psi for steel)
+P	= applied over-pull force, pounds
+v)	The amount of over-pull can be increased if desired, to check the free pipe length calculated 		in (iv) however, it must be remembered to measure the amount of stretch from the initial 			reference point.
+b)	Determining Free Point Using Electronic Free Point Indicator.
+The most accurate and commonly used technique for determining the free point is through the use of an electronic free point indicator.  Schlumberger and Atlas, as well as a number of other electric logging companies offer electronic free point services. The technology involves measurement of the axial and torsional strain in the pipe body through application of tension and torque to the drill string.  Provided the pipe is completely free, a fixed and measurable degree of strain will be recorded by the system's electronics.  Once the degree of strain diminishes, or reduces to zero, the pipe is stuck.  To achieve a successful back-off, the pipe must be 100% free.
+The following procedures and guidelines are to be followed determining the free point using electronic instruments.  In general, a combination free point tool back off shot should be run unless tool limitations necessitate performing two separate runs.
+i)	When using a bow spring anchored free point tool, be certain a wireline swivel/expansion joint has been fitted to isolate possible cable movement from the measuring device.  This is critical, particularly in directional wells, where the cable will tend to move upward as the pipe is stretched.  Lowering the free point tool on depth and then picking up on the logging cable to open the tool to mid-stroke most effectively uses the expansion joint.  If the strain indicating needle jerks when the pipe is tensioned, then the expansion joint will have to be collapsed slightly until the correct space-out is achieved for the amount of pipe tension that is applied.
+If an expanding arm free point tool is used, the expansion joint can still be used, however it is not so critical since these tools firmly anchor the free point tool inside the pipe and are less prone to slippage.  Generally the cable is slackened to provide the necessary allowance for pipe movement.
+2.	DETERMINING THE FREE POINT - continued
+b)	Determining Free Point Using Electronic Free Point Indicator.
+ii)	When free point readings are being taken, the Drilling Supervisor should be present in the logging unit to witness and supervise the operation.  Be certain to maintain a written record of all tool readings as well as tension and torque applied to the drill string.
+iii)	The free point instrument is to be run into the drill string to 1000' below the surface and reference free point readings taken in both tension and torque.  These figures will then be used to indicate the degree of free pipe for readings taken close to the stuck point.  With the spring bow free point tool used by Schlumberger and Atlas, 100% free pipe is generally taken to be 80 units of meter deflection.
+iv)	Once calibrated, the free point tool is run in to 500 ft above the estimated free point 			depth calculated using the pipe stretch technique discussed earlier.  Once on bottom, 			tension readings are to be taken first at each measurement point.  With the pipe tensioned 		on surface to the estimated pick-up weight at the stuck point, apply over-pull to the pipe in 		even load increments (+/- 50,000 lb.) until pipe movement is noted at the free point tool. 		Smooth deflection of the strain indicating needle should be noted if the tool is functioning 		properly.  If the needle jerks erratically, the cable has probably moved or the springs have 		slipped causing interference with the instrument reading.
+v)	Repeat readings as required until a consistent deflection of the free point indicating needle is noted.  The repeatability of the reading may not be precisely consistent and, in these cases, the average of the measured readings should be used.
+vi)	The degree of free pipe at any survey point is then taken as a percentage of the free pipe 		meter deflection measured previously.  Half scale deflection would be 50% free, 3/4 scale 		deflection 75% free, etc.
+vii)	If the pipe is found to be 100% free at a given survey point, drop down the pipe in +/- 100ft. increments repeating the procedure given in step (iv) until the meter deflection reduces to zero.
+viii)	Once the free point in tension has been located, repeat the procedure working up the hole 		taking torque measurements.  Be certain to apply the same amount of torque at each 			depth, taking note of the number of turns required to achieve the desired torque.  Once a 		reading has been taken at a given depth, completely release the torque prior to taking the 		next reading.
+2.	DETERMINING THE FREE POINT - continued
+b)	Determining Free Point Using Electronic Free Point Indicator.
+ix)	The depth where both the torque and tension readings indicate 100% free pipe is taken as the free point.  This is the depth above which the pipe should be backed-off.  When analysing stuck point readings, the following guidelines will prove useful: -
+a)	In a highly deviated well with a significant degree of hole drag, a wide discrepancy between the degree of axial and torsional deflection of the free point meter may be noted. This will likely be due to an inability to work sufficient torque down the hole to achieve full scale deflection.  In this case attempt to work the torque down and repeat the readings.  If the torque cannot be worked down to the right, it will also be difficult to work torque down to the left, therefore, a shallower back-off point should be selected.
+b)	In cases where the bottom-hole assembly is differentially stuck, a sharp distinction between free pipe and stuck pipe will generally be noted.  The length of partially stuck pipe will be short, however the pipe should still be backed off at the point where the pipe is 100% free.
+c)	In those cases where the formation has progressively fallen in behind the drilling assembly, a very gradual transition between 100% free and 100% stuck will be noted.  The tendency here is to try for a deeper back-off however, this should not be attempted, as the time wasted trying to back-off below the 100% free depth will generally result in more of the pipe becoming stuck.
+x)	Once the free point is located, pickup to the tool joint that will be backed off and mark the wireline cable for later reference while running in with the string shot.
+3.	Determining String Tension Required to Back-Off
+Under ideal conditions the desired pipe tension at the back-off point is zero.  Recognising that this cannot be achieved in practice, it is preferred to have the pipe slightly in tension at the back-off point as opposed to compression.
+Calculation of the required surface tension, and how this tension is applied prior to firing the string shot is critical to successfully backing off the pipe at the intended depth.  If too much tension is applied, or if the pipe is in compression, it will probably not back off.  If it does, it will probably be further up the string than planned.  This may require that the pipe is made up again and the back off procedure repeated.
+To determine the necessary surface tension to optimise the tension at the back-off point, the following information is required.
+-	Pickup, slack-off and off bottom rotating weights of the drill string prior to becoming stuck.  These measurements are to be taken with the pumps off.  If the pipe became stuck while tripping, the required figures may have to be estimated based on previously recorded pickup, slack-off and rotating weights recorded while drilling at the depth of the stuck point.
+-	The weight per foot and length of individual components of the drilling assembly.
+-	The density of the drilling fluid in the well
+-	The average hole inclination through the section of the well where the drilling assembly is stuck.
+Once the hook load required to put the back-off point in zero tension has been determined, an additional +/- 5000 lb. of overpull is then applied to ensure that the pipe is in tension rather than compression.  A generalised equation for determining the correct weight indicator reading when the string shot is fired is as follows: -
+
+# Weight Indicator Reading to be held: -
+Pick-up Weight minus Buoyed Weight of Stuck Tools minus Hole Drag of Stuck Tools plus 5,000 lb. Overpull
+Where: -
+1) Pick-up Weight is the weight of entire drilling assembly before becoming stuck
+
+# 2) Buoyed Weight of the Stuck Tools is the buoyant weight of drilling assembly below back-off point taking account of hole inclination.
+3) Hole Drag of Stuck Tools is the Air weight x buoyancy factor x Cosine (Hole Angle) proportionate of total pickup drag based on length of stuck tools.
+The following examples illustrate the correct calculation procedure for determining the required hook load for backing off.
+3.	Determining String Tension Required to Back-Off- continued
+A.	Vertical Well
+In this example it will be assumed that the drilling assembly has become differentially stuck while drilling on bottom.
+Well depth:	10,500' MD (vertical well) Hole Size: 12-1/4"
+Drill String:	500' x 8" x 150 lb/ft drill collars
+450' x 5" x 50 lb/ft HWDP
+9450' x 5" x 19.5 lb/ft S-135 drill pipe
+Mud weight:	10.5 ppg
+Buoyancy Factor:	0.84
+Pickup Weight:	370,000 lb.*
+Slack-off Weight:	335,000 lb.*
+Rotating Weight:	350,000 lb.*
+Weight of Blocks:	100,000 lb.
+Stuck Point:	9900' MD (top of drill collars)
+Avg. Hole Angle:	0 deg.
+* Includes weight of blocks, hook, etc.
+In this example it will be assumed that the hole drag is distributed uniformly along the length of the drilling assembly, that 5,000 ftlb of tension will be maintained in the pipe at the back-off point when the string shot is fired, and that the pipe will be backed off at the stuck point (i.e., 990' MD).
+3.	Determining String Tension Required to Back-Off - continued
+1.	Calculate buoyed weight of drill collars below stuck point:
+Air Weight of Drill Collars:	90,000 lb.
+Buoyancy factor:	0.84
+Buoyed weight:	75,600 lb.
+Cosine (0 deg):	1.00
+Net buoyed weight:	75,600 lb.
+2.	Calculate hole drag of stuck BHA:
+The hole drag figure to use here is the drag experienced while picking up the drilling assembly since the pipe will be picked up to the correct weight indicator reading to perform the back-off.
+Total hole drag moving up:	20,000 lb.
+Length of drilling assembly:	10,500 ft
+Hole drag per 1000 feet:	1,905 lb.
+(moving down)
+Length of stuck pipe:	600 ft
+Hole drag along stuck BHA:	1,143 lb.
+3.	Calculate required weight indicator reading at time string shot is fired:
+Total Pickup weight:	370,000 lb.
+Minus BHA  weight:	- 75,600 lb.
+Minus hole drag:	-  l,l43 lb.
+Plus over-pull requirement:	+ 5,000 lb.
+Required pickup weight:	298,257 lb.
+Therefore, prior to firing the string shot, the pipe will be slacked off to below the initial slack-off weight and then picked up and tensioned to a weight indicator reading of 298,257 lb.  For practical purposes this figure can be rounded off to 298,000 lb.
+It should be noted that in order to apply the correct pick-up weight, the weight of all tools and equipment that were suspended below the hook are accounted for in this pickup weight calculation.  For instance, if the kelly has been removed, this weight must be subtracted from the required pickup weight.
+3.	Determining String Tension Required to Back-Off - continued
+B.	Directional Well
+In this example it will be assumed that the drilling assembly has become differentially stuck while making a connection on bottom.
+Well depth:	12,500' MD  (directional well)
+Hole size:	8-1/2"
+Drill string:	400' x 5-1/2" x 90 ppf drill collars
+1000' x 5" x 50 ppf HWDP
+11,100' x 5" x 19.5 ppf S-135 DP
+Mud Weight:	12.5 ppg
+Buoyancy Factor:	0.809
+Pickup Weight:	355,000 lb.*
+Slack-off Weight:	160,000 lb.*
+Rotating Weight:	295,000 lb.*
+Weight of Blocks:	100,000 lb.
+Stuck point:	12,200' MD (300' above bit)
+Kick-off Point:	2000' MD
+End of Build:	4000'MD
+Hole Angle Below
+KOP to TD:	45 Deg.
+* Includes weight of blocks, hook, etc.
+In this example it will be assumed that the hole drag is distributed uniformly along the length of the drilling assembly and that 5000 lb. of tension will be maintained in the pipe at the back-off point when the string shot is fired.
+As with the previous example, the required weight indicator reading when the string shot is fired will be determined by deducting the weight of the section of BHA to be left in the well taking account of hole inclination.
+1.	Calculate buoyed weight of BHA to be left in hole following back-off:
+Air weight of DC below
+stuck point:	27,000 lb.
+Cosine of 45 deg.:	0.707
+New air weight of DC:	19,089 lb.
+Buoyancy factor:	0.809
+Net buoyed weight of
+DC fish:	15,443 lb.
+3.	Determining String Tension Required to Back-Off - continued
+2.	Calculate hole drag of pipe to be left in hole:
+The hole drag figure to use here is the drag experienced while picking up the drilling assembly since the pipe will be picked up to the correct weight indicator reading to perform the back-off.
+Hole drag moving up:		60,000 lb.
+Total length of drilling assembly:	12,500 ft
+Hole drag per 1000 ft
+(moving up):		4,800 lb.
+Length of stuck pipe:		300 ft
+Hole drag along stuck
+pipe:		1,440 lb.
+3.	Calculate required weight indicator reading at the time string shot is fired:
+Pickup weight of
+drilling assembly:	355,000 lb.
+Minus along-hole weight
+of DC fish:	- 15,443 lb.
+Minus hole drag:	- l,440 lb.
+Plus over-pull
+requirement:	5,000 lb.
+Required Pick Up Weight:	343,117 lb.
+Therefore, prior to firing the string shot, the pipe will be slacked off to below the initially recorded slack-off weight and then picked up to a weight indicator reading of 343,117 lb.  For practical purposes this figure can be rounded off to 343,000 lb.
+4.	String Shot Charge Size
+The size of the explosive used to make-up the string shot is critical to creating sufficient 'hammer effect' to cause the tool joint to break at the desired connection.  As a rule, the number of strands of primacord to the used for a specific connection should be 2 - 3 greater than the number specified by either Schlumberger or Atlas.
+The primacord selected should be an 80 gm/ft RDX or HDX specification.  The RDX explosive is good to a nominal maximum bottom-hole temperature of 325 deg, while the HDX charge can be used up to 400 deg. F.
+The following table gives nominal primacord requirements for back-off operations.  Again, the Actual number of primer chords used should be 2 - 3 more than listed.
+5.	Working Right Hand Torque Down the Hole
+Prior to performing a downhole back-off it will be necessary to be certain sufficient make-up torque has been applied to the pipe to avoid a shallow back-off or a deep open hole back-off at an incorrect depth.
+The correct amount of right hand torque to work down the drill string will depend on several factors including well depth, wellbore profile, and degree of hole drag in both tension and torsion.  The correct string tension to be applied at the surface in order to effectively work torque down to the backoff point should have been determined while locating the free point.  In this regard, it does not necessarily follow that the pipe should be worked between the calculated pickup and slack-off weights at the backoff point.  For this reason the torque measurements taken while determining the free point should be used as an indicator of the correct surface tension to use for applying both left hand and right hand torque.
+When working right hand torque down the hole, the following practices are to be followed:-
+1)	The amount of right hand torque that must be worked into the pipe should be sufficient to generate a full scale torque reading on the free point tool at the planned back-off depth plus 30%.  This will ensure that maximum left hand torque can be applied to the pipe when the string shot is fired.
+2)	The torque is to be worked down the pipe from surface to the free point.  Since tool joints can only be torqued correctly with minimum axial tension, the pipe is to be raised and lowered between the calculated free pipe pickup weight at the planned backoff point and zero surface tension while progressively increasing the applied right hand torque.
+3)	The torque is to be applied in 3 - 4 steps until the maximum make up torque has been worked into the string.
+Be certain to record the number of total turns necessary to achieve maximum make up torque, as well as the number of turns that can be anticipated when the required left hand torque is applied.
+4)	Complete make up of all connections will be indicated when no loss of trapped torque occurs as the pipe is cycled between the range of pick-up and slack-off weights being used.
+6.	Working Left Hand Torque Down the Hole
+The amount of left hand torque to work down the hole should be the maximum possible within the constraint of avoiding a premature or shallow backoff.  This is a hazardous operation and safety precautions as outlined must be closely followed.  When working left hand torque down the hole the following guidelines and procedures as to be followed.
+1)	As a rule of thumb, the amount of left-hand torque applied at surface should not exceed 70% of the right hand makeup torque.
+2)	Since a tool joint is more inclined to break when the axial tension on the connection is zero, left hand torque should be worked down the hole starting with maximum surface tension and working progressively down to planned back-off tension.  This should be performed in several stages starting with approximately half of the required left-hand torque.  Only when a given amount of torque has been worked into the entire string should the torque be increased to the next stage.
+3)	Be certain to maintain a record of the number of cumulative left hand turns that have been put in the pipe as the torque is worked down to the planned back-off point.
+4)	The string shot is to be loaded into the drill string prior to applying any torque at surface.  Do not load the string shot into the drill string while torque is trapped in the pipe.  This could result in serious injury to personnel if the pipe were to break prematurely and backlash at surface.
+7.	Running the String Shot and Backing Off
+Once the number of turns required to work the desired left hand torque downhole has been determined, the string shot can be loaded into the pipe in preparation for running downhole.
+With the surface torque on the pipe completely released, load the string shot and collar locator assembly into the drill string and run in to 1000ft below surface.  Do not run in deeper since if the pipe were to back-off shallow, the wireline cable may be severely damaged or part downhole resulting in another fishing job.
+Note;
+In cases where a combination free point/back-off shot have been run, the tool assembly should be pulled up to 1000 ft. below the rotary table prior to working left hand torque into the string.
+1)	Apply left-hand torque to the pipe and work it downhole to the planned back-off point.  The toque will be completely worked down to the back-off point when the number of previously measured left hand turns have been achieved.  If holding the torque with the rotary or a top drive, be certain to lock the rotary table or power swivel once the final torque is achieved.
+2)	Apply left-hand torque to the pipe and work it downhole to the planned back-off point.  The torque will be completely worked down to the back off point when the number of previously measured left hand turns have been achieved.  If holding the torque with the rotary or a top drive, be certain to lock the rotary table or power swivel once the final torque is achieved.
+3)	Run in with the string shot and position the charge opposite the planned back-off point.
+4)	Clear all personnel from the rotary table area.
+5)	Fire the string shot and monitor the torque gauge for a loss of torque.  If successful, DO NOT unscrew the pipe.
+6)	Pull the wireline cable back to +/- 1000 feet.
+7)	Release the trapped left-hand torque and make note of the number of right hand turns necessary to reduce the torque to zero.
+8)	POOH with the wireline and pull the logging cable clear.
+9)	Reduce string tension to anticipate rotating weight at back-off point and rotate pipe to the left to complete back off.  Pick up on string and check the pick up weight.
+If the pipe has backed off at planned depth, pull out of the hole.
+7.	Running the String Shot and Backing Off - continued
+10)	If the pipe has backed off high, screw back into connection looking up and repeat the entire back-off procedure.  Since the pipe backed off high, it may be necessary to increase the amount of right hand torque, working the torque down for a longer period, and/or adjusting the string tension to be held when the string shot is fired.  If the pipe backed off close to the planned backoff point, check the pickup, slack off and rotating string weights prior to screwing back into the fish.  These measurements should then be used to determine the correct pickup and slack off weights for working torque down the hole, as well as the correct tension to hold when the string shot is fired.
+NOTE:
+In certain cases where the pipe has backed off high, it may be desirable to pull out of the hole and run an alternative fishing assembly.  This will be decided on a case by case basis following consultation with the Drilling Superintendent.
+Job Preparation:
+From discussions with Company and Contractor Representatives, select the connection to be backed off. To establish the depth the following points should be taken in to account:-
+- Choose a connection broken each trip.
+- Limits of the drill string components, due to grade and condition.
+- Next operation, washover or jarring assemblies.
+- Method of applying the left-hand torque and crew safety.
+- Final string weight applied to affect the back off.
+Left Hand Torque – amount of turns required.
+The following points may be used as a " Rule of Thumb " Guide.
+Steel Drill Pipe	Depth	Back-Off Rounds per 1,000 ft
+0 - 4,000 ft 	1/4 to 3/4
+4 - 9,000 ft	1/2 to 1
+Over 9,000 ft	3/4 to 1
+Tubing	0 - 6,000 ft	1/2 TO 3/4
+Over 6,000 ft	3/4 TO 1
+Aluminium Drill Pipe	Double the amount for steel drill pipe
+
+[جدول 1]
+MEASURED DEPTH TO BACK-OFF POINT (FEET)
+CONNECTION | 0 to 3000 | 3000 to 6000 | 6000 to 9000 | 9000 to 12,000 | OVER 12,000
+TUBING |  |  |  |  | 
+2-3/8 | 1 | 1 | 1 | 2 | 2
+2-7/8 | 1 | 1 | 2 | 2 | 3
+3-1/2 | 1 | 2 | 2 | 3 | 3
+4 - 4-1/2 | 2 | 2 | 2 | 3 | 3
+DRILL PIPE |  |  |  |  | 
+2 3/8 -3.1/4 | 1 | 2 | 2-3 | 3-4 | 4-5
+3-1/2 - 4 | 2 | 3 | 3-4 | 4-6 | 5-8
+4-1/2 - 6-9/16 | 2 | 3-4 | 4-6 | 5-9 | 6-12
+6-5/8 | 3 | 4-5 | 5-7 | 6-10 | 7-14
+DRILL COLLARS |  |  |  |  | 
+3-1/2 - 4 | 2-4 | 2-5 | 3-7 | 3-8 | 4-9
+4-1/8 -5-1/2 | 2-4 | 3-6 | 4-8 | 4-10 | 5-12
+5-3/4 - 7 | 3-6 | 4-8 | 5-10 | 6-12 | 7-15
+7-1/4 - 8-1/2 | 4-6 | 5-9 | 6-12 | 7-15 | 8-18
+CASING |  |  |  |  | 
+4-1/2 - 5-1/2 | 3 | 3 | 3 | 3 | 3
+6 - 7 | 3 | 3 | 3 | 4 | 4
+7-5/8 | 4 | 4 | 4 | 4 | 5
+8-5/8 | 5 | 5 | 5 | 5 | 5
+10-3/4 | 6 | 6 | 6 | 7 | 7
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+⟐ FISHING
+⟐ BACK-OFF OPERATIONS
+⟐ © Smith Red Baron. 1997	Opers\ Red Baron\ Fishing\ Back-Off\ Rev 01
+
+

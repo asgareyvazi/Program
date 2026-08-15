@@ -1,0 +1,69 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 1 ]
+────────────────────────────────────────────
+         NEKA Client Support Laboratory
+          20”Casing Tail Slurry (16.50 ppg)
+
+
+                                                                                                                                Signatures
+ Fluid No  : 20”Casing            Client              : KEPCO             Location / Rig    : Amir Kabir
+ Date         : Oct-27-2010         Well Name     : 6.2-X1                Field                  : Caspian sea       Mahmoud
+
+ Job Type           20" Casing            Depth            1210.0 m         TVD           1210.0 m
+ BHST             22 degC           BHCT           17 degC          BHP          1267 psi
+  Starting Temp.      80degF               Time to Temp.     00:43                Heating Rate   (degF/min)
+  Starting Pressure     (psi)                 Time to Pressure   00:43               Schedule          ( )
+Composition
+ Slurry Density     16.50 lb/gal         Yield              1.08 ft3/sk         Mix Fluid       4.566 gal/sk
+  Solid Vol. Fraction   43.5 %              Porosity           56.5 %                Slurry type      Conventional
+ Code            Concentration   Sack Reference       Component      Blend Density        Lot Number
+ G                              94 lb of CEMENT       Blend             3.20 SG
+ Sea water         4.466 gal/sk                         Base Fluid
+ D047             0.020 gal/sk                              Antifoam                            0905729
+ D080             0.080 gal/sk                               Dispersant                         FAB0905247
+Rheology (Average readings)
+     (rpm)             (deg)                (deg)
+      300               49.0                 67.0
+      200               35.0                 53.0
+      100               28.0                 39.0
+      60               21.0                 33.0
+      30               18.0                 27.0
+       6                 6.0                 19.0
+       3                 4.0                 16.0
+ 10 sec Gel             5                 23
+ 10 min Gel            34                51
+ Temperature        27 degC           17 degC
+
+                 Pv : 33.549 cP        Pv : 43.767 cP
+                  Ty : 14.71 lbf/100ft2   Ty : 23.75 lbf/100ft2
+Thickening Time
+ Consistency               Time
+ 30 Bc                        04:05 hr:mn
+ 50 Bc                        05:11 hr:mn
+ 700 Bc                       06:19 hr:mn
+ 100 Bc                       07:55 hr:mn
+Free Fluid
+ 0.0 mL/250mL                      in 2 hrs
+ At (degF) and 0 deg incl.
+ Sedimentation
+UCA Compressive Strength
+ Time              CS
+ 24:00 hr:mn                In progress
+Fluid Loss
+ API Fluid Loss                 82  mL
+ 41 mL in      30 min   at (degF)     and (psi)
+Comments
+ General Comment : All the test has been done with UCN Class G cement sample
+ Fann Reading Comment :
+ Thickening Time Comment : All the test has been done at BHCT temperature
+ Other test Comment : KEPCO Sea water use for the test
+
+
+
+
+                                                                                                  Page 1
+                             20 casing for new well in kepco-16.5 ppg.cfw ; 10-27-2010 ; LoadCase Untitled ; Version wcs-cem452_09
+
+

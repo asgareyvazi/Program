@@ -1,0 +1,754 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 14 ]
+────────────────────────────────────────────
+Directional Drilling Training Manual
+
+Section 13 - Drilling Problems
+
+
+
+
+ Document Type      UOP Template (Word 6 PC)
+
+
+  Software                Microsoft Word 6.0 for Windows NT
+
+ Source File          DDTM_13.DOC
+
+ Other Source File      TM.DOT
+
+
+ Author                Mike Smith
+
+ Author info              Anadrill Technique
+
+                       200 Gillingham Lane
+
+                       Sugar Land TX 77478-3136
+
+                             Tel: + 1 281 285 8859
+
+                         Fax: + 1 281 285 8290/4155
+
+                           email: msmith@sugar-land.anadrill.slb.com
+
+
+ Review & approval
+
+
+  Revision History       05 Dec 96            2nd Revision
+
+                        06-Dec-96                Final review and approval MJS
+
+
+
+
+
+Provisory - 06 Dec 96                      Confidential                          Directional Drilling
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 14 ]
+────────────────────────────────────────────
+                             Table of Contents
+
+13                      Drilling Problems             Page
+13.1 AN OVERVIEW................................................................................................................13-1
+    13.1.1 Differential Sticking .............................................................................................13-2
+        13.1.1.1 Warning Signs.............................................................................................13-5
+        13.1.1.2 Stuck Pipe Identification.............................................................................13-5
+        13.1.1.3 Preventive Actions ......................................................................................13-6
+        13.1.1.4 Rig Site Preparation ....................................................................................13-6
+    13.1.2 Borehole Deterioration .........................................................................................13-6
+        13.1.2.1 Warning Signs.............................................................................................13-8
+        13.1.2.2 Stuck Pipe Identification.............................................................................13-8
+        13.1.2.3 Preventive Actions ......................................................................................13-8
+    13.1.3 Dog Legs and Key Seats.......................................................................................13-8
+        13.1.3.1 High Friction Factors While Drilling and Tripping ....................................13-9
+        13.1.3.2 Warning Signs.............................................................................................13-9
+        13.1.3.3 Preventive Actions ......................................................................................13-9
+    13.1.4 Key Seats ..............................................................................................................13-9
+        13.1.4.1 Warning Signs.............................................................................................13-10
+        13.1.4.2 Stuck Pipe Identification.............................................................................13-10
+        13.1.4.3 Preventive Actions ......................................................................................13-10
+        13.1.4.4 Rig Site Preparation ....................................................................................13-11
+    13.1.5 Drill String Failures Due to Excessive Reverse Bending.....................................13-11
+        13.1.5.1 Preventive Actions ......................................................................................13-11
+    13.1.6 Equipment Compatibility......................................................................................13-12
+        13.1.6.1 Preventive Actions ......................................................................................13-12
+    13.1.7 Borehole Stability .................................................................................................13-12
+List of Figures                                 Page
+Figure 13-1   Differential sticking............................................................................................ 13-3
+Figure 13-2   Development of filter cake................................................................................. 13-3
+Figure 13-3   Effect of drill solids on filter cake...................................................................... 13-4
+Figure 13-4   Filter cake bridging............................................................................................. 13-4
+Figure 13-5   Erosion of filter cake .......................................................................................... 13-5
+Figure 13-6   Effect of hole deviation & mud weight on borehole stability ............................ 13-7
+Figure 13-7   Development of key seats................................................................................. 13-10
+Figure 13-8  Key seat wiper and string reamer..................................................................... 13-11
+
+List of Tables                                  Page
+No list of figures.
+
+
+
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling   13-i
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+
+13  Drilling Problems
+
+      About this chapter
+      The development of new technologies in the past 10 years, like the MWD systems for
+        real-time surveying, steerable systems for an effective control of trajectory, PDC bits for
+         efficient drilling of long sections, mud and hydraulic systems for improved control of
+        hole cleaning and borehole stability, etc. have transformed directional drilling into a
+      common practice.
+       There are a few serious problems which may arise during the course of drilling a
+        directional well. The probability of certain drilling problems arising (e.g. differential
+        sticking) is increased by virtue of the well being deviated. The causes and implications of
+         differential sticking are discussed here, as well as solutions and possible preventive
+       measures. This is very relevant to the DD, particularly in areas which are prone to
+         differential sticking.
+      Dog legs and key seats are discussed here in detail. As mentioned elsewhere in this
+       manual, it is the DD’s responsibility to ascertain the client’s limit on dog leg severity at
+        the beginning of the project. The consequences of high dog leg severity at a shallow
+       depth often do not become apparent until much deeper in the well.
+       Problems caused by borehole instability due to poor hydraulics and mud conditioning are
+        outlined. Increases in Drag, particularly when drilling with a PDM, directly concern the
+      DD. In high-angle wells, it often becomes very difficult to "slide".
+
+       Objectives of this Chapter
+     On completing this chapter the directional driller should be able to do the following
+        exercises:
+         1.  Describe the main causes of differential sticking.
+         2.  Explain how the API Filtrate (Water Loss) influences the chances of getting
+             differentially stuck.
+         3.  Describe the precautions the DD should take or recommend when about to drill in an
+            area known for differential sticking.
+         4.  Explain why the chances of borehole instability are influenced by hole inclination.
+         5.  List the drilling (and other) problems arising from high dog leg severity in a deviated
+            well.
+         6.  Explain what the DD should do if his survey indicates an unacceptably-high dog leg
+            severity in the interval just drilled.
+
+13.1 An Overview
+      The development of new technologies in the 80’s, like the MWD systems for real-time
+        surveying, steerable systems for an effective control of trajectory, PDC bits for efficient
+         drilling of long sections, mud and hydraulic systems for improved control of hole
+        cleaning and borehole stability, etc. have transformed directional drilling into a common
+         practice.
+
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-1
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+        But, if we compare the performance and drilling conditions of vertical and directional
+        wells, it is possible to identify some particular problems related to deviated boreholes. In
+         this chapter we analyze the most common directional drilling problems and possible
+        solutions.
+
+13.1.1 Differential Sticking
+        Differential pressure sticking occurs only across a permeable zone, such as sand. One or
+       a combination of the following mechanisms will be responsible for sticking:
+           •  Pipe sticking occurs when part of the drill string rests against the wall of the
+                borehole, which is the case in directional wells, imbedding itself in the filter
+                cake. The area of the drill pipe in contact with filter cake is then sealed from the
+                   full hydrostatic pressure of the mud column.
+           •  The pressure difference between the mud column pressure and the formation
+                pressure acts on the area of the drill pipe in contact with the filter cake to hold
+                the drill pipe against the wall of the borehole.
+       Overpull due to differential pressure sticking can be calculated from the product of
+         differential pressure, contact area, and a friction factor as follows:
+
+          Overpull = (Mud Pressure - Formation Pressure) xContact Area x Friction Factor
+       where
+               Overpull                  (lbs.)
+          Mud Pressure            (psi)
+              Formation Pressure     (psi)
+               Contact Area           (sq in)
+                Friction Factor         (no unit)
+       Example: If there is a 6 ppg differential pressure across a sand at 7000 ft. T.V.D.
+
+             (Mud Pressure - Formation Pressure) = 0.052 x 7000 x 6 = 2184 psi.
+       Say we have a contact of 3 inches of drill collar circumference across a sand which is 10’
+         thick. That gives a contact area of 360 square inches. From experience, the friction
+        factors vary from 0.15 to 0.50. We will use 0.15 for this example.
+
+                      Overpull    =     2184 psi - 360 in2 x 0.15
+
+                        =      117,936.00 lbs.
+
+                        =     118000 lbs.
+     An extra overpull of 118 lbs. on top of the normal friction in the wellbore can easily
+      mean the difference between being free and being stuck. This example also used a
+         relatively thin sand of 10 feet.
+     We should actually use the projection of the contact area onto the horizontal plane to be
+        precise. This is more difficult to visualize and is not used here for simplicity.
+
+
+
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-2
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+
+                                                                                      Borehole
+                                                                                          Wall
+
+
+
+                                             Mud Pressure
+
+
+
+
+
+                                                               Contact
+                                                            Area
+
+                             Mud
+                                Cake
+
+                                                        Formation Pressure
+                       Figure13-1  Differentialsticking
+
+           •   Filter Cake Thickness The thicker the filter cake, the larger the contact area
+               with the drill collars and the higher the resulting differential sticking force. The
+               following illustrates the formation of a filter cake.
+      Many factors affect the rate of growth and the final thickness of the filter cake.
+         1. A higher differential pressure will increase the rate of growth of the filter cake. The
+             final thickness of the cake will be larger in order to seal off the higher pressure.
+
+
+
+
+
+                                 α
+
+
+
+
+                                                α
+                                                               L
+
+
+
+                                 P
+
+
+
+
+                               W
+
+                     Figure13-2  Developmentoffiltercake
+
+         2.  As the amount of drill solids in the mud increases, the filter cake becomes more
+           porous and permeable. This results in a faster rate of growth of the filter cake and a
+             larger final thickness. The ideal situation would be a thin, hard filter cake made up of
+        mud solids only.
+
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-3
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+
+                           High Drill Solids             Low Drill Solids
+                                Mud Pressure                        Mud Pressure
+
+
+
+
+
+                                       Pore Pressure                              Pore Pressure
+
+                                                    Mud Solids
+                                                                                                  Drill Solids
+
+                            Permeable Formation                       Permeable Formation
+                              With a high amount of drill solids, the           With low amounts of drill solids, the
+                                                filter cake tends to be more porous                    filter cake tends to be thin and tough
+                           and permeable and the final thickness         which reduces the chances of
+                                    of the cake tends to be larger.                      differential sticking.
+
+                  Figure13-3  Effectofdrillsolidsonfiltercake
+
+         3.  The lower the water loss or filtrate of the mud, the thinner and harder the filter cake.
+            In the case of drilling into a sand after undergoing a pressure regression, the
+             differential pressure is so high that sufficient mud cake can be formed to stick the
+       BHA while drilling. The best defenses in these cases are proper pore pressure
+            detection, lowering the mud weight if possible or setting casing.
+           •    If the pipe stays motionless (for example, taking surveys in a directional well)
+                 for a period of time adjacent to the sand, the situation gets worse. The filter cake
+               tends to bridge around the pipe, thus increasing the contact area. The filter cake
+                 in contact with the pipe is no longer in direct contact with the mud and the
+                  friction factor increases by virtue of more water being filtered out of the filter
+                cake. The end result is that a much greater overpull is required to free the
+                   drillstring.
+
+
+
+
+
+                                         Mud Pressure
+
+
+
+                                                          Contact
+                                                       Area
+
+
+                                                                                           Bridging
+
+                         Mud
+                            Cake
+
+                                                   Formation Pressure
+                        Figure13-4  Filtercakebridging
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-4
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+           •   Filter cake erosion occurs while drilling due to the drill pipe rubbing against the
+               borehole wall. This only affects a small portion of the circumference of the
+                wellbore. Wiper trips pull the stabilizers and bit through the filter cake and will
+               scrape off a significant amount. The best disruption of filter cake is reaming,
+             where most of the cake will be removed.
+
+
+                                 Drill Pipe Erosion   Wiper Trip        Reaming
+
+
+
+
+
+                                               Drill Pipe Erosion           Wiper Trip               Reaming
+                                     While drilling, the drill pipe     A wiper trip will pass the      Reaming does the best
+                                                   is pressed against one            stabilizers and the bit           job of scraping awaw the
+                                        side of the hole. The            across the formatioin                filter cake but is very
+                                            rotation of the pipe wears        scraping away a large          time consuming.
+                                away a section of filter           portion of the filter cake
+                                      cake.
+
+                       Figure13-5  Erosionoffiltercake
+
+13.1.1.1 Warning Signs
+           •  Permeable formations in open hole, if known.
+           •   Thick filter cake on mud tests.
+           •  High differential pressure (1500 psi) across the permeable formations, if known.
+           •  High torque/overpull after pipe is held motionless.
+           •   Higher overpull on connections.
+           •  Well developed area with depleted reservoirs. (Talk to Company Man).
+
+13.1.1.2 Stuck Pipe Identification
+           •  The pipe was stationary just before sticking usually at a connection while
+                  drilling or tripping
+           •   Full circulation is possible and pump pressure is unaffected.
+           •  BHA is adjacent to thick, permeable formation.
+           •   Pressure overbalance at BHA.
+           •   Stuck forces get larger with time.
+
+
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-5
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+
+13.1.1.3 Preventive Actions
+         1.  Pre-well Planning:
+           •   Identify any permeable formations which may lead to differential sticking.
+           •   Estimate the pressure of permeable formation, using nearby welldata and any
+                available RFT, DST or producing well data.
+           •    If there is a chance of high differential pressure, consider a change in casing
+                design.
+           •   Plan the use of lubricants ahead of time. Spotting fluid must be on location when
+                  differential sticking occurs, otherwise it is useless. Studies show that spotting
+                 fluid must be in place within 4 hours otherwise the chances of the pipe becoming
+                 free are greatly reduced.
+           •   Plan on having high quality mud cleaning equipment on the rig to control mud
+                  solids.
+           •  Minimize OD of drill collars used to minimize the contact area with the mud
+                cake. However, annular velocities and borehole cleaning need to be taken into
+               account when reducing the ODs of drill collars.
+
+13.1.1.4 Rig Site Preparation
+           •  Keep the mud weight at the lowest safe level. This will keep differential pressure
+                across permeable formations at a minimum.
+           •  Keep track of the differential pressure across permeable formations as accurately
+                as possible. This requires maintaining a record or plot of the pressure profile for
+                the entire open hole section.
+           •   Maintain a tough, thin filter cake and keep drilled solids content to a minimum.
+           •  Use spiral drill collars and minimize unstabilized sections of the BHA.
+           •    If hole drag is not a problem, consider using under-gauge stabilizers on drill
+                 collars to keep them away from the borehole.
+           •  Keep the pipe moving at all times. Reciprocating is the preferred motion as it
+               allows you to monitor overpulls. When possible, begin pipe motion in a
+            downward direction.
+           •  Minimize length of BHA. Use heavy weight drill pipe instead of a long section
+                of unstabilized drill collars.
+           •  Avoid surveying methods which result in pipe remaining static for long periods
+                (use MWD).
+           •   Frequent wiper trips through the permeable zones will scrape the filter cake and
+           may prevent it from becoming too thick.
+
+13.1.2 Borehole Deterioration
+      One of the keys for a successful drilling operation, in vertical and directional drilling, is
+        to control mechanically and chemically the formations being drilled, mainly the shales,
+        in order to avoid sticking problems. These problems can be associated with any one of
+        the following cases
+
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-6
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+           •   Chemically active formations
+           •   Overpressured formations
+           •  High dip sloughing
+           •   Unconsolidated formations
+           •  Mobile formations
+           •   Mechanical Stability
+      The behavior of vertical and directional wells in the first 5 cases above is similar; they
+        are controlled with the implementation of the correct mud system and operational
+        procedures.
+      The formation mechanical stability is a concern when drilling directional wells in general
+       and high inclination or horizontal wells in particular. When a borehole is drilled, the
+        process may be thought of as one of replacing the rock which was originally in the hole
+       with drilling mud. This causes a disturbance to the in-situ stress state local to the hole
+       because a column of rock which supported three, probably different, principal stresses
+        (three axes, i.e. two horizontal and one vertical) is replaced by fluid in which the three
+        principal stresses are equal and, typically, lower than any of the stresses in the original
+       rock column. Unbalanced conditions will generate borehole problems; lost circulation or
+        hole  instability problems  (e.g. sloughing or caving). The  directional  drilling plan,
+        deviation and azimuth, is a very important factor in the borehole stability.
+       Over the last years the industry has studied the borehole stability process to define, at the
+       planning stage, the borehole stability problems that would be faced during the actual
+         drilling operation. The intention is to identify the in-situ stress state where the well is to
+       be drilled, to calculate the stresses that will occur at the borehole wall when the well is
+         drilled and to substitute the borehole wall stresses into shear and tensile failure criteria to
+        see whether failure occurs. It was found that for a particular formation the upper and
+       lower  formation  stability  limits  (fracture  initiation  pressure and  sloughing/caving
+        pressure) are greatly affected by the hole inclination and azimuth.
+
+
+                               20
+                               19                                                      Fracture - Loss of Circulation
+                               18
+                               17
+                                                  (ppg)                               16
+                               15         Safe
+                                          Working                                                            Weight 14                                           Area
+                              Mud 13
+                               12
+                               11                        Sloughing - Caving
+                               10
+                                  0   10   20   30   40   50   60   70   80   90
+                                                  Hole Deviation (deg)
+
+       Figure13-6  Effectofholedeviation&mudweightonboreholestability
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-7
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+       This figure shows the formation behavior, for a set of given conditions, changes with the
+        hole inclination.  It is possible to see that safe drilling conditions are achievable in
+        inclinations up to 60º. Beyond that point, unstability situations would be unevitable.
+      The same type of analysis can be done for a well to be drilled; knowing the lithology,
+       formation characteristics and borehole trajectory, a set of plots can be generated:
+       This type of representation consists of three tracks: the first track gives the mud weight
+       which causes tensile failure of the borehole, that is the fracture initiation pressure (FIP);
+        the second track gives the maximum and minimum mud weights which can be used in
+        the hole without causing shear failure of the walls; the third track combines the FIP and
+        the shear failure limits on mud weight to give the maximum and minimum mud weights
+       which can be used to drill the well. It is possible to see that a vertical well can be drilled
+       without any borehole stability problems within a wide range of mud weight values;
+       however, at 50 inclination the operation becomes risky, because of a narrower safe mud
+       weight range and a totally unstable ledge at 2672m.
+
+13.1.2.1 Warning Signs
+         1.  Formation stability problems in previous wells.
+         2. New directional well with higher inclination than normal.
+
+13.1.2.2 Stuck Pipe Identification
+         1.  Use of electric logs for formation stability problem identification.
+         2.  Planning phase.
+
+13.1.2.3 Preventive Actions
+         1.  Plan borehole trajectory, inclination and azimuth, within a safe range.
+         2.  Follow a pre-planned mud program.
+         3.   If totally unstable formations are identified, have a contingency plan (short trips,
+        mud lubricity, etc.)
+
+13.1.3 Dog Legs and Key Seats
+        In order to drill a directional well it is necessary to make controlled dog legs to change
+       borehole trajectory to reach a desired target. Dog legs are necessary but, simultaneously,
+        they have been  recognized  as  a major  contributing  factor  for  drilling,  logging,
+       completion and production problems, for example.
+           •  High friction factors while drilling and tripping (torque and drag).
+           •  Key seats.
+           •   Failure of drill string components due to excessive reverse bending.
+           •   Casing wear.
+           •   Extra time to run wire line logs
+           •  Problems to run casing and ECP.
+           •  Bad cement bond on dog leg high side.
+           •   Difficult to set mechanical production packers.
+           •  Reduced life time of tubing and sucker rods.
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-8
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+     When a deflecting tool is run in the hole, the directional driller must have permanent
+        control of the dog legs being generated, in order to take immediate remedial actions to
+        correct unexpected high dog leg values before continuing to drill. Once a high dog leg
+       has been created, efforts must be made to reduce the dog leg before drilling ahead.
+        In this section, the drilling related problems are analyzed.
+
+13.1.3.1 High Friction Factors While Drilling and Tripping
+        Friction factors are used to evaluate the planned maximum drilling and tripping stresses
+       while rotating or sliding, to be able to select the proper components to drill the well. Any
+        deviations from the plan, by making higher dog legs, could result in stopping the drilling
+        operation without reaching the desired T.D.; this is particularly important in extended
+        reach and horizontal wells.
+      The value of the dog leg is defined by the combination of several factors:
+           •   Deflecting tool configuration (bent sub/housing angle, distance between
+                  stabilizers).
+           •  BHA design.
+           •   Drilling parameters.
+           •   Formation characteristics (dip angle, formation strength, compactation,
+                 stratigraphy).
+           •   Borehole trajectory (inclination and azimuth)
+       Not all the factors are under our control. Formation characteristics can be estimated, but
+        they are an unknown until we drill them. For this reason, sometimes higher than expected
+       dog legs are obtained from a planned BHA, generating more drag and torque.
+
+13.1.3.2 Warning Signs
+           •  Unexpected changes of borehole trajectory (inclination and/or azimuth).
+
+13.1.3.3 Preventive Actions
+           •  Make a comprehensive plan, including torque and drag simulation.
+           •  Use previous directional wells data in the same area to identify possible dog leg
+               problems.
+           • MWD surveys help to detect immediate borehole trajectory changes, so
+              immediate remedial action should be taken.
+
+13.1.4 Key Seats
+      Dog legs, even severe ones, do not cause immediate problems as the drill collars are
+       under compression and accommodate themselves to the new trajectory A key seat is
+       caused by the drill string in tension, normally drill pipe rubbing against the formation in
+        the dogleg. If the lateral force at the contact point between the drill string in tension and
+        the formation is larger than the formation strength, the body and tool joints of drillpipe
+         start wearing a groove into the formation about the same diameter as the tool joints. The
+       wear is confined to a narrow groove because the high tension in the drill string prevents
+       sideways movement. During a trip out of the hole, the BHA may be pulled into one of
+        these grooves, which maybe too small for it to pass through (see diagram below).
+
+
+Provisory - 07 Dec 96                      Confidential                   Directional Drilling  13-9
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+      Key seats are associated with doglegs, as the drill string will be forced into contact with
+        the formation. The more severe the dogleg and the higher it is up the hole, the greater the
+        side load will be and so the faster a key seat will develop. Other than doglegs, ledges are
+        features which provide points of continuous contact. Further variations include key seats
+         at the casing shoe, where the groove is made in metal instead of rock. Development of
+       key seats is dependent upon the number of rotating hours and the formation strength.
+
+
+
+
+
+                                           A                 A
+
+
+
+
+
+                                                                   Section A-A
+
+                                     After creating a            Depending on the           When tripping out of
+                                  dogleg, the drillstring         strength of the formation,       the hole, the drill collar
+                                           is forced against the         the groove will eventually          will become wedged in
+                                borehole wall. Pipe         wear deep into the              the groove since they
+                                     rotation causes a            formation as shown in         have a larger O.D. than
+                               groove to be worn           section A-A.                    the drill pipe.
+                                       into the formation.
+
+                     Figure13-7  Developmentofkeyseats
+
+13.1.4.1 Warning Signs
+           •   Large doglegs at shallow true vertical depth compared to T.D.
+           •   Sticking will occur while tripping out.
+           •   Overpull likely to be erratic as tool joints pass through key seat.
+
+13.1.4.2 Stuck Pipe Identification
+           •   First large OD section of BHA reached dogleg.
+           •   Circulation unaffected.
+           •   Rotation may be possible.
+
+13.1.4.3 Preventive Actions
+           •   Planning:
+             –  Avoid severe doglegs. Directional driller should be given maximum dogleg
+                    tolerances vs TVD guideline for planning the well.
+             –   Incorporate key seat reamer (string reamer) into the BHA design if high
+                   torque and drag is not a problem.
+
+
+Provisory - 07 Dec 96                      Confidential                  Directional Drilling  13-10
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+
+
+
+
+                 Figure13-8  Keyseatwiperandstringreamer.
+
+13.1.4.4 Rig Site Preparation
+           •  Minimize dogleg severity. Follow maximum dogleg severity guidelines.
+           •  Ream any severe doglegs, before key seats have an opportunity to develop.
+           •    If a key seat is suspected or expected to develop, consider using a key seat
+              reamer in the drill pipe to wipe the build section or dogleg.
+           •  Minimize the number of correction runs. It is better to make one large correction
+               run close to target than numerous changes with a steerable assembly at shallow
+            TVDs.
+           •  As soon as problem is recognized, attempt to correct by hole opening run.
+           •  A high-lubricating pill set at stuck point level will be helpful to free the stuck
+                    drill string.
+           •   Jar down when attempting to get free.
+
+13.1.5 Drill String Failures Due to Excessive Reverse Bending
+      The stress to which the drill string components are subjected when rotating through a
+       dogleg change from tension to compression every 1/2 turn, accelerates fatigue wear. As a
+         result the life of the drill pipe and drill collar connections will be reduced or rig time is
+         likely to be lost due to wash outs, twist offs, etc.
+
+13.1.5.1 Preventive Actions
+           •  Have superior grade quality tubulars.
+           •  Apply recommended make up torque to connections using proper equipment.
+           •  Implement a systematic pipe inspection system.
+           •  Use an adequate safety factor. Make a proper torque and drag plan.
+
+
+
+
+Provisory - 07 Dec 96                      Confidential                  Directional Drilling  13-11
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 14 ]
+────────────────────────────────────────────
+                                    Drilling Problems
+
+13.1.6 Equipment Compatibility
+      Modern directional drilling practices require the use of new technology; bits, downhole
+        motors, MWD systems, solids control system, pumps, etc.; it is common to have multiple
+        suppliers for these elements. The operational requirements and limits are different for
+       each one. The drilling performance can be seriously affected if the right parameters are
+        not used. Special care must be taken in the following areas:
+           •  Maximum and minimum GPM’s
+           •   Pressure losses through the drillstring.
+           •  RPM.
+           •  Weight on bit.
+           •  Maximum operating pressure.
+           •   Operating changes, if formation changes occur.
+           •  Downhole static and circulating temperatures.
+           •  Length of the bit run. Initial and final surface pressures.
+
+13.1.6.1 Preventive Actions
+           •  Know the technical and operational specifications of every tool run in the hole.
+           •  Know the technical and operational specifications of the rig and surface system.
+           •  Make hydraulic calculations before running in the hole.
+           •   Verify the compatibility of the BHA elements.
+           •   Define the expected formations and lithology to be drilled during the bit run.
+
+13.1.7 Borehole Stability
+
+       Packing off:
+       Poor hydraulics and mud conditioning will lead to the hole packing off. Solids will build
+       up in the mud and plug up the annulus while in turbulent flow. Remedy: Shut down the
+       pumps, thereby reducing ECD and annular velocity. Attempt to free pipe by jarring down
+        and, if possible, rotating. If circulation can be established, bring pumps up to speed very
+       slowly and circulate the hole clean.
+
+     Mud Motor Sliding:
+     When a mud motor is in sliding mode, it becomes very difficult to maintain a constant
+     WOB. In the worst case, all the surface weight can be slacked off with no change in
+     WOB. This is due to high sliding friction (Drag).
+
+      Remedy:
+      To improve the sliding condition, add walnut hulls to the mud system. This helps to keep
+        the PDM and BHA off the borehole wall and hence allow sliding to continue. Sweeping
+        the hole with a low-vie pill and LCM should help to reduce friction. (The LCM must be
+        fine-to-medium, well-mixed). As a last resort, POOH and run a hole opener through the
+       problem section.
+
+
+
+Provisory - 07 Dec 96                      Confidential                  Directional Drilling  13-12
+
+

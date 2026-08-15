@@ -1,0 +1,205 @@
+# SOURCE: 20'' AZN-G04 Cementing Program.pdf
+
+📄 فایل 162 از 214  |  20'' AZN-G04 Cementing Program.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+  20〞Surface Casing Cementing Program
+
+              For AZN-G04
+
+Prepared By: Li Junyi
+
+Reviewd By: Yu Fei
+
+Approved By: Ali Zamani
+
+Date: Jul. 05, 2016
+
+                                                                              - 0 -
+Tel: +98-21-22051394               Web Site: www.sscc.tm
+Fax: +98-21-22024480                    E-Mail: yufei@sscc-opt.com
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+I.WELL INFORMATION
+
+1. Basic Data
+
+         Well             Field          Client        Well Type            Job Type
+
+     AZN-G04    South Azadegan  PEDEX   Development Well   Stab- in Cementing
+
+2. Well Configuration
+
+     Drilling Programme      Bit size  Well depth      Casing size Casing set depth     T.O.C
+
+          First spud         26〞×156m            20〞×154m           Surface
+
+3. Objective
+
+  The 20″casing is designed to be set at 154m and cemented with stab-in method, the objective is
+
+to provide shallow formation isolation and support for subsequent casing string.
+4. Inner DP String Configuration
+
+      5″Stab- in Stinger +5″ regular DP
+5. Casing String Structure
+
+      5.1 Casing String Design
+
+     OD        ID                     Weight        Steel                       Burst       Collapse
+                                Set Interval                           Connection
+        (inch)        (inch)                   (ppf)      Grade                      Strength      Strength
+
+    20〞   19〞    0~154m    106.5    K-55           -       2410psi     770psi
+
+      5.2 Casing string structure
+
+       20"stab-in float collar (PDC drillable) +20" Casing String
+
+      5.3 Centralizer Installment
+
+        Interval            Centralizer Type                   Installation Principle          Quantity
+
+                                                Shoe track: 1 for every joint
+                 Bow spring ( open hole)                                             6
+                                             Above shoe track: 1 for every 3 joints
+       0~154 m
+                                                1 on Joint #1 pup joint DP,
+                       Inner string bow spring (5″ DP)                                          2
+                                                1 on Joint #2 pup joint DP
+
+                                                                              - 1 -
+Tel: +98-21-22051394               Web Site: www.sscc.tm
+Fax: +98-21-22024480                    E-Mail: yufei@sscc-opt.com
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+ II. CEMENTING PROGRAM
+
+ 1. Slurry Property Program
+
+                                                         Compressive    Fluid      Free
+     Category    Density   BHCT     Thickening Time
+                                                                Strength      Loss     Water
+
+        Tail     115 pcf  86°F   160-240min/100BC    ≥500psi           /              /
+
+ 2. Slurry Volume Calculation
+
+                                             Length    Hole Size    Ann. Cap.      Volume
+      No.       Item           Interval, m
+                             m         inch         bbl/m          Bbl
+
+                            0       154        150         26            0.88           135.5
+       1     Open Hole
+                                        60%  Excess                           216.8
+
+       2       Rat Hole     154      156         2          26.0           2.15             4.3
+
+       3                                Total Volume(bbl)                                221
+
+ 3. Displacement Calculation
+
+       Tubular      OD          ID         Length     Unit Volume     Volume
+
+         Drill Pipe          5″            4.276″       154m       0.058 bbl/m         8.9bbl
+
+                                    Total Volume(bbl)                                        8.9
+
+4. Ahead Fluid Design
+
+      Fluid type    Density      Length     Ann. Volume   Base Fluid   Mixing Water volume
+
+       Pre-flush     62.5pcf       80 m          70bbls        Water              70bbls
+
+6. Cementing Procedure
+
+   6.1 Pre-Job
+
+    (1) Prepare cement 45t.
+
+    (2) Fill up Tanks with 400bbl Fresh Water for mixing Fluid.
+
+                                                                              - 2 -
+Tel: +98-21-22051394               Web Site: www.sscc.tm
+Fax: +98-21-22024480                    E-Mail: yufei@sscc-opt.com
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+    5.2 Cementing Pumping Program
+
+    No.        Job Procedure         Density(pcf)    Rate(bbl/min)   Volume(bbl)   Duration(min)
+
+     1     Flush line & pressure test         62.5                 -            10            10
+
+     2        Pump spacer              62.5          4~6           70            15
+
+     3      Mix& Pump slurry          115            4-6           221            50
+
+     4   Pump tail mixer for displace       62.5          3~5             8.9            2
+
+     5   POOH 1 Stand & flush DP        68           6~8                 -             15
+
+                                               Total Time                                   92
+
+ 6. Materials Prepare
+
+     No.                Name &Description                        Unit              Qty.
+     1    API Class G Cement                                     Lb            94164
+     2    Defoamer                                                   Gal              17.7
+
+  7. Cementing Equipment
+
+     No.                     Name                              Unit             Qty.
+      1    Pump Truck with Jet Mixer & Tub                                  Set             2
+      2     20" Circulating swage                                          each             1
+      3    5"DP swage                                                  each             1
+      4      Trailer                                                             Set             2
+
+      5     Cementing tools and lines                                           Set             1
+
+                                                                              - 3 -
+Tel: +98-21-22051394               Web Site: www.sscc.tm
+Fax: +98-21-22024480                    E-Mail: yufei@sscc-opt.com
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 Laboratory Cement Test Report
+
+      Client          PEDEX204       Oilfield          South Azadegan          Date
+      Well number     AZN-G04       Type of well
+                                                                                                   Jul.05, 2016
+     Type of job       20” Casing      Type of Slurry   Cement Slurry
+ Well date:
+        Casing OD.    Mud density  MD（m）   TVD（m）    BHCT(℉)    BHST(℉)
+           20"           67-70pcf         154           154            86             93.2
+ Cement slurry component:
+        Products                           Comment1      Comment2      Comment3
+                    Concentration    Units       Name                               Additive/Cement  Additive/Slurry  Additive/Solution
+      Cement G      100%     BWOC                 /          193.27 Kg/Bbl                  /
+       Defoamer       0.1%     BWOC      0.05 Kg/Sack      0.19 Kg/Bbl      0.08 Gal/Bbl
+       Fresh water      50.85%    BWOC    0.160 Bbl/Sack     0.62 Bbl/ Bbl     0.99 Bbl/ Bbl
+
+      Fresh Water         0.1599Bbl/Sk         Mixing Fluid               0.1612 Bbl/Sk
+         Density              115Pcf              Slurry Yield               0.2581 Bbl/Sk
+ Rheology (Average readings):
+      Temp(℉)    Ф300    Ф200     Ф100     Ф6      Ф3      N      K
+          86         132       81         51         8          3          0.87        0.31
+ Fluid Loss:
+       Temp. (℉)     Pressure（Psi）   Time（min）     Fluid Loss(ml)    API Fluid Loss(ml)
+          86            1000             30          NA            NA
+ Free Fluid:
+             Temp. (℉)                   Time (h)                    Free Fluid(ml)
+                  86                           2                             3.2ml
+ Crush Cubes:
+          Temp. (℉)         Pressure（Psi）           Time(h)          Crush Cubes (Mpa)
+              86                    15                   24:00                10.2Mpa
+ Thickening Time:
+       Temp. (℉)    Pressure（Psi）  Time to Temp.(min)      30 Bc       50 Bc       70 Bc
+           86              15                10              123        157         195
+
+                                                                              - 4 -
+Tel: +98-21-22051394               Web Site: www.sscc.tm
+Fax: +98-21-22024480                    E-Mail: yufei@sscc-opt.com

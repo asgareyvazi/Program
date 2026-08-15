@@ -1,0 +1,202 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 5 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+Formation Testing Procedure
+
+1.0   Purpose
+1.1   Scope
+1.2   Objectives
+1.3   Action prior to test
+1.4   Procedure - Leak-off Test
+1.5   Procedure - Formation Integrity Test
+1.6   Responsibilities
+1.7   Calculations
+
+
+
+1.0 Purpose
+
+    To establish procedures for carrying out formation tests.
+
+
+1.1 Scope
+
+      All drilling units.
+
+
+1.2 Objectives
+
+     The objective of the leak-off test is not to fracture the formation, but to measure
+      the pressure at which it begins to take fluid (the formation intake pressure). It is
+      important that pumping is stopped when there is a deviation from the trend as
+      further pumping could cause formation breakdown, possible permanently
+      reducing its strength.
+
+
+1.3 Action prior to test
+
+      Prior to testing the formation just below the casing shoe the following will have
+     been carried out:
+       -   Drilled out shoe, rathole.
+       -  Mud circulated and conditioned and of uniform weight.
+       -   Bit pulled back into shoe.
+       -  Well shut in on pipe rams (string hung off on subsea stacks).
+       -  High pressure, low volume pump such as cement pump lined up.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 1
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 5 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.4 Procedure - Leak-off Test
+
+
+1.4.1  Pump down annulus or string or both together (Rig Superintendent to decide
+      depending on string configuration) in increments of 0.1 to 0.25 barrels.
+
+1.4.2  After each increment pumped, stop and record final pumping pressure. Wait at
+        least 2 minutes for pressures to stabilise. Record final static pressure. Plot both
+       against cumulative pumped volume and a graph.
+
+1.4.2 and 1.4.3 may be replaced by slow continuous pumping (0.3 - 0.5 bbl/min)
+monitoring pressure and volume.
+
+1.4.3  Repeat until the trend of fluid pumping pressure curve deviates from that of
+        final static pressure curve.
+
+
+1.4.4  Monitor final static pressure for at least another 5 minutes.
+
+
+1.4.5  Bleed off pressure and record volume flow back.
+
+      Compare volume pumped with volume bled off.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 2
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 5 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.5 Procedure - Formation Integrity Test
+
+
+1.5.1  Determine the upper pressure limit for the test, from the maximum mud
+       weight for the next hole section.
+
+      Test Pressure psi = (Maximum MW - Current MW) x Shoe TVD x 0.052
+
+
+
+1.5.2  Pump slowly (0.3 - 0.5 bbl/min). Monitor pressure build up.
+
+
+1.5.3  When the required test pressure is reached, stop the pump.
+
+
+1.5.4  Monitor pressure for 5 - 10 minutes.
+
+
+1.5.5  Bleed pressure off. Compare volume pumped with volume bled off.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 3
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 5 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+
+1.6 Responsibilities
+
+
+1.6.1 Rig Superintendent
+
+       Overall responsibility for the installation.
+       Ensures test is carried out as per well plan.
+
+
+1.6.2 Toolpusher
+
+       In charge of operation.
+       Ensures all personnel are aware of procedures and their responsibilities.
+      During test is at pump monitoring and recording pressures and volumes.
+
+
+
+1.6.3  Driller
+
+       In charge of drill crew.
+     On drill floor.
+
+
+1.6.4 Cementer
+
+       In charge of pump.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 4
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 5 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+
+1.7 Calculations
+
+
+1.7.1  Fracture Pressure (psi)
+
+       F.P. (psi) = (Mud Wt (ppg) x Shoe TVD (ft) x 0.052) + LOT Pressure (psi)
+
+
+1.7.2 Maximum Allowable Mud Weight (ppg)
+
+   MAMW (ppg) = ( LOT (psi) Shoe TVD (ft)  0.052) + Test Mud Wt
+       (ppg)
+
+
+
+1.7.3 Maximum Allowable Annular Surface Pressure (psi)
+
+    MAASP (psi) = (MAMW (ppg) - Mud Wt (ppg)) x Shoe TVD (ft) x 0.052
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 5
+
+

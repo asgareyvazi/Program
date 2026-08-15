@@ -1,0 +1,3208 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 61 ]
+────────────────────────────────────────────
+        South Pars Main Drilling Program
+
+                SP-WELLS-2003-008
+                  Revision 25.10.03
+
+
+
+
+
+1
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 61 ]
+────────────────────────────────────────────
+Title:
+
+
+
+                            South Pars Main Drilling Program
+
+
+
+
+Document no.:                            Contract no./project no.:                           Filing no.:
+ SP-WELLS-2003-008
+
+
+Classification:                                                           Distribution:
+Restricted                                       Restricted - No distribution beyond distribution list
+
+
+Distribution date:               Rev. date:                    Rev. no.:                      Copy no.:
+
+October 2003                                0
+
+
+Author(s)/Source(s):
+
+Jostein Vestvik, South Pars Lead Drilling Engineer
+
+Randi Rovde, South Pars Geologist
+
+
+
+
+Subjects:
+
+Drilling, Casing, Well Control, Drilling Fluids, Geology, Cementing, Environment, Temperature and
+Pressure Data, Directional Drilling and Surveying, Formation Evaluation
+
+
+
+
+
+Remarks:
+
+
+
+Valid from:                                                Updated:
+
+Distribution date
+
+Responsible publisher:                                            Authority to approve deviations:
+
+South Pars Wells                                Recommended by TEK PE B&B, Approved by SP Wells B&B
+
+
+Prepared by:                        Name:                                    Date/Signature:
+
+Lead Drilling Engineer                     Jostein Vestvik
+Geologist                             Reidun Rovde
+
+Verified:                           Name:                                    Date/Signature:
+
+Well Engineering Leader                Brage Johannessen
+Subsurface Manager                      Geir Tungesvik
+Drilling Superintendent                     Kristen Wanvik/Trond Røsbak
+
+
+Recommended:                     Name:                                    Date/Signature:
+
+TEK PE Chief Engineer                   Godtfred Svensen
+
+
+Approved:                         Name:                                    Date/Signature:
+
+Drilling Manager                       Helge Gustav Håland
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      3 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+       Revisions
+
+        This is the first edition of South Pars Main Drilling Program.
+
+       The current valid revision of each of the chapters is given below. Date of each revision
+           is also given.
+
+
+     Chapter      Title                                 Rev. No.         Date
+       1       Scope of Program                   0     October 03
+       2         Field and Platform Information          0     October 03
+       3        General Drilling                    0     October 03
+       4       Geology                         0     October 03
+       5        Geological Sampling and Formation       0     October 03
+                 Evaluation
+       6        Pressure and Temperature Prognosis       0     October 03
+       7        Casing Program                    0     October 03
+       8         Directional Drilling and Surveying        0     October 03
+       9         Drilling Fluid                      0     October 03
+      10       Cementing                        0     October 03
+      11       Well Control                      0     October 03
+      12        Health, Safety and Environment         0     October 03
+      13       Attachments                       0     October 03
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc              Side 3 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 61 ]
+────────────────────────────────────────────
+           Petropars Ltd.                Doc. no.
+                                          SP-WELLS-2003-008
+
+                                             Date                   Rev. no. 0      4 of 61
+  SOUTH PARS 6,7&8                                                   2003-10-25
+  MAIN DRILLING PROGRAM
+
+            Distribution List
+ No.                               Name                   No of copies
+  1-2  POGC                                   Per Haaland                       2
+  3-4    Petropars                                Per Haaland                       2
+  5    South Pars archive, Dubai                   Lalitha Jaiprakash                  1
+  6    South Pars archive, Stavanger              Greta Ulstein Drengstig              1
+  7    South Pars archive, Tehran                Per Haaland                       1
+  8     ”Operasjonsrom”, Forus                 Randi Lunde                       1
+  9    Wells Manager                           Per Haaland                       1
+  10    Deputy Wells Manager               M. Chamanifard                    1
+  11    South Pars Project Manager               John Adlam                       1
+  12     Drilling Manager South Pars              Helge Håland                      1
+  13    Subsurface Manager South Pars            Geir Tungesvik                    1
+  14     Drilling Superintendent Rani Woro         Kristen Wanvik                    1
+  15     Drilling Superintendent SagaDril 2        Trond Røsbak                      1
+  16    Well Engineering Leader                 Brage Johannessen                  1
+  17    Lead Drilling Engineer                      Jostein Vestvik                     1
+  18    Lead Completion Engineer              Alv Sigve Teigen                   1
+  19     Drilling Engineer                 Tommy Andersen                  1
+  20    Geologist                             Reidun Rovde                     1
+  21    Reservoir Engineer                      John-Helge Rasmussen              1
+  22    Production Engineer                      Bjørn Jensen                       1
+  23     Drilling superviser on duty                  Lalitha Jaiprakash                  1
+  24     Drilling engineer on duty                    Lalitha Jaiprakash                  1
+ 25-26   Operations geologist on duty             Reidun Rovde                     1
+ 27-28   SagaDril 2 rig superint                Nobuo Makabe                     2
+ 29-30   Drilling supervisor Rani Woro, offshore     Lalitha Jaiprakash                  2
+ 30-31   Drilling supervisor SagaDrill 2, offshore    Lalitha Jaiprakash                  2
+ 32-33  RaniWoro rig superintendent               Pascal Ibanez                      2
+ 34-35  South Pars Logistics Kish Island         Odd Magne Mandelid               2
+Service Companies
+  36-38    Baker Eastern (BHI)                    Nils Istad                         3
+  38-40    M-I                                  Geert Pieterson                     3
+  41-43    Halliburton                         Amrullah Hasyim                   3
+  44-47    Baker Eastern (B.O.T)                  Jørn Carlsen                       3
+  49-50    Kvaerner Oilfield Products             Richard Bainbridge                 3
+  51-53    Schlumberger                         Geir Finnsrud                      3
+  54-60                                              Lalitha Jaiprakash                  6
+
+
+
+
+
+   C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc              Side 4 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      5 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+1       Scope of the program............................................................................................................. 8
+1.1          Dispensations........................................................................................................................... 8
+1.2      Performance Measurement ...................................................................................................... 9
+1.3      Experience transfer .................................................................................................................. 9
+1.4      Organization and Responsibility.............................................................................................. 9
+1.4.1    Figure 1.1 shows the South Pars organization. ...................................................................... 10
+1.5      Reporting and Communication.............................................................................................. 11
+1.5.1     Confidentiality ....................................................................................................................... 11
+1.5.2    Reporting ............................................................................................................................... 11
+1.6      Contractors and Service Companies ...................................................................................... 11
+2        Field and Platform Information ......................................................................................... 12
+2.1          Introduction............................................................................................................................ 12
+2.3     Well identification and Location data.................................................................................... 13
+Fig. 2.1    South Pars Field Layout..................................................................................................... 14
+Fig. 2.2    South Pars Platform Layout ............................................................................................... 15
+Fig. 2.3   South Pars Operators........................................................................................................... 15
+3     GENERAL DRILLING....................................................................................................... 16
+3.1          Introduction............................................................................................................................ 16
+3.2      General Drilling Information ................................................................................................. 16
+3.2.1    32" Hole Section for 26" Conductor...................................................................................... 16
+3.2.2     Drilling 24” Hole for 18 3/8” Surface Casing........................................................................ 16
+3.2.3     Drilling 16"(17 ½”) Hole Section for 13 3/8" Casing............................................................ 17
+3.2.4     Drilling 12 1/4" Hole Section for 10 ¾” x 9 5/8” Casing ...................................................... 17
+3.2.5     Drilling 8 1/2" Hole section................................................................................................... 17
+3.2.6    Temporary P&A..................................................................................................................... 17
+3.3       Drilling Challenges................................................................................................................ 17
+3.3.1    Challenges and Potential Drilling Problems in 24” section................................................... 17
+3.3.2    Challenges and Potential Drilling Problems in 16” sections ................................................. 19
+3.3.2.1   Challenges and Potential Drilling Problems in 12 ¼” sections ............................................. 19
+3.3.3    Challenges and Potential Drilling Problems in 8 ½” sections ............................................... 20
+4            GEOLOGY........................................................................................................................... 21
+4.1          Introduction............................................................................................................................ 21
+4.2      General Geology.................................................................................................................... 21
+4.3          Lithology................................................................................................................................ 21
+4.4       Site Survey............................................................................................................................. 28
+4.4.1    Seabed conditions / obstructions............................................................................................ 28
+4.4.2    Shallow gas............................................................................................................................ 28
+Fig. 4.1   Top reservoir Map (top K1) intersected with modeled gas-water surfaceError! Bookmark
+        not defined.
+Fig. 4.2    Seismic line through SP-11 and SP-10 ............................................................................. 30
+Fig. 4.3     Geological cross-section of the South Pars Field.............................................................. 31
+Fig. 4.4     Generalized lithostratigraphy of the South Pars Field ...................................................... 32
+Fig. 4.5     Reservoir zonation ............................................................................................................ 33
+5     GEOLOGICAL SAMPLING AND FORMATION EVALUATION ............................. 34
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc              Side 5 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      6 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+5.1          Introduction............................................................................................................................ 34
+5.2          Cuttings.................................................................................................................................. 34
+5.3    Mud Samples ......................................................................................................................... 34
+5.4     Geochemical Samples............................................................................................................ 34
+5.5      Coring .................................................................................................................................... 34
+5.6   LWD Logging........................................................................................................................ 34
+5.7      Wireline Logging................................................................................................................... 34
+5.8    Mud Logging ......................................................................................................................... 34
+6     PRESSURE AND TEMPERATURE PROGNOSIS ........................................................ 35
+6.1          Introduction............................................................................................................................ 35
+6.2      Pore Pressure Gradient........................................................................................................... 35
+6.2.1    Pore pressure above the reservoir .......................................................................................... 35
+6.2.2    Pore pressure in the reservoir................................................................................................. 35
+6.3      Fracture Gradient ................................................................................................................... 35
+6.4     Overburden Gradient ............................................................................................................. 35
+6.5      Wellbore stability................................................................................................................... 36
+6.6      Formation Temperature Gradient........................................................................................... 36
+Fig. 6.1    Pore Pressure Curve.......................................................................................................... 37
+Fig. 6.2    Borehole collapse curve.................................................................................................... 38
+Fig. 6.3   MDT pressure plot South Pars.......................................................................................... 39
+Fig. 6.3    Formation Temperature Gradient plot South Pars ............................................................ 40
+7     CASING PROGRAM.......................................................................................................... 41
+7.1      Casing Program...................................................................................................................... 41
+7.2      Casing Summary.................................................................................................................... 41
+7.3      Casing Design Summary........................................................................................................ 42
+7.4      Casing Wear........................................................................................................................... 42
+7.5      Well Schematic...................................................................................................................... 43
+7.6     Well head and XT-tree........................................................................................................... 44
+8     DIRECTIONAL DRILLING AND SURVEYING ........................................................... 45
+8.1          Introduction............................................................................................................................ 45
+8.2     Well Description.................................................................................................................... 45
+8.3      Planning ................................................................................................................................. 45
+8.4      Reference Points and Slot Allocation .................................................................................... 45
+8.5      Operational Requirements ..................................................................................................... 46
+8.6      Directional surveying............................................................................................................. 46
+8.6.1    Well targets............................................................................................................................ 46
+8.6.2       Surveying............................................................................................................................... 46
+8.6.3    Table 7.1 Planned survey program ........................................................................................ 47
+8.7      Reporting ............................................................................................................................... 47
+8.8      South Pars Field Centre and Platform Centre Coordinates:................................................... 47
+8.9      South Pars Survey Management Process............................................................................... 48
+8.10     South Pars Spider Plot ........................................................................................................... 49
+8.11     General Well Path.................................................................................................................. 50
+8.12     Contingency Well Path .......................................................................................................... 51
+9     DRILLING FLUID.............................................................................................................. 52
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc              Side 6 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      7 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+9.1          Introduction............................................................................................................................ 52
+9.2      Total Fluids Management ...................................................................................................... 52
+9.3       Drilling fluid system .............................................................................................................. 52
+9.4      Reporting ............................................................................................................................... 52
+10    CEMENTING ...................................................................................................................... 53
+10.1        Introduction............................................................................................................................ 53
+10.2     Quality control ....................................................................................................................... 53
+10.3        Centralization......................................................................................................................... 53
+10.4    Cementing Program ............................................................................................................... 53
+10.5     Requirements for the different casings .................................................................................. 53
+10.5.1     Conductor............................................................................................................................... 53
+10.5.2   Surface Casing ....................................................................................................................... 54
+10.5.3   Intermediate Casing ............................................................................................................... 54
+10.5.4   Production Casing.................................................................................................................. 54
+10.5.5   7” Liner.................................................................................................................................. 55
+10.5.6   Alternative Solutions if 9 5/8” has to be set shallow. ............................................................ 55
+10.5.6.1 Combined blank-pipe and predrilled liner........................................................................ 55
+10.5.6.2 Expandable casing ............................................................................................................... 55
+10.5.6.3 Stage cementing of a combined blank-pipe and predrilled liner..................................... 55
+10.5.6.4 5” predrilled liner trough reservoir ................................................................................... 55
+11    WELL CONTROL .............................................................................................................. 56
+11.1    Well Control Equipment........................................................................................................ 56
+11.2    Well Control Drills ................................................................................................................ 56
+11.2.1   Flow checks ........................................................................................................................... 56
+11.2.2   Formation Strength Testing ................................................................................................... 56
+11.3     Pressure Testing..................................................................................................................... 56
+11.3.1   Pressure testing BOP.............................................................................................................. 57
+11.3.2   Function testing of kill and choke lines/manifold.................................................................. 57
+12      Health, Safety and Environment (HSE)............................................................................. 59
+12.1     Operational Conditions and Shutdown Criteria..................................................................... 59
+13    ATTACHMENTS ................................................................................................................ 60
+13.1     References Statoil Governing and Advisory documentation................................................. 60
+13.2  Abbreviations………………………………………………………………………...61
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc              Side 7 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 61 ]
+────────────────────────────────────────────
+                Petropars Ltd.                Doc. no.
+                                               SP-WELLS-2003-008
+
+                                                  Date                   Rev. no. 0      8 of 61
+     SOUTH PARS 6,7&8                                                         2003-10-25
+      MAIN DRILLING PROGRAM
+
+
+      1     Scope of the program
+
+              The South Pars Main Drilling Program (MDP describes field specific requirements to the
+                 planning, accomplishing and reporting.
+
+               Well specific requirements shall be described in the Individual Well Program-Drilling and
+                  in the Hole Section programs. In case of conflict between the MDP and the Individual
+               Well Program - Drilling, the latter will take precedence.
+
+
+        1.1     Dispensations
+
+Dispensation      Requirement                                   Deviated requirement
+from
+WR0444         18 5/8” Casing to be pressure tested to maximum     The casing will be tested to only 140 bar.
+                    shut in casing pressure. (146 bar)                 The casing is rated for 182 bar.
+WR0444          9 5/8” Casing to be pressure tested to maximum shut  The casing will be tested to 300 bar.
+                      in casing pressure. (350 bar)                        Shut in pressure from reservoir is 300bar.
+                                                  Max shut in pressure of 350 bar comes from a tight
+                                                             Aghar shale. The casing is rated for 474 bar.
+WR0436          Kick Margin in 12 ¼” section is 8m3.               Kick Margin if 9 5/8” csg is set shallow is 5 m3
+                                                                     This is based on pore pressure from the tight Aghar
+                                                                                shale. If using pore pressure from reservoir the Kick
+                                                              Margin is 18m3.
+WR 0436 5.1 and   Test BOP and kill/choke lines before drilling out of    During batch operation and if several casings are
+5.2                 casing                                                         install within 14 days, it is not necessary to test if last
+                                                                          pressure test covers all sections.
+WR 0547 2.4.4.2   Wells 20-50 deg: EMS or gyro shall be run as          Drilling wells up to 40 deg without verification survey.
+                      verification survey.                               (EMS/gyro).
+WR 0547 2.4.1    Max survey interval is 100m.                           Drilling Jahrum fm without survey.
+WR 0529 2.2.2     Verify cement in 9 5/8” w/ CBL if:                  Skip CBL in 9 5/8” csg if good cement job, also if:
+                      •   Predrilled liner (un-cemented)                  •   Predrilled liner (un-cemented)
+                      •   Production casing penetrates the reservoir.        •   Production casing penetrates the reservoir.
+
+WR 0547 2.3.5    Use NORSOK Standard M-702 on drilling equip.     Use DS1 Cat 3-5 standard on drilling equipment
+WR 0436 10.2.3    Barrier set as deep as possible                    Temp. Abandon: Packer set just inside 10 ¾” csg.
+MPD            Cement 9 5/8” csg into 13 3/8” csg                   Will be cemented min 200m above highest HC layer
+                                                                         /production packer to avoid burst/collapse due to
+                                                                       temperature effect if cementing up into 13 3/8” csg
+                                                                         annulus.
+WR0436           In addition to pilot testing by contractor, critical      The 9 5/8” cement job is not critical and the BHCT is
+                 cement slurries (BHCT > 105 0C) shall be tested by   107 0C just above the criteria at 105 0C and will not be
+                   a third party laboratory.                                 tested by a third party.
+WR0436          Temporary Abandon of 13 3/8” csg with a plug due   Not install plug in 13 3/8” csg due to:
+                      to HC in this section                                   •   Tested csg
+                                                                       •   Heavy Mud inside casing
+                                                                       •   Normal pressure in HC –zone
+                                                                       •   Routines for visual check of the csg every
+                                                                                 day.
+
+
+
+
+
+          C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc              Side 8 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 61 ]
+────────────────────────────────────────────
+                Petropars Ltd.                Doc. no.
+                                               SP-WELLS-2003-008
+
+                                                  Date                   Rev. no. 0      9 of 61
+     SOUTH PARS 6,7&8                                                         2003-10-25
+      MAIN DRILLING PROGRAM
+
+WR0436          Temporary Abandon of 18 5/8” w/plug due to        Not install plug in 18 5/8”csg:
+                  abnormal pressure                                    •   Tested csg
+                                                                       •  No shallow gas
+
+
+
+
+                Dispensations, non-conformances and proposals for improvement to governing documents
+                  shall be dealt with according to WR0011.
+              Approval for all dispensations from Statoil requirements shall be applied for in the
+                 organizational unit and at the organizational level where the requirement initially was
+                issued and approved.
+
+
+        1.2     Performance Measurement
+
+                 Drilling progress and result shall be reported by means of Rushmore measurement and KPI
+              (Key Performance Indicators).
+
+
+        1.1     Risk Register
+
+         A risk register will be used to identify potential risks.
+
+
+        1.3     Experience transfer
+
+               Gained experience shall be reported in the Final Well Report written for each well.
+            SP 6,7 &8 is the first field development for Statoil as an operator offshore Iran. The project
+                  will draw on experience from other operators and contractors on the South Pars field where
+                 applicable. For new upcoming Statoil field developments in the Region, it is very
+                important that South Pars-experience is captured and made available. The following
+                tools/methods will be used to capture necessary experience in a systematic way:
+
+               •  Use of the Local Best Practice (LBP) database.
+               •  The DBR 5.0 based Experience Database.
+               •  Networking with other licences and B&B Main Office.
+               •  Contractors’ experiences.
+
+
+        1.4     Organization and Responsibility
+
+             The SP Wells Manager has the overall responsibility for all drilling and well related
+                   activities in the South Pars field and reports to the Project Director. Figure 1.1 shows the
+               South Pars organization.
+             The South Pars Wells project team is an integrated sub-surface team and a drilling/
+               completion (D&C) engineering and operations group.
+
+             The general guidelines for Drilling and Well Operations (B&B) activities are co-
+                coordinated by the central organization of B&B.
+
+          C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc              Side 9 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      10 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+1.4.1   Figure 1.1 shows the South Pars organization.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 10 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      11 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+1.5     Reporting and Communication
+
+
+1.5.1    Confidentiality
+
+         All information regarding activities and results of the drilling operations are confidential
+        and are not to be disclosed in any manner or form.
+
+
+1.5.2   Reporting
+
+     A daily drilling report (DBR) will be prepared by the offshore drilling organization and
+          verified by the Drilling Supervisor.
+
+
+1.6     Contractors and Service Companies
+
+
+
+
+                          Services                                    Contractor
+      Mudlogging                          Baker Eastern SA (BHI)
+      Directional Drilling                    Baker Eastern SA (BHI)
+    MWD/LWD                          Baker Eastern SA (BHI)
+      Survey                               BHI/Gyrodata
+     Cementing                                Halliburton
+       Drilling Mud                    MI
+    WH/XT                      KOP (Kvaerner Oilfield Products)
+      Conductors                   ABB
+      Rani Woro                            PT. Apexindo
+       Sagadrill 2                               Pars Drilling Kish
+       Casing                              TENARIS
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 11 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      12 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+2      Field and Platform Information
+
+
+2.1     Introduction
+
+        South Pars is a gas-condensate field located in the Persian Gulf. This field is named South
+         Pars on the Iranian side of the border and North Field on the Qatari side. The North Field
+        has been on production for some years.
+
+       The reservoir formation is the Triassic, Permian Khuff formation, which consists of
+        shallow water carbonate sediments. The Khuff formation is divided into four main units,
+        K1, K2, K3 and K4. Top reservoir is at approximately 2680 m TVD MSL at the most
+         shallow, Phase 6.
+
+        South Pars 6, 7 & 8 will be developed with three wellhead platforms, normally unmanned
+         during the production phase. There will be 16 well slots on each platform, of which 10 are
+        planned utilized initially.
+
+      Two jack-up rigs equipped with cantilever, will be in operation to drill and complete a
+        planned total of 27 production wells and to tie back three predrilled appraisal wells (SP9,
+       SP10 and SP11). It should be noted that adjustments in total number of wells might take
+          place.
+
+       As per present plan, the first jacket installation is planned for December 2003, with the
+           last two jackets installed back-to-back right after the first. The two jack-up drilling rigs
+          will immediately after the jacket installation be moved in place next to the jackets.
+         Drilling will continue until late 2004 when the topsides are planned to be installed. The
+       two jack-up rigs will then be moved between the three phases/jackets to enable topside
+          installations with minimum loss of rig time. The rest of the wells will then be drilled
+        through the topside. The drilling and completion program are planned completed by the
+        end of 2006.
+
+       The wells are planned drilled with an inclination between 20-60 degrees. The typical gas
+        producer will be drilled to just above the gas-water-contact, which is at approximately
+       3130 mTVD MSL in K4. The casing program is planned to be 26” x 18 5/8” x 13 3/8” x 9
+          5/8”, and the reservoir completed with a 7” 13% Cr non-cemented predrilled liner. The
+        completion is planned to consist of a 9 5/8” production packer and 7” tubing with a sub
+         surface safety valve. At present the preferred completion design is commingling of all for
+         reservoir zones, K1, K2, K3 and K4 by running a predrilled uncemented 7” liner across
+         the reservoir section. This is expected to provide sufficient productivity and optimized
+         recovery. Perforation and acid stimulation can be applied in case of unsatisfactory
+         productivity. After completion the wells will be cleaned up through the x-mas tree and a
+         well testing package on the jack-ups. The wells will then be shut in until production start
+         up.
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 12 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      13 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+       The two first wells are planned used as a guide with respect to correct casing depths, and
+           start of a Best Practice process on South Pars. The rest of the wells on each platform are
+        planned batch drilled according to a "Main Drilling Program". First completion is planned
+          installed during first half of 2004.
+
+           Initial reservoir pressure and temperature is approximately 363 bar and 107 deg C
+          respectively. The formation fluids can be regarded as severely corrosive. H2S and CO2 are
+        measured to 0.5 % (mol) and 2.0 % (mol) respectively. Formation water is not expected
+        produced. However, flow wetted components must be of a material composition able to
+        handle small amounts of formation water.
+
+
+2.2     Partnership
+
+       The development rights for phases 6, 7 and 8 of the South Pars field were awarded to the
+         Petropars on 10 July 2000.
+        Following negotiations through 2002, Statoil assumed a 40% share in the offshore
+        elements of the project. The agreement was signed on 10 November 2002. This share is
+         equal to 11.3% of the total CAPEX for the project. Statoil will manage the offshore
+        elements of the development.
+
+
+2.2.1   Table 2.1 SP Partnership
+
+      Company                             (%)
+        Petropars Ltd                                88.70
+         Statoil                                       11.30
+        Total                                      100.00
+
+
+
+2.2.2   Appraisal wells
+
+       The following appraisal wells have been drilled from July 2001 to July 2002 as shown in
+        Table 2.2 in the Phases 6,7 & 8 by Petropars / Enterprise. A total number 12 appraisal
+        wells have been drilled on South Pars and the well SP-13 is currently being drilled.
+
+        Well No.   Dev.Phase    Total depth m MD
+           SP-9         8             3290
+           SP-10        7             3229
+           SP-11        6             3192
+
+
+2.3     Well identification and Location data
+
+       The platform naming will be SPD7, SPD8 & SPD9 for the three phases, the well
+          identification will accordingly be SPD7-01 for slot no 1 and SPD7-02 for slot no 2 etc.
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 13 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 61 ]
+────────────────────────────────────────────
+                  Petropars Ltd.                Doc. no.
+                                                 SP-WELLS-2003-008
+
+                                                     Date                   Rev. no. 0      14 of 61
+      SOUTH PARS 6,7&8                                                            2003-10-25
+       MAIN DRILLING PROGRAM
+
+
+                      • 10 Development Phases have been awarded to main Contractors.
+                      • EstimatedNorth Total Reserve of 440 Trillion Standard Cubic Feet of Gas (12,5 trillion m3)    KANGAN
+                      • Estimated Reserve of 15 Billion Barrels of Condensate
+          Pars
+                                                                  West
+     •  South Pars (Iran) together with North Field (Qatar) forms                                                                     Assaluyeh                    D-2st
+         the largest Gas Field in the World
+                                                                 Bandar
+                   D-1
+     •  Lies in the Persian Gulf , about 100 kilometers South of                Taheri
+                              1E 1
+        Assaluyeh                                                         Assaluyeh-1
+     •  Water depth of about 70 meters
+     •  10 Development Phases have been awarded to main South plannedPars Phase4gas pipeline& 5--Valli Asr
+       1    G-3                                                                           Asr         Contractors.
+            3                                                                                                                                                                 3--Valli     •  Estimated2         Total Reserve of 440 Trillion Standard Cubic           &                                                                                                                                                              pipelines           Tabnak                P                       2
+        Feet of Gas (12,5 trillion m3)ersi                                 Asr           gas                    a                     n                                                   Phasewet                   G     •  Estimated Reserve of 15 Billion Barrels                                                     of Condensate              1-Vallipipeline      Pars32"                       ulf                                        x                                                                           Pars                                                                  gas        South2                                                                   32"                                                                              South
+
+
+
+                                                              Sater-1
+Block 4             X-1
+Open                          5
+0             20             40                                           3          SOUTH
+          Km                 4                 PARS                                                               11/12
+                         Block 5            6
+                                                                                  5
+                                                                                                                  3        NAR-1           Maersk        1                              7                        2                                                                            2
+            Block 12                                 4                                             1
+         BP                 AL SHAHEEN       1    2,3               BH Prospect
+                       3  QMB             RasGas          8                  planned 20" South Pars (Oil) -
+      AL RAYYAN   1                                 KNA-4  KAN-1    3                                                 Lavan Island oil pipeline                       2   1H
+                                                               NFR-1
+                      11      NWR-1    NFA                         9/10
+          UAG-1                                                                                       3Y-1                                          1              EGU
+                                                   5
+                        NW Dome                 KNA-3
+         Block 11                                                                         Dolphin                                                                                                                                              Island NAA-1    Wintershall        Open                2
+           Al Rayyan    8               NF-1                                                                                                          3J-1
+           South                                        KNA-5                                                                                                                                          Balal-Lavanpipeline
+                            MOQ-1                    UAI-1                                           MOQ-2         6                                        14"  oil                                                                  BALAL
+                                                            Qatargas
+           QMC1                                                                         3W-2
+                  Umm Al
+                                                      North West Dome-4                        3W-3     TFE                               Irshan SE-1
+                                                                                           3W-1
+               NORTH
+           Fig. 2.1   South Pars Field Layout
+
+
+
+
+
+              C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 14 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      15 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+Fig. 2.2   South Pars Platform Layout
+
+
+
+
+
+  South Pars G as Field
+    D evelopm ent
+
+
+                                                      5          9
+                                               LG /O IEC /IO
+                                 EN I (AG IP)                                                               10
+                                                 4                                                           6
+                                                     Petropars
+                                                           +   7
+                                              1                  Statoil                                      Petropars
+ Phase 1:        Petropars                       TFE                                                        2                8
+                                                               3 Phases 2 - 3:     TotalFinaElf
+
+ Phases 4 - 5:    EN I
+
+ Phases 6 - 8:     Petropars /Statoil                        11
+                                                                12
+ Phases 9 - 10:   LG  ( Lucky G oldstar)
+
+
+
+
+
+Fig. 2.3   South Pars Operators
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 15 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      16 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+3    GENERAL DRILLING
+
+
+3.1     Introduction
+
+        This chapter describes information and general requirements for each hole section for the
+        development wells to be drilled on the South Pars field. The individual Well Drilling
+        Programs will contain specific requirements for each hole section, which is not described
+          in the Main Drilling Program.
+
+
+3.2     General Drilling Information
+
+
+3.2.1   32" Hole Section for 26" Conductor
+
+       The 26” conductors will be batch set at 60-80 m below seabed based on the “South Pars
+         6,7,8 Soil Description Summery “ performed by Asle Eide.
+
+       The 32" section will be drilled with seawater and viscous pills with return to seabed.
+       The hole will be displaced to weighted mud prior to running the 26" conductor.
+
+       The formation throughout the section is soft and uniform with some hard stringers. No
+         indications of boulders have been observed in the appraisal wells.
+
+
+3.2.2    Drilling 24” Hole for 18 3/8” Surface Casing
+
+       The object of the 18 5/8” surface casing is to case off the total loss zones in the Jahrum
+        and Sachun Formation prior to entering the Kazhdumi and Dariyan Formation where
+         pressures may exceed 1.15 SG. The shoe will be set in the Laffan shale at approximately
+       1100 mTVD.
+       The section is planned to be batch drilled.
+        This hole section will be drilled with seawater and viscous pills with return to the rig.
+       The 24" hole will be displaced to weighted mud prior to running 18 5/8" casing.
+      No shallow gas was observed in the appraisal wells drilled by Enterprise but 55 ppm H2S
+       was observed on well SP-11 during displacing out a hi-vis pill at TD.
+        Sulphurous water flow from Halul and Jahrum formation has been observed on the field.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 16 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      17 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+3.2.3    Drilling 16"(17 ½”) Hole Section for 13 3/8" Casing
+
+       The object of the 13 3/8” intermediate casing is to isolate the weak Fahliyan fm. and the
+           oil bearing Dariyan fm. The shoe will be set in the Hith anhydrite at +/- 1650 mTVD.
+
+       The section is planned to be batch drilled.
+
+       The 16" (or 17 ½”) section is planned drilled with a KCl/polymer water based mud.
+
+
+3.2.4    Drilling 12 1/4" Hole Section for 10 ¾” x 9 5/8” Casing
+
+       The object of the 9 5/8” production casing is to seal off the pressured Sudair/Aghar shales
+        above the Kangan gas reservoir. This will allow drilling the reservoir with a lower mud
+         weight.
+       The shoe will preferably be set into the (K1) reservoir.
+       The section is planned to be batch drilled.
+       The 12 1/4" hole section is planned drilled with a KCl/polymer water based mud system.
+
+
+
+3.2.5    Drilling 8 1/2" Hole section
+
+       The wells will be primary be completed with an open hole predrilled liner with a cemented
+          liner as a back-up solution. The liner will cover the K1, 2, 3 and 4 gas reservoirs.
+        8 ½” sections planned is drilled with a KCl/polymer water based mud system or salt
+         saturated (Nacl) system.
+
+
+3.2.6   Temporary P&A
+
+
+      No plug will be used for temporarily abandonment of 18 5/8” and 13 3/8” casing.
+           If batch drilling of 12 ¼” section the wells will be temporarily plugged after cementing of
+       9 5/8”casing, with a mechanical plug set approx. 50 m below 9 5/8” x 10 ¾” crossover.
+
+
+
+3.3      Drilling Challenges
+
+
+3.3.1   Challenges and Potential Drilling Problems in 24” section
+
+        Losses
+        Asmari: Partial losses
+        Jarhum: Dolomitic limestone with huge caverns of vertical limestone slabs.
+                   Partial to total losses as soon as they are encountered.
+        Sachun: Partial to total losses has been observed in the appraisal wells.
+               Limestone with some dolomite stringers and marl.
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 17 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      18 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+       The losses will be cured with cuttings from formation. LCM & cement will not be used as
+        a primary solution.
+     A SW Floating mud cap with H2S scavenger will be used to avoid flowing H2S during
+          loss circulation.
+
+       Water Influx /H2S
+        Halul and Jahrum fm.: Sulphurous Water Influx has occurs from these formations.
+         Floating mud cap with H2S scavenger will be used to cope with H2S.
+        Stuck pipe
+        Jarhum and Sachun: Stuck pipe often occurs due to total losses, pack off, poor hole
+         cleaning and tight hole.
+            It ‘s important to keep a high flowrate and pump hi-vis pills frequently. Use of roller
+        reamer will also help to avoid stuck pipe.
+
+       Harsh Drilling Environment
+        Jahrum fm.: mechanical sticking and irregular rotary torque cause serious damage and
+         fatigue to equipment from shifting of Limestone slabs in the formation.
+         Several twist offs and sidetrack has occurred in the Jahrum formation on South Pars.
+        Jahrum and Sachun are both very abrasive formations. This is causing rapid stabilizer
+          deterioration, bit gauge wear and thereby also loss of hole angle.
+         Bit bounce (high axial vibration load) is a predominant feature using a rotary BHA.
+          Insert bit will be used to cope with the hard formation. Roller reamers, shock subs, use of
+         checklist and inspection programs has to be used to avoid twist offs.
+
+         Directional Control
+        Jarum fm.: Complete directional work before entering Jahrum due to the anticipated hole
+        problems in this part of the well. Probably using an aggressive rotary build assembly to
+         maintain inclination.
+
+        Penetration rate
+        Rates of penetration through the Jahrum can be divided into two sections. The upper
+         section has normally been drilled at high rates, generally ranging from 2-30 m/hr, with
+         occasional peaks of up to 70 m/hr. From about 650 m to the base of the formation,
+         penetration rates are averaging 10 m/hr, picking up slightly as the Tertiary/Cretaceous
+        boundary was approached, to a range of 5-18 m/hr.
+      ILAM / HALUL FORMATION (thickness 73-83 m)
+         Penetration rates of 3-5 m/hr up to almost 40 m/hr. On the logs the top is picked below a
+          significant gamma ray spike of over 170 API units.
+        Rates of penetration through this interval, ranged from 10-15 m/hr.
+     SURGAH / LAFFAN FORMATION (thickness 35-42 m)
+         Penetration rates in the Surgah averaging 5 m/hr. A general increase is s seen as the
+         claystones of the Laffan are penetrated, rates ranging from 10-15 m/hr.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 18 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      19 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+3.3.2   Challenges and Potential Drilling Problems in 16” sections
+
+        Losses
+         Fahliyan: Partial to total losses is possible caused by localized dolomitisation.
+
+         Dariyan: Partial to total losses
+         Cutting from formation and LCM will be used to cope with the losses.
+
+
+       Water and Oil Influx
+        Kazhdumi: Water Influx if not suitable hydrostatic head is maintained (1.15sg)
+       Gadvan fm: Oil Influx fm if not suitable hydrostatic head is maintained (1.17sg)
+               Decrease in hydrostatic head can occur due to losses in the Fahliyan fm.
+           It’s important to keep a floating mud cap with H2S scavenger.
+        Stuck pipe
+       Kazhdumi fm: sticky and reactive/swelling clay with potential for stuck pipe.
+
+     ROP
+      DARIYAN FORMATION (thickness 110-113 m)
+       The penetration rate varies from 5 m/hr in the argillaceous to 20-30 m/hr in the limestone.
+     GADVAN FORMATION (thickness 70-82 m)
+         Drilling rates in the Gadvan varies from less than 5 m/hr in the clay rich sections to 10-20
+        m/hr in the cleaner limestones.
+      FAHLYIAN FORMATION (thickness 158-176 m)
+         Drilling rates through the Fahlyian varies from 5 to 50 m/hr.
+        Hith fm: very dense fm. which resulting in a poor penetration rate (2-4 m/hr.) and
+         causing heat cracking of the bit inserts.
+
+
+3.3.2.1  Challenges and Potential Drilling Problems in 12 ¼” sections
+
+        Losses
+        Arab:   If MW exceeds 1.15 sg. Probably caused by localized fracturing/dolomitisation.
+       Surmeh: Losses can be expected
+        Neyriz: Losses can be expected.
+        Losses will be tried cured with LCM and cuttings from the formation drilling ahead.
+
+
+
+       Stuck pipe
+         Sudair (S8)/Aghar shale: Stuck pipe often occurs on a connection due to poor hole
+         cleaning and sudden pack off /hole collapse. Heavy back reaming could be required in this
+          section. It’s important to keep back free.
+          In two wells caliper logs were run, showing over-gauge hole (S8: 12”-15”, Aghar: 15”-
+         20”). The mechanism may not be reactive shale since both these shales are Trias age. The
+         reports of cavings suggest either a geo-pressured shale or unstable fractured shale.
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 19 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      20 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+       Harsh Drilling Environment
+       Lower Dashtak / Sudair fm.: Observing severe torsional vibration (Stick-Slip) that can
+        cause twist off due to torque fluctuation.
+
+      Low ROP and excessive Bit wear
+        Hith & Arab fm.: Highly interbedded with high interface severity causing damage to PDC
+          cutters due to whirl at hard interfaces.
+        Hith & Arab: Plastic behaviour of Anhydrites causing bit balling and low ROP.
+       Lower Surmeh shale to Evaporite B: PDC cutter damages in pyrites, bit whirl at Dolomite
+          interfaces and low ROP.
+       Lower Limestone Member (thickness 111-142 m)
+         Drilling rates range from 10 to 20 m/hr.
+       Lower Surmeh Shale Member (thickness 41-47 m)
+       The unit consist predominantly of wackestone - packstone. Penetration rate through this
+          interval averages 10 m/hr.
+          Lithiotis Bed Member (thickness 24-28 m)
+         Penetration rates range from 5-25 m/hr.
+     DASHTAK FORMATION  (thickness 154-168 m)
+         Penetration rates range from 5-10 m/hr.
+        Upper Shale Member (thickness 45-52 m)
+         Penetration rates range from 1-10 m/hr.
+        Massive Anhydrite Member (thickness 26-28 m)
+         Drilling rates average 15 m/hr through the Massive Anhydrite Member.
+         Sudair S8 – S2 Members (thickness 169-174 m)
+         Drilling rates through the Sudair zones range from 5 – 20 m/hr.
+        Aghar Shale Member (thickness 24-26 m)
+        Rate of penetration through the Aghar Shale is slow, at 2-5 m/hr.
+         Directional Control
+        Darab and Mand member: Poor sliding characteristics in these formations.
+
+
+3.3.3   Challenges and Potential Drilling Problems in 8 ½” sections
+
+        Losses
+      K2 and K3 fm: Possibility of losses
+           If the 9 5/8” is set into the K1 the MW can be lowered in the reservoir
+
+       Stuck pipe
+         Differential sticking is a problem in the Khuff fm (specially in K4).
+       The K4 reservoir could be depleted with approximately 30 bar due to TSP production on
+        phase 2 & 3.
+        4/18 wells did experience differential sticking, however only one had to sidetrack.
+           If the 9 5/8” is set into the K1 the MW can be lowered in the reservoir. BHA design will
+         also be a focus point.
+
+       H2S:
+       Only minor H2S readings are reported in the mud (15ppm).
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 20 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      21 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+4   GEOLOGY
+
+
+4.1     Introduction
+
+       The late Permian Dalan Formation and the early Triassic Kangan Formation is the main
+        gas reservoir on the South Pars Field. Oil is discovered in the more shallow Cretaceous
+         Formations.
+
+       Kangan and Dalan Formation are divided into four major sequences called K1, 2, 3 and 4.
+         In the sequence stratigraphic framework made by Total South Pars these are referred to, as
+      KS1 to KS4 witch is slightly different from K1-4. TSP made a detailed sequence
+          stratigraphic model based on SP-5 and 6 this is the basis for Robertsons work on the SP-9
+         core and are also the basis for our work.
+
+       The reservoir consist mainly of dolomites plus a lower content of limestone and minor
+         anhydrites.
+        7 major depositional environments are identified spreading from evaporitic/sabkhas flats
+          to offshore settings.
+
+
+4.3     General Geology
+
+         In the late Early Permian, the Arabian Plate is interpreted to have undergone a major phase
+         of crustal extension resulting in continental separation. Progressive thermal uplift is
+          interpreted to have occurred along the present-day Zagros Suture culminating in the
+         regional ‘pre Khuff unconformity’. In the Late Permian, continental spreading took place
+         as the Neo-Tethys Ocean started to form.
+
+       Movement on major faults in Abu Dhabi produced substantial, thickness variations within
+         the Lower Dalan. Movement on these faults ceased, however, following the deposition of
+         the base middle anhydrite. Major shallow water carbonate platform sedimentation
+         subsequently prevailed across the entire Arabian Plate, lasting until the late Toarcian.
+
+
+4.4     Lithology
+
+       The summary given below describes the lithology for the South Pars field. The
+         stratigraphy is based on sample descriptions, logs, core descriptions, and correlation
+        between wells.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 21 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      22 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+     QUARTERNARY - TERTIARY
+
+     FARS GROUP (thickness ca 180-192 m)
+       The Fars Group comprises dominant limestones that pass down in to gypsum and
+         anhydrite, finely interbedded with claystones in the deepest part. A sequence of packstone
+        and grainstone lies at the base of the formation.
+
+      ASMARI FORMATION (thickness 69-72 m)
+       Top Asmari is picked at the first occurrence of dolomite. This becomes the dominant
+          lithology, locally grading to dolomitic limestone.
+
+     JAHRUM FORMATION (thickness 270- 424 m)
+       The top of the Jahrum Formation marks the unconformable boundary between the lower
+       Miocene and the Eocene. Lithologically and petrophysically it is hard to distinguish from
+         the overlying Asmari and is picked on depth. The Jahrum Formation contains the Sachun
+         Facies Member that has been picked as a slight shift in the gamma ray baseline and just
+        below the first occurrence of anhydrite. The sequence is dominated by dolomite. Chert is
+      common about 600 m.
+
+       At the base of the Tertiary sequence, the lowermost 20 m is highly distinctive. Although
+          lithologically it continues of dolomite, the color becomes darker and it becomes
+          characteristically speckled.
+
+     CRETACEOUS
+
+      ILAM / HALUL FORMATION (thickness 73-83 m)
+       The Ilam – Jahrum boundary marks the major unconformity between the Tertiary and the
+         Cretaceous. As such it is clearly marked, both lithologically and petrophysically as well as
+       by a significant drilling break whilst drilling. Lithologically, the sequence consists of
+         interbedded dolomite and wackestones – packstones.
+
+     SURGAH / LAFFAN FORMATION (thickness 35-42 m)
+       The Surgah / Laffan Formations become increasingly argillaceous through the sequence
+        with chalky mudstones passing down into claystones. The top is picked at the first
+         indication of an increasing gamma ray. The Laffan itself, being predominantly claystone,
+           is represented by a significantly increasing gamma ray profile, very low resistivity values
+        and a major shift on the sonic log. The base of the sequence is marked by a significant
+        break in the logs, representing the change from claystone / shales to underlying clean
+        chalky limestones.
+
+     SARVAK FORMATION  (thickness 56-94 m)
+       The Sarvak Formation is sub-divided into three members, the Mishhrif, Ahmadi and the
+          thin Mauddud at the base. The upper boundary is unconformable and clearly cuts down
+          into the Sarvak in a NW direction as the sequence shows progressive thinning between
+         SP-9, SP-10 and SP-11. In SP-9, the Mishrif – Ahmadi sequence is 79 m thick, in SP-10 it
+           is 66 m tick and in SP-11, only 41 m tick.
+       The Mishrif, Ahmadi Members and Mauddud consists of wackstone – mudstone.
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 22 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      23 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+     KAZHDUMI FORMATION (thickness 40-46 m)
+       The Kazhdumi Formation is marked by a major break in the logs corresponding to a
+         lithology change as the overlaying carbonates pass down into dominant claystones.
+         Lithologically, the Kazhdumi comprises of brown claystones interbedded with thin
+        wackstones. At the base at the Kazdhumi, two sandstone stringers are present. These are
+          thin, being only a few meters thick.
+
+        These claystones and sandstones represent the last significant clastic deposits encountered
+          in the sequence until Lower Triassic shales. These thin stringers are oil bearing in SP-11.
+
+      DARIYAN FORMATION (thickness 110-113 m)
+       The top of the Dariyan is marked by a lithology change from the overlying dominant
+         claystone to carbonates, and as such is also marked by a significant log break.
+       The carbonates through the majority of the sequence consist of mudstones. An
+         argillaceous section in the middle of the Dariyan grades into a very calcareous claystone,
+        which is approximately 30 m thick. At the base of the section the lithology reverts to
+        mudstone.
+         Oil shows are present in the formation in SP-10 and SP-11.
+
+     GADVAN FORMATION (thickness 70-82 m)
+       The top of the Gadvan Formation is picked on a minor log break, where the gamma ray
+        becomes increasingly erratic, reflecting the higher argillaceous content of the limestones.
+        Thin claystones beds, 1-5 m in thickness appear throughout the formation.
+
+      FAHLYIAN FORMATION (thickness 158-176 m)
+       The Fahlyian Formation is the basal section of the Cretaceous on South Pars and
+        comprises of wackestones and mudstones, which become interbedded with grainstone and
+         dolomites towards the base. The top the Fahlyian Formation is picked below a sharp
+      gamma ray spike, representing a claystone horizon at the base of the overlying Gadvan
+        Formation.
+        Chert becomes quite common in the middle of the section over an interval of around 50 m.
+        Dolomites first appear about halfway down the section.
+
+      JURASSIC
+
+      HITH FORMATION (thickness 63-72 m)
+       The Hith Formation is one of the major seismic markers in the South Pars field. An abrupt
+        change in lithology occurs as the Cretaceous section passes unconformably down into the
+          Jurassic. The carbonates of the overlaying sequence give way to evaporites with a
+         correspondingly significant log break.
+       The Hith Formation consists predominantly of anhydrite, with interbedded stringers of
+         dolomite.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 23 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      24 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+     SURMEH FORMATION
+       The Surmeh Formation is subdivided into a number of members each having their own
+          characteristics.
+
+       Arab Member (thickness 60-64 m)
+       The Arab Member consists of interbedded evaporites and carbonates leading to rather
+          erratic log response. The unit is picked at the top on the first major dolomite bed to occur
+        below the Hith Formation and the last significant anhydrite bed delineates the base.
+
+       Upper Dolomite Member (thickness 46-48 m)
+       The Upper Dolomite is a thin unit comprising dominant of dolomite with minor mudstone
+          stringers. Lithologically it is quite uniform, with localized fluctuations in porosity causing
+         sonic and resistivity variations. The top is picked below the last significant anhydrite bed,
+         whilst the base is picked where the dolomite passes into a more uniform mudstone –
+        wackestone sequence.
+
+       Upper Limestone Member (thickness 67-95 m)
+       The top of this interval is picked at the point where the dolomites are replaced by
+        dominant mudstone – wackestone in the sequence. A slight increase of 5 API in the
+      gamma ray response can also be observed.
+
+       Cherty Zone Member (thickness 67 m)
+       The Cherty Zone Member is so called due to the presence of cherty horizons in some parts
+         of the South Pars field. In SP-9, 10 and 11 however no chert was observed. The
+          lithological composition of this horizon is an alternating sequence of dolomite and
+        mudstone – wackestone.
+
+       Middle Limestone Member (thickness 94-102 m)
+       The middle Limestone Member is characterized by an increase in limestone with a
+         decrease in dolomite. The member is composed primarily of wackestones and packstone
+        with minor dolomite stringers. The top is marked by a slight downward shift in the gamma
+         ray of 15 API. The base of this member is marked by the appearance of a distinctive
+         mottled grey to black limestone, which straddles the boundary between this formation and
+         the underlying Mand Member.
+
+      Mand Member (thickness 94 m)
+       The top Mand member is picked within the distinctively mottled wackestone – packstone
+        sequence below the base of the claystone stringer identified by a gamma ray spike in SP-9
+        and 10. The Mand Member comprises mainly of mudstone and wackestone with minor
+         interbedded packstone and dolomite. Further thin horizons of the mottled dark grey to
+         black wackestone continue to occur intermittently.
+
+       Lower Limestone Member (thickness 111-142 m)
+       The Lower Limestone Member is lithologically very similar to the overlaying Mand
+       Member. The top is picked at the upper boundary of a more argillaceous and carbonaceous
+          unit that exhibits a corresponding gamma ray increase. The lowermost part becomes
+         increasingly argillaceous. Stringers of dolomite occur especially in the middle part.
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 24 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      25 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+       Lower Surmeh Shale Member (thickness 41-47 m)
+       The Lower Surmeh Shale Member consists of argillaceous and carbonaceous limestones.
+      Two 2 m thick gamma ray spikes mark the top of this member. The gamma ray response
+         also becomes very erratic, reflecting the finely bedded and varied nature of this member.
+       Over the lower half of this formation the limestones become slightly dolomitic,
+         representing the top of a thick sequence of dolomite dominated carbonate lithology.
+
+         Lithiotis Bed Member (thickness 24-28 m)
+       The Lithiotis Bed Member consists predominantly of dolomite interbedded with
+        wackestone.
+
+        Neyriz Shale Member (thickness 13-16 m)
+       The Neyriz Shale Member consists mainly of claystone with wackestone stringers and
+         exhibits a sharp, gamma ray defined upper boundary.
+
+      TRIASSIC
+
+     DASHTAK FORMATION  (thickness 154-168 m)
+       The Dashtak Formation can almost be divided in two halves with the upper 75 m
+        comprising of dolomite with minor interbeds of claystone and mudstone, and the lower 90
+     m consisting of interbedded anhydrite and dolomite. This lower half of the Dashtak is
+         referred to as the Evaporite B. A drop in the gamma ray marks the top of the Evaporite B.
+        With depth, the anhydrite becomes less dominant, passing into thicker dolomites and
+         claystone stringers.
+
+      SUDAIR FORMATION  (thickness 270-277 m)
+       The Sudair Formation is a varied formation that, in gross terms, is divided into Upper and
+        Lower. The Lower Sudair (below base Massive Anhydrite Member) has been subdivided
+          into ten members, of which seven are the Sudair zones recognized in South Pars.
+       The top of the Sudair Formation can be picked by the sharp rise in gamma ray response
+        and sonic travel time.
+
+       Upper Shale Member (thickness 45-52 m)
+       The Upper Shale Member is marked by the first occurrence of significant claystone in the
+          cuttings. Although initially the claystone stringers are quite thin, with depth they become
+         progressively thicker, up to a maximum of 8 m.
+
+        Massive Anhydrite Member (thickness 26-28 m)
+       The Massive Anhydrite consists of anhydrite beds, ranging in thickness from 2 m to 14 m,
+         interlaminated with thin dolomite and minor claystone.
+
+        Sudair S8 – S2 Members (thickness 169-174 m)
+       The lower part of the Sudair Formation has been subdivided into a series of zones based
+         primarily on wireline log characteristics. Delineation of most of these zones whilst drilling
+           is not possible.
+       The topmost zone, the S8, is predominantly clastic in content with a distinctive increasing
+      gamma ray profile. This passes down into the S7, which is composed of a sequence of
+         interbedded claystones and anhydrites. Zones S6 to S4 inclusive comprise mainly of
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 25 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      26 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+        mudstone and claystone interbedded with thin anhydrite stringers. Anhydrite is also
+         present as secondary growths within the dolomitic matrix. The two lowermost Sudair
+         zones, S3 and S2, are composed of anhydrite, interlaminated with dolomite, mudstone and
+         claystone.
+
+       Aghar Shale Member (thickness 24-26 m)
+       The Aghar Shale is clearly marked on wireline logs by a sharp break as the lithology
+        changes from a thinly bedded sequence of anhydrite, dolomite and claystone to a more
+        massively bedded sequence of claystone.
+
+     KANGAN FORMATION (thickness 180-188 m)
+       The Kangan Formation, together with the underlying Permian Dalan Sequence represents
+         the primary reservoir objective in the South Pars field.
+
+      UPPER KANGAN (thickness 30 m)
+       The uppermost part of the Kangan consists of dolomites interbedded with claystone and
+         anhydrite. The claystones are clearly seen on the logs because of the high gamma ray
+         values.
+
+      K1  (thickness 107-115)
+       The top K1 is picked below a high gamma ray spike. The topmost 23-37 m of the
+        sequence consists of dolomite with claystone and anhydrite stringers. This uppermost
+         section is generally tight although thin stringers with some better reservoir properties
+         appears. Reservoir zone 2 or the middle part of K1 consists predominantly of grainstone,
+        mudstone and wackestone with subordinate dolomite stringers. Anhydrite nodules appear
+          in the uppermost and lowermost part of the zone. Reservoir zone 2 is regarded as the
+         productive part of K1.
+         Reservoir zone 3 or the lowermost part of K1 consists of dolomitised grainstone,
+        wackestone and mudstone. Anhydrite appears as isolated nodules and as stringers at the
+        base of the section.
+
+      K2  (thickness 42-45 m)
+        This second reservoir interval, marking the base of the Triassic sequence, displays a
+          characteristic low flat gamma ray profile as well as a rather erratic sonic response. K2 is
+         divided into three reservoir zones (4,5 and 6) where the two uppermost are the better ones.
+         Reservoir zones four and five consist of porous dolomite and limestone with good
+         reservoir properties whilst the lowermost part of K2 consists of cemented limestone with
+        very low permeability.
+
+
+      PERMIAN
+
+     DALAN FORMATION
+
+      K3 (thickness 119-122)
+       The K3 Member marks the top of the Permian sequence in South Pars. K3 is divided into
+         three reservoir layers 7, 8 and 9. Layer 7 consists of porous grainstone, mainly dolomite,
+        minor limestone with a gradational base into tight rock. Layer 8 is about 80 meters thick
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 26 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      27 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+        and consists of tight dolomite, some limestone at the base. Layer 9 consists of interbedded
+        dolomite and limestone, predominantly wackestone but also some packstone and
+         grainstone. Some of these layers have very good reservoir properties. Anhydrite occurs as
+          stringers at the base of K3, marking the K4 boundary.
+
+      K4 (thickness 149-152 m)
+
+       The K4 is divided into three reservoir layers (K4U, K4M and K4L) and the two uppermost
+        zones persist the best reservoir properties. The zone K4U consists of dolomite and some
+         limestone and shows good reservoir properties. The upper parts of K4M consists of oolitic
+         limestone, predominantly grainstone but both the wackstone and mudstone layers becomes
+       more common closer to the base. The lower section of K4M is a major unit of porous
+         grainstone, interbedded with wackstone and mudstone. Towards the base, predominantly
+        dolomite and with a high proportion of grainstone are found, but transitional from very
+        high to porosity to poor rock properties below. K4L does also consist of grainstone,
+        however cementation by anhydrite increases downwards.
+
+
+          Ave.                                                        Ave.    Ave.
+  Zone                                 Lithology
+        Thick. (m)                                            Por.% Perm. mD
+
+      U      34        Anhydritic dolomite with streaks of shale, low or no porosity.                      6        10.3
+  K1 M       37      Main K1 porosity, mainly dolomite grainstone, partly limestone.                    13       15.2
+       L      39        Tight anhydritic dolomite.                                             9         1.1
+
+      U      10       Dolomite and limestone grainstone.                                       9        41.1
+  K2 M       24       Porous lime grainstone, thin tight zone in the middle.                           13       62.3
+       L      10        Tight limestone.                                                   6         0.1
+      U      22       Porous grainstone, mainly dolomite.                                      13       24.9
+  K3 M       85        Tight dolomite, despite section of grainstone. Tight limestone in the lower part.           7         8.1
+       L      13       Thin porous dolomite interbedded with tight dolomite, limestone and anhydrite.          14        4.6
+      U      16       Mainly porous dolomite. Locally limestone interbedded with minor tight layers.          14       32.8
+  K4 M       88       Ooide grainstone interbedded with tight mudstone. Mudstone more dominant in lower part.   20       84.5
+       L      45       Dolomite grainstone in upper part with moderate porosity, porosity decreasing toward base.   8        22.4
+
+  Table 4.1 South Pars : Lithology and formation parameters in K1, K2, K3 and K4.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 27 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      28 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+4.5      Site Survey
+
+
+4.6     Seabed conditions / obstructions
+
+     A separate study has been carried out by Gardline to investigate the seabed conditions.
+        For more details reference are made to “South Pars Field Development, SPD-7 and 9
+         Location, Survey Reports, March 2001” by Gardline.
+
+
+
+       The following table gives an overview of the shallow horizons on SPD7 location.
+
+            Unit    Depth (m) sub-seabed                           Lithology
+              1          0.0        -      0.3     Very soft sandy silty CLAY
+                                               Firm sandy silty CLAY with coral fragments, becoming gravel to
+              2          0.3        -      3.5
+                                                    cobble sized from 2m
+                                                          Slightly clayey, fine to medium SAND with occasional shell
+              3          3.5        -      10.5
+                                                    fragments
+                                                   Predominantly CLAY, initially firm to stiff becoming very stiff from
+              4         10.5       -      90.5
+                                              28m, locally sandy with occasional calcarenite layers from 38m
+
+
+4.6.1   Shallow gas
+
+      No shallow gas was detected in appraisal wells SP-9, SP-10 and SP-11. These wells are
+        planned utilised as production wells and will be allocated in slot no. 6 at each jacket. With
+         reference to Gardline report from 2001 and Statoil’s report of 2003: “There is no evidence
+         to suggest the presence of any shallow gas within the deeper section neither beneath the
+        proposed locations nor in the area surveyed”.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 28 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      29 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+Fig. 4.1   Top reservoir Map (top K1) intersected with modelled gas-water surface
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 29 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      30 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+Fig. 4.2    Seismic line through SP-11 and SP-10
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 30 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      31 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+Fig. 4.3    Geological cross-section of the South Pars Field
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 31 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      32 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+Fig. 4.4    Generalized lithostratigraphy of the South Pars Field
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 32 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      33 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+Fig. 4.5    Reservoir zonation
+
+
+
+     K1  K1 Upper      1
+         K1 Middle     2
+         K1 Lower     3
+
+     K2  K2 Upper      4
+         K2 Middle     5
+         K2 Lower     6
+
+     K3  K3 Upper      7
+         K3 Middle     8
+         K3 Lower     9
+
+     K4  K4 Upper      10
+         K4 Middle     11
+         K4 Lower     12
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 33 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      34 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+5    GEOLOGICAL SAMPLING AND FORMATION EVALUATION
+
+
+5.1     Introduction
+
+       The data acquisition program should ensure collection of sufficient static and dynamic
+         information such that uncertainties related to reservoir and well performance can be
+        reduced and optimum reservoir management
+
+
+5.2     Cuttings
+
+       Sampling of cuttings is not planned.
+
+
+5.3   Mud Samples
+
+       One mud sample and one brine sample will be collected from the active pits prior to
+        MDT-fluid sampling in the reservoir zone when needed.
+
+
+5.4     Geochemical Samples
+
+      No geochemical sampling is planned.
+
+
+5.5     Coring
+
+       Not required.
+
+
+5.6   LWD Logging
+
+     LWD logs will be defined in each well program.
+
+
+5.7     Wireline Logging
+
+        Type, format and extent of logging will be defined in each well program. Pressure
+        measurements are planned for in six wells.
+
+
+5.8   Mud Logging
+
+     A mud-logging unit will be used to evaluate indications of hydrocarbons while drilling,
+         describe samples and to monitor drilling parameters.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 34 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      35 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+6    PRESSURE AND TEMPERATURE PROGNOSIS
+
+
+6.1     Introduction
+
+       The pressure prognosis has been prepared by evaluating the drilling parameters, gas
+         readings and experience from the three appraisal wells SP-9-10-11. The pressure units are
+         presented as equivalent mud weight (SG).
+
+
+6.2     Pore Pressure Gradient
+
+     A pore pressure study has been carried out for South Pars phases 6-7-8.
+        See Figure 6.1 for pore pressure prognosis for South Pars
+
+
+6.2.1   Pore pressure above the reservoir
+
+     A normal pore pressure gradient (hydrostatic gradient of 1.03 SG EMW) is interpreted
+       from seabed down to top reservoir at approximately 2700 m TVD for SP-10 and SP-11.
+        For SP-9 normal pressure is indicated down to top Massive Anhydrite at approximately
+       2550 m TVD. At this depth the pore pressure gradient starts to increase from 1,3 g/cc and
+          fig. 6.1 shows the average pore pressure from the appraisal wells, but in SP-9 the pp
+        reaches a maximum 1,63 g/cc in the Aghar Shale at approximately 2750 m TVD.
+
+
+6.2.2   Pore pressure in the reservoir
+
+         In the Khuff Formation the formation pressure is confirmed by MDT pressure
+       measurements (figure 6.3). The pore pressure at 2847,5 m TVD in K3 is measured to 1,31
+         g/cc. The gas gradient in the reservoir is 0,25 g/cc and the water gradient is 1,20 g/cc.
+
+
+6.3     Fracture Gradient
+
+       Minimum horizontal stress and fracture gradient is calculated by assuming an effective
+          stress ratio of 0.45. The fracture gradient is taken to be 0.05 sg higher than the minimum
+         horizontal stress. This gives reasonable agreement with the fracture gradient (of unknown
+          origin) in the SP-11 Well Planning Package.
+       The fracture gradient are shown in figure 6.1
+
+
+6.4    Overburden Gradient
+
+       The predicted overburden gradient is mainly based on integration of density logs.
+       The overburden gradient is shown in figure 6.1
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 35 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      36 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+6.5     Wellbore stability
+
+     A wellbore stability study for South Pars has been carried out for phases 6-7-8.
+
+        Borehole collapse curves have been calculated for inclinations between 0-60 degrees. In
+         the carbonates in and above the reservoir the mud density should be designed only for well
+         control and lost circulation purposes. Boreholes are predicted to remain stable in the
+         carbonates (without cavings) at all mud densities between the pore pressure and the
+          fracturing pressure.
+
+        Borehole collapse will occur in the Sudair and Aghar Shales. It is not possible to stabilize
+         the formation with mud weight in high deviated wells as shown in figure 6.2
+       The collapse will occur on each side on the wellbore and not from the top and bottom.
+
+       The wellbore stability in a well is dependant of pore pressure, stress regime, hole angle
+        and lithology. The wellbore is kept stable from collapsing by sufficient mud density and
+         correct chemical composition-inhibition of the drilling fluid.
+
+       As the inclination of a well increases, it is expected that the fracture gradient will decrease.
+            It is assumed that the lowest value of the fracture gradient will be equal to minimum
+         horizontal stress in the rock. At South Pars the regional orientation of maximum horizontal
+          stress is N-S. The prediction is that inclined wells drilled N-S will require a higher mud
+         density than wells drilled in an E-W orientation at the same inclination.
+
+        Lost circulation may turn out be an acute problem throughout the drilling campaign. The
+        dominating reason for losses appears to be systems of natural fractures, especially in the
+        Jahrum and Surmeh formations.
+
+
+6.6     Formation Temperature Gradient
+
+       The temperature gradient is 2.84 DegC/100. At 3100 m TVD MSL the temperature is
+        estimated to 107 degrees Celsius. The temperature gradient is based on DST temperature
+       from well SP1-6. (Ref fig 6.4)
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 36 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      37 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+             0                                                  Pore pressure
+                                                       Collapse
+           200
+                                                        Min. stress (Br/vE trend)
+                                          TFE Shmin trend           400
+                                                         Fracture pressure
+           600                               LOT TFE
+                                                  Overburden
+           800                                      Planned mud density
+                                         Mud dens. SP-9-10-11
+          1000
+
+          1200
+
+          1400
+
+          1600
+
+          1800
+
+          2000
+
+          2200
+
+          2400
+
+          2600
+
+          2800
+
+          3000
+
+          3200
+
+          3400
+               1,00     1,20     1,40     1,60     1,80     2,00     2,20     2,40
+
+
+
+
+
+         Fig. 6.1    Pore Pressure Curve
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 37 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      38 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+         2450
+
+                                                                     Pore pressure
+
+
+                                                                           Collapse 0-20-40-60
+
+         2500                                                                             Min. stress
+
+
+                                                                              Fracture pressure
+
+
+                                                                        Overburden
+         2550
+
+
+
+
+
+         2600
+
+
+
+
+
+         2650
+
+
+
+
+
+         2700
+
+
+
+
+
+         2750
+
+
+
+
+
+         2800
+               1.00       1.20       1.40       1.60       1.80       2.00       2.20
+
+
+
+
+
+Fig. 6.2    Borehole collapse curve
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 38 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      39 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+                              Pressure plot SP-9, SP-10, SP-11
+
+
+              2700
+
+
+
+
+
+              2800
+
+
+
+
+
+              2900
+                                                                                  SP9                                   mTVDss                                                                       SP10
+                             Depth                                                                       SP11
+              3000
+
+
+
+
+
+              3100
+
+
+
+
+
+              3200
+                  355          360          365          370          375          380
+
+                                                     Bar
+
+
+
+
+
+Fig. 6.3   MDT pressure plot South Pars
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 39 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 61 ]
+────────────────────────────────────────────
+           Petropars Ltd.                Doc. no.
+                                          SP-WELLS-2003-008
+
+                                             Date                   Rev. no. 0      40 of 61
+ SOUTH PARS 6,7&8                                                   2003-10-25
+  MAIN DRILLING PROGRAM
+
+
+
+
+
+Fig. 6.4    Formation Temperature Gradient plot South Pars
+
+
+
+  C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 40 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 61 ]
+────────────────────────────────────────────
+               Petropars Ltd.                Doc. no.
+                                               SP-WELLS-2003-008
+
+                                                  Date                   Rev. no. 0      41 of 61
+    SOUTH PARS 6,7&8                                                         2003-10-25
+     MAIN DRILLING PROGRAM
+
+
+
+
+     7    CASING PROGRAM
+
+
+       7.1     Casing Program
+
+               Casing design for the South Pars development wells are summarized in the table below.
+                Ref. South Pars Casing Design
+
+
+       7.2     Casing Summary
+
+  Casing size    Nom.weight    Grade       Connector        Drift ID   Nom ID   Burst  Collapse   Yield    Make Up   Test Pressure
+     inch                                 Type            inch        inch      bar     bar       ton      Torque         (bar)
+                           lbs/ft                              (mm)
+                    (kg/m)                                                MW
+                                                                    Drift Length  Max OD                                                   (sg)
+                                                       12 inch       inch
+
+                                                      Type
+26” x 0.625”    169.4     X-52      RL-4S                 24.25   151   48    1170   NA
+                (252,3)               Single seal           RL4S
+                                                            27.25
+  18 5/8”       99      X-56    Antares ER    17,438    17,625  178   66    711    12580    140 bar
+                 (147)                                      20,000                      13600     1.20 sg
+                                                                                 14620
+  13 3/8”       68      L-80     Antares ER    12,259    12,415  346   156    706    13880    240 bar
+                 (101)                                      14,374                      15000     1.20 sg
+                                                                                 16130
+   10 ¾”        60,7     L-80    Antares MS     9,504     9,660   490   356    634    12580    300 bar
+                  (90,3)                                     11,748                      13600     1.55 sg
+                                                                                 14620
+   9 5/8”        47      L-80   Antares MS 28   8,525     8,681   474   328    493    11290    As for
+                  (69,9)                                     10,626                      12200     10 ¾”
+                                                                                 13120
+    7”          29     13Cr80  Antares MS 28   6,059     6,184   563   484    307     7960     210 bar
+                (43,20)                                      7,657                       8600     1.40 sg
+                                                42”                                9240     300 bar
+                                                           Drift                            SW
+                                               Length                                        350 bar
+                                                  Teflon                            SW
+
+       *Special Drift requirement
+
+
+
+
+
+          C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 41 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      42 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+7.3     Casing Design Summary
+
+      Casing  Weig ht   Grade      Conn.       Shoe     Burst    Collapse   Axi    Triax.
+                     (lb/ft)                            depth     SF      SF        al     SF
+                                mTVD                   SF
+      18 5/8”     99      X-56      Antares ER     1100      1.131)      1.15     1.56     1.28
+      13 3/8”     68      L-80      Antares ER     1655      1.26       1.88     1.88     1.49
+      10 ¾”     60.7     L-80     Antares MS    X-O      1.56       9.96     1.81     1.70
+       9 5/8”      47      L-80    Antares MS 28    2850      1.162)     1.05 3)    1.66     1.29
+           4) 9 5/8”     47      L-80    Antares MS 28    2450      1.135)      1.18     1.59     1.39
+        7”       26     P-110 6)    Vam Top                 2.29       1.24     2.77     2.20
+        7”       29      L-80 7)   Antares MS 28    3100      1.72       1.29     2.02     1.79
+        Statoil Requirements (Design Factors):                      1.10       1.10     1.30     1.25
+
+      Comments:
+        1) Casing tested to 140 bar. Max shut in pressure is 146 bar.
+        2) The low SF is for the case where pressuretest is performed after cement has set up and
+           with a lo w TOC (600m above shoe), see 5.2.3. If Green Cement Pressure Test, the SF
+               is 1.51.
+        3) The low co llapse S.F. for the production casing is due to the Above/Below Packer
+            load case.
+        4) Case 2; 9 5/8” shoe installed above the Aghar Shale
+        5) Casing tested to 300 bar. Max shut in pressure is 350 bar (Aghar shale pore pressure )
+        6) Grade used in StressCheck. Actual grade: 25-32-3, 1 10 ksi, Used for cemented liner.
+        7) Grade used in StressCheck. Actual grade: 13Cr-80
+
+
+7.4     Casing Wear
+
+       Wear due to drill string rotation is simulated in CWEAR6.2 if planned build rate is above
+        3°/30 m, planned inclination is above 60° or intermediate liner is planned. To minimize
+        casing wear, doglegs above 3°/30 m should be avoided and hard banding Arnco 100XT
+         will be used on both the rigs. An updated simulation of casing wear should be carried
+        out after each section using real drilling parameters before pressure testing of casing
+            if high wear is anticipated.
+
+         Casing       ROP [m/hr]           Sidetrack      Reaming      Max wear
+                                                              [150m/hr]
+           18 5/8”                 10                     1                1          18% @ 300m
+           13 3/8”       18 (to 3000m) & 13 (to TD)           1                1          28% @ 300m
+         9 5/8” 47ppf         10 (3500-4500m)               1                1          19% @ 300m*
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 42 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 61 ]
+────────────────────────────────────────────
+                                                                                           6161
+       6161                                                                                  avav
+       ofof                                                                                  4343
+       4343                                                                                                                                                                    SideSide
+
+
+
+
+
+   00
+          no.no.
+             Rev.Rev.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Rev0.docRev0.doc
+                                                                                                                                                                                                                                                                                                                                                                                                               ProgramProgram
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        DrillingDrilling
+                                                                                                                                                                                                                                    MainMainno.no.
+                                                                                                                                                                                                                                    ParsParsDoc.Doc. SP-WELLS-2003-008SP-WELLS-2003-008     DateDate 2003-10-252003-10-25
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Programs\SouthPrograms\South
+                                                                                                                                                                           D&CD&C
+                                                                                                                                                                                                                                    MainMain
+                                                                                                                                                                                                                                                                                             6,7,86,7,8
+Ltd.Ltd.                             PROGRAMPROGRAM               6,7&86,7&8                                                                        SchematicSchematic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Settings\BRAGE\SPSettings\BRAGE\SPPetroparsPetropars            PARSPARS                                                                                                                                                        andand                                WellWell                                 DRILLINGDRILLING
+                 MAINMAIN               SOUTHSOUTH           7.57.5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           C:\DocumentsC:\Documents
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      44 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+7.6 Well head and XT-tree
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 44 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      45 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+8    DIRECTIONAL DRILLING AND SURVEYING
+
+
+8.1     Introduction
+
+       The primary objectives of the directional drilling and surveying program are:
+      w    Hit geological targets within given tolerances.
+      w    Avoid collision with other wells.
+      w    Monitor the well trajectory at all times in case a relief well has to be drilled.
+
+
+8.2     Well Description
+
+       The wells are presently designed with a J-shaped profile, with up-to 60 degrees inclination.
+        Rotary and motor BHA will be used from the 24” section to TD.
+
+
+8.3     Planning
+
+        For any well path, collision avoidance calculations shall be made. Any potential for well
+         interference shall be addressed in the Well Drilling Program with a plan showing both the
+         horizontal and vertical plan of the proposed well. Also a well separation listing including
+           all nearby wells shall be included.
+       The probability to drill into an adjacent well shall be less than 2 x 10-3 per well.
+       Minimum allowed distance between wells (3D borehole centre-to centre distance) is,
+         defined by the calculated clearance factor CF >= 1.
+      CF = Actual Distance / Minimum Allowed Distance.
+
+
+8.4     Reference Points and Slot Allocation
+
+        Geodetic Chart Datum:           International 1924
+      Map projection:          UTM
+     UTM zone and centre meridian: UTM zone 39 N, CM 51 E
+         Ref. system:                   Grid North
+         Vertical reference:          RT
+
+        Grid Convergence:               0.54º for SPD-7, 0.58º for SPD-8 & 0.64º for SPD-9.
+        Magnetic Convergence:          1.90º
+
+         All drilling slots are to be referenced to a plan view datum known as "Centre of the
+         platform". Table 8.1 gives the Field and Platform coordinates on South Pars Field in UTM
+        and geographical coordinates.
+        While using Grid North as reference the magnetic surveys must be corrected with regards
+          to magnetic convergence. Gyro's that seek True North shall be corrected with regards to
+        Grid convergence. The Geomagnetic corrections shall follow the BGGM (British
+         Geological Survey Global Geomagnetic Model). This model shall not be older than one
+          year. The correct correction data shall be enclosed in the Well Drilling Program. The
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 45 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      46 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+     BGGM release year is to be addressed in this table. The DD/MWD company will supply
+          this information.
+
+
+8.5     Operational Requirements
+
+        General requirement:
+           If a new well is diverging from the drilling plan and gets closer than the distance defined as
+      Minimum Allowed Distance to a producing well, stop drilling, and take the following
+         action:
+        •  Perform a SJA (Safe Job Analysis)
+        •   If the critical point is above the depth of the down hole safety valve, close the valve.
+        •   If the critical point is below the depth of the down hole safety valve, a plug shall be set
+             in the production tubing below the critical depth.
+        •   If possible, slide past the critical point; evaluate plugging back the new well and
+              sidetrack.
+       Most of the wells in this project will be batched drilled. The requirement of a clearance
+          factor, CF >= 1, is therefore not an absolute requirement.
+
+
+8.6     Directional surveying
+
+
+8.6.1   Well targets
+
+
+       The target tolerances shall be evaluated on the basis of the geological uncertainty and the
+          directional uncertainty for the available survey tools.
+         Ellipsoids of uncertainty shall be calculated for every new well and be compared with the
+        given tolerances for the target.
+
+
+8.6.2   Surveying
+
+         Directional surveying shall be performed according to:
+       The “Minimum Curvature” method shall be used for all trajectory calculations.
+
+    MWD survey tools will be used as primary survey tools in open hole sections. Survey
+          intervals shall not exceed 100 m.
+
+      An exemption is made in the Jahrum formation due to extremely rough drilling conditions
+        and this part of the section will be drilled without MWD.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 46 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      47 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+8.6.3   Table 7.1 Planned survey program
+
+        Hole section       Survey
+             32” Hole   MWD
+                           Totco Survey (optional)
+                       Gyro (GSS) *
+          26” Conductor   Gyro **
+               24     MWD down to Jahrum.
+                            Optional below Jahrum.
+                         Gyro***
+               16”     MWD
+              12 ¼”    MWD
+                  EMS dropped in DP****
+              8 ½”    MWD
+
+        * Optional based on distance between conductors and/or deviation on 32” hole.
+        ** Optional based on distance between conductors and/or deviation on 32” hole.
+        *** Optional based on distance between wells.
+        **** Optional based on deviation, target size and HES risk associated with well bore position uncertainty (including
+         possible relief well).
+
+
+8.7     Reporting
+
+       The directional driller on the rig shall update the directional data and the BHA data of the
+     DBR every day during drilling. Other directional drilling or surveying data shall be sent
+         onshore, as the organization requires.
+         After each well the directional drilling company shall supply a definitive survey. The
+          directional drilling company shall also supply an End of Well Report, which shall be
+        approved by Statoil. This report shall also include the QRS (quality rating system) forms
+       on the well.
+       The directional surveying (gyro) company shall after each job supply a job report
+         including all raw data, computed values, quality figures and a final survey listing on a
+          digital medium. The report shall be approved by Statoil.
+
+
+8.8     South Pars Field Centre and Platform Centre Coordinates:
+
+       The 3 appraisal wells (SP9, SP10 and SP11) drilled on the field will be the centre of each
+         platform. This well will be slot no.6 on each platform. The platform SPD-8 will also be the
+         Filed Centre for South Pars Phases 6,7 and 8.
+       Wellhead  South Pars   UTM    UTM    Geographic       Geographic East
+       Platform   Phases         North       East    North
+                                 (m)        (m)
+        SPD-7        6       2959050.00  620170.10  N 26 44 50.0141  E 52 12 30.2817
+        SPD-8        7       2952844.10  627989.50  N 26 41 25.8603  E 52 17 11.0286
+        SPD-9        8       2946500.10  634963.60  N 26 37 57.3657  E 52 21 20.8791
+       Table. 8.1. Platform and Field Centre
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 47 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      48 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+8.9     South Pars Survey Management Process
+
+
+
+
+
+                  South Pars Directional Survey Management Process
+
+
+                                                                                                                                                                           Pre-drill Check Points
+                                                                                                                                                              y
+                                         Directional Driller performs pre-drill checks.                                  yy      TemplateWater depthposi tion
+                                                                                                                                                              y       Air gap
+                                                                                                                                                              y      Target inf or mation
+                                                                                                                                                              y      Well plan
+                                                                                                                                                              y       Anti-collision, distance
+                                                                                                                                                                                     to nearest well
+                                              Directional Driller enters surveys into
+                                  Baker planning system and Statoils Daily                        Ch eck points:
+                                                      Drilling Report System (DBR).                                           y     Compare Check
+                                                                                                                                                     Survey/Gyro against
+                                                                                          MWD survey.
+                                                                                                                                                              y      Update/revise s urvey
+                                                                                                                                                                                                                                                       list as required.
+
+                                      Directional Driller sends survey on E-mail to Coordinator
+                                            on daily basis.
+                             At TD of the well, Directional Driller sends Preliminary Final Survey
+                                                        listing on E-mail to Coordinator.
+
+
+
+
+                                          Contractor onshore coordinator enters
+                                       surveys into Compass on a daily basis.
+
+
+
+
+                                       After each section onshore coordinator input QAQC
+                                checked data into Statoil’s Compass system.
+
+                                       After each well onshore coordinator creates complete
+                                    Preliminary Definitive Survey in Compass system.                       ToStatoil’sbe sent to
+                                                                                                                                          Dubai project
+
+                                                            to Statoil                              Q A/QC:
+                                            Contractor sends Final Survey List                                 y     Check consistency between Final
+                                                                                                                                            Survey List from Baker and
+                                                                                                                                                                Preliminary Definitive Survey in Compass.
+                                                                                                                                                         y     Check that same VS is applied.
+                                                                                                                                                         y     Check that casing and hole section has
+                                                                                                                                    been set correct in Compass.
+                                                          Statoil perform QA/QC                                           y     Check that all surveys have names that
+                                                                                                                                                                                                                  will identify survey company and tool
+                                                                                                                                                                         type.
+                                                                                                                                                         y     Ensure c orrect error models have been
+                                                                                                                                                                       applied.
+             Verify with Contractor                                                                                                      y     Checkcorrectedif theto surveysgrid north.have been                                             QA/QC
+             or Statoil Survey Expert.        No                                           OK?
+
+
+                                                   Yes
+                                                                                                 Databases:
+                                                                                                                                                         y      Set Definitive Survey in Compass and
+                                           Contractor update Statoils databases.                                      delete all write access to survey.
+                                            Inserts Definitive Survey in Final Well Report.                       y      Signin OperDefinitiveation RoomSurveyandhardFinalcopyWelland file
+                                Contractor creates Directional Drilling and MWD Final Well                        Report.
+                                                       Report                                                     y     Send signed Definitive survey to
+                                                                                                                                                       Baker.
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 48 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      49 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+8.10    South Pars Spider Plot
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 49 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      50 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+8.11    General Well Path
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 50 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      51 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+
+
+8.12   Contingency Well Path
+C:\Docu ments and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 51 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      52 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+9    DRILLING FLUID
+
+
+9.1     Introduction
+
+
+       The South Pars wells are planned to be drilled with water based drilling fluid systems.
+
+
+9.2     Total Fluids Management
+
+            It shall be kept in mind that most drilling fluids can be reused. A cost/benefit analysis shall
+        be done and documented before any drilling fluid is being dumped. A batch drilling
+         operation will reduce the amount of dumped mud.
+
+
+9.3      Drilling fluid system
+
+       The general drilling fluid program for South Pars 6-7-8 is listed below:
+
+               Hole           Density                Drilling fluid system
+                 section          (SG)
+                32"          1.03 (1.30)      Seawater/visc. pills + weighted mud
+                24"         1.03 (1.2-1.3)     Seawater/visc. pills + weighted mud
+                16"           1.15-1.20               KCl/polymer
+             12 1/4"          1.15-1.50               KCl/polymer
+              8 1/2"          1.30-1.40     KCl/polymer or Salt Saturated gly< 01
+                                                          (Nacl) system
+
+     A detailed drilling fluid program shall be prepared by the Fluids Contractor prior to
+          drilling the well.
+
+
+9.4     Reporting
+
+       The drilling fluid engineer on the rig shall update the drilling fluid part of the DBR every
+         day. Other drilling fluids reports shall be sent onshore as the organization requires.
+
+         After each well the Fluids contractor shall supply an End of Well Report. The report shall
+        be approved by SP Wells.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 52 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      53 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+10   CEMENTING
+
+
+10.1    Introduction
+
+         In the Well Drilling Program there shall be a cementing program that outlines the
+        cementing to be carried out for each casing setting depth.
+
+
+10.2    Quality control
+
+         All cement compositions (expect for 26” conductor) will be pilot tested by the supplier
+          prior to each job using field samples.
+
+
+10.3     Centralization
+
+     A centralization plan shall be submitted prior to running all casing strings.
+
+
+10.4   Cementing Program
+
+     A detailed cement program shall be prepared by the Cementing Company prior to drilling
+         the well.
+         Prior to each cement job an individual cementing program shall be prepared. This program
+          shall describe the actual cementing procedure, including  spacer and cement volume,
+          slurry and spacer design, displacement rates, mud properties etc. to be used.
+
+
+10.5    Requirements for the different casings
+
+
+10.5.1  Conductor
+
+       The objective for the 26” cement job is:
+           •  Perform a good shoe
+           •  Anchor for the WH (Min length of good cement based on conductor study is 26m)
+
+       The 26" conductors will be cemented back to the sea floor.
+       The cement slurry will be designed to achieve a high early strength at the seabed without
+        exceeding the formation strength.
+
+           If insufficient primary cement job, a grouting job has to be planned for.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 53 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      54 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+10.5.2  Surface Casing
+
+       The objective for the 18 5/8” cement job is:
+           •  Seal of the Jahrum fm. to prevent H2S from flowing to surface.
+           •  Obtain a good shoe
+       The 18 5/8” surface casing will be cemented back to the sea floor.
+       To seal off the Jahrum loss circulation/H2S zone, different options will be evaluated:
+        Primary:
+           •  Lead and tail cement
+           •  Top up jobs
+        Optional:
+           •  Light weight cement
+
+
+10.5.3  Intermediate Casing
+
+       The objective for the 13 3/8” cement job is:
+           •  Seal of the Sarvak, Kazhdumi, Dariyan and Gadvan to prevent HC/H2S migration.
+           •  Obtain a good shoe
+       The 13 3/8" intermediate casing shall be cemented inside the surface casing.
+        Primary:
+           •   Tail and Light weight cement slurry
+           •  Annulus squeeze as a contingency
+        Optional
+           •  ECP packer
+           •  Stage tool.
+       Gas tight slurry will be evaluated to avoid HC migration. The oil is heavy with an
+        approximately API of 20.
+
+
+10.5.4  Production Casing
+
+       The objective for the 9 5/8” cement job is:
+           •  Seal off HC bearings.
+           •  Obtain a good shoe
+           •  Support production packer
+       The 9 5/8" production casing will be cemented 200m above HC bearings and minimum
+       200m above shoe or production packer.
+        Primary:
+           •  Lead cement
+        Optional
+           •  Light weight
+       Gas tight slurry will be evaluated to avoid gas migration from HC bearings or if the shoe is
+          set into the top of the reservoir.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 54 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 55 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      55 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+10.5.5  7” Liner
+
+        Primary the reservoir will be completed with a predrilled liner.
+           If a standard 7” liner is used the liner will be cemented in its full length. The liner lap will
+        be minimum 50m. In addition to the cement there will be a mechanical production packer
+          in the 9 5/8” x 7” liner annulus. A gas tight slurry will be used.
+           If unsuccessful cement job a USIT/CBL/VDL will be considered.
+
+
+10.5.6   Alternative Solutions if 9 5/8” has to be set shallow.
+
+           If drilling problems occurs in the 12 ¼” sections the 9 5/8” csg. may have to be set higher
+       up (in the Dashtak fm). To still be able to run a predrilled liner different solutions has to
+        be looked into.
+
+
+10.5.6.1 Combined blank-pipe and predrilled liner
+
+           If the pressure gradient from the reservoir is lower than the fracture gradient at the 9 5/8”
+        shoe and no severe losses occurs during drilling the section, there are no possibilities for
+        an underground blow out. It’s then possible to let the Aghar shale crimp into the blank
+         pipe above the reservoir and no cementing is necessary. The well will then produce from
+         the predrilled liner section.
+
+           If the pressure gradient from the reservoir is higher than the fracture gradient at the 9 5/8”
+        shoe and severe losses occurs during drilling, the formation above the reservoir has to be
+         sealed with cement to prevent an underground blow out.
+         Alternative solutions will then be:
+
+
+10.5.6.2 Expandable casing
+
+       Open up the hole from the 9 5/8” shoe to the top of the reservoir and use a cemented
+        expandable liner to seal off the formation above the reservoir. A 7” predrilled liner will
+         then be set trough the reservoir.
+
+
+10.5.6.3 Stage cementing of a combined blank-pipe and predrilled liner
+
+     A stage-tool with inner-string cementing and an ECP packer as an anchor for the cement
+          will be used to cement and seal off the formation above the reservoir. The predrilled liner
+          will then be run below the stage tool trough the reservoir.
+
+
+10.5.6.4 5” predrilled liner trough reservoir
+
+     A 7” liner could be set into the top of the reservoir. A 5” predrilled liner will then be set
+        trough the reservoir.
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 55 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 56 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      56 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+
+11   WELL CONTROL
+
+
+11.1    Well Control Equipment
+
+        Well control equipment will constitute one of the minimum two barrier elements required
+         during drilling.
+
+
+11.2    Well Control Drills
+
+           •  Minimum frequency during relevant operations shall be minimum 2 pit drills and 1
+                kick drill weekly per crew.
+           •   Drills shall be reported on the Daily Drilling Report (DBR)
+
+
+11.2.1  Flow checks
+
+       Flow checks shall be performed at least prior to the following operations:
+           •  When entering the previous casing shoe.
+           •   Prior to pulling out of hole.
+           •  At all unexpected drilling breaks.
+           If hole conditions permit, the check period shall be at least 10 minutes.
+
+
+11.2.2  Formation Strength Testing
+
+     A formation strength test will be performed after installation of the 18 5/8" surface casing
+        and all subsequent casing strings.
+       FIT for 8 ½” section will probably not be performed because ECD during cementing of 10
+      ¾” x 9 5/8” casing will be much higher than required for drilling 8 ½” section if the casing
+           is set into the reservoir and the mud weight is lowered.
+       Type of formation strength test and data requirements will be given in each individual
+          drilling program.
+
+
+11.3    Pressure Testing
+
+         Barriers shall be tested at least to maximum anticipated differential pressure. Pressure tests
+         are influenced by test volume, gas solubility (OBM) temperature changes, gauge
+          sensitivity, etc. The following acceptance criteria may be used:
+        •  Low pressure tests: Max 5% deviation
+        •   Small volumes: (1-5 m3) Max 2% deviation
+        •  Large volumes: Max 1% deviation
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 56 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 57 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      57 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+         All tests are to be performed for 5 min for low pressure (20-35 bar) and 10 minutes for
+        high pressure.
+
+
+11.3.1  Pressure testing BOP
+
+        During BOP tests, fluid volumes, time to open/close each function and deviations
+          identified shall be recorded.
+        Function testing of the BOP shall be performed from alternating control panels.
+        Function testing and test pressure of drilling BOP shall be in accordance with the table
+        below.
+           Stump        Initial       Before      Periodic     Periodic     Periodic
+                             installation  drilling out  7 days (3)   14 days (3)  6 months
+                                       of casing
+Annular    mwdp (1)  mwdp(1)(2)   mphs(1)     function    mphs(1)    0,7 x WP
+Pipe Rams    mwdp    mwdp(2)    mphs      function     mphs     WP
+Shear Rams   mwdp    mwdp(2)    mphs      function     function    WP
+Failsafe     mwdp    mwdp(2)    mphs      function     mphs     WP
+valves
+Wellhead             mwdp      mphs                   WP
+connector
+         All tests are to be performed for 5 min for low pressure (20-35 bar) and 10 minutes for
+        high pressure.
+
+     NOMENCLATURE:
+     WP     :   Working pressure
+      mphs   :   Maximum expected pressure in next hole section, see drilling program
+      mwdp  :   Maximum well design pressure, see drilling program
+         function:   Function testing
+
+          (1) = Or max 70 % of WP
+          (2) = Only applicable if not tested on stump. Function testing if tested on stump
+          (3) = To be adjusted to the actual operation
+
+        Annulus valves on wellhead sections shall be pressure tested to maximum expected
+         pressure in next hole section, prior to drilling out of casing.
+      On the test stump and during initial installation, the tests shall be performed using water.
+
+
+11.3.2  Function testing of kill and choke lines/manifold
+
+         Choke/kill lines shall be pressure tested against closed choke/kill valves after the
+          installation of the BOP-stack.
+       The kill and choke line valves on the BOP stack shall remain closed during normal
+         operations.
+      Low pressure side on the manifold shall be tested at two week intervals.
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 57 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 58 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      58 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+        Frequency of testing and test pressure shall be in accordance with the table below:
+
+                          Initial       Before        Periodic     Periodic      Periodic
+                        installation   drilling out of 7 days     14 days      6 months
+                     of BOP      casing
+Choke/kill lines   mwdp     mphs       mphs      mphs       WP
+Manifold valves   mwdp     mphs                 mphs       WP
+Chokes (1)          function     function       function     function
+Cement (kill) pump mwdp     mwdp       mphs     mwdp       WP
+Inside BOP      mwdp     mwdp              mwdp       WP
+Kelly valve      mwdp     mphs                 mphs       WP
+TDS IBOP
+Stabbing valves    mwdp     mphs                 mphs       WP
+Kelly hose      WP     WP of pump        WP of pump   WP
+                                      liners                         liners
+Standpipe manifold WP     WP of pump        WP of pump   WP
+                                      liners                         liners
+
+         All tests are to be performed for 5 min for low pressure (20-35 bar) and 10 minutes for
+        high pressure.
+       Once every well all tests shall be performed using water.
+
+     NOMENCLATURE:
+
+     WP      : Working pressure
+      mwdp   : Maximum well design pressure, see drilling program
+       mphs    : Maximum expected pressure in next hole section, see drilling program
+         function: Function testing
+          (1)       : Leak detection test
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 58 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 59 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      59 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+
+12     Health, Safety and Environment (HSE)
+
+
+South Pars’overall HSE goal is, as for Statoil in general:
+• Zero damage to humans or environment
+• Zero accidents or losses
+
+During the drilling operations, all necessary steps will be taken to prevent pollution, blowouts,
+explosions and other types of accidents harmful to personnel, the installation and/or the
+environment.
+
+The SP Wells Unit will establish project specific HSE programs for the duration of the drilling
+operations. These will be co-coordinated with the Drilling Contractor's corresponding existing and
+future HSE programs, in order to ensure common goals on topics that the programs have in
+common.
+
+The programs will cover topics as:
+• Working environment
+• Environment
+• Discharge requirements
+• Total Fluid Management (TFM)
+• Safety
+
+
+
+
+12.1    Operational Conditions and Shutdown Criteria
+
+
+For operational conditions and shutdown criteria for the South Pars 6,7,8 jackets/ platforms, please
+refer to WR0220:
+“Simultaneous Drilling and Production Activities”. A South Pars specific sub-document will be
+issued before start of production.
+
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 59 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 60 از 61 ]
+────────────────────────────────────────────
+                Petropars Ltd.                Doc. no.
+                                               SP-WELLS-2003-008
+
+                                                  Date                   Rev. no. 0      60 of 61
+     SOUTH PARS 6,7&8                                                         2003-10-25
+      MAIN DRILLING PROGRAM
+
+      13   ATTACHMENTS
+
+
+        13.1    References Statoil Governing and Advisory documentation
+
+
+Chapter                References
+1.1 Dispensations          WR0436 “Requirements to drilling operations”.
+                      WR0011 “Dispensations, improvements and non-conformances”
+1.3 Experience Transfer      WR0442, section 3.5 ”Detailed Planning Requirement Drilling and Well  Operations”.
+                       AR003 “Drilling, Well & Production Activities”.
+7.1 Casing program         SP-WELLS-2003-003 "South Pars Casing Design Manual",
+                      WR0445 “Statoil Casing Design Manual”
+                      WR0437 “Standard OCTG-program for Statoil operations on the Norwegian Continental Shelf”
+8.1 Directional drilling &    WR0547 “Directional Drilling, Directional Surveying and Measurement While Drilling”.
+surveying                            www.BoB.statoil.com, Extranet, Best Practice: Directional Drilling,
+                                     www.BoB.statoil.com, Extranet, Best Practice, Directional Surveying, Director database
+                        SP-WELLS-2003-003 “South Pars Blowout Contingency Plan”.
+9.1 Drilling Fluids          WR0532 "Drilling fluids",
+                             www.BoB.statoil.com, Extranet, Best Practice, ”Drilling Fluids”.
+                        SP-WELLS-2003-00x “Drilling Fluid Discharge Plan”
+10.1 Cementing         WR0533 “Cementing”,
+                   WR0529 “Well construction”,
+                         www.BoB.statoil.com, Extranet, Best Practice, “Cementing”
+11.1 Well Control          WR0436 "Drilling & Completion Operations"
+12. HSE              AR021 HSE management
+                             ”South Pars 5-6-7 HSE & Q Program 2003-2006”.
+12.1 Shutdown criteria      WR0220 Simultaneous Drilling and Production Activities
+
+
+
+
+
+          C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 60 av 61
+
+
+────────────────────────────────────────────
+[ صفحه 61 از 61 ]
+────────────────────────────────────────────
+         Petropars Ltd.                Doc. no.
+                                        SP-WELLS-2003-008
+
+                                           Date                   Rev. no. 0      61 of 61
+SOUTH PARS 6,7&8                                                 2003-10-25
+MAIN DRILLING PROGRAM
+
+13.2 Abbreviations and definitions
+
+
+Abbreviation                              Explanation
+B&B             Boring & Brønn (Drilling and Well)
+BHA            Bottom Hole Assembly
+BHCT           Bottom Hole Circulating Temperature
+BHST           Bottom Hole Static Temperature
+BHT            Bottom Hole Temperature
+BOP            Blowout Preventer
+CBL            Cement Bond Log
+DDR             Daily Drilling Report
+DEN              Density
+DLS           Dog Leg Severity
+DST                Drill Stem Test
+ECD              Equivalent Circulating Density
+EMS               Electronic Magnetic Multi-shot
+GSS              Gyroscopic Single Shot
+EMW             Equivalent Mud Weight
+FIT              Formation Integrity Test
+GR           Gamma Ray
+GWC            Gas-Water Contact
+KOP              Kick-off Point
+IBOP               Internal BOP
+K/C                 Kill / Choke
+LOT              Leak-off Test
+LP           Low Pressure (riser)
+LBP              Local Best Practice
+LWD            Logging While Drilling
+MD             Measured Depth
+MPHS         Maximum expected Pressure in next Hole Section
+MSL           Mean Sea Level
+MWD           Measurements While Drilling
+MWDP        Maximum Well Design Pressure
+NEUT            Neutron
+RES                Resistivity
+RKB             Rotary Kelly Bushing
+ROP             Rate of Penetration
+ROV            Remotely Operated Vehicle
+RT               Rotary Table
+SJA              Safe Job Analysis
+TD                Total Depth
+TFM              Total Fluids Management
+TOC           Top Of Cement
+TVD             True Vertical Depth
+UTM              Universal Transversal Mercator
+WBM           Water Based Mud
+WP             Working Pressure
+WR           Work Process Requirement
+XO               Cross Over
+
+
+
+
+C:\Documents and Settings\BRAGE\SP 6,7,8 Main D&C Programs\South Pars Main Drilling Program Rev0.doc             Side 61 av 61
+
+

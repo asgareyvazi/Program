@@ -1,0 +1,686 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 18 ]
+────────────────────────────────────────────
+8 ½” Hole Section
+Recommendations
+
+
+
+          Phases 6&8
+
+
+          South Pars
+
+
+        Rev 3
+
+
+           Sagadril- 2
+
+         Rani Woro
+
+
+
+
+    Attachment to “SP-WELLS-2005-009”
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 18 ]
+────────────────────────────────────────────
+[صفحه 2: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 18 ]
+────────────────────────────────────────────
+     The 8 ½” Section Pitfalls
+
+
+
+
+
+         Differential sticking
+                 Keep the fluid loss below 2ml
+                    Minimize connection time
+                     Start jarring at max hit upwards
+        Apply max torque on string and set down max weight
+            Always rotate and pump if stop in operations
+           Swabbing
+                       Follow the trip plan
+               Never pull upwards without pumping
+           Monitor trip tank volumes and active volumes
+     Pump into slips and take high connection drilling / POOH
+(M/U topdrive to string directly, without first lifting string with elevator)
+              Losses
+                Focus on connection procedures
+              Follow the decision tree if losses occur
+           Packing off
+Consider to reduce flow rate to 500lpm when B/R through shale sections
+
+
+
+
+
+                                                         Rev3 11.09.2005
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 18 ]
+────────────────────────────────────────────
+1      Dispensation
+
+ No.  MDP Ref.         Main Drilling Program                       Dispensation
+  1                          None
+
+
+2     Challenges
+
+       Well control
+        •  High focus on well control and kick detection
+        •   If any well-control situation, Statoils well control procedures have to be followed circulating
+            out a kick (Driller’s Method)
+        •  Stop drilling if severe losses (ref decision tree)
+        •  Avoid swabbing – Pump out of open hole and 400m into the casing
+        •  High gas peak up to 84% in SPD8-07
+        •  SP-9 (phase 8): Gas was observed (10-50%) when circulating after installing the 7” liner.
+          The SP-9 well 8 ½” section was drilled with 1.37-1.39sg mud weight.
+        •  Pump into slips and take high connection drilling / POOH
+         (M/U topdrive to string directly, without first lifting string with elevator)
+
+         Drills
+         Drills while inside the 9 5/8” casing:
+        •  H2S drill
+        •  Well control drill
+        •  Pump over the burners
+
+       H2S
+        •  High values of H2S while drilling is not expected based on the offset wells.
+        •  During testing & production, the values of H2S in the reservoir can be up to 5000ppm.
+        •  Be aware of possible H2S while circulation above RTTS packer (SPD9-11) and pulling it out
+              (ref SPD8-14)
+
+         Differential sticking
+        •  The K4 reservoir could be depleted with approximately 30 bar, resulting in 70-100 bar over-
+            balance. Also, K4 has the highest permeability.
+        •   If differential sticking occurs: Evaluate to pull out with the BHA and drill the remaining with
+           a rotary BHA without PDM/MWD/LWD
+        •  Surveys in K4: One survey in top K4 and one in bottom K4
+        •  Keep acid (HCl) on one of the rigs
+
+        Losses
+        •  SPD1 & SPD2: Only seepage losses have been reported, except for SPD2-05 where signifi-
+            cant losses were observed in the K1
+        •  SPD4-1: Significant losses
+        •  In the appraisal wells in phases 6-8, only seepage losses in the SP-11 (phase 6) has been re-
+            ported
+        •  SPD7 first campaign: No losses
+        •  SPD8: No losses
+        •  Be aware of high ECD due to 5 ½” DP. 1.57-1.65sg ECD was experienced in SPD7-02 & 15
+
+        Packing off
+        •  Consider to reduce flow rate to 500lpm when B/R through shale sections
+
+
+                                                                Rev3 11.09.2005
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 18 ]
+────────────────────────────────────────────
+3     Geology
+
+        3.1   TD
+             •  The 8 1/2” hole will be drilled to 50 m TVD above the estimated GWC
+               However, the GWC varies across the field, and will be given for each individual well.
+             •   If the K4 is coming in significantly deeper than prognosis, it will be considered to set
+                  the TD closer to the GWC.
+
+        3.2     Cuttings sampling
+             •  Phase 8: SPD9-02 & SPD9-13
+             •  Phase 6: No cuttings sampling required
+
+        3.3    FIT
+             •  FIT: 1.70 SG EMW.
+
+        3.4   LWD / MWD
+             •  DIR/GR/RES/DENSITY/NEUTRON
+             •  Perform SJA regarding handling of sources (report in DDR)
+             •  Max ROP: 60 m/hr due to logging
+             •  Expected repeat section: 60m @60m/hr backreaming in K1. Depths to be decided by
+                  geologist
+             •  Memory data to be checked and verified before continuing operations
+
+
+4     Rig
+
+       ¾ Be prepared to divert over the burner booms in case of kick
+       ¾ Be prepared to rotate string with rotary table in case of top drive failure
+       ¾ Check hours on wash pipe
+       ¾  Consider to change saver sub prior to section
+       ¾ Do not dope DP when POOH before running liner
+
+
+
+
+
+                                                                Rev3 11.09.2005
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 18 ]
+────────────────────────────────────────────
+5     Operational Sequence
+
+             1.  Test BOP (if required, max 21 days)
+             2.  Install short bore protector / wear bushing
+             3. Only valid for SPD9-11: Retrieve RTTS packer
+             4.  Pressure test the 9 5/8” x 10 ¾” casing, if not already done.
+             5.  Perform pre-job safety meeting regarding handling of radioactive sources
+             6. MU and RIH with 8 ½” motor/MWD/LWD BHA on 5 ½” DP
+             7.  Perform well control, choke and H2S drills
+             8.  Clean rat hole and drill 3 m of new formation. Ensure good mud properties
+             9.  Perform FIT to 1.70 SG EMW.
+            10. Drill 8 ½” hole to TD.
+            11. Circulate hole clean, min 2 BU. Condition mud for liner running.
+            12. Pump out of open hole to avoid swabbing
+              Perform repeat sections
+                    If B/R, pulling speed is max 6 min/stand
+             Flowcheck in shoe
+            13. Pump OOH until 400m inside 9 5/8” casing with reduced flow rate.
+                (Circulate B/U in shoe)
+            14. POOH
+                Pull max 2 min/std for the next 600m
+                Pull max 1 min/std for the next 1000m
+            15. Perform pre-job safety meeting regarding handling of radioactive sources
+            16. End of drilling Operations
+
+
+6      Directional Drilling
+
+        6.1   BHA
+           • The BHA will be designed to minimize wall contact and diff sticking (i.e. no DCs)
+           • The BHA will include 6 ¾” Extreme motor (0.0 AKO)
+           • A PBL sub will be installed in the BHA
+           • Flush the motor and MWD with FW prior to racking back
+
+        6.2     Survey
+           • Take surveys one single above bottom and with MWD in tension (upweight).
+           • If surveys are flagged, continue drilling to next survey point (maximum survey interval is
+             100 m)
+           • Surveys in K4: One survey in top K4 and one in bottom K4
+
+        6.3    Max hours on rotation BHA string components
+           • Jar /Accelerator   :    250 rotation hrs
+           • X/O                   :    300 rotation hrs
+           • DP/ HWDP        :    1500 rotation hrs
+           • MWD                :    250 circulating hrs
+
+
+
+
+
+                                                                Rev3 11.09.2005
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 18 ]
+────────────────────────────────────────────
+        6.4     Bit and Jets
+           • Hycalog DSX168DJUVW, 3x12 + 4x11 (0.70 TFA)
+           • Hughes HCM506Z, 6x12 (0.66 TFA)
+           • Halliburton FM2643i, 6x12 (0.66 TFA)
+           • Smith MA84, 8x11 (0.74 TFA )
+           • Smith MA74, 8x11 (0.74 TFA )
+           • Smith M33BSPX, sidetrack PDC bit
+           • Smith MFDGH (milled tooth bit)
+           • Smith MFS20T (insert bit)
+
+
+7    Mud
+
+        •  Use KCl / Polymer / 3%Glycol mud
+        •  CaCO3 will be used to lower fluidloss and minimize differential sticking.
+        •  Add corrosion inhibitor and oxygen scavenger
+        •  Have Pipelax available
+        •  Mud engineer to quality check the LCM sack content before mixing
+           Everything mixed into the system shall go through the hopper
+        •  Mud weight SPD7 (SD2):     1.41sg
+        Mud weight SPD9 (RWO):    1.37sg
+
+
+8     Liner
+
+          7” Predrilled / 29ppf / 13Cr80 / AMS 28
+
+
+9     Flow rate and Hydraulics
+
+       Flow rate while drilling:                                2000 lpm
+       Flow rate while backreaming:                             500-2000 lpm
+       Flow rate while reaming down:                           1200 lpm
+      Pump rate MWD tool (Standard):                          1325-2460 lpm
+      Pump flow rate for 6 3/4" M1X-P X-treme motor:            1000-2500 lpm
+        Experienced ECD:                                           1.57-1.65 SG
+        Experienced pump pressure:                               200-250 bar
+
+       Back reaming through shale sections
+        Consider to reduce flow rate to 500lpm when B/R through shale sections
+
+       Tripping
+         1. Pump out of open hole and 400m into the 9 5/8” casing
+         2.  Pull max 2 min/std for the next 600m
+         3.  Pull max 1 min/std for the next 1000m
+
+
+
+
+
+                                                                Rev3 11.09.2005
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 18 ]
+────────────────────────────────────────────
+     STANDARD LOST CIRCULATION RECIPE: 8 ½” Section (also use flow chart)
+
+     1.  Acid Soluble Materials
+        1.1  SEEPAGE LOSS SOLUTIONS
+           Initial attempts to solve losses should be made by pre-treating the system with CaCo3 FM at 28 kg/m3
+         each. If losses continued, then pump concentrated pill of the followings;
+        1.2  MODERATE LOSS SOLUTIONS
+        8 m3 Pill @ 60 KG/M3
+                   2   Product            Concentration ( kg/m3 )
+                              CaCo3 F                  30
+                              CaCo3 M                  30
+        2.1  SEVERE LOSS SOLUTIONS (Need to open PBL sub)
+        8 m3 Pill @ 114 KG/M3
+                   3   Product            Concentration ( kg/m3 )
+                              CaCo3 F                  57
+                              CaCo3 M                  57
+
+
+     2.   Partially Acid Soluble Materials
+        3.1  SEVERE LOSS SOLUTIONS (Need to open PBL sub)
+        8 m3 Pill @ 114 KG/M3
+                   4   Product            Concentration ( kg/m3 )
+                              CaCo3 F                  28
+                              CaCo3 M                  28
+                               Mix II F                  15
+                              Mix II M                  28
+                               EPI Seal XF                  15
+
+4.1.1   Procedur
+        •   Spot in open hole, pull above loss zone and circulate to squeeze bridging material to fractures. Slowly increase
+              circulation to minimum rate required for drilling. Increase to 2000 lpm to clean the tool
+        •   Pumping rate through MWD/Motor: 1000lpm
+
+
+4.1.1.1    Instructions
+
+    1.  Ensure Homogenize mixing.
+
+    2. Mud Engineer to supervise the mixing of LCM pills.
+
+    3. Mud Engineer to visually inspect all LCM being used.
+
+     4.  Mud Engineer to make a clear instruction to the rig mixing crew that if they see any change in size of a par-
+         ticular LCM grade confirmed initially they must STOP mixing and inform the mud engineer. Would prefer to
+        put laminated instruction in mixing area.
+
+     5.  Company representative, mud engineer and MWD/DD engineers need to agree on the size of LCM mate-
+           rial and the above concentrations prior to pumping to avoid plug tools.
+
+     6.  Mud Engineer to ensure no Coarse LCM to be mixed in any pills, unless a circulation sub is put in the BHA.
+        Otherwise, ONLY fine and Medium grades are required.
+
+
+
+
+
+                                                                Rev3 11.09.2005
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 18 ]
+────────────────────────────────────────────
+                          throttle                         pull                                                                                                                                                                                                                                                              11.09.2005
+          mud                                                                                                                        Rev3                         over
+      on             DP
+          man                   max
+          one
+                               apply
+                   Always        that
+
+
+
+         .
+             lpm.           afterSection                                             stuck                                                                           bottom.             1200      and½”
+8                                                                                                                                                        swabbing                                                                                                                                             sections             with                   weight            abovein                                      upward                                                                                                             differential                                             avoid                   gently      hit max              single                             shale                                      topoints                            one                   max down                                                               getting             down                                                                                   operations             at set       and                                         reaming                         in
+                                             avoid                                                                                                                               tripping.                                      connectionFocus       ream         and         ml                           stop                back                  to     2     jarring          if          and                                        when               high                                            string                                    time       connection                                                         set                               start                                           chart    during          lpm                       below   on     to   pump
+                                                         and                                                               flow             2000  loss                                      stuck,               and                                                      prior                                                                                                                 swabbing                                            torque                                                                                               slips                                                                                          connection        of             with  fluid                                                                                               follow                                                                           rotate                                         parameters      up         max                                           into              the                               survey                                                                       aware                                                                            differential                                                   losses             Ream  Keep If Apply      Minimize   Take    Always Be If    Reduce  Pump
+
+   • • • • • • • • • •
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 18 ]
+────────────────────────────────────────────
+GUIDELINES FOR HANDLING OF LOSSES IN 8 1/2" SECTION
+
+
+
+                                 Losses
+
+
+
+
+                                           Severe Losses
+ Moderate Losses                              10-20 M3/hr              Total Losses
+      1-10 M3/hr                               Stop Drilling             Stop Drilling
+
+
+
+  Dust 28 Kg/M3
+  CaCO3 FM Into                                        8 M3   60 Kg/M3
+       Active                                            KEEP ANNULUS
+                                                     TOPPED UP
+                                 CaCO3 F 30 Kg/M3
+                                 CaCO3 M 30 Kg/M3
+
+
+                           Losses
+   Still 5-10 M3/hr                                               Still 10-20 M3/hr         OPEN PBL                        < 5 M3/hr
+      Losses
+
+
+
+
+
+8M3    60 Kg/M3       Cont. Dust into
+                                        Open PBL
+                                  active
+CaCO3 F 30 Kg/M3
+CaCO3 M 30 Kg/M3
+                                                              10 M3   160Kg/M3
+
+    Still 5-10 M3/hr                        8 M3   120 Kg/M3
+                                                    CaCO3 F  40 Kg/M3
+      Losses
+                                                        CaCo3 M  40 Kg/M3
+                                CaCO3 F 60 Kg/M3
+                                                                   Mix II F   20 Kg/M3
+                                CaCO3 M 60 Kg/M3
+                                       Drill Ahead                                Mix II M   40 Kg/M3
+                                                                   EPISeal XF 20 Kg/M3
+
+
+
+                                                                       Still 10-20 M3/hr
+
+
+
+
+                                        8 M3    120 Kg/M3
+
+                                  CaCO3 F 30 Kg/M3
+                                    CaCo3 M 30 Kg/M3
+                                           Mix II F   15 Kg/M3
+                                           Mix II M   30 Kg/M3
+                                           EPISeal XF 15 Kg/M3
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 18 ]
+────────────────────────────────────────────
+ SP PHASE 6        Pore pressure
+                            Prediction
+    RKB - MSL: 24,9 m
+                       SPD7
+   Water Depth: 69,5 m MSL                            Made by: RER         Date: June 2005
+
+    Stratigraphy                       Depth
+                                                            Pore pressure (g/cc)                        m TVD
+       Formations                 RT                                                                               Casing  System    mTVD RT                       Lithology
+                                0
+    Seabed 70                                                           Pore pressure
+                                 26”
+     U. FARS                  200                                          Collapse
+                                                                                 Min. stress (Br/vE trend)
+      L. FARS                  400                                                             TFE Shmin trend
+    ASMARI   453
+                                                                                   Fracture pressure    JAHRUM  523
+                            600
+                                                                         Overburden
+                                                                          Planned MW window
+                            800    SACHUN  776   453.0
+                      453.0
+                                  24”
+      ILAM       938             1000
+       SURGH-LAFFAN
+     SARVAK
+       KAZHDUMI       1109             1200
+    DARIYAN
+
+    GADVAN
+    FAHLIYAN 1334             1400
+
+                            13 3/8”
+     HITH     1492 ^^^ ^ ^       1600
+    ARAB
+        U.DOLOM.
+      U.LIMEST.                 1800       CHERTY Z.
+
+         M.LIMEST.
+
+    MAND Mbr.                           2000SURMEH
+            L. LIMEST.
+
+        L.SURMEH SH.              2200
+
+         NEYRIZ SHALE
+         U. DASHTAK
+
+       EVAPORITE
+
+                      U. SHALES                       B.      2285 ^ ^ ^ ^      2400
+               MAS. ANHYDRITE    ^  ^ ^ ^
+
+          U.SUDAIR SH. (S8)       2449
+
+           SUDAIR (S2-S7)DASHTAK                             9 5/8”  2600
+        AGHAR SHALE        2621
+        U.KANGAN              2648
+       K1                2676
+ KANGAN    K2                2793             2800
+       K3                2837
+
+       K4                2957               TD  3000
+
+      NAR Mbr.        ^ ^ ^ ^
+      K 5                                     1,00 1,10 1,20 1,30 1,40 1,50 1,60 1,70 1,80 1,90 2,00 2,10 2,20 2,30 2,40 2,50DALAN
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 18 ]
+────────────────────────────────────────────
+SP PHASE 678       Pore pressure
+                            Prediction
+    RKB - MSL: 24,7 m
+                       SPD9
+    Water Depth: 70 m MSL                            Made by: RER         Date: May 2005
+
+    Stratigraphy                       Depth
+                                                            Pore pressure (g/cc)                        m TVD
+       Formations                 RT                                                                               Casing  System    mTVD RT                       Lithology
+                                                            Pore pressure
+                                 0
+    Seabed 70                                                    Collapse
+                                 26”
+     U. FARS                   200                              Min. stress (Br/vE trend)
+                                                    TFE Shmin trend
+      L. FARS                   400                                                                      Fracture pressure
+    ASMARI   478
+    JAHRUM  550                                               Overburden                             600
+                                                              Planned MW window
+                             800
+    SACHUN  822   453.0
+                      453.0
+                                  24”      ILAM      1002              1000
+
+       SURGH-LAFFAN   1084
+     SARVAK   1125
+       KAZHDUMI       1219              1200
+    DARIYAN  1265
+    GADVAN  1375              1400
+    FAHLIYAN 1457
+
+                            13 3/8”   1600
+     HITH     1636 ^^^ ^ ^
+    ARAB     1708
+       U.DOLOM.        1765                            1800
+      U.LIMEST.   1811
+     CHERTY Z.   1904
+
+      M.LIMEST.   1972                            2000
+    MAND Mbr.   2066SURMEH
+        L. LIMEST.   2158              2200
+
+      L.SURMEH SH.  2278
+
+         NEYRIZ SHALE        2353
+         U. DASHTAK       2372                            2400
+
+       EVAPORITE                       B.      2442
+
+            U. SHALES                                 2524 ^ ^ ^ ^
+         MAS. ANHYDRITE        2578 ^  ^ ^ ^
+          U.SUDAIR SH. (S8)       2608              2600
+
+       SUDAIR (S2-S7)     2629DASHTAK                          9 5/8”
+        AGHAR SHALE          2767
+        U.KANGAN              2791                            2800
+       K1                2823
+ KANGAN    K2                2932
+       K3                2975                            3000
+
+       K4                3097               TD
+                            3200
+      NAR Mbr.        ^ ^ ^ ^
+      K 5DALAN
+                            3400
+                                              1,00 1,10 1,20 1,30 1,40 1,50 1,60 1,70 1,80 1,90 2,00 2,10 2,20 2,30 2,40 2,50
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 18 ]
+────────────────────────────────────────────
+                               South Pars, Iran
+
+                           Bottom Hole Assembly
+INTEQ
+                                8 1/2" Section.
+
+                                                                                                                                                                                             29/8/2005
+   BHA
+                 Drill 8 1/2" Section.                                                                                                 Well #       General
+  Objective
+
+
+ Gauge O.D.                 BHA Item                            Supplier     Body O.D.   Body I.D.   Upper Connection  Item Length   Total Length
+
+  8  1/2   PDC Bit                                                  Statoil                                 4 1/2 Reg P           0.25        0.25
+
+  8 15/32   Turbo-Back Stabiliser                         BHI          6  3/4     2  3/4       4 1/2 IF B            0.35        0.60
+
+  8  3/8   M1XP X-treme, AKO 0°, w / Float in top          BHI          6  3/4                  4 1/2 IF B            7.00        7.60
+
+  8  1/4     String Stab                                 BHI          6  3/4     2  3/4       4 1/2 IF B            1.70        9.30
+
+        LWD (MPR)                                BHI          6  3/4     2  3/4        BHI Mod.            5.70       15.00
+
+  8  3/8   LWD (ORD/CCN)                            BHI          6  3/4     2  3/4        BHI Mod.            4.70       19.70
+
+       MWD (Dir)                                  BHI          6  3/4     2  3/4       4 1/2 IF B            8.70       28.40
+
+          Pony NMDC                                BHI          6  3/4     2  3/4       4 1/2 IF B            4.00       32.40
+
+         PBL Sub                                   BHI          6  3/4     2  7/8       4 1/2 IF B            2.50       34.90
+
+        NMCSDP                                  BHI          6  3/4     2  3/4       4 1/2 IF B            9.00       43.90
+
+            Crossover Sub                                 Rig           6  3/4     2  7/8     DSTJ 5 1/2 FH          1.00       44.90
+
+           21 x HWDP                                    Rig           5  1/2     3  9/29    DSTJ 5 1/2 FH       194.00      238.90
+
+             Jars (Smith)                                    Rig           7         2  7/8     DSTJ 5 1/2 FH         10.00      248.90
+
+           3 x HWDP                                     Rig           5  1/2     3  9/29    DSTJ 5 1/2 FH         27.00      275.90
+
+             Accelerator (Smith)                              Rig           7         2  7/8     DSTJ 5 1/2 FH         10.00      285.90
+
+           1 x HWDP                                     Rig           5  1/2     3  9/29    DSTJ 5 1/2 FH          9.00      294.90
+
+
+
+
+
+                                           All OD / ID / Lengths are proximates.                                           Total length   3529.90 m
+
+                                                                   Drill Pipe details                                    O.D.               I.D.           Length
+
+   String #1                       5 1/2"  21.9 Lbs/ft  Drill Pipe                       5  1/2         4  7/9      3235.00
+
+   String #2                          No Drill Pipe                              0             0
+
+   String #3                          No Drill Pipe                              0             0
+
+                                Recomended drilling parameters                                                 B.H.A. weight details ( K daN )
+
+   W.O.B.    5 - 15 Tonnes (As per DD's recommendation). DP buckling @ 32 Tonnes.                                                       Total      Below Jar
+
+  Flow rate
+            1000 - 2500 lpm                                                                                                     In Air          26.7        20.8
+    motor
+  Flow rate
+            1325 - 2460 lpm                                                                                                    In Mud         21.9        17.1
+  (MWD)
+  Motor rpm  176 rpm @ 2000 lpm                                                             Mud Wt.         1.41         S.G.
+
+ Drilling RPM 0 - 100 (As per DD's recommendation).                                                                           Inclination        37          Deg.
+
+ Comments  Max 100 rpm for backreaming. 8 15/32" Stab for slow drop. 8" Stab for slow build.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 18 ]
+────────────────────────────────────────────
+Rev2.05.04.2005
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 18 ]
+────────────────────────────────────────────
+Rev2.05.04.2005
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 18 ]
+────────────────────────────────────────────
+Rev2.05.04.2005
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 18 ]
+────────────────────────────────────────────
+Rev0.13.12.2004
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 18 ]
+────────────────────────────────────────────
+Rev0.13.12.2004
+
+

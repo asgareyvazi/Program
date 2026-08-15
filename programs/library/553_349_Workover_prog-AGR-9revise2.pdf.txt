@@ -1,0 +1,1036 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+                       IntheNameofGod
+
+                 Work Over Program
+              AGHAR FIELD (AGH-9)
+
+
+
+
+REVISION 1.3                                          SIGNATURE & DATE
+
+
+
+
+ Prepared by  :       Ali Reza Amrollahi            Drilling programmer
+
+
+
+ Supervised by:     Iraj Khanalizadeh           Senior drilling program
+
+
+ Approved by :    Taghee farhadian         Head of Drilling chemistry
+
+
+ Approved by :     Sirous Zarei             Head of Drilling program
+
+
+
+ Approved by  :    Gholam Reza Dowlatnia     Head of Drilling Operation
+
+
+                                      Head of drilling engineering Approved by  :     Lotf Allah Eshghee                                           department
+
+
+
+
+
+                                        1                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+Table of Content:
+
+1. INTRODUCTION ................................................................................................ 3
+  1.1. INTRODUCTION .................................................................................. 3
+  1.2. WELL INFORMATION .......................................................................... 4
+    1.2.1. DRILLING HISTORY ...................................................................... 5
+    1.2.2. H2S CONTENT ................................................................................ 6
+  1.3. WELL MONTAGE HISTORY BEFORE AND AFTERWORK OVER: ........... 7
+  1.4. COMPLETION STRING BEFORE WORK OVER ...................................... 8
+2. WORK OVER PLAN ............................................................................................ 9
+  2.1. DETAIL WORK OVER PLAN: ................................................................ 9
+  2.2. MUD PROGRAM: ................................................................................ 12
+  2.3. WELL MONTAGE HISTORY AFTER WORK OVER: .............................. 13
+  2.4. WELL COMPLETION AFTER WORK OVER: ......................................... 13
+  2.5. WELL HEAD BEFORE AND AFTER WORK OVER ................................. 13
+  2.6. RIG MOVE .......................................................................................... 16
+  2.7. PREPARATION ................................................................................... 16
+    2.7.1. STANDARDS AND PREPARATION OF THE OPERATIONS ............ 16
+    2.7.2.  PRE-RUNNING CHECKLIST ...................................................... 16
+  2.8. COMPLETION RUNNING PROCEDUREERROR! BOOKMARK NOT DEFINED.
+  2.9. MILLING PROCEDURE ....................................................................... 20
+   2.9.1 ITEMS TO BE CHECKED PRIOR TO SENDING TOOLS TO THE RIG20
+    2.9.2. MILLING THE PACKER ................................................................. 20
+3. EQUIPMENT AND MATERIAL LIST .................................................................. 22
+4. TOTAL COST .................................................................................................... 23
+
+
+
+
+
+                                        2                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 22 ]
+────────────────────────────────────────────
+    AGH-9 WORK OVER PROGRAM
+
+   1. INTRODUCTION
+     1.1 INTRODUCTION
+
+THIS PROGRAM COVERS WORK OVER OF WELL AGH-9, AGHAR FIELD; IRAN.THE WELL IS NOW
+PRODUCING 2.27 MM.M3 /D GAS FROM UPPER DALAN FORMATION.
+THIS PROGRAM IS PRAPARED ACCORDING TO LETTER No. 83/H T B/079( 83//چ ت ب 079) FROM SOUTH
+ZAGROS PRODUCTION COMPANY DATED 83/07/11.
+   THE RESULT OF 27-31/02/1383 INVESTIGATION OF WELL CONDITION SHOW THAT THERE IS
+   PRESSURE RELATION BETWEEN 9 5/8"×7" ANNULUS AND TUBING VIA TUBING(THE LEAKAGE IS
+   PROBABLY IN THE INTERVAL OF 4 JOINTS UNDER TUBING HANGER), A REMEDIAL PLAN WAS
+   ARRANGED TO REACH BELLOW PURPOSES:
+
+    •  INSTALL PLUG TO BE SURE THAT PACKER & SEAL BETWEEN PACKER AND ANCHORE
+      SEAL HAS NO LEAKAGE BY DOWNHOLE SERVICES (WIRE LINE).
+    •  KILL WELL BY 72 PCF MUD.
+    •  N/D WELL HEAD & N/UP BOP.
+    •  LAY DOWN COMPLETION STRING.
+    •  REPAIR DAMAGED PART OF COMPLETION STRING.
+    •  RUN GAS WELL COMPLETION STRING.
+    •  DISPLACE ANNULUS BY WATER WITH CORROSION INHIBITOR VIA SSD.
+    •  FLOWING WELL ON PROPER CHOKE SIZES & RECORD THE FLOWING PRESSURES.
+
+
+
+
+
+                                            3                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 22 ]
+────────────────────────────────────────────
+  AGH-9 WORK OVER PROGRAM
+
+ 1.2 WELL INFORMATION
+
+Well Name:         AGH-9          Client:                          I.C.O.F.C.
+
+Well Type:        Work Over       Contractor:                 NIDC
+
+Status:             Producing
+
+Field:               Aghar        Rig Name:                  56 FATH
+
+Location:            E183˚S       RTE / MSL:                 940M
+
+Country:            IRAN       GLE / MSL:                  932.2M
+
+ Surface                  Latitude:       East                      2,279,762 M
+              Geodetic                  UTMLocation:                        Longitude:    North                      752,859 M
+                                        Est. Timing
+
+Est. Spud Date:
+
+Well Duration:                  20 days
+
+Rig Release Date:
+                         Casing & Other Information
+
+           Size (in)                 Shoe Depth (m)                Specifications
+
+20”                              101                        J-55,133#,BTC
+
+                                                                   [0-59]C-95,88.2#,BTC.[59-251]
+13 3/8"                          1451                       N-80, 72#, BTS ,[251-
+                                                           1451]NKT-95,72#,BTC
+
+                                                                       [0-987] L-80,43.5#,VAM. [987-
+9 5/8"                           3207                      1790] L-80, 53.5#, BDS, [1790-
+                                                               3207] L-80,53.5#,BTC
+7"(liner)                                   3086-4162                 N-80,29#,BTC
+
+                                             GAS WELL COMPLETION
+COMPLETION STRING            7"×4 1/2"                                                    STRING TO 3155.52m
+Total Depth:                   4141M (P.B F/4203 TO 4141)
+Perforations                     3985 - 4025 m, 3960 – 3970 m
+
+Formation at TD:                Upper Dalan               3913 m
+
+                                                   WHILE WE HAVE NO NEW
+G.W.C                            3200 MTR SUB SEA       DATA ABOUT WTR
+                                                PRESSURE & FIELD HAD
+RES. PRESSURE @ 2100.5 MSS                             5900PSI
+
+Gas GRADIENT & WTR GRADIENT                             0.11 PSI/FT & 0.5 PSI/FT
+
+TEMP.@2090.52M,TEMP. GRADIENT                         218˚F & 0.0115˚F/FT
+
+
+
+
+
+                                          4                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 22 ]
+────────────────────────────────────────────
+ AGH-9 WORK OVER PROGRAM
+WEIGHT PERSENT OF 'H2S' IN OIL     0%             NEGLIGIBLE
+ 1.2.1. DRILLING, COMPLETION AND PRODUCTION HISTORY
+   1.2.1.1. DRILLING HISTORY
+ Rig was spud at 1376/01/25 on well AGH-9. Commence drilling with 26"bit, with 67 pcf mw to 102 m
+ and run 20"casing to 101 m and cemented with return on surface.
+ Cont. drilling with 17 1/2" bit, with 65 pcf mw (cut mud with air) to 1464 m and 13 3/8"casing was
+ run to 1451 m and cemented with return on surface.
+ Drilling to 3208 m with 12 1/4" bit, with 63-65 pcf MW and 9 5/8"casing was run to 3207 and
+ cemented with return on surface. While drilling, due to pipe stuck @2440 m, Length of fish 250m (bit,
+ drill collars) remain in the well (top of fish @ 2190 m).Due to retrieved all of the fish no success, plug
+ back well to 2355m (KOP) and start side tracking from this point. During drilling this hole mud loss
+ and well flow occur periodically.
+ Cont. drilling with 8 1/2" bit, with 65-85 pcf mw to 4163 m and run CDR/GR, BSC/GR, CDL/CNT/GR,
+ DLL/MSFL/GR logs.7"liner was run from 3086-4162 m and cemented. Dry and pressure test of 7" liner
+ lap was ok. Coring f/3241-3242.5 m (Dashtak formation) was performed. Perform DST test form open
+ hole before running 7" liner by setting packer at @3168 m, that 80pcf mud was observed under DCIP
+ valve. During drilling this hole, mud loss and well flow was observed and we had complete loss at
+ 3624, 4017, 3980, 4037 m. Loss was cured by pumping pill & magneset.
+ Commence drilling to 4203 m with 6 1/8" bit, with 73 pcf mud, with 2-16 bbl/hr that was cured by
+ LCM-pill. Perform DST test form open hole and set packer at 4127 m (Nar formation) that the result
+ was 68-72 pcf salt water. Plug back hole to 4141 m. Replace mud with high PH water and corrosion
+ inhibitor.
+
+  CASING/LINER   SHOE DEPTH                 DESCRIPTION
+
+       20"           101                       J-55, 133 LB/FT, BTC
+
+                      0-59                     C-95, 88.2 LB/FT, BTC
+
+                    59-251                    N-80, 72 LB/FT, BTC     13 3/8"
+                   251-1451                 NKT-95, 72 LB/FT, BTC
+
+                     0-987                     L-80, 43.5 LB/FT, VAM
+     9 5/8"        987-1790                    L-80, 53.5 LB/FT, BDS
+                  1790-3207                   L-80, 53.5 LB/FT, BTC
+
+       LINER 7"    3086-4162                  N-80, 29 LB/FT, BTC
+ 1.2.1.2. COMPLETION AND PRODUCTION HISTORY
+ 7"×4 1/2"gas well completion string was run to 3155.52 m and set packer at 3142 m.
+ N/D BOP and N/U well head and perform pressure tests. Well became secured and rig was released
+ at 1376/11/24.
+ 1.2.1.3. PRODUCTION HISTORY
+     •   Perforation operation was totally 50 m in the intervals of 3985-4025 and 3960-3970 m in
+        upper Dalan formation during 1378/05/25 to 1378/05/27 was performed.
+     •   Acidizing the well was done at 1378/09/04 and flow the well on 1/2",7/8",1" choke sizes
+        to the burning pit and clean the well and result of flowing as follow.
+                                      Flow                                            3    Choke                                 G as rate production(MMft             Flow pressure(bar)     temperture(˚C)
+      size                                              /d)
+
+    ½"           355               67                     27.2
+
+     7/8"          330               70                     79.5
+
+      1"           323               70                    104.5
+
+
+
+
+
+                                         5                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+    •   While cleaning the well pressure of 9 5/8"×7" annulus was increased to 160 bar (2320 psi)
+        that was released and finallay reached to 50 bar(725 psi).
+    •   Production from this well started @ Bahman month of 1378 on 7/8" choke. 3025.8 MMM3
+     was produced from this well till Ordibehesht 1383.
+    •  Now well is producing on 7/8" choke ,it has 2.27 MMM3/D  flow rate and flow
+       pressure before choke 343 bar(4976 psi).Closing well pressure is 350 bar(5078
+        psi) .
+    •   Failure of p-seals of tubing hanger result in complete loss of oil and return of gas
+       to panel hydraulic court, so killing well, plugging and N/D well head and change
+     damaged  p-seals  of tubimg hanger was performed  during 1380/09/09  to
+      1380/09/15 to make the well for producing gas.
+    •  Now pressure of mentioned annulus is 310 bar(4497 psi). Although this pressure
+         is investigated released in several steps, but we do not observe decrease in
+       pressure. From 1383/02/27 to 1383/02/31 relation between annulus and tubing
+      7" ×9 5/8" was investigated,visualized leakage from 4 joints 7'' tubing bellow of
+       tubing haner.
+
+ 1.2.2 H2S CONTENT
+    No significant H2S content is present in this field.
+
+
+
+
+
+                                        6                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 22 ]
+────────────────────────────────────────────
+      AGH-9 WORK OVER PROGRAM
+
+
+    1.3 Well Montage History before and after work over:
+   FORMA  ESTIMATE                          MW
+                         CASING DEPTH      OH               SUMMARYERA  TION  TOP/RTE  THICK.                                        (PCF)
+    RZ.   SURF.   59                                 20"    67      drlg w/26"bit, w/67 pcf mw to 102 m and run
+                                                                                      20"csg to 101m,cmt w/return
+            59
+    AS.           396                                                                  drilling w/17 1/2" bit, w/65 pcf mw (cut
+                                                      mud with air) to 1464 m and 13
+                                                                            3/8"casing was run to 1451 m and           455                                 20"@101 CENOZOIC                                                                cemented w/return on surface.
+    PB.           350
+
+                                                  17 12"  65
+           805
+    GU.           168
+
+       IL.    973    67
+           1040    SV           222
+
+           1262    KZ.           130
+
+           1392                                                                       Drilling to 3208 m w/12 1/4" bit, w/63-    DR.           138
+                                                               65 pcf mw and 9 5/8"casing was run to
+    GD.   1530    78                                           3207 and cemented w/return on
+                                                                               surface. While drilling, due to pipe           1608    FA.           251.5                                                                           stuck @2440 m, 250 m fish (bit, drill
+                                                                                       collars) remain in the well(top of           1859.5                                                  3/8"@1451      HI.           101.5                            13                                       frish@2190 m).While back off fish has
+                                                               no result, plug back well to 2355m           1961
+                                                                                      (k.o.p) and start side tracking from this
+                                                                                       point. During drilling this hole mud loss                                                  12 1/4" 63-65MESOZOIC                                                             and well flow occur periodically.    SM.           820     KOP:2355
+
+
+
+    NZ.   2781    73                                                         drlg w/8 1/2" bit ,w/65-85 pcf mw
+           2854                                                     to4163m,run CDR/GR, BSC/GR,
+                                                            CDL/CNT/GR,DLL/MSFL/GR logs.                                                                                                                                                                                   5/8"@3207
+                    9                                   7"liner was run f/3086-4162m and cmt.
+                                                                    Dry &pressure test of l.lap was                      PKR @
+                                                                          ok.Coring f/3241-3242.5m (Dashtak    DK.           817      3142 MT
+                                                                            formation).Perform DST test for OH
+                                                                          before running 7" liner,setting pkr
+                                                      @3168 m, that 80pcf m was obs under
+                                                  8 1/2" 65-85  DCIP valve.mud loss and well flow
+                          PERFORATED       TOP OF                                                                                                                                                                                                                      :3086-4162                     was obs&complete loss @3624, 4017,
+           3671               INTERVALS:       CMT  :   KNG          242                                     3985-4025      7"L  4141 MT                 3980, 4037.Loss cured by pumping pill
+                                     3960-3970                       & magneset.           3913    U.DL.          234
+                                                                             Drlg to 4203 m w/6 1/8" bit, w/73 pcf
+           4147                                            mw, w/2-16 bpd that was cured by lcm-
+                                                                                                                       pill. Perform DST test for open hole
+                                       TD:4203 MT              and set packer @4127 m (Nar
+                                                  6 1/8"  73PALEOZOIC NAR                                                                    formation) that the result was 68-72
+                                                                               pcf salt water. Plug back hole to 4141
+                                                              m. Replace well fluid w/high PH water
+                                                               and corrosion inhibitor.
+
+                                             7                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+
+1.4 AGH-9 Completion String before Work Over
+
+
+
+
+
+                                        8                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+2. Work over Plan
+2.1. Detail work over plan:
+
+
+
+
+
+                                        9                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+
+
+
+
+                                        10                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+
+
+
+
+                                        11                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+
+
+2.2. Mud Program:
+
+                   MUD PROPERTIES                  MATERIALS                                                                                                                                                                                                                                                                         UNIT                                                                                            UNIT PRICE                          1000RLs       Factor                                                                                                                                                                                                                                                                                                                                                                                                                                                1000RLs                  USED,          WT                                              AMOUNT                     PROPOSED           TYPE       Safety                                                                                                                          RATIO                                                DESCRIPTION                 PV   YP                                 PH     MFV                                                                                                                                         UNIT                        W                                                        GELS     Vol.
+                        /                                                                                                                                                                              FILTRATE                                                                                           UNIT     RLS
+                        O                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   PROPOSED,                                                                                                               MIN      MAX                AMOUNT                                                                                                                                                                                                                                                                                                                     USED,                     AMOUNT
+
+                                        WATER
+
+                                               SALT                 PPB      100      110     125    TONE    376000             47000
+                                          SODA ASH         PPB      1.0      1.5      40      SX     111000          4440                     solid)
+
+                                     6  8     400     SX     122500                                           STARCH            PPB                                                                                                                                                                                                                                                                                              49000
+            72                                  5-8     2/3                                                                 4-6   2500             mud(none                                            10-12                                                                                                   9.5-10        38-40
+                                     2  3     140     SX     656000                                                                                                                                                                                                                                                                                              91840              base                                         H.V.CMC            PPB
+                 water                                      BENTONITE        PPB                400     SX     17500           7000
+
+                                                                                                               0.5      1.0
+
+
+
+
+                                     1  2
+
+
+                                                                      TOTAL WELL, 1000RLs         199,280
+
+                                                               TOTALSAVING,1000RLs
+
+
+
+
+
+                                        12                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 22 ]
+────────────────────────────────────────────
+   AGH-9 WORK OVER PROGRAM
+
+  2.3. Well Montage History after work over:
+  THIS SCHEMA IS SAME AS WELL MONTAGE BEFORE DIAGRAM WITHOUT CHANGE. IT IS
+  PROBABLE CHANGE COMPLETION PACKER DEPTH.
+  2.4. Well Completion after Work Over:
+  Optional -1
+
+                                                   MIN                       LEN-        DEPTH
+ITEM NO NOM SIZE    DESCRIPTION      TYPE    OD      TOP CONN BTM CONN       LEN,m
+                                                                ID                     EA,m         BTM,m
+
+
+  0                                      FLOOR ~ TH                                                     7.940
+
+                     TBG HANGER
+  1    1   10"x8 5/8"x7"                   SA3-MCEVOY             7VAM/B    7VAM/B     0.38     0.38      8.32
+                               (6 5/16 TWO WAY) 'H'
+
+  2    1              FLUTTED SWAGE                           7VAM/P    7VAM/P     0.23     0.23      8.55
+
+  3    4               FLUTTED ADAP        29#                 VAM/B     VAM/P      0.41     1.64      10.19
+
+  4    4                  TBG             29#,L-80               7VAM/B    7VAM/P     12.03    48.12     58.31
+
+  5    1             FLOW COUPLING      29#, 20 ft               7VAM/B    7VAM/P     6.06     6.06      64.37
+
+               7
+  6    1              LANDING NIPPLE   BA (BACKER)        5.950   7VAM/B    7VAM/P     0.88     0.88      65.25
+
+
+  7    1             FLOW COUPLING       29#, 6 ft               7VAM/B    7VAM/P     1.77     1.77      67.02
+
+  8   249                 TBG             29#,L-80               7VAM/B    7VAM/P     12.10   3011.66   3078.68
+
+  9    1                       X.O.S                               7VAM/B   4 1/2 VAM/P   0.47     0.47    3079.15
+
+ 10    1                  TBG            13.5#,L-80               4 1/2VAM/B  4 1/2 VAM/P   9.40     9.40    3088.55
+
+                     TRAVELING JOINT-
+ 11    1       4.5                      TO (OTIS)    5.74  3.840  4 1/2VAM/B  4 1/2 VAM/P   10.20    10.20    3098.75
+                           20'STRK
+
+ 12    1                       X.O.S           13.5#,10.4#              4 1/2VAM/B   4 VAM/P     0.25     0.25    3099.00
+
+ 13    1                  TBG            10.4#, L-80              4VAM/B     4 VAM/P     9.30     9.30    3108.30
+
+                                 KBG ROUND
+ 14    1                 SPM                               3.385   4VAM/B    4VAM/P     2.60     2.60    3110.90
+                                                    (OTIS)
+              4
+ 15    1                  TBG            10.4#,L-80              4VAM/B     4 VAM/P     9.40     9.40    3120.30
+
+
+ 16    1                       X.O.S           10.4#,13.5#                4 VAM/B   4 1/2 VAM/P   0.26     0.26    3120.56
+
+
+ 17    1                  TBG            13.5#,L-80               4 1/2VAM/B  4 1/2 VAM/P   9.65     9.65    3130.21
+
+ 18    1       4.5           SSD            "R", OTIS          3.688  4 1/2VAM/B  4 1/2VAM/P    1.34     1.34    3131.55
+
+ 19    1                  TBG            13.5#,L-80               4 1/2VAM/B  4 1/2VAM/P    8.42     8.42    3139.97
+
+
+ 20   1            ANCHOR SEAL UNIT     RLP                 4 1/2VAM/B                 0.57     0.57    3140.54
+               7
+
+ 21   1                   7"PKR         MHR       7"                      5 VAM/B     1.81     1.81    3142.00
+
+
+ 22   1             MILLOUT EXTENTION                            5 VAM/P    5VAM/P     1.69     1.69    3143.69
+
+
+ 23   1                  XOS                                5VAM/B   4 1/2VAM/P    0.25     0.25    3143.94
+
+               4.5
+ 24   1                  TBG               13.5#,L-80               4 1/2VAM/B  4 1/2VAM/P   10.60    10.60    3154.54
+
+
+ 25    1             NO GO NIPPLE      RPT, OTIS          2.875  4 1/2VAM/B  4 1/2VAM/P    0.76     0.76    3155.30
+ 26Optional-2:1               MULE SHOE                               4 1/2VAM/B                 0.20     0.20    3155.50
+
+
+                                          13                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 22 ]
+────────────────────────────────────────────
+ AGH-9 WORK OVER PROGRAM
+
+
+       NOM                                  MIN                       LEN-        DEPTH
+ITEM NO         DESCRIPTION     TYPE    OD      TOP CONN BTM CONN       LEN,m
+          SIZE                                           ID                     EA,m         BTM,m
+
+
+  0                                    FLOOR ~ TH                                                  7.940
+
+           10"x8     TBG HANGER
+  1    1                        SA3-MCEVOY              7VAM/B    7VAM/B     0.38     0.38      8.32
+            5/8"x7"    (6 5/16 TWO WAY)
+
+  2    1          FLUTTED SWAGE                           7VAM/P    7VAM/P     0.36     0.36      8.68
+
+  3    4          FLUTTED ADAP       29#                  VAM/B     VAM/P      0.42     1.68      10.36
+
+  4    4              TBG           29#,L-80                7VAM/B    7VAM/P     11.80    47.20     57.56
+
+  5    1         FLOW COUPLING     29#, 20 ft                7VAM/B    7VAM/P     6.80     6.80      64.36
+
+             7
+  6    1          LANDING NIPPLE  BA(BACKER)         5.950   7VAM/B    7VAM/P     0.88     0.88      65.24
+
+
+  7    1         FLOW COUPLING     29#, 6 ft                7VAM/B    7VAM/P     1.96     1.96      67.20
+
+  8   251             TBG           29#,L-80                7VAM/B    7VAM/P     11.90   2986.90   3054.10
+
+                                             29#,L-80,
+  9    1                 X.O.S                               7VAM/B   4 1/2 VAM/P   0.47     0.47    3054.57
+                                             13.5#
+
+ 10    1              TBG           13.5#, L-80                4 1/2VAM/B  4 1/2 VAM/P   10.50    10.50    3065.07
+
+                TRAVELING JOINT-
+ 11    1     4.5                  M        5.39   3.895  4 1/2VAM/B  4 1/2VAM/P   10.20    10.20    3075.27
+                      20'STRK
+
+ 12    1                 X.O.S           13.5#,9.5#                4 1/2VAM/B   4 VAM/P     0.45     0.45    3075.72
+
+ 13    1              TBG           10.4#,L-80               4VAM/B     4 VAM/P    10.00    10.00    3085.72
+
+ 14    1             SPM        MMG             3.351   4VAM/B    4VAM/P     2.90     2.90    3088.62
+            4
+ 15    1              TBG           10.4#, L-80               4VAM/B     4 VAM/P     9.50     9.50    3098.12
+
+
+ 16    1                 X.O.S          10.4#,13.5#                 4 VAM/B   4 1/2 VAM/P   0.45     0.45    3098.57
+
+
+ 17    1              TBG           13.5#,L-80                4 1/2VAM/B  4 1/2 VAM/P   10.50    10.50    3109.07
+
+ 18    1     4.5        SSD         CMD      4.922  2.750  4 1/2VAM/B  4 1/2VAM/P    1.60     1.60    3110.67
+
+ 19    1              TBG           13.5#, L-80                4 1/2VAM/B  4 1/2VAM/P   10.00    10.00    3120.67
+
+
+ 20   1        ANCHOR SEAL UNIT    KC-22             3.875  4 1/2VAM/B                 0.84     0.84    3121.51
+             7
+
+ 21   1              7"PKR         SABL-3      7"    3.250              5 VAM/B     1.67     1.67    3123.18
+
+                    MILLOUT
+ 22   1                                                         5 VAM/P    5VAM/P     1.69     1.69    3124.87
+                   EXTENTION
+
+ 23   1              XOS                                5VAM/B   3 1/2VAM/P    0.50     0.50    3125.37
+
+             3.5
+ 24   1              TBG               9.2#, L-80                 3 1/2VAM/B  3 1/2VAM/P   9.50     9.50    3134.87
+
+
+ 25    1         NO GO NIPPLE       AF              2.562  31/2VAM/B  3 1/2VAM/P    0.72     0.72    3135.59
+
+                WIRE LINE ENTRY
+ 26    1                                                       3 1/2VAM/B                 0.20     0.20    3135.79
+                     GUIDE
+
+ Note: Completion string may be change according to operation and drilling
+ department stock.
+
+
+
+
+                                         14                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+2.5 Well head before and after Work over
+
+
+
+
+
+                                        15                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+
+
+2.6 Rig Move
+
+                    •   Prior to commence rig move operations, a pre-job safety meeting with all
+                       personnel involved is to be conducted.
+                    •  Move rig from present well to aghar-9.
+
+2.7 Preparation
+
+                   It is planned to Kill the well and cure the loss, N/U the BOP and pull out completion
+                string (change destroyed equipment) & cleaned hole then run completion string as
+             program. Flow the well on proper choke sizes, secure the well and finally release the
+                   rig.
+
+
+            2.7.1 Standards and Preparation of the Operations
+
+                     •  Make sure that the whole operation is based on good and safe work over
+                       operation practices.
+                     •  After bullhead well, we require wire line lubricator, BPV plus related running
+                           tools, wear bushing and plug tester, 6 1/8" j.mill and necessary X-Over are
+                    on board. For more detail, refer to equipment list.
+                     •  Prior to start operation, hold a safety/Pre-spud meeting with rig crews and
+                         service hands to review the work over program and potential problems. Note
+                      meetings in tour book. Ensure that gas monitors are set up. Ensure that all
+                         safety devices are properly installed and functioning.
+
+                 Note: Before spud the rig follow pre-Spud check list.
+
+                 Note: Before spud the rig make sure the suitable adaptor for nipple up
+                 the BOP (11"-10000) above the 11"×11"-10000 Tubing head spool are
+                   available on rig site.
+
+              2.7.2  Pre-Running Checklist
+
+                    •   Pre Completion Meeting to be held with all Rig Personnel.
+                    •  The formation could cause mud losses at any time and a small drop in mud
+                      level could cause rapid flow of gas or setting the packer due to differential
+                   pressure  in wrong place. So the hole must be monitored continuously. Mud
+                 volume displaced must be checked against the completion displacement and
+                   accurate trip records must be kept at all times.
+                    •   Although there  is positive plug in string while running in, but the correct
+                   crossover from tubing thread (variety size as completion string) to 5” IF drill pipe
+                 must be available on the rig floor at all times when handling tubing. Also a safety
+                    valve are required on the rig floor all time (7” pup joint VAM or x-over sub 7” IF
+                    pin x 5" IF box excess on rig floor must be exist). If flow is detected, these must
+                 be installed immediately and the well must be shut in.
+                    •   Special precautions need to be taken when running the control line outside
+                   tubing (due to difficulty in sealing with the annular preventor) and when running
+                   wire  line. These situations must be discussed by the crew &  all responsible
+                   personnel to commence running the completion.
+
+
+
+
+
+                                        16                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+2.8 Completion Running Procedure
+
+
+This program assumes that the packer and tailpipe are run with the rest of the
+completion.
+
+
+                    •  Make up and  test  pre-assemblies  (in workshop  as  per  manufacturer’s
+                   procedures).
+                    •    All equipment to be checked for any transport damage.
+                    •    All OD’s and ID'S to be checked against the checklist sheets sent from the
+                  workshop. All assemblies and tubing to be drifted with respective sizes prior to
+                     picking up to the rig floor. It is recommended that after testing, plugs and other
+                    flow control accessories are installed in the respective flow control nipples to
+                  ensure that the plugs can and will be installed properly down hole.
+                    •   Prior to running the completion, RIH with 7” casing scraper to 3150 m.
+                    •   Install the RN (2.562'') plug into the top No-Go nipple, then the prong and
+                   pressure test to 6500psi. Leave the plug and prong set.(plug in SSD CMD 2.750
+             & test string against this plug)
+                    •   Check well control precautions (see top of page) are in place. Run completion
+                   as per Completion Diagram (optional-2). Tail pipe length = approx. 12.61 m.
+                 Note that the torque requirements for the 4 ½” string (12.6 lb/ft tubing, 12.6
+                         lb/ft crossovers and completion equipment) and the 7” string (29 lb/ft tubing and
+                   completion equipment) are:
+                    •   Torque figures: 4-1/2” 13.5 lb/ft New Vam 75-80-85 KSI
+                                       Min. 3780 ft/lbs; opt. 4200 ft/lbs; Max. 4620 ft/lbs
+                     Torque figures: 7” 29 lb/ft New Vam 75-80-85 KSI
+                                   Min 8460 ft/lbs; Opt. 9400ft/lbs; Max. 10340ft/lbs
+                    •   Also note that the correct API modified thread lubricant must be used. Do not
+                  use any more thread  lubricant than necessary, the completion eng. should
+                  demonstrate correct use of thread lubricant (using paint brush, not dope brush
+                 and applying to pin and only the shoulder of the box).
+                    •  Make up 7” packer assembly and set the assembly in the slips.
+                    •  Remove shear screws, and install the packer test clamp (segments).
+                NOTE: A dog collar clamp or safety clamp should be used at all times until there
+                           is sufficient weight on the slips to ensure that the tubing string is held securely in
+                   the rotary table during each connection.
+                    •    Fill assembly with clean water 72.4PCF none solid mud.
+                    •   Pressure test assembly to 6,500 psi for 15 minutes.
+                    •   Bleed off pressure slowly.
+                    •   Dismantle surface test fittings and bull plug and install shear screws.
+                    •   Clear the rig floor and make ready to run the rest of the 9 5/8''*7” x 4 1/2”
+                   completion string.
+                    •  Run the packer slowly through the BOP’s. Fill up the first 10 joints with Hi-Vis
+                             pill and the rest with water to make sure that no debris pumped in. Once the
+                   packer is in the casing, do not run the packer faster than 30 foot joint -from slips
+                   out to slips in - per 4 minute.
+                NOTE:  Monitor  the  trip  tank  continuously  while  running  completion  string
+                   plugged. Mud volume  displaced must be  checked  against  the  completion
+                   displacement and accurate trip records must be kept at all times. Fluid level must
+                 be monitored continuously. A contractor Toolpusher or supervisor must be on the
+                        rig floor at all times and must keep the ICOFC Company Man and Completion
+                   Engineer notified of any changes in well status.
+
+                    •  RIH adding additional completion equipment and 4''/4 ½” / 7” tubing as per
+                   (Completion diagram)  Fill the tubing with fresh water with inhibitor every 10
+                       joints.
+
+
+                                        17                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+                NOTE: When picking up the model ‘M’ travelling joint, check that shear ring is
+                       installed. The travelling joint will be run fully open (20 ft stroke). The string will
+                 be suspended with the tubing hanger 10 ft above its final position so that after
+                   the packer has been set, the hanger will be lowered to close the travelling joint
+                      half way.
+                    •  Run in hole with the tubing.
+                    •   Important NOTE: Since the string does not test while running in, using a jam
+                      unit to make up as per optimum make up torque and record the value is strongly
+                recommended. Otherwise, special care and precautions should be taken into
+                    consideration to make up the tubing properly.
+                NOTE: Ensure the 7” elevators and slips are on the rig floor and ready, when the
+                   7” cross over is reached. Recheck well control precautions .
+                    •  Make up the model ‘BA’ safety valve nipple and connect the control line.
+                   Pressure test the control line against the dummy already installed to 6,000 psi.
+                   Bleed off the pressure to 1,000 psi and maintain this pressure while running in
+                   the hole.
+                NOTE: Extra care must be taken when running the tubing from this point to
+                  ensure that:
+                    •   Well control precautions are in place. Because of the control line outside the
+                    tubing, the annular BOP may not seal properly if it is needed.
+                    •  The control line is not crushed when setting the slips.
+                    •  The required depth of the safety valve nipple is to be +/- 65 m.
+                    •   Continue to run in hole  until at setting depth clamping or strapping the
+                     control line tight to the tubing.
+                    •   Install first fluted adaptor (Box by Pin) above the upper 7” flow coupling of
+                   the SSSV landing nipple, the second above two joints of tubing and the last one
+                 above another three joints.
+                    •  Run last 4 joints of tubing. RIH to the intended packer setting depth of +/-
+                3123m. Make up the Pin by Pin cross-over between the last tubing joint and the
+                   tubing hanger. Make up the tubing hanger. Make up 7” tubing landing joint(s) to
+                   tubing hanger as per MCEVOY procedures. Run the string in to depth where the
+                   tubing hanger can be worked on from the rig floor.
+                    •   Bleed off the pressure in the control line and terminate. Dress off the cut
+                     control  line and make up to the tubing hanger.  It  is recommended that a
+               minimum of three wraps around the tubing are used prior to connecting the
+                     control line to the tubing hanger. Connect a temporary control line to above the
+                   hanger. Pressure test the control line again to 6,500 psi to make sure it’s holding
+                   pressure OK. Bleed off the pressure and disconnect the control line.
+                    •  Run the tubing hanger below the rotary table and run the landing joint
+                  through the rotary, stopping with the tubing hanger 10 ft above its final position.
+                    •  Make up circulating head to the tubing and pressure up on the tubing to set
+                   the packer. The packer should set at +/- 1,500 psi. Increase pressure to 2,500
+                      psi and hold and record for 15 minutes. Then increase the pressure on tubing to
+                  5,000 psi for a 30 minutes pressure test (potential acid injection pressure).
+                    •   Bleed off the pressure from the tubing.
+                    •   Prior to landing the tubing hanger, drain the stack and jet out to clean the
+                   tubing hanger land off point. Run in hole slowly to land the tubing hanger in the
+                   tubing head spool and tighten the tie – down screws.
+                    •   pressure test tubing to 6500 psi for 30 minutes.
+                    •   Pressure up on the annulus to 3,000 psi for 30 minutes to confirm the packer
+                           is set and holding. Ensure the tubing  is open at surface when testing the
+                   annulus. Some back flow will be seen from the tubing as the pressure increases
+                 due to the tubing being compressed. The flow should stop once the pressure has
+                 been reached. A strong flow could indicate leaking tubing, requiring remedial
+                     action.
+                    •   Closed top Ram, pressure test tubing hanger to 6500 psi.
+
+
+
+                                        18                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+                    •   Bleed off the pressure. Unscrew and lay out landing joint(s) from tubing
+                   hanger.
+                    •   Refer to item work over operation program.
+
+2.9 Milling Procedure
+              2.9.1 Items to be checked prior to sending tools to the rig
+
+    1.  OD, ID and length of all bottom hole assembly items.
+
+    2.  Ensure the cylinder is long enough to accept the body of the packer.
+
+    3.  Ensure the length from the bottom of the milling shoe to the catch sleeve  is the correct
+        length and that it will go all the way through the packer to be milled.
+
+    4.  Ensure the assembly on the catch sleeve rotates freely.
+   WARNING: The spring above the catch sleeve is very strong. Watch your fingers.
+
+    5.  Confirm the correct catch sleeve is used.
+
+    6.  Tighten the safety sub below the catch sleeve. If this rotates off while milling the packer,
+       then the packer cannot be retrieved in one trip.
+
+              2.9.2 Milling the packer
+
+    1.  Make up the tool string and run in hole slowly. Care should be exercised when running the
+         tools through the BOPs to ensure that the milling tool does not damage this equipment.
+
+    2.  Run in hole at a moderate speed
+
+    3.  Slow down as packer setting depth is reached. If the packer setting depth is known, then the
+        Kelly can be made up prior to tagging the packer. Ensure there is at least 10 feet of string up
+      when commencing milling operations. This is to ensure that the tool does not have to be
+        released, to add a single while milling the packer. Once the catch sleeve is released, the tool
+       has to come out of the hole to be redressed.
+      Tag the packer with the shoe, pull back and space out. Ensure there is at least 10 feet of
+         string up when commencing milling operations.
+
+    4.  Prior to stinging into the packer, check up and down weights with the pumps on and off. Also
+       check rotating weights with the pumps on and off. Pump rate should be 2 - 3 Bbls a minute
+       and rotating speed should be 70 - 80 RPM.
+
+    5.  Stop rotating and slowly go down to tag the packer with the pumps running. As the stinger
+        enters the packer bore a pressure increase will be seen. Back off on the pumps to the same
+       pressure that was seen, when circulating above the packer. Tag the packer with the milling
+       shoe and place 5,000 lbs of string weight on the packer.
+
+    6.  Stop pumps.
+
+    7.  Pick up to bring the catch sleeve inside the bore of the packer. Slowly rotate the string 2
+        times. This is to un-jay the catch sleeve and set it in the catch position. Slack-off and place
+       5,000 lbs of string weight on the packer.
+
+    8.  Pick up until an over-pull is seen. Pull 15,000 lbs over string weight to ensure the catch is well
+        seated. If no over-pull is seen after 3 feet of picking up, go back and repeat steps 6, 7 & 8
+          until an over-pull is seen.
+
+
+    9.  Slack off and place 5,000 lbs of string weight on the packer.
+
+
+
+
+                                        19                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+    10. Pick back up until the milling shoe is just above the packer. Do not pick up too far as the
+         string will shorten when the string is turned. This can bring the catch sleeve in contact with the
+       bottom of the packer and may release the catch sleeve.
+
+    11. Start pumps up and bring the pressure up to the same as in step 5 and 6. Start the rotary and
+         build up the RPM to the same as in step 5. Ensure rotary speed and pump pressures are the
+      same as in step 5
+
+    12. Slack off and place 1,000 lbs of string weight on the packer and allow to mill off. Keep doing
+         this and gradually increasing the weight until 5,000 lbs of string weight is on the packer. This
+       should be done over a time frame of 30 minutes. A 9 5/8” model D packer should take around
+       4 - 5 hours to mill.
+
+      NOTE: Problems may be encountered when milling through the extrusion rings that back up
+        the packing element. These rings may begin to rotate. The pumps may be stopped for 5
+       minute intervals to try to burn through these rings if they do rotate. A close eye must be kept
+       on the torque at this point to prevent twist off.
+
+    13. Once the packer has fallen, stop the rotary immediately. This is to stop the safety sub from
+       being accidentally being backed out and the catch sleeve releasing. Go down as far as
+        possible. Pick back up as high as possible and circulate at a high rate. Repeat this 3 or 4
+        times to ensure that the packer is free.
+
+    14. Circulate at a high rate, at least bottoms up before pulling out of the hole.
+
+    15. POOH.
+
+    Note: If for some reason the milling tool has to be released from the packer, then following should
+       be followed. Stop pumps and rotary.
+
+    16. Pick up and pull 10,000 lbs over string weight. Rotate the string 10 times to the right. If the
+         tool does not release, increase the pick up to 15,000 lbs over string weight and rotate the
+         string until the tool releases.
+
+    17. POOH.
+
+    18. When the tools reach surface, the Baker Engineer must be on the rig floor to inspect the tools
+       as they come through the rotary table.
+
+
+
+
+
+                                        20                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 22 ]
+────────────────────────────────────────────
+     AGH-9 WORK OVER PROGRAM
+
+
+
+     3. Equipment and Material list with cost
+
+
+                                                                             UNIT
+       QTY.
+                                                                 COST                                                                                                                                                                                                                               TOTAL COST            TOTAL COST                                                                                                                                                                                                                                                                                                                                                                                                                           (ACTUAL) ITEM   UNIT                                                                                                                                                                                                                                                                                                                                                                                                                                                       (PROPOSED)
+
+        Propo
+                                                                      $US     $US     $US
+         sed
+
+A: TUBULARS
+
+ 1  m   60  4 1/2"tubing,L80,12.6#,N.Vam                                                   28.0      1680       0
+
+ 2  m   60  4 "tubing,L80,10.4#,N.Vam                                                      26.9      1613
+
+ 3  m   20  3 1/2"tubing,L80, 9.2#,N.Vam                                                    26.9      538
+
+ 4  m  3200 7" tubing 29#L-80,N.Vam                                                        47.9     153216
+
+TOTAL TUBULARS                                                                               157,047     0
+
+ B: CASING & LINER ACCESSORIES
+
+TOTAL CASING & LINER ACCESSORIES                                                          0      #REF!
+
+C: BITS & NOZZLES
+
+ 5  NO   2   J.MILL 6-1/8"                                                                931.3     1863
+
+ 6  NO   2   E.MILL 6-1/8"                                                              1010.0     2020
+
+TOTAL BITS & NOZZLES                                                                      3883    #REF!
+
+D: WELL HEAD EQUIPMENT
+
+
+TOTAL WELL HEAD ACCESSORIES                                                              0        0
+
+
+E: COMPLETION STRING EQUIPMENT
+
+
+ 7   set   1   COMPLITION STRING 4 1/2"*7"                                           205000.0   205000      0
+
+
+
+TOTAL WELL, $US                                                                                                                                                                                                                #REF!                                                                                                                                                                                                                                                                         365,929
+
+                     THIS MATERIAL COST WAS CALCULATED AS TO MILLING PACKER .
+
+
+    Important Note: Upon finishing the work over, a complete list of used equipments in the well and
+     the retrieved re-usable equipments should be prepared for future I.C.O.F.C.’s stock balance.
+
+
+
+
+
+                                            21                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 22 ]
+────────────────────────────────────────────
+AGH-9 WORK OVER PROGRAM
+
+
+4 Total Cost
+
+
+
+
+
+                                        22                               DRILLING PLANNNING ENG.
+
+

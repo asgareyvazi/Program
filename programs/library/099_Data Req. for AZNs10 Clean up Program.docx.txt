@@ -1,0 +1,36 @@
+# SOURCE: Data Req. for AZNs10 Clean up Program.docx
+
+📄 فایل 99 از 214  |  Data Req. for AZNs10 Clean up Program.docx
+با سلام
+احتراما در خصوص تهیه برنامه چاه 10، مجموعه اطلاعات ذیل نیازمند مورد نیاز می باشند:
+1. آیا برنامه اسید کاری چاه 10، همانند چاه 40 در حضور دکل بوده و یا اینکه تنها Clean Up اولیه در حضور دکل خواهد بود؟
+تنها Clean Up  اولیه در حضور دکل خواهد بود.
+2. در صورت Clean up، آیا به Separator جهت اندازه گیری ریت و برنر بوم نیاز هست؟ به پکیج برنر بوم در زمان کلین آپ نیاز نمی باشد.
+3. اطلاعات مربوط به انتقال نفت از جمله:
+Line up pump truck to Prod.line (Prod.line flange …” -…K, Pad-… in AZNS Field to Pipe …”-…k)
+3. اطلاعات مربوط به رشته تکمیلی از جمله موارد ذیل
+Upper limit of annulus pressure???  500 psi based on corrosion log results and interpretation and considering 9-5/8" casing running time.
+Strategy to control annulus pressure over cleanup operation by brine, diesel and gas N2 fluids, respectively?    Whenever annulus pressure build up to 500 psi shall be bleed of to 200 psi
+
+## TR3SV & Wire-Cut 2SV Operational Conditions
+TRSSSV Acceptance Criteria and Operational Pressures
+Protection Sleeve Specifications
+Control Line Specifications
+SSV Acceptance Criteria and Operational Pressures
+2SV-ESD panel’ Operating Pressure to be set around ........2000psi to 2300psi...... .
+
+[جدول 1]
+Type | Full Opening/min. Closing of flapper@ surface, psi | Time of Closing, sec. | Oil Type | Length/max.OD/min.ID, in
+Tubing Retrievable | 2800 psi Full Open 800 psi Full Close | As soon as bleed of the pressure | 32 Hydraulic Oil | 1.04 m,7.500 in, 3.437 "
+
+[جدول 2]
+Type | Length/max.OD/min.ID, in
+AF | 1.5 m,3.5 in,2.90" ID
+
+[جدول 3]
+Type | max.OD/thickness, in | Est. Oil Volume, L
+SEAMLESS | 1/4",0.065" | 1 L
+
+[جدول 4]
+Type | Threshold Pressure, psi | Time of Opening/Closing, sec. | Oil Type | Oil Volume, L | Rupture Pressure, psi
+HYDRAULIC WIRE CUT | 2000 | 10 s | Hydraulic 32 | 10 L | 3000 psi

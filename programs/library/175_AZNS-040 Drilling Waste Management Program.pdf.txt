@@ -1,0 +1,848 @@
+# SOURCE: AZNS-040 Drilling Waste Management Program.pdf
+
+📄 فایل 175 از 214  |  AZNS-040 Drilling Waste Management Program.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 1 of 26CCA/C/1401/27
+
+   DRILLING WASTE MANAGEMENT
+
+          PROGRAM
+
+      AZADEGAN OIL FIELD
+
+     DRILLING WASTE MANAGEMENT
+
+             PRGRAM
+
+       AZNS-040 (PAD #50), TYPE: IIF
+
+                         Drilling Department
+
+                           JULY 2023
+
+                                        Page 1 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 1 of 26CCA/C/1401/27
+
+  Contents
+
+      1.   Objectives ................................................................................................................................... 1
+
+      2.   Well Information ......................................................................................................................... 2
+
+         2.1.   Azadegan Oil field .............................................................................................................. 2
+
+         2.2.    Well drilling objectives ....................................................................................................... 3
+
+         2.3.    Formation overview of AZNS-040 ..................................................................................... 1
+
+      3.   Scope of Work ............................................................................................................................. 2
+
+         3.1.    Drilling waste management design ..................................................................................... 2
+
+           3.1.1.    Water based mud containing minerals, naturals and synthetic polymers .................... 2
+
+           3.1.2.     Cuttings contaminated with WBM .............................................................................. 3
+
+         3.2.   Waste discharge and handling ............................................................................................. 3
+
+         3.3.    Laboratory equipment's and analysis .................................................................................. 3
+
+         3.4.    Reports and comments ........................................................................................................ 3
+
+         3.5.   The equipment's installation and commission..................................................................... 4
+
+         3.6.    Clean up process ................................................................................................................. 4
+
+         3.7.    Supplying services .............................................................................................................. 1
+
+         3.8.   Waste management policy ................................................................................................... 1
+
+         3.9.    Drilling waste management steps........................................................................................ 2
+
+      4.   Calculation .................................................................................................................................. 3
+
+         4.1.   Waste water treatment and disposal .................................................................................... 3
+
+           4.1.1.    Dewatering system ...................................................................................................... 3
+
+           4.1.2.    Estimated volumes ...................................................................................................... 4
+
+           4.1.3.    Dewatering chemicals ................................................................................................. 4
+
+           4.1.4.    Treated water properties .............................................................................................. 5
+
+           4.1.5.     Material consumption Estimation ............................................................................... 5
+
+         4.2.    Cutting treatment................................................................................................................. 6
+
+           4.2.1.    Cutting removal process .............................................................................................. 6
+
+           4.2.2.    Estimated cutting volume ............................................................................................ 6
+
+           4.2.3.    Estimated fixation volume .......................................................................................... 7
+
+      5.   Waste Management Equipment's ................................................................................................ 8
+
+         5.1.    Flocculation unit ................................................................................................................. 8
+
+         5.2.    400bbl Dewatering unit......................................................................................................... 9
+
+                                        Page 1 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 2 of 26CCA/C/1401/27
+
+         5.3.    400bbl Storage tank .............................................................................................................. 9
+
+         5.4.   High Performance Filter Unit ............................................................................................. 9
+
+         5.5.    Centrifugal pump .............................................................................................................. 10
+
+         5.6.    Submersible pump............................................................................................................. 11
+
+         5.7.   200 bar wash down guns ................................................................................................... 11
+
+         5.8.    Fluid transfer diaphragm pump ......................................................................................... 12
+
+         5.9.  DWM laboratory cabin ..................................................................................................... 13
+
+        5.10.   Storage container............................................................................................................... 13
+
+        5.11.   Loader ............................................................................................................................... 14
+
+                                        Page 2 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 1 of 26CCA/C/1401/27
+
+    List of tables
+
+     Table 2.1 _ AZNS-040 Re-Entry Well Information. ............................................................................ 2
+     Table 2.2_ Formation overview of AZNS-040. ................................................................................... 1
+     Table 3.1 _ Supplying services. ........................................................................................................... 1
+     Table 4.1 _ Estimated treating waste water. ......................................................................................... 4
+     Table 4.2 _ Dewatering chemical. ....................................................................................................... 4
+     Table 4.3 _ Treated water properties. ................................................................................................... 5
+     Table 4.4 _ Material consumption. ...................................................................................................... 5
+     Table 4.5 _ Estimated cutting volume. ................................................................................................ 6
+     Table 4.6 _ 5.5.2.  Estimated fixation volume. .................................................................................. 7
+
+    List of figures
+
+     Figure 3.1 _ Azadegan structures location map. .................................................................................. 3
+     Figure 3.2 _ Well location map. ........................................................................................................... 4
+     Figure 4.1 _ Drilling waste management procedure. ........................................................................... 2
+     Figure 5.1_ Dewatering system flowchart. .......................................................................................... 3
+     Figure 5.2 _ Cutting management process........................................................................................... 6
+     Figure 6.1 _ Flocculation unit. ............................................................................................................. 8
+     Figure 6.2 _ Conditional tank. ............................................................................................................. 9
+     Figure 6.3 _ High Performance Filter Unit. ....................................................................................... 10
+     Figure 6.4 _ Centrifugal pump. .......................................................................................................... 10
+     Figure 6.5 _ Submersible pump. ........................................................................................................ 11
+     Figure 6.6_ 200 bar wash down guns. ............................................................................................... 11
+     Figure 6.7_ 3” Diaphragm pump. ...................................................................................................... 12
+     Figure 6.8_ Diaphragm pump ............................................................................................................ 12
+     Figure 6.9_ Hatch Water Test kit ....................................................................................................... 13
+     Figure 6.10 _ Storage container. ........................................................................................................ 13
+     Figure 6.11 _ Loader. ......................................................................................................................... 14
+
+                                        Page 1 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 1 of 26CCA/C/1401/27
+
+  1.  Objectives
+
+   This plan has been designed by APD,  for Drilling waste management provision, and
+   operational services of workover operation on AZNS-040 in Azadegan oil field.
+
+   This plan is based on the information's provided by MSA Fahliyan re-entry well program REV
+   02.
+
+   All discharges should be done, according to the regulated rules, and environmental standards
+    of:
+
+    .  IPS-E-PR-735 Engineering standard for process design of plant solid waste treatment
+         and disposal systems;
+    .  IPS-E-PR-730 Engineering standard for process design plant waste-water;
+    .  IPS-G-SF-130 General standard for disposal of solid waste;
+    .  IPS-E-SF-880 General standard for water pollution cont.
+
+   The key to success in this operation is pre-planning to ensure that the procedure, sizing,
+   placement and quantity of the equipment supplied, and the site layout is correct for the job-
+   well to advance of spud date.
+
+                                        Page 1 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 2 of 26CCA/C/1401/27
+
+  2.  Well Information
+
+                                 Table 2.1 _ AZNS-040 Re-Entry Well Information.
+    Country / Area                                      Iran, Khuzestan.
+     Client                         MSA
+     Field                                     Azadegan
+    Well                                 AZNS-040
+    Location                               PAD-50 (Area: II)
+    Well head co-ordinate                  E   194,235m
+   [UTM39N, WGS84]                N   3,450,715m
+    Type                                              IIF Vertical Well
+    Objective                                   Produce Oil from Fahliyan Reservoir
+
+   2.1. Azadegan Oil field
+
+   The Azadegan Oilfield is Located in Khuzestan Province and is Approximately Located 80
+   Kilometers West of Ahwaz City, near to Iran-Iraq Border.  It is in The Northwest of The
+  YADAVARAN Field and in The West of JUFEYR Field. The Average Monthly Temperature is
+   45ºc in summer, and Highest Temperature is 52ºc. The Lowest Temperature is -4.4ºc in winter.
+  Maximum Rainfall is 78 mm in February, Winter Season.
+
+                                        Page 2 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 3 of 26CCA/C/1401/27
+
+                                 Figure 2.1 _ Azadegan structures location map.
+
+   2.2.  Well drilling objectives
+
+   This well is located on Pad-50 near wells AZNS-036 and AZNS-017S.T-1. The pad-50 is
+   located on center of South Azadegan Oil field in Block-II.
+
+                                        Page 3 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 4 of 26CCA/C/1401/27
+
+                                        Figure 2.2 _ Well location map.
+
+                                        Page 4 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 1 of 26CCA/C/1401/27
+
+   2.3. Formation overview of AZNS-040
+
+                                   Table 2.2_ Formation overview of AZNS-040.
+
+                                        Page 1 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:
+             AZNS-040 Drilling Waste Management Plan         Page 2 of 26  CCA/C/1401/27
+
+    3.  Scope of Work
+
+    3.1.  Drilling waste management design
+
+    The contractor is responsible for designing the optimum practices for treating the produced
+     waste during the operation. The  initial technical waste management proposal should be
+     included the practices for minimizing, treating and recovering of the wastes.
+
+     According to the below categories:
+
+    .     Water based mud containing minerals and natural synthetic polymers, and
+    .      Cuttings contaminated with WBM.
+
+    The contractor is encouraged to offer possible practices to minimize the drilling fluids waste
+     and its regeneration.
+
+3.1.1.Water based mud containing minerals, naturals and synthetic polymers
+
+    .     Primary operation
+
+    The proposed primary solids control package should be able to control drilling fluid properties,
+     reducing of mud  materials usage  against conventional  solid  control  equipment's, and
+      significantly reduce the number of excess fluids generated throughout drilling each phase of
+      the well.
+
+    .     Secondary Operation
+
+     All excess mud and spillage (water based) should be collected in rig site pits and free surface
+      fluid should be treated using a built for propose flocculation station (has to join with centrifuge)
+      consisting of integral dosing and pumps along with a centrifuge for efficient, quick and
+      controlled separation of the solids before the cleaned fluids is returned to active system or
+      buffer tanks.
+
+     This system should be able to remove colloidal sized particles that cannot be removed with
+     primary solids control system.
+
+     This system may use to clean up the remaining water-based mud or decrease weight of oil base
+    mud at the end of the drilling fluids programmed.
+
+                                          Page 2 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:
+             AZNS-040 Drilling Waste Management Plan         Page 3 of 26  CCA/C/1401/27
+
+3.1.2.Cuttings contaminated with WBM
+
+    Spud mud and water-based mud cuttings should be fixed and be ready for transport to disposal
+     zone. For fixing the cutting, 100-150 kg cement shall be used for each cubic meters of cutting
+     as well as 3-4-liter Sodium Silicate for each cubic meter of cutting. (Consumption of cement
+     and sodium silicate varies in different formations). Gypsum is not allowed for cutting fixation.
+     This method is physically Bonds Contaminants to Prevent Leaching to Environment. Final
+     product will pass can test and in case of approval by company man it’ll send to landfill.
+
+     3.2.  Waste discharge and handling
+
+    The Company is responsible for designing of required pits and The Contractor is responsible
+      for procedure for burring of waste cuttings in disposal zone; supervision and managing of
+     requirement operation for deposit oil waste cutting.
+
+    The contractor is responsible for treating all the generated waste in site without any discharges
+      in environment or damages. It is also the responsibility of the contractor for handling/discharge
+     of generated waste after treatment.
+
+    The contractor manages and supervises the solids and fluid waste streams loading and off-
+     loading on/from  the  designated  areas and  responsible  for  the  loader along with  the
+      responsibility of the storage pits, tanks, etc.
+
+    3.3.  Laboratory equipment's and analysis
+
+    The contractor should prepare suitable laboratory analysis equipment's to perform complete
+      analysis services of waste matter. The provided equipment's shall make this opportunity to
+     study the mentioned environmental policy of waste analysis.
+
+    3.4.  Reports and comments
+
+    The contractor provides the following reports and documentations on contract duration:
+
+    .     Daly and monthly waste management report.
+    .      Final waste management report, including:
+              Summarized amount of generated waste on each section,
+                Total treated waste,
+                Total chemical consumption,
+               Cost monitoring report, and
+                Special activities.
+
+                                          Page 3 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 4 of 26CCA/C/1401/27
+
+   3.5. The equipment's installation and commission
+
+  .      First location
+
+   The Maximum days for installation and commissioning of all equipment and necessary piping
+   will be 7 days after rig spud. Contractor is responsible for any delay to installation and
+   commissioning of equipment.
+
+  .     Other locations
+
+   The  Installation of  all equipment should be completed during  rig spud. Contractor  is
+   responsible for any delay to installation and commissioning of equipment.
+
+   3.6. Clean up process
+
+   After drilling operations and drilling rig removal, the well area, waste pit, and corral should be
+   completely cleaned. The contractor shall remove the fixed cuttings to pre-determine locations
+   (disposal) which can protect the environment is very effective.
+
+                                        Page 4 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 1 of 26CCA/C/1401/27
+
+   3.7.  Supplying services
+
+                                         Table 3.1 _ Supplying services.
+    Waste treatment package
+                 Dewatering unit
+                  Filter press
+
+    Transfer pump package
+                 Air diaphragm pump
+                 Submersible pump
+                 Centrifugal pump
+
+    Storage tank
+                 Waste water storage tank
+
+    Cutting treatment
+                 Loader
+
+    Waste transportation
+                 Cutting transport truck
+                 Tunker truck for waste water transfer
+
+    Other
+                 Wash gun
+                 Laboratory and cabin
+
+   3.8. Waste management policy
+
+   Waste management services should be utilized to minimize generated waste and contaminated
+   discharged cuttings during drilling operations. This helps keep the environment clean and
+   ensures that our operations are in compliance with DOE (Department of Environment)
+    legislations.
+
+  We provide cost-effective and optimum solutions from environmentally acceptable procedures
+   to achieve zero-discharge plans and improve fluids recovery. The outcome reduces operational
+   costs and enables recycling.
+
+                                        Page 1 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 2 of 26CCA/C/1401/27
+
+   The waste is analyzed to study various parameters such as chloride, nitrate, and phosphate.
+   Other analysis is carried out to monitor treatment processes on a regular basis during waste
+   generation. Our waste management personnel are fully trained experienced and have the
+   competencies in place to provide the best reliable services with concentrated support and the
+    least liabilities.
+
+   3.9.  Drilling waste management steps
+
+      Reduce     Reuse      Recycle     Recover
+
+                               Figure 3.1 _ Drilling waste management procedure.
+
+                                        Page 2 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:
+             AZNS-040 Drilling Waste Management Plan         Page 3 of 26  CCA/C/1401/27
+
+     4. Calculation
+
+    4.1. Waste water treatment and disposal
+
+4.1.1.Dewatering system
+
+                                      Figure 4.1_ Dewatering system flowchart.
+
+                                          Page 3 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:
+             AZNS-040 Drilling Waste Management Plan         Page 4 of 26  CCA/C/1401/27
+
+4.1.2.Estimated volumes
+
+    .     Assumed 400 bbls in mud tank.
+    .     The produced daily waste water of 50 m3 and 60% mud are roughly estimated.
+
+                                      Table 4.1 _ Estimated treating waste water.
+                       unit                                                              Total
+      Hole Size        Inch          26           17.5         12.25           8.5                   -
+      Casing Size     Inch         18 5/8        13 3/8       9 5/8          7                    -
+      Depth          Meter         152         1492        3986         4200                 -
+                                                                                              Salt
+                                                                        Salt saturated    Mud                                                                          saturated
+                                    -                  -                  -        KCl, etc.                                  -
+      system                                                            KCl, etc.                                                   mud
+                                                              mud
+    Mud
+                   PCF                -                  -          75-85       100-106               -
+      weight
+       Interval        Meter         152         1340        2493         214                  -
+      Operating
+                        Day(s)          0            0          53           44            97
+      duration
+      Estimaded     M3                 -                  -          987          533          1520
+     mud                           bbl                 -                  -         6120         3302          9422
+      volume
+      Estimated      M3                 -                  -         3157         2449          5605
+       Treating
+      waste             bbl                 -                  -         19572        15181         34753
+      water
+
+4.1.3.Dewatering chemicals
+
+                                          Table 4.2 _ Dewatering chemical.
+                                             Application            Required concentration
+      Poly Aluminum chloride                Coagulant                    0.5~1.5 Kg/m3
+       Flocculent polymer                       Flocculant                    0.1~0.3 Kg/m3
+      Hydrated lime                          Coagulant                   0.25~0.5 Kg/m3
+                                                                                0.5 ~ 0.6 Kg/m3
+      Soda-ash                            Harness control          decreasig 1000 mg/Lit of Ca, at
+                                                                               average
+                                                                                0.5 ~ 0.6 Kg/m3
+      Caustic soda                    pH control
+                                                                       Contion depended
+       Biocide                           Microvial activity control             20 ml/ m3
+
+                                          Page 4 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:
+             AZNS-040 Drilling Waste Management Plan         Page 5 of 26  CCA/C/1401/27
+
+4.1.4.Treated water properties
+
+                                         Table 4.3 _ Treated water properties.
+      Item                                Amount
+
+    pH                                     7~9
+       Total hardness                         < 800 mg/litr
+       Turbidity                             < 50 NTU
+       Nitrate                               < 50 mg/litr
+     Aluminum                            < 3 mg/Lit
+       Sulfate                               < 50 mg/litr
+      Ca2+                                 < 600 mg/litr
+
+4.1.5.Material consumption Estimation
+
+     This estimation, does not eliminate the responsibility of the test operator.
+
+                                          Table 4.4 _ Material consumption.
+                          unit                                                           Total
+        Hole Size        Inch        26        17.5       12.25         8.5                -
+       Casing Size       Inch       18 5/8     13 3/8      9 5/8         7                 -
+         Depth        Meter       152      1492       3986       4200               -
+          Interval       Meter       152      1340       2493        214                -
+        Operating
+                        Day(s)        0         0         53         44          97
+         duration
+                            Dosage of kg/M3                    0.5~1.5                      -
+        Poly alum
+                     25 kg sxs          -              -         126         98          224
+          Poly              Dosage of kg/M3                    0.1~0.3
+          electrolite     25 kg sxs          -              -         25         20          45
+                            Dosage of kg/M3                    1
+        Soda ash
+                     25 kg sxs          -              -         126         98          224
+                            Dosage of kg/M3                    0.5~0.6
+       Caustic soda
+                     25 kg sxs          -              -         95         73          168
+                            Dosage of ml/M3                   20
+         Biocide
+                     25 kg sxs          -              -         631        490         1121
+                            Dosage of kg/M3                    0.5~1
+         Lime
+                     25 kg sxs          -              -         126         98          224
+                            Dosage of kg/M3                    0.3~0.5
+         Citric acid
+                     25 kg sxs          -              -         38         29          67
+
+                                          Page 5 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:
+             AZNS-040 Drilling Waste Management Plan         Page 6 of 26  CCA/C/1401/27
+
+    4.2.  Cutting treatment
+
+4.2.1.Cutting removal process
+
+                                                           Mixing cuttings
+                                        Transfer solid                                     Transfer fixed
+               Solid and water                                  with cement
+                                      to fixation area                                       cuttings to
+                 discharge                                 and sodium
+                                    by loader                                          disposal
+                                                                                  silicate
+                                      Figure 4.2 _ Cutting management process.
+
+4.2.2.Estimated cutting volume
+
+   OBM mud is re-used in another location.
+
+                                         Table 4.5 _ Estimated cutting volume.
+                          unit                                                           Total
+        Hole Size         Inch         26          17.5         12.25           8.5                  -
+       Casing Size       Inch        18 5/8      13 3/8       9 5/8          7                   -
+         Depth         Meter        152        1492        3986         4200                 -
+         Interval        Meter        152        1340        2493         214                  -
+       Operating
+                          Day(s)         0          0          53           44            97
+        duration
+                                                                                              Salt
+                                                                         Salt saturated
+                                                                                         saturated
+     Mud system            -                 -                -        KCl, etc.                                  -                                                                          KCl, etc.
+                                                   mud
+                                                              mud
+     Mud weight     PCF               -                -          75-85       100-106               -
+        Theorical       M3                -                -          192           8            200
+       hole cuttings        bbl                -                -          1192          49           1242
+        Real hole       M3                -                -          664          26           690
+          cuttings          bbl                -                -          4114         163          4277
+        Real mud       M3                -                -          395          213           608
+            solid            bbl                -                -          2448         1321          3769
+                     M3                -                -          1058         239          1298
+        Total waste                              bbl                -                -          6562         1483          8045
+
+                                          Page 6 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:
+             AZNS-040 Drilling Waste Management Plan         Page 7 of 26  CCA/C/1401/27
+
+4.2.3.Estimated fixation volume
+
+                                     Table 4.6 _ 5.5.2. Estimated fixation volume.
+                          unit                                                            Total
+        Hole Size         Inch         26          17.5         12.25           8.5                  -
+       Casing Size       Inch        18 5/8      13 3/8       9 5/8          7                   -
+         Depth         Meter        152        1492        3986         4200                 -
+         Interval        Meter        152        1340        2493         214                  -
+       Operating
+                          Day(s)         0          0          53           44            97
+        duration
+                                                                                              Salt
+                                                                         Salt saturated
+                                                                                         saturated
+     Mud system            -                 -                -        KCl, etc.                                  -                                                                          KCl, etc.
+                                                   mud
+                                                              mud
+     Mud weight     PCF               -                -          75-85       100-106               -
+                     M3                -                -          1058         239          1298
+        Total waste                              bbl                -                -          6562         1483          8045
+                      Kg/M3        50         50          50                 -                    -
+       Cement                              bbl                -                -          1058         239          1298
+                      Kg/M3         3          3           3                  -
+            Silica                              bbl                -                -           15           3            18
+
+                                          Page 7 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 8 of 26CCA/C/1401/27
+
+  5.  Waste Management Equipment's
+
+   5.1.  Flocculation unit
+
+   This unit, has the bellow specifications:
+
+  .      Fully automated system,
+  .      Full 316 stainless steel material,
+  .     Eqipped with high pressure level and pH sensors,
+  .     Equipped with digital flow meter and totalizer to monitor flow rate, and
+  .     Touch panel technology to control prose.
+
+                                        Figure 5.1 _ Flocculation unit.
+
+                                        Page 8 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan         Page 9 of 26CCA/C/1401/27
+
+   5.2.  400bbl Dewatering unit
+
+   This tank provides more than 400 bbls capacity to store contaminated water for using in
+   dewatering process and ability to adding chemicals such lime from hopper. Two Mixer 25 hp
+   and Jet System give ability to holding any type of mud for hours without any stealing.
+
+                                             Figure 5.2 _ Conditional tank.
+
+   5.3.  400bbl Storage tank
+
+   Each tank provides more than 400 bbls capacity to store clear water for recycling.
+
+   5.4. High Performance Filter Unit
+
+    Filtration plays an important role in the natural treatment of waste water as it percolates through
+   the soil. It is also a major part of most water treatment. Groundwater that has been softened, or
+    treated through iron and manganese oxidation, requires filtration to remove floc created by
+   coagulation or oxidation processes. Since surface water is subject to run-off and does not
+   undergo natural filtration.
+
+     it must be filtered to remove particles and impurities. Filtration can be compared to a sieve or
+   micro- strainer that traps suspended material between the grains of filter media. However, since
+   most suspended particles can easily pass through the spaces between grains of the filter media,
+   straining  is the  least important process in  filtration.  Filtration primarily depends on a
+   combination of complex physical and chemical mechanisms, the most important being
+   adsorption. Adsorption is the process of particles sticking onto the surface of the individual
+    filter grains or onto the previously deposited materials. Forces that attract and hold particles to
+   the grains are the same as those that work in coagulation and flocculation. In fact, coagulation
+   and flocculation may occur in the filter bed, especially if coagulation and flocculation before
+    filtration was not properly controlled. Incomplete coagulation can cause serious problems in
+    filter operation.
+
+                                        Page 9 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan        Page 10 of 26CCA/C/1401/27
+
+                                     Figure 5.3 _ High Performance Filter Unit.
+
+   5.5.  Centrifugal pump
+
+   This pump can be utilized in different situation. 3 x 4 pump can be used for transferring
+   processed water back to rig water tanks for reuse.
+
+                                             Figure 5.4 _ Centrifugal pump.
+
+                                        Page 10 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan        Page 11 of 26CCA/C/1401/27
+
+   5.6.  Submersible pump
+
+   These pumps designed to clear and waste water from water pits and tanks to designated areas
+   or tanks. They are very easy to handle and can be very useful in case of transferring from
+   bottom of tanks or pits.
+
+                                            Figure 5.5 _ Submersible pump.
+
+   5.7. 200 bar wash down guns
+
+   These wash guns minimized water consumption and can be used on the shakers to unplug
+   screens or washing al the area on the rig from rig floor to mud pits.
+
+                                         Figure 5.6_ 200 bar wash down guns.
+
+                                        Page 11 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan        Page 12 of 26CCA/C/1401/27
+
+   5.8.  Fluid transfer diaphragm pump
+
+   This pump works with air pressure and has the responsibility of transferring mud and
+   contaminated water.
+
+   Three inches diaphragm pump transfers mud and waste from cellar to coral to keep cellar
+   empty.
+
+                                            Figure 5.7_ 3” Diaphragm pump.
+
+  Two inches diaphragm pumps transfer waste water and mud between different spots on
+    location. They also can be utilizing to transfer mud from mud tanks dead volume to treatment
+   tanks.
+
+                                             Figure 5.8_ Diaphragm pump
+
+                                        Page 12 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan        Page 13 of 26CCA/C/1401/27
+
+   These pumps designed to transfer clear and waste water from water pits and tanks to designated
+   areas or tanks. They are very easy to handle and can be very useful in case of transferring from
+   bottom of tanks or pits.
+
+   5.9. DWM laboratory cabin
+
+   Lab equipment for DWM is consisting of:
+
+  .      Retort kit,
+  .    API Filtrate test kit,
+  .      Testing reagents and equipment for Chloride, Calcium, Hardness and PH, and
+  .     Hatch Water Test kit
+
+                                          Figure 5.9_ Hatch Water Test kit
+
+   This kits analys all conserned parameters, including aluminum, iron, nitrat, nitrite, zinc,
+   phosphate, sulfate, sulfide, copper and cyanide concentration.
+
+   5.10. Storage container
+
+                                              Figure 5.10 _ Storage container.
+
+                                        Page 13 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:
+            AZNS-040 Drilling Waste Management Plan        Page 14 of 26CCA/C/1401/27
+
+   5.11. Loader
+
+                                                  Figure 5.11 _ Loader.
+
+                                        Page 14 of 21

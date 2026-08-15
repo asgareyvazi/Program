@@ -1,0 +1,370 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 7 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+Drillers Method Procedure
+
+1.0   Purpose
+1.1   Scope
+1.2   Conditions
+1.3   Procedure - First circulation
+1.4   Procedure - Second circulation
+1.5   Responsibilities
+1.6   Calculations
+
+
+
+1.0 Purpose
+
+    To establish the procedure to be used to kill a well using the "Drillers" method.
+
+
+1.1 Scope
+
+      All drilling units with surface installed BOP stack.
+
+
+1.2 Conditions
+
+     Well shut-in.
+
+     Manifold and BOP lined up to direct returns through remote choke and mud gas
+      separator.
+
+    SIDPP and SICP stabilised.
+
+
+1.3 Procedure - First circulation
+
+
+1.3.1  Calculate Initial Circulating Pressure (ICP).
+
+
+1.3.2  Once calculations have been made and operations discussed, open valve
+       upstream of choke, zero pump stroke counters. Ensure good communication
+      between choke operator, pump operator and personnel in pit room.
+
+       All events and pressures should be recorded on the Well Control Report.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 1
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 7 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.3.3  Bring pump to speed, opening choke, holding casing pressure constant.
+
+
+1.3.4  Once kill rate is established record actual ICP. If similar to calculated,
+       continue according to schedule.
+
+         If significantly different, stop pumping, shut in and investigate. It may be
+       necessary to recalculate using actual ICP.
+
+
+1.3.5  Hold drillpipe pressure at ICP until influx is circulated out and returns are
+       clean mud.
+
+
+1.3.6  Shut down pump, closing choke, holding casing pressure constant. Observe
+        pressures.
+
+      SIDPP should be the same as the original SIDPP.
+
+      SICP should be the same as SIDPP.
+
+
+
+1.4 Procedure - Second circulation
+
+      Steps 1.4.1 to 1.4.5 should be carried out at the same time as the first
+      circulation.
+
+
+1.4.1  Calculate kill mud weight. Round up to nearest 0.1 ppg.
+
+    DO NOT INCLUDE ANY EXTRA FOR TRIP MARGIN ETC.
+
+       Prepare kill mud in active system.
+
+
+1.4.2  Calculate Initial Circulating Pressure (ICP).
+
+
+1.4.3  Calculate Final Circulating pressure (FCP).
+
+
+1.4.4  Complete kill sheet and step down schedule and graph.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 2
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 7 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.4.5  Raise mud weight to kill mud weight.
+
+1.4.6  Once kill sheet completed and mud weight has been raised to kill weight, open
+       valve upstream of choke, zero pump stroke counters. Ensure good
+      communication between choke operator, pump operator and personnel in pits
+      and pump room.
+
+       All events and pressures should be recorded on the Well Control Report.
+
+
+1.4.7  Bring the pump to kill speed, opening choke, holding casing pressure constant.
+
+
+1.4.8  Once kill rate is established record actual Initial Circulating pressure (ICP).  If
+        similar to calculated ICP continue according to schedule.
+
+         If significantly different, stop pumping, shut in and investigate. It may be
+       necessary to recalculate kill sheet using actual ICP.
+
+
+
+1.4.9  Hold drillpipe pressure at ICP until kill mud has reached the rig floor, reset
+     pump stroke counters
+
+
+1.4.10 Follow step down schedule allowing drillpipe pressure to drop from ICP to
+      FCP. Alternatively hold casing pressure constant as kill mud is pumped down
+       the string.
+
+1.4.11 Once kill mud enters the annulus , hold FCP constant.
+
+
+1.4.12 Once returns are uncontaminated kill mud. The well will be shut in and
+       pressures observed.
+
+      SIDPP should be zero.
+
+      SICP should be zero.
+
+
+1.4.13  If pressures are zero, flow check well through choke prior to opening BOP.
+
+         If pressures are not zero this should be investigated and an additional plan
+       formulated.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 3
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 7 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.5 Responsibilities
+
+
+1.5.1 Rig Superintendent
+
+       Overall responsibility for installation.
+
+       Ensures operations are planned and executed with the highest regard for the
+        safety of personnel, the installation and the environment.
+
+       Ensures those persons with a well control function are competent to fulfil that
+       function and are aware of the responsibilities.
+
+      During well killing operations, ensures communications with Rig Manager,
+       Operator and around installation are maintained.
+
+
+1.5.2 Toolpusher
+
+       In direct charge of the kill operation.
+
+       Ensures the personnel involved are competent, organised and prepared.
+
+          It is the Toolpushers responsibility, in consultation with the Operators
+       Representative if possible, to advise the Rig Superintendent on the appropriate
+       procedures to be used.
+
+      The Toolpusher will decide on and check the final kill sheet to be used.
+
+      The Toolpusher, or his designate, will operate the choke during well control
+       operations.
+
+
+1.5.3  Driller
+
+      Once the well is shut in, the Driller is responsible for monitoring pressure and
+       maintaining constant bottom hole pressure until ready to kill the well.
+
+      During the kill operation, the Driller operates the pump, also monitoring and
+       recording strokes, pressures and pit volumes.
+
+
+1.5.4  Assistant Driller
+
+      During well control operations provides a direct link between operations on
+       the drill floor and the pitroom/pumproom.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 4
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 7 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.5.5 Derrickman
+
+       In mud pits having lined up mud gas separator, and mixing pumps.
+
+      Mixes up kill mud.
+
+       Ensures constant check on mud weight.
+
+
+1.5.6 Mudman/Pumpman
+
+      Looks after pumps.
+
+
+1.5.7 Floorhands
+
+     On drill floor.
+
+
+1.5.8 Mechanic and Electrician
+
+      Standby for instructions.
+
+
+1.5.9 Company Representative
+
+       Provides Rig Superintendent and Toolpusher with detailed or specialist
+      knowledge of area and down hole conditions.
+
+      Would normally be at choke control panel to discuss operations with
+       Toolpusher.
+
+
+1.5.10 Mud Engineer
+
+       In mud pits to check Assistant Driller and Derrickmans preparations.
+
+       Assist in mud mixing and maintenance of same.
+
+
+1.5.11 Cementer
+
+      At cement unit.
+
+       Line up unit and standby.
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 5
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 7 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.5.12 Roustabouts
+
+       In mud pump room or other designated areas.
+
+
+
+
+
+1.6 Calculations
+
+
+1.6.1  Kill Mud Weight (KMW)
+
+          KMW = (SIDPP  TVD  0.052) + OMW
+
+KMW =      Kill mud weight             (ppg)
+OMW =      Original mud weight        (ppg)
+SIDPP =     Shut in drillpipe pressure     (psi)
+TVD  =      Total Vertical depth           (feet)
+
+
+
+1.6.2  Initial Circulating Pressure (ICP)
+
+                         ICP = SCRP + SIDPP
+
+ICP   =       Initial circulating pressure    (psi)
+SCRP =     Slow circulating rate pressure (psi)
+
+
+
+1.6.3  Final Circulating Pressure (FCP)
+
+                      FCP = SCRP x KMW
+                      OMW
+
+
+
+1.6.4 Surface To Bit Strokes
+
+                      Strokes = DSVolume  Pump Output
+
+DSVolume   =      Drillstring volume    (bbls)
+Pump output  =      bbl/stroke
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 6
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 7 ]
+────────────────────────────────────────────
+                                 Well Control Procedure
+
+
+1.6.5 Pressure drop per 100 strokes as kill mud pumped to bit (From
+     ICP to FCP)
+
+              Drop per 100 strokes =     ICP - FCP    x 100
+                                     Surface - bit strokes
+
+
+
+
+
+DART/Rev 0/JLP/DAP                                                 7
+
+

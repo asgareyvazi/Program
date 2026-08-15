@@ -1,0 +1,435 @@
+# SOURCE: Azar-05 operation procedure (1st.May).docx
+
+📄 فایل 82 از 214  |  Azar-05 operation procedure (1st.May).docx
+
+# Technical Well Testing Procedure
+Well No.Azr-05
+Prepared by：
+Checked by：
+Approved by：
+2015-05-03
+CONTENT
+Technical Well Testing Procedure	0
+1.	General Information	2
+1.1	Basic Information of the Well	2
+1.2	Basic Data of the Casing and Tubing String	2
+1.3	Reservoir Properties	2
+1.4	Well test Interval information	3
+1.5	Stimulation Objectives	3
+1.6	Challenge and Strategy	3
+2.	Well Testing And Acidizing General Program:	4
+2.1	The design of well flow or shut-in time (adjust according to real conditions)	4
+2.2	DST diagram design and calculations	5
+2.3	Pressure gauge selection and setting	6
+2.4	Surface Well Testing Layout	7
+2.5	Matrix Acidizing service	8
+3.	Well Testing Procedure	8
+3.1	Well Test Equipment	8
+3.1.1	SWT Tools	8
+3.1.2	DST Tools	9
+3.1.3	STAN Gauges	9
+3.1.4	General Pressure Testing	10
+3.1.5	Data Gathering	10
+3.2	PREPARATION OF DRILLING	11
+3.3	Well Scraping	12
+3.4	FB.DST Tools RIH	12
+3.5	Setting Packer & Testing Surface Lines	14
+3.6	Opening Tester Valve	14
+3.7	Initial Clean up	15
+3.8	Flow Test and Initial Build up	16
+3.9	Acidizing Operation	16
+3.10	Post Acidizing Clean Up	16
+3.11	Main Flow and Final Build Up	16
+3.12	Down Hole Sampling	17
+3.13	Killing Well and POOH	18
+4	Hazard Analysis and Precaution Measures	19
+4.1	Hazard Analysis	19
+5	Responsibilities of Well Test Supervisor/Engineer	21
+6	Health, Safety and Environment (HSE)	22
+6.1	Safety Equipment Requirement	22
+6.2	Sulfurate Hydrogen (H2S)	22
+6.3	OTS WELLTESTING H2S EMERGENCY PLAN	23
+6.4	Emergency Response Plan	24
+6.5	Emergence exit way	26
+6.6	Fire emergency response procedure	27
+6.7	First Aid	28
+6.8	Waste Management	28
+
+# General Information
+Basic Information of the Well
+Table 1-1 Basic information for well
+
+## Basic Data of the Casing and Tubing String
+Table 1-2   Basic data for casing string
+
+## Reservoir Properties
+Reservoir Lithology
+Ilam Formation comprises of buff, yellowish grey, pale yellowish brown and light olive grey micritic, argillaceous, glauconitic and locally pyretic limestone interceded with dark. Green grey, dark brown to dark grey marl and clay stone in upper part. Buff, cream to very light grey clean, moderate hard limestone in lower part. Presence of micro pyrite as lamination/ nodule/pellet/aggregate in olive grey to pale grey limestone reported (about5 to 10m below the top of Ilam Formation) could be consider as a key bed. Ilam Formation contains both pelagic and neritic faces.
+Reservoir Temperature and Pressure
+Reservoir Temperature: 107ºC@ 4025mMSL (Highest recorded Temp. from well test)
+Reservoir Pressure: 8754 psi@4025mMSL
+Bubble Point Pressure: N/A
+
+## Well test Interval information
+The target: Ilam formation and test interval as follows：
+Table 1-3 formation data
+
+## Stimulation Objectives
+Stimulation of reservoir by raising formation permeability and relieving formation damage.
+Focusing on obtaining commercial production rate.
+Learning of Acid Stimulation experience for other well’s job.
+
+## Challenge and Strategy
+Because of the peculiar formation and well conditions, the Challenges of Acidizing Stimulation are presented as following:
+Micro-fractures and wormholes are very important to produce oil in the carbonate reservoir. The reservoir is strong heterogeneity along the interval and how to stimulate the zone with lower permeability is a huge challenge. Composite diverting technologies will be tempered
+The pump rates and volumes required to achieve a reasonable penetration in these thick treatment intervals shall be high.
+Low-friction and retarded acid required to reduce well head pressure and protect string and other equipment and the low corrosion for acid to iron are real challenges.
+
+# Well Testing And Acidizing General Program:
+The design of well flow or shut-in time (adjust according to real conditions)
+Table 2-1
+DST diagram design and calculations
+Note: The real packer setting depth may be changed according to the real length of tubing in well site.
+Pressure gauge selection and setting
+Under condition of no larger than the Working Pressure and Working Temperature of pressure gauge the predicted highest and lowest pressure should be within the test range of gauge specification to ensure the test error is under allowable limit.
+Table 2-2
+Surface Well Testing Layout
+Matrix Acidizing service
+Refer to the document WELL AZAR-05STIMULATION PROGRAM.
+
+# Well Testing Procedure
+3.1	Well Test Equipment
+SWT Tools
+1. Well Test Supervisor (SDSK) & Well Test Crew Chief (OTS) to conduct a pre job safety briefing with all personnel involved in the operations. This briefing will follow an agreed agenda and will detail roles and responsibilities of all personnel concerned. Minutes of this briefing to be submitted with the daily report.
+2. Layout the surface well testing equipment as per the layout schematic.
+3. Rig up and function test
+4. Ensure that all the drilling rig fire- fighting facilities are functional.
+5. Pressure test equipment as follows:
+Pump unit and kill line to rig floor 500/5000 psi
+Surface Test Tree 500/6500 psi
+Kill line against kill valve 500/5000 psi
+Choke manifold and flow line 500/5000 psi
+Choke manifold (all valves) 500/5000 psi
+Choke manifold to separator 500/1000 psi
+Separator body 500/1000 psi
+Separator outlet 500/1000 psi
+Diverter manifold 500/1000 psi
+Oil / Gas lines to Burner pit
+6. All pressure tests (unless specified) are for 10 minutes (max declined of 3%) with water and must be digital or chart recorded.
+7. Function test all systems and ancillary equipment: ESD remote switches, separator level and back pressure controllers, tank level indicators and oil transfer pump.
+8. Function and test all flow meter runs with water
+9. Check calibration of the differential flow recorder, wellhead pressure and temperature recorder. (Dead Weight Tester will be necessary for  calibrate checking)
+10. Confirm sufficient hydrometers, centrifuge tubes, pressure gauges, needle valves, charts and thermometers are available on location.
+11. Check condition of all generators, compressors and engines and ensure arrangements are in place for regular refueling.
+12. Ensure chemical injection pumps are available for injection, if required.
+13. Erect chain or tape boundary around the flow lines and process equipment.
+DST Tools
+1. DST string diagrams issued in the diagram, showing all equipment and tools to be picked up and RIH.
+2. All downhole equipment is to be pressure tested as required to 7500 psig test recorded and function tested as per standard contractor procedures. All tests to be recorded on charts.
+3. All downhole equipment is to be drifted to 2.125” correctly torqued and schematics made up.
+4. Each equipment item is to be accurately measured, i.e. ID (in), OD (in), and length (m).
+5. Make sure that all components can be fished.
+6. OTS Test Supervisor will verify all tools and rupture disc calculations, providing a calculation sheet to Test Engineer.
+7. Installing any rupture disk to DST tools must be witnessed by Test engineer.
+8. Ensure a full suite of back-up tools are on-location and fully operational.
+9. Ensure any crossovers are also measured and drifted.
+10. Adhere to the rig's permit to work system.
+STAN Gauges
+1. Install, function test and calibrate all STAN sensors.
+2. Check Downhole Memory Gauges and batteries (life) by running function test in the bundle carrier to 2 selected pressures (high and low). Download data from the gauges and check the integrity.
+3. When starting the gauge clock, The Test Engineer shall witness that those synchronize with
+STAN Lab.
+General Pressure Testing
+1. The surface and downhole testing equipment should all be inspected, pressure tested, and function tested while the rig is performing other work. When the DST assembly is run, all testing should be completed. The only test remaining should be the flow line from the Flow head to the choke manifold.
+2. All personnel not directly involved with the pressure test should be kept at a safe distance from the test areas. They will observe all restricted access marked by barriers and be warned that testing is in progress.
+3. A ‘Work Permit’ is required before any pressure testing can commence. This also requires a P.A. announcement.
+4. All pressure tests are to be recorded on a chart recorder, witnessed by test Engineer.
+5. All pressure tests will be carried out with drill water (preferable) utilizing the Cement unit or test pump.
+6. Fluid returns are to be taken back to the cement unit when bleeding off pressure on the completion of any tests unless a check valve has been included in the kill line. In this case bleed off will be through the choke.
+7. All vessels, pipelines and equipment which may be pressurized during the course of the test, should be pressure tested to their respective rated working pressure, if practical.
+8. All ESD relief valves should be isolated, wherever possible, prior to testing.
+9. Pressure testing from the Flow head to the choke manifold, or any other connection that has been broken, should be repeated before each test.
+10. All fittings (needle valves, pressure gauges etc.) should be installed prior to pressure testing.
+11. Ensure the gas vent line from the surge tank is rigged up and SDSK responsible to prepared about 100m line to vent gas far from the location.
+Data Gathering
+During the flow periods the following data will be recorded every fifteen minutes unless otherwise specified:
+FWHP
+FWHT
+Annulus pressures
+Separator pressure and temperature
+Oil API gravity and SG samples hourly
+Samples of oil & gas shall be checked for H2S and CO2– 30 minutes during clean up and every one hour during main flow.
+Record the specific gravity of the gas, oil and water every 1hour–
+BS&W samples (upstream and downstream of separator): constant samples – 30 mins
+Combined meter correction factor:
+Take 4 meter correction readings from the surge tank during the main flow – the final reading will be near the end of the flow period. Ensure tank pressure is reduced to atmospheric when taking final tank reading. All events which will / may cause a change in the BHP gauge readings MUST be detailed and timed in the test reports. Also, WHP is required to be recorded every 10 sec, and be submitted in a text file.
+PREPARATION OF DRILLING
+1. Well drift and flush
+According to the casing minimum ID run standard scraper drift to the bottom of 7" Liner. The diameter OD of scraper should be 6-8 mm smaller than casing ID with effective length of 0.5-1m and no taper permitted of the lower side. The scraper should be used if there is thick oil or slurry on the well wall side and repeatedly at the place where plug indicated. Circulate well until there are same properties performance between the inlet and outlet drilling or killing fluid, make sure that the well bore is clean with no debris, sundries and sedimentation.
+2. Pressure test drilling BOP. The test pressure should be the maximum working pressure with 15 minutes.
+3. Check the lengths, ID, OD and threads of all the RIH tubing, drill collar, tubing and crossover, make sure all the tools are correct.
+4.  Check the hoisting equipment makes sure it is in good working condition.
+5.  Adjust weight indicator to be sensitive, correct and reliable.
+6. Get elevator, slip, safety slips, lifting sub, sling, thread grease or sealant are ready.
+7.  Prepare backup well killing fluid no less than 2 times of well capacity with density no less than the one when opening pay zone.
+8.  Prepare 2 times killing mud of case capacity.
+9. Make sure there is a 10k psi pressure pump truck stay at well site during well testing.
+10. Make sure there is one ambulance and two fire engine stay at well site during well testing and in good condition.
+Well Scraping
+1.  Make-up BHA according to the Rig representative.
+2. Scrape the inside of casing up and down at the depth of packer setting. .
+3.  POOH string.
+FB.DST Tools RIH
+1. Pressure test DRLG B.O.P. and choke manifold according to regulations.
+2. Pick up RTTS Packer, BIG JOHN JARS, HYDRAULIC BY PASS, Safety Joint, Hydraulic Jar and the Pipe Tester Valve (in closed position)
+3. Pick up and install Gauge Carrier c/w 4 x memory gauges (3 for tubing and 1 for annulus).
+4. Pick up and install RD (Operated Dual valve) – Tester Valve open, Circulating Valve closed – rupture disc typically set at 2,400 psi (Estimated) applied pressure at surface.
+5. Pick up and install 1 stand of 4 ¾” drill collars.
+6. Pick up and install the RD Reverse Valve (RD CIR.VALVE), rupture disc setting typically 2900psi (Estimated) applied pressure at surface.
+7. Pick up and install 6 stands of 4 ¾” drill collars (OTS DST specialist to confirm actual requirements).
+8. Pick up and install 2 Slip Joints (OTS DST specialist to confirm actual requirements). Position of slip joints – one in the open position and one in the closed position when the packer is set.
+9. Verify the need to install a Crossover from top of slip joint to tubing.
+10. Fill string with Diesel and install test sub to top of string.
+11. Pressure test the bottom hole assembly with5000 psi when DST tools, drill collars, and one single 3-1/2” PH-6 tubing are in the hole.
+1)  Make up the surface lines from cement unit (use 10k psi rated Chick sans) and Pressure test surface lines against low torque valve to 500 psi / 5 min and, increasing by steps, reach 6,500 psi/ 10min. When the test is good, bleed off pressure to “0” psi.
+2)  Pressure test string against the Tester Valve (TV) to 500 psi / 5 min and, increasing by steps, reach 5,000 psi / 10min. When the test is good, bleed off pressure to “0” psi.
+12. RIH DST string less than 0.5m/s
+13. Full fill cushion to tubing after each 5 stands for 15 – 20 min with normal rate.
+14. RIH 3 1/2” PH-6 tubing, fill them with diesel and pressure test 6000 psi when Ran in hole in half way.
+1)  Make up the surface lines from cement unit (use 10k psi rated Chicksans) and Pressure test surface lines against low torque valve to 500 psi / 5 min and, increasing by steps, reach 6,500 psi/ 10min. When the test is good, bleed off pressure to “0” psi.
+2)  Pressure test string against the Tester Valve (TV) to 500 psi / 5 min and, increasing by steps, reach 6,000 psi / 10min. When the test is good, bleed off pressure to “0” psi.
+15. Pressure test with 7000 psi after RIH all singles of tubing.
+1)  Make up the surface lines from cement unit (use 10k psi rated Chicksans) and Pressure test surface lines against low torque valve to 500 psi / 5 min and, increasing by steps, reach 7,500 psi/ 10min. When the test is good, bleed off pressure to “0” psi.
+2)  Pressure test string against the Tester Valve (TV) to 500 psi / 5 min and, increasing by steps, reach 7,000 psi / 10min. When the test is good, bleed off pressure to “0” psi.
+16. Pick up and make up Flow-head assembly.
+17. Make up the surface lines from Pump unit to kill side of the flow-head.
+18. Pressure test the testing string and Flowhead with 7000psi.
+Note: Ensure annulus is open to avoid applying pressure to casing in the event of a leak.
+1) Fill up string (keep swab valve open) with drill water until get water out of swab valve. Then close low torque valve of Pump Unit line.
+2) Pressure test surface lines against low torque valve to 500 psi / 5 min and, increasing by steps, reach 7,500 psi / 10min. When the test is good, bleed off pressure to “0” psi.
+3) Pressure test string against the Tester Valve (TV) to 500 psi / 5 min and, increasing by steps, reach 7,000 psi / 10min. When the test is good, bleed off pressure to “0” psi.
+4) Close kill line valve and disconnected cement line.
+Setting Packer & Testing Surface Lines
+1. The packer setting depth must be clearly selected with CCL results. Make sure packer be set out of casing collar joints.
+2. Well Test supervisor and Test engineer will come to conclusion for packer setting depth.
+3. Valve Status:
+RD – circulating valve closed
+TV – Tester valve in closed position
+4. Prepare the rig floor for setting packer.
+5. Lift string as per OTS DST Specialist requirements. Record up string weight.
+6. RIH with string to packer setting depth. Record downward string weight & zero weight indicator.
+7. Pick up the string to place the Packer on depth.
+8. Rotate string to the right via rotary table or top drive as per OTS DST Specialist requirements. (¼turn at the packer depth–approximately 1 turn per 1,000 m)
+9. Slack off to set packer. Observe weight loss.
+10. Set string on slips to BOP rams & close the lower pipe Ram.
+11. Connect flow wing valve with Coflexip Hose to choke manifold.
+12. Line up rig pump to Kill line &pressurize annulus to 500(Estimated) psi. Hold pressure for 15 minutes and observe for packer integrity. Bleed off to 0 psi.
+13. Perform surface line pressure as per Surface Testing supervisor requirement. Open the choke manifold and bleed off pressure to 0 psi.
+Notes: Surface Acquisition System should monitor and record the annulus pressure for 15 minutes (packer integrity test)
+Opening Tester Valve
+1. Hold safety Meeting with all personnel involved in this operations prior to commencement of operation.
+2. Valve Status:
+TV – closed
+Flow-head flow wing and master valve – opened
+Flow-head swab valve and kill wing - closed
+Choke manifold – closed
+3. Check annulus pressure by reading pressure gauges in drillers console, gauge on rig choke and the Surface Acquisition System sensor.
+4. Line up rig pump to Kill line &pressurize annulus to 1600psi (Estimated) psi to open Tester Valve.
+5. Maintain required tester valve operating pressure (1600psi to 1800psi) in the annulus at all times while flowing the well (except for any intra tubing operation while flowing by Wire line, Slick line or coiled tubing when the correct pressure will be stated by DST supervisor).
+Initial Clean up
+1. Carry out H2S emergency drill and hold pre-test safety meeting.
+2. Double check all valve status of choke manifold downstream by well test engineer and operator.
+3. Make fire at the flare pit.
+4. Open OTS choke manifold slowly on adjustable choke and flow-back the well via the surge tank to the flare pit, by-passing the test separator.
+5. Double check all valve status of choke manifold downstream by well test engineer and operator
+6. Open choke manifold slowly on adjustable choke and flow-back the well via the surge tank to the flare pit, by-passing the test separator
+7. Measure the flow back fluid volume include water, oil, gas etc.
+8. Gradually increase adjustable choke size as per directed by the Well Test Engineer.
+9. Once first hydrocarbons reach surface, collect reservoir fluids sample from the needle valve of data head, CO2 and H2S  tube measurements must be made immediately and repeated every 1/2 hours until the well is stabilized on a fixed choke size and then at 3 hours intervals.
+Note: All personnel involved in the H2S measurements must wear breathing apparatus.
+10. Once reasonable stable flow has been achieved.  Monitor FTHP, BS&W, PH and water salinity to monitor the well clean-up progress.
+11. Once sediment below approx.5%, Acid wash will be operated.
+Note: If the well has no flow , gasoil cushion will be injected into formation(injection Test)and well acidizing will be performed. If no injection into formation, Acid spot will be performed by coil tubing.
+Flow Test and Initial Build up
+1. Once the clean-up finish, then switch flow from 48/64" adjustable choke to 48/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and PH of any produced water if needed.
+2. Once sediment below approx.0.5%, divert flow through the test separator. Send produced gas to flare in pit, water to the waste pit and oil to the storage tanks or to flare in pit
+3. Establish stable flow conditions and produce well at constant flow rate through the separator. The Well Test Engineer will determine the duration of the flow period. Duration of 10 hours is expected.
+4. The choke sizes for the multi-rate test will be selected based on the results of the clean-up flow period. The choke sizes given in this program can therefore change accordingly.
+5. Shut down well from choke manifold for initial build up24 hours.
+Note: Carefully monitor for evidence of sand at surfaces.
+Acidizing Operation
+Refer to the document WELL AZR-05 STIMULATION PROGRAM.
+Post Acidizing Clean Up
+1. Open choke manifold slowly on adjustable choke and flow-back the well via the surge tank to the flare pit, by-passing the test separator
+2. If the well can’t flow out ,CTU will be used for lifting(See the acidizing design).
+3. Measure the flow back fluid volume include water, oil, gas etc.
+4. Gradually increase adjustable choke size as per directed by the Well Test Engineer.
+5. Once first hydrocarbons reach surface, collect reservoir fluids sample from the needle valve of data head, CO2 and H2S  tube measurements must be made immediately and repeated every 1 hours until the well is stabilized on a fixed choke size and then at 3 hours intervals.
+Note: 1. all personnel involved in the H2S measurements must wear breathing apparatus!
+2. CTU and nitrogen lifting operation may be used in real operation, but they are not inside working scope of OTS contract, they should be supplied by SDSK.
+Main Flow and Final Build Up
+1. Once the clean-up finished, gradually increase adjustable choke to 32/64″.
+2. Switch flow from 32/64" adjustable choke to 32/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and PH of any produced water if needed.
+3. Establish stable separator conditions and continue to flow at this rate for approximately 12 hours (duration to be determined by the Well Test Engineer depending on well behavior.
+4. Measure the stable flow rate of 32/64″choke size.
+5. Then repeat the same step for 40/64" and 48/64" choke size.
+6. Final build up48 hours by shutting down LPR-N tester valve.
+7. One surface PVT gas samples with volume of 20 liter will be taken.
+8. One surface PVT oil samples with volume of 600cc will be taken.
+9. Throughout main flow, measure and record the following at regular intervals. Surface data acquisition will be used to monitor some of these items simultaneously.
+Flowing tubing pressure and temperature.
+Separator pressure and temperature
+BS&W
+Oil and gas rates and calculated gas-oil ratio (verify orifice plate used).
+Oil and gas gravities.
+Gas CO2 and H2S.
+10. As required, divert separator oil line output to surge tank for stock tank oil rate measurement and establishment of combined shrinkage/meter factor.
+Note: Carefully monitor for evidence of sand at surfaces.
+11. Bleed off annulus pressure to shut-in the well for main pressure build up for 48 hours.
+12. Close choke manifold. And observe 30 minute and check any leakage from Tester valve.
+Down Hole Sampling
+The primary means of obtaining bottom-hole samples will be from the sampling tools run on Slick-line.
+Killing Well and POOH
+1. Hold safety Meeting with all personnel involved in this operation prior to commencement of well kill operations
+2. Fill up string with Mud fluids from flow head kill line.
+3. Under the instruction of the DST supervisor, pump annulus pressures up to open RD safety          cir. valve to make reverse circulation and displace the well with mud system.
+Note: Tester valve is still closed at this point
+4. Open OTS adjustable choke manifold to start reverse circulation to burner line.
+5. With the Rig pump commence reverse circulation 94PCF Mud fluid via the annulus through the DST string to the choke manifold and the Burner Line. (Gradually increase the opening of the adjustable choke)
+6. Reverse circulates at a maximum rate of 3 BPM or 800 psi rig pump pressure via the RD safety circulation valve. Continue to reverse until clean brine is observed at burner Pit.
+7.  Observe well static for 30 min. If well is static, disconnect Coflexip hose from Flowhead flow wing valve.
+8. Observe annulus pressure and make sure that it is zero before opening Lower rams.
+9. Pick string up as per DST supervisor instruction and unseat packer..
+10. Continue to POOH with test-string and BHA.
+11. Lay down and break all DST assemblies as required upon recovery at surface.
+
+# Hazard Analysis and Precaution Measures
+Hazard Analysis
+
+# Responsibilities of Well Test Supervisor/Engineer
+Act as technical liaison to the drilling/completion supervisor.
+Liaise between drilling/ completion supervisor & service companies
+Direct supervision of service companies in preparation and execution of the test ensuring that service company equipment is available when needed, is fit for purpose, and that service company personnel are available when needed.
+Review test procedures with test personnel to commencing the test
+Co-ordinate collection of fluid samples in co-operation with well test supervisor
+Monitor testing operation and test data.
+The Well Test Supervisor is responsible for the safe and efficient operation of the well test operations. He coordinates and communicates with the CSS (company Site Supervisor) on all operational and safety matters. He shall comply and adhere to all safety policies and procedures. He will ensure that all work is carried out under the installation permit to work system. It is his responsibility to ensure that the function and operation of the ESD safety system has been communicated to all relevant personnel. His line of safety responsibility is to the CSS.
+
+# Health, Safety and Environment (HSE)
+Safety Equipment Requirement
+Safety around the surface equipment should be provided by an ESD system with 4 shut-down stations located on the rig floor, at the choke manifold and in front of the office block.
+H2S monitoring system and H2S gas detector of H2S control & services contractor will be re-checked by H2S services engineer before firing gun and clean up.
+Portable foam extinguishers will be available in the vicinity of the wellhead, choke manifold, and designated safe area(s).
+Well test team and operation personnel require equip with H2S personnel protection equipment, include SCBA, Portable H2S gas detector, etc.
+All appropriate fighting equipment should be checked and ready for emergency use.
+All vent lines from stored produced fluid vessels must be vented to the flare pit. These lines shall be checked and verified open.
+The main flare pit shall be 300m away from well center and rigged up with the required number and length of flare lines for testing. All flare lines shall be properly secured.
+Sulfurate Hydrogen (H2S)
+H2S levels will be monitored cleanup & well testing during. Low levels of H2S (<20ppm) may be encountered.
+BA systems will be available during testing in the following locations: wellhead, choke manifold, and designated safe area(s). Samples should be taken and checked for H2S as soon as gas & fluids are produced at surface and at regular intervals during the testing.
+A H2S leakage, emergency muster and protection drill with each crew shall be conducted prior to any testing.
+All breathing apparatus shall be inspected and ready for emergency use. All concerned personnel on location during testing shall have H2S and SCBA training with certification.
+OTS WELLTESTING H2S EMERGENCY PLAN
+NOTE: When the well blows out and is out of control, the rig emergency plan should be taken.
+Emergency Response Plan
+Personnel duty of OTS well testing crew in well Azar-5
+NOTE:
+When the emergency situation happens, the first duty personnel should take action, if that time the first duty personnel is not available, the second personnel should take action. Others should escape to muster point immediately.
+When the emergency situation happens and someone injures, the rescuers should take action to help him out of dangerous area, others should escape to muster point immediately.
+Emergency exit way
+Fire emergency response procedure
+First Aid
+The following first aid procedure applies to all H2S victims:
+remove the victim to fresh air, upwind or crosswind from the suspected leak source
+isolate the leak/source if possible
+commence artificial respiration and/or administer oxygen as required
+summon qualified medical assistance
+keep patient quiet, comfortable and warm
+if eyes are affected, wash thoroughly with water for 15 minutes – ice compresses may also be applied
+Patients must be kept under medical observation until they are declared fit to return to work or they are evacuated. The possibility of delayed pulmonary oedema up to 24 hours after exposure to H2S should not be overlooked.
+Waste Management
+To protect the environment, it is required to process, treat and dispose the generated waste due to completion & well test period according to project waste management policy, and minimized harm to the environment or eliminated.
+
+[جدول 1]
+Company/State | SDSK | Field | Azar
+Well Location | E:607030m,N:3652670m | Rig name/ Type | O3
+Ground Elevation | 85.5m | Spud Date | 1392/5/3
+KB Elevation | 96m | Deviation angle | N/A
+Total Depth (TVDSS) | 3942m | Bottom hole displacement | N/A
+Total Depth (TVDRT) (Project) | N/A | Target Interval | 3920-3924MD 3965-3968MD 3976-3985MD 3987-3992MD 4000-4003MD
+
+[جدول 2]
+Size (in) | PPF | Grade | MW (pcf) | Depth
+Size (in) | PPF | Grade | MW (pcf) | From | To
+30 | 234.3 | X-52 | 67 | 0 | 150
+18 5/8 | 114&136&169 | K-55 &P-110 | 87 | 0 | 2030
+13 3/8 | 72&88.2&114 | N-80&Q-125 | 147 | 0 | 2756
+11-3/4 | 78.8 | Q-125 | 90 | 2676 | 3010
+9 5/8 | 43.5&53.5&58.4 | N-80&P-110&Q-125 | 132 | 0 | 3510
+7 | 29 | Q-125 | 105 | 3390 | 3836
+7 | 29 | 13%Cr | 105 | 3836 | 4036
+
+[جدول 3]
+No | Formation | Interval (m) | Gross Thickness(m) | Permeability (md) | Porosity (%)
+1 | Ilam | 3920-3924（estimated） 3965-3968（estimated） 3976-3985（estimated） 3987-3992（estimated） 4000-4003（estimated） | 24 | 15 | 9
+
+[جدول 4]
+Item | Well flow or shut-in | choke，1/64″ | Duration hour | Remarks
+1 | RIH DST tools | - | 40 | 
+2 | Initial clean up | 16-48 | 8 | 
+3 | Flow | 48 | 12 | Surface sampling
+4 | Initial shut-in | - | 24 | Shut-in@ choke manifold
+5 | Matrix acidizing | - | 12 | 
+6 | Post acid clean up | 16-48 | 8 | 
+7 | Main  flow | 32 | 10 | 
+8 | Main  flow | 40 | 10 | 
+9 | Main  flow | 48 | 10 | Surface sampling
+10 | Main shut-in | - | 48 | Shut-in@ bottom hole
+11 | Downhole sampling | 10 | 12 | 
+12 | Killing well ,POOH | - | 45 | 
+
+[جدول 5]
+S/N | Type | Specification | Range | Clock or sampling rate
+ | MRO | DDI 20K-177 | Max.Cal.20kpsi， 177℃ | 5s/point for 720 hours
+ | MRO | DDI 20K-177 | Max.Cal.20kpsi， 177℃ | 5s/point for 720 hours
+ | MRO | DDI 20K-177 | Max.Cal.20kpsi， 177℃ | 5s/point for 720 hours
+ | MRO | DDI 20K-177 | Max.Cal.20kpsi， 177℃ | 5s/point for 720 hours
+
+[جدول 6]
+No. | ITEM /ACTIVITY | Hazard /Issue | Consequence | Barriers/Controls | Comments /Reference | Additional/Recommendation /Action
+1 | Equipment Handling/Lifting | Dropping Equipment & moving objects | Damage to people and equipment | Enforcement of lifting procedures close-off area, stay clear, | Only trained personnel to perform certain jobs | Refer to OTS testing procedure
+ |  | Slings | As above | Only use proper slings | Stay clear | Check certificate
+2 | Pressure Testing | Surface equipment | Pressure release projectile | Proper procedures, exclusion zones, only absolutely necessary staff in area, communication | Refer to testing program | OTS to perform; Company engineer to witness, Radio communication provided by OTS
+3 | Flow well/Production | H2S fire, explosion, sampling, chemical injection | Potential serious injury or death. damage to environment and equipment | Check of firefighting procedure and equipment, check H2S system and equipment. Full drills for both prior starting test operation. Ensure doctor is fully aware of testing operation, move non-essential crew to camp. No phones/No smoking in testing area | Wind direction and strength to be monitored. If wind strength gets too strong during testing, shut-in the well. Ensure all relevant personnel are conversant with the ESD procedure and equipment. | Good communication between all personnel is critical. Chain of command to be discussed prior to flow. Number of people on rig site should be limited to absolute minimum. The flare has to be monitored all the times. Information to local. Wear BA during sampling operations
+ |  | Welding & crane operation | Explosion; Dropping equipment on pressurized lines | PTW & signal giving | Refer to testing program | No crane operation  no hot works without permission
+ |  | Ignition of flare | Malfunction | Check before test | Flare watch | Prepare appropriate buckets with cloths and diesel to be put under end of flare line
+ |  | Leakage / spills | Environmental damage | Small spills to be dealt with by rig/ OTS | P/T equipment prior to test | Refer to testing program, especially with regard to H2S
+ |  | Flaring | Injury or fatality | Keep distance from flare, no staring to flare | Watch wind direction & fire | No flaring during night at high H2S level
+4 | Shut-in well | Pressure | Uncontrolled pressure release, blow-out | Rig crew & all relevant personnel to familiarize themselves with pipe work/manifold/layout. Especially the control of valve & gauges | On short notice in emergency case | Number of people on rig site should be limited to minimum; have kill procedure at hand in order to be able to act quickly in case of equipment failure
+5 | Handling diesel | Fire, spills | Personal injury from fire and skin contact, explosion, environmental damage | Supervision & communication | Flow diesel to flare pit for burning when well starts flowing | Need to check fire extinguishers, place powder fire extinguisher near testing equipment
+6 | Escape & evacuation | Panic, blocked exits | Personal injury | Only key personnel on rig during flow testing; training & drills | Ensure people are trained and all exits are clear | Properly maintain T-card board at rig site entrance
+
+[جدول 7]
+Action taken on emergency | Personnel duty (1) | Personnel duty (2)
+Shut down ESD | Day shift |  | 
+Shut down ESD | Night shift |  | 
+Close choke manifold | Day shift |  | 
+Close choke manifold | Night shift |  | 
+Shut down Super Safety valve | Day shift |  | 
+Shut down Super Safety valve | Night shift |  | 
+Shut down down-hole tester Valve | Day shift |  | 
+Shut down down-hole tester Valve | Night shift |  | 
+Rescuer | Day shift | 
+Rescuer | Night shift | 
+ | Technical Well Test Procedure  Azar Field Azr-05 | 
+Rev.00 | Azr-05 | 
+ | Technical Well Test Procedure  Azar Field Azr-05 | 
+Rev.00 | Azr-05 | 
+ | Technical Well Test Procedure  Azar Field Azr-05 | 
+Rev.00 | Azr-05 | 
+ | Technical Well Test Procedure  Azar Field Azr-05 | 
+Rev.00 | Azr-05 | 
+ | Technical Well Test Procedure  Azar Field Azr-05 | 
+Rev.00 | Azr-05 | 
+ | Technical Well Test Procedure  Azar Field Azr-05 | 
+Rev.00 | Azr-05 |

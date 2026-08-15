@@ -1,0 +1,9 @@
+# SOURCE: KG-38 Re-Entry Program.doc
+
+📄 فایل 110 از 214  |  KG-38 Re-Entry Program.doc
+❌ خطا در خواندن فایل:
+فایل .doc قدیمی است و python-docx نمی‌تواند آن را بخواند.
+
+راه‌حل‌ها:
+• فایل را در Word باز کنید و با «Save As» به .docx تبدیل کنید
+• یا روی سیستم خود antiword / catdoc نصب کنید تا خودکار خوانده شود

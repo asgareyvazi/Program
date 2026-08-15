@@ -1,0 +1,213 @@
+# SOURCE: Siahmakan #SI-09 Top Job Cement Program, CSG 13 3_8 in rev 00.pdf
+
+📄 فایل 33 از 214  |  Siahmakan #SI-09 Top Job Cement Program, CSG 13 3_8 in rev 00.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                           13 3/8" Casing Cement Top Job
+                                 Well: SI-09
+                                Rig: 207 OEOC
+
+                                       Sarvak Kish
+                             Engineering & Drilling Services Company
+
+Prepared by: H. Sabooei
+
+Approved by: M. Mirzaei
+
+Date: 2023/02/18
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PGFK-EN-01-28-00
+
+                          Table of Contents
+      1.     CEMENTING JOB DESIGN AND CALCULATION ...................................................... 3
+      2.      Job Procedure ........................................................................................................................ 4
+      3.      Lab Result .............................................................................................................................. 5
+
+                                                                              pg. 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PGFK-EN-01-28-00
+
+    1. CEMENTING JOB DESIGN AND CALCULATION
+
+                            CEMENTING Top JOB DESIGN AND CALCULATIONS
+
+                                                           Client:       PECO                       Rig Name:      207 OEOC                              Job Type:     13 3/8" Casing (Top Job)
+                                                              Field:          Siahmakan                  Well Name:         #SI-09                                   Date:                18-Feb-23
+                                                  JOB VOLUMES
+
+                                                                                          Previous Casing
+                                                                      OD                        ID
+                                                                                          20.000                  18.730
+                                               20" Shoe
+                                               149.0 m                                           Current Casing
+                                        Top job Cement:                          Weight (ppf)  OD (in)        ID (in)      Length (m)
+                                               300 BBLs                              #72      13 3/8       12.347       1730.0
+                                                                                       #88.2     13 5/8       12.375        418.0
+                                                           to 750 Mt
+
+                                                                                       Volumes
+                                                                                Top Job Slurry              300 bbl
+
+                                         TD 13 3/8
+                                                2,148.0 m
+
+                                                 SLURRY DESIGN
+
+                 CEMENT SLURRY
+
+                        Material              Conc.     UOM         Qty for Job*                              Slurry Parameters
+                 Cement "G" Delijan            110            lb/sk            906 sx                                    Slurry Volume            1,684.4 cu ft
+                          Bentonit                 3.300           lb/sk           2,988.6 lb                                                 300 bbl
+                          Cacl2                  3.300           lb/sk           2,988.6 lb                                     Slurry Density             105 pcf
+                           Anti Foam                0.030          gal/sk             27.2 gal                                     Slurry Yield               1.86 cu ft/sk
+                                                                                                                          Mix Water                9.36 gal/sk
+                                                                                                                           Mix Fluid                9.74 gal/sk
+
+                                                           Mix Water         201.8 bbl
+                                                           Mix Fluid          210 bbl
+
+             * No excess's for losses, dead volumes, etc
+                                                 TEMPERATURE
+
+                                             Temperature Gradient               1.2       ºF/100ft
+                                             BHST                     110         ºF
+                                           BHCT                     110         ºF
+
+                                                PUMPING SCHEDULE
+
+                                                              Volume      Rate               Job Time              TICKENING TIME
+                                   Stage                                       Pump
+                                                                                        (bbls)       (bpm)                     (min)                           (hr:min)
+                              Mix & Pump Cement Slurry                   300         4-6     CMT Truck       60               CMT Slurry (35Bc)   02:00
+               Disconnect Line and Pumping WTR to Flush Cement Line        3                CMT Truck                       CMT Slurry (50Bc)   02:05
+                                                                                                        CMT Slurry (70Bc)   02:10
+
+                                                                         Total Job Time (min)                  60
+
+                                                MATERIAL REQUIREMENTS
+
+                        Material               Qty      UOM                                 Estimated Dead Volume
+               Cement G Delijan
+                                                 45.3           Mt                           Top Job           25 bbl
+                 without Dead Volume
+
+                          Bentonit                3358.8             lb
+
+                       Cacl2                 3358.8             lb                               Dead Volume factor
+
+                           Anti Foam                 30.5            gal                           Top Job             1.12
+
+                                                                              pg. 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PGFK-EN-01-28-00
+
+    2. Job Procedure
+
+                                  Job Procedure
+
+                                             Pre Job Procedure
+
+       1- Clean up mud tanks and pump truck's tanks, preparing chemicals for mixing fluid.
+
+       2- Pressure test cement line to 500 psi for 5 minutes and the slowly increase the pressure to 3000 psi and hold for 5 minutes.
+     Then release the pressure to the pump trucks.
+
+       3- Cement silos hoses, mud pits and pump trucks unit lines needs to be flushed properly.
+
+       4- Check the rig mud balance with fresh water and make sure it’s calibrated.
+
+       5- Pre job safety meeting with involved personnel and arrange with mud engineer to measure mud & cement loss/gain during
+      cement job.
+
+                                          Job Procedure
+
+       1- Before start mixing cement additives, get Company man approval.
+
+       2- Prepare slurry mix fluid in mud tanks.
+
+       3- Preparing mixing fluids according to the below:
+
+        * Cement Solution Mixing Procedure:
+     Cement Solution mixing procedure:
+          • Fill up mud tanks with Drill Water (we need 201.8 bbl D.W with dead volume)
+          • Add Antifoam to Drill water and allow mixing for 5 minutes.
+          • Add Bentonit to Drill water and allow mixing for 45 minutes.
+          • Add Cacl2 to Drill water and allow mixing for 5 minutes.
+
+       4- Preapare CMT Unit Truck , Lin Up to Spoll Side outlet and Press Test.
+
+       5- Mix and pump 300 bbl cement slurry ( 105 pcf - pump rate: 4-6 bpm).
+
+       6- Rig Down cement lines.
+       7- EOJ.
+
+                                              Caution and Notes
+
+       1- Put slurry cement samples to water bath.
+        Retain 2.5 gallon of mixing fluid from the tanks and 5 kg of the G cement used in the job.
+       2- All numbers & volumes related to drill string capacity, pump rate and well geometry have been assumed based on
+        initial assumptions however actual figures will be calculated and executed as per company plan.
+
+                                                                              pg. 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PGFK-EN-01-28-00
+
+    3. Lab Result
+                              Sarvak Kish Drilling Services
+
+                      Sarvak Cementing Lab Report
+        Date:            2023/02/17                1401/11/28           Field:   Siahmakan               Job Type :            Top Job CSG 13 3/8
+       Well Depth:      (TVD):      750  m     2460.75     ft        Client:  PECO             OH Size:             17.5 "
+                       (MD):      750  m     2460.75     ft       Well:    SI-09                      Last CSG/Liner:  CSG 18 5/8"
+                                                                       Rig:   OEOC 207             Mud Weight:
+
+       Cementing Additives                           Conc.          Units              Cement and Mixing Water              Drill Water
+     CMT G Delijan                           110       LB/SK
+        Bentonite ( From OEOC 207 )                   3.3        LB/SK       Slurry Density:                         14.0 PPG      105 PCF
+       CaCl2 ( BN: DS-010-22 )                       3.3        LB/SK       Slurry Yield:                                           1.86 cuft/sk
+        Anti Foam ( BN : 207000102F1 )               0.03      GAL/SK      Base Fluid Required:                                    9.36 gal/sk
+                                                                                         Total Mixing Fluid Required:                             9.74 gal/sk
+
+        Temperature        BHST:   43.3 oC       BHCT:     43.3 oC
+        Temperature        BHST:   110 oF       BHCT:     110 oF                           Temperature Gradient:      1.2 oF / 100 ft
+
+       API Free Fluid:         N/A    %    @ 2 hrs
+       API Fluid Loss:         N/A      CC/30 min @          110 oF        and      1000 Psi
+
+       Rheology Data:                                                                              PV     YP
+              oF                    300    200       100    6       3                      10 sec Gel    10 min Gel          CP     lbs/100ft2
+
+             110
+                                     46     40        31   15      13                      10          12                 22.5      23.5
+
+       Pumping Time:              35(BC):     02:00      Hrs:Min 50(BC):      02:05      Hrs:Min     70(BC):      02:10     Hrs:Min
+
+      UCA C.S. :                    N/A     PSI           in         24 Hrs @       110 oF
+
+       Crush Test C.S. :                1700     PSI           in         24 Hrs @       110 oF
+
+       Water Analysis:           Chlorides:         mg/liter
+
+       PH: Pre-Hydrated           DB:  Dry Blended   % BWOC% by weight of cement        % BWOW:    % by weight of water
+
+         Note:          The Calculation is based on 110 lbs sack of dry cement.
+       Remarks:
+
+       Sarvak Lab Supervisor:  Meysam Kerdegari                              Sarvak Cement Engineer:  Hasan Sabooei
+
+        Eng. Department Manager: Amir Mirzaei
+
+        Note:
+       The content and the results of this report is limited to the sample described. Any user of this report agrees SKDS shall not be liable for any loss or damage,
+         regardless of cause, including any act or omission of SKDS resulting from the use thereof.
+
+                                                                              pg. 5

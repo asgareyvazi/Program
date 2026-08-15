@@ -1,0 +1,484 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 12 ]
+────────────────────────────────────────────
+ BORE HOLE PROBLEMS
+
+CONTAMINANT:
+Any undesirable component that causes a detrimental affect to the drilling fluid.
+
+
+CONTAMINANT               EXAMPLE
+
+                                 Active solids  - clays
+      Drill solids
+                                     Inactive solids  - silt, sand limestone, chert, etc.
+
+
+                            Sodium chloride, NaCl
+EVAPORITE SALTS             Potassium chloride, KCl
+                              Calcium chloride, CaCl2
+                            Magnesium chloride, MgCl2
+                                  Anhydrite, CaSO4
+
+ WATER FLOWS             Mixed salts at various concentrations.
+
+
+   ACID GASES               Carbon dioxide, CO2
+                             Hydrogen sulfide, H2S.
+                                  Light or heavy oils
+ HYDROCARBONS               Lignite
+                               Coal
+
+ TEMPERATURE               Degradation of mud products.
+
+
+    CEMENT                   Result of cementing operation.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 12 ]
+────────────────────────────────────────────
+1. WELL BORE INSTABILITY:
+A.  Shale problems (chemical – physical).
+1.  Indications of problem shales.
+     1.  Sloughing shale.
+     2.  Hole enlargement.
+     3.  Bridges and fill on trips.
+     4.  Stuck pipe and fishing difficulty.
+     5.  Hole-cleaning problems.
+     6.  High fluid maintenance cost.
+     7.  Solids-control problems.
+2.  Shale hydration (surface adsorption and osmotic adsorption) will result in two distinctly
+     different problems.
+     a.  Swelling – Expansion of clays due to intake of water.
+         Indicators – Bit balling, mud rings or gumbo attacks, hole washouts,
+           elliptical Wellbore, fine solids build up.
+       b.  Dispersion – the disintegration of shale of shale due to water contact.
+           Indicators – Sloughing shale, bridges and fill on trips, hole cleaning
+          Problems.
+3.   Stabilizing shale through inhibition.
+     Table 1 lists the chemical and physical process used in stabilizing shale sections and typical
+      fluids, which employ these stabilization mechanisms.
+B.  Mechanically induced bore hole problems and solutions
+   Many bore hole problems encountered while drilling are the results of improper drilling practices.
+    Table 2 outlines typical bore hole problems, which are mechanically induced, and recommended
+     solutions.
+C.  Unconsolidated formations( sands, gravels, etc.)
+   1.  Indications of unconsolidated formations:
+       1.  Rough drilling.
+       2.  Hole fills, torque and drag on connections and trips.
+       3.  Frequent packing – off and bridges at specific depths.
+       4.  Large amounts of caving and/or sloughing shales after trips.
+       5.  Re-drilling of footage.
+       6. Mud loss.
+   2. Remedial procedures
+       1.  Increase low-shear viscosities to improve hole cleaning.
+       2.  Increase mud weight, if possible.
+       3.  Assure laminar flow to avoid mechanical erosion.
+       4.  Combat loss of circulation (LCM) with viscous pills containing various sizes of
+      LCM (see loss of circulation section).
+       5.  Utilize cement squeeze.
+D.  Evaporite deposits (Stringers and massive salt sections)
+     1.  Associated problems.
+         1.  Excessive washouts causing reduce hole cleaning and/or under reaming (caving
+              in) of the formation.
+         2.  Dissolved evaporates (salts) contaminate mud system.
+         3.  Directional problems (unwanted sidetracking).
+     2.  Indicators
+         1.   Salt in cuttings or increased chlorides without increased volume (no flow water).
+         2.   Flocculation of fresh water mud.
+         3.   Increased plastic viscosity.
+         4.   Increase in total hardness (anhydrite).
+     3. Remedial procedure
+         1.  Change to CARBO-DRILL or oil mud with balanced water phase.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 12 ]
+────────────────────────────────────────────
+  Problem         Cause               Indicators                  Solution
+
+Mechanical    •  Turbulent  flow  •  Mixed sizes and       •   Alter rheological
+erosion               rates.               shapes of cuttings.          properties or reduce
+               •   Drill      string  •  Excessive lag.          pump output to ensure
+                  geometry.        •  Hole enlargement.         laminar or transitional
+               •  Inadequate                                      flow.
+                    rheological                               •  Reduce drill string
+                     properties.                                       diameter.
+
+Under         •  Inadequate mud  •  Gas cut mud          •  Raise mud weight to
+balanced           weight.          •  Excessive splintered       balance formation
+hydrostatic     •  Geopressured        or concave cuttings.        pressure.
+pressure           formations       •  Hole fill after trips
+
+
+
+Pipe whip      •  Excessive        •  Cuttings small mixed   •  Slow rotary speed.
+                     rotary speeds        shapes of different     •  Ensure drill string is in
+               •   Drill  string not      types.                       tension.
+                     in tension.
+
+Swab or surge  •  Excessive  pipe  •  Loss of circulation.    •  Reduce pipe running or
+pressures          running      or  •  Gas, oil, or water           pulling speeds.
+                    pulling speeds.        intrusions on trips.     •  Condition mud to reduce
+               •  High        gel  •  Large quantities of         gel strengths.
+                     strengths.                  fill and debris after
+               •  Improper    drill       trips.
+                      string tension.    •  Improper fluid
+               •  Improper    drill      displacement.
+                      string design.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 12 ]
+────────────────────────────────────────────
+           WATER BASE MUD (WBM) TREND ANALYSIS
+
+TREND       Changes in mud properties are an indication that something abnormal is taking place.
+
+
+   MUD      TREND                  POSSIBLE CAUSE
+ PROPERTY   CHANGE
+
+               INCREASE      Drill solids increase, heavy spot from barite sag. Over treatment during
+MUD WEIGHT                                                weight-up.
+              DECREASE      Formation fluid influx, light spot from barite sag. Excessive water
+                                                                         additions.
+                INCREASE     Reactive shale drilled, drill solids increase, low water content, calcium
+  FUNNEL                             contamination from cement, anhydrite formation drilled.
+ VISCOSITY   DECREASE              Formation water influx, excessive water content.
+
+                INCREASE     Unconsolidated sand drilled, drill solids increase, low water content.
+  PLASTIC
+              DECREASE     Formation water influx, excessive water additions, and solids content VISCOSITY                                                                      decrease.
+                INCREASE     Reactive shale drilled, anhydrite formation drilled, low water content,
+   YIELD                                      calcium contamination from cement.
+   POINT      DECREASE      Formation water influx, excessive water additions, decrease in low
+                                                     gravity solids, additions of chemical thinners.
+                INCREASE     Reactive shale drilled, low water content, calcium contamination from
+    GEL                                       cement, or anhydrite formation drilled.
+ STRENGTH   DECREASE   Formation water influx, excessive water additions, additions of chemical
+                                                                           thinners.
+                INCREASE   Low gravity solids increase, flocculation from cement, chloride, calcium
+  API / HPHT                                        contamination, low gel content.
+ FLUID LOSS   DECREASE                Mud treatment-taking affect.
+                INCREASE          Additions of pH control additives, calcium contamination.
+     pH              DECREASE           Additions of mud products, anhydrite formation drilled.
+
+                INCREASE      Salt formation is drilled, pressure transition shale is drilled, formation
+ CHLORIDE                                               water influx.
+              DECREASE                          Water additions
+
+                INCREASE           Salt or calcium formation is drilled, formation water influx.
+   TOTAL              DECREASE                 Addition of fresh water, chemical addition.
+ HARDNESS
+                INCREASE                Reactive shale is drilled, addition of bentonite.
+   CATION
+ EXCHANGE   DECREASE               Water additions, solids removal equipment.
+  CAPACITY
+    (CEC)
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 12 ]
+────────────────────────────────────────────
+         OIL / SYNTHETIC BASE MUD ( OBM / SBM ) TREND ANALYSIS
+
+TREND       Changes in mud properties are an indication that something abnormal is taking place.
+
+
+   MUD      TREND                  POSSIBLE CAUSE
+ PROPERTY   CHANGE
+
+               INCREASE      Drill solids increase, Heavy spot from barite sag. Over treatment during
+MUD WEIGHT                                                weight-up.
+              DECREASE     Formation water influx, Excessive base oil additions, Light spot from
+                                                                           barite sag
+                INCREASE     Addition of water, calcium carbonate, primary emulsifier, low gravity
+  PLASTIC                                                      solids increase.
+ VISCOSITY   DECREASE             Addition of base oil, Decrease in low gravity solids.
+
+                INCREASE    Increase in organophilic clay, Addition of emulsified water or synthetic
+   YIELD                                                   polymer.
+   POINT      DECREASE       Addition of base oil or degellant. Decrease of organophilic clay
+                INCREASE               Addition of organophilic gel, Addition of water.
+    GEL              DECREASE          Large base oil additions, Increase vin mud temperature.
+ STRENGTH
+              CHANGE    Large addition of water or water influx. Large addition of base oil. High
+ OIL / WATER                                      bottom hole temperature.
+   RATIO
+  ELECTRIC    INCREASE    Increase in emulsifier concentration. Addition wetting agent or base oil.
+  STABILITY              DECREASE   Decrease in emulsifier concentration. Newly prepared OBM has low ES
+       ( ES )                                                            but increases with lime.
+  WATER     INCREASE       Water % of O/W ratio decreasing. Addition of calcium chloride
+   PHASE              DECREASE   Water % of O/W ratio increasing from water addition or formation water
+  SALINITY                                                                          influx
+                INCREASE     Addition of base oil. Decrease in emulsifier. Water present in filtrate.
+   HPHT              DECREASE                 Increase in primary emulsifier concentration.
+ FLUID LOSS
+                INCREASE          Addition of lime. Drilling calcium formation ( anhydrite )
+EXCESS LIME              DECREASE          CO2 or H2S kick. Addition of base oil or water.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 12 ]
+────────────────────────────────────────────
+  PROBLEM        INDICATION              TREATMENT
+
+                 Foam  on  surface  of mud  pits.  Sprinkle pits with fine spray of water or diesel. Add
+  FOAMING     Reduced mud  weight.  Reduced DEFOAM-X or other surface-active agents to mud.
+                 pump  pressure or hammering  of  In salt or low solids mud, M-I gel is helpful.
+                    pumps.
+                   High viscosity, high gel strengths,  Pretreat if possible, or for low concentrations, remove
+   CEMENT        increase  in  pH,  fluid  loss  and  chemically with SAPP or sodium bicarbonate. When
+CONTAMINATION   filtrate calcium.                      large concentrations are encountered, convert to a
+                                                      system that will tolerate cement.
+  GYPSUM OR     High viscosity, high flash gels and  Pretreat for small quantities or remove chemically
+  ANHYDRITE      increased  fluid  loss  and  filtrate  with soda ash. For drilling massive anhydrite, covert
+CONTAMINATION   calcium.                              to a system that will tolerate anhydrite (gyp/lime).
+                   High viscosity, high gels, increase  Adjust mud  properties  to  tolerate  salt by  using
+     SALT           in  fluid  loss  and  salt  content.  chemical  treatment  fluid  loss  control  agents,  or
+CONTAMINATION  Grainy appearance to mud.          convert to saturated salt system. If only stringers are
+                                                          encountered, dilution will reduce salt content.
+                         Difficult   to   break   circulation.  Reduce solids concentration by mechanical means
+     HIGH           Inability  to run  tools  to bottom.  and by water dilution. Treat mud with SPERSENE,
+ TEMPERATURE    High viscosity and gel strengths of  XP-20,  or MELANEX-T.  Treat  calcium  to low
+   GELATION     mud    off   bottom.   Decreased  levels. Raise pH to 10-10.5. Limit M-I GEL additions
+                          alkalinity and increased fluid loss.    to the minimum needed for fluid loss control.
+                           Little or no progress  in footage.  Add   oil, SALINEX, D-D  or DMS  surfacants.
+                      Balled  up  bit  and  drill  string.  Maintain low viscosity and gel strengths to keep hole
+                   Swabbing on  trips.  Bits  usually  clear. Utilize available horsepower for most efficient
+  BIT BALLING    come  out   in  good   condition,  hydraulics. Increase circulation rate.
+                    showing  little  wear  but  heavily
+                     packed with cuttings.
+                   Cones locked or bearing loose with  Reduce  drilled  solids  by  water  dilution  and/or
+ LOCKED CONES    teeth structure still on cones.        mechanical  separators. Add  oil  E.P. LUBE  to
+                                                    improve life.
+                     Premature bit failure and excessive  Lower sand  content by  dilution  and/or chemical
+   ABRASION      wear of swabs,  liners and valve  treatment. Use a desander to hold sand content to a
+                          seats.                         minimum.
+                           Filter cake spongy,  soft and too   If you feel that enough fluid-loss additives are in the
+HIGH FLUID LOSS   thick.                              system, add M-I GEL to system. (Run methylene
+                                                          blue test).
+                       Increase   in   pit  volume.  Mud  Shut in well. Follow procedures for killing the well.
+  SALT WATER     continues to flow when pump  is  Adjust flow properties as needed. Raise mud weight
+    FLOW          shut  down.  Change  in  chloride  to control flow.
+                        content. Increased  total hardness.
+                       Increased flow line temperature.
+                       Increase   in   pit  volume.  Mud  Shut in well. Follow procedures for killing the well.
+   GAS KICK       continues to flow when pump  is  Raise mud weight as needed to kill the well.
+                       shut down. Gas – cut mud may
+                      occur prior to this.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 12 ]
+────────────────────────────────────────────
+  PROBLEM        INDICATION              TREATMENT
+
+                      Decrease in pit volume. Complete  Lower mud weight and equivalent circulating density
+MUD LOSSES         loss of returns.                               if  possible. Add  lost  circulation  material,  or  set
+                                                           Diaseal M or similar soft plug, possible a cement
+                                                           squeeze. Run pumps slowly. Watch all causes for lost
+                                                                   returns.
+                        Barite settles out.                    Increase viscosity by adding a viscosifier. Use M-I
+ UNSTABLE MUD                          GEL or XC Polymer where applicable
+           ❖ High funnel viscosity         Run mechanical solids removal equipment to discard
+           ❖ High plastic viscosity              drilled solids. Water dilution also will be required.
+ HIGH VISCOSITY  ❖ Normal yield point               Increase  deflocculates  concentration  to  maintain
+           ❖ Normal gels                       stable properties.
+           ❖ High solid content
+            ➢ High funnel viscosity         Add  dispersant. Run  mechanical  solids  removal
+            ➢ Normal plastic viscosity         equipment.
+ HIGH VISCOSITY  ➢ High yield point
+            ➢ High gels
+            ➢ Normal solid content
+           ❖ High funnel viscosity         Run mechanical solids removal equipment to discard
+           ❖ High plastic viscosity              drilled solids. Water dilution also will be beneficial.
+ HIGH VISCOSITY  ❖ High yield point                 Later thinner may be added.
+           ❖ Normal gels
+           ❖ Normal solid content
+            ➢ High funnel viscosity            Possible carbonate problem. Run pH/Pf analysis or
+            ➢ Normal plastic viscosity          Garrett Gas Train for carbonates. Treat with lime
+ HIGH VISCOSITY  ➢ High yield point                 and/or gypsum as necessary.
+            ➢ Normal initial gel strength
+            ➢ High 10-min gel strength
+            ➢ High Pf, Low pH, High Mf.
+HIGH FLUID LOSS  Normal viscosity               Add fluid loss control agent through hopper
+
+                    High viscosity mud. Does not take  Prepare a batch of new mud with excess fluid loss
+HIGH FLUID LOSS   fluid loss control additive.            control additive and add to mud over one circulation.
+                                                            Treat contamination problem in original mud.
+                      Excessive  cuttings  over  shaker.  Increase mud weight if possible. Reduce fluid loss.
+  SLOUGHING      Tight connections.                 Convert to inhibitive fluid or add STABILHOLE.
+    SHALE                                              Increase  viscosity.  Reduce  drill  pipe  whipping.
+                                                  Reduce pressure surges.
+                         Full or  partial  circulation. String  Place diesel or mineral oil and PIPE-LAX fluid to
+  DIFFERENTIAL     against porous zone. No key seats.  cover drill collars and keep some in pipe to move at
+    STICKING      High  fluid  loss  with  high  solid  10-min  intervals. In weighted systems, use PIPE-
+                        content mud.               LAX W additive. Condition filter cake and reduce
+                                                                   fluid loss with M-I GEL, RESINEX.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 12 ]
+────────────────────────────────────────────
+  PROBLEM        INDICATION              TREATMENT
+
+                       Tight connections. Ream to bottom  Increase mud weight. Ream through tight spot.
+PLASTIC SALT        after trips. Stuck pipe could result.
+
+
+                      Stuck pipe when fluid is saturated  Place fresh water to dissolve salt where pipe is stuck,
+  PLASTIC SALT     water-base or oil-base.               usually near the bit. Then increase mud weight.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 12 ]
+────────────────────────────────────────────
+Contaminant  Contaminant    Contaminant  Method of        Possible Effect on    Course of Action
+             compound/ion   Source       Measurement   Mud
+
+Anhydrite /    CaSO4/          Formation,    Ca++ titration   ➢  High yield point   Treat with sodium carbonate ( soda ash )
+Gypsum      CaSO4.2H2O                     ➢  High fluid loss                             Commercial
+            Ca++                         ➢  High gels       Ca++(mg/L) x 0.00093 = Na2CO3 ( lb/bbl)                           gypsum
+                                    ➢  Thick filter
+                                                                   cake            Break over to gypsum mud.
+                                    ➢  Ca++ increase
+           Mg++            Formation,      Total hardness,  ➢  High yield point   Treat with caustic soda, NaOH (pH >/= 10)
+MgCl2                         Seawater       Cl- titration.   ➢  High gels          for moderate contamination, eg: seawater.
+                Cl-                          ➢  High fluid loss   Mg++(mg/L) x 0.00116 = NaOH (lb/bbl)
+                                    ➢  Thick filter
+                                                                                           Treat with additional thinner and fluid loss                                                                   cake
+                                                                                          chemicals.                                    ➢  Total hardness
+                                                                              increase.         Convert to MgCl2 mud if contamination is
+                                    ➢  PH decreases.     severe. NOTE: For severe MgCl2
+                                    ➢  Pf decrease.       contamination, continued additions of
+                                                                      Na(OH) or Ca(OH)2 could result in an
+                                                                                        unacceptable viscosity increase.
+Cement/lime   Ca(OH)2        Cement,         Titration for   ➢  High yield point   Treat with sodium bicarbonate
+            Ca++                         Ca++, Pm     ➢  High fluid loss    Ca++(mg/l)x0.00074 = NaHCO3 (lb./bbl)
+                              commercial           OH-                          ➢  Thick filter
+                                    lime,                                                    Treat with SAPP                                                                   cake
+                                                                                 Ca++(mg/l) x 0.00097 =                                contaminated           ➢  PH increases
+                                                                                  Na2H2P2O7(lb./bbl)                                      barite               ➢  Pm increase
+                                    ➢  Ca++ increase    Treat with lignite 7 to 8 lb./bbl precipitates
+                                                                             1 lb./bbl Ca(OH)2 to form Ca salt of humic
+                                                                                                    acid.
+                                                                                         Additional thinner / fluid loss chemicals.
+
+                                                                                            Dilution
+                                                             Dump if flocculation can not be controlled.
+                                                                             Allow Ca(OH)2 to remain and convert to
+                                                                                      lime mud or allow Ca(OH)2 to deplete over
+                                                                                               time.
+                                                                                            In some cases use acids such as HCl,
+                                                                                          phosphoric.
+                                                                                           Treat with soda ash
+                                                                                 Ca++(mg/l) x 0.00093 = Na2CO3(lb./bbl)
+
+                                                                                      Since effect of pH are often more
+                                                                                            detrimental to mud order chemical
+                                                                                           treatment should be
+                                                                                                      1.  sodium bicarbonate
+                                                                                                      2.   lignite
+                                                                                                      3.  SAPP
+                                                                                                      4.  Soda ash
+
+                                                                          Sodium bicarbonate is treatment by choice.
+Salt          NaCl             Formation i.e.,   Cl- titration    ➢  High yield point   Dilution with fresher water
+                                              salt dome,              ➢  High fluid loss
+                                           stringers,                                              Addition of thinner/fluid loss chemicals                                    ➢  Thick filter                                                                                        reasonably tolerant of NaCl.
+                                                                   cake
+                                    saltwater                                            Convert to salt mud using chemicals                                    ➢  High gels
+                                   flow,                                                 designed for salt.                                    ➢  Cl- increase
+                              make up water                                              Presolubilize chemicals where possible
+
+                                                             Dump if flocculation is too severe for
+                                                                                   economical recovery.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 12 ]
+────────────────────────────────────────────
+Carbonate    CO3               Formation,CO2    Garrett gas    ➢  high yield point   Treat with lime
+bicarbonate   HCO3                gas.                train, pH, Pf   ➢  high 10 min gel   HCO3-(mg/l) x 0.00021 = Ca(OH)2
+                                         thermal         method, P1/P2,  ➢  high HTHP        (lb./bbl)
+                                          degradation of
+                                            organics,        Mf/Pf titration          fluid loss       And CO3 (mg/l) x 0.00043 = Ca(OH)2
+                                    ➢  Ca++ decrease     )lb./bbl)                                        contaminated
+                                                  barite,                ➢  Mf increase
+                                        over treatment            ➢  pH instability
+                                        with soda ash or           ➢   flocculation       Treat with gypsum                                            bicarbonate.
+                                             Bacterial action                              CO3 (mg/l) x 0.001 = CaSO4. 2H2O
+                                    on organic                                                         (lb./bbl)
+                                                                   And caustic soda
+                                                                 HCO3- x 0.002 = NaOH (lb./bbl)
+           H2S          H2S from       Garrett gas    ➢  High yield point  Course of action to be in compliance with
+Hydrogen                        formation        train,       ➢  High fluid loss     all safety requirements.
+sulfide                              gas, thermal     (quantitative),   ➢  Thick filter                                                                                            Pretreatment/treatment with MIL-GARD or
+                                  degradation     automatic rig         cake                                                                   MIL-GARD-R.
+                                   of organics,   H2S       ➢  pH increase
+                                                                                            Increase pH >11 with Ca(OH)2 or NaOH.                                      bacterial        monitor(quantit  ➢  Pm increase
+                                     action.           ative), lead    ➢  Ca++ increase    Condition mud to lower gels for minimum
+                                                     acetate test.                                retention of H2S.
+                                                                                     Operate degasses, possibly with flare.
+                                                                                        Displace with oil mud.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 12 ]
+────────────────────────────────────────────
+       CHEMICALS REQUIRED TO REMOVE IONIC CONTAMINANTS
+
+CONTAMINA  X  FACTOR   =          TREATING CHEMICAL
+    NT
+   (MG/L)
+    Ca++     X    0.00093    =              Na2CO3 (soda ash)
+
+
+    Ca++     X    0.00074    =         NaHCO3 (bicarbonate of soda)*
+
+
+    Ca++     X     0.0097    =              Na2H2P2O7 (SAPP)
+
+
+   Mg++     X    0.00093    =                 Na2CO3
+
+
+   Mg++     X    0.00116    =           NaOH (caustic soda)**
+
+
+   CO3=     X    0.00043    =                Ca(OH)2 (lime)*
+
+
+   CO3=     X     0.001     =              CaSO4. 2H2O (gypsum)
+
+
+   HCO3-    X    0.00021    =                   Ca(OH)2**
+
+
+   HCO3-    X     0.002     =            NaOH (caustic soda)
+
+
+  PO4 (-3)    X    0.00041    =                   Ca(OH)2**
+
+
+
+     *Best to use where pH and calcium are high.
+     ** Use with caution; may cause high pH.pj\v.[kb/
+    EXAMPLE:
+      Titration of the filtrate shows a calcium level of 650 mg/l. to remove all but
+     approximately 100 mg/l, treat 550 mg/l, (650 – 100 = 550) of calcium with soda ash.
+         Therefore, soda ash required is approximately
+     550 x 0.00093 = 0.51 lb./bbl.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 12 ]
+────────────────────────────────────────────
+[صفحه 12: خالی]
+
+

@@ -1,0 +1,1532 @@
+# SOURCE: 03. Drilling Fluid Program.pdf
+
+📄 فایل 155 از 214  |  03. Drilling Fluid Program.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+              " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                    )97 / 0331 /م م( :مناقصه شماره
+
+                 Drilling Fluid Program
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+                       Table of Contents
+
+1.  OBJECTIVES .................................................................................................................................. 3
+2. ENGINEERING GUIDELINES .................................................................................................... 4
+3.  DRILLING FLUIDS PROGRAM DISCUSSION ........................................................................ 5
+3.1.  26″ HOLE SIZE ......................................................................................................................... 5
+3.1.1.  DRILLING FLUIDS FORMULATION ................................................................................ 6
+3.1.2. INTERVAL KEY ISSUES (POTENTIAL RISKS AND MITIGATIONS) ....................... 7
+3.1.3. ENGINEERING OUTLINE & SYSTEM MAINTENANCE ............................................... 7
+3.1.4. VOLUME ACCOUNTING AND ESTIMATED REQUIRED MATERIAL ...................... 9
+3.2. 17 1/2″ HOLE SIZE .............................................................................................................. 10
+3.2.1.  DRILLING OPERATION OVERVIEW ............................................................................ 10
+3.2.2.  DRILLING FLUIDS PROPERTIES .................................................................................. 11
+3.2.3.  DRILLING FLUID FORMULATION ............................................................................... 11
+3.2.4.  DRILLING FLUIDS FORMULATION BASED ON MAXIMUM MW ......................... 12
+3.2.5. INTERVAL KEY ISSUES (POTENTIAL RISKS AND MITIGATIONS) .................... 12
+3.2.6. ENGINEERING OUTLINE & SYSTEM MAINTENANCE ............................................ 13
+3.2.7. VOLUME ACCOUNTING AND ESTIMATED REQUIRED MATERIAL ................... 14
+3.3. 12 ¼″ HOLE SIZE ................................................................................................................. 15
+3.3.1.  DRILLING FLUIDS FORMULATION ............................................................................. 15
+3.3.2. INTERVAL KEY ISSUES ................................................................................................... 16
+3.3.3. ENGINEERING OUTLINE & SYSTEM MAINTENANCE ............................................ 17
+3.3.4. VOLUME ACCOUNTING AND ESTIMATED REQUIRED MATERIAL ................... 18
+.3.4  8 1/2″ HOLE SIZE ............................................................................................................. 19
+3.4.1.  DRILLING FLUIDS PROGRAM DISCUSSION-OPTION I WBM .............................. 19
+3.4.1.1.  DRILLING FLUIDS FORMULATION ......................................................................... 19
+3.4.1.2. INTERVAL KEY ISSUES................................................................................................ 21
+3.4.1.3. VOLUME ACCOUNTING AND ESTIMATED REQUIRED MATERIAL ............... 22
+3.4.2.  DRILLING FLUIDS PROGRAM DISCUSSION-OPTION II OBM .............................. 23
+3.4.2.1.  DRILLING FLUIDS PROPERTIES .............................................................................. 23
+3.4.2.2.  DRILLING FLUIDS FORMULATION ......................................................................... 24
+3.4.2.3. ESTIMATED REQUIRED DRILLING FLUIDS VOLUME ....................................... 24
+4. COMPLETION FLUIDS DESIGN AND PROGRAM............................................................. 25
+4.1. CLEAN UP AND COMPLETION PROGRAM .................................................................... 25
+4.2. COMPLETION FLUIDS DESIGN AND FORMULATION ............................................... 26
+4.3.  RIG CLEAN UP CHECK LIST ............................................................................................... 27
+4.4. DISPLACEMENT PROCEDURE.......................................................................................... 28
+4.5. BRINE FORMULATION & VOLUME ESTIMATES......................................................... 29
+5. ESTIMATED MAIN MUD MATERIAL FOR ONE WELL ................................................... 30
+6. ESTIMATED CONTINGENCY MUD MATERIAL FOR ONE WELL................................. 31
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+1. Objectives
+
+     This program has been designed by Pars Drilling Fluids Co. (PDF) for the
+
+      provision of drilling fluids engineering and operational services to drill
+
+     Asmari Oil Producer Well in Mansour Abad Oil Field, operated by PEDC.
+
+     This program  is based on the provided information by PEDC Drilling
+
+     Department for the normal operation.
+
+     In case of having contingency or emergency situations variation from the
+
+     program is required based on the hole conditions and dictation to obtain
+
+     optimum  drilling  fluid  parameters  until  returning  to  the  normal
+
+      condition.
+
+     This program has been design based on 50% / 50% Dewatered and Drill
+
+     Water. In case of using 100% Dewatered chemicals, deviation from the
+
+     program should be considered and will be justified to be economical.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+2. Engineering Guidelines
+
+    Mud Weight          Maintain mud density at recommended weight with dilution and efficient
+                          use of the solid control equipment. Increases in mud weight to be
+                           achieved by the addition of salts for all intervals, BARA-WATE (barite)
+                          (and HEMA-WATE in case of more weight requirement) for the first
+                               intervals and CARBO-WATE F (Calcium Carbonate) should be used for
+                           the last two intervals to avoid formation damage, unless an emergency
+                               situation arises.
+
+      Plastic Viscosity        Plastic Viscosity should be maintained as low as possible by minimizing
+                                       drill  solids and maximizing use  of  solids  control equipment, and
+                            maintaining dilution rate.
+
+      Yield Point          The Yield Point should be maintained in the programmed ranges once
+                           the mud has sheared through the bit. The hole should be monitored for
+                              signs of poor hole cleaning, quantity and quality of the cuttings on the
+                             shaker, especially after  trips. Additions of BIO-XCD (Xanthan Gum)
+                          and/or PAC UHV should be used to maintain or increase rheology.
+
+      Gels / 6 RPM          Gels can be increased if necessary by additions of BIO-XCD (Xanthan
+                        Gum).
+
+       Filtration            The API/HPHT filtrate should be maintained in the programmed ranges
+                         by using PAC LV-TG and AMYLOSE LV.
+
+    pH               pH should be maintained between 9.5 and 10.5 with CAUSTIC SODA and
+                           LIME, depending on hole section.
+
+     Calcium              Maintained, preferably at less than 400mg/l by addition of SODA ASH
+                                in all  sections.
+
+      KCl                              If cuttings quality and/or hole conditions indicate, the concentration of
+                            KCl R-UPG will be increased.
+
+      Chlorides            The chloride content will be kept in the programmed range.
+
+      M.B.T.              To be maintained  well below 35 Kg/m3  (10  lb/bbl)  (equivalent
+                            Bentonite) by maintaining a satisfactory dilution rate and an accurate
+                          usage of the solids control equipment. It is very important to determine
+                   MBT of fresh mud and monitor MBT increasing during drilling.
+      Centrifuges          The centrifuges should be run judicially to control mud weight and
+                            buildup of low gravity solids.
+
+      Shakers            shaker screen’s inventory should be reported at the end of each week.
+                           Using proper screen size to drill each section is a crucial point. If use
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+                             excessive amount of barite to achieve higher mud weight, It will be
+                               essential to dress shakers with no finer mesh size than 140 API.
+
+                               Downhole losses tree-chart
+
+                                                                                 Losses while drilling
+
+                                                                          Monitor the losses rate
+
+                                                            Partial: < 50 bbl/hr                          Moderate 50-100 bbl/hr                         Sever to Total > 100 bbl/hr
+
+                                          Maintain                                         minimum                                                                      practical mud                                                                                                                                    Through                                                                                                                                                PBL                                                                                                                                          Sub
+                                                                                  Through                                                                                                          Directional                                                                                      down hole
+                                                 weight                                                                                     if possible.                                                                                                                                        Spot 100bbl                                                                                                                                                                       of                                                                                                                                                          the                                                                                                                              minimum
+                                                                                                        tool                                                                                                    or PBL                                                                                          Sub if Schlumberger
+                                                                                                                                             concentration                                                                                                                                                                        of                                                                                                                    LCM                                                                                                                                                                    to bottom
+                                                                                         Archer                                                                                                             tool                                                                                                                                               is                                                                                                     used                                                                                                        check                                                                                                                                 the
+                                            Ensure                                              good                                                         hole                                                                cleaning
+                                                                                                          concentration                                                                                                              allowed
+                                               practice                                                           to                                                    reduce                                                                 cutting                                                                      load in              minimum                                                                                                                                    Leave                                                                                                                                                                                                                           it to                                                                                                                                             soak                                                                                                                                                       while                                                                                                                                                          monitoring
+                                                                                                spot                                                                                     50                                                                                                       bbl                                                                                                             of                                                               LCM                                                                                                                                                pill                                                                                                                           cross
+                                                         annulus.                                                                                                                                                                               static                                                                                                                                                                     losses                                                                                                                                                                              for                                                                                                                                                                  0.3/1hr
+                                                                                                               losses                                                                                                               zone.
+                                                          POOH                                                                                          above                                                                                                           the                                                                                                                                          pill                                                                                                       and                                                                                                                       leave to
+                                     Check                                      maximum                                                              concentration                                                                                                                            *23ppb                                                                                                                                       Nut                                                                                                                                                          Plug                                                                                                                                      C
+                                                                                              soak                                                                                                                    for                                                                                max                                                                                                 1                                                                                                                                        hr.
+                                            allowed                                               by down                                                                hole tool.                                                                                                                             *23ppb                                                                                                                                          Mica                                                                                                                                    C
+                                                                                     *10                                                                                        ppb                                                                                                Marble                                                                                             m/F
+                                                                                                                             *23ppb                                                                                                                                                                          Fiber                                                                                                                                     C
+                                                                                       *10                                                                                          ppb                                                                                            Mica                                                                                         F
+                                            “ Add                                                  3-5 ppb                                                             Fiber                                                  F and                                                                    3-5                                                                                                                           *23ppb                                                                                                                                                       Graphite                                                                                   M
+                                                                                      *10                                                                                          ppb                                                                                                                Fiber                                                       M
+                                        ppb Graphite                                              F in the                                                  mud                                                                                                                             *23ppb                                                                                                                                                                         Fiber                                                                                  M
+                                                                                 *10 ppb                                                                                                                 Resilient                                                                                                                Graphite                                                                                             F
+                                                        system.
+
+                                                                    Yes                                                                                                                      Yes                                                                                                                                                                       Yes
+                                                                                                              Resume                                                                                                                                                         Resume
+                                                            Losses                                                                  Resume                                                                                                                Losses
+                                                                                                                                                                 drilling                                                                                                                                                                                                                                 drilling                                                                                                                                                                                                                                                                                    if
+                                                             reduced                                                                                           Drilling                          reduced                                                                                                                                                                                                        if                          reducedLosses
+                                                                                                                                                  possible                                                                                                                                                                                                            possible
+
+                                           No                                     No                                      No
+
+                                        Continue drill to TD.                      Pump two LCM pills, it not cured
+                                                                                them pump LCM pill through
+                                                                  PBL sub with the following
+                                   Sweep and spot 50 bbl of LCM                                    recipe.                         POOH and RIH with open end DP,
+                                      on bottom through PBL sub prior                Leave it to soak monitoring static                  and pump 150bbl of LCM. Leave it
+                                                  to POOH.                                                  losses for max 1hr.                           soak while monitoring static losses
+                                     *10ppb Marble F/M                                *25ppb Nut plug C                                           for max 1 hr.
+                                     *10ppb resilient Graphite F                           *25 ppb Fiber C
+                                     *10ppb Fiber F                                   *25 ppb Graphite F
+                                                                                      *25 ppb Fiber M
+
+                                                                    Yes                                                                                                                      Yes                                                                                                                                                                             Yes                                                                                                              Resume
+                                                                                                                Losses                                                            Losses                                                                  Resume                                                                                                                                                                drilling                                                                                                                                                                                                       if                          reducedLosses                                                             reduced                                                                                            Drilling                          reduced                                                                                                                                                  possible
+
+                                           No                                      No                                       No
+
+                                                                                                                            Go for LCM
+
+                                                                      Pump two LMC pills, if not
+                                                                                                      Treat                                                                                                      as severe                                                                                                                            losses                                                                                                                            or                                                                                                                                                                    Losses          Yes                                  Pump                                             two                                  LMC                                                                                 pills, if                                                                      not                      cured.
+                                                                                                                                                                       reduced                                                                                   go                                                                                     With                                                               LCM                                                                                                                      crosslink                                                                                                                                   ot
+                                              cured.                                                    Treat                                                      as                                                      moderate                                                                              losses.
+                                                                                                 Thixotropic                                                                                                  cement                                                                                                                        plug.
+                                                                                                                          No
+
+                                                                                                                                          Cement Operation
+
+3. Drilling Fluids Program Discussion
+
+   3.1.          26″ Hole Size
+
+                          Casing
+              Casing
+ Hole Size                  Setting     Geological       Lithology           Drilling Fluids
+                 Size
+    (in)                 Depth     Formation                          Design
+                    (in)
+               MD (m)
+
+  26 “       18       60       Aghajari   Marl, Sand-      Bentonite Mud/
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+            5/8”               Formatio  Shale               Hi-Vis Pill Gel
+                              n
+
+       3.1.1. Drilling Fluids Formulation
+
+Bentonite Mud/Hi-Vis Pill Gel has been planned to overcome the drilling problems and increase the
+
+rate of penetration. Rheological properties of the system will be increased and kept in the optimum
+
+range by adding BENTO-GEL API at the concentration of 20 – 30 lb/bbl.
+
+                     Mud Type           Bentonite Mud/Hi-Vis Pill Gel
+
+               MW (PCF)                    63-66
+                                                           Active Mud <100
+               Funnel Viscosity (sec/qt)
+                                                                Hi-Vis Pill = 110
+                          PV (cP)               7 – 10 ( ALAP )
+
+                     YP ( lb/100ft2)                  30 – 35
+
+                     Fluid Loss (cc/30 min)                 NC
+
+                            pH                     9.5 – 10.5
+
+                 MBT ( lb / bbls )                  20 – 30
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+26" Hole Size : BENTO-Gel Mud/ Hi Vis Pill (MW = 63-66 pcf)
+                                                                             Concentration
+         Additives            Material Description         Function
+                                                                      (kg/m3)      (lb/bbl)
+          Drill Water                     Drilling Water             Base Fluid         980.00      343.5
+
+     CAUSTIC SODA                 Caustic Soda            pH Control           2.1          0.7
+
+      SODA ASH                  Soda Ash             Hardness Control         2.8         1
+
+     BENTO-GEL API               API Bentonite                  Viscosifier          80         28
+                                                 pH Control &
+         LIME                     Ca(OH)2                                     2.8         1
+                                                                     Flocculant
+
+       3.1.2. Interval Key Issues (Potential Risks and Mitigations)
+
+           Loss Zone: There is a possibility of complete loss in this interval with No Return mud,
+
+           so LCM pill should be prepared before drilling of this section as contingency.
+
+          Hole Cleaning: Hole cleaning problems could be avoided by proper use of viscosifiers,
+
+              e.g. BENTO-GEL API.
+
+       3.1.3. Engineering Outline & System Maintenance
+
+       The Plastic Viscosity value should be minimized by optimum usage of the solids control
+
+     equipment and by dilution with pre-mix, where applicable, to generate new volume and / or
+
+     reduce mud rheology.
+
+       Yield point should be kept high (the program range) to reduce the annular flow rates
+
+      required and gel value are required to reach to maximum hole cleaning.
+
+       It is essential to remove drilled solids rather than dilute with water to acceptable levels.
+
+      Therefore every effort must be made to maximize the efficiency of the solids control
+
+     equipment. Where possible all centrifuges should be used to process the active mud and
+
+      Desilter discharge.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+     تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                        " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                  )97 / 0331 /م م( :مناقصه شماره
+
+                          Drilling Fluid Program
+
+ Due to the hole size, and the likely pump rates available, a 6 rpm in excess of 12 is advised. In
+
+order to achieve this, a quantity of pre-hydrated BENTO-GEL API will be needed in the system
+
+make up.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+    تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                       " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                 )97 / 0331 /م م( :مناقصه شماره
+
+                         Drilling Fluid Program
+
+3.1.4. Volume Accounting and Estimated Required Material
+
+                             Well Design
+
+Hole Size                             26                     in
+Start Depth                             0          m
+Final Depth                            60          m
+Meters to Drill                          60          m
+Last Casing Setting Depth                 0          m
+Last Casing OD                         0                     in
+Last Casing ID                          0                     in
+Estimated Dilution Rate                    1.50     m3Mud /m3Formation
+Wash Out                             30         %
+                       Volume Accounting
+Casing Volume                      0    m3     0         bbl
+Open Hole Volume at TD             21    m3    130        bbl
+Estimated Dilution Volume            31    m3    195        bbl
+Surface Volume                    100   m3    629        bbl
+Estimated Wash Out Volume           6    m3     38         bbl
+Total Volume                      158   m3    992        bbl
+Recovered Vol. from Last Sec.          0    m3     0         bbl
+New Volume To Build               158   m3    992        bbl
+
+26" Hole Size : BENTO-Gel Mud/ Hi Vis Pill (MW = 63-66 pcf)
+                           Concentration                     Unit Cost                Total Cost
+         Additives                               Unit Size                   Quantity
+                           (kg/m3)  (lb/bbl)               USD              USD
+           Drill Water         980.0   343.5    1    M3                -      155                  -
+    CAUSTIC SODA        2.1     0.7    25    Kg                -       14                   -
+     SODA ASH          2.8     1.0    50    Kg                -       9                   -
+    BENTO-GEL API       80.0    28.0    1    MT                -       13                   -
+         LIME              2.8     1.0    25    Kg                -       18                   -
+
+Total Estimated Interval Cost                                 USD 0.0
+Estimated Interval Cost / bbl                                 USD/BBL 0.00
+Estimated Interval Cost / M3                                 USD/M3 0.00
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                                   " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                                  )97 / 0331 /م م( :مناقصه شماره
+
+                                  Drilling Fluid Program
+
+      3.2.          17 1/2″ Hole Size
+
+             Casing    Casing Setting
+Hole Size                                  Geological         Lithology           Drilling Fluids
+                Size       Depth
+   (in)                                 Formation                            Design
+                  (in)     MD (m)
+
+                                              Aghajari,
+            13 3/8                                                   CLAY-BOND FLUID
+ 17 ½ ”                  1200          Mishan,       Marl, Sand-Shale
+                ”                                                        SYSTEM
+                                      Gachsaran
+
+          3.2.1.        Drilling Operation Overview
+
+   To solve problems associated with this interval and increase the ROP, CLAY-BOND FLUID SYSTEM has
+
+   been designed to drill the formation and inhibit clay and marl problems in this section.
+
+   CLAY-BOND L has also been successfully used to drill clay interbeds in both saline and non-saline
+
+   systems. It is very important to determine MBT of mud during drilling and keep it in the program
+
+   range. Controlling of MW could be done by running SCE and dressing the shakers with finest mesh
+
+   screens, start with 65 pcf MW and increase using salts till 75 pcf (This can be achieved by adding
+
+   saturated salt water to system) and BARA-WATE API for >75 pcf.
+
+   Note: Due to the importance of drilling this section, before each connection and continuing drilling
+
+   wash and ream should be done completely.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+       3.2.2. Drilling Fluids Properties
+
+      Mud Type                     CLAY-BOND FLUID SYSTEM
+       Depth (m)                         1200m
+       Formation                                  Aghajari, Mishan
+    MW (PCF)                                 75-95
+ Funnel Viscosity (sec/qt)                           40-65
+       PV (cP)                               ALAP
+     YP ( lb/100ft2)                               12-20
+   Fluid Loss (cc/30 min)                          NC-<10
+         pH                                      9-10
+    MBT ( lb / bbl )                              <15
+
+       3.2.3. Drilling Fluid Formulation
+
+After cementing 20" casing,  it  is required to prepare the new mud system “CLAY-BOND FLUID
+
+SYSTEM " for 17 1/2" Hole section and displace the hole before drilling the new section.
+
+Mix every batch based on the following formulation:
+
+         Mixing should be done with waste water, inform company man if waste water condition
+
+                 is not good.
+           If ROP is low, Pump Salt Water. In addition, pump 50 bbl Salt Water (69-70 pcf) every
+
+           stand by company man order (Optional).
+         To clean the hole, pump 50 bbl Hi-Vis Pill as Required or every stand by using BIO-XCD
+
+          /PAC UHV (Hi-Vis Pill viscosity should be 65 sec/qt.)
+
+       ** For every 3 stands add 2 Sack of Torque-Free GB M600 and 2 sacks of Torque-Free GB
+
+      M100 from the suction tank
+
+Note: To adjust pH in this interval (Gachsaran formation) use LIME instead of CAUSTIC SODA.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+      3.2.4. Drilling Fluids Formulation based on Maximum MW
+
+17 1/2" Hole Size: CLAY-BOND FLUID SYSTEM (MW = 75-95 PCF)
+                                                                                                   Concentration for 1 bbl Mud
+           Additives                    Material Description                    Function
+                                                                                                     (kg/m3)             (lb/bbl)
+Drill Water                                                     Base Fluid                              750.0           262.9
+CAUSTIC SODA             pH Control                       pH Control                                  5.8               2.0
+LIME                        Ca(OH)2                        pH Control & Flocculent                      2.9               1.0
+SODA ASH                     Hardness Control                     Hardness Control                            5.8               2.0
+SODIUM CHLORIDE AC        Sodium Chloride                       Weighting Agent                         262.9             92.1
+KCL R-UPG                    Potassium Chloride                    Shale Inhibitor                            23.1              8.1
+BIO-XCD                       Xanthan Gum                              Viscosifier                                  2.0               0.7
+PAC UHV                  PAC R                                      Viscosifier/ Thixotropic                       2.0               0.7
+AMYLOSE LV                        Drilling Starch                     FL Control                                34.3             12.0
+PAC LV-TG                 PAC LV                          FL Control                                  5.6               2.0
+CLAY-BOND L              PHPA                                Shale Inhibitor                               4.1               1.4
+TORQUE-FREE GB M600        Solids Lubricant Low & Medium Size     Torque and Drag Reducer                    1.0               0.4
+TORQUE-FREE GB M100        Solids Lubricant Low & Medium Size     Torque and Drag Reducer                    1.0               0.4
+BARA-WATE API                   Barite                                 Weighting Agent                         400.0           140.2
+
+      3.2.5. Interval Key Issues (Potential Risks and Mitigations)
+
+          Loss Zone: There is a possibility of complete loss in this interval with No Return mud, so
+
+        LCM pill should be prepared before drilling this section as contingency.
+
+          Bit Balling: Due to the clay and marl characteristic of the formation, bit balling is one of
+
+           the main problems. It is required to use KCL R-UPG and CLAY-BOND L according to the
+
+          above mentioned to provide cutting encapsulation during drilling.
+
+          Clay & Marl Inhibition: Tight hole might be experienced in this interval due to existence
+
+            of clay & marl in the formation. Good inhibition will be helpful to provide stable hole
+
+            condition.
+
+          Salt Water Flow: There is a possibility of salt water flow. Therefore close monitoring is
+
+           required to maintain Ca++ and pH level.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+    تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                       " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                )97 / 0331 /م م( :مناقصه شماره
+
+                        Drilling Fluid Program
+
+3.2.6.      Engineering Outline & System Maintenance
+
+  Mud weight is in the range of 65 and 101 pcf unless hole dictates, salts and BARA-WATE
+
+    API will be used to rise the mud weight. Controlling of MW could be done by running SCE
+
+    and dressing the shakers with finest mesh screens (150/ 200 mesh size) if possible.
+
+  Dump and dilution is one of the best ways to keep the MW on the guideline especially
+
+    with clean mud systems. Running all solids equipment and dump and dilution would be
+
+    the best way to control the MW.
+
+   Rheological properties of the mud should be monitored to ensure maximum hole
+
+     cleaning.
+
+  Contamination with cement  will increase the  rheological properties of the mud
+
+     especially the yield point. Therefore, prior to cement, YP should be reduced to the
+
+   minimum level if practical.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                              " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                           )97 / 0331 /م م( :مناقصه شماره
+
+                              Drilling Fluid Program
+
+      3.2.7.     Volume Accounting and Estimated Required Material
+
+                                      Well Design
+Hole Size                                   17 1/2                             in
+Start Depth                                   60               m
+Final Depth                                  1200              m
+Meters to Drill                                1140              m
+Last Casing Setting Depth                       150               m
+Last Casing OD                              18 5/8                             in
+Last Casing ID                                  17.755                             in
+Estimated Dilution Rate                             2.90           m3Mud /m3Formation
+Wash Out                                     20              %
+                               Volume Accounting
+Casing Volume                             24       m3      151           bbl
+Open Hole Volume at TD                     177       m3      1113           bbl
+Estimated Dilution Volume                    513       m3      3227           bbl
+Surface Volume                            120       m3      755           bbl
+Estimated Wash Out Volume                   35       m3      221           bbl
+Total Volume                              869       m3      5467          bbl
+Recovered Vol. from Last Sec.                  0        m3       0             bbl
+New Volume To Build                       869       m3      5467          bbl
+
+17 1/2" Hole Size: CLAY-BOND FLUID SYSTEM (MW = 75-95 PCF)
+                                    Concentration                               Unit Cost                         Total Cost
+          Additives                                                Unit Size                        Quantity
+                              (kg/m3)          (lb/bbl)                      USD                    USD
+             Drill Water           710.0         248.9        1     MT                    -         617
+     CAUSTIC SODA          5.8           2.0         25      Kg                    -         202                          -
+          LIME               2.9           1.0         25      Kg                      101
+      SODA ASH            5.8           2.0         50      Kg                    -         101                          -
+  SODIUM CHLORIDE AC    249.8         87.6         1     MT                    -         218                          -
+      KCL R-UPG           22.0           7.7         1     MT                    -          20                           -
+        BIO-XCD              2.0           0.7         25      Kg                    -          70                           -
+       PAC UHV             2.0           0.7         25      Kg                    -          70                           -
+     AMYLOSE LV          34.3          12.0         25      Kg                    -         1,193                         -
+      PAC LV-TG            5.6           2.0         25      Kg                    -         195                          -
+     CLAY-BOND L          4.1           1.4         5       Gal                    -         184                          -
+  TORQUE-FREE GB M600     1.0           0.4         25      Kg                    -          35                           -
+  TORQUE-FREE GB M100     1.0           0.4         25      Kg                       35
+    BARA-WATE API       575.0         201.5         1.5     MT                    -         334
+
+Total Estimated Interval Cost                                                  USD 0.0
+Estimated Interval Cost / bbl                                                     USD/BBL 0.00
+Estimated Interval Cost / M3                                                    USD/M3 0.00
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                                     " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                                     )97 / 0331 /م م( :مناقصه شماره
+
+                                    Drilling Fluid Program
+
+        3.3.          12 ¼″ Hole Size
+
+                     Casing Setting
+            Casing
+Hole Size               Depth           Geological             Lithology          Drilling Fluids
+              Size
+   (in)           MD (m)          Formation                               Design
+                 (in)
+
+                                                              Anhydrite and clay
+                                      Gachsaran        stone, Marl,             HEAVY-DRILL
+ 12 ¼ “    9 5/8 ”       2420
+                                       Formation       Limestone, with high     FLUID SYSTEM
+                                                               pressure salt aquifer.
+
+           3.3.1. Drilling Fluids Formulation
+
+         To drill this section a HEAVY-DRILL FLUID SYSTEM with 105-125 pcf would be used. Salt would
+
+         be used saturation level (1.2 SG) to prohibit the thin inter bedded layers of Salt in member 7 &
+
+         2 from being washed and also will act as a strong shale inhibitor in the system and maintain
+
+     MW as per pore pressure curve dictates in the drilling program using BARA-WATE I and HEMA
+
+        WATE I.
+
+        AMYLOSE LV, a modified starch would be used as a filtration control agent in this section. The
+
+         main concern in this section is the effect of the formation water on the mud properties. If any
+
+          problem rises during the drilling, AMYLOSE LV should be replaced with the PAC ULV at the
+
+           concentration between 0.5-1.5 lb/bbl.
+
+         Note 1: Due to undesirable hole condition while tripping and casing running, performing wash
+
+         and ream on each drilled stand is the best way to have good hole condition.
+
+         Note 3: Check Hardness, Fluid loss, MBT and other properties every 3 hours and be sure all of
+
+         them are in range based on plan.
+
+                        Mud Type          HEAVY-DRILL FLUID SYSTEM
+                  MW (pcf)                   105-125
+
+                    Funnel Viscosity (sec/qt)                    65-80
+
+                             PV (cps)               70 – 75 ( ALAP )
+                          YP ( lb/100ft2)                    ± 25
+                           Fluid Loss (cc/30 min)                   ≤ 1.5
+                                pH                  9 – 9.5
+
+                    MBT ( lb / bbls )                    < 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+       تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                             " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                         )97 / 0331 /م م( :مناقصه شماره
+
+                             Drilling Fluid Program
+
+   12 1/4" Hole Size : HEAVY-DRILL FLUID SYSTEM (MW: 105-125 pcf)
+                                                                                         Concentration
+          Additives               Material Description          Function
+                                                                              (kg/m3)        (lb/bbl)       (lb/bbl Water)
+
+             Drill Water                                         Base Fluid          650.00       227.8
+  SODIUM CHLORIDE AC          Sodium Chloride      Weighting Agent/Inhibitive    227.3        79.7         123.21
+           LIME                     Ca(OH)2         pH Control & Flocculant       2.8          1             1.54
+     CAUSTIC SODA
+                                          Caustic Soda            pH Control             2.8          1             1.54
+(As Necessary for Treatment)
+      SODA ASH
+                                     Soda Ash             Hardness Control          5.6          2             3.07
+(As Necessary for Treatment)
+      AMYLOSE LV                      Drilling Starch            FL Control           15.56          5.5            8.45
+       PAC ULV                 PAC LV               FL Control            3.58          1.3            2.00
+         BIO-XCD
+                                       Xanthan Gum                 Viscosifier             1.5           0.5            0.77
+ (As Necessary for Rheology)
+
+      BARA-WATE I                        Barite                Weighting Agent       1050        368          565.41
+
+     3.3.2. Interval Key Issues
+
+         Salt Water Flow: Gachsaran formation has the potential of salt water flow. The hardness
+
+          of this water is between 35000-53000 mg/l, so any increase in the hardness of mud
+
+        would be an indication of possible salt water flow. Therefore, during drilling this section,
+
+         hardness of the system must be checked and monitored three times per day for any
+
+          increase in Ca++ ions.
+
+          Losses: In the upper part of Gachsaran a weak zone has been experienced. Layers
+
+         interbedded in the salts in Gachsaran Members 2 & 3 can have normal pressure, and
+
+          therefore a reduced fracture gradient compared to the salt layers. Heavy losses might be
+
+         experienced in Gachsaran. Losses have also been seen in the first shale layer of Cap Rock,
+
+             its second layer from the top, so  it  is very important not to  drill deeper than
+
+         approximately one meter into this Member.
+
+        Stuck Pipe: Tight hole / stuck pipe in the 12 1/4" hole section is typically isolated to the
+
+          Shales/Clay stones and salt beds. The stuck in Shales and clay stones as far as the MW is
+
+         adjusted correctly and FL is tight and the salinity is saturation is not a matter of concern.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+      تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                          " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                    )97 / 0331 /م م( :مناقصه شماره
+
+                           Drilling Fluid Program
+
+   3.3.3. Engineering Outline & System Maintenance
+
+Mud Weight
+
+ In the initial mixing, salt would be the first weighting agent to Saturation level, then BARA
+
+ WATE I and HEMA WATE I will be used as per above instruction to reach to 105-125 pcf as hole
+
+ conditions dictate. Controlling the mud weight meanwhile drilling would be done by running all
+
+ SCE and dump and dilution. Pore pressure is expected to be marginally above the normal
+
+ pressure in the Jurassic / Upper Triassic.
+
+ Mud weight selection is critical in this interval. In some offset wells, excessive losses may occur
+
+ in the Gachsaran member 3 when the mud weight is higher than the optimum. On the other
+
+ hand, in some offset wells, water flow could be encountered when the mud weight is allowed
+
+ to fall down below optimum MW.
+
+  It is important to drill this section with the mud weight being kept as per the guide line, also by
+
+ running all solids control equipment and dressing the shakers with finest mesh screens; it is
+
+ possible to minimize the ECD and the potential for induced losses.
+PH
+ The viscosity of a clay suspension is lowest in the pH range of 7 to 9.5 so in this section, pH
+
+ should be kept at the range of 9-9.5.
+Shale Inhibition
+ Salt would be used for shale inhibition to combat the Gachsaran Marl/Shale’s. However, the
+
+ very tight FL would be the other shale inhibition property of the system. Controlling the salinity
+
+ saturation is vital to drill into Gachsaran formation against troublesome Shales/Marls.
+Rheological Properties
+
+    PV is always to be kept as low as possible by reducing the drilled solids concentrations of
+
+     mud using the proper installation of the solids control equipment so that the hydraulics is
+
+       optimized. High gel values are required to support the high quantity of weighting agents
+
+       while tripping, making connections and during survey times. PV should be kept in the
+
+       range mentioned in the drilling fluid program.
+
+    A thin salt bed in Gachsaran member 2 is a red flag for Geologist that means reaching to
+
+      cap rock is imminent, salinity below the saturation will cause the salt samples to be
+
+       dissolved in the system resulting in no salt sample over the shakers.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                              " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                           )97 / 0331 /م م( :مناقصه شماره
+
+                              Drilling Fluid Program
+
+      3.3.4. Volume Accounting and Estimated Required Material
+
+                                Well Design
+Hole Size                                 12 1/4                  in
+Start Depth                                1200         m
+Final Depth                                2420         m
+Meters to Drill                               1220         m
+Last Casing Setting Depth                     1452         m
+Last Casing OD                             13 3/8                  in
+Last Casing ID                              12 2/5                  in
+Estimated Dilution Rate                             7.5     m3Mud /m3Formation
+Wash Out                                   25         %
+                          Volume Accounting
+Casing Volume                           113   m3    714         bbl
+Open Hole Volume at TD                    93   m3    584         bbl
+Estimated Dilution Volume                  696   m3    4378         bbl
+Surface Volume                           120   m3    755         bbl
+Estimated Wash Out Volume                 23   m3    145         bbl
+Total Volume                            1045  m3    6576        bbl
+Recovered Vol. from Last Sec.                 0   m3     0           bbl
+New Volume To Build                     1045  m3    6576        bbl
+
+12 1/4" Hole Size : HEAVY-DRILL FLUID SYSTEM (MW: 105-125 pcf)
+                                  Concentration                     Unit Cost                 Total Cost
+            Additives                                    Unit Size                   Quantity
+                                 (kg/m3)   (lb/bbl)               USD               USD
+               Drill Water             650.0    227.8   1      bbl                 -      4,275                  -
+   SODIUM CHLORIDE AC      227.3    79.7    1    MT                 -      238                   -
+           LIME                 2.8      1.0   25    Kg                  118
+      CAUSTIC SODA
+                                    2.8      1.0   25    Kg                 -      118                   -
+  (As Necessary for Treatment)
+       SODA ASH
+                                    5.6      2.0   50    Kg                 -      118                   -
+  (As Necessary for Treatment)
+      AMYLOSE LV            15.6     5.5   25    Kg                 -      651                   -
+        PAC ULV               3.6      1.3   25    Kg                 -      150                   -
+          BIO-XCD
+  (As Necessary for Rheology)      1.5      0.5   25    Kg                 -       63                    -
+      BARA-WATE I          1050.0   368.0   1.5   MT                 -      732                   -
+
+Total Estimated Interval Cost                                      USD 0.0
+Estimated Interval Cost / bbl                                       USD/BBL 0.00
+Estimated Interval Cost / M3                                       USD/M3 0.00
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                                   " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                                  )97 / 0331 /م م( :مناقصه شماره
+
+                                  Drilling Fluid Program
+
+       3.4.          8 1/2″ Hole Size
+
+          3.4.1. Drilling Fluids Program Discussion-Option I WBM
+
+                      Casing Setting
+            Casing
+Hole Size               Depth           Geological           Lithology          Drilling Fluids
+              Size
+   (in)            MD (m)         Formation                             Design
+                 (in)
+
+                                                   Limestone-shale    ULTRA
+                                                       interbeded    INHIBIT
+8 3/8 “     7”        3019         Asmari       sandstone, shale   DRILLING
+                                                       interbeded     FLUID
+                                                           glauconite   SYSTEM
+
+             3.4.1.1.   Drilling Fluids Formulation
+
+   ULTRA INHIBIT FLUID SYSTEM has been design to drill this section. The mud weight should be
+
+    adjusted to 65-67 pcf using salt.
+
+     Mud Type                      ULTRA INHIBIT DRILLING FLUID SYSTEM
+                                                65-67
+    MW (PCF)                            It should be increased 1 pcf every 67m
+                                 up to 67 pcf then keep it till TD
+       Funnel Viscosity (sec/qt)                   40-50
+      PV (cps)                           15 – 25 ( ALAP )
+      YP ( lb/100ft2)                         18 – 25
+     HPHT Fluid Loss (cc/30 min)                < 4
+     pH                                         9.5-10
+     MBT ( lb / bbl )                           < 10
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+             تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                                        " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                                         )97 / 0331 /م م( :مناقصه شماره
+
+                                      Drilling Fluid Program
+
+        8 3/8" Hole Size : ULTRA INHIBIT DRILLING FLUID SYSTEM (MW:65-67 PCF)
+      (This Table is based on one barrel Mud)
+
+          Additives                Material Description              Function           Amount            Unit
+
+Drill Water                                               Base Fluid                    84             %vol
+                                                          Weighting                         (5-7)          %wt
+KCL R-UPG                      Potassium Chloride
+                                                                  Agent/Inhibitive               15.7-23.1           lb/bbl
+SODIUM CHLORIDE AC(to                                                                               (5-7)          %wt
+                              Sodium Chloride                Weighting Agent
+Adjust MW)                                                                                 15.7-22.4           lb/bbl
+CAUSTIC SODA                     Caustic Soda               pH Control                       0.5-1             lb/bbl
+SODA ASH                     Soda Ash                     Hardness Control                1-1.5             lb/bbl
+AMYLOSE LV                     Modified Potato Starch            Fluid Loss Control               8-10              lb/bbl
+PAC LV-TG                    PAC LV                            Fluid Loss Control                3-4              lb/bbl
+BIO-XCD                       Xanthan Gum                      Viscosifier                       0.5-1             lb/bbl
+PAC UHV                       Pac R                              Viscosifier/ Thixotropic           0.5-1             lb/bbl
+ASPHA-SHALE MP                Solphonated Asphalt             Shale Inhibitor                   1-2              lb/bbl
+CARBO-WATE F                Limestone Powder              Weighting Agent               5               lb/bbl
+GLYCO-DRILL GP                   Glycol                              Inhibitive                        3-4             %vol
+CLAY-BOND L (Optional)        PHPA                          Shale Inhibitor                   0.5-1            %vol
+TEMP STAB-L                   Temperature Stabilizer          Temperature Stabilizer           0.5-1            %vol
+       Mixing Procedure for Base Fluid:
+
+       Concentration in Mixing Procedure is based on 1 barrel Mud
+
+           1-   Fill the tanks with required volume of Drill water (it should be 84 % vol of total required Mud
+
+             volume, for example to build 100 bbl mud, drill water should be 84 bbl.)
+
+           2-  Add 15.7 lb/bbl (5%wt) KCL R-UPG, before 3935m (layer 3 Asmari) increase to 7%wt and keep
+
+           7%wt till TD.
+
+           3-  Add 15.7 lb/bbl (5% wt) SODIUM CHLORIDE AC ,before 3935m (layer 3 Asmari) increase to
+
+           7%wt and keep till TD (adjust MW to 67 pcf and keep it till TD).
+
+           Note: Drill water should be tested before mixing and if its hardness is more than 400mg/l, it
+
+           should be treated using CAUSTIC SODA and SODA ASH to control hardness in acceptable range
+
+          below 400mg/lit.
+
+           For Treatment, Adjust pH to 10.5 using CAUSTIC SODA (0.5-1 lb/bbl) then add SODA ASH (1-1.5
+
+             lb/bbl).
+
+           4-  Add 8-10 lb/bbl AMYLOSE LV.
+
+           5-  Add 3-4 lb/bbl PAC LV-TG.
+
+           6-  Add 0.5-1 lb/bbl BIO-XCD.
+
+           7-  Add 0.5-1 lb/bbl PAC UHV.
+
+           8-  Add 1-2 lb/bbl ASPHA-SHALE MP.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+   9-  Add 5 lb/bbl CARBO-WATE F.
+
+   10- Add 3-4% vol GLYCO-DRILL GP.
+
+   11- Add 0.5-1% vol CLAY-BOND L (As Optional) in shale intervals.
+
+   12- Add 0.5-1% vol TEMP STAB L.
+
+          3.4.1.2.    Interval Key Issues
+
+ Swab possibility
+
+Special care must be taken when the BHA is inside the previous casing. In contrary to popular belief,
+
+pressure does travel easily in drilling fluids, so tripping speed must be controlled to avoid swabbing.
+
+ Stuck Pipe
+
+The combination of different size of CARBO-WATE incorporated into the mud will form a thin and
+
+slick filter cake in borehole and prevent the risk of stuck pipe.
+
+ Drilling Issues
+
+When drilling through reservoir, swabbing of hydrocarbons can be experienced. Influx due to
+
+overpressure vs. influx due to swabbing must be differentiated.
+
+ Losses
+
+It is recommended to drill with as low as possible mud weight through the reservoir to prevent any
+
+losses.
+
+ H2S & CO2 Gases
+
+There  is possibility for existence of H2S and CO2 Gases in the reservoir zone (Asmari),  it  is
+
+recommended to keep the pH around 9.5 to 10 and also using H2S SCAV P to prevent mud properties
+
+from being changed.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                                     " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                                     )97 / 0331 /م م( :مناقصه شماره
+
+                                    Drilling Fluid Program
+
+               3.4.1.3.   Volume Accounting and Estimated Required Material
+
+                                              Well Design
+     Hole Size                                                  8 3/8                   in
+      Start Depth                                                ~3000         m
+      Final Depth                                                 ~ 3700        m
+     Meters to Drill                                               ~ 700         m
+      Last Casing Setting Depth                                     ~ 3000        m
+      Last Casing OD                                             9 5/8                   in
+      Last Casing ID                                              8 2/3                   in
+      Estimated Dilution Rate                                               6.0      m3Mud/m3Formation
+    Wash Out                                                   20           %
+                                     Volume Accounting
+      Casing Volume                                           145   m3      910         bbl
+     Open Hole Volume at TD                                   17   m3      106         bbl
+      Estimated Dilution Volume                                  101   m3      636         bbl
+      Surface Volume                                          120   m3      755         bbl
+      Estimated Wash Out Volume                                 3    m3       19         bbl
+      Additional Volume                                        100   m4      629         bbl
+      Total Volume                                            385   m3      2426        bbl
+     Recovered Vol. from Last Sec.                                0    m3       0          bbl
+    New Volume To Build                                     385   m3      2426        bbl
+
+8 3/8" Hole Size : ULTRA INHIBIT DRILLING FLUID SYSTEM
+(MW: 65-67 PCF)
+                                      Concentration                         Unit Cost                   Total Cost
+           Additives                                           Unit Size                   Quantity
+                                (kg/m3)       (lb/bbl)                  USD                 USD
+            Drill Water             853.0       299.0    1   MT                  -      329                    -
+    SODIUM CHLORIDE          37.8        22.4     1   MT                  15
+        KCL R-UPG              65.9        23.1     1   MT                  -      26                     -
+      CAUSTIC SODA              2.9          1.0     25    Kg                   -      44                     -
+       SODA ASH                4.3          1.5     50    Kg                   -      33                     -
+      AMYLOSE LV             28.5        10.0    25    Kg                   -      440                    -
+       PAC LV-TG              11.4         4.0     25    Kg                   -      176                    -
+        PAC UHV                2.9          1.0     25    Kg                   -      44                     -
+         BIO-XCD                 2.9          1.0     25    Kg                   -      44                     -
+     ASPHA-SHALE NHP            5.7          2.0     25    Kg                   -      88                     -
+      GLYCO-DRILL GP            42.8        15.0    55    Gal                  -      78                     -
+     CARBO-WATE F            14.3         5.0     1   MT                  -       6                      -
+       TEMP-STAB L             10.0         3.5     55    Gal                  19
+       CLAY-BOND L             10.0         3.5      5     Gal                 199
+
+Total Estimated Interval Cost                                             USD  0.0
+Estimated Interval Cost / bbl                                              USD/BBL  0.00
+Estimated Interval Cost / M3                                         USD/M3  0.0
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                                 " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                               )97 / 0331 /م م( :مناقصه شماره
+
+                                Drilling Fluid Program
+
+        3.4.2. Drilling Fluids Program Discussion-Option II OBM
+
+      Drilling Fluids System                         OBM
+
+                           Casing
+Hole Size     Liner Size      Setting           Geological                  Lithology
+   (in)             (in)       Depth           Formation
+                MD (m)
+
+                                                                     Limestone-shale interbeded
+ 8 3/8”         7”       3300 ± 20           Amari            sandstone, shale interbeded
+                                                                                glauconite
+
+ 8 3/8” hole section has been drilled through Amari Formation to enter reservoir. This interval has
+
+ plenty of shaly, claystone interbedded formation. Tight Hole, Losses, Stuck pipe, Stuck Casing and
+
+ Shale sloughing problem in Laffan formations are major problem while drilling this section.
+
+           3.4.2.1.  Drilling Fluids Properties
+
+      Mud Type                                      Oil Base Mud
+
+    MW ( PCF )                                   67-69
+     O/W Ratio                                   85/15
+        Funnel Viscosity (Sec/q)                        50-60
+       PV (cps)                                  ALAP
+       YP ( lb/100ft2)                             15 – 25
+      HPHT F. L. (cc/30 min)                          <4
+        Excess Lime (lb/bbl)                           >2
+        ES                                         >600
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+          3.4.2.2.  Drilling Fluids Formulation
+
+8 3/8" Hole Size: OBM (MW: 67-69 PCF)
+
+                                                                                       Concentration
+            Additives                   Material Description             Function
+                                                                                                   bbl/bbl      (lb/bbl)
+
+             Diesel                              Diesel                   Base Fluid          0.71
+        OBM-EMUL P                    Primary Emulsifier             Primary Emulsifier                 8
+            Lime                      Calcium hydroxide                Alkalinity Control                 8
+        OBM FLC                 OBM FLC                  Fluid Loss Control                 8
+         CaCl2 Brine                  CaCl2 Brine              Saturated CaCl2 Brine      0.2
+        OBM-EMUL S                 Secondary Emulsifier          Secondary Emulsifier               4
+        OBM VIS               OBM Viscosifier                    Viscosifier                       1.5
+    Calcium Carbonate 75mic               Lime Stone                 Weighting Agent                  42.1
+
+Note: Final Volume is 1 BBL
+
+          3.4.2.3.  Estimated Required Drilling Fluids Volume
+
+8 3/8" Hole Size: OBM (MW: 67-69 PCF)
+                            Concentration                  Unit Cost                Total Cost
+         Additives                              Unit Size                 Quantity
+                           (kg/m3)  (lb/bbl)                                        0
+           Diesel          710.00  248.90  1   m3                 189
+     OBM-EMUL P        22.80   8.00   55    Gal                 29         0.00
+          Lime            22.80   8.00   25   Kg                 243        0.00
+     OBM FLC         22.80   8.00   25   Kg                 243        0.00
+       CaCl2 Brine        200.00  70.10  42    Gal                 327        0.00
+     OBM-EMUL S        11.40   4.00   55    Gal                 15         0.00
+      OBM VIS           4.20    1.50   25   Kg                 45         0.00
+ Calcium Carbonate 75mic  120.00  42.10   1   MT                 32         0.00
+                   -              0.00    0.00   0    0.00                 0
+
+Total Estimated Interval Cost                                          0 0.0
+Estimated Interval Cost / m3                                          0 0.00
+Estimated Interval Cost / bbl                                          0 0.00
+Estimated Interval Cost / Meter                                        0 0.00
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+4. Completion Fluids Design and Program
+
+   4.1.     Clean up and Completion Program
+
+This program describes the procedure to clean up and displace the cased hole from water based mud
+
+brine as safely and effectively as possible prior to running the completion equipment.
+
+Clean working practices and good housekeeping as always are important.
+
+All rig pits, ditches, and lines (including gun lines) should be cleaned using solvents and detergents.  If it is
+
+practical, lines should be opened to check for any mud solids that might have settled in them.
+
+All the pits, sand traps, and under the shale shakers should be cleaned out and washed down using high
+
+pressure cleaning equipment. In the pit room, all gratings should be cleaned, all the lights and beams
+
+should be washed down.
+
+All cleaning should be done well in advance wherever possible. To clean pits and lines, 15 m3 of
+
+water containing 1 to 2 drums of CLEAN SURF should be mixed up and circulated through all lines,
+
+gun lines, mixing lines etc. This can also be used to clean the tank system initially.
+       Pump should be worked at the maximum safe rate.
+        The below check list should be filled by the supervisor in the site.
+
+                      Equipment              Complete
+                Brine Storage Tanks
+                Transfer Lines
+                      Pill and Slug Pits
+               Reserve/Mix Pit
+                Rig Pumps
+                 Trip Tank
+            Pump Charge Lines
+             Cement Unit Lines
+              Choke Unit Lines
+                      Kill Lines
+       It should be noted that all dump valves should seal with grease to ensure they are in good order.
+       All ditch gates should be sealed with silicon on each side of the gate.  This will need to be
+
+     replaced if the gate is opened.
+      Under no circumstances should barite, bentonite or polymers be used to seal anything.
+       All pump packing should be examined before starting the cleaning.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+      تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                           " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                      )97 / 0331 /م م( :مناقصه شماره
+
+                           Drilling Fluid Program
+
+4.2.     Completion Fluids Design and Formulation
+
+          The completion fluid for this section will be fresh water treated with a scavenger,
+
+            inhibitor and biocide.
+
+            Solids-Free Nacl Fluid Systems
+
+            This fluid is recommended to make from fresh water or is solutions made with water
+
+         and the addition of one or more electrolytes. These fluids do not contain either
+
+          suspended particles or viscosifiers, which mean neither filtration control nor viscosity
+
+            control, are provided.
+
+           Corrosion Control:
+
+        Some NaCl is corrosive and when corrosion inhibitors are required, compatibility
+
+            studies should be performed. The corrosion problem can be solved by adjusting the
+
+        pH of the solution to above 10.5 - 11; however, pH measurements may be less
+
+           important than measuring and controlling the. It may be necessary to use a corrosion
+
+            inhibitor to achieve lower corrosion rates. In some cases, an oxygen scavenger might
+
+         be used in conjunction with a filming amine inhibitor.
+
+             Filtration Process:
+
+             Filtration provides clean fluids that  will prevent damage to the formation, the
+
+            reservoir and its permeability. It does this by removal of solids and particulates from
+
+           the  fluid that may otherwise block the open space within the rock formation
+
+           containing the hydrocarbon fluid within the production zone.
+
+         Any solids and contaminates in the completion fluid will reduce its effectiveness. An
+
+             efficiently filtered and completely solid free completion fluid will add value to both
+
+           the productivity and the dependability of the well in the long term.
+
+          Dual pod filtration cartridge unit is recommended for filtering brines (5 microns and
+
+         25 microns filter cartdriges) and produced water in completion, stimulation, and
+
+          workover operations. The pods are connected by a manifold, providing staged
+
+              filtration capability. Staged filtration utilizes cartridge filters with different ratings to
+
+          maximize filtration efficiency. Cartridge filtration  is designed for use with fluids
+
+           containing a low percent by volume of suspended solids. Cartridge filtration is not
+
+          economic when fluids are contaminated with oil or other substances.
+
+          Displacement Process:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+      تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                           " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                      )97 / 0331 /م م( :مناقصه شماره
+
+                           Drilling Fluid Program
+
+                It is recommended to circulate and condition the mud prior to displacement and to
+
+           spot the open hole section to conditioned mud or a solids-free fluid loss pill. Circulate
+
+         and condition the mud as needed prior to pumping the clean out pills to optimum
+
+           displacement properties).
+
+          Completion fluid
+
+               1.   Fill up tank as require drill water
+
+               2.  Added 2 lb/bbl Lime to adjust PH about 10-11
+
+               3.  Added 71 lb/bbl NaCl to weight up at 69 pcf.
+
+               4.  Corrosion inhibitor Packer fluid design at rate of 0.4 GPB.
+
+               5.  Oxygen scavenger (to eliminate dissolved oxygen as source of corrosion) at
+
+                  rate of 0.2 GPB.
+
+               6.  H2S Scavenger at rate of 0.2 GPB.
+
+4.3.     RIG CLEAN UP CHECK LIST
+
+           A. Areas to clean.
+
+                 1.  Surface pits.
+
+                 2.  Clean the suction, return, settling, and reserve pits.
+
+                 3.  Clean the sand traps.
+
+                 4.  Clean the ditches and troughs.
+
+                 5.  Clean the trip tank.
+
+                 6.  Clean the shaker area including all solids equipment and lines.
+
+                 7.  Clean the mixing hoppers.
+
+                 8.  Clean the cement unit.
+
+                 9.  Cycle all valves in mixing system.
+
+            B. Items to flush out.
+
+                 1.   All mud pumps and suction lines.
+
+                 2.   All centrifuges and lines.
+
+                 3.  Chemical and weighting mixing lines in contact with the completion fluid.
+
+                 4.  Lines from the pit room to the trip tank.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+                     5.  Lines from the rig floor to the trip tank.
+
+                     6.  Choke, choke manifold and kill lines.
+
+                     7.  Standpipes.
+
+                     8.  Degassing and solids control equipment.
+
+                     9.  Lines to the cement unit and/or other pumping equipment.
+
+                   10. Casings fill up line.
+
+                   11. Lines to and from the filtration line.
+
+                   12. Take on and return lines to and from the boat.
+
+                   13. Any other lines that the completion fluid may contact.
+
+   4.4.     Displacement Procedure
+
+To ensure effective mud displacement and water wetting of the casing, the displacement pill needs to be
+
+designed carefully. The use of a weighted push pills with a viscosity greater than that of the mud, will
+
+minimize channeling and ensure good cleaning of the low side of the well bore.
+
+The best fluid for thinning the mud is the continuous phase of the mud. In addition, SPERSEEN CFL could
+
+be used to reduce the yield point and gel strengths. The yield point should be between 8 to10 Pa and the
+
+10 minute gel to <10 Pa. The actual quantity of material required to do this must be determined by the
+
+pilot testing performed by the mud engineer to determine the most cost-effective treatment.
+
+Throughout the drilling fluid conditioning process, the flow rate used should be the maximum practical
+
+rate.
+
+       The drill string should be reciprocated and rotated during the operation. The combined effect of
+
+      scrapers being run in the hole, the high flow rate and the reciprocation/rotation will help to
+
+      remove/disperse large quantities of mud solids and general debris. The reciprocation stroke
+
+      should be +/- 10 m. and the rotation speed should be +/- 60 RPM
+
+       During this operation, as much of the surface volume of mud as possible should be removed
+
+     from the pits to accommodate the inhibited water and the well clean up pills. Once the mud has
+
+     been back-loaded, surface preparation can be done.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+       At least 150 m of pill/spacer coverage or 3 min contact time at the highest pump rates should be
+
+      considered.
+
+       Pit levels should be monitor throughout the displacement operation to catch and prevent an
+
+       influx entering the well contributing to an incident.
+
+   4.5.     Brine Formulation & Volume Estimates
+
+           Hole Size                Mud Weight            Interval   CSG Vol.   Liner Vol.  Pills & Losses  Surface  Total Vol.
+
+           completion                     69 pcf                       900 bbl     60 bbl       300       300 bbl  1560 bbls
+
+                                                    Main Material & Vol.
+                                                                                            Contaigency
+      Description       Conc.   Total Vol.                  Unit Size                    Price                                           Unit Size                        Price
+                                                                                                        Material
+        Caustic         1 PPB                20         25 Kg       Sxs                LCM - F         90           25 Kg          Sxs
+                             1560 bbls
+           Salt          60 PPB                45        MT        BB                LCM - M         60           25 Kg          Sxs
+
+   Corrosion Inhibitor   0.4 Gal/BBl               10         55 Gal      Drum                LCM - C         30           25 Kg          Sxs
+  Oxygen Scavenger   0.2 Gal/BBl               5         55 Gal      Drum              XC Polymer        10           25 Kg          Sxs
+                             1300 bbls
+   H2S Scavenger     0.2 Gal/BBl               5         55 Gal      Drum                   Caustic Soda       30           25 Kg          Can
+        BioCide         0.2 Gal/BBl               5         55 Gal      Drum                 Soda Ash          7            25 Kg          Sxs
+
+NOTE: Inhibitor’s Concentration has been calculated only for the portion of brine which is going to be
+use for displacement not cleaning pills.
+
+NOTE: Caustic, Soda ash and XC Polymer concentrations calculated for 200 bbls Hi-Vis brine pill for
+sweeping the hole before Displacement.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+5. Estimated Main Mud Material for One Well
+
+                                                 Estimated Required Mud Material
+ Item      Mud Material
+                                                                                             Total for 1
+                                   Unit Size   26"   17 1/2" 12 1/4"  8 1/2"  Completion
+                                                                                     Well
+  1         CAUSTIC SODA         25 Kg     14      202                                  216
+  2         SODA ASH           50 Kg      9      101                                  110
+  3         BENTO-GEL API          1 MT      13       0      0                             13
+  4             LIME              25 Kg     18      101    118                           237
+  5      SODIUM CHLORIDE AC       1 MT      0      218    238                           456
+  6          KCL R-UPG            1 MT      0      20      0                             20
+  7            BIO-XCD             25 Kg      0      70                                   70
+  8         AMYLOSE LV          25 Kg      0      1,193   651                             1,844
+  9         PAC LV-TG           25 Kg      0      195                                  195
+  10          PAC ULV                                    150
+  11         PAC UHV            25 Kg      0      70                                   70
+  12       BARA-WATE API           1.5 MT     0      334                                  334
+  13        BARA-WATE I            1.5 MT                   732                           732
+  14        HEMA-WATE I            1.5 MT                                                    0
+  15         CLAY-BOND L           5 Gal      0      184     0                            184
+  16       CARBO-WATE F          1 MT      0       0      0                              0
+  17         H2S SCAV P           25 Kg      0       0      0                              0
+  18          BRINE-COR           55 Gal      0       0      0                              0
+  19           BIO-CIDE MP           5 Gal      0       0      0                              0
+  20     CALCIUM CHLORIDE DH      1MT       0       0      0                              0
+  21     TORQUE-FREE GB M600      25 Kg      0      35      0                             35
+  22     TORQUE-FREE GB M100      25 Kg             35                                   35
+  23        OX SCAV P           25 Kg      0       0      0                              0
+  24      ASPHA-SHALE NHP        25 Kg                                                    0
+  25         TEMP-STAB L          55 Gal                                                    0
+  26        GLYCO-DRILL GP         55 Gal                                                    0
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        تنگهداش و افزایش محور عملیات طرح از یکپارچه بسته یک قالب در منصورآباد طرح" مناقصه
+                               " جنوب نفتخیز مناطق ملی شرکت منتخب مخزن 27 تولید
+                                                            )97 / 0331 /م م( :مناقصه شماره
+
+                               Drilling Fluid Program
+
+6. Estimated Contingency Mud Material for One Well
+
+                                              Estimated Contingency Material
+Item      Mud Material
+                                               17     12      8
+                                    Unit Size  26"                          Completion
+                                                  1/2"    1/4"    1/2"
+ 1   MICA C                        25 Kg     40     40      40
+  2   MICA M                       25 Kg     40     40      40
+ 3   MICA F                        25 Kg     40     40      40
+  4   WAL-NUT C                    25 Kg     40     40      40
+ 5   WAL-NUT M                    25 Kg     40     40      40
+  6   WAL-NUT F                     25 Kg     40     40      40
+ 7   SODIUM BICARB                25 Kg            20      20      40
+  8    CITRIC ACID                    25 Kg            20      40      40
+ 9   DEFOAM ALC                   55 Gal            4       4       4
+ 10   ECO-LUB HP                    55 Gal            8
+ 11   SPERSEEN CFL                  25 Kg                    85      40
+ 12   RHEO-REDU                    55 Gal                    36
+ 13   H2S SCAV P                    25 Kg                            20
+ 14    PIPE-FREE HP                   55 Gal            4       8       8
+ 15   ROP ENHANCER                 55 Gal            4
+ 16  WBM EMULSIFIER               55 Gal                            4
+ 17   BRINE-COR                    55 Gal                            4
+ 18   BIOCIDE HP                     5 Gal                            40
+ 19   LIME                          25 Kg            40              20
+ 20   CARBO-WATE M                25 Kg                            80
+ 21   CARBO-WATE SF                25 Kg                            80
+ 22   OYSTER-SHELL F                 25 Kg                            80
+ 23   OYSTER-SHELL M                25 Kg                            80
+ 24   OYSTER-SHELL C                 25 Kg                            80
+ 25   CLEAN-SURF                   55 Gal            4       4       4          4
+ 26   TEMP-STAB L                   55 Gal                    36
+ 27   TEMP-STAB G                  55 Gal                    36
+ 28   BIO XCD                       25 Kg                    46
+ 29   CAUSTIC SODA                  25 Kg                    85
+ 30   SODA ASH                     50 Kg                    85

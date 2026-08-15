@@ -1,0 +1,1112 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 22 ]
+────────────────────────────────────────────
+TRACKMASTER TM
+
+             Operating Procedure
+
+
+
+         ES20.39385 REV. D
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 22 ]
+────────────────────────────────────────────
+        OPERATING PROCEDURE
+
+
+
+
+
+                       THE ONE TRIP SIDETRACKING SYSTEM
+
+                              ES20.39385
+                                Revision 'D'
+
+
+
+
+
+                                         REFERENCEREFERENCEREFERENCEREFERENCEREFERENCE ONLONLONLYONLONL
+                                     UNCONTROLLEDUNCONTROLLEDUNCONTROLLEDUNCONTROLLEDUNCONTROLLED
+                                         COPYCOPYCOPYCOPYCOPY
+
+
+
+
+                                  DATE: 26-JAN-98  INDEX
+                            DRAWN : RDC         ES 20               OPERATING PROCEDURE
+  P.O. Box 60068 HOUSTON, TX 77205
+                                 APPVD: CHD
+THIS DRAWING AND DATA EMBODY  D        13283    31-Aug-01   RDC
+PROPRIETARY INFORMATION WHICH IS
+THE CONFIDENTIAL PROPERTY OF SMITH                                   OPERATION PROCEDURE FORDRILLING & COMPLETIONS, AND WHICH  C        11867    29-Oct-99    RDC
+SHALL NOT BE COPIED, REPRODUCED,                                              THE
+DISCLOSED TO OTHERS, OR USED IN                                         TRACKMASTERTM:                        B        9211     26-Jan-98   RDC
+WHOLE OR IN PART FOR ANY PURPOSE,                                     A ONE TRIPWITHOUT THE EXPRESS WRITTEN
+PERMISSION OF SMITH. THIS DRAWING IS  A        9115     07-Aug-97   RDC          SIDETRACKING
+LOANED IN CONFIDENCE WITH THE                                         SYSTEM
+UNDERSTANDING THAT IT SHALL BE    REV       ECN       DATE       BY
+RETURNED ON DEMAND.                REF                       REV C         PAGE           SPEC NO.
+                                                                         1 of 21      ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 22 ]
+────────────────────────────────────────────
+RECORD OF REVISIONS
+
+OPERATING PROCEDURE - TRACKMASTERTM SYSTEM
+A ONE TRIP SIDETRACKING SYSTEM
+
+
+Revision           ECN                Section               Date
+
+    A                            9115                                        All                      7-Aug-97
+
+    B                           9211                 Title,                                       26-Jan-98
+                                                Record of Revision,
+                                                      Contents,
+                                                          Part I:
+                                                                1.0 Abstract, 3.1 Table, 3.2
+                                                          Table, 3.3 Text, 3.5 Table,
+                                                                5.7 Text, 6.4.2 Table, 8.5
+                                                                   Table, 8.6 Table.
+                                                           Part II:
+                                                                1.1 Table, 1.2 Table,
+                                                                1.3 Table, 2.1 Table,
+                                                                2.2 Table, 3.1 Table
+                                                                3.2 Table, 4.1 Table,
+                                                                4.2 Table, 5.1 Table,
+                                                                5.2 Table.
+                                                            Part III:
+                                                                2.0 Graphic & Table.
+
+
+   C                          11867                                  All Sections                   29-Oct-99
+
+   D                          13283                       Cover Page                  31-Aug-01
+                                                    Company Logo
+
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                               2 of 21      ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 22 ]
+────────────────────────────────────────────
+CONTENTS
+
+TITLE PAGE ......................................................................................................... 1
+ECN REVISIONS CONTROL .............................................................................. 2
+RECORD OF REVISIONS ................................................................................... 3
+CONTENTS ......................................................................................................... 4
+
+TRACKMASTER SYSTEM
+
+        1.0    ABSTRACT .......................................................................................................... 5
+
+        2.0   SCOPE ................................................................................................................ 5
+
+        3.0   EQUIPMENT FOR SIDETRACK ........................................................................... 6
+                        3.1    Required Tools............................................................................. 6
+                        3.2   Recommended Spares and Redress Kits .................................... 8
+                        3.3    Bottom Hole Assembly Components ........................................... 8
+                        3.4    Service Facility Checks ............................................................... 9
+
+        4.0    PREPARATION FOR SIDETRACK.......................................................................10
+                        4.1    Equipment ..................................................................................10
+                        4.2    Well ...........................................................................................10
+                        4.3     Milling Fluid Guidelines .............................................................. 11
+
+        5.0   TRACKMASTER MAKE-UP PROCEDURE .........................................................12
+
+        6.0    RUNNING PROCEDURE .....................................................................................14
+                        6.1   Run the Whipstock Assembly ....................................................14
+                        6.2     Orient The Whipstock Assembly ................................................14
+                        6.3    Set The Whipstock Assembly ....................................................14
+                        6.4    Break The Mill From The Whipstock...........................................15
+                        6.5      Mill The Window .........................................................................16
+                        6.6      Drill The Rat Hole .......................................................................17
+                        6.7     Pull Out Of The Hole ..................................................................18
+
+        7.0    DRILLING RECOMMENDATIONS ........................................................................18
+
+        8.0    RETRIEVING THE WHIPSTOCK ASSEMBLY .....................................................19
+                        8.1    Die Collar Assembly Retrieval Tool..............................................19
+                        8.2    Hook Assembly Retrieval Tool.....................................................20
+                        8.3    Sheared Hinge Pin .....................................................................21
+
+        9.0    TYPICAL RUNNING ASSEMBLY .........................................................................22
+
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                3 of 21     ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 22 ]
+────────────────────────────────────────────
+TRACKMASTER SYSTEM
+
+1.0  ABSTRACT
+
+           The Smith Services-Red Baron Group TrackmasterTM is a single trip sidetracking sys-
+     tem for a cased well bore. The running assembly consists of the Mill, Whipstock Assembly,
+      Running Tool and Bypass Valve. The anchor subassembly can be either a Packer, Retriev-
+      able Anchor, Mechanical Set Anchor, Retrievable Packer or ThruBore Packer. The objective
+       of the TrackmasterTM System is to accomplish the following seven steps in a single trip; run
+      the assembly, orient the Whipstock Assembly, set the Whipstock Assembly, break the Mill
+      from the Whipstock, mill the window, drill the rat hole and pull out of the hole. The result is a full-
+       size usable window achieved within a minimum of milling time and a full gage rat hole for the
+       directional drilling assembly.
+
+          The Whipstock Assembly may be oriented and set at any depth. It should be located
+      immediately above a casing collar to provide a smooth I.D. in which to set the anchor and mill
+       the window. A surveying system can be run with the TrackmasterTM System if there is a preferred
+       orientation for the sidetrack. When orienting in a specific direction and if a hole angle of 2º or
+     more exists at the setting depth, then it is recommended that the Whipstock Assembly be set
+       0º to 90º to the right or left of high side of the hole. It should not be oriented greater than 105º.
+
+         When orientation is achieved, the anchor is set. Both hydraulically and mechanically
+       set anchors are available. The Packer and ThruBore Packer are permanent anchors. The
+        latter has an open interior diameter bore. After setting, a load is applied to the drill string to
+       part the Break Bolt between the Mill and Whipstock. At this point, string rotation may begin for
+        milling of the window followed by drilling of the rat hole.
+
+          The Retrievable and Mechanical Set Whipstock Assemblies can then be retrieved
+        after being used. The Whipstock Assembly above the ThruBore Packer can also be retrieved.
+     Two retrieval methods are available, Die Collar Assembly and the Hook Retrieval Tool.
+
+2.0  SCOPE
+
+             This procedure provides instructions for sidetracking a well in one trip with the
+      TrackmasterTM System. General guidelines are given for the milling operation. Because each
+       job is different, the optimum weight and rotary speeds are best determined on the job.
+
+
+
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                           OPERATING SPECIFICATION
+        OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                      4 of 21      ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 22 ]
+────────────────────────────────────────────
+3.0  EQUIPMENT FOR SIDETRACK
+
+       3.1   Required Tools
+
+              3.1.1    Hand Tools
+
+                  1.  Tool Box with Tote Tray       9.  Breaker Bar (¾ in. Drive)        Socket Adapter
+                  2. 1½ in. Open End Adjust-     10. Internal Snap Ring Pliers     15. Allen Wrench Set  (3/32
+                    able Wrench                     (-25 thru -31)                      thru ¼ in.)
+                  3.  2 in. Open End Adjust-       11. Internal Snap Ring Pliers     16. Tap Wrench
+                    able Wrench                    (-106 thru -175)              17. Thread Locking Compound
+                  4.  2 in. Pipe Wrench           12. 8 in. Screwdriver - Stan-      18. 5 in. Drive Extension (¾
+                  5.  5/16 in. Hex Key Wrench       dard Tip, 3/8 in.                        in. Drive)
+                  6.  3/8 in. Hex Key Wrench     13. 8 in. Screwdriver - Narrow
+                  7.  5/8 in. Hex Key Wrench          Tip, 3/16 in.
+                  8.  2 Rolls of Teflon Tape        14. ¾ in. Female X ½ in. Male
+
+
+              3.1. 2    Whipstock Assembly Specific Tools
+
+
+                                                                                 Driver For Break
+                  Size              Bottom Thread Taps For                 Bolt Retaining      Drive Size
+                           (in.)               Component Rework                Screw (in.)               (in.)
+
+
+                   13-3/8  1¼ - 12NF------------ Nozzle Housing
+               11¾   3/8 - 18NPT ---------- Control Line Hose Adaptor            5/8
+              10¾  ¾ - 10UNC - 3B----- Break Bolt                        ¾
+                    9-5/8  ½ -14 NPT ----------- Whipstock Face
+
+                      1 - 14NF -------------- Nozzle Housing
+                          3/8 - 18 NPT --------- Control Line Hose Adaptor            1/2
+                    7-5/8   5/8 - 11UNC - 3B --- Break Bolt                        ½
+               ½ - NPT -------------- Whipstock Face
+
+                          7/8 - 14NF - 2B ----- Nozzle Housing
+               ½ - 13UNC - 3B----- Break Bolt                           3/8
+                 7    1 - 14NF -------------- Nozzle Housing                      ½
+                          3/8 - 18NPT ---------- Control Line Hose Adaptor
+               ½ - NPT -------------- Whipstock Face
+
+                         7/16 -14UNC - 3B -- Break Bolt
+               ¼ - 18NPT ----------- Control Line Hose Adaptor            3/8
+              5½    5/8 - 18UNF - 2B --- Nozzle Housing                      ½
+                          3/8 - 18NPT ---------- Whipstock Face
+
+
+             Note:    Whipstock Assembly with Mechanical Set Anchor does not require a
+                     Whipstock Face Bottom Thread Tap, Control Line Assembly or Running
+                       Tool Redress Kit.
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                           OPERATING SPECIFICATION
+        OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                      5 of 21     ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 22 ]
+────────────────────────────────────────────
+     3.1. 2    Whipstock Assembly Specific Tools (cont'd.)
+
+                                                                      Driver For Break
+        Size              Bottom Thread Taps For                 Bolt Retaining       Drive Size
+            (in.)               Component Rework                Screw (in.)               (in.)
+
+
+                   * ------------------------ Nozzle Housing
+                   * ------------------------ Break Bolt                                *
+      4½     * ------------------------ Control Line Hose Adaptor                                    *
+                   * ------------------------ Whipstock Face
+
+
+    Note:    Whipstock Assembly with Mechanical Set Anchor does not require a
+             Whipstock Face Bottom Thread Tap, Control Line Assembly or Running
+              Tool Redress Kit.
+
+      " * "      Information not available at this time. It will be included in future revisions.
+
+
+
+
+
+                                                          DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                   OPERATING SPECIFICATION
+OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+     A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                              6 of 21     ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 22 ]
+────────────────────────────────────────────
+3. 2  Recommended Spares and Redress Kits
+
+
+            1.  Control Line Hose Adapter                   6.  Orifices & O-rings,
+            2.  Control Line Assembly,                      7.  Running Tool Redress Kit,
+            3.  Rubber Slug,                                 8.  Multi-Cycle Bypass Valve Redress Kit,
+            4.  Break Bolt Retaining Screw                  9.  ThruBore Packer/Setting Tool
+            5.  Break-off Plugs,                          Subassembly Shear Screws
+
+
+
+3.3   Bottom Hole Assembly Components
+
+       3.3.1     Well Preparation
+                     •  Casing Scraper
+                     •  Gage Ring Sub
+
+       3.3.2     Sidetrack
+                     •  Whipstock Assembly
+                                    - Whipstock Subassembly
+                                    - Anchor Subassembly
+                               ~ Retrievable Anchor,
+                               ~ Retrievable Packer,
+                               ~ Permanent Packer,
+                               ~ Mechanical Set Anchor or
+                               ~ ThruBore Packer
+                     •   Mill
+                     •  Running Tool
+                     •   Multi-cycle Bypass Valve or Bypass Valve
+                     • MWD and/ or Orienting Sub for Gyro
+                     •  Debris Barrier
+                     •   Setting Tool
+
+       3.3.3     Retrieval
+                     •   Retrieval Tool
+                                    - Die Collar Assembly w/ or w/o hydraulic indicator
+                                    - Hook Assembly
+                     •   Fishing Jars
+                     •  Bumper Sub
+                     •   Stabilizers
+
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                          7 of 21     ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 22 ]
+────────────────────────────────────────────
+3.4   Service Facility Checks
+
+       3.4.1    The make-up and fit between the Whipstock and Mill should be checked
+              and corrected if needed at the shop prior to being sent to the job. The gage
+                diameter of the connected Whipstock and Mill must be within the specified
+                Grind O.D. of the Mill.
+
+       3.4.2        If a specific orientation between the Whipstock face and the ThruBore
+               Packer is requested other than the standard "highside" orientation, adjust
+                the Setting Tool as needed prior to being sent to the job.
+
+       3.4.3    The Whipstock Assembly may be shipped to the service facility or job site
+                   in two pieces. Use the following torque specification for servicing the
+                connection between the Hinge Connector and Anchor Sub-assembly.
+
+
+
+
+                         Hydraulic Set
+                   Anchor Subassembly               Connection Size             Torque
+                          Size (in.)                                       (in.)                             (ft.-lb.)
+
+                             13-3/8                            8-5/8 IF                 60,000
+                       11¾                   5½ IF                  40,000
+                      10¾                   5½ IF                  40,000
+                               9-5/8                   5½ IF                  40,000
+                               7-5/8                        4 IF                  18,000
+                         7                    3½ IF                  15,000
+                    5½                              2-7/8 IF                 6,500
+                    4½                              2-3/8 IF                 4,500
+
+                      Mechanical Set
+                   Anchor Subassembly               Connection Size             Torque
+                          Size (in.)                                       (in.)                             (ft.-lb.)
+
+                               9-5/8                   4½ IF                  30,000
+                               7-5/8                   3½ IF                  15,000
+                         7                    3½ IF                  15,000
+                    5½                              2-7/8 IF                  6,500
+                    4½                              2-3/8 IF                  4,500
+
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                          8 of 21     ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 22 ]
+────────────────────────────────────────────
+4.0   PREPARATION FOR SIDETRACK
+
+       4.1   Equipment
+
+             Note:    Before running the Mechanical Set Anchor make sure that the Foot is
+                         larger than the I.D. bore of the bridge plug for proper actuation of the trigger
+                        release.
+
+              4.1.1     Account for and inspect all equipment for possible damage during shipment.
+                   Check condition of all connections, fittings and any hydraulic lines on the
+                     Whipstock Assembly.
+
+              4.1.2     Caliper and record the O.D. of the Mill and the dimensions of the bottom
+                       hole assembly components.
+
+              4.1.3        If the Running Tool is to be used, remove the piston. Check the condition of
+                       the piston and O-ring. The piston will be reinstalled after the system has
+                   been filled with hydraulic fluid.
+
+              4.1.4    Check the fit of the Orifices (nozzles) in the Lead Mill nozzle housings. The
+                      threads must be clean, free of dings and burrs and clear of obstructions.
+                  Use the Bottom Thread Taps if rework is needed.
+
+              4.1.5    Check for proper make-up of the Break-off Plug and Control Line Hose
+                     Adapter to the nozzle housings without the O-rings. Remove them before
+                          transferring the Mill to the drill floor. Also, check for proper make-up between
+                       the Break Bolt and Retaining Screw.
+
+       4.2   Well
+
+              4.2.1      Prior to running the equipment, make a gage ring and casing scraper run.
+
+              4.2.2    Make a casing collar locator run. The bottom of the Whipstock Assembly
+                   must be set 2 to 6 feet above a casing collar. Record the depth on the job
+                          report.
+
+
+
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                           OPERATING SPECIFICATION
+        OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                9 of 21     ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 22 ]
+────────────────────────────────────────────
+4.3    Milling Fluid Guidelines
+
+       4.3.1    The drilling fluid must be in good condition, clean and compatible with the
+                 formation surrounding the milled window.
+
+       4.3.2       Drill pipe filter screens and suction pit screens should be used to remove
+                       all forms of debris. It is a good practice to circulate bottoms
+             up to ensure that all the drilling fluid is in good condition prior to milling.
+                Debris in the well bore will be taken into the drill pipe through the bypass
+                valve if one is used. Any debris that enters the drill String can potentially
+              cause problems.
+
+       4.3.3    Polymer drilling fluids, in good condition, do not require any special
+                adjustments. For water based and oil based drilling fluids, a ratio of plastic
+                  viscosity to yield point (PV/YP) as close to 1.0 or less is ideal for steel
+                  cuttings removal.
+
+       4.3.4    The optimum flow rate is 50 gpm per inch of casing I.D. with the minimum
+               being 30 gpm per inch of casing I.D. Although turbulent flow can remove
+                  steel cuttings from the hole faster than laminar flow, it can cause problems
+               such as bird nesting of cuttings and a restrictive buildup of cuttings. Laminar
+                 flow provides the best overall properties for removal of steel cuttings.
+                 Therefore, laminar flow is preferred over turbulent flow for lifting the cuttings
+                 out of the well. In optimum conditions, it is recommended to start with a high
+                laminar flow. Small adjustments can be made in the flow rates, rotary speed
+              and weight while monitoring the cuttings for size, shape and thickness.
+
+       4.3.5     High viscosity sweeps can be pumped periodically based on the amount of
+                  cuttings returned to the surface or at a minimum, pumping a high viscosity
+             sweep with the "bottoms-up" circulation prior to pulling out of the hole at the
+              end of the sidetrack.
+
+       4.3.6     Ditch magnets should be placed in the first tank beyond the shale shaker
+                   prior to milling to capture cuttings. This will decrease mud pump damage
+              due to cuttings contamination. The magnets should be periodically cleaned.
+              They should stay in for several days after the sidetrack to recover any
+                  additional cuttings that were trapped downhole or until no more steel cuttings
+                are collected.
+
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                          10 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 22 ]
+────────────────────────────────────────────
+5.0  TRACKMASTER MAKE-UP PROCEDURE
+
+             Note:    The Bypass Valve should be tested prior to being run in the hole.
+
+             Note:        If using a Whipstock Assembly with the Mechanical Set Anchor, proceed
+                         to Step 5.3. The Running Tool is not used in the assembly.
+
+       5.1   Pick up Mill with a lifting sub. Set Mill in rotary table with drill collar slips and safety
+            clamp. Remove lifting sub.
+
+       5.2   Use lifting sub and elevators to pick up Running Tool. Make-up the connection with
+                 Mill. Lift this assembly out of the rotary table.
+
+       5.3   Use an air tugger or hoist line to pick up Whipstock Assembly by the catline hook.
+          Remove the Shipping Container from the Hydraulic Set Anchor or the Shipping Cover
+            from the Foot of the Mechanical Set Anchor. Hang the Whipstock Assembly through
+             the rotary table. Secure with drill collar slips and safety clamp. The safety clamp should
+           be set below the lower Control Line Assembly fitting in the face of hydraulic Whipstocks
+                      .
+
+       5.4    Pick up Mill and install Orifices (nozzles) and O-rings. Apply thread locking compound
+              to Break-off Plug and Control Line Hose Adapter. Shoulder each part and tighten.
+
+             Note:     Break-off Plug and Control Line Hose Adapter can be broken off prior to
+                      running if using a Mechanical Set Anchor.
+
+       5.5   Slowly lower the Mill to the top of the Whipstock face. Align the Break Bolt and Mill.
+          Use a thread locking compound on the threads before fastening. Install the Rubber
+            Slug and Retaining Screw and tighten.
+
+             Note:        If using a Mechanical Set Anchor, proceed to Step 5.7.
+
+       5.6   Connect the Control Line Assembly to the Control Line Hose Adapter. Use Teflon tape
+           on the threads. Tighten fittings at both ends.
+
+       5.7    Pick up and remove the catline hook, drill collar slips and safety clamp. Lower assembly
+           and set it in the rotary table and secure.
+
+             Caution: Do not pull the anchor above the rotary table when it is hanging from the
+                            mill.
+
+             Note:        If using a Whipstock Assembly with a Mechanical Set Anchor, proceed to
+                     Step 5.10.
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                           OPERATING SPECIFICATION
+        OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                   11 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 22 ]
+────────────────────────────────────────────
+5.0  TRACKMASTER MAKE-UP PROCEDURE (cont'd.)
+
+       5.8   Remove the lifting sub. Fill with clean hydraulic fluid to within 1 foot of the        t o p  .
+             Allow 15 minutes for the entrapped air to be released.
+
+       5.9   Remove the pipe cap from the piston. Cover the end of the pipe nipple to deflect the
+              hydraulic fluid that overflows. Slide the piston down the bore until the tip of the pipe is
+           3 - 5 inches above the face of the box connection. Replace the pipe cap.
+
+             Note:   When using heavy weight drilling fluid, such as hematite, that has the
+                         potential of gelling over or bridging drill pipe, pack the top of the Running
+                         Tool, from the piston to the top of the box with grease.
+
+      5.10  Pick up a single joint of high grade, fully inspected, drill pipe with the elevators. Make-
+           up the connection.
+
+      5.11  Lower and set the assembly in the rotary table. Make-up the Bypass Valve to the
+           heavy weight drill pipe. A crossover sub maybe required.
+
+             Note:        If orientation of the Whipstock Assembly is not required, proceed to Step
+                        5.14.
+
+      5.12  Pick up MWD. Make-up connection to the Bypass Valve. Crossover subs may be
+              required.
+
+      5.13  Align the MWD to the Whipstock face by scribing a line from the center of the Whipstock
+             face up the assembly to the MWD collar and Orientation Sub. Orient the key in
+              Orientation Sub to the scribed line.
+
+      5.14  Pick up drill collars and/ or heavy weight drill pipe equivalent to; 1) the recommended
+               milling weight plus a minimum of 25% when using a Hydraulic Set Anchor or 2) the Set
+         Down Load when using a Mechanical Set Anchor. No jars should be run with this
+             assembly.
+
+
+
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                           OPERATING SPECIFICATION
+        OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                12 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 22 ]
+────────────────────────────────────────────
+6.0  RUNNING PROCEDURE
+
+       6.1   Run the Whipstock Assembly
+
+              6.1.1      Trip into the hole slowly with the hook on the block in the unlocked position.
+                      Monitor weight indicator for hole drag and trip tank for proper fill up.
+
+             Note:    Use caution while tripping the Whipstock Assembly into or out of the hole.
+                  Sudden starts, stops or dropping of the drill string may damage the Break
+                          Bolt.
+
+             Note:    For a Whipstock Assembly with a Mechanical Set Anchor, trip within 50
+                         feet of the bridge plug. Care should be taken not to run into the bridge
+                      plug and cause the anchor to set.
+
+              6.1.2    When the desired depth is reached, work the string up and down to
+                     determine hole drag. Slack off to a neutral weight.
+
+       6.2    Orient The Whipstock Assembly
+
+             Note:        If orientation of the Whipstock Assembly is not required, proceed to Step
+                          6.3.
+
+              6.2.1     Survey the orientation of the Whipstock Assembly. Turn the assembly to the
+                       required tool face and repeat as needed.
+
+             Caution: Make sure that the Bypass Valve does not close. This will cause Hydraulic
+                     Set Anchors to prematurely set.
+
+       6.3   Set The Whipstock Assembly
+
+              6.3.1     Hydraulic Set Anchor
+
+             Note:    High pressures may be experienced during the setting procedure. All
+                      personnel must be made aware and all necessary precautions taken.
+
+                         6.3.1.1     Once properly oriented, verify that the assembly is at the setting
+                                    depth. Place a reference mark on the kelly.
+
+
+
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                          OPERATING SPECIFICATION
+       OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                13 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 22 ]
+────────────────────────────────────────────
+       6.3.1     Hydraulic Set Anchor (cont'd.)
+
+                 6.3.1.2       Circulate as needed to close the Bypass Valve. Set the
+                           anchor slips to the casing I.D. by gradually applying 3000 to
+                         3500 psi pressure through the drill string and hold. MONITOR
+                    THE PRESSURE.
+
+       6.3.2     Mechanical Set Anchor
+
+      Note:    The Mechanical Set Anchor relies on weight to be set. Care should be
+                taken in high angle holes to insure that the proper Set Down Load reaches
+                the anchor.
+
+                 6.3.2.1     Once properly oriented, set the Mechanical Set Anchor by
+                            lowering the assembly to contact the bridge plug with
+                             approximately 3600 lb. of force. This force is required to shear
+                              the plunger rod shear screw on the bottom of the anchor. This
+                                        will release the setting spring and move the slips to the casing
+                                     I.D.
+
+                  6.3.2.2      Mark the pipe. Pick up at least 1 foot. All setting weight applied
+                                 to the anchor should be held by the anchor. The anchor should
+                             not return to the bridge plug.
+
+6.4   Break The Mill From The Whipstock
+
+       6.4.1     Hydraulic Set Anchor
+
+           On all sizes, pull and slack off three to five times at approximately one half
+               (½) the Break Bolt shear value while maintaining 3000 to 3500 psi. Hold
+              each strain for one minute. Finally, pull until the Break Bolt parts. Monitor for
+             a pressure drop as the Break Bolt parts breaking the Control Line Hose.
+
+               Approximate shear values are listed below:
+       6.4.2     Mechanical Set Anchor
+
+                      Whipstock Assembly Size (in.)            Break Bolt Shear Values (lb.)
+
+                                     13-3/8                                  75,000
+                            11¾                                   75,000
+                           10¾                                   55,000
+                                       9-5/8                                  55,000
+                                       7-5/8                                  40,000
+                                7                                    35,000
+                          5½                                   20,000
+                          4½                                   15,000
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                          14 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 22 ]
+────────────────────────────────────────────
+                  6.4. 2.1      Apply the Set Down Load noted in the following table to shear
+                             the Break Bolt. Continue applying load to the recommended
+                           Set Down Load to enhance the set of the slips.
+
+               Set Down Loads and Break Bolt Shear Values are below:
+
+                   Whipstock Assembly Size        Set Down Load       Approx. Break Bolt Shear
+                                            (in.)                                 (lb.)                   Value (lb.)
+
+                                 9-5/8                     65,000                   55,000
+                                 7-5/8                     50,000                   40,000
+                           7                       50,000                   35,000
+                      5½                      30,000                   20,000
+                      4½                      25,000                   15,000
+
+
+                 6.4.2.2      Pick up to neutral string weight and then apply the Set Down
+                        Load a second time.
+
+6.5    Mill The Window
+
+       6.5.1     Position the Mill 2 to 3 feet above the top of the Whipstock. Begin a slow
+                   rotation. Record rotary speed, torque, circulation rate and pressure.
+
+       6.5.2     Slowly lower the Mill until it contacts the Whipstock. Monitor for a pressure
+               drop as the Break-off Plugs break during the initial contact with the
+               Whipstock and casing if the system is pressurized.
+
+       6.5.3   A light amount of weight, 2000 lb., should be used during the initial milling.
+                    Mill according to the recommended milling parameters. Use the reference
+              mark to indicate when to expect torquing.
+
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                         15 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 22 ]
+────────────────────────────────────────────
+    6.5.3      Mill The Window (cont'd.)
+
+
+                                  TrackmasterTM Recomended Milling Parameters
+                                  Weight On Mill (klb.)        Mill        Whipstock Face Taper
+                 Casing Size (in.)                  RPM         Approx. Length (ft.)
+                                     2 - 20
+                        13-3/8             2 - 17          60 - 120               16.7
+                   11¾             2 - 15          60 - 120               14.8
+                  10¾             2 - 15          60 - 120               13.3
+                          9-5/8             2 - 12          60 - 120               11.7
+                          7-5/8             2 - 12          60 - 120                8.6
+                      7               2 - 7          60 - 120                7.8
+                 5½              1 - 7          60 - 120                6.1
+                 4½                            60 - 120                4.7
+
+
+    Note:   When the center point is reached, a decrease in torque and/or penetration
+          may be experienced. Should this occur, increase the weight on the Mill
+            and decrease rpm. This will cause the Mill to flex away from the face of
+              the Whipstock and off the center point. When the center is passed, an
+              increase in penetration and torque will be recognized. After one foot of
+              penetration at the increased weight, bring the milling weight and rpm back
+               to that previously used and continue milling the window.
+
+    Note:    Annular cement and formation can affect the required rpm and weight
+            needed to mill the window.
+
+    6.5.4        If the penetration rate falls below what is expected for the amount of time
+             spent milling, pull out of the hole. Replace the Mill and continue milling.
+
+    Note:    Change out to a different high grade, fully inspected, drill pipe after each
+                  mill run.
+
+
+
+
+
+                                                          DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                   OPERATING SPECIFICATION
+OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+     A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                         16 of 21   ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 22 ]
+────────────────────────────────────────────
+      6.6     Drill The Rat Hole
+
+             6.6.1    Make several reaming passes through the window and back to bottom to
+                      clean up any burrs. Check against possible fill.
+
+             6.6.2      After reaming, stop rotating and slack off through the window. If unusual
+                     drag is encountered, ream until smooth. This facilitates the running of other
+                     assemblies through the window during future operations.
+
+      6.7    Pull Out Of The Hole
+
+             6.7.1     Circulate bottoms-up and pull out of the hole.
+
+             6.7.2     Inspect the condition, wear patterns and gage of the milling segments on
+                       the Mill to verify that the window's condition is acceptable.
+
+
+
+7.0   DRILLING RECOMMENDATIONS
+
+       7.1      It is recommended that a bit or stabilizer not be rotated down the face of the Whipstock.
+           Doing so may damage the edge or catch on the Whipstock.
+
+       7.2   Leave the hook unlocked on all trips out of the hole. Pass through the window very
+             slowly on all trips. Pick up the desired drilling assembly and continue normal drilling
+              operations.
+
+
+
+
+
+                                                                  DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                          OPERATING SPECIFICATION
+       OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                17 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 22 ]
+────────────────────────────────────────────
+8.0   RETRIEVING THE WHIPSTOCK ASSEMBLY
+
+             Note:    The ThruBore Packer is a permanent packer. Only the Setting Tool and
+                   above can be retrieved from the packer.
+
+
+                          Hydraulic Set         Mechanical Set         Setting Tool w/
+         Whipstock  Anchor Sub-assembly   Anchor Sub-assembly     ThruBore Packer     Hook Retrieval
+        Assembly  Max.Torque  Overpull   Max. Torque  Overpull  Max. Torque  Overpull    Tool Maximum
+          Size (in.)        (ft.-lb.)         (lb.)            (ft.-lb.)          (lb.)           (ft.-lb.)         (lb.)      Load (klb.)
+
+            13-3/8      30,000    114,000       ~        ~         ~        ~          ~
+          11¾       30,000     95,000       ~        ~         ~        ~          ~
+         10¾       30,000     95,000       ~        ~         ~        ~          ~
+             9-5/8       20,000     95,000      15,000     36,000     20,000     95,000     170 (bored)
+             7-5/8       14,000     65,000      15,000     27,000       ~        ~          ~
+           7         11,000     65,000      15,000     27,000      11,000     65,000       120/150
+                                                                                                                             (bored/solid)
+         5½        4,000     45,000       6,500      18,000       ~        ~       100 (bored)
+         4½        4,000     28,000       4,500      12,000       ~        ~       44 (bored)
+
+       8.1   Die Collar Assembly Retrieval Tool
+
+              8.1.1   A Whipstock Assembly with a Retrievable Anchor, Retrievable Packer,
+                     Mechanical Set Anchor or a ThruBore Packer with a Setting Tool can be
+                         retrieved using a tool that has a die collar (box tap) section designed to pull
+                       the Whipstock and a cut lip guide to lift the Whipstock off the casing wall.
+
+              8.1.2      Verify that the correct cut lip guide on the Die Collar Assembly is correct for
+                       the weight of casing. A typical BHA for retrieval is; Retrieval Tool, full gage
+                             stabilizer, bumper sub, fishing jar, full gage stabilizer, crossover, heavy weight
+                                  drill pipe and drill pipe. A safety joint and accelerator jars are used in some
+                      assemblies.
+
+              8.1.3    Lower the Retrieving Tool to just above the Whipstock and record operational
+                      parameters. Start slow right hand rotation (20 rpm) of the drill string above
+                       the Whipstock and continue slacking off the drill string until torque and weight
+                         indications show Whipstock engagement. Weight should close the bumper
+                    sub when at the top of the whipstock. Apply only minimal weight on to the
+                      Whipstock.
+
+              8.1.4    Work torque down the drill string to fully engage the Whipstock. Exceeding
+                       the torque values listed in the table above may damage the anchor.
+
+
+
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                           OPERATING SPECIFICATION
+        OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                 18 of 21   ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 22 ]
+────────────────────────────────────────────
+8.1   Die Collar Assembly Retrieval Tool (cont'd.)
+
+
+       8.1.5     Apply overpull to the anchor to release it. Bleed down the jars prior to pulling.
+           A low jarring load may be necessary should it not release at the over pull
+                 value. See the table above for the anchor and Setting Tool release values.
+
+       8.1.6    Upon release of the Whipstock Assembly, pick up and observe the well for
+                     fluid loss and check for flow. Then pull out of the hole. Avoid surging or
+              swabbing the well while tripping.
+
+8.2   Hook Assembly Retrieval Tool
+
+       8.2.1   A Whipstock Assembly with a Hook Slot in the Whipstock face can be
+                  retrieved with the Hook Assembly Retrieval Tool. The anchor can be either
+             a Retrievable Anchor, Retrievable Packer , Mechanical Set or a ThruBore
+                Packer. The tool is designed to be hooked into the slot in the Whipstock
+              and then pulled to release the assembly.
+
+       8.2.2   A typical BHA for retrieval is; Retrieval Tool, joint of drill pipe, surveying
+               equipment, crossover, heavy weight drill pipe and drill pipe.
+
+       8.2.3    Make up the Hook Assembly Retrieval Tool. Orient the reverse side of the
+              hook tang to the orienting sub. Note the orientation and placement of the
+                nozzles in the tool.
+
+       8.2.4    Lower the Retrieving Tool to just above the Whipstock and record operational
+                parameters. Orient and jet wash the Hook Slot in the Whipstock.
+
+       8.2.5     Position the hook tang below the slot on the Whipstock face after completing
+                the washing operation.
+
+       8.2.6     Slowly work the string up and down the Whipstock face to drop the hook
+               tang into the slot. Be prepared to work the string with minor alterations in
+                the hook tang attitude to engage the slot. Set down against the bottom of
+                the slot to confirm engagement.
+
+       8.2.7    Once engaged, pick up and apply overpull to release the assembly. Increase
+                the overpull to compensate for drag if necessary. If release is not achieved
+                  at the anchor overpull load listed above, increase the overpull in stages up
+                  to maximum load for the hook, also listed above. Do not exceed this load.
+
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                          19 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 22 ]
+────────────────────────────────────────────
+8.2   Hook Assembly Retrieval Tool (cont'd.)
+
+       8.2.8        If it is not possible to recover the Whipstock Assembly without exceeding
+                the Hook Assembly Retrieval Tool maximum load, release and recover the
+                   tool by rotating out of the slot. Pull out of the hole and proceed with the Die
+                 Collar Assembly Retrieval Tool as detailed in Section 8.1.
+
+       8.2.9    Upon release of the Whipstock Assembly, pick up and observe the well for
+                    fluid loss and check for flow. Then pull out of the hole. Avoid surging or
+              swabbing the well while tripping.
+
+
+      Note:    Check that the orientation between the Whip face and the ThruBore Packer
+                 Setting Tool has not changed while downhole when used.
+
+8.3   Sheared Hinge Pin
+
+      Should the hinge pin shear while working to retrieve the Whipstock Assembly a standard
+      overshot can be used on the Hinge Connector fishing neck to recover the remaining
+      assembly . See the following chart.
+
+      Shear values for the hinge pins and fishing neck dimensions are as follows:
+
+
+              Hydraulic Set Anchor         Hinge Pin Shear Values (lb.)        Fishing Neck (in.)
+           Sub-assembly Size (in.)                                     Diameter        Length
+                                                   200,000
+                      13-3/8                         140,000              10.125         20.000
+                 11¾                          140,000               6.625         20.000
+                10¾                          150,000               6.625         20.000
+                       9-5/8                          150,000               6.625         20.000
+                       7-5/8                          150,000               5.000         20.000
+                    7                           100,000               4.750         20.000
+                5½                           42,500               3.640         15.000
+                4½                                                 2.875         14.625
+             Mechanical Set Anchor       Hinge Pin Shear Values (lb.)        Fishing Neck (in.)
+            Sub-assembly Size (in.)                                    Diameter        Length
+                                            ~
+                       13-3/8                      ~                ~           ~
+                  11¾                       ~                ~           ~
+                 10¾                        150,000              ~           ~
+                        9-5/8                        150,000               6.625         19.500
+                        7-5/8                        150,000               4.750         20.000
+                    7                          100,000               4.750         20.000
+                5½                          42,500               3.640         15.000
+                4½                                                2.875         14.625
+
+
+
+
+                                                            DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                     OPERATING SPECIFICATION
+  OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+       A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                          20 of 21    ES20.39385
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 22 ]
+────────────────────────────────────────────
+9.0   TYPICAL RUNNING ASSEMBLY
+
+
+
+
+
+             MWD                           Running Tool
+
+
+
+
+
+               Bypass
+                  Valve                               Dress Mill
+
+
+
+                                                                                 Full Gage
+                     Drill Pipe
+                                                                                            Mill
+
+
+
+                                                       Follow Mill
+
+
+                                                 Lead Mill
+
+
+
+
+
+                                                   Whipstock
+
+
+
+
+
+                                                                   DATE: 31 Aug 01  ECN 13283  REV 'D'
+
+                                                          OPERATING SPECIFICATION
+       OPERATING PROCEDURE FOR THE TRACKMASTERTM:
+            A ONE TRIP SIDETRACKING SYSTEM                  PAGE             SPEC NO.
+                                                                21 of 21    ES20.39385
+
+

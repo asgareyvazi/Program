@@ -1,0 +1,2612 @@
+# SOURCE: DRILLING PROGRAM 06 WO1 LEG2 Rev04.pdf
+
+📄 فایل 193 از 214  |  DRILLING PROGRAM 06 WO1 LEG2 Rev04.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                    Project:                                                                                                  Subcontractor:
+                          SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3  ﯾﺦ03/09/2020:   ر ﺗﺎ
+
+                    DOCUMENT TITLE:
+
+                                    Drilling Program SAA-006
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                    Project:                                                                                                  Subcontractor:
+                          SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3  ﯾﺦ03/09/2020:   ر ﺗﺎ
+
+           Title                             Drilling Program SAA-006 WO1 Leg2
+       Revision                                D03
+        Date                                       03/09/2020
+                                GPTK Co
+
+                     E. Danesh           Senior Drilling Engineer
+    Prepared by
+                    Y. Tahmasebi        Senior Drilling Fluids Engineer
+
+    Checked by    H. Moradinasab    Head of Project Drilling Operations
+
+    Approved by   A.Taheri          Head of Drilling Engineering
+
+    Approved by   H. Fotouhi           Project Manager
+
+                                  ICOFC
+
+    Approved by   P. Salehvand         Project Manager
+
+    Approved by   R. Vafaei          Head of Drilling Programming
+
+    Approved by    I. khanalizadeh    Head of Drilling Operation
+
+    Approved by   A. Sigaaroodi      Head of Drilling Department
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3    ﯾﺦ03/09020:   ر ﺗﺎ
+      Contents
+        A. GENERAL INFORMATION ............................................................................................................. 5
+        1  INTRODUCTION .............................................................................................................................. 6
+            1.1    History ................................................................................................................................... 6
+            1.2    Introduction ............................................................................................................................ 9
+            1.3    Location Coordination: ............................................................................................................ 9
+            1.4    Geographical Location Map ..................................................................................................... 9
+        2  WELL MONTAGE .......................................................................................................................... 10
+        3  WELL INFORMATION .................................................................................................................. 11
+        4  WELL OBJECTIVES ...................................................................................................................... 12
+      RESERVOIR DATA .............................................................................................................................. 13
+         B. GEOLOGY...................................................................................................................................... 14
+        1  INTRODUCTION ............................................................................................................................ 15
+        2  GENERAL FORMATION LITHOLOGY DESCRIPTION (IN DEVIATION HOLE) ........................ 16
+        3  FORMATION TOPS AND THICKNESS.......................................................................................... 17
+        4  LOGGING PROGRAM ................................................................................................................... 18
+        5  DRILLING HAZARD ...................................................................................................................... 19
+        6  SAMPLE REQUIREMENT AND PROCEDURE .............................................................................. 20
+        C. NEARBY WELLS............................................................................................................................ 21
+        1  DRILLING HISTORY ..................................................................................................................... 22
+            1.1    Saadat Abad 006: .................................................................................................................. 22
+            1.2    Saadat Abad-1: ...................................................................................................................... 23
+            1.3    Saadat Abad-04: .................................................................................................................... 23
+        D. SEQUENCE OF DRILLING OPERATION ...................................................................................... 25
+        1  RIG MOVE ..................................................................................................................................... 26
+        2  PRE SPUD ....................................................................................................................................... 27
+        3  DRILLING TIME CURVE .............................................................................................................. 28
+                                            28
+      TIME VS DEPTH DATA (DRILLING OPERATION STEP BY STEP) ................................................... 29
+        4  WELL SECURING .......................................................................................................................... 32
+            4.1   Sequence of Operations .......................................................................................................... 32
+        5   8-1/2” HOLE SECTION/ 7” LINER ................................................................................................. 33
+            5.1    General ................................................................................................................................. 33
+            5.2    Formation Sampling .............................................................................................................. 33
+            5.3   Sequence of Operations .......................................................................................................... 33
+            5.4   Logging Program ................................................................................................................... 34
+        6   6-1/8” HOLE SECTION/ OPEN HOLE ............................................................................................ 35
+            6.1    General ................................................................................................................................. 35
+            6.2    Formation Sampling .............................................................................................................. 35
+            6.3   Sequence of Operations .......................................................................................................... 35
+            6.4   Logging Program ................................................................................................................... 37
+        D. DIRECTIONAL DRILLING PLAN ................................................................................................. 38
+         E. BHA DESIGN .................................................................................................................................. 42
+            General ............................................................................................................................................ 43
+        7   8-1/2” SIDE TRACK BHA ...................................................... ERROR! BOOKMARK NOT DEFINED.
+
+                                               3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3    ﯾﺦ03/09020:   ر ﺗﺎ
+
+        8   8-1/2” DIRECTIONAL BHA ............................................................................................................ 44
+        9   6-1/8” DIRECTIONAL BHA ............................................................................................................ 45
+         F. MUD PROGRAM ............................................................................................................................ 46
+        1   8.5" HOLE SECTION ...................................................................................................................... 47
+            1.1    8-1/2” Hole Section Characteristics ......................................................................................... 47
+            1.2    Drilling Fluid Properties ......................................................................................................... 47
+            1.3    Drilling Fluid Mixing ............................................................................................................. 47
+        2   6-1/8” HOLE SECTION ................................................................................................................... 49
+            2.1    6-1/8” Hole Section Characteristics ......................................................................................... 49
+            2.2    Drilling Fluid Properties ......................................................................................................... 49
+            2.3    Drilling Fluid Mixing ............................................................................................................. 49
+        G. BIT PROGRAM .............................................................................................................................. 51
+        1   8-1/2” HOLE SECTION ................................................................................................................... 52
+        2   6-1/8” HOLE SECTION ................................................................................................................... 52
+        H. CASING PROGRAM ....................................................................................................................... 53
+        1  CASING DESIGN IN ONE FACE .................................................................................................... 54
+        2   8-1/2" HOLE SECTION / 7” LINER ................................................................................................ 54
+            2.1    String Design ........................................................................................................................ 54
+            2.2      Preparation............................................................................................................................ 54
+            2.3    Liner Specifications ............................................................................................................... 55
+            2.4   Sequence of Operations .......................................................................................................... 55
+        3   6-1/8" HOLE SECTION / 5” LINER ................................................................................................ 57
+            3.1    String Design ........................................................................................................................ 57
+            3.2      Preparation............................................................................................................................ 57
+            3.3    Liner Specifications ............................................................................................................... 58
+            I.  CEMENT PROGRAM ..................................................................................................................... 60
+        1   8 1/2” HOLE SECTION/ 7” LINER .................................................................................................. 61
+        2   6 1/8” HOLE SECTION/ 5” LINER .................................................................................................. 62
+        3  MAGNESET PLUG ......................................................................................................................... 63
+           J.  COMPLETION PROGRAM ............................................................................................................ 64
+        1  COMPLETION PROGRAM ............................................................................................................ 65
+            1.1   Completion running procedure................................................................................................ 65
+            1.2   Completion String Sketch (After Workover) ............................................................................ 70
+         F. BOP & WELL HEAD SKETCH ....................................................................................................... 71
+        1   8 ½” HOLE SECTION ..................................................................................................................... 72
+        2   6 1/8” HOLE SECTION ................................................................................................................... 73
+        3  WELLHEAD & X.MAS TREE SKETCH ......................................................................................... 75
+        G. ATTACHMENTS ............................................................................................................................ 76
+        1  EACH SECTION REQUIRED MATERIAL & SERVICES .............................................................. 77
+            1.1   8 1/2” Hole Section................................................................................................................ 77
+            1.2   6 1/8” Hole Section................................................................................................................ 78
+        2  REQUIRED SERVICES .................................................................................................................. 79
+
+                                               4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3    ﯾﺦ03/09020:   ر ﺗﺎ
+
+       SAA-006 WO1 LEG2
+
+         Oil Field Development Project
+
+              LOC. E014S
+
+      A. General Information
+
+                          GPTK Co.
+                                       Drilling Department
+                             Mar 2020
+
+                                              Page 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3    ﯾﺦ03/09020:   ر ﺗﺎ
+
+         1 INTRODUCTION
+              1.1   History
+
+                  The SAADAT ABAD oil-field is located in 90 Km. south west of Shiraz city and 11
+                Km. west of Sarvestan city. This oil field was discovered by drilling the first well at
+                   1973 and existence of hydrocarbon is proved in Sarvak Formations. This project
+                      including drilling and completion of 2 new vertical wells and re-entry one existing
+                        well.
+
+                                              Page 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3    ﯾﺦ03/09020:   ر ﺗﺎ
+
+                      Figure 1. 1: Saadat Abad underground contour map on top of Ilam Formation
+
+                                              Page 7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3    ﯾﺦ03/09020:   ر ﺗﺎ
+
+                     Figure 1. 2: Saadat Abad underground contour map on top of Sarvak Formation
+
+                                              Page 8
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                    SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3    ﯾﺦ03/09020:   ر ﺗﺎ
+
+              1.2   Introduction
+
+             This program covers the drilling of Production  / Directional Well in SAADAT ABAD oil
+                 field, Iran. The well is intended to produce oil from Sarvak Reservoir.  The well will be
+              sidetracked from depth of 2138 m and directional drilling 8 ½” hole section to 2842m and
+             cased with 7” liner. Continue directional drilling 6 1/8” hole section to 3390m(TD), set cement
+             plug and run 5” liner at 3034m (15m in sarvak formation), drill out cement. The well will be
+             completed with Run completion string.
+
+              1.3   Location Coordination:
+                  The approximate coordinates of SAA-006 are:
+
+             UTM (WGS-84):   X: 706,800.107m   Y: 3,237,849.826m
+
+              1.4   Geographical Location Map
+
+                                            Figure 1- Geographical Location Map
+
+                                              Page 9
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                                                                      Company:                     Project:                                                                                                  Subcontractor:
+                                                                     SAADAT ABAD OIL FIELD DEVELOPMENT
+                                                           DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                                                                              SA    06    2GP    G     DRG      DR      DR      PLDRI     0001    D3                                                         ﯾﺦ03/09/2020:   ر ﺗﺎ
+
+2   WELL MONTAGE
+
+                                                                                                                                                                                                                                         Client:                                                                                                                                                                                                                                       I.C.O.F.C                                                          Well                                                    Name:                                                    SAA #6                                                    WO1                                                              LEG2                                                                                                                                                                                                                     Contractor:                                                                                                                                                          GPTK                                                          Well                                                           Type: Sarvak                                                                                    Oil                                                                        Producer                                                                                                Well.
+                                                   Type of Operation: Re-Entry                                                                                                                                 Rig: O2
+                                                                 Field: Saadat Abad Field                                                                                                          RTE: 1504.5m
+                                                         Country: Iran                                                                                                                   GLE: 1494.4 m
+                                                     Year To Be Drilled: 1398                                                                                                               Proposed (Re-entry ) T.D : 3390m, MD / TVD: 2836.74m
+                                                                Est. Well Duration: 142 Days                                                                                                             Main objective:The well is a Production well, will be side track and drilling
+                                                                                                                                                                                                                                         directionally to Sarvak formation as a Oil Producer well.
+
+                                            Formation Tops                                                                                                                 Cement          Electric                                  Formation                                               Well Sketch                              Bit Size/Type    Drilling Fluid           Casing Design                                      BOP'S Status                                                           Depth     Thickness                                                                                                                Program         Logs
+                                                            m, RTE       (m)
+                                           Alluvium
+
+                                                                                                         18 5/8" Casing @ 144m, MD
+                                                                                                                                 85#, J-55, BTC
+
+                                     Razak         86        770
+
+                                                     1930      125
+
+                                      Asmari          856       266
+
+                                   Jahrum        1122      203.5
+
+                                                                                                     MD,
+                                   Sachun         1325.5     410.5           2085.5m                                                                                                              Leg # 2
+                                  @
+                                                                                                                                                                                                          Casing72#,N-80,BTC68#,N-80,BTC         Completion Packer @ 2009m MD (After Workover)                         8-1/2 in        Salt / Polymer
+                                                                                                                                                                                                  cement                                                                                                                                                                                                                                                                                                                                                                :                                                                                                                                                          2018m                                                                                                                                                                                                                        to 2841m,                                                                                                                                         MD            Tail                                                                                                                                                                         2-1-4                                                                                                                                         mud         From                                                                                                                                                                                                                                                                            13-5/8"-5K                                         Tarbur         1736      347       3/8"                                                                                                                                                                                                          CBL/VDL/CCL/                                                                                                                                                                                                                  Class                                                                                                                                                                                                         "G"                                                                                                                                                                         7 in, 29                                                                                                                                                                                                                    ppf, L-80,                                                                                                                                                                PJE                                                                                                                                                                         5-1-7                                                                   13                                                                                                                                                                                                                                                         Stack                                                                                                                                                                      GR          BOP                                                                                                                                                                         5-3-7      MW: 88-97 pcf                                       S.W: 118pcf
+                                                                                                                       7" Liner @ 2018-2841m,                                                                                            MD                                                                                                                                                          (29#,L-80,PJE)                 PDC                                                                                                                  KOP:2138m,                                                                                             MD
+
+                                         Gurpi         2083     648.86                                                                            WO1 LEG1 ST1 After Workover
+
+                                                                      MD                                                                                                                                                                                Full Suite/CDR                                            Ilam           2731.86     42.06
+                                                                                                                                                                            6-1/8 in        Salt / Polymer                                                                                    13-5/8"-5K                                                                                                                                         mud                                                         CBL/VDl/CCL/                                                                                                                                                                                     BOP Stack                                                                                                           PJE                                                                            2-1-4                                      Sarvak         2773.81                                        3042m,                                                                                                                                                                      GR
+                                   @                                                                                                                                                                         5-1-7
+                                                                                                            7" Liner                                                            @ 2335-3376m,                                                                                     MD                             6-1/8"                                                                                                                                                       H.S TD@                                                                                                                                                  3390m    PDC      MW: 70-74 pcf                                                                 log                                                                                                                      (29#,L-80,SEC)                                                                                                                                                      2836.74m                                                                                                                                  TVD                                                                                                                                                                                                                                                                                                                                47#,N-80,                                                                                                   KOP:2415m,                                                                                 MD                                                                                                                                                                                                                                                                                                                                                                                              5/8/"Casing                                                                                                                                 Leg #1 Before Workover
+                                   9                              6-1/8" H.S TD@ 3841m
+                                                                                                       2966m TVD, Inc:70°, AZM:104.9°
+
+                                                                                              Page 10
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       3  WELL INFORMATION
+
+                                        Well Information
+    Country / Area                            Iran / South West of Shiraz
+     Field:                                   Saadat Abad
+    Well Name:                       SAA-006 WO1 LEG2
+    Well Type:                               Production, Oil Producer Well
+    Purpose:                                 Oil Producing from Sarvak Formation
+    Ground Level Elevation:                1494.4 meters (Est.)
+    Rotary Table Elevation:                1504.5 meters (Est.)
+        Surf.            U.T.M.                                             E: 706,800.107m       N: 3,237,849.826m    Coordinates      (WGS-1984)
+     Vertical Section Total Depth:          2836.74m TVD inside Sarvak Fm.
+
+             KOP @             2138m
+              EP @               3019m      Directional
+       Leg              LP @                         -
+            TD@                 3390 MD, 2836.74m TVD
+                            GOR                       900-3900 scf/stb
+                                               Oil Gravity                 31 API
+
+                                 H2S mol. percent              0.63
+
+                               CO2 mol. percent             1.83
+    Reservoir Data                                 N2 concentration              1.85 mol%
+
+                                                 T.res                        179.8 F
+
+                                                  P.res                      4020 psia
+
+                                    Datum Depth (mss)         1280m (TVDss)
+
+                                            Page 11
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       4  WELL OBJECTIVES
+
+              •   According to client’s preliminary plan, the well SAA-006 WO1 LEG2 is intended to
+                   sidetracked from depth of 2138 m and directional drilling 8 ½” hole section to 2842m
+                and cased with 7” liner. Continue directional drilling 6 1/8” hole section to 3390m(TD),
+                     set Magneset plug and run 5” liner at 3034m (15m in sarvak formation), drill out
+                Magneset plug. The well will be completed with Run completion string and flow it for
+                 produce the oil in sarvak reservoir
+
+              •  CBL/VDL & CCL/GR logs will be run from 7" Liner shoe to 9 5/8" casing.
+
+              •  CBL/VDL & CCL/GR logs will be run from 5" Liner shoe to Liner Lap.
+
+              •   Full suite logs will be run from 6 1/8” hole section TD to 7” Liner shoe.
+
+                                            Page 12
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      RESERVOIR DATA
+
+                           Properties              Bangestan Group
+                         FLUID TYPE                              Oil, gas and Water
+
+                       SOUR/SWEET                              Sour
+
+                          H2S (mol %)                                 0.63
+
+                        CO2 (mol %)                                 1.83
+
+                                API                                  31
+
+                     GAS-OIL RATIO (SCF/STB)                    900-3900
+
+                       CL ION (PPM)                           115000
+
+                 WATER SALINITY (PPM)                     140000
+
+                            Oil DATUM DEPTH (m.s.s)                      1280
+
+                OIL PRESSURE @ DATUM DEPTH (psi)        4020 (@ March 2019)
+
+             TEMPERATURE @ DATUM DEPTH (psi)                179.8
+
+                    WATER CUT (%)                    Up to 10%
+
+                WATER OIL CONTACT (m.s.s)                 1495 (initial)
+
+                  OIL PRESSURE GRADIENT (psi/ft)      0.29-0.3 (Initial, now it’s not uniform)
+
+              TEMPERATURE GRADIENT (F/100ft)                   1.32
+
+                       Water DATUM DEPTH (m.s.s)                     1550
+
+             WATER PRESS. @ DATUM DEPTH (psi)              N/A
+
+              WATER PRESS. GRADIENT (psi/ft)               0.47 (from PVT)
+
+                                            Page 13
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+
+            B. Geology
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1 INTRODUCTION
+           The Saadat Abad oil field  is located in the south of Iran in Fars province, about 60
+             kilometers south east of Shiraz.  It has a saturated oil reservoir with a primary gascap
+             contained in the Ilam and Sarvak Formation. The Saadat Abad field was discovered in 1973
+            (1352 Iranian Calendar) by well SAA-1 which encountered a large oil column in Bangestan
+              reservoirs. A further appraisal well SAA-2 was drilled down dip (in northwest of north
+              flank) in 1975 (1354 Iranian Calendar).
+           The Saadat Abad field consists of an asymmetrical anticline with trending NE-SW with a
+             dip around 22° on the north flank and around 14° on south flank. Based on the Static
+             pressure of Zagros Company, Bangestan Reservoir is expected 4020psi in -1280mss in year-
+             97. Reservoir temperature is expected to be 179 Fahrenheit in -1280mss based on the
+             resources and statistic notebook report.
+        GOC and OWC based on Reservoir Engineering Proposal respectively, -1205, -1495mss,
+            seven drilled wells in this field until now.
+           The gas oil contact could not be observed in SAA-1 although the G.O.C was reported to be
+               at -1205mss and O.W.C was recorded at -1495mss (ICOFC proposal and SAA-3 data) and
+             the hydrocarbon thickness is approximately 411m in Saadat Abad field. In Saadat Abad Oil
+                field, sour oil is observed and it contains 0.63% H2S and 1.83% CO2 approximately.
+         SAA#1 was drilled to total depth of 2821m in Sarvak fm., SAA-2 was drilled as an
+             exploration well about 3.8 Km east of SAA-1 well. SAA-2 was spudded on 9March 1975
+           and reached a TD of 3480.90m in November 1975. The main objective was to test the Ilam
+           and Sarvak formation. The Sachun and Dariyan formation were considered secondary
+              objectives.
+            According to the last U.G.C map 1397, Saadat Abad-E014S is situated in the southeast flank
+             of Saadat Abad anticline, about 2914m in the east of well#3 and about 2784m in the
+            Southwest of well#4. This well in Plan will be drilled directionally from 2160m as a K.O.P.
+              to Total Depth of 3464.28m (+68.3m V.Thickness) inside of Sarvak Formation.
+         CBL/VDL& CCL/GR log Formation will be run from 7" liner shoe. CDR/Full suite will be
+            run in open hole 6 1/8".
+            This well will be completed as Sarvak oil producer through 6 1/8" open hole.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       2 GENERAL FORMATION LITHOLOGY DESCRIPTION (In
+           Deviation Hole)
+
+        A normal stratigraphical sequence in Saadat Abad –006 (E014S) is expected from K.O.P.
+            (Through Gurpi Fm.) to total depth. In Sarvak Formation is as follows:
+                         - Gurpi Fm. (From K.O.P.2138 m to 2872.2 m) drilled thickness + 734.2 m:
+            This formation consists of a thick sequence of dark gray to greenish gray calcareous silty
+             shale and greenish grey, soft and sticky marl, with subordinate layers of grey to dark
+             grayargillaceous and marly limestone.
+            Thickness of Gurpi formation is variable in Saadat Abad structure.
+                         - Ilam Fm. 2872.2– 3019.72.) drilled thickness 147.52 m:
+           The top of Ilam formation is marked by a change in lithology from marl in to a dark brown,
+           brown to light brown limestone. This formation consists of light gray to grayish brown
+               crystalline, fossilliferous and porous limestone and as well as in lower part consists of brown
+            dark brown argillaceous limestone and in some part marly limestone.
+                         - Sarvak Fm. (3019.72m to TD at 3389.42 m) drilled thickness +369.7m.:
+                  It consists of a sequence of white-off white chalky and brownish gray well bedded
+              crystalline limestone, partly argillaceous and slightly chalky. The 1/3 basal of Sarvak
+            formation contains of a series of dark brown dense argillaceous, sparry limestone, which are
+              partly bituminous and partly glauconitic. Sarvak formation divided into 8 zones in Saadat
+          Abad field.
+            Note:
+             In Saadat Abad Oil field, sour oil is observed and it contains 0.63% H2S and 1.83% CO2.
+            Bangestan Reservoir is expected 4020psi in -1280mss in year-97.
+             Reservoir temperature is expected to be 179Fahrenheit at -1280mss. in year-96.
+            Losses are probable in Ilam & Sarvak Fms.
+           Gas & Oil in Ilam & Sarvak Fms can be present.
+              Structural uncertainties for top Formations estimated +/-50m.
+
+                                      Note: The zonation will be finalized after running the logs.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                     Company:                     Project:                                                                                                  Subcontractor:
+                                       SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                               DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                      03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                                                               : ﯾﺦر ﺗﺎ
+
+   3  Formation Tops and Thickness
+
+                                                                                   FORMATION TOPS AND THICKNESS IN SAADAT ABAD FIELD AT At Saadat Abbad- 006 AND NEAR BY WELLS
+
+                                                                                                                                                                          All of Measurement is Based on Meter
+Formation/member        DataWell      Well no.-006   GLE:1494.4             RTE:1503.5             Well no.-6 Leg1       GLE:1494.4     RTE:1503.5       Well no.-6WO1 Leg1       GLE:1494.4      RTE:1504.4         Well no.-6WO1 LegST1       GLE:1494.4      RTE:1504.4       Well no.-001        GLE:1490.5     RTE:1494.8     Well no.-004      GLE:1505.21   RTE:1514.5
+      /Zone                    MD     TVD (mss)                           D.Thickness                     MD           TVD (mss)      D.Thickness         V.Thickness       MD              TVD (mss)                D.Thickness           V.Thickness        MD                TVD (mss)                  D.Thickness           V.Thickness        MD       TVD (mss)                    D.Thickness             MD          TVD (mss)                   D.Thickness
+        Alluvium              Surface   1503.50                      75.90                                                                                                                                                                                                                                        Surface(4.30)     1490.50                45.00                          Surface(9.29)        1505.21                80.21
+         Razak                85      1418.5                      770.00                                                                                                                                                                                                                                  51.80     1445.00                717.82                90.00        1424.00               626.00
+
+         Asmari               855      648.5                       266.00                                                                                                                                                                                                                              769.62      728.00                233.08               716.00        798.00               258.00
+
+        Jahrum              1121     382.5                       203.50                                                                                                                                                                                                                           1002.70     495.00                225.90               974.00        540.00               229.00
+
+        Sachun               1324.5     179                       410.50                                                                                                                                                                                                                           1228.60     269.00                449.30              1203.00       311.00               434.00
+
+         Tarbur              1735     -231.5                      347.00                                                                                                                                                                                                                           1677.90     -180.00                324.64              1637.00       -123.00               381.46
+
+          Gurpi               2082     -578.5                      650.50                                        K.O.P. @ 2415m. (-908.8mc)                                          K.O.P. @ 2160m. (-656.5mc)                                                  K.O.P. @2138m. (-633.5mc)                         2002.54     -505.00                619.26              2018.46       -504.00               739.24
+
+          Ilam                2732.5    -1225.8                       42.50                         3363.00        -1305.00     162.00          53.80        2897.55           -1215.32             151.34           36.38         2872.20             -1227.36              156.70           41.95         2621.80    -1123.00                51.60               2757.70       -1243.00               37.40
+
+                    Sarvak_Z1-1                                                                                                                                                                                                                                                                                                                                    2795.1       -1280.00               65.30
+
+                    Sarvak_Z1-2                                                                                                                                                                                                                                                                              2673.4     -1175.00                19.40               2816.2       -1302.00               92.40
+
+                    Sarvak_Z1-3    2775     -1268.8                                                    3525.00        -1358.80      66.00          21.50        3048.89            -1251.7             160.11           25.34          3028.9             -1269.31              213.10           37.71         2692.80    -1194.00                32.00               2828.30       -1314.00               32.10
+
+                     Sarvak_Z2     2785     -1278.3                       34.50                        3591         -1380.30     136.00          44.70        3209            -1277.04             255.30           42.96          3242              -1307.02              147.42           25.28         2724.80    -1226.00                47.60               2860.40       -1346.00               48.20         Sarvak
+                     Sarvak_Z3     2819.5    -1312.5                       31.50                        3727         -1425.00     114.00          37.60        3464.3             -1320                                                  -           3,389.42             -1332.3                                                   -           2772.40    -1274.00                28.10               2908.60       -1394.00               36.10
+
+                     Sarvak_Z4     2851     -1344.2                       39.00
+
+                     Sarvak_Z5     2890     -1383.2                       40.00
+
+         TOTAL DEPTH                2930.00     -1423.20                                                -                           3841.00        -1462.60                                           3464.30            -1320.00                                                       3389.42              -1332.30                                             2821.00    -1322.00                           -                 2904.10          -1390.00                                         -
+
+                 20"                                                                                                                                                                                                                                                                                      67.30  15.5m in Razak                                 155.00       65 m in Razak
+         (inch)        18 5/8"     145.00
+                                                                                                                                                                                                                                                          107m                                                                                                                                                                                                                                                                                                                                                                                     in                                                                                                                                                                                                                                                                                                                                          27.5m                                                                                                                                                                                                                                                                                                                                                                                                                                                         in                                                                                                                                                                                                                                                                                                                                                               2017.50                                                                                                                                                                                                                                                                                                         1103.60                  3/8"    2085.00                                                                                                                                                                                                                                                                                         Jahrum                                                                                                                                                                                                                                                                                                                                                                               Gurpi        LINER/        13                                                                                                                                                                                                                                                                                                                                                                                      in                                                                                                                                                                                                                                                                                                                                                    148                                                                                                                                                                                                                    m in                                  2834.50                                                                                                                                                                                                                                                                                                         1527.30   298.7m                                                                                                                                                                                                                                                                                                                                                               2944.00               9 5/8"                                                                                                                                                                                                                                                                                               Sachun                                                                                                                                                                                                                                                                                                                                                                               Sarvak
+                                                                                                      3376.00      (-1310.1mc)                                         3064.00   -1254.3mc (15m inside of Sarvak FM.)                                            3035.00     -1271.9 S14=Q17-Q14mcSarvak FM.)(15m inside of                                   2381.30   378.3mGurpi in           CASINGS          7" L
+                 5" L                                                                                                                                                                                                                                                                             8206.50
+
+                          MD                                         MD                                     MD                                          MD                                     MD                                MD
+        HOLE Size (inch)                             Mud Weight-pcf @ Type                                Mud Weight-pcf @ Type                                Mud Weight-pcf @ Type                                    Mud Weight-pcf @ Type                       Mud Weight-pcf @ Type                        Mud Weight-pcf @ Type
+                               From      To                                               From          To                                From             To                                        From               To                                          From       To                                  From         To
+
+              26"                  Surface    145    67-66pcf Bentonite Mud                                                                                                                                                                                                                                           Surface      68
+
+                                                               (As. To such.Fm.)67-75pcf Bentonite Mud
+            17 1/2"                145         2085     (Such.to Turbur Fm. )75 -82 salt water                                                                                                                                                                                                                                                                                                                                                                               Surface            155                65 Bentonite Mud
+                                                        (Gurpi Fm. To st#1 )70-71 oil base mud
+                                                      (ST#1                                                                                        )                                                               80.5                                                                      pcf                                                                                 Oil                                                                  Based                                                       Mud
+                                                      (ST#2                                                                                                          ,                                                            Gurpi                                                           Fm.                                                                                                       ) 83-90pcf                                                                                              Oil                                                                            Based                                                              Mud
+            12 1/4"                153.5     2048                                                      (ST#2                                                                                                          ,                                                             Ilam                                                         and                                                                      sarvak                                                                    Fm.                                                                                                                     )                                                                                 83pcf                                                                                                      Oil
+                                      Mud                                                                                  Based                                                                                                                                                                                                68       1103.6                                              155             2017.5           W/65-73pcfin F/Gu.As.W/74pcfTo basedBentoniteMudSaltonSaturatedTarburMud &
+         8 1/2" or 8 3/8"            2048     2790                                                  2269          3554     (Gurpi(Ilam )73-76pcf)80-87pcfOilOilBasedBasedMudMud   2160             3064                 Salt Polymer Mud ( 80-85 pcf)    2138.5              3035                   Salt Polymer Mud ( 80-85 pcf)                1527.3                                                2017.5            2944.5              71-73pcf Oil Based Mud
+            6 1/8"                2790     2851                                                  3554          3884.5    (Sarvak )73-74pcf Oil Based Mud                                                                                                                                                           2381.3                                                2944.5           2948
+
+            5 7/8"                                                                                                                                  3064            3464.28              Salt Polymer Mud (70-74pcf pcf)    3035               3,389.42                Salt Polymer Mud (70-74pcf pcf)
+
+            4 1/2"                                                                                                                                                                                                                                                                                                     2806.5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       4 LOGGING PROGRAM
+
+           Following electrical logs will be run in Saadat Abad – Loc. E014S:
+
+         8 1/2'' Open Hole:
+          ‐Open Hole: N/A
+               ‐ Case Hole: CBL/VDL & CCL/GR logs will be run.
+
+         6 1/8'' Open Hole:
+          ‐Open Hole: Full suite/CDR will be run.
+         (CDR Logging Will be done as per I.C.O.F.C instruction)
+               - Case Hole: CBL/VDL & CCL/GR logs will be run.
+
+      MWD data will be required from K.O.P. to T.D.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       5  Drilling Hazard
+
+       Drilling through Ilam and Sarvak Formations in this field has been accompanied with
+            moderate losses and from Gurpi Formation to T.D. losses is expected.
+       Drilling in Shale parts of Gurpi Formation in this field has been accompanied with tight holes
+           and stuck pipes; special care is recommended for Mud type and drilling in this formation.
+      While drilling in Limestone lithology water flow is predicted, so special care is
+           recommended while drilling this section.
+       Losses are probable in Ilam & Sarvak Fms.
+       In drilling Ilam and Sarvak Fms; it possible to have signs of hydrocarbon, Mud cut and flow.
+             Especial care is recommended while drilling these Fms.
+       In Saadat Abad Oil field, sour oil is observed and it contains 0.63% H2S and 1.83% CO2.
+          Due to the existence of H2S in this field, in this regards, safety regulations should be highly
+             considered.
+       Structural uncertainties for top Fm. estimated +/- 50m.
+      Mud Losses and Gas flow maybe occurred in Ilam and Sarvak Fm.
+
+        *So special care is recommended while drilling 8 ½” Hole section section.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       6  Sample Requirement and Procedure
+
+               Sampling from cutting, Thin Section preparing during drilling of
+                                    Geological Formations.
+
+      The maximum sampling rate for non-reservoir and shallow Formation requested one sample
+           from each 5 meters’ intervals
+      From the Formations with lithology of Limestone, Dolomite and Sandstone which are not
+             considered as reservoirs, sampling should be carried out such as Reservoir
+     Formations (every 2 meters).
+      From reservoir Formation and nearby casing point and liner point for maximum of each 1
+            meters for Thin Section is necessary.
+      During drilling of the wells, any lithology change should be sampled and investigated.
+      During coring addition to core description and Thin Section preparation, resulted data should
+            be entered in Data base in specified forms and charts with standard format.
+      During conventional coring (without Fiber glass) it is necessary to prepare for SCAL analysis
+           and should be seals as NIOC standard.
+      form non-reservoir requested one thin section from each 10 meters’ intervals
+      From the Formations with lithology of Limestone, Dolomite and Sandstone which are
+             considered as reservoirs, one thin section should be carried out from each 2 meters’ intervals.
+
+            For any decision such as Top Formations or members, casing point depth, K.O.P, logging
+             point and intervals and Total depth and other important issue during drilling of the well, well
+                site geologist should coordinate these issues with area geologist and head of operation.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+
+         C. Nearby Wells
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1 DRILLING HISTORY
+
+            1.1 Saadat Abad 006:
+
+           Saadat Abad oil anticline located in Fars province in 60km from Shiraz in southwest and 15km
+           northwest Sarvestan oil field. This well is sixth well in Saadat Abad field with location
+          (E014S) and situated in southeast of structure in south flank in a distance of 2240m in the
+            southeast of Saa-1 & 2940m east of Saa-3. This well spuded and start drilling in 1389/11/25
+          normal geological succession was drilled from surface (recent sediment) to total epth(vertical)
+            of 2930m in Sarvak FM(zone-5), Withal The Sarvak and Ilam formations has been recognized
+           about 90m &87.5 lower than forecast geology program and therefore some changes are
+            required on the UGC map in this location.
+
+         26" open hole:
+             this section was drilled to 145 m (casing point) with 64-67 pcf Bentonite mud, 17 1/2" open
+            hole: after drill out cement and 18 5/8" shoe, this section was drilled from 154 to 2086(casing
+            point  13  3/8"2085.5)  with  67-82  Bentonite  mud;  (during  drilling  in   this  Hole
+          Washout(138m,466m,320m,1997m,2006m)  and  Twist  off  in  (1750m)  and  tight  hole
+          (863m,1565m,1783m,2078m) have been observed)
+
+          12 1/4" open hole:
+             after running and cement 13 3/8" casing start drilling from 2087m in Gurpi formation to
+         2468m(10m in Ilam Fm) and take CDR/GR log. After that continue drilling whit 70-74 pcf oil
+           base mud to 2930m (total depth in vertical hole) in sarvak formation, 9 5/8" casing run and
+          cemented in 2834m(off bottom).2 stuck pipe observe this hole & side trick the hole in two
+             stage. Totally 2 cores were cut through Sarvak Fm. From 2792.14 to 2810.2m &2810.2 to
+          2837.2m, totally 45.06 m and recovery of (100%) The full suite reservoir logs and D.S.T test
+           has been taken in several stages. After running9 5/8” casing and cement, Directional hole:
+
+          8 1/2"Open hole:
+            Started directionally from 2415m (K.O.P) in Gurpi fm with 76-80 Pcf oil base mud to 3377 m
+            (Liner point in Ilam fm.) 7” liner run and was cemented in 2335-3376m.
+
+                                              Page 22
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+          6 1/8"Open hole:
+             after running 7" liner 6 1/8" open hole was drilled (directionally) to 3841m (TD) with no major
+           problem, after that reservoir TLC logs were run & After running completion strings, the well
+         was  completed  and  rig  released  on  1390/09/14. (MD=3841m  AZ=104.9  Dev:70.6
+         TVD=2966.13)
+
+            1.2 Saadat Abad-1:
+           Saadat Abad well No.-1 was drilled to explore the Ilam-Sarvak units which are also the
+            reservoir rocks in Sarvestan structure. The Tarbur Formation was also considered as the
+            auxiliary objective.
+          During drilling of the well, some indication of gas and oil were observed in Sachun Formation,
+           but performed tests in Sachun and Tarbur Formations did not yield commercial oil or gas.
+           Production  tests, intervals 2744.30-2748.50 and 2695.70-2718.70m, of Sarvak Formation
+           revealed the maximum recovery, after acidization, of 160bbls/hr of crude oil with 3/4" choke.
+          Based on the interpretation of the seismic records and obtained data of drilled wells (SAA-1
+          and SAA-2) the areal and vertical closures of Saadat Abad structure, on top of Ilam Formation,
+            are around 93Km2 and 770m respectively. The proved gas-oil column is 385m with the area of
+            closure of 37Km2. The well is temporarily abandoned.
+          Shows:
+              • No indications of gas or oil were observed in the formations younger than the Sachun
+                  Formation.
+              • Oil-stained samples and gas  indications along with  asphaltic impregnations were
+                  recorded in the Ilam Formation.
+              • Gas & Oil, with asphaltic impregnations were confirmed in the Sarvak
+
+            1.3 Saadat Abad-04:
+           This well is fourth well in Saadat Abad field with location (E025N) and situated in east of
+            structure in north flank in a distance of 2490m in the east of Saa-1 & 1360m west of SAA-2.
+           This well spudded and start drilling in 1389/01/29, normal geological succession was drilled
+          from surface (recent sediment) to total depth of 2945m in Sarvak Fm(zone-4), Withal The
+          Sarvak and Ilam formations has been recognized about 59m &38m lower than forecast
+          geology program. 26" open hole: this section was drilled to 156m (casing point18 5/8") with
+          65 pcf bentonite mud, 17 1/2" open hole: after drill out cement and 18 5/8" shoe (155m), this
+            section was drilled from 155 to 2018(casing point 13 3/8" 2017.5m) with 65-74 bentonit mud;
+           (during drilling in this Hole Washout (1868-1749) and tight hole (849), has been observed in
+             this well).
+          12 1/4" open hole: after running and cement 13 3/8" casing (2017.5m) start drilling from 2018
+      m in Gurpi formation to 27618m (in Ilam fm) and take CDR/GR log. After that continue
+             drilling with 71-73 pcf oil base mud to 2945m (Total Depth) in Sarvak formation, 9 5/8"
+           casing run and cemented in 2944.5m, totally 4 cores were cut through in Ilam & Sarvak Fms.
+         From 2868/06-2859,2811-2802,2802-2775,2775-2761, totally 59 m and recovery of (100%)
+
+                                              Page 23
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+         The full suite reservoir logs and perforation & F.B.D.S.T test has been taken in several stages
+        And also acidizing in this hole., the (F.B.D.ST) test with acidizing(HCL 15%) and the result of
+              test was satisfactory and the decision was taken to complete the in vertical section and After
+           running completion strings, the well was completed and rig released on 1389/05/15.
+
+                                              Page 24
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+
+      D. Sequence of Drilling
+            Operation
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 25
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1 RIG MOVE
+
+                Hold pre-move meeting on location. Discuss contingency plans for:
+                        Safe arrangements for rig up and rig down.
+                        Safe standby areas for rig in case move have to be suspended.
+                        Loss of trucks in case of repair.
+                        Moving at night.
+
+                Hold pre-move safety meeting. Ensure everyone understands individual
+                             responsibilities:
+                          a)  Contractor
+                              Provide trucks and vehicles
+                              Defend GPTK/ICOFC property
+                              Co-ordinate overall moving operations with other parties in contractor
+                              Ensure HSE guidelines are followed
+                        b)  Contractor Rigs
+                              Rig down, rig up and rig modifications.
+                              Movement of rig.
+
+                         Note: Only rig manager will give orders to moving crew during rig move.
+                Personnel on Board
+                        Company representative on location
+                        Contractor Rig Manager  - senior Rig representative on location. He has
+                            ultimate responsibility for rig move.
+
+                General Procedure
+                        Commence rigging down. The ordering of trucks will be done by rig manager.
+                        Commence rig move to Location of E014S. (SAA-006)
+                         Position rig for optimal operations
+                        Rig up on cellar
+                         Finish rig up and commence operational procedure for SAA-006
+                         Note: Before leaving previous location, all equipment should be checked.
+                        Test all manifold and surface safety valves.
+                        RKB – GLE and Elevation should be recorded.
+                        Spud date and time.
+
+                                              Page 26
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       2  PRE SPUD
+
+          Company representative prepared a pre-spud checklist and distributed it in contractor rigs.
+           The checklist will be performed based on the aforementioned checklist. In addition to the
+              checklist, following matters should be checked:
+          Check & observe the alignment of the rig. This check will be performed in four stages;
+                       rig levelling, derrick verticality, derrick alignment with rotary table, rotary table
+                   alignment with conductor pipe. To do this pick up 3 joints of 9 3/4” DC and check the
+                       verticality of the derrick.
+           Mechanical facilities for mud treatment such as:
+                   Desander, Desilter, mud cleaner, proper size of shaker–screens, hoppers, mud guns &
+                    mixers, should be all available on rig and functioning properly.
+           All mud tanks, mud transfer lines & connection should be checked by filling them
+                   with water & cross wellhead circulation.
+          Mud  engineer  laboratory should be equipped  with a complete  set  of  testing
+                   equipment. The calibration should be done under supervision of well site drilling
+                    supervisor before starting the operation.
+          Weight indicator, rotary speed gauge, any smart drilling instrumentation, Stroke
+                    meter, pressure gauges on manifold and in the drilling console, loss / gain gauge and
+                  any other gauges should be checked and calibrated.
+           Stand pipe manifold valves & connection must be checked & pressure tested.
+           All motors should be checked under load prior to start drilling.
+          Check & control mud stock & cement stock every day & if there is any necessity to
+                     request mud material, cement or any drilling tool, it should be prepared & requested
+                        at proper time.
+                 Note: Fill up pre-spud check list and send it to drilling office.
+
+                                              Page 27
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 Company:                     Project:                                                                                                  Subcontractor:
+                                     SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                             DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                   03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                                                        : ﯾﺦر ﺗﺎ
+
+3   Drilling Time Curve
+
+                                                        Page 28
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                     Company:                     Project:                                                                                                  Subcontractor:
+                                       SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                               DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                       03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                                                               : ﯾﺦر ﺗﺎ
+
+   TIME VS DEPTH DATA (DRILLING OPERATION STEP BY STEP)
+
+                                                                                     Cont     Time                                                               Time    Time                           Total   SAA#6 Well Workover-       Interval    Depth      ROP                           inge    Duration                                                                       Duration  Duration                      Duration
+          Operation               (m)      (meters)  Average(mph)                     ncy   w/Continge                                                                          (Hours)    (Days)                          (Days)                                                                                                  (%)    ncy (Days)
+
+Well Securing
+Rig Mobilization / Moving
+Inspect and service well head and annulus                                                        3841                            6.0         0.25      10%         0.28            0.3valves by wellhead crew
+
+Install  kill and choke  lines, Pressure  test                                                        3841                            6.0         0.25      10%         0.28            0.6same
+Read and record the pressure inside 9 5/8"
+casing and tubing, Check the pressures of all
+annulus (Bleed off the pressure to zero,  if                 3841                          12.0        0.50      10%         0.55            1.1
+any and check for re build same), Test all P-
+seals, Monitor the well at least 5 hours.
+R/U wire  line and test, Retrieve the 3SV
+pump in C.L to sure it's free. Install Dummy,                 3841                          12.0        0.50      10%         0.55            1.7
+Test control line.
+Bull head the well w/67 pcf Mud, Observed
+W/H & tubing annulus pressure, make sure                 3841                          14.0        0.58      10%         0.64            2.3
+No pressure in annulus.
+R/U Wire line, install plug & prong in NO GO
+below Packer & test same. Recheck pressure                 3841                          12.0        0.50      10%         0.55            2.8
+in annulus.
+Open SSD, displace 67 pcf mud in tubing and
+completion fluid in annlus with 73 pcf mud.
+Close SSD.  Install two way check valve in                 3841                          16.0        0.67      10%         0.73            3.6
+TBG Hanger,  test same, N/D X-Mas Tree.
+While circl cross wellhead
+N/U 13 5/8"- 5 k BOP stack, choke manifold,
+bell nipple and related lines, test it as per                                                        3841                          30.0        1.25      10%         1.38            5.0policy. Remove two way check valve from
+hanger.
+Make about 110 stands of 5", 55 stand of 3
+1/2" DP, 12 stand of 3 1/2" HWDP , 12 stand                 3841                          55.8        2.33      10%         2.56            7.5
+5" HWDP meanwhile prepare ±80 pcf WBM.
+R/U wire line and Recover Prong and plug
+through  No  Go  nipple,  N/D  wire  line                 3841                          12.0        0.50      10%         0.55            8.1
+equipment.
+P/U landing joint, screw in tubing hanger,
+loose tie down screw, Test glands to 1000psi,
+pick up string till travel joint opened, make
+2000lb overpull, Release completion string                                                        3841                          45.8        1.91      10%         2.10           10.2from anchor seal by 20 rigth turn, circulate
+out completion fluid and balance MW. POOH
+&   L/D   completion    string.    (Packer
+Completion@ 2280.35m inside 7" liner)
+RIH w/ 8 1/2" Mill and BHA to top of Liner                                                        3841                          23.8        0.99      10%         1.09           11.2lap@ 2213m, POOH to surface.
+RIH 2 7/8" open end pipes and set 116m
+cement plug on top of 7" Completion packer,                                                        3841                         48         2.01      10%         2.21           13.5wait on cement to get hard, tag cement.
+POOH to surface.
+RIH 8 1/2" Bit to top of cement, Drill out
+cement to 2180m,CBU,Pressure test casing                                                        3841                         33         1.36      10%         1.49           14.9to 2000psi and make sure no pressure drop,
+CBU 80 pcf mud, POOH to surface.
+8 1/2" Hole section (WO#1 Leg 2)
+RIH w/ 8 1/2" mill and 9 5/8" scraper for
+Scrap whipstock  setting depth  to 2145m,                 2138                          23.3        0.97      10%         1.07           16.0
+CBU, POOH to surface.
+RIH  with  Whipstock &  BHA  to  2140m
+(Whipstock Packer Depth), Run Gyro and set                 2138                          29.6        1.23      10%         1.35           17.4
+tool face & Set whipstock to AZM 230.13 deg.
+Start milling and open window from 2138m
+and 5m new  formation.  CBU, POOH  to      5          2143                          29.7        1.24      10%         1.36           18.7
+surface.
+
+RIH w/ 8 1/2" bit, Motor and MWD to BTM.                    2143                          18.4        0.77      10%         0.84           19.6
+
+                                                           Page 29
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                     Company:                     Project:                                                                                                  Subcontractor:
+                                       SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                               DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                       03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                                                               : ﯾﺦر ﺗﺎ
+
+Directional Drilling f/2143 to 2293m, Rop=1                                            150         2293            1           150.0        6.25      50%         9.38           28.9m/hr
+Circulate  Bottoms  Up, POOH  to  Change                                                        2293                          26.4        1.10      50%         1.65           30.6motor and RIH to BTM.
+Continue  Directional   Drilling  f/2293  to                                            150         2443            1           150.0        6.25      50%         9.38           40.02443m, Rop=1 m/hr
+Circulate Btms Up, Condition the hole and                                                        2443                          27.5        1.14      50%         1.72           41.7POOH to change motor and RIH to BTM.
+Continue  Directional   Drilling  f/2443  to                                            225         2668             1.5          150.0        6.25      30%         8.13           49.82668m, Rop=1.5 m/hr
+Circulate Btms Up, Condition the hole and                                                        2668                          29.1        1.21      30%         1.57           51.4POOH to change motor and RIH to BTM.
+Continue  Directional   Drilling  f/2668  to                                            174         2842             1.5          116.0        4.83      30%         6.28           57.72842m, Rop=1.5 m/hr
+Circulate Btms Up, Condition the Hole prior                                                        2842                          23.0        0.96      15%         1.10           58.8to run liner
+Run  7"  Liner  to BTM.  Set  liner  hanger,                                                        2842                         27         1.12      10%         1.23           60.0Release setting tools
+Perform 7" Liner Cement Job. POOH & L/D                                                        2842                          18.0        0.75      10%         0.83           60.8Setting Tool.
+RIH w/ 8 1/2" MT Bit to TOC, D/O cement                                                        2842                          27.4        1.14      10%         1.26           62.1above 7" Liner Lap. POOH to Surface.
+RIH 6 1/8" Bit and clean out to 7" LDC. CBU,                                                        2842                          32.3        1.35      10%         1.48           63.6POOH to liner lap.POOH to Surface.
+RIH 8 1/2"  bit and 9 5/8" scraper, Scrap                                                        2842                          15.3        0.64      10%         0.70           64.3inside 9 5/8" casing , CBU, POOH to Surface.
+RIH W/9 5/8" Dry Test tools and test 7" Liner                                                        2842                          39.9        1.66      10%         1.83           66.1lap, POOH to surface.
+RIH with 6-1/8" bit and Drill out cement and                                                        2842                          29.2        1.21      10%         1.34           67.4shoe track
+6 1/8" Hole section (WO#1 Leg 2)
+ Drill 5m of new formation,CBU, POOH to                                             5          2847            1            21.2        0.88      10%         0.97           68.4surface.
+
+RIH w/ 6 1/8" bit and Directional BHA to BTM                  2847                          16.2        0.67      10%         0.74           69.1
+
+Directional Drilling f/2865 to 3165m, Rop=2                                            300         3147            2           150.0        6.25      10%         6.88           76.0m/hr
+Circulate Bottoms Up, POOH to change motor                                                        3147                          36.5        1.52      10%         1.67           77.7and RIH to BTM.
+Continue  Directional   Drilling  f/3165  to                                            243         3390            2           121.5        5.06      10%         5.57           83.33390m, Rop=2 m/hr
+Circulate Btms Up, Condition the Hole prior                                                        3390                          24.0        1.00      10%         1.10           84.4to run logs
+R/U logging tools and Run Full Suite Log by                                                        3390                         121.5        5.06      10%         5.57           89.9TLC.
+R/U logging tools and Run CBL/VDL/CCL/GR                                                        3390                          54.7        2.28      10%         2.51           92.4log inside 7" liner
+RIH  open  end    to 3135m  ,Install 100m
+Magneset plug as Ballance , WOC to set, Tag                 3390                          48.0        2.00      20%         2.40           94.8
+Plug, POOH to surface.
+RIH w/ 6 1/8" Bit and D/O Magneset to liner
+shoe depth (3035m, 15m MD  in  sarvak),                 3390                          42.2        1.76      20%         2.11           96.9
+POOH to surface.
+Run 5" Liner to BTM (2721-3034m). Set liner                                                        3390                         36         1.50      20%         1.81           98.7hanger, Release setting tools
+Perform 5" Liner Cement Job. POOH and L/D                                                        3390                          22.0        0.91      20%         1.10           99.8Setting Tool.
+RIH w/ 6 1/8" MT Bit to TOC, D/O cement                                                        3390                          40.0        1.67      20%         2.00           101.8above 5" Liner Lap. CBU. POOH to Surface.
+P/U 300m 3 1/8" collar and 1000m 2 7/8"                                                        3390                          15.0        0.63      20%         0.75           102.6drill pipes and stand Back
+RIH w/ 4 1/8" E.Mill & clean out BHA , D/O                                                        3390                          27.0        1.13      20%         1.35           103.9POB and clean out to top of LDC.
+
+POOH to above L.Lap, POOH to surface.                      3390                          22.0        0.92      20%         1.10           105.1
+
+RIH w/ 6 1/8" MT Bit and 7" Casing Scraper
+and Scrap Dry Test Packer Depth , POOH to                 3390                          26.3        1.10      20%         1.31           106.4
+Surface.
+
+                                                           Page 30
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                     Company:                     Project:                                                                                                  Subcontractor:
+                                       SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                               DRILLING PROGRAM – Well-006 WO1 LEG2
+
+                       03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                                                               : ﯾﺦر ﺗﺎ
+
+RIH w/ Dry Test Tools and test 5" Liner Lap,                                                        3390                          48.0        2.00      20%         2.40           108.8POOH to Surface.
+RIH 4 1/8” M.T bit to LDC, D/O shoe Track &                                                        3390                          59.1        2.46      20%         2.95           111.75m of magneset. CBU POOH to surface.
+P/U 4 1/8" B.Bit & Dir. BHA to Bottom. Clean
+and  drill out magneset to TD. CBU,POOH                 3390                          52.2        2.18      20%         2.61           114.3
+surface.
+
+Perform CBL/VDl/CCl/GR log                               3390                          48.0        2.00      20%         2.40           116.7
+
+P/U 8 1/2" bit and 9 5/8" scraper, RIH to
+packer depth while Scraping 9 5/8" packer                                                        3390                          97.6        4.07      10%         4.47           121.2depth. CBU and POOH to surface and L/D all
+pipes.
+R/U and Run completion string. Set packer,                                                        3390                          60.0        2.50      10%         2.75           124.0Land hanger, Secure the well and test same.
+N/D BOP, N/U  X-Mass  tree and  test  all
+related  lines and  valves. R/U Wire  line,
+remove dummy, Check control line and flash
+same,  Open  SSD,  Displace  annulus  with                 3390                          48.0        2.00      10%         2.20           126.2
+completion  fluid,  close  SSD and  test  it,
+Remove prong and plug from bottom No Go,
+Install dummy.
+R/U   CTU,   Perform   well   stimulation
+(Acidizing, Nitrogen lift, Well flow till stable                 3390                         120.0        5.00      10%         5.50           131.7
+well head pressure).
+ R/U wire line, remove dummy, Test control
+line to be free, Install SSSV, test control line,
+bleed  off control  line pressure, bleed  off                 3390                          12.0        0.50      10%         0.55           132.2
+well head pressure and check SSSV to be ok.
+Secure the well and release rig.
+Perform BOP test and all related lines and                                                        3390                         113         4.72       0          4.72           136.9valves as per policy (once per week).
+
+Rig service (TDS service, Slip & Cut)                          3390                         130.0        5.42       0          5.42           142.3
+Total Duration of Well Securing and Clean up and Side Tracing Phase:                        142
+
+                                                           Page 31
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       4  Well Securing
+            4.1 Sequence of Operations
+
+                 •  Inspect and service well head and annulus valves by wellhead crew
+                 •   Install kill and choke lines, Pressure test same
+                 •  Read and record the pressure inside 9 5/8" casing and tubing, Check the pressures
+                      of all annulus (Bleed off the pressure to zero, if any and check for re build same),
+                     Test all P-seals, Monitor the well at least 5 hours.
+                 •  R/U wire line and test, Retrieve the 3SV pump in C.L to sure  it's free. Install
+               Dummy, Test control line.
+                 •  Bull head the well w/67 pcf Mud, Observed W/H & tubing annulus pressure, make
+                      sure No pressure in annulus.
+                 •  R/U Wire line, install plug & prong in NO GO below Packer & test same. Recheck
+                      pressure in annulus.
+                 •   Install two way check valve in TBG Hanger, test same, N/D X-Mass Tree. While
+                       circulation cross wellhead
+                 •  N/U 13 5/8"- 5 k BOP stack, choke manifold, bell nipple and related lines, test it as
+                     per policy. Remove two way check valve from hanger.
+                 •  Make about 110 stands of 5", 55 stand of 3 1/2" DP, 12 stand of 3 1/2" HWDP, 12
+                     stand 5" HWDP meanwhile prepare ±80 pcf WBM.
+                 •  R/U wire line and Recover Prong and plug through No Go nipple, N/D wire line
+                    equipment.
+                 •  P/U landing joint, screw in tubing hanger, loose tie down screw, Test glands to
+                     1000psi, pick up string  till travel joint opened, make 2000lb overpull, Release
+                    completion string from anchor seal by 20 right turn, circulate out completion fluid
+                   and balance MW. POOH & L/D completion string w/plug in SSD.
+                 •  RIH w/ 8 1/2" Mill and BHA to top of Liner lap, POOH to surface.
+                 •  RIH 3 1/2" open end pipes and set 200m cement plug on top of 7" packer, wait on
+                   cement to get hard, tag cement. POOH to surface.
+                 •  RIH 8 1/2" Bit to top of cement, drill out cement to 2180m, CBU, Pressure test
+                     casing to 2000psi and make sure no pressure drop, CBU 80 pcf mud, POOH to
+                       surface.
+
+                                              Page 32
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       5  8-1/2” HOLE SECTION/ 7” LINER
+
+            5.1 General
+
+                Total Depth             2842m
+              Formation                  Gurpi, Ilam, Sarvak
+                Risks & Hole problems      Stuck Pipe, Loss, Tight hole, Shale Caving
+              Logging              CBL/VDL& CCL/GR
+                                                 Salt /KCL mud
+                     MW    80-85 pcf
+                                                Vis.    38-45sec
+                               PV    17-25
+                 Drilling Fluid
+                               YP    12-16 Lbs/100ft²
+                               PH     9.5
+                                         F.L    <3 CC/30 MIN
+                             KCL    >3%
+                           GPM   350-500
+                 Drilling Parameters     WOB   10-30 klbs
+                           RPM   120-180
+
+            5.2 Formation Sampling
+
+               On each 0.5-2 meters a sample would be taken.
+
+                 Note:
+                Sampling frequency may be changed as per well site geologist's decision.
+
+            5.3 Sequence of Operations
+
+                 •  RIH w/ 8 1/2" mill and 9 5/8" scraper to scrape whipstock setting depth to 2145m,
+                CBU, POOH to surface.
+                 •  RIH with Whipstock & BHA to 2140m (Whipstock Packer Depth), Run Gyro and
+                        set tool face & Set whipstock to AZM 230.13 deg.
+                 •   Start milling and open window from 2138m and 5m new formation. CBU, POOH to
+                       surface.
+                 •  RIH w/ 8 1/2" bit, Motor and MWD to BTM.
+                 •  Directional Drilling f/2143 to 2293m, Rop=1 m/hr
+                 •  Circulate Bottoms Up, POOH to Change motor and RIH to BTM.
+                 •  Continue Directional Drilling f/2293 to 2443m, Rop=1 m/hr
+
+                                              Page 33
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                 •  Circulate Btms Up, Condition the hole and POOH to change motor and RIH to
+               BTM.
+                 •  Continue Directional Drilling f/2443 to 2668m, Rop=1.5 m/hr
+                 •  Circulate Btms Up, Condition the hole and POOH to change motor and RIH to
+               BTM.
+                 •  Continue Directional Drilling f/2668 to 2842m, Rop=1.5 m/hr
+                 •  Circulate Btms Up, Condition the Hole prior to run liner
+                 •  Run 7" Liner to BTM. Set liner hanger, Release setting tools
+                 •  Perform 7" Liner Cement Job. POOH Setting Tool.
+                 •  RIH w/ 8 1/2" MT Bit to TOC, D/O cement above 7" Liner to Lap. POOH to
+                      Surface.
+                 •  RIH 6 1/8" Bit and clean well to 7" LDC. CBU, POOH to liner lap. Perform liner
+                      lap positive pressure test. POOH to Surface.
+                 •  RIH 8 1/2" bit and 9 5/8" scraper, Scrap inside 9 5/8" casing, CBU, POOH to
+                      Surface.
+                 •  RIH W/9 5/8" Dry Test tools and test 7" Liner lap, POOH to surface.
+                 •  RIH with 6-1/8" bit and Drill out cement and shoe track
+
+                    Note:
+                Dry test Procedure and related program will be submitted in due
+                              time.
+                Do not forget to remove wear bushing before running log & liner.
+                Do not forget to take Slow Pump each 12 hours.
+                Do not forget to change top rams before running log & Liner &
+                           changing drill string to proper size and testing same.
+                Do not forget to use rotating head when entering in gas cap.
+                BOP test operation should add to operation sequence each two weeks’
+                           base on NIOC Policy.
+                 After cementing Circulate with high GPM to flush drill pipe and
+                               circulate out cement
+
+            5.4 Logging Program
+
+                         -  CBL/VDL& CCL/GR log will be run from 7" Liner shoe to 9 5/8" casing.
+
+                                              Page 34
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       6  6-1/8” HOLE SECTION/ Open Hole
+
+            6.1 General
+
+                Total Depth             3390m
+              Formation                 Sarvak
+                Risks & Hole problems      Stuck Pipe, Loss, Tight hole, Flow
+              Logging                      Full suite/CDR & CBL/VDL/CCl/GR logs
+                                                 Salt /KCL mud
+                     MW    70-76 pcf
+                                                Vis.    30-40sec
+                               PV    12-18
+                 Drilling Fluid
+                               YP    12-16 Lbs/100ft²
+                               PH     9.5
+                                         F.L    <3 CC/30 MIN
+                             KCL  >3%
+                           GPM   200-350
+                 Drilling Parameters     WOB   10-25 klbs
+                           RPM   120-170
+
+            6.2 Formation Sampling
+
+               On each 0.5-2 meters a sample would be taken.
+
+                 Note:
+                Sampling frequency may be changed as per well site geologist's decision.
+
+            6.3 Sequence of Operations
+
+                 •   Drill 5m of new formation,CBU, POOH to surface.
+                 •  RIH w/ 6 1/8" bit and Directional BHA to BTM
+                 •  Directional Drilling f/2865 to 3165m, Rop=2 m/hr
+                 •  Circulate Bottoms Up, POOH to change motor and RIH to BTM.
+                 •  Continue Directional Drilling f/3165 to 3390m, Rop=2 m/hr
+                 •  Circulate Btms Up, Condition the Hole prior to run logs
+                 •  R/U logging tools and Run Full Suite Log by TLC.
+                 •  R/U logging tools and Run CBL/VDL/CCL/GR log inside 7" liner
+
+                                              Page 35
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                 •  RIH open end to 3135m, install 100m Magneset plug as Balance, WOC to set, Tag
+                      Plug, POOH to surface.
+                 •  RIH w/ 6 1/8" Bit and D/O Magneset to liner shoe depth (3035m, 15m MD in
+                       sarvak), POOH to surface.
+                 •  Run 5" Liner to BTM(2721-3034m). Set liner hanger, Release setting tools
+
+                 •  Perform 5" Liner Cement Job. POOH and L/D Setting Tool.
+                 •  RIH w/ 6 1/8" MT Bit to TOC, D/O cement above 5" Liner Lap. CBU. POOH to
+                      Surface.
+                 •  P/U 300m 3 1/8" collar and 1000m 2 7/8" drill pipes and stand Back
+                 •  RIH w/ 4 1/8" Econo Mill & clean out BHA, D/O POB and clean out to top of
+                LDC.
+                 • POOH to above L.Lap , POOH to surface.
+                 •  RIH w/ 6 1/8" MT Bit and 7" Casing Scraper and Scrap Dry Test Packer Depth,
+             POOH to Surface.
+                 •  RIH w/ Dry Test Tools and test 5" Liner Lap, POOH to Surface.
+                 •  RIH 4 1/8” MT bit to LDC, D/O shoe Track & 5m of magneset. CBU POOH to
+                       surface.
+                 •  P/U 4 1/8" B.Bit & Dir. BHA to Bottom. Clean and drill out magneset to TD. CBU,
+             POOH surface.
+                 •  Perform CBL/VDl/CCl/GR log
+                 •  P/U 8 1/2" bit and 9 5/8" scraper, RIH to packer depth while Scraping 9 5/8" packer
+                      depth. CBU and POOH to surface and L/D all pipes.
+                 •  R/U and Run completion string. Set packer, Land hanger, Secure the well and test
+                    same.
+                 •  N/D BOP, N/U X-Mass tree and test all related lines and valves. R/U Wire line,
+                  remove dummy, check control line and flash same, Open SSD, displace annulus
+                    with completion fluid, close SSD and test it, remove prong and plug from bottom No
+                  Go, Install dummy.
+                 •  R/U CTU, Perform well stimulation (Acidizing, Nitrogen lift,Well flow till stable
+                     well head pressure).
+                 •  R/U wire line, remove dummy, Test control line to be free, Install SSSV, test
+                      control line, bleed off control line pressure, bleed off well head pressure and check
+               SSSV to be ok. Secure the well and release rig.
+
+                    Note:
+                BOP test operation should add to operation sequence each two weeks base
+                          on NIOC Policy.
+
+                                              Page 36
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+            6.4 Logging Program
+
+             •   Full suite/CDR logs will be run (open hole) from 3035m to TD @3390 m.
+             (CDR Logging Will be done as per I.C.O.F.C instruction)
+
+             •  CBL/VDL/CCL/GR from 5” liner
+
+                                              Page 37
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+
+   D. Directional Drilling Plan
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 38
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                                              Page 39
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                                              Page 40
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                                              Page 41
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+
+          E. BHA Design
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 42
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+    General
+                 •  Actual BHA’s composition may change according to actual bit type or actual hole
+                      condition or contingent required or deviation.
+                 • A float valve will be run all the times below the 9 5/8" casing. The float valve
+                     should be pulled and inspected on every trip.
+                 •  The drilling jars will be changed out after 200 hours of service.
+                 •  Every connection in the BHA should be cleaned on every trip.
+                 •   Drill  collar numbers  listed  in the following assemblies are meant  to  reflect
+                 minimum numbers. If additional bit weight is required, additional collars should be
+                     picked up.
+                 •  The neutral point (bending & tensile) should, at all times, be maintained in the drill
+                         collars.
+                 •  All components of the BHA including drilling contractor’s equipment (DC, subs,
+                      xos, short drill collar, drilling jar, etc) will require inspection papers before being
+                   RIH. Equipment that cannot be verified as inspected will not be run in the hole.
+                 •  Directional BHA may change according to DD instruction.
+
+                                              Page 43
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       7  8-1/2” Directional BHA
+
+                                              Page 44
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+   03/09/2020         SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       8  6-1/8” Directional BHA
+
+                                              Page 45
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+          F. Mud Program
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 46
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1  8.5" HOLE SECTION
+            1.1  8-1/2” Hole Section Characteristics
+
+                This section will be drilled to 2842 m MD. (According to geologies department)
+
+                                         8 1/2" Hole Section
+                                         Drilling Interval       2138 to 2842 m MD
+                                      Interval Length (m)    704
+                  In case of any losses, the only remedy considered is to use LCM in Viscose pill
+
+            1.2  Drilling Fluid Properties
+
+                  Inhibitive Salt water KCL/Polymer mud is proposed to drill this section which will
+                provide inhibition against anhydrates and problematic shale inter-beds through the hole
+                  section. Fluid loss should be controlled through the section; it could start from 6 ranges
+                then firmly controlled down to below 3 prior to drilling shales beds.
+                 Viscosity is maintained using purified Starch, high YP and low end rheologies should be
+                kept in range.
+               Monitor hole cleaning and sweep the hole with high viscosity pills as needed.
+                  Drill to the well total depth, circulate hole clean and spot a viscous pill on bottom before
+                  tripping out to run casing.
+
+            1.3  Drilling Fluid Mixing
+
+                  Drilling water should be treated for hardness before additions of purified polymers.
+           PAC LV will assist to control fluid loss, XC-Polymer with Starch & HPHT-Starch will
+                 require the Viscosity and mud rheology
+             KCl  / NaCl and Calcium Carbonate will maintain required MW. On top of weight
+                  resulted from Brine/Calcium Carbonate, Mud Weight to be provided by addition of
+                weighting agent.
+                 In event of experiencing salt water flows, maintain a contingency supply of Caustic and
+              Soda ash to treat magnesium and calcium ions in solution.
+                  Here are brief of mud properties:
+
+                                              Page 47
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                                  Drilling Fluid
+           Hole Size (in)                                         8 1/2”
+            Section TD (m)                                        2842
+                         Surface                                   1000
+                    Open hole + Cased Hole                     710
+                                 (bbls)      Losses While Operation                     300                      Wash-out hole (20%)                        40
+                 Mud Treatment Operation                   450                                 Volume      Safety Volume                             500
+                       Recovered from previous hole
+                         Total usage                               3000
+                 Mud Type                                  Salt / KCL Polymer
+                 Mud Weight (pcf)                           80-85
+                           Viscosity (Sec.)                              38-45
+                       P.V/Y.P                                 17-25 / 12-16                                 System
+                         Gels                                             2/4
+                Mud                 PH                                               9.5
+                  W.L (CC)                             < 2
+                KCL                              >3%
+
+                                              Page 48
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       2  6-1/8” HOLE SECTION
+            2.1  6-1/8” Hole Section Characteristics
+
+                This section will be drilled to 3390 m MD in Sarvak formation.
+
+                                         6 1/8" Hole Section
+                                         Drilling Interval       2842 to 3390 m MD
+                                      Interval Length (m)    548
+                  In case of any losses, the only remedy considered is to use LCM in Viscose pill
+
+            2.2  Drilling Fluid Properties
+
+                  Inhibitive Salt water KCL/Polymer mud is proposed to drill this section which will
+                provide inhibition against anhydrates and problematic shale inter-beds through the hole
+                  section. Fluid loss should be controlled through the section; it could start from 6 ranges
+                then firmly controlled down to below 3 prior to drilling shales beds.
+                 Viscosity is maintained using purified Starch, high YP and low end rheologies should be
+                kept in range.
+               Monitor hole cleaning and sweep the hole with high viscosity pills as needed.
+               Perform periodic wiper trips to monitor hole integrity.
+                  Drill to the well total depth, circulate hole clean and spot a viscous pill on bottom before
+                  tripping out to run casing.
+
+            2.3  Drilling Fluid Mixing
+
+                  Drilling water should be treated for hardness before additions of purified polymers.
+           PAC LV will assist to control fluid loss, XC-Polymer with Starch & HPHT-Starch will
+                 require the Viscosity and mud rheology
+             KCl  / NaCl and Calcium Carbonate will maintain required MW. On top of weight
+                  resulted from Brine/Calcium Carbonate, Mud Weight to be provided by addition of
+                weighting agent.
+                 In event of experiencing salt water flows, maintain a contingency supply of Caustic and
+              Soda ash to treat magnesium and calcium ions in solution.
+
+                                              Page 49
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                  Here are brief of mud properties:
+
+                                  Drilling Fluid
+           Hole Size (in)                                         6 1/8”
+            Section TD (m)                                        3390
+                         Surface                                   800
+                    Open hole + Cased Hole                     640
+                                 (bbls)      Losses While Operation                     150                      Wash-out hole (30%)                        10
+                 Mud Treatment Operation                   200                                 Volume      Safety Volume                             200
+                       Recovered from previous hole               1500
+                         Total usage                               2000
+                 Mud Type                                  Salt / KCL Polymer
+                 Mud Weight (pcf)                           70-76
+                           Viscosity (Sec.)                              30-40
+                       P.V/Y.P                                 12-20  / 12-16                                 System
+                         Gels                                             2/4
+                Mud                 PH                                               9.5
+                  W.L (CC)                             < 2
+                KCL                             >3%
+
+                                              Page 50
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+         G. Bit Program
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 51
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1  8-1/2” HOLE SECTION
+
+                   Following bits are recommended to drill 8 1/2” hole section:
+
+                     Bit Size:           8 ½”
+                     Bit Code:            215, 5-1-7, 537, PDC
+                   Nozzles:           12 * 12 * 12 * 12 * 12 * 12
+
+                The following drilling parameters are recommended to optimize drilling:
+
+            RPM = 120-180
+           WOB = 10-30 klbs
+            GPM = 350 -500
+
+                   Note: Exact PDC bit drilling parameters will be issued in due time.
+
+       2  6-1/8” HOLE SECTION
+
+                   Following bits are recommended to drill 6 1/8” hole section:
+
+                     Bit Size:           6 1/8”
+                     Bit Code:            214, PDC
+                   Nozzles:           12 * 12 * 12 * 12 * 12 * 12
+
+                The following drilling parameters are recommended to optimize drilling:
+
+            RPM = 120-170
+           WOB = 10-25 klbs
+            GPM = 200-350
+
+                   Note: Exact PDC bit drilling parameters will be issued in due time.
+
+                                              Page 52
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+       H. Casing Program
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 53
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1  Casing Design in one face
+
+ Casing      Depth                                                               Coupling                                         Connectio   Collapse   Burst    Drift     ID   Size       (meter)     ppf  Grade                                  OD    Remarks                                       n
+   Inch    from   to                                     psi        psi       in       in         in
+
+                                                   PJE       7020     8160    6.125   6.184     7.656       ….7” Liner   2018  2841   29     L-80
+
+5” Liner   2721  3034   18     L-80      CSTZ      10483    10135   4.152   4.276           …
+
+       2  8-1/2" HOLE SECTION / 7” LINER
+
+            2.1  String Design
+
+              7” liner Float Shoe, 29 ppf, L-80, N-VAM.
+              Two Joints (Approx.±24m) of 7” Liner, 29 ppf, L-80, PJE.
+              7” Float Collar, 29 ppf, L-80, N-VAM.
+              One Joint (Approx.±12m) of 7” Liner, 29 ppf, L-80, PJE.
+              7” LDC, 29 ppf, L-80, N-VAM.
+              Approx. ±787m (±66 Joints) of 7” Liner, 29 ppf, L-80, PJE. (each joint about
+                   12m length)
+              7” Liner Hanger 29 ppf, L-80, N-VAM & Acc.
+               Centralizer on the first 3 joints.
+               Centralisers on each 3 for the rest joints.
+            2.2  Preparation
+               Visually and mechanically check the float shoe & Float Collar for proper
+                             operation.
+               Ensure all connections are thoroughly cleaned using steam or a grease solvent.
+               Ensure that all casing running equipment is available and in good condition.
+               Ensure the correct 6 1/8” casing drifts are supplied to the rig (6” Long).
+
+                                              Page 54
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+              Check the plugs fins not to be squeezed or damaged.
+               Ensure that all Liner joints have been drifted.
+               Ensure all cement bulk lines have been checked for blockage with bulk tanks
+                              fluffed and pressurized to the required transfer pressure. Ensure that the air
+                          supply system for cement is functioning properly.
+               Inspect and pressure test cement manifold.
+              Check the ball in LDC
+
+            2.3  Liner Specifications
+
+                  Pipe OD (in)                                    7
+                Weight (lb/ft)                                  29
+                  Pipe ID (in)                                      6.184
+                 Wall Thickness (in)                               0.408
+                Grade                                         L-80
+                 Connection                                  PJE
+                  Collapse Resistance (psi)                        7020
+                  Pipe Body Yield (klb)                         677250
+                  Pipe Body Internal Yield (psi)                   8160
+              Make Up Torque (lb.ft), optimum                            ---
+
+            2.4 Sequence of Operations
+
+                 • WSS is to supervise the loading of liner wiper plug in liner running tool, and loading
+                    of drill pipe wiper dart in cementing head.
+                 • The liner hanger engineer is to be on the rig floor at all times that the liner is being
+                   run in open hole.
+                 • Hold pre-job safety meeting. When running-in, apply thread lock to all connections of
+                     the shoe track.
+
+               After making up the shoe track, lower through rotary table and check that the
+                               floats are holding. Fill up with mud and pick up to check float functionality.
+                            Circulate for 10 min.
+              Run liner in  at controlled speed to minimize pressure surges (approx.10
+                                 joints/hr.). Check returns constantly.
+               Fill up each liner joint whilst running in the hole. Fill up liner completely
+                          every 10 joints run.
+
+                                              Page 55
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+              When the required numbers of liner joints have been made up, make up the
+                               liner hanger & liner top packer, running tool as per liner hanger engineer’s
+                              instructions.
+               Circulate 120% of the liner capacity. (Record Liner weight)
+              Run the liner with 5” drill pipe to the casing shoe.  Circulate a minimum of
+                        one string capacity before running into open hole, RIH in the open hole at 4-5
+                           min/stand. Liner hanger engineer should be on rig floor while running liner
+                             into open hole. (Check the loss while RIH if need decrease the speed of the
+                         RIH). SLM & drift the drill pipe while RIH the liner.
+              Work through any tight spots with maximum 50 klbs slack off / over pull and
+                      wash down if necessary. Establish full circulation slowly prior to washing
+                       down. Immediately call the WSS and Tool pusher to the rig floor, if there is
+                               tight hole.
+              The hanger will be set 120m above the 9 5/8” casing shoe. Try to avoid setting
+                         hanger on casing coupling. Set the Hanger as per hanger engineer procedures.
+                         Ensure that the running tool is free of the liner (work string 0.5m up and down
+                       – record loss of weight as the hanger sets) before starting to cement.
+               Circulate 120% of the string contents.
+              Cement 7" liner as per cementing program.
+               Displace the cement with the cementing pump to the liner wiper plug. Shear
+                           out liner wiper plug (Record the volume pumped and shearing pressure).
+                          Displace combined wiper plugs to latch down collar.
+              Bump the plug with 500 psi over final displacement pressure (or 2000 psi
+                       bumping press.) (Record and report final displacement pressure prior to bump
+                            the plug). If there is no bump, do not displace more than 50% of the shoe-
+                             track volume. Displace with Cementing Pump.
+              Hold bumping pressure for 5 minutes. If the plugs bumped.
+               If plugs bumped, pressure up and test liner to 2000 psi for 15 minutes.
+               Bleed off pressure slowly and check for back-flow.
+              P/U setting tool for two meters and apply weight to set liner packer  (If
+                              available). Apply maximum 15,000 lbs (based on Hanger man instruction) to
+                     make sure that the packer is set. CBU clean hole. Check the bottom’s up for
+                        cement return.
+
+                          Note: All calculation of Cement program and hanger setting procedure and
+                               liner tally shall be submitted in due time.
+
+                                              Page 56
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       3  6-1/8" HOLE SECTION / 5” LINER
+
+            3.1  String Design
+
+              5” liner Float Shoe, 18 ppf, L-80, VFJ.
+              5” X/O CSTZ BOX x VFJ PIN
+              Two Joints (Approx.±24m) of 5” Liner, 18 ppf, L-80, CSTZ.
+              5” X/O CSTZ PIN x VFJ BOX
+              7” Float Collar, 29 ppf, L-80, VFJ.
+              5” X/O CSTZ BOX x VFJ PIN
+              One Joint (Approx.±12m) of 7” Liner, 18 ppf, L-80, CSTZ.
+              5” X/O CSTZ PIN x VFJ BOX
+              7” LDC, 29 ppf, L-80, V.F.J
+              5” X/O CSTZ BOX x VFJ PIN
+              Approx. ±787m (±66 Joints) of 7” Liner, 29 ppf, L-80, PJE. (each joint about
+                   12m length)
+              5” X/O CSTZ PIN x VFJ Box
+              7” Liner Hanger 29 ppf, L-80, V.F.J & Acc.
+               Centralizer on the first 3 joints.
+               Centralisers on each 3 for the rest joints.
+            3.2  Preparation
+               Visually and mechanically check the float shoe & Float Collar for proper
+                             operation.
+               Ensure all connections are thoroughly cleaned using steam or a grease solvent.
+               Ensure that all casing running equipment is available and in good condition.
+               Ensure the correct casing drifts are supplied to the rig (6” Long).
+              Check the plugs fins not to be squeezed or damaged.
+               Ensure that all Liner joints have been drifted.
+               Ensure all cement bulk lines have been checked for blockage with bulk tanks
+                              fluffed and pressurized to the required transfer pressure. Ensure that the air
+                          supply system for cement is functioning properly.
+               Inspect and pressure test cement manifold.
+              Check the ball in LDC
+
+                                              Page 57
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+            3.3  Liner Specifications
+
+                  Pipe OD (in)                                    5
+                Weight (lb/ft)                                  18
+                  Pipe ID (in)                                      4.276
+                 Wall Thickness (in)                               0.362
+                Grade                                         L-80
+                 Connection                            CSTZ
+                  Collapse Resistance (psi)                       10483
+                  Pipe Body Yield (klb)                         423000
+                  Pipe Body Internal Yield (psi)                   10135
+              Make Up Torque (lb.ft), optimum                            ---
+
+              3.4  Sequence of Operations
+
+                   • WSS is to supervise the loading of liner wiper plug in liner running tool, and
+                      loading of drill pipe wiper dart in cementing head.
+                   • The liner hanger engineer is to be on the rig floor at all times that the liner is being
+                      run in open hole.
+                   • Hold pre-job safety meeting. When running-in, apply thread lock to all connections
+                       of the shoe track.
+
+                      After making up the shoe track, lower through rotary table and check
+                               that the floats are holding. Fill up with mud and pick up to check float
+                              functionality. Circulate for 10 min.
+                    Run  liner  in  at  controlled  speed  to  minimize  pressure  surges
+                          (approx.10 joints/hr.). Check returns constantly.
+                        Fill up each  liner  joint whilst running in the hole.  Fill up  liner
+                          completely every 10 joints run.
+                   When the required numbers of liner joints have been made up, make
+                       up the liner hanger & liner top packer, running tool as per liner hanger
+                            engineer’s instructions.
+                      Circulate 120% of the liner capacity. (Record Liner weight)
+                    Run the liner with 5”  drill pipe to the casing shoe.   Circulate a
+                     minimum of one string capacity before running into open hole, RIH in the
+                        open hole at 4-5 min/stand. Liner hanger engineer should be on rig floor while
+                          running liner into open hole. (Check the loss while RIH if need decrease the
+                         speed of the RIH). SLM & drift the drill pipe while RIH the liner.
+
+                                              Page 58
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                    Work through any tight spots with slack off / over pull and wash down
+                                     if  necessary.  Establish  full  circulation  slowly  prior  to washing down.
+                         Immediately call the WSS and Tool pusher to the rig floor, if there is tight
+                             hole.
+                    The hanger will be set 120m above the 7” Liner shoe. Try to avoid
+                              setting hanger on casing coupling. Set the Hanger as per hanger engineer
+                           procedures. Ensure that the running tool is free of the liner (work string 0.5m
+                       up and down – record loss of weight as the hanger sets) before starting to
+                          cement.
+                      Circulate 120% of the string contents.
+                    Cement 5" liner as per cementing program.
+                     Displace the cement with the cementing pump to the liner wiper plug.
+                         Shear  out  liner wiper plug (Record  the volume pumped and  shearing
+                             pressure). Displace combined wiper plugs to latch down collar.
+                   Bump the plug with 500 psi over final displacement pressure (or 2000
+                             psi bumping press.) (Record and report final displacement pressure prior to
+                    bump the plug). If there is no bump, do not displace more than 50% of the
+                            shoe-track volume. Displace with Cementing Pump.
+                    Hold bumping pressure for 5 minutes. If the plugs bumped.
+                        If plugs bumped, pressure up and test liner to 1500 psi for 15 minutes.
+                     Bleed off pressure slowly and check for back-flow.
+
+                          Note: All calculation of Cement program and hanger setting procedure and
+                               liner tally shall be submitted in due time.
+
+                                              Page 59
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+           I. Cement Program
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 60
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1  8 1/2” HOLE SECTION/ 7” LINER
+
+                        Important: The following is a sample program; therefore, it should be tested
+                          using the field drilling water, cement sample and Additives.
+
+                       For cementing operation, note the followings:
+                               1.  Conduct safety meeting prior to start operation.
+                               2.  Flush all the lines with water. Test the lines to 3000 psi for 10 minutes.
+                               3. Mix and pump cement as per program. Total Slurry volume is calculated
+                             based on %100 excess in open hole and %20 excess in cased hole.
+                               4.  All samples should be stored until the success of the cement job has been
+                                   verified, then they may be discarded.
+
+     Slurry Design
+
+           Spacer
+
+                     50 bbls of Spacer will be pumped ahead of cement as spacer.
+
+            Slurry specifications
+
+                           o  Cement Class            “G”
+                           o  Sacks Weight             110 Lb/Sx
+                           o  Cement Excess          100% O.H
+                           o  Length of Slurry           1000 m
+                           o  Shoe Track               36 m
+                           o  Density                  118 PCF
+                           o  Slurry Volume            150 bbls
+
+                                              Page 61
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+            Fluid Sequence & pumping schedule
+
+                           Total pumping time: 65 min
+
+       Name      Volume (bbl)   Flow Rate (BPM)  Stage Time (min)  Cum. Volume (bbl)
+     Slurry              150              6                25                150
+     Displacement        235              6                40                385
+
+               Note: Compressibility strength of cement slurry should be greater than 3000 psi.
+
+       2  6 1/8” HOLE SECTION/ 5” LINER
+
+                        Important: The following is a sample program; therefore, it should be tested
+                          using the field drilling water, cement sample and Additives.
+
+                       For cementing operation, note the followings:
+                               1- Conduct safety meeting prior to start operation.
+                               2-  Flush all the lines with water. Test the lines to 3000 psi for 10 minutes.
+                               3- Mix and pump cement  as per program. Total Slurry volume  is
+                                    calculated based on %100 excess in open hole and %20 excess in
+                                 cased hole.
+                               4-  All samples should be stored until the success of the cement job has
+                               been verified, then they may be discarded.
+
+                                              Page 62
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+     Slurry Design
+
+           Spacer
+
+                     30 bbls of Spacer will be pumped ahead of cement as spacer.
+
+            Slurry specifications
+
+                           o  Cement Class            “G”
+                           o  Sacks Weight             110 Lb/Sx
+                           o  Cement Excess          100% O.H
+                           o  Length of Slurry           1000 m
+                           o  Shoe Track               36 m
+                           o  Density                  118 PCF
+                           o  Slurry Volume            70 bbls
+
+            Fluid Sequence & pumping schedule
+
+                           Total pumping time: 45 min
+
+       Name      Volume (bbl)   Flow Rate (BPM)  Stage Time (min)  Cum. Volume (bbl)
+     Slurry               70               5                10                70
+     Displacement        174              5                35                244
+
+               Note: Compressibility strength of cement slurry should be greater than 3000 psi.
+
+       3  Magneset Plug
+
+                        Name            Volume (bbl)
+                         Magneset Plug              70
+
+                                              Page 63
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+       J. Completion Program
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 64
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1 COMPLETION PROGRAM
+            1.1 Completion running procedure
+      • Scraper Trip
+          Objective
+                The objective is to run the 9-5/8″ scraper BHA to scrape inside 9-5/8” casing @
+               2009m Packer setting depth.
+
+          Risk Evaluation
+                        • Junk falls in hole
+                        • Debris on top of Liner hanger
+                        • BHA stuck in the hole
+                        • Fish scraper parts in well.
+
+       HSE Focus Points
+          Well has to be stable before running the BHA.
+           Monitor well for loss/gain over the trip tank.
+          Good communication among all parties responsible for well control.
+           Pre-job meeting will focus on well control, contingency procedures to be understood
+                 by all involved parties.
+          Volume and well control shall be focused upon throughout running/pulling. Fill out
+                    kick sheet prior to run in hole.
+          On a positive indication of a kick, unexpected pit gain or flow return rate increase,
+                    well shall be shut in without performing flow check
+          A kick stand shall be readily available at all times.
+
+          Technical
+                  Note: 9-5/8” scraper shall be suitable for 47 ppf casing.
+         Well Status
+                        • 11” wear bushing installed in wellhead.
+
+                                              Page 65
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+          Operation Sequence
+                       1. P/U & M/U 8-1/2” Bit + 9-5/8” Scrapper + 6 ½” DC + 5” DP
+                       2. RIH to packer depth @ 2009m.
+                       3. Scrape packer depth interval 1985m to 2015m Several times while pumping.
+                       5. POOH to surface while observe the well to make sure well is static.
+
+       •  Completion Installation
+          Objectives
+                  The objective is to install the completion components, 7” & 4 ½” production tubing, tubing
+                    hanger and X-mas tree.
+
+          Risk Evaluation
+           Fluid left in tubing is not properly inhibited.
+           Losing control line clamps in hole
+           Junk falls in the well before or during completion
+           Well/completion fluid not clean before running completion string
+          Over torque tubing connections
+          Leak in DHSV control line when pressure testing
+          Damage to DHSV control lines from manual slips
+          Tubing head wear/damage if the rig is not centered on hole
+           Taking kick/inflow during completion
+          Damage to tubing hanger when running through riser/BOP
+           Poor make up graphs due to poor supervision
+       HSE Focus Points
+           Maintain good housekeeping on the drill floor at all times.
+          The well shall be lined up to the trip tank. Keep the trip tank pump running.
+           Perform pre job meetings with  all involved personnel  at  critical stages of the
+                     operation.
+           Perform kick drill prior to commencement.
+
+                                              Page 66
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+           It is strongly advised to have emergency cable cutters for DHSV control line ready on
+                       rig floor.
+           Observe that well is stable before running completion.
+
+         Completion Installation Operational Sequence
+
+                 Note: Perform pre-job safety meeting with special instruction to completion crew
+                 regarding correct dope application, make up torque and tubing handling (Under HSEQ
+                  supervision).
+
+                 Note: Flush tubing head spool as per Wellhead Service Engineer instruction. Do perfect
+              wash and check the return form side outlet to make sure it's free of debris.
+
+                 Note: Measure accurate distance from tubing landing shoulder to rotary table
+
+                 Note: A single joint elevator same as tubing size will be used as backup to secure the
+                 assemblies in the beginning when there is low weight hanging in the side door. This will
+                be installed directly on TOP of the compact spider frame.
+
+                 Note: Rigging up of the assembly should take place with extra care while using the air
+                   hoist and the Crane at the same time.
+
+                 Note: all the completion equipment are already made up with 1 pup jt. above and 1 pup
+                           jt. below, torque up and pressure tested, all valves of X-mas tree already tested in
+                workshop.
+
+                 Note: Lift all emergency well control subs to rig floor and make up to cock valve.
+
+         •  Open all the tubing protectors in the rack, wash and clean all the threads.
+
+         •  Rig up completion running tools.
+
+         •   3. M/U and RIH all equipment’s step by step as per tally.
+
+                   Note: F/up 100m on top of SSD plug with H-Vis polymer pill (100sec) and the rest
+                   each 10 jt W/ mud. Test string up to 4500psi for each 100 joints.
+
+                                              Page 67
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+                  Note: For running tubular Using of JAM (Joint analyser makes up) unit is mandatory
+                      to have torque-turn graph. Any connection with improper torque-turn graph shall be
+                      rejected.
+
+                  Note: Cross over 4 ½” pin * DP connection box attached with FOSV (TIW valve)
+                      shall be made up and lay aside at rig floor ready to install on tubing in case of well
+                     control issue to secure the well from inside string. Same configuration also shall be
+                made up and to be ready at rig floor for 7” pin * DP connection attached with FOSV.
+
+            •  Connect 7” WR-SSSV Landing Nipple including dummy (3.688” No Go profile) with
+               flow couplings and pup jts up and down.
+            •  Connect C/L to WR-SSSV Landing Nipple and test with 4,500 psi for 15 min. RIH with
+              1500 psi inside C/L. (put clamp-on C/L protector on every joint to hold C/L).
+            •  M/U and RIH 7” tubing till surface.
+            •  P/U and M/U tubing hanger, release pressure inside C/L and connect C/L to tubing
+                hanger, Falsh C/L and test with 4,500 psi for 15 mins.
+            •  P/up 7” Landing jt. and connect to Hanger. Touch with hanger inside the bowl of TBG
+          HD Spool, pull & space out, Mark String.
+            •   Pull out string to half of traveling joint stroke.
+            •  R/U Golp. Flange and R/U slick line
+            •  Remove plug and prong from SSD
+            •   Install plug and prong in top No-Go
+            •  R/D slick line equipment
+            •   Install swage on landing joint
+            •  Perform 500psi pressure for 5min and increase pressure gradually step by step 500psi to
+                   set packer with 3500 psi final pressure.
+            •  Pressure test inside tubing to 4500psi and inside annulus to 2000psi.
+            •  Release pressure and perform weight on string to shear pins of landing joint, Install
+               hanger in THS.
+            •  Tighten tie down screw
+            •  Pressure test inside tubing w/4500psi and annulus w/2000 psi.
+
+                                              Page 68
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+            •  Back off landing joint
+            •  Hang up BOP, disconnect control line, install plug in control line
+            •   Install two-way valve in THS
+            •  N/D BOP and remove plug from control line and test it.
+            •  N/U X-Mass tree and test all related lines and valves.
+            •  Remove two-way valve from THS
+            •  R/U Wire line, remove dummy, Check control line and flash same.
+            •  Open SSD, set dummy, test control line, displace annulus with completion fluid (Diesel
+               and Corrosion inhibitor), remove dummy, close SSD, set dummy.
+            •  Pressure test inside tubing w/4500psi and annulus w/2000 psi.
+            •  Remove prong and plug from bottom NO GO, Install 3sv dummy (3.688” No Go profile).
+            •  RIH with Coil Tubing to Bottom.
+            •  Perform acidizing job as per program.
+            •  Flow the well as company instruction
+
+                                              Page 69
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+            1.2 Completion String Sketch (After Workover)
+
+                                              Page 70
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+    F. BOP & Well Head Sketch
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 71
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1  8 ½” Hole Section
+
+                                              Page 72
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       2  6 1/8” Hole Section
+
+                                              Page 73
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+         An annular BOP and three ram type Bops (a double stack on top and a single stack at bottom)
+            represent the BOP configuration in drilling the section. All ram type BOPs shall be fitted with
+          manual locks, to hold the rams closed in the events of hydraulic pressure loss.)
+
+             • 13 5/8”-5000psi annular preventer
+             • 13 5/8”-5000psi single stack ram type BOP (equipped with 7” to 4-1/2” VBR pipe rams)
+             • 13 5/8”-5000psi double stack ram type BOP (equipped Blind or Shear / Blind at top and 5” to
+           2-7/8” VBR pipe ram at Bottom)
+
+          Required ram sizes for 13 5/8”-5000 Ram type BOP
+             • 1 set blind
+             • 2 set 5”
+             • 1 set 3 ½”
+             • 1 set variable (2 7/8”-5”)
+             • 1 set variable (4 1/2”-7”)
+             • 1 set for 7” casings
+
+          4” and 2” nominal bore choke and kill lines shall be provided. Flange type connectors shall be
+             fitted to allow connection of kill and choke lines to the BOP stack.
+
+                                              Page 74
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       3 WELLHEAD & X.MAS TREE SKETCH
+
+                                              Page 75
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                               Project:                                                                                                  Subcontractor:Company:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+      SAA-006 WO1 LEG2
+
+       Oil Field Development Project
+
+             LOC. E014S
+         G. Attachments
+
+                        GPTK Co.
+                                    Drilling Department
+                                Mar, 2020
+
+                                              Page 76
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       1 EACH SECTION REQUIRED MATERIAL & SERVICES
+            1.1 8 1/2” Hole Section
+
+             Item      Item          Supplier                      Description                     Quantity              No.
+                1                  8-1/2” Bit, IADC Code 2-1-4 ,517,5-3-7 PDC                   1No each.
+                2                 Bit Nozzle 16/32”, 18/32", 12-14/32 Nozzle for PDC bit        1 Set/each
+                3                8 1/2" PDC BIT BREAKER ADAPTOR                            1 No.
+                4                8 1/2” Ring gauge                                              1 No.
+                5                    Drift for 7", 29 ppf, L-80, liner                                     1No.
+                6                    7”, 29 ppf, L-80, PJE, Liner                                As Required
+                7                 7” hydraulic Liner Hanger & Acc.                                  1 No
+                                    7”                                                  liner                                             wiper                                                   plug                                                                                          / 5” pipe plug                               1 No.+                                                                                                  1 No.             Tools     8                                    7“ liner                                             Tie                                              back                                                    Acc.                                                                                               1 Set                9
+               10                  Liner Hanger Running / Setting tool                                1 No.
+               11                   7”, 29 ppf, L-80, New Vam, Float Shoe                             1 No.
+               12                   7”, 29 ppf, L-80, New Vam, Float Collar                            1 No.                    Handling
+               13                   7”, 29 ppf, L-80, New Vam, Latch down Collar                       1 No.
+               14                 Tie back Sleeve                                                1 No.        CSG
+   &     15                Cementing Head                                               1 No.
+               16                 Dresser Mill for liner tie back sleeve                               1 No.
+        CSG     17                 7" Spirolizer Centralizers                                        35 No.
+               18                 Stop Collars + Nails + Spiral Nails                           As Required                                        Contractor             Bits,                                       Hydraulic Tong, D/W 7" jaws, torque gauge and hanger spring, jam               19                                                                            2 Unit                                               unit, Power Unit
+               20                 7" Side Door & Spider Elevator                                   1 No.               21   EPD   7" liner Rotary Slips                                            1 No.
+               22                 7" single Joint Elevator                                          1 No.
+               23                 7" liner Safety Clamp                                           1 No.
+               24                Thread Sealing Compound (liner Dope)                             1 Dr.
+               25                Thread Locking Compound (Baker Lock )                           1 Can
+                1             Mud Logging Services                                            1
+                2             Mud Engineering Services                                         1
+                3                Waste Management Services                                       1
+                4                 Casing Running Services                                          1
+                5                Well Head Services                                               1
+                6                Cementing Services (included 2 pump unit & Crew)                     1
+                7                    Electrical Logging Services                                        1              Services                8             H2S Services                                                    1
+                9                Well Test (7” Liner Dry test)                                       1
+               10                  Liner hanger services                                             1
+               11                   Directional Drilling Service                                        1
+
+                                              Page 77
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+            1.2 6 1/8” Hole Section
+
+             Item      Item          Supplier                      Description                     Quantity              No.
+                1                  6-1/8” Bit, IADC Code 2-1-4 ,517, PDC                       1No each.
+                2                   Bit Nozzle 16/32”, 18/32", 12-14/32 Nozzle for PDC bit              1 Set/each
+                3                6 1/8" PDC BIT BREAKER ADAPTOR                            1 No.
+                4                6 1/8” Ring gauge                                              1 No.
+                5                4 1/8” Econo Mill, 4 1/8” Junk Mill                              2 No+2 NO                            Procurement                6                4 1/8” R.Bit, 4 1/8” B.Bit                                 1No each.
+                7                 5” liner 18#, L-80,CSTZ with all Asseccories                     As Req
+                1             Mud Logging Services                                            1                2          Contractor  Mud Engineering Services                                         1
+                3                Waste Management Services                                       1
+                4                 Casing Running Services                                          1
+                5                Well Head Services                                               1            EPD                6                Cementing Services (included 2 pump unit & Crew)                     1
+                7                    Electrical Logging Services                                        1              Services                8             H2S Services                                                    1
+                9                   Directional Drilling Service                                        1
+               10                  Liner hanger services                                             1
+               11                Completion Running Service                                       1
+
+                                              Page 78
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Company:                     Project:                                                                                                  Subcontractor:
+                           SAADAT ABAD OIL FIELD DEVELOPMENT
+
+                   DRILLING PROGRAM – Well-006 WO1 LEG2
+
+    03/09/2020        SA    06    2GP     F     DRG      DR    WO     PLDR     0001    D3                          : ﯾﺦر ﺗﺎ
+
+       2 REQUIRED SERVICES
+
+                Item  Item No.   Supplier                Description
+
+                              1        Service Co.    Slick line truck & Crew for completion running.
+
+                              2        Service Co.   Well head specialist and Services
+
+                              3        Service Co.   Completion running Services
+
+                              4        Service Co.   Casing Running Equipment & crew
+
+                              5        Service Co.   Coil tubing & Nitrogen pump, Acidizing Services
+
+                              6        Service Co.    Drilling fluid Services & Material
+                                        Services       78        ServiceService Co.Co.   LinerWasteHangerManagementServicesServices
+                    Well       9        Service Co.  H2S Services
+
+                              10       Service Co.   Wire Line Logging & Perforation Services
+
+                              11       Service Co.   Well Cementing
+
+                              12       Service Co.   Logging Service
+
+                              13       Service Co.   Dry test Service
+
+                              14       Service Co.  Mud Logging Services
+
+                              15       Service Co.    Directional Drilling Services
+
+                                              Page 79

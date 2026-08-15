@@ -1,0 +1,595 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 12 ]
+────────────────────────────────────────────
+                                                                                 Date
+         JOB PROPOSALFOR WELLAZN-14
+                  CLIENT: POGID                                    2014-05-03
+
+
+
+
+
+        Nitrogen Lifting Program
+
+
+
+
+
+Well No.    :  yaran-003
+
+WELL TYPE: Horizontal Well
+
+Field        : Yaran Oilfield
+
+Formation: Sarvak
+
+Interval    : 3243-4200m
+
+
+
+
+
+     Well Location:
+
+     City             : Ahwaz
+
+     Country        : Iran
+
+
+
+
+OVERSEAS TECHNICAL SERVICE KISH CO.
+
+                     2014-05-03
+
+
+
+
+
+                     Contents
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+1.  GENERAL SITUATION .................................. ERROR! BOOKMARK NOT DEFINED.
+1.1 BASIC INFORMATION OF THE WELL ................................ ERROR! BOOKMARK NOT DEFINED.
+1.2 BASIC DATA OF THE CASING .......................................... ERROR! BOOKMARK NOT DEFINED.
+1.3 BASIC DATA OF THE TUBING .......................................... ERROR! BOOKMARK NOT DEFINED.
+1.4 WELL HISTORY............................................................... ERROR! BOOKMARK NOT DEFINED.
+1.5 TREATMENT OBJECTIVES ....................................................................................................... 3
+2. KEY POINT CALCULATION ........................ ERROR! BOOKMARK NOT DEFINED.
+2.1 ALLOWABLE LIFTING DEPTH CALCULATION .................... ERROR! BOOKMARK NOT DEFINED.
+2.2 NITROGEN VOLUME CALCULATION ......................................................................................... 4
+3.  EQUIPMENT AND MATERIAL REQUIREMENT ..................................................... 4
+4.  OPERATION PROCEDURES .......................................................................................... 5
+4.1 GENERAL REQUIREMENTS ...................................................................................................... 5
+4.2 PREPARATION WORK BEFORE OPERATION ............................................................................... 5
+4.3 CT DISPLACEMENT PROCEDURE .............................................................................................. 6
+5.  REQUIREMENTS OF DATA COLLECTION ............................................................... 7
+6.  JOB RISK ANALYSIS ....................................................................................................... 7
+1.1 HIGH COLD ............................................................................................................................. 7
+1.2 HIGH PRESSURE ...................................................................................................................... 7
+1.3 H2S ........................................................................................................................................ 8
+1.4 HSE ........................................................................................................................................ 8
+7.  ATTACHMENTS ............................................................................................................... 8
+7.1 EQUIPMENTS LAYOUT ............................................................................................................ 9
+7.2 DIAGRAM OF THE STRING FOR ACID STIMULATION TREATMENT .......................................... 10
+7.3 WELL HEAD & CHRISTMAS TREE SCHEMATIC ............... ERROR! BOOKMARK NOT DEFINED.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+1. General Information
+
+The well yaran-3 is a horizontal Evaluation well of Sarvak formation. The well located in the
+
+North part of Yaran accumulation.
+
+1.1   Basic Information of the Well
+
+                             Table 1-1 Basic information for well
+
+Company/State         POGID                    Field              Yaran
+
+                        Latitude：               Rig name/ Type     TDDC/onshore
+Well Location
+                       Longitude：           Spud Date          2013.11.10
+
+
+KB Elevation          14m                   Water Depth       3.5m
+
+                                                       Total Depth
+Total Depth (TVDSS)     2806.74m                               2820.74m
+                                           (TVDRT)
+
+                       Depth       2484m     Azimuth(°)                 /
+Deviation Angle                                              Bottom hole
+                           Angle(°)      11                                                 /
+                                                Displacement
+Target Interval                                    3930-4030m
+
+
+1.2   Basic Data of the Casing and Tubing String
+
+                            Table 1-2  Basic data for casing string
+
+                                                                                depth
+    Size (in)      PPF     Grade           Conn.     MW (pcf)
+                                                                     From        To
+
+   18 5/8       87.5     J-55    BTC or premium      67       Surface     200
+
+               68      J-55    BTC or premium      78       Surface     1000
+    13-3/8
+               72     N-80    BTC or premium      78       1000      1250
+
+                43.5    N-80    BTC or premium      120      Surface     1340
+    9 5/8
+               47     N-80    BTC or premium      120       1340      1550
+
+                              HFJ/N.VAM or
+     7         29     L-80                         80       1450     3243.5
+                                  premium
+
+
+                        Basic data for tubing string refer to appendix-1
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+1.3  Reservoir Properties
+1.3.1  Reservoir Lithology
+Regionally, the late Cretaceous Sarvak Formation mainly with a gross hydrocarbon bearing zone
+consists of shallow-marine massive carbonates. The limestone commonly shows oil traces and staining
+(main reservoir interval).
+
+1.3.2  Reservoir Temperature and Pressure
+
+  ⚫  Reservoir Temperature: 186 °F@2787m
+
+  ⚫ Mud hydrostatic Pressure: 4791psi@2787m
+
+  ⚫ Bubble Point Pressure:
+
+1.4  Operation Objectives
+        Clear the mud in the wellbore and induce natural flow of the well.
+
+2. Nitrogen volume Calculation
+
+   Take pump cooling and nitrogen transfer lost as 3m3,nitrogen consume calculated below. Take
+    nitrogen rate 0.1m3/min，the remain nitrogen keeps flowback time is also listed in the table.
+
+                                         Nitrogen
+                                                            Remain
+                       Lift    Wellbore   Volume for     Cold and
+                                                                          nitrogen
+                Depth   Volume         Initial       Transfer Loss
+                                                                                        last time
+                                     Flowback
+
+            m       m3         m3          m3           hr
+
+                  2800      19.7          6.24           3          1
+
+
+3.  Equipment and Material Requirement
+
+           No.           Equipment               Qty               Note
+
+           1                Coiled Tubing unit            1                Provided by OTS
+
+           2              Liquid nitrogen pump           1                Provided by OTS
+
+             3               Liquid nitrogen                                                  4000 gal          Provided by OTS
+
+             4                          50 Ton Crane                1             Provided by OTS
+
+           5                            Acid Pump                 1             Provided by OTS
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+           6                       Well test choke manifold           1             Provided by OTS
+
+           7                   Burn line from wellhead to b/pit        1             Provided by OTS
+
+           8                           Accessories and tools                            Provided by OTS
+
+           9                          H2S Unit                                  Provided by OTS
+
+           10     Water tank（or as required by site                                                     1             Provided by OTS
+                            engineer）
+           11                        Camp                   2             Provided by OTS
+
+           12                              Fire fighting truck              1            Provided by POGID
+
+           13                               Passenger car                 2
+
+           14      Water（or as required by site                                                 16m3          Provided by POGID
+                            engineer）
+           15           Diesel (for equipments)           30 bbl          Provided by POGID
+
+
+4.  Operation Procedures
+
+4.1    General Requirements
+    (1) Provide a coordinator  to  integrate  all  activities such  as CT  operation,  nitrogen pump and
+
+    engineering.
+
+    (2) The well site access road must be suitable for equipment entry and exit.
+
+    (3) The well site must be level and smooth, can stand with the weight of all equipment.
+
+    (4) Check all equipments on arrival at the wellsite to make sure no damage/missing items. Pay special
+
+    attention to the crossovers to ensure the threads are compatible.
+
+    (5) Pay more attention to and check the ID and crossover of the completion string to make sure that
+
+  CTU RIH and POOH freely and safely, if CT operation is required.
+
+    (6)  All the tubing should be cleaned.
+
+4.2    Preparation work before operation
+    1)  Move all the equipments and accessories to wellsite and set them in place according to attached
+
+   equipments layout.
+
+    2) Hold safety meeting with all personnel involved.
+
+    3) Cordon off all high-pressure area with signal tape and forbid anyone but operators in high-pressure
+
+    area.
+
+    4) Check that all wellhead valves are closed.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+    5)  Rig up all equipments with accessories to X-mas tree according to attached equipments layout. All
+
+    the high pressure equipments should connected isolation valve.
+
+    6)  Pressure test injection line up to 4500psi for 10 minutes.
+
+4.3   CT displacement procedure
+
+      1) Check wellhead and annulus pressure.
+
+      2) Close top master valve, wing valve, choke, swabbing valve and kill valve of X-mass tree.
+       Remove kill valve flange; Line up flare lines, choke manifold to X-mass tree. Bleed off the X-
+        mass tree pressure. Remove X-mass tree cap and flange.
+
+      3) Perform BOP function test and install adapter flange and BOP on X-mass tree.
+
+      4) Line up choke manifold and connect to well head and burn line.
+
+      5) Line up the pump unit treatment lines and equipment.
+
+      6) Rig up coiled tubing unit; make up BHA and flush the surface line.
+
+      7) Connect Injection head to BOP.
+
+      8) Measure back from swab valve to bottom of BHA and set depth counters as per schematic
+         depth reference.
+
+      9) Open the swabbing valve, install SSV cap to keep SSV open.
+
+      10) Depressurized WHCP hydraulic pressure, Keep TR-SCSSSV pressure above   psi by manual
+        pump.
+
+      11) Open kill valve, flush flare line.
+
+      12) Hold safety meeting and ensure that all personnel on site are aware when pressure test starts.
+          Pressure test lines from downstream to upstream. Pressurize downstream line at 1500psi for
+        15min and check for any leakage for 15min. Pressurize CTU unit (including BOP rams) and
+         upstream line at 4500 psi, Stop pumping.
+
+       All pressure tests have to be held for 15 min and charted. Use water.
+      Never exceed X-mass Tree MWP= 5kpsi.
+      13) Flush all the water in the coil tubing with N2 out of the BHA tool prior to RIH.
+
+      14) Install H2S detector sensors.
+
+      15) RIH. At about 40 to 60 fpm. Low N2 circulation rate, generally from 200 scfpm and open the
+          well to B/pit thru. Adjustable choke. Keep flowing w/h pressure.at 50-100 psi.
+
+          Slow down the RIH &POOH speed at ID changing point.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+      16) RIH CT to 2000m and.pump N2. Observe return fluid and pressure.
+
+      17) If return changed to pure N2, then RIH to 3243 m and cont. pump N2.
+
+      18) If well start to flowing stop pump N2 and observe flowing pressure. At suitable choke.
+
+      19) After well head pressure stable , POOH.
+
+      20) If well not flow, POOH to surface, waiting for next operation.
+
+      21) POOH to surface, close swab valve, bleed off pressure and rig down CT equipments.
+
+
+    Note: If the abnormal conditions happen during the whole course of operation, only the
+company representative onsite can decide the next procedure.
+
+5. Requirements of data collection
+
+   During operation need to record parameters as follows:
+
+  ➢ Pumping rate
+
+  ➢ Pump pressure
+
+  ➢  types and volume of pumped liquid
+
+ Contractors should submit daily report every day morning and close out reports within 7 days after all
+ the work is finished onsite.
+
+
+6. Job Risk Analysis
+
+    6.1 High cold
+
+     1) Cryogenic liquid may cause fatal or severe injury, explosion, or suffering for failing to observe
+         safety precautions. Operator must wear PPE before operating: helmet, overalls, goggles, loose
+        gloves, toe-guard shoes.
+
+     2) Operator must obey operation procedure and be familiar with all the process and potential
+        abnormalities during the operation, and operate strictly according to the procedure. All the
+        tanks and pipes should cool down step by step.
+
+    6.2 High Pressure
+
+     3) Enclose the high pressure area with warning line.
+
+     4) Plot the dangerous area with warning plate.
+
+     5) Keep all personnel far away from high pressure area while operation.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+     6) Use safety rope between the pipe line connections in case of disconnection, all the lines and
+        connections (exposed to high pressure) shall be secured and supported by chains.
+
+     7) The pump should be shut down immediately once the pipe line bursts.
+
+
+
+    6.3 H2S
+
+     1) Portable H2S detector must be inspected.
+
+     2) All air respirators must be inspected.
+
+     3) Everyone on location should use H2S detector.
+
+     4) Windsock must be obvious and showed to all personnel before entering well site.
+
+     5) All personnel must be trained of H2S contingency plan and the use of all related equipments.
+
+    6.4 HSE
+
+     1) Make sure the emergence communication is available.
+
+     2) All personnel should be equipped with full PPE, including safety boots, helmet, goggle, gloves
+          etc.
+
+     3) Isolate the working area with warning line.
+
+     4) Pre-job safety meeting must be held and recorded, which should contain operation objective,
+        operation procedures, potential risk analysis, job assignment, emergency program etc.
+
+     5) All the lines and connections exposed to high pressure should be connected and chained with
+         safety rope reliably.
+
+     6) Adequate fire-fighting equipment should be prepared and located in specified place.
+
+     7) No smoking and calling on working area.
+
+     8) All jobs should be full time supervised by OTS Supervisor onsite.
+
+7. Attachments
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+7.1   Equipments Layout
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date            YARAN-3 DST-1 APR Testing String
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+7.2   Diagram of the String and Casing
+
+
+
+
+
+ 3.54
+ m3
+
+
+
+
+
+  19.3* (3.243-
+  2.407)=16.14m                                         19.2* (4.2-
+                                        3.243)=18.37m3
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+
+
+            CUSTOMER: POGIDC                         DATE: 2014-05-01
+
+           WELL NAME: YARAN-3 DST-1
+                                                ZONE INTERVAL: 3243.5m-4199m
+           MUD WEIGHT/TYPE: 77pcf
+FINAL    CUSHION WEIGHT/TYPE: 52pcf/Diesel           FORMATION: SARVAK
+            POGIDC REPRESENTATIVE: Mr.Ramin Shilandari   TEMPERATURE: 195 F°@ 2376.34 m&90F°@Surface
+
+            OTS ENGINEER: Zhang Pengxiang                  7"Liner Lap : 1517.64m
+
+                          OD     ID    Length     Top       Bottom      Depth     Supplied
+              DESCRIPTION
+                                                     (in)      (in)     (m)    Connection  Connection  Bottom(m)     by
+
+
+             SURFACE TEST TREE                  3-1/16"     4.04     5 3/8" ACME    5 3/8" ACME        -0.10       OTS
+
+             CROSSOVER                 8.00     3.00      0.55     5 3/8" ACME    5 3/4" ACME        0.45       OTS
+             CROSSOVER                 8.00     3.00      0.50     5 3/4" ACME     3-1/2" PH-6        0.95       OTS
+
+                    3-1/2" PH-6 TUBING
+                                                 3.50     2.75    2015.07     3-1/2" PH-6      3-1/2" PH-6      2016.02      OTS
+                  (213 Joints)
+
+             CROSSOVER                 5.00     2.25      0.50       3-1/2" PH-6      3-7/8" CAS      2016.52      OTS
+                SLIP JOINT
+                  (one is open,another one is     5.00     2.25     10.64      3-7/8" CAS       3-7/8" CAS      2027.16      OTS
+                    close)
+             CROSSOVER                 5.00     2.25      0.19       3-7/8" CAS        3-1/2" IF        2027.35      OTS
+
+                    3-2/1" HWDP
+                                                 3.50     2.25     305.34       3-1/2" IF         3-1/2" IF        2332.69    TDDC-302
+                   (11 Stands)
+
+
+             CROSSOVER                 5.00     2.25      0.20        3-1/2" IF        3-7/8" CAS      2332.89      OTS
+
+            RD CIRCULATING VALVE
+                  Operating Pressure:            5.00     2.28      1.09       3-7/8" CAS       3-7/8" CAS      2333.98      OTS
+                  2413.98psi  (6.5K)
+
+             CROSSOVER                 5.00     2.25      0.22       3-7/8" CAS        3-1/2"IF        2334.20      OTS
+
+                    3-1/2" HWDP
+                                                 3.50     2.25     27.68        3-1/2"IF          3-1/2"IF        2361.88    TDDC-302
+                    (1 Stand)
+
+             CROSSOVER                 5.00     2.25      0.20         3-1/2"IF        3-7/8" CAS      2362.08      OTS
+
+            RD SAFETY CIR. VALVE
+                  Operating Pressure:            5.00     2.28      1.73       3-7/8" CAS       3-7/8" CAS      2363.81      OTS
+                  2361.75psi  (6.5K)
+
+              DRAIN VALVE                 5.00     2.28      1.05       3-7/8" CAS       3-7/8" CAS      2364.86      OTS
+
+              CARRIER (2 Electronic)         5.00     2.25      0.92       3-7/8" CAS       3-7/8" CAS      2365.78      OTS
+
+               LPR-N TESTER VALVE
+                  Operating Pressure:            5.00     2.28      4.83       3-7/8" CAS       3-7/8" CAS      2370.61      OTS
+                  1120.07psi
+
+              CARRIER (2 Electronic)         5.00     2.28      0.87       3-7/8" CAS       3-7/8" CAS      2371.48      OTS
+              HYDRAULIC BYPASS
+                                                 5.00     2.28      2.11       3-7/8" CAS       3-7/8" CAS      2373.59      OTS
+                   (Closed)
+                BIG JOHN JAR (Closed)        5.00     2.28      1.60       3-7/8" CAS       3-7/8" CAS      2375.19      OTS
+
+              SAFETY JOINT                5.00     2.44      0.91       3-7/8" CAS     4-5/32" 8N-M     2376.10      OTS
+
+                    7" RTTS PACKER
+                                                 5.77     2.44      1.60      4-5/32" 8N-M       3-1/2" IF        2377.70      OTS
+                 Element Mid: 2376.64m
+
+             CROSSOVER                 5.00     2.28      0.43         3-1/2"IF        2-7/8" EUE      2378.13      OTS
+
+             MULE SHOE                  2.87     2.25      2.09       2-7/8" EUE                      2380.22      OTS
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 12 ]
+────────────────────────────────────────────
+                                                                                                        Date
+                        JOB PROPOSALFOR WELLAZN-14
+                                  CLIENT: POGID                                    2014-05-03
+
+
+
+
+
+THE NITROGEN CHARGE PRESSURE OF TESTER VALVE IS 3000PSI.
+
+THE OPERATING PRESSURE RANGE OF TESTER VALVE IS BETWEEN 1100 TO 1300 PSI.
+
+THE OPERATING PRESSURE RANGE OF RD SAFETY CIR VALVE IS BETWEEN 2300 TO 2500 PSI.
+
+THE OPERATING PRESSURE RANGE OF RD CIR VALVE IS BETWEEN 2400 TO 2600 PSI.
+
+

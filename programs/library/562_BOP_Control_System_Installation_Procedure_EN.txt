@@ -1,0 +1,76 @@
+# ============================================================================
+# BOP CONTROL SYSTEM — STEP-BY-STEP INSTALLATION & COMMISSIONING
+# Translated from Persian: "دستورالعمل نصب و راه اندازی سیستم کنترل B.O.P"
+# English translation — generalized (no company names).
+# ============================================================================
+
+## SUBJECT
+
+Step-by-step practical procedure for installing and putting into service
+the B.O.P control system (accumulator unit, pumps and manifold) for use on
+the rig.
+
+## INSTALLATION STEPS
+
+### 1. Positioning the Accumulator & Pump Unit
+
+- Place the accumulator and pump unit at a safe distance from the well
+  (100–150 ft from the rig in a safe area), so that personnel can operate
+  the control valves in case of fire or a well kick.
+
+### 2. Pipe Work (Rig-up of Connections)
+
+- The pipes should preferably be run in a rack (like tubing), with proper
+  size and wall thickness for the control-unit connections.
+- Connections must extend from the unit to the BOP stack using strong
+  1-inch (heavy) pipes.
+- Use swivel joints where flexibility of the lines is required.
+- All lines must be flushed (cleaned with water/air pressure) before use.
+
+### 3. Open the Unit Valves
+
+- Fully open the drain valve of the accumulator and pump unit.
+- Fully open the flow isolation valves of the accumulator bottles.
+
+### 4. Nitrogen Pre-charge of Accumulator Bottles
+
+- Open the guards on the pre-charge (nitrogen) valves of the bottles.
+- Install the charging assembly and nitrogen pressure gauge on the
+  bottles, as per the figures.
+- Screw the gauge assembly onto the bottles and tighten the lock nut on
+  the bottle valve; loosen two to three turns so the gauge shows the
+  pressure.
+- The indicated pressure should be within 10% of 1000 psi (1000 psi ±
+  10%). If the pre-charge pressure shown has changed due to ambient
+  temperature variations, it is acceptable.
+- Connect the pre-charge gauge assembly to the accumulator nitrogen
+  bottles; open the bottle valve slowly (to avoid damaging the valve
+  core) until the gauge reads 1000 psi, then close the nitrogen bottle
+  valve.
+- If the accumulator pressure is more than 1000 psi, relieve the excess
+  pressure through the drain valve until the accumulator pressure
+  decreases to 1000 psi; then close the bottle valve and tighten the
+  lock nut on the accumulator models E, G and T; open the charging
+  assembly handle upward.
+
+**Note: Always use nitrogen gas for the pre-charge — never oxygen.**
+
+### 5. Filling the Hydraulic Oil Reservoir
+
+- Fill the oil reservoir tank through the 4-inch fill opening on the
+  hydraulic control-fluid tank until the fluid level is 10 inches above
+  the tank bottom (K-50 or K-90 as applicable).
+- Do not use fuel oils in place of hydraulic oil.
+- Close all air valves to the air pumps and the air bypass line; also
+  close the electric pump motor starter.
+
+### 6. Commissioning & Pressure Test
+
+- Start the unit, verify pump operation (air and electric), check for
+  leaks at all connections.
+- Charge the system to the required operating pressure; verify
+  accumulator bottle pressures are as per specification.
+- Operate each BOP function (open/close) from the control panel and
+  confirm correct response.
+- Record all pressures and settings in the unit log before the BOP stack
+  is pressure-tested.

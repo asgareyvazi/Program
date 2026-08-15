@@ -1,0 +1,331 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 12 ]
+────────────────────────────────────────────
+ 24” Hole Section
+
+Recommendations
+
+      Rev6
+
+     28.05.05.
+
+
+   Phase 6 - South Pars
+
+
+        Sagadril-2
+
+
+Attachment to “SP-WELLS-2004-009”
+
+
+
+
+
+                                                  Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 12 ]
+────────────────────────────────────────────
+[صفحه 2: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 12 ]
+────────────────────────────────────────────
+       The 24” Section’s Pitfalls
+
+
+
+
+
+                             1st BHA
+         Use reduced flow during kick off to avoid washouts
+
+                Hole cleaning ,Sweeps and Spotting
+
+                       2nd BHA
+        Avoid accidental sidetrack; Wash/RIH with min 300m/hr
+
+If high torque observed, continue to sweep pills and circ. until torque drops
+
+      Following pill program while drilling, tripping and reaming
+
+
+
+
+
+                                                                          Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 12 ]
+────────────────────────────────────────────
+General Well Data
+
+
+1             Dispensations
+
+      Dispensation        Main Drilling Program                     Dispensation
+           1        No MWD through Jahrum fm.    MWD will be used in the Rotary
+                                            BHA#2 through Jahrum fm.
+           2         Pressure test 18 5/8“ csg to 140bar    18 5/8” csg will be tested to 113bar
+           3        18 5/8“ setting depth in Laffan fm.       18 5/8” will be set in Ilam fm.
+           4      Ch 3,2,1 the hole will be displaced to        Spot Hi-Vis mud to top of
+                     weighted mud prior to CSG running             Jahrum Fm.
+           5          cemented back to the sea floor          Cement 30 m3 in annulus
+           6               DIR-GR-VSS                    DIR Only
+
+
+2     Geology
+
+        2.1   TD / Casing points
+           The 24” hole will be drilled 20-30 m MD into Ilam formation.
+
+        2.2     Cuttings sampling
+          No cutting sampling will be required in the 24” section.
+
+        2.3   LWD / MWD
+       MWD directional will be used drilling the 24” section including the Jahrum formation.
+
+        2.4    DRILLING SEQUENCE for the 24” sections
+            Sequence to be decided by the rig
+
+
+3     Operational Sequence
+
+             1. MU 24” motor/ MWD BHA on 5 1/2” DP and RIH
+             2.  Perform H2S drill. Test fill-up device, camera and H2S sensor on TDAD.
+             3. RIH with 1st BHA w/1.5 deg AKO motor and drill to top Jahrum (do not drill into Jah-
+              rum)
+             4.  Circulate and POOH
+             5. RIH with 2nd BHA, a rotary hold/build BHA with MWD tool
+             6.  Perform H2S meeting before drilling into Jahrum Fm.
+             7.  Drill 24” hole to TD
+             8.  Perform wiper trip one single into Asmari and back to TD
+             9.  Circulate and displace to un-weighted hi-vis mud to top of Jahrum Fm
+            10. POOH
+            11. Run and cement 18 5/8” casing. Fill every joint with SW to avoid collapse of casing
+            12. Test casing to 113 bar when bumping plug with sea water
+            13. Perform a top up cement job in annulus as soon as possible
+
+
+
+                                                                           Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 12 ]
+────────────────────────────────────────────
+4      Directional Drilling
+
+        4.1     Potential Well Interference
+               • BHI will provide travelling cylinder plots.
+
+        4.2   BHA
+               • The plan is to drill the section with 2 BHA runs
+               • The first BHA will be an 11 ¼” AKO motor assembly with a 1.5 deg bend.
+               • No accelerator in 1st BHA
+               • The plan is to build up to an inclination of +/-18 deg. On top of jahrum formation
+                 Lead angle for right hand walk will be 25 deg.
+               • The second BHA will be a rotary BHA:
+                  23” string stabilizer, shock sub, 16” Roller Reamer and MWD-DIR.
+               •  All BHA components and DP to be drifted to 2 5/8”
+               • Never run Jar/Accelerator in neutral point.
+
+        4.3     Survey
+               • A BHI Sigma kick off gyro will be used together with an UBHO in the first BHA
+               • Take gyro survey each stand drilled during kick off
+               • When drilling close to live wells, the survey interval should be (according to
+                WR0529):
+                                  ·    10 m, when Edge Distance is less than 3 m
+                                  ·    30 m, when Edge Distance is between 3 m and 15 m
+                 The Edge Distance is the difference between the actual well separation and
+                     the minimum allowed distance.
+               • The gyro will be changed after 3 shots or max 60m to check gyro for errors
+               • 1 gyro stations will be taken inside the 26” Conductor.
+               • Run gyro until the well is reaching approximately 5deg or no magnetic interference.
+               • MWD survey every 30m and min every 100m.
+               •  Focus on minimize the survey time to avoid getting stuck. Skip survey if necessary.
+
+        4.4    Max hours on rotation BHA string components
+               •  Jar:                200 rotation hrs or 2 wells, whichever comes first.
+               •  Accelerator:        One Jahrum section.
+               • X/O-DC:           250 rotation hrs.
+               • DP-HWDP:         3 wells .
+               • MWD:             150 rotation hrs or 2 wells, whichever comes first.
+               •  16” RR:          Two wells
+
+        4.5     Bit and Hydraulics
+
+          Priority    Size Com    Type   NOZZLES TFA  Expected IADC Comments
+                      pany                            Flow Rate
+         Kick-off    24”  Smith  MGS04PC    4 X 24    1.76    4500    415      Insert
+       Rotary BHA  24”  Smith  MGS04PC    4 X 24    1.76    4500    415      Insert
+          Junk     24”  Smith  MSDGHC    4 X 24    1.76            135   Mill tooth
+         Side track
+
+                                                                           Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 12 ]
+────────────────────────────────────────────
+5     Casing and Cementing
+
+        5.1     Casing
+
+        •  18 5/8”: 99 ppf / X-56 / Antares ER/ Casing shoe with eccentric guide nose
+        •   Fill casing while running
+        •  Be aware of possible collapse during csg running and cementing due to low safety factor.
+        •   If working casing down, never rotate the casing with weight on shoe. Work the casing
+          up/down with the TDS unlocked. The shoe was twisted off in SPD9-13.
+        •  Pressure test csg in steps:
+           o  (40-80-113 bar) when bumping plug.
+           o  Bleed off immediately if leakage.
+           o  Bleed fast down to test float
+        •   If plugging during casing cementing, do not exceed 140 bar displacement pressure
+        •  Use RMS and Spider elevator. Oil and greases regularly to avoid jamming
+        •  Evaluate use of La-Fleur circulation packer
+        •   Install one cement basket with one rigid centralizer below, 10m below sea bed
+        •  Max casing running speed: Unlimited
+
+        5.2     Centralizers
+      There will be no centralizers on the 18 5/8” casing string in open hole
+
+        5.3    Cementing
+
+         •   Circulation rate before cement job: Max 3000 LPM to avoid washing out float equeipment.
+        •  Pump 30 m3 treated SW-5 m3 GG-5 m3 PHG-20 m3 treated SW -5 m3 GG -10 m3 PHG-80
+        m3 treated SW
+        •  Cementing, pump following:
+           o  Lead: 15 m3 1.50 sg (Econolite/SW slurry)
+           o  Tail: 15 m3 1.87 sg
+         •  Displacement rate: 3000 LPM
+         •   Displace cement with corrosion inhibited SW.
+
+        5.4    Top-up job (To be performed off rigtime)
+        •  Perform the job as soon as possible
+        •  Run the spaghetti pipe to cement basket
+        •   First job ,Pump 2 m3 neat 1.50 sg 2% CaCl2 cement slurry
+        •  POOH and WOC for 12 hrs
+        •  Second job ,Pump 3 m3 1,50 sg slurry 2% CaCl2
+        •  POOH and WOC for 12 hrs
+        •  Top up annulus with water to be able to monitor returns on next job
+        •  Attempt to Top up with neat 1,9 sg slurry w /1% CaCl2 until cement returns to surface.
+        •   If window in 26” CP is cut, close weld ASAP to avoid cross flow from neighbouring wells
+
+
+
+
+
+                                                                           Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 12 ]
+────────────────────────────────────────────
+6    Mud
+
+        6.1    Sweeps
+        •  See attached drawing
+        •   Viscocity:
+             GG 60 seconds
+                 PHG100-120 seconds
+
+        6.2    H2S
+        •  Spray Conqor 202B coating on DP when POOH
+
+        6.3   LCM
+        •  No LCM will be used in this section
+
+
+7     Flow rate and Hydraulics
+
+       Flow                ECD                Comments
+      Max rate (4500-4800 lpm)      1.03              ECD is no concern in this section
+
+      Pump rate for MWD:                        3200 - 5000 lpm
+      Pump rate for motor:                        3000 – 4800 lpm
+
+
+8     Attachments
+
+        1.   Sweeps
+        2.   Kick-off and Rotary BHA
+        3.   Bit specifications
+
+
+
+
+
+                                                                           Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 12 ]
+────────────────────────────────────────────
+             Sweep program
+
+
+      Spotted: 10 m3 GG + 10 m3 PHG
+TDS  Circulate more if high torque.
+
+     10m3 GG + 20m3 SW + 10m3 PHG + 50m3 SW + 10m3 GG + 120 m3 SW
+
+
+
+       10 m3 GG
+
+
+
+ TJ    10 m3 GG + 10 m3 PHG
+
+
+       10 m3 GG
+
+
+
+ TJ    10 m3 GG + 10 m3 PHG
+
+
+
+       10 m3 GG
+
+      FV: GG=60sec PHG=100-120sec
+     Reduce pump-rate to 3000 lpm when pills enter bit
+
+
+
+
+
+                                                                  Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 12 ]
+────────────────────────────────────────────
+Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 12 ]
+────────────────────────────────────────────
+Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 12 ]
+────────────────────────────────────────────
+Rev6. 28.05.2005
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 12 ]
+────────────────────────────────────────────
+Rev6. 28.05.2005
+
+

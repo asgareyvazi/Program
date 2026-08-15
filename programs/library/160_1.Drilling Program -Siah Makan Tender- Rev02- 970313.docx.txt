@@ -1,0 +1,1775 @@
+# SOURCE: 1.Drilling Program -Siah Makan Tender- Rev02- 970313.docx
+
+📄 فایل 160 از 214  |  1.Drilling Program -Siah Makan Tender- Rev02- 970313.docx
+Siah Makan
+Typical Drilling Program
+Contents
+1. General Information	5
+1.1. Types of well in Siah Makan Oilfield	6
+1.2. Introduction	9
+1.3. Well Information	10
+1.4. Well Objectives	14
+1.5. Reservoir Data	15
+2. Geological forecast	16
+2.1. Formation Description	16
+2.2. Group Information Summary	16
+2.3. Contour map and Location Layout	18
+3. Program Outline	20
+3.1. Drilling Summary	20
+3.2. Time Breakdown	22
+4. Sequence of Operation	57
+4.1. 26" Hole Section	57
+4.1.1. General	57
+4.1.2. Sequence of Operation	57
+4.1.3. Logging Program	59
+4.1.4. Hole Deviation	59
+4.2. 17 1/2" Hole Section	60
+4.2.1. General	60
+4.2.2. Sequence of Operation	60
+4.2.3. Logging Program	62
+4.2.4. Hole Deviation	62
+4.3. 12 1/4" Hole Section	63
+4.3.1. General	63
+4.3.2. Sequence of Operation	63
+4.3.3. Logging Program	65
+4.4. 8 3/8" Hole Section	66
+4.4.1. General	66
+4.4.2. Sequence of Operation	66
+4.4.3. Logging Program	68
+4.5. 6" Hole Section	69
+4.5.1. General	69
+4.5.2. Sequence of Operation	69
+4.5.3. Logging Program	72
+5. Well Montage	73
+6. Bit and BHA Design	77
+6.1 26” Hole Section BHA	78
+6.2 17 ½” Hole Section BHA (Pack Hole)	79
+6.3 17 ½” Hole Section BHA	80
+6.4 12 1/4” Hole Section BHA	81
+6.5 8 3/8” Hole Section BHA	82
+6.6 6” Hole Section BHA	83
+7. Logging Program	84
+8. Casing Design	85
+8.1 PRODUCTION LINER LOAD CASES (min. drift dia. = 4.151”)	94
+8.2 7” PRODUCTION LINER LOAD CASES (min. drift dia. = 6”)	96
+8.3 9 5/8” PRODUCTION CASING LOAD CASES (min. drift dia. = 8 3/8”)	98
+8.4 13 3/8” INTERMEDIATE CASING LOAD CASES (min. drift dia. = 12 1/4”)	101
+8.5 18-5/8” SURFACE CASING LOAD CASES (min. drift dia. = 17”)	103
+8.6 SUMMARY	106
+8.7 GROUP 1 CASING SPEC. (W014N, W036N)	108
+8.8 GROUP 2 CASING SPEC. (E012)	109
+8.9 Group 3 CASING SPEC. (W065)	111
+8.1. Preparation	112
+9. Cement Program	113
+9.1. (W014N, W036N) Wells	113
+9.2. (E012) Well	114
+9.3. (W065) Well	115
+10. Health, Safety, Environment and Quality (HSE & Q)	116
+10.1. Quality and Risk Assessment	116
+10.2. Drills	116
+11. Requirements	117
+11.1. Requirement for each Hole Section	117
+11.2. BOP and Wellhead Schematic	120
+11.2.1. 26” Hole Section	120
+11.2.2. 17 ½” Hole Section	120
+11.2.3. 12 1/4” Hole Section	121
+11.2.4. 8 3/8” Hole Section	122
+11.2.5. 6” Hole Section	123
+11.3. Completion Sketch	124
+11.3.1. Group1 completion sketch (W014, W036 Wells)	124
+11.3.2. Group2 completion sketch (E02 well)	125
+11.3.3. Group 3 completion sketch (W065 well)	126
+1.1. Well head and X-Mass tree	127
+Attachment:
+Casing Design
+Drilling Fluid Program
+Cementing Program
+Completion Program
+Rigless Operation Program
+Waste Management Program
+
+# General Information
+This Document Covers the Drilling of four wells in Siah Makan oilfield intend to Bangestan Producer and Delineation goals.
+Note: The program explains the group 1 wells completely and due to vertical wells of group 2 and group 3 just cementing volumes, casing design, well montage and required information is reported with details.
+According to delineation targets of these wells, it is planned to do F.B.DST at first 50m of Asmari in location E012 and W065 and also first 80m of Bangestan in location W065. Also in W014N location coring will be done in Sarvak zones 8,9,10 and 11, approximately 272m.
+- Locations W014N (B) and W036N (B) Shall Be considered to produce from the Bangestan reservoirs. Therefore, to accomplish this goal 18 5/8" surface casing will be set at 150m. The 13 3/8" intermediate casing will be run to 2677m into Gachsaran formation. The 9 5/8" production casing should be run in Cap Rock at 3313m. The 7" liner will be run in Ilam Fm. at 4314m and 5" liner will be run in Kazhdumi formation at any depth that will be notified base on log evaluation results. The total depth of these wells will be approximately 5057m.
+- Location E012 as delineation / producer well from Pabdeh Formation by a vertical well. If the Pabdeh formation is not suitable for economic oil production, drilling will be continued and the well will be completed as Bangestan well.
+Drill the well vertically down to total depth of 4424m (-4242m). 18 5/8" surface casing will be set at 150m. The 13 3/8" intermediate casing will be run to 2380m into Gachsaran formation. The 9 5/8" production casing should be run in Cap Rock at 3076m. The 7" liner will be run in Pabdeh Fm. at 3555m and 5" liner will be run in Sarvak Fm. Zone”7” Base on log results.
+- Location W065 (B) as delineation / producer well from Bangestan Formation by a vertical well.
+Drill the well vertically down to total depth of 5132m (-4928m). 18 5/8" surface casing will be set at 150m. The 13 3/8" intermediate casing will be run to 2955m into Gachsaran formation. The 9 5/8" production casing should be run in Cap Rock at 3183m. The 7" liner will be run in Ilam Fm. at 4364m and 5" liner will be run in Kazhdumi Fm. at any depth that will be notified base on log evaluation results.
+
+# Types of well in Siah Makan Oilfield
+Group 1 (W014N (B), W036N (B))
+Group 2 (E012)
+Group 3 (W065 (B))
+
+# Introduction
+Siah makan oilfield is located 10Km. south of the Bibi Hakimeh and West of the Kilur karim Field. SI-1 is about 230 Km. southeast of Ahwaz and 125 Km North of the coastal city of Bushehr. This field structure is mapped geophysical anticline about 16 km. long and 10km. wide.
+Siah Makan Oilfield Location map
+
+# Well Information
+
+# Well Objectives
+The primary objectives of drilling the four wells in Siah Makan oilfield are:
+To produce oil from Bangestan (W014N, W036N, E012 (second scenario), W065) and Pabdeh (E012 first scenario) reservoirs.
+To develop the more information in Asmari and Bangestan reservoirs Including two F.B.DST in first 50m of Asmari reservoir (E012, W065) and one F.B.DST in first 80m of Bangestan reservoir (W065).
+To evaluate the Sarvak formation. (272m coring in Sarvak formation in well W014N).
+To evaluate production capability of Pabdeh formation by acidizing and flowing the well (E012).
+To evaluate the Bangestan group reservoir by open hole logging included full suite log, CDR/GR and image log in all wells and RFT in three wells (W036N, E012, W065).
+
+# Reservoir Data
+The Asmari and Bangestan formations are the main reservoirs.
+
+# Geological forecast
+
+# Formation Description
+A brief description of the expected stratigraphic units to be drilled in Siah Makan typical vertical well has been presented in the following breakdown.
+Aghajari Formation
+The Aghajari Formation consists of red and grey silty marls that interbedded with sandstone.
+Mishan Formation
+The Mishan Formation is mainly consistent of grey Marl and limestone. Which are grey, tan and white, argillaceous to silty and crystalline.
+Gachsaran Formation
+Deposition of the Gachsaran Formation is cyclic. This formation totally consists of a repetition of Anhydrite, grey and red marl as well as salt and some limestone beds.
+Asmari Formation
+The top of the Asmari formation is marked by limestone Anhydritic and oil stained. At the top of the middle Asmari Formation is a sandstone which is medium-coarse grained sucrosic, dolomitic and oil stained. Anhydrite and Anhydritic limestone is also present and below, dolomite and dolomitic limestone are present and interbedded with grey to red-brown shale.
+Pabdeh Formation
+The Pabdeh Formation is mainly consistent of marly limestone. The top of the Gurpi Formation is gradational from argillaceous limestone to calcareous shale.
+Ilam Formation
+The lithology of the Ilam Formation is consists of Archie type I and I/III limestone.
+Surgah Formation
+The lithology of the Surgah Formation is consists of limestone.
+Sarvak Formation
+The lithology of the Sarvak Formation is consists of limestones, locally dolomitic and interbedded with marly limestone and bituminous shale.
+
+# Group Information Summary
+The following tables present the general information about three groups:
+General Data of Group 1 in Siah Makan Oilfield
+General Data of Group 2 in Siah Makan Oilfield
+General Data of Group 3 in Siah Makan Oilfield
+
+# Contour map and Location Layout
+Group 1 location in Siah Makan oil Field
+Group 2 location in Siah Makan oil Field
+Group 3 location in Siah Makan oil Field
+
+# Program Outline
+
+# Drilling Summary
+It is planned to drill and complete vertical well to delineate and apprise the Pabdeh formation and Bangestan group reservoir. Also producing from these reservoirs is other main objective of this plan.
+26" Hole section:
+The 26" hole section will be drilled from surface to ±150m as top hole. For drilling the hole, it will be used 26" bit with 63-76 pcf Pre-Hydrated Bentonite mud for hole cleaning. Also PHB pill will be used to clean the hole and since Bentonite has the best cake around the well bore, it will make a good cake for hole stability. According to previous wells in this field, complete loss is possible in this section. The 18 5/8" casing will be set at ±150m and it will be cemented. It is very important to harness of pipe for prevention of movement upward. N/U 20-3/4" 3k C.H.H and 20-3/4" 3K Annular BOP and Single Rams.
+17 1/2" Hole section:
+The 17 1/2" hole section will be drilled from ±150m to ±2677m in Gachsaran formation before entering to high pressure zone. In this section will be used 64-96 pcf Bentonite mud /salt water/ Inhibited salt water / Inhibited polymer mud for hole cleaning. The 13 3/8" casing will be set at ±2677m and it will be cemented in one stage. According to previous wells in this field, loss, flow, tight hole and stuck are possible in this section.
+N/Up D.S.A pack off 20-3/4” 3K x 16-3/4” 5K and then C.H.S 16-3/4” 5K x 13-5/8” 5K. N/U 13 5/8" 5K BOP’s Stack (13 5/8" 5K Annular Preventer + 13 5/8" 5K Double Rams + 13 5/8" 5K Single).
+12 1/4" Hole Section:
+This section will be drilled from ±2677m to ±3313m through Gasharan formation to top of Asmari in Cap Rock. For drilling this section will be used 130-137 Pcf salt saturated polymer mud. Then 9 5/8" production casing will be run ±3313m and cemented to surface. According to previous wells in this field, flow and tight hole are possible in this section.
+N/U D.S.A pack off 13-5/8” 5K x 11” 10K and then T.H.S 11” x 11” 10K. N/U 11” 10K x 13-5/8” 10K DSA and 13-5/8" 10K BOP’s Stack (13 5/8" 5K Annular Preventer + 13 5/8" 10K Double Rams + 13 5/8" 10K Single).
+Radial Cement Bond log will be run to evaluate the quality and bonding condition of cement behind 9-5/8” production casing.
+8 3/8" Hole Section:
+This section will be drilled from ±3313m to ±4314m through Ilam formation. For drilling this section, Oil base mud / Inhibited salt water / Inhibited CaCO3 polymer mud with 70-90 pcf MW will be used. After drilling to liner point, 7" liner will be run and cemented in two stage due to using Silica flour in tail cement. According to previous wells in this field, flow and tight hole are possible in this section.
+Liner lap will be test as positive test with applying 2000 psi over pressure on mud column hydrostatic and negative test with dry test tools as 2000 psi differential pressure against formation pressure below liner lap.
+- According to delineation targets of these wells, the F.B.DST from first 50m of Asmari Fm. will be done in E012 and W065 wells.
+6 " Hole Section:
+This section will be drilled from ±4314m to ±5057m. This interval is included Bangestan group and Kazhdumi formation. Therefore, the main problem in this interval can be predicted as fluid loss, tight hole and stuck pipe due to sensitive and instable shale. For drilling of this section, Oil base mud / Inhibited salt water / Inhibited CaCO3 polymer mud with 79-90 pcf MW will be used. After drilling to Liner point, 5" Liner will be run and cemented.
+Liner lap will be test as positive test w/ applying 2000 psi over pressure on mud column hydrostatic and negative test with dry test tools as 2000 psi differential pressure against formation pressure below liner lap.
+- At well W014N, coring will be done from zones 8,9,10 and 11 of Sarvak Fm. (272m)
+- Also in W065 location, F.B.DST from first 80m of Bangestan group Fm. will be done.
+
+# Time Breakdown
+W014N
+W036N
+E012
+W065
+
+# Sequence of Operation
+
+# 26" Hole Section
+
+# General
+
+# Sequence of Operation
+Make up 26" BHA as per BHA design, drill formation down to 150m (18 5/8" casing point in Aghajari formation). Use LCM pill if encountered heavy losses. If LCM could not cure loss then use cement plug(s) to cure it.
+Note:
+- TD should be adjusted in such a way to have 2 meters of rat hole under casing shoe.
+- The exact TD will be determined based on 18 5/8" casing tally.
+- Do not forget to strap pipe while POOH.
+- Drop Totco prior to POOH to evaluate the verticality of hole.
+- Use following parameters to drill this hole section:
+WOB = Maximum available
+RPM = 90-130
+GPM = 800-1000
+At TD, Circulate and clean hole. POOH, P/U 26” bit , RIH and condition the hole to section TD. Check for any fill. CBU on bottom. POOH. If observed any indication of drag, run back to bottom. Wash and ream to make sure that the hole condition is good.
+R/U 18 5/8" casing running gear. Perform Safety meeting. Run ±150m of 18 5/8", 87.5 ppf, J-55, BTS casing with guide shoe and stab-in collar to bottom as per casing program. Casing shoe should be adjusted in such a way to have 2 meters of rat hole and enough stick up (1.5 m) on rig floor. Fill casing by non LCM fresh mud joint by joint.
+Note:
+- Take care when running casing not to set down excessive weight if tight hole or ledges are encountered.
+Run stinger on 5” DP’s using the “C” Plate and 5” x 18 5/8" centralizer. Sting in. M/U and test cementing lines. Circulate for one casing annulus volume. While circulating, check the DP’s annulus for any return. Use all DP’s weight on the stinger, if observing any minor leakage through DP’s annulus. Cement casing as per program. Any minor adjustment regarding the corrected depth will be done in due time. Displace with mud. Sting out. Check the float. Circulate to clean the DP. POOH.
+Note:
+- Based on the results obtained from cementing, decision will be made to perform top jobs.
+Rest the 18 5/8" casing on the elevator until cement surface samples get hard. Check for casing to be center inside 30" conductor pipe. In case of any problem, report immediately.
+If there is no cement return to surface, a top-up job should be performed to fill the annulus, stage by stage until cement reaches the surface. Use the same weight as the primary cement slurry. Ensure adequate X-over for connecting line pipe to cement line is available. The cement should be accelerated with max. 2% calcium chloride and no other additives. Wait for the top job cement to get hard.
+Cut 30" conductor pipe from cellar base. L/D and remove it. Rough cut 18 5/8" landing joint and L/D same. Dress casing neck suitable to install and to weld casing head housing.
+Install and weld casing head housing 20 3/4” – 3000 psi on casing stub and test the sealing of welded casing (limit pressure to a maximum of 80% of the collapse strength of the casing or maximum 500 psi). Outlets to align with cellar stairs.
+Note:
+- Before installing the casing head housing, open all the test and plastic packing ports and clean inside it with water and air.
+- Do not forget to check the wear bushing with CHH and tie down flange before N/U BOP’s.
+Install tie down flange plus 20 3/4”x3000 psi spacer spool. N/U 20 3/4” 3000 psi BOP’s and related lines. N/U bell nipple. Test BOP’s as per NIOC policy to 2000 psi pressure.
+Fill up the following forms and send to drilling office:
+18 5/8" Casing Tally
+18 5/8" Casing Report
+18 5/8" Cement Report
+26" Hole Section Summary
+Wellhead diagram with dimensions and serial numbers
+
+# Logging Program
+No logging program is planned for this hole section.
+
+# Hole Deviation
+Hole deviation will be measured by Totco every 50 m.
+
+# 17 1/2" Hole Section
+
+# General
+
+# Sequence of Operation
+Make up 17 1/2" BHA as per BHA design, drill formation down to 2677m (13 3/8" casing point in Gachsaran formation Mbr-6). Use LCM pill if encountered heavy losses. If loss could not cured by LCM pill use cement plug(s) to cure it.
+Note:
+- TD should be adjusted in such a way to have 2 meters of rat hole under casing shoe.
+- The exact TD will be determined based on 13 3/8" casing tally.
+- Do not forget to strap pipe while POOH.
+- Drop Totco prior to POOH to evaluate the verticality of hole.
+Use following parameters to drill this hole section:
+WOB = Maximum available
+RPM = 90-130
+GPM = 800-1000
+At TD, Circulate, clean hole, POOH. Run CDR/GR log. P/U 17 1/2" bit w/ 17 1/2" N.B.stabilizer, RIH and condition the hole to section TD. Check for any fill. CBU on bottom. POOH. If observed any indication of drag, run back to bottom. Wash and ream to make sure that the hole condition is good.
+R/U 13 3/8" casing running gear. Perform Safety meeting. Run ±2677m 13 3/8" casing (72 ppf, NKT-95, BTS / 72 ppf, N-80, BTS / 68 ppf, J-55, BTS) with float shoe and collar to bottom as per casing program. Casing shoe should be adjusted in such a way to have 2 meters of rat hole and enough stick up (1.5 m) on rig floor. Fill casing by non LCM fresh mud each 10 joints.
+Note:
+- Take care when running casing not to set down excessive weight if tight hole or ledges are encountered.
+M/U cementing head. Load the plugs. WSS is to witness the loading. Test the lines to 3000 psi for 10 minutes. Cement casing as per program. Any minor adjustment regarding the corrected depth will be done in due time. Displace with mud. Monitor for pressures. Record and report the final pressure before bump the plug. Bump the plug with 500 psi over the final circulating pressure. Bleed off pressure. Check for back flow. If any back flow observed, hold the pressure inside for the cement to thick.
+Hold on casing string weight. Drop 20-3/4” x 13 3/8” casing hanger (Auto type). Slack off casing weight. Test it to 500 psi pressure. (Open base flange side outlet valves while testing)
+P/U 20-3/4”-3000 BOP’s. Rough cut 13 3/8” landing joint. L/D same & BOP’s. Dress and bevel 13 3/8” casing neck. Install D.S.A. Pack off 20-3/4” 3K x 16-3/4” 5K and then N/U 16-3/4” 5K x 13-5/8” 5K Casing Head spool. Pack & Test p-seals with 2000 psi. Install 13 5/8”-5000 x 13 5/8” - 5000 psi tie down flange. N/U 13 5/8” - 5000 psi ram type preventer and 13 5/8” - 5000 psi annular preventer. N/U bell nipple. Test BOP’s and related lines using plug tester to 3000 psi pressure. L/D 11” and 9 3/4” drill collars, P/U 8 3/8” drill collars.
+Fill up the following forms and send them to drilling office:
+13 3/8” Casing Tally
+13 3/8” Casing Report
+13 3/8” Cement Report
+17 1/2” Hole Section Summary
+Wellhead diagram with dimensions and serial numbers
+BOP’s Schematics with all related dimensions
+BOP’s test Report
+
+# Logging Program
+CDR/GR in open hole.
+Radial Cement Bond Log in cased hole.
+
+# Hole Deviation
+Hole deviation will be measured by Totco prior to POOH.
+
+# 12 1/4" Hole Section
+
+# General
+
+# Sequence of Operation
+Make up 12 1/4" BHA as per BHA design. RIH, Tag top of cement. Drill out cement, collar and shoe. Watch carefully for any indication of abnormal torque, since there might be a possibility of shoe being backed off. In case, report immediately.
+Displace hole by heavy MW to 130-137 pcf, observe well for any loss. Drill out rat hole. Drill ahead down to 2702m. Circulate and clean hole, POOH. Run Radial Cement Bond Log from 13 3/8" casing. P/U new bit and S.Stab at 20m, RIH to bottom. Drill ahead 12 1/4" hole section down to Casing Point at 3313m.
+Note:
+Packed hole BHA assembly with PDC bit is Recommended to drill straight and fast the vertical hole.
+Use following parameters to drill this hole section:
+WOB = 40- 60 klb
+RPM = 90-130
+GPM= 800-1000
+Note:
+- Perform BOP's test on each 14 days.
+- Adjust mud weight with respect to the hole condition.
+- TD should be adjusted in such a way to have 2 meters of rat hole for probable fillings.
+- The Section TD maybe changed based on formation tops detected by the well site geologist.
+- Do not forget to strap pipe while POOH.
+At section TD, circulate, clean hole. Run CDR/GR log. Perform wiper trip. Rest the hole for one hour and observe same when at 13 3/8" shoe. RIH. CBU on bottom. To either spot the pill or not, consult with Drilling Manager. POOH. If observed any indication of drag, run back to bottom. Wash and ream to make sure that the hole condition is good.
+R/U 9 5/8" casing running gear. Perform Safety meeting. Run 9 5/8” casing (58.4 ppf, C-150, Vam / 53.5 ppf, C-150, Vam / 53.5 ppf, L-80, Vam / 47 ppf, L-80, Vam / 43.5 ppf, L-80, Vam) as per program to bottom (Pump mud as a casing cap @ 13 3/8” casing shoe and at TD). Casing shoe should be adjusted in such a way to have 2 meter of rat hole and enough stick up (1.5 m) on rig floor. M/U cementing head. Load the plugs. WSS is to witness the loading. Test the lines to 3000 psi for 10 minutes. Make sure that the cementing head is capable of holding pressure while displacing and testing cement (Visually).
+Cement casing as per program. Any minor adjustment regarding the corrected depth will be done in due time. Displace with mud. Monitor for pressures. Record and report the final pressure before bump the plug. Bump the plug with 500 psi over the final circulating pressure. Bleed off pressure. Check for back flow. If any back flow observed, hold the pressure inside for cement to thick.
+N/D cementing head. Hold on casing string weight. Drop 13 3/8” x 9 5/8” casing hanger. Slack off casing weight. Test it to 2000 psi pressure. (Open casing head spool side outlet valves while testing). P/U BOP. Rough cut 9-5/8” landing joint. L/D same & BOP’s. Dress and bevel 9-5/8” casing neck. Install D.S.A Pack off 13-5/8” 5K x 11” 10K and then N/U 11” x 11” – 10K psi tubing head spool. Pack and Test p-seals with 4500 psi.
+Install 11” - 10000 psi x 13 5/8” - 10000 psi adaptor tie down flange. N/U 13 5/8” - 10000 psi ram type preventer and 13 5/8” - 5000 psi annular preventer. N/U bell nipple. Test BOP and related lines using plug tester to 7500 psi pressure. L/D 8 3/8” Drill collars and P/U 6-1/2” Drill collars.
+Fill up the following forms and send them to the drilling office:
+9 5/8” Casing Tally
+9 5/8” Casing Report
+9 5/8” Cement Report.
+12 ¼” Hole Section Summary.
+Wellhead diagram with dimensions and serial numbers
+BOP’s Schematics with all related dimensions, BOP’s test report
+Note: Do not forget to change top rams before running logs and casing to proper size and testing bonnet to working pressure.
+
+# Logging Program
+CDR/GR in open hole.
+Radial Cement Bond Log in cased hole.
+
+# 8 3/8" Hole Section
+
+# General
+
+# Sequence of Operation
+Make up 8 3/8" BHA as per BHA design (Junk Sub Included). RIH to top of collar. Drill out plugs, float collar, cement, shoe and cement of rat hole, Watch carefully for any indication of abnormal torque, since there might be a possibility of shoe being backed off. In case, report immediately. Circulate, clean hole, displace hole by 70-90 pcf oil base mud. Observe well for any mud losses. Drill ahead down to 3338m (25m under casing shoe). Work on junk sub, Circulate, clean hole, POOH. Run Radial Cement Bond Log from 9 5/8" casing. P/U new bit, RIH to bottom. Drill ahead down to liner point at 4314m. Circulate, clean hole. Perform wiper trip to last casing shoe.
+Note:
+- Adjust mud weight according to nearby wells and open hole condition.
+- Perform BOP's test on each 7 days as per NIOC policy.
+- Section TD maybe changed based on formation tops detected by well site geologist.
+- Do not forget to strap pipe while POOH.
+- A material balance to determine the theoretical concentrations of additives in the mud should be calculated and reported to WSS. Significant deviations from programmed values should be explained.
+At section TD, CBU, sweep the hole cleaned, perform wiper trip. R/U wire line equipment. Run Full Suite log. Run Image log. Run CDR/GR log.
+Condition hole prior to liner job. Due to setting of 7” liner as off bottom, fill the rat hole with high vis pill to prevent of dropping cement. R/U Liner running tool. Run 7" liner (32 ppf, P-110, Vam / 29 ppf, P-110, Vam) as per program. P/U and run liner hanger and accessories. Follow liner string with 5” DPs to top of Ilam formation (Run drift inside 5” D.P & perform SLM while RIH with liner).
+M/U cementing line. Set the liner as per program. Release setting tool. Cement liner as per program. Set liner packer (If Available). Pull out setting tools 15 std’s, Circulate to clean the string. POOH with liner setting tools while L/D excess 5” DP on floor.
+Clean well to liner lap (±3253 Mt) with 8 ½” bit #RR. P/U 6" bit and new BHA (4-3/4" DC & 3-1/2" DP), RIH, Clean and drill out cement (if any) to top of LDC. Circulate, clean hole, POOH to 3200m. Closed top rams and perform liner lap pressure test (2000 psi for 30 minutes) and Dry test liner lap if liner top packer did not use. (In case of any leakage, firstly perform squeezing cement behind liner if unsuccessful then tie back the liner to surface)
+Note: Dry test program will be offered in due time.
+- Radial cement log will be performed under 1000 psi inside 7” liner and if necessary, repair of cement behind liner will be done.
+- According to delineation targets of these wells, the F.B.DST from first 50m of Asmari Fm. will be done in E012 and W065 wells.
+- Full suite log of Asmari and Pabdeh formations will be done in E012 (first 80m of Pabdeh) and W065 wells.
+- Image log of Asmari and first 80m of Pabdeh will be done in E012 well.
+- RFT (40 points), using dual packer (4 point) and fluid type determinant tool (6 point or interval) will be performed in E012 well.
+L/D last BHA (6” DC) and P/U new BHA (4-3/4” DC). Perform BOP and related equipment pressure test.
+Fill up the following forms and send them to the drilling office:
+7” Liner tally
+7” Liner report
+7” Liner cement report
+8 ½” Hole section summary
+BOP test report
+Dry test report
+Note:
+Do not forget to change top rams before running log and Liner and changing drill string to proper size and testing it.
+
+# Logging Program
+CDR/GR in open hole
+Radial cement bond log from 7" liner
+Full suite log
+Image log
+
+# 6" Hole Section
+
+# General
+
+# Sequence of Operation
+Make up 6" BHA as per BHA design. RIH to top of float collar. Drill out plugs, float collar and cement to 2m above shoe. Displace hole by 79-90 pcf Oil Base Mud. Drill out remained cement and shoe and cement of rat hole, observe well for any well flow. Watch carefully for any indication of abnormal torque, since there might be a possibility of shoe being backed off. In case, report immediately. Drill a head 6" hole with junk sub down to 4338m (24m below shoe). Work on junk sub, Circulate, clean hole, POOH. P/U new bit, RIH to bottom. Drill ahead down to TD at 5057m. Circulate, clean hole. Perform wiper trip to last casing shoe.
+Note:
+- Adjust mud weight with respect to the hole condition.
+- Perform BOP's test on each 7 days as per NIOC policy.
+- During trips, while at surface, driller have to check BHA.
+- A material balance to determine the theoretical concentrations of additives in the mud should be calculated and reported to WSS. Significant deviations from programmed values should be explained.
+- According to delineation targets of these wells, the F.B.DST from first 80m of Bangestan group Fm. will be done in W065 well.
+- Also in W014 location, coring from Sarvak zones 8, 9, 10 and 11 will be done. (272m)
+Note:
+Due to necessity of performing the F.B.DST at first 80m of Bangestan reservoir, after drilling into proper depth of Bangestan group formation, the F.B.DST will be done at this interval.
+Circulate, Clean and Condition hole prior to run log. Spot 50 bbl hi vis pill prior to run log and R/U well logging equipment.
+- Full suite log of Bangestan group formations will be done in all wells (E012 (in second scenario), W065, W014N and W036N).
+- Image log of Bangestan group formations will be done in all wells (E012 (in second scenario), W065, W014N and W036N).
+- RFT with using slim tools in Bangestan (40 Points) will be performed in W065 and W036N wells.
+Condition hole prior to run 5" liner, Spot 300 m Hi-Vis Pill to 5" Liner point (TD). R/U Liner running tool. Run 5" liner (18 ppf, L-80, Vam) as per program. P/U and run liner hanger and accessories. Follow liner string with 3-1/2” and 5” DPs (Run drift inside 3-1/2” and 5” D.P and perform SLM while RIH with liner).
+M/U cementing line. Set the liner as per program. Release setting tool. Cement liner as per program. Set liner packer (If Available). Pull out setting tools 15 std’s, Circulate to clean the string. POOH with liner setting tools while L/D excess 3-1/2" and 5” DP on floor.
+Clean well to liner lap (4254m) with 6” bit #RR. P/U 4 1/8" E.mill and Clean out string (3 1/8" DC and 2 7/8" DP). RIH, Clean and drill out cement (if any) to top of LDC. Circulate, clean hole and POOH to 4200m. Closed top rams and perform liner lap pressure test (2000 psi for 30 minutes) and Dry test liner lap if liner top packer did not use.
+Note: Dry test program will be offered in due time.
+Clean cement up to 5m above 5” shoe. Radial cement bond log will be performed under 1000 psi pressure inside 5” liner and if necessary, cement behind liner will be repaired.
+5” liner perforation will be performed by using 3 3/8” HSD with phasing 60 degrees and 6 SPF density (Perforation interval will be decided after logs evaluation. Around 100m in W065 and W014N wells. Around 70m in E012 well. Around 50m in W036N well).
+Perform scrapper trip to packer setting depth. POOH to surface While L/D all 3-1/2” and 5” DP. Run and test completion string as per completion program. N/D BOP’s, Nipple up wellhead and test. Displace tubing annulus with packer fluid (Corrosion inhibitor + Gasoil). Stimulation will be performed with 8000 gallons HCL. Flow the well and record pressures on various choke size. Secure the well, release the rig.
+Note:
+- Adjust mud weight with respect to the hole condition.
+- During trips and while at surface, driller has to check BHA.
+- A material balance to determine the theoretical concentrations of additives in the mud should be calculated and reported to WSS. Significant deviations from programmed values should be explained.
+- Perform BOP's test on each 7 days.
+- If well not flowing, stimulate the well with appropriate fluid with rig (Acid design based on Petrophysics results and reservoir fluid analysis).
+Note: Do not forget to change top rams before running log, liner and changing drill string to proper size and testing it.
+Fill up the following forms and send them to the drilling office:
+5” Liner tally
+5” Liner report
+5” Liner cement report
+6” Hole section summary
+BOP test report
+Dry test report
+
+# Logging Program
+CDR/GR in open hole
+Radial cement log from 5" liner
+Full suite log
+Image log
+
+# Well Montage
+W014N
+W036N
+E012
+W065
+
+# Bit and BHA Design
+Following bits and parameters are recommended to drill each section:
+*Nozzle sizes in this table are recommended for Tri Cone Bits.
+** For PDC bits select nozzles in order to achieve recommended TFA
+
+# 26” Hole Section BHA
+
+# 17 ½” Hole Section BHA (Pack Hole)
+
+# 17 ½” Hole Section BHA
+
+# 12 1/4” Hole Section BHA
+
+# 8 3/8” Hole Section BHA
+
+# 6” Hole Section BHA
+
+# Logging Program
+
+# Casing Design
+The related graph and software output is in attachment.
+Note: The casing design is related to Group1 and Group3 wells.
+GENERAL WELL DATA
+The well is an onshore well with below data:
+RTE = 20m (Assumed)
+Well TD = 5057m RKB
+WELL CONFIGURATION
+Five hole sections were planned to be drilled in this well which first three section will be covered with casing and the last two sections will be covered with 7” and 5” liner according to below configuration. All casings are planned to be cemented from shoe depth to surface.
+Table 1: Casing Configuration
+Figure 1: Well Schematic
+Pore pressure and fracture gradient
+Due to lack of data about pore and fracture gradient, we have to estimate pore pressure from mud weight program. It is practical to use a safety margin of 200-300 psi for mud weight, but in this case, due to more uncertainties, we assumed that pore pressure is equal to wellbore hydrostatic pressure. We estimated the fracture gradient by considering almost 4.5 ppg difference between two gradients, but there is a chance to correlate fracture gradient data by modeling gas kick profile burst load case in some hole sections. By doing so, we can get rid of formation fracturing as weak point while circulating an assumed volume of gas kick out of the well with driller method. So lack of data about fracture gradient would not be kind of concern. The pore pressure and fracture gradient data and graph are as below.
+Table 2: Pore Pressure and Fracture Gradient Data
+Figure 2: Pore Pressure and Fracture Gradient Graph
+GEOTHERMAL GRADIENT
+Below assumption are considered for geothermal gradient:
+Surface ambient temperature = 80 F
+Temperature gradient = 1.5 F/100ft
+WELL TRAJECTORY
+The well is vertical.
+PRODUCTION DATA
+Packer depth = 4254m RKB (at top of 5” Liner)
+Packer fluid density = 10.03ppg
+Perforation depth = 5057m RKB (to be expose to as much pore pressure as possible)
+Oil Gradient = 0.25 psi/ft
+DESIGN FACTORS
+The design factors have been captured from Exxon Production Research Co. (EPR) standards for uniaxial (conventional) and triaxial (von Mises, Hill) casing and tubing design.
+Minimum specified yield strength should be derated for elevated temperatures
+Collapse resistance is based on tubulars with nominal wall thickness. However, a 10% allowance for wall loss due to casing wear is accounted for in the design factor for protective strings subsequently used for production.
+Different collapse design factors may be required for casing and liners subjected to non-uniform external pressure loading (e.g., flowing salt)
+Burst resistance design factors apply equally to both the pipe body and the connection design ratings (internal yield pressure). However, a 10% allowance for wall loss due to casing wear is accounted for in the design factors for surface and protective strings. Note that the design factors for the connections (internal yield pressure) on these strings should remain as used on production strings (no coupling wear). Also, connection design ratings are based on nominal wall for burst resistance.
+Tension capability of pipe body is based on tubulars with nominal wall thickness.
+Design factor may be reduced to 1.333 if the connection meets the appropriate EPR qualification requirements.
+For API tubulars, the burst resistance and calculations of the triaxial stress should be based on 87.5% of nominal wall thickness. For non-API tubulars, the burst resistance and the calculation of triaxial stress should be based on minimum specified wall thickness. However, a 10% allowance for wall loss due to casing wear is accounted for in the triaxial design factor for surface and protective strings.
+Collapse design factor
+A collapse resistance design factor of 1.0 is required for surface casing, protective casing, and protective liners since these strings are not usually subjected to
+collapse loads. Normally, the pressure is greater inside these casing strings than
+outside. All other tubular strings require a collapse design factor of 1.125. If
+protective casing or liners ultimately serve as production casing or liners, a design
+factor of 1.238 is required to include a 10% allowance for wear that may occur
+while drilling through these strings.
+Burst Design Factor
+There are three categories of design factors for burst resistance:
+No Anticipated Shut-In Surface Pressure: These design factors are typically used for wells that are not expected to be exposed to shut-in surface pressures and represent minimal risk.
+Standard Wells: These design factors are used for normal pressure (i.e., 9.0-lb/gal pore pressure) development wells where pressures and operating conditions are well established.
+Critical Wells: These design factors are normally used for wells that meet any of the following criteria:
+Wildcats, field wildcats, or outpost wells where pressures and operating
+conditions are not well established
+Wells located in or near marine environments (i.e., offshore, waterway,
+river crossing)
+Wells requiring protective casing in abnormal pressure transition zones (i.e., greater than 13.0-lb/gal mud weight)
+Wells requiring either H2S tubular design or wells that may encounter gas bearing formations suspected of containing greater than 500 ppm H2S, unless in a mature area with past history of trouble-free operations and a maximum pressure of less than 3000 psi
+Wells located in areas with ultra-sensitive environmental concern that could result in considerable adverse publicity and/or very high cost
+Wells located within 1/2 mile of a densely populated area (community or small settlement) or heavily traveled road, railroad, waterway, or airport
+Leak-Resistance Design Factor
+A leak-resistance design factor is applied to the connections of tubing, casing, and
+liner strings that are required to hold pressures at some point during the life of the
+well. A design factor of 1.0 is required for leak resistance.
+When designing any tubular string, the lower of the leak resistance and burst
+pressure working ratings determines the maximum internal pressure working
+rating of the string.
+Tension Design Factor
+Tension design factors are used to calculate tension working ratings and are
+applied to all casing and tubing strings. There are two categories of design factors for tension:
+Pipe Body
+These design factors are applied to pipe-body design ratings. Pipe-body design
+ratings are always based on the minimum specified yield strength of the pipe-body material (i.e., pipe-body yield strength). A design factor of 1.333 is required for the pipe body of casing and tubing.
+Connection
+These design factors are applied to connection design ratings (i.e., joint strength). Connection tension design factors differ for casing and tubing. Tubing connection design factors are based on the tubing connection design ratings which use the minimum specified yield strength. Thus, tubing design factors for the connection are the same as for the pipe body (i.e., 1.333). Casing connection design ratings  are based on the ultimate strength (i.e., fracture, jump-out) of the casing. Since this design rating basis can result in failure loads higher than pipe-body yield, the tension design factor for casing connections is higher (i.e., 1.5) than that of the pipe body.
+Compression Design Factor
+The compression design factor applies to strings that are subjected to large
+compressive loads. These are normally surface casing strings, but may be
+conductor or structural casing strings in some cases. A design factor of 1.333 is
+required in these cases. The compression design factor applies to both the pipe
+body and the connection. When designing a casing string for compression, the
+lower of the pipe body and connection working ratings determines the
+compression working rating for the string.
+Triaxial Design Factor
+A design factor of 1.25 is used for triaxial designs for tubing, production casing, and production liners. For surface casing, protective casing and protective liners, a design factor of 1.375 is used to provide an additional 10% allowance for wear when drilling through these strings. Uniaxial design factors must also be satisfied. The von Mises equation is used to calculate triaxial stresses in carbon steels. For coldworked CRA materials that exhibit yield stress anisotropy, the Hill equation is used to calculate triaxial stresses. For CRA materials, the minimum specified yield strength must be derated for elevated temperature. For carbon steels, a similar temperature derating should be considered for temperatures greater than 300°F. The same design factors apply for both equations. Triaxial stress calculations are based on minimum specified wall thickness.
+AXIAL, BURST, COLLAPSE AND TRIAXIAL LOAD CASES
+All appropriate load cases for all strings can be captured from below table recommended by HALLIBURTON Company. Any other load cases shall be considered based on special consideration.
+Table 3: Burst, Collapse, Axial and Triaxial Load Cases for Conductor and Surface Casing
+Table 4: Burst, Collapse, Axial and Triaxial Load Cases for Intermediate Casing and Liner
+Table 5: Burst, Collapse, Axial and Triaxial Load Cases for Production Casing and Liner
+
+# PRODUCTION LINER LOAD CASES (min. drift dia. = 4.151”)
+INITIAL CONDITION
+Mix-Water Density = 8.33ppg
+Tail Slurry Density = 15.8ppg
+Displacement Fluid Density = 12.03ppg
+Float Collar Depth = 5057m (No Shoe Track was assumed)
+AXIAL LOAD CASES
+Running in hole with average speed of 3ft/sec which can make shock load
+Overpull force in case of any stuck from shoe = 100000lbf
+Pre-cement static load with mud at shoe, inside and outside the string
+Post-cement static load, with cement slurry and mud outside, and displacement fluid inside the string
+Green cement pressure test with 3000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+All burst and collapse loads as service loads which can results additional axial loads
+BURST LOAD CASES
+Pressure test with 4000psi surface pressure and a 12.03ppg mud inside the string
+Green cement pressure test with 3000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+Injection Down Casing, in case of any stimulation job, with 4000psi surface pressure and a fluid with 9.7ppg density (Acid)
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+COLLAPSE LOAD CASES
+Cementing; The external pressure profile for this drilling load case is self-described, modeling the differential pressure due to the higher tail cement slurry densities on the outside of the casing, from the TOC to the shoe, immediately after the cement is displaced.
+Full Evacuation (Production); the likelihood of this situation for oil wells is very low.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+
+# 7” PRODUCTION LINER LOAD CASES (min. drift dia. = 6”)
+INITIAL CONDITION
+Mix-Water Density = 8.33ppg
+Tail Slurry Density = 15.8ppg
+Tail Slurry length = 200m
+Lead Slurry Density = 12.5ppg
+Displacement Fluid Density = 12.03ppg
+Float Collar Depth = 4314m (No Shoe Track was assumed)
+AXIAL LOAD CASES
+Running in hole with average speed of 3ft/sec which can make shock load
+Overpull force in case of any stuck from shoe = 100000lbf
+Pre-cement static load with mud at shoe, inside and outside the string
+Post-cement static load, with cement slurry and mud outside, and displacement fluid inside the string
+Green cement pressure test with 3000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+All burst and collapse loads as service loads which can results additional axial loads
+BURST LOAD CASES
+Pressure test with 3000psi surface pressure and a 12.03ppg mud inside the string
+5” pressure test load case as this liner will be exposed while testing 5” liner
+Green cement pressure test with 3000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+Stimulation Surface Leak; This production load case models an injection pressure applied to the top of the production annulus as a consequence of a tubing leak near the wellhead during injection. Above the production packer, the internal pressure profile is based on a wellhead injection pressure. It is applied to a packer fluid density. Below the production packer, the internal pressure profile corresponds to that which would develop for the wellhead injection pressure and wellhead-to-shoe displacement to the injection fluid. The injection pressure and injection fluid density are assumed to be 4000psi and 9.7ppg, respectively.
+Gas Kick Profile; This drilling load case creates an internal pressure profile that simulates the maximum pressures imposed on the current string while circulating a gas kick to the surface. The following assumptions are made:
+The Driller's Method is used to circulate the kick influx out of the wellbore. That is, the mud density used to circulate the kick out of the wellbore is the same as the mud density in use at the depth from which the influx originates. The Driller's Method, in comparison to the Wait-and-Weight or Engineer's methods, results in higher casing pressures during circulation of the kick influx from the wellbore, and is therefore used to ensure a conservative analysis.
+The mud density does not vary with temperature and pressure.
+The effect of annular friction pressure losses is ignored. This is consistent with a normal kill procedure conducted at a slow pump rate.
+Kick volume and kick intensity was assumed 50bbl and 0.5ppg, respectively.
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value. As the 7” liner is planned to be fully cemented, we can ignore this load for this string.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+COLLAPSE LOAD CASES
+Cementing; The external pressure profile for this drilling load case is self-described, modeling the differential pressure due to the higher tail cement slurry densities on the outside of the casing, from the TOC to the shoe, immediately after the cement is displaced.
+Full/Partial Evacuation; This drilling load case models casing evacuation due to lost circulation. The internal pressure profile is determined from a mud density and mud level. The evacuated portion of the casing above the mud level is assumed filled with an air column for which the density profile is calculated with a temperature-dependent and pressure- dependent compressibility factor. For this string 1/3 of string volume is considered to be evacuated.
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value. As the 7” liner is planned to be fully cemented, we can ignore this load for this string.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+
+# 9 5/8” PRODUCTION CASING LOAD CASES (min. drift dia. = 8 3/8”)
+INITIAL CONDITION
+Mix-Water Density = 8.33ppg
+Tail Slurry Density = 16ppg
+Tail Slurry Length = 200m
+Lead Slurry Density = 20ppg
+Displacement Fluid Density = 18.31ppg
+Float Collar Depth = 3313m (No Shoe Track was assumed)
+AXIAL LOAD CASES
+Running in hole with average speed of 3ft/sec which can make shock load
+Overpull force in case of any stuck from shoe = 100000lbf
+Pre-cement static load with mud at shoe, inside and outside the string
+Post-cement static load, with cement slurry and mud outside, and displacement fluid inside the string
+Green cement pressure test with 3000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+All burst and collapse loads as service loads which can results additional axial loads
+BURST LOAD CASES
+Gas Kick Profile; This drilling load case creates an internal pressure profile that simulates the maximum pressures imposed on the current string while circulating a gas kick to the surface. The following assumptions are made:
+The Driller's Method is used to circulate the kick influx out of the wellbore. That is, the mud density used to circulate the kick out of the wellbore is the same as the mud density in use at the depth from which the influx originates. The Driller's Method, in comparison to the Wait-and-Weight or Engineer's methods, results in higher casing pressures during circulation of the kick influx from the wellbore, and is therefore used to ensure a conservative analysis.
+The mud density does not vary with temperature and pressure.
+The effect of annular friction pressure losses is ignored. This is consistent with a normal kill procedure conducted at a slow pump rate.
+Kick volume and kick intensity was assumed 100bbl and 0.5ppg, respectively.
+Pressure test with 2500psi surface pressure and a 18.31ppg mud inside the string
+5” pressure test load case as this liner will be exposed while testing 5” liner
+7” pressure test load case as this liner will be exposed while testing 7” liner
+Green cement pressure test with 3000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value.
+Stimulation Surface Leak; This production load case models an injection pressure applied to the top of the production annulus as a consequence of a tubing leak near the wellhead during injection. The internal pressure profile is based on produced (reservoir) fluid gravity (gas) or gradient (gas/oil) and injection pressure. Above the production packer, the internal pressure profile is based on a wellhead injection pressure. It is applied to a packer fluid density. Below the production packer, the internal pressure profile corresponds to that which would develop for the wellhead injection pressure and wellhead-to-shoe displacement to the injection fluid. The injection pressure and injection fluid density are assumed to be 3500psi and 9.7ppg, respectively.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+COLLAPSE LOAD CASES
+Full/Partial Evacuation; This drilling load case models casing evacuation due to lost circulation. The internal pressure profile is determined from a mud density and mud level. The evacuated portion of the casing above the mud level is assumed filled with an air column for which the density profile is calculated with a temperature-dependent and pressure- dependent compressibility factor. For this string full evacuation is considered.
+Cementing; The external pressure profile for this drilling load case is self-described, modeling the differential pressure due to the higher tail cement slurry densities on the outside of the casing, from the TOC to the shoe, immediately after the cement is displaced.
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+
+# 13 3/8” INTERMEDIATE CASING LOAD CASES (min. drift dia. = 12 1/4”)
+INITIAL CONDITION
+Mix-Water Density = 8.33ppg
+Tail Slurry Density = 15.8ppg
+Tail Slurry Length = 200m
+Lead Slurry Density = 12.5ppg
+Displacement Fluid Density = 12.83ppg
+Float Collar Depth = 2677m (No shoe track was assumed)
+AXIAL LOAD CASES
+Running in hole with average speed of 3ft/sec which can make shock load
+Overpull force in case of any stuck from shoe = 100000lbf
+Pre-cement static load with mud at shoe, inside and outside the string
+Post-cement static load, with cement slurry and mud outside, and displacement fluid inside the string
+Green cement pressure test with 2000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+All burst and collapse loads as service loads which can results additional axial loads
+BURST LOAD CASES
+Gas Kick Profile; This drilling load case creates an internal pressure profile that simulates the maximum pressures imposed on the current string while circulating a gas kick to the surface. The following assumptions are made:
+The Driller's Method is used to circulate the kick influx out of the wellbore. That is, the mud density used to circulate the kick out of the wellbore is the same as the mud density in use at the depth from which the influx originates. The Driller's Method, in comparison to the Wait-and-Weight or Engineer's methods, results in higher casing pressures during circulation of the kick influx from the wellbore, and is therefore used to ensure a conservative analysis.
+The mud density does not vary with temperature and pressure.
+The effect of annular friction pressure losses is ignored. This is consistent with a normal kill procedure conducted at a slow pump rate.
+Kick volume and kick intensity was assumed 100bbl and 0.5ppg, respectively.
+Pressure test with 2000psi surface pressure and a 12.83ppg mud inside the string
+Green cement pressure test with 2000psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+COLLAPSE LOAD CASES
+Full/Partial Evacuation; This drilling load case models casing evacuation due to lost circulation. The internal pressure profile is determined from a mud density and mud level. The evacuated portion of the casing above the mud level is assumed filled with an air column for which the density profile is calculated with a temperature-dependent and pressure- dependent compressibility factor. For this string, 1/3 of string volume is considered to be evacuated.
+Cementing; The external pressure profile for this drilling load case is self-described, modeling the differential pressure due to the higher tail cement slurry densities on the outside of the casing, from the TOC to the shoe, immediately after the cement is displaced.
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+
+# 18-5/8” SURFACE CASING LOAD CASES (min. drift dia. = 17”)
+INITIAL CONDITION
+Mix-Water Density = 8.33ppg
+Tail Slurry Density = 15.8ppg
+Displacement Fluid Density = 8.96ppg
+Float Collar Depth = 150m (No shoe track was assumed)
+AXIAL LOAD CASES
+Running in hole with average speed of 3ft/sec which can make shock load
+Overpull force in case of any stuck from shoe = 100000lbf
+Pre-cement static load with mud at shoe, inside and outside the string
+Post-cement static load, with cement slurry and mud outside, and displacement fluid inside the string
+Green cement pressure test with 1500psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+All burst and collapse loads as service loads which can results additional axial loads
+BURST LOAD CASES
+Gas Kick Profile; This drilling load case creates an internal pressure profile that simulates the maximum pressures imposed on the current string while circulating a gas kick to the surface. The following assumptions are made:
+The Driller's Method is used to circulate the kick influx out of the wellbore. That is, the mud density used to circulate the kick out of the wellbore is the same as the mud density in use at the depth from which the influx originates. The Driller's Method, in comparison to the Wait-and-Weight or Engineer's methods, results in higher casing pressures during circulation of the kick influx from the wellbore, and is therefore used to ensure a conservative analysis.
+The mud density does not vary with temperature and pressure.
+The effect of annular friction pressure losses is ignored. This is consistent with a normal kill procedure conducted at a slow pump rate.
+Kick volume and kick intensity was assumed 100bbl and 0.5ppg, respectively.
+Surface Protection (BOP); This drilling load case is used as a criterion for the design of the upper portion of the casing. This load case is appropriate when used in conjunction with the Gas Kick Profile load case, the former serving as the basis for burst design in the upper section of the string and the latter serving as design basis in the lower section. The Surface Protection (BOP) load case is based on full displacement to gas, with a surface boundary condition equal to the surface pressure that would result from fracture pressure at the shoe above the deepest open hole interval for which the current string is exposed to drilling loads and a seawater gradient back to surface. This load case develops relatively high design pressures at shallow depths, while providing a more conservative design pressure at shallow depths than that which would obtain from the Gas Kick Profile load case. This load case represents no actual physical scenario; however, when used with the gas kick criterion, it ensures that the casing weak point is not at the surface. Typically, the gas kick load case will control the design deep and the surface protection load case will control the design shallow, leaving the string's weak point somewhere in the middle.
+Pressure test with 1500psi surface pressure and a 8.96ppg mud inside the string
+Green cement pressure test with 1500psi surface pressure, same as post-cement static load, but a surface pressure applied on displacement fluid
+Displacement to Gas; This drilling load case models displacement of the drilling mud in the casing by gas. By default, the gas column extends from the shoe depth (above open hole TD) to the wellhead. This load case represents a shut-in condition following a large kick, and is commonly used as a worst-case burst criterion for protective (intermediate) and surface casing. The internal pressure profile is based on a mud density, a gas gradient, and the pore pressure at the influx depth.
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+COLLAPSE LOAD CASES
+Full/Partial Evacuation; This drilling load case models casing evacuation due to lost circulation. The internal pressure profile is determined from a mud density and mud level. The evacuated portion of the casing above the mud level is assumed filled with an air column for which the density profile is calculated with a temperature-dependent and pressure- dependent compressibility factor. For this string, 1/3 of string volume is considered to be evacuated.
+Cementing; The external pressure profile for this drilling load case is self-described, modeling the differential pressure due to the higher tail cement slurry densities on the outside of the casing, from the TOC to the shoe, immediately after the cement is displaced.
+Drill Ahead; The Drill Ahead load case captures temperature profile and updated internal mud density for various string types. This load case will represent mud weight up / mud weight down after casing landing for drilling a new hole section. This particular load is required for strings that are not fully cemented in order to quantify how much buckling would occur on the uncemented section (prevents casing wear). You can use Drill Ahead load case for any string except the last string. Selecting this load case allows you to visualize internal pressure profile. The internal pressure profile is defined with the heaviest MW used to drill the next hole section while the drill string is inside the current casing string, plus an ECD (Equivalent Circulating Density) value.
+Fluid gradient w/ pore pressure; this external pressure profile is constructed from a mud density above the TOC, a fluid gradient from the TOC to the prior shoe (mix fluid density for burst and MW above TOC for collapse) and in open hole, either the fluid gradient below the TOC or the pore pressure profile. The fluid gradient below TOC depends on whether this external pressure profile is being used with a burst or collapse load case. The burst default is 8.33 ppg. The collapse default is the current-string Mud at Shoe value. The collapse default assumes a mud channel in the external cement column (a conservative assumption).
+
+# SUMMARY
+18-5/8” SURFACE CASING
+As is presented in attachment, using below configuration, all axial, burst, collapse and triaxial requirements will be met (based on considered load cases).
+13 3/8” INTERMEDIATE CASING
+As is presented in attachment, using below configuration, all axial, burst, collapse and triaxial requirements will be met (based on considered load cases).
+9 5/8” PRODUCTION CASING
+As is presented in attachment, using below configuration, all axial, burst, collapse and triaxial requirements will be met (based on considered load cases).
+7” PRODUCTION LINER
+As is presented in attachment, using below configuration, all axial, burst, collapse and triaxial requirements will be met (based on considered load cases).
+5” PRODUCTION LINER
+As is presented in attachment, using below configuration, all axial, burst, collapse and triaxial requirements will be met (based on considered load cases).
+
+# GROUP 1 CASING SPEC. (W014N, W036N)
+
+# GROUP 2 CASING SPEC. (E012)
+The well is an onshore well with below data:
+RTE = 20m (Assumed)
+Well TD = 4424m RKB
+Note: The casing design and graph is in attachment. (Group 2)
+
+# Group 3 CASING SPEC. (W065)
+
+# Preparation
+Visually and mechanically, check the stab-in collar for proper operation.
+Ensure all connections are thoroughly cleaned using steam or a grease solvent.
+Ensure that all casing running equipment are available and in good operation condition.
+Ensure the correct casing drifts are supplied to the rig.
+Ensure that all casing joints have been drifted.
+Company man to check stab in adaptor matches stab in shoe.
+Ensure spare seals for stab in adaptor are available.
+Ensure all cement bulk lines have been checked for blockage with bulk tanks fluffed and pressurized to the required transfer pressure.
+Inspect and pressure test cement manifold.
+Check the plugs fins not to be squeezed or damaged.
+Ensure that the air supply for cement is functioning properly.
+
+# Cement Program
+Note: Typical cementing program is in attachment.
+
+# (W014N, W036N) Wells
+
+# (E012) Well
+
+# (W065) Well
+
+# Health, Safety, Environment and Quality (HSE & Q)
+For this operation, special HSE focus points are:
+Well Control Situations and presence of H2S.
+Crane lift and falling objects.
+Lifting of large and heavy equipment and continuous focus shall be kept on avoiding dropped objects.
+Work-orders, simultaneous operations/working on two levels, must be focused on during the entire operations.
+SJA and pre-job safety meetings must be carried out for all non-standard operations.
+Pre-job safety meetings shall be held regularly before job start during casing running and cementing.
+Unwanted incidents and deviations shall be reported.
+High standard on housekeeping.
+Good Communication.
+
+# Quality and Risk Assessment
+Quantitative Risk Assessment (QRA) has been carried out on all main issues in the planning phase. The purpose was to guide the work according to identified risks for the operations, as well as to reduce the probability for incidents with potential HSE or commercial exposure. In the detailed planning phase, QRA has been an integral part of the work. All potential risks identified have been evaluated and mitigating actions have been implemented to reduce the risks to acceptable levels.
+
+# Drills
+Drills while inside the 9 5/8" casing:
+H2S Drill
+Well Control Drills (Kick Drill, Pit Drill, Choke Drill)
+Fire & Abandonment Drill
+Pump over the burners (if the required connection is available)
+
+# Requirements
+
+# Requirement for each Hole Section
+Mud material and cementing material requirement is explained in Drilling Fluid and cementing program respectively. (Attachment)
+Typical Requirement of each well is explained in below tables. (Group 1)
+For Group2 and 3 will be issued in due time and just the meterage of casing and quantity of bits will be changed.
+
+# BOP and Wellhead Schematic
+
+# 26” Hole Section
+No well control equipment is required.
+
+# 17 ½” Hole Section
+
+# 12 1/4” Hole Section
+
+# 8 3/8” Hole Section
+
+# 6” Hole Section
+
+# Completion Sketch
+Details Running procedure is explained in completion program, the packer must be set ±50m above 7” TOL.
+
+# Group1 completion sketch (W014, W036 Wells)
+
+# Group2 completion sketch (E02 well)
+
+# Group 3 completion sketch (W065 well)
+
+# Well head and X-Mass tree
+
+[جدول 1]
+W014N (B)Well Information
+Company | NISOC
+Contractor | P.E.D.C
+Country / Area | Iran / Khuzestan
+Field | Siah Makan
+Well Name | W014N(B)
+Purpose | Delineation and production of Bangestan reservoir
+Ground Level Elevation | 271.13 m
+Rotary Table Elevation | 279 m
+Wellhead Coordinates | E: 446,310 m    N: 3,325,959 m
+Coring Interval | Coring from zones 8, 9, 10 and 11 of Sarvak Fm. (272m)
+Total Depth | 5057 m (into Kazhdumi Fm.)
+Well Type | Vertical / Producer / Delineation
+Moving Duration | 8 Days
+Est. Spud Date | Will be specified
+Est. Well Duration | 170 Days
+
+[جدول 2]
+W036N(B) Well Information
+Company | NISOC
+Contractor | P.E.D.C
+Country / Area | Iran / Khuzestan
+Field | Siah Makan
+Well Name | W036N(B)
+Purpose | Delineation and production of Bangestan reservoir
+Ground Level Elevation | 230 m
+Rotary Table Elevation | 238 m
+Wellhead Coordinates | E: 447,602 m    N: 3,328,139 m
+Coring Interval | Nil
+Total Depth | 5054 m (into Kazhdumi Fm.)
+Well Type | Vertical / Producer / Delineation
+Moving Duration | 8 Days
+Est. Spud Date | Will be specified
+Est. Well Duration | 160 Days
+
+[جدول 3]
+E012 Well Information
+Company | NISOC
+Contractor | P.E.D.C
+Country / Area | Iran / Khuzestan
+Field | Siah Makan
+Well Name | E012
+Purpose | Delineation and production of Pabdeh Formation
+Ground Level Elevation | 174.45 m
+Rotary Table Elevation | 182 m
+Wellhead Coordinates | E: 446,413 m    N: 3,323,463 m
+Coring Interval | Nil
+Total Depth | 4424 m (into Sarvak Fm. Zone 7)
+Well Type | Vertical / Producer / Delineation
+Moving Duration | 8 Days
+Est. Spud Date | Will be specified
+Est. Well Duration | 170 Days
+
+[جدول 4]
+W065(B) Well Information
+Company | NISOC
+Contractor | P.E.D.C
+Country / Area | Iran / Khuzestan
+Field | Siah Makan
+Well Name | W065(B)
+Purpose | Delineation and production of Bangestan reservoir
+Ground Level Elevation | 196.5 m
+Rotary Table Elevation | 204 m
+Wellhead Coordinates | E: 444,363 m    N: 3,330,862 m
+Coring Interval | Nil
+Total Depth | 5132 m (into Kazhdumi Fm.)
+Well Type | Vertical / Producer / Delineation
+Moving Duration | 8 Days
+Est. Spud Date | Will be specified
+Est. Well Duration | 160 Days
+
+[جدول 5]
+ | Bangestan | Upper Asmari | Lower Asmari & Pabdeh
+Oil Pressure (psi) | 6500 | 4800 | 7900
+Water Pressure (psi) | - | 5014 | -
+Gas Pressure (psi) | No Gas Cap | No Gas Cap | No Gas Cap
+Oil Gradient (psi/ft) | 0.25 | 0.35* | 0.35*
+Water Gradient (psi/ft) | - | 0.5* | -
+Gas Gradient (psi/ft) | - | - | -
+GOC (m s.s.d) | No Gas Cap | No Gas Cap | No Gas Cap
+WOC (m s.s.d) | 4580 | 2950* | 3500*
+H2S Content (Mole%) | 0.56% | Unknown | Unknown
+CO2 (Mole%) | 3.24% | Unknown | Unknown
+Salinity (PPM) | - | 248,000 | -
+Res. Temp @ Ref. Depth (F) | 289 | 243 | 243
+API° | 39 | 20.5 | 22*
+Gas Ref. Depth (m s.s.d) | - | - | -
+Oil Ref. Depth (m s.s.d) | 4422 | 2876 | 3340
+Water Ref. Depth (m s.s.d) | - | 3081 | -
+
+[جدول 6]
+Well Name/Location | Well Classification | Well Type | Wellhead Coordinates | Total Depth (m) | G.O.C (m.s.s.d) | O.W.C (m.s.s.d) | G.L.E (m) | R.T.E (m) | Nearby Well
+Well Name/Location | Well Classification | Well Type | East | North | Total Depth (m) | G.O.C (m.s.s.d) | O.W.C (m.s.s.d) | G.L.E (m) | R.T.E (m) | Nearby Well
+W014N(B) | Del/P | V | 446,310 | 3,325,959 | 5057 | - | -4580 | 271.13 | 279 | 1,2,3,4
+W036N(B) | Del/P | V | 447,602 | 3,328,139 | 5054 | - | -4580 | 230 | 238 | 1,2,3,4
+
+[جدول 7]
+Well Name/Location | Well Classification | Well Type | Wellhead Coordinates | Total Depth (m) | G.O.C (m.s.s.d) | O.W.C (m.s.s.d) | G.L.E (m) | R.T.E (m) | Nearby Well
+Well Name/Location | Well Classification | Well Type | East | North | Total Depth (m) | G.O.C (m.s.s.d) | O.W.C (m.s.s.d) | G.L.E (m) | R.T.E (m) | Nearby Well
+E012 | P/Del. | V | 446,413 | 3,323,463 | 4424m | ― | ― | 174.45 | 182 | 1,3,4
+
+[جدول 8]
+Well Name/Location | Well Classification | Well Type | Wellhead Coordinates | Total Depth (m) | G.O.C (m.s.s.d) | O.W.C (m.s.s.d) | G.L.E (m) | R.T.E (m) | Nearby Well
+Well Name/Location | Well Classification | Well Type | East | North | Total Depth (m) | G.O.C (m.s.s.d) | O.W.C (m.s.s.d) | G.L.E (m) | R.T.E (m) | Nearby Well
+W065(B) | Del/P | V | 444,363 | 3,330,862 | 5132 | - | -4580 | 196.5 | 204 | 2
+
+[جدول 9]
+Drilling Operation TBD  Field: Siah Makan      Well: W014N(B)     (Reservoir: Bangestan)
+Operation | Operation | Interval (meter) | depth  (meter) | ROP (MPH) | Time Duration (hr) | Contingency | Time duration (day) | hole section duration (day) | Total duration (day)
+26" HOLE SECTION
+P/U & M/U 26" R.Bit#1 (IADC CODE: 1-1-1), BHA#1 & RIH to ±8m, tag bottom | Trip | 0 | 8 | 0.0 | 6.0 | 0% | 0.25 | 5.14 | 0.25
+Drilling  F/8m to 150m Casing Point, Run Totco @ BTM | Drlg | 142 | 150 | 4.0 | 35.5 | 15% | 1.70 | 5.14 | 1.95
+Circ Btm's Up, Pump Pill & Sweep Hole Clean | Mud Circ | 0 | 150 | 0.0 | 1.0 | 10% | 0.05 | 5.14 | 2.00
+Condition hole to Run Csg. | Hole Condition | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.18
+POOH to Surface & L/D R.Bit #1 | Trip | 0 | 150 | 0.0 | 3.0 | 10% | 0.14 | 5.14 | 2.32
+R/U & Run 18-5/8" Casing to ±150m | Csg Running | 0 | 150 | 0.0 | 8.0 | 10% | 0.37 | 5.14 | 2.68
+RIH with cement Stinger, Circulate and Pump cement slurry as per cement program | Cementing | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.87
+WOC to get hard and meanwhile perform top job(s) to fill annulus if needed | WOC | 0 | 150 | 0.0 | 6.0 | 10% | 0.28 | 5.14 | 3.14
+Cut 30" conductor pipe, Cut & Beveled 18 5/8" Casing, Install 20 3/4"- 3K C.H.H (Outlet valve should be adjusted as per Client  Instruction) | WH NU/ND | 0 | 150 | 0.0 | 10.0 | 10% | 0.46 | 5.14 | 3.60
+N/U 20-3/4", 3K BOP Stack as per drilling program | WH NU/ND | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.15
+BOP Test as Policy. | BOP Test | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.70
+P/U & M/U BHA#2 & 17-1/2" R.Bit#2 (IADC: 1-1-5 OR 1-3-5), drill out 18 5/8" shoe & Cement. | D/O Cmt | 0 | 150 | 0.0 | 5.0 | 10% | 0.23 | 5.14 | 4.93
+Rig Service (1 Hr/Day) | Rig Service | 0 | 150 | 0.0 | 4.9 | 0% | 0.21 | 5.14 | 5.14
+17 1/2" HOLE SECTION
+Drilling 17-1/2" hole to exit STB from Csg. | Drlg | 20 | 170 | 1.5 | 13.3 | 10% | 0.61 | 31.45 | 5.75
+Cont. Drlg 17-1/2" hole W/ R.Bit #2 to 590m | Drlg | 420 | 590 | 10.0 | 42.0 | 10% | 1.93 | 31.45 | 7.67
+Circulate, Sweep hole clean, Perform Hole condition and run totco | Hole Condition | 0 | 590 | 0.0 | 6.0 | 10% | 0.28 | 31.45 | 7.95
+Cont. Drilling 17-1/2" hole to 990m | Drlg | 400 | 990 | 7.0 | 57.1 | 10% | 2.62 | 31.45 | 10.57
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 990 | 0.0 | 6.0 | 10% | 0.28 | 31.45 | 10.84
+POOH while pump out to change the bit to PDC Bit#3, Back to BTM | Trip | 0 | 990 | 0.0 | 16.0 | 10% | 0.73 | 31.45 | 11.57
+Drilling 17-1/2" hole to 1508m with PDC Bit#3. | Drlg | 518 | 1,508 | 7.0 | 74.0 | 10% | 3.39 | 31.45 | 14.97
+Circulate, Sweep hole clean, | Hole Condition | 0 | 1,508 | 0.0 | 8.0 | 10% | 0.37 | 31.45 | 15.33
+Cont. Drilling 17-1/2" hole F/ 1508 to 2008m with PDC Bit#3 | Drlg | 500 | 2,008 | 7.0 | 71.4 | 10% | 3.27 | 31.45 | 18.61
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 2,008 | 0.0 | 8.0 | 10% | 0.37 | 31.45 | 18.97
+POOH while pump out to change the bit to PDC Bit#4, Back to BTM | Trip | 0 | 2,008 | 0.0 | 16.0 | 10% | 0.73 | 31.45 | 19.71
+Drilling 17-1/2" hole to 2677m (section TD) with PDC Bit#4. | Drlg | 669 | 2,677 | 6.0 | 111.5 | 10% | 5.11 | 31.45 | 24.82
+Circulate, Sweep hole clean, Perform Hole condition and spot Hi. VIS Water loss CTRL @ BTM & Drop Totco | Hole Condition | 0 | 2,677 | 0.0 | 10.0 | 10% | 0.46 | 31.45 | 25.28
+POOH to surface and L/D BHA. | Trip | 0 | 2,677 | 0.0 | 10.0 | 10% | 0.46 | 31.45 | 25.73
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,677 | 0.0 | 5.0 | 10% | 0.23 | 31.45 | 25.96
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 31.45 | 26.51
+N/D Shooting Nipple, Change Top Rams and Test Same. | BOP Test | 0 | 2,677 | 0.0 | 6.0 | 10% | 0.28 | 31.45 | 26.79
+Perform condition trip. Spot pill. Prepare for CSG Running. | Trip | 0 | 2,677 | 0.0 | 20.0 | 10% | 0.92 | 31.45 | 27.70
+R/U Csg Running Tools & Run 13-3/8" casing to bottom | Csg Running | 0 | 2,677 | 0.0 | 30.0 | 10% | 1.38 | 31.45 | 29.08
+R/U Cement Lines and Test same w/ 3000psi, Mix and Pump Cement as Program. | Cementing | 0 | 2,677 | 0.0 | 7.0 | 10% | 0.32 | 31.45 | 29.40
+Lift BOP & Set 13-3/8" Casing Slips, Test Slips, Lift BOP,  CUT & L/D landing joint. N/D BOP | NU/ND | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 31.45 | 29.95
+N/U 20 3/4", 3K x 13-5/8", 5K CHS, Meanwhile Fill the 13-3/8" annulus if needed. | NU/ND | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 31.45 | 30.50
+N/U 13-5/8", 5K BOP Stack. | NU/ND | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 31.45 | 31.05
+BOP Test as Policy. | BOP Test | 0 | 2,677 | 0.0 | 6.0 | 10% | 0.28 | 31.45 | 31.33
+P/U & M/U 12-1/4" R.Bit#5 (IADC: 1-3-7 OR 1-2-4), W/ New BHA (with junk sub), RIH to F.Collar While RIH With New 5" D.P JT by JT | Trip | 0 | 2,677 | 0.0 | 26.0 | 10% | 1.19 | 31.45 | 32.52
+Drill out shoe track & cement. | D/O Cmt | 0 | 2,677 | 0.0 | 6.0 | 10% | 0.28 | 31.45 | 32.79
+Circ Btm's Up and Displace w/ New Heavy Weight Mud, Cir. & Shear Mud | Mud Circ | 0 | 2,677 | 0.0 | 10.0 | 10% | 0.46 | 31.45 | 33.25
+Drlg 12-1/4" Rat hole W/ R.Bit#5 to 2702m. | Drlg | 25 | 2,702 | 3.0 | 8.3 | 10% | 0.38 | 31.45 | 33.63
+Work on junk sub, circulate clean hole | Mud Circ | 0 | 2,702 | 0.0 | 2.0 | 10% | 0.09 | 31.45 | 33.72
+POOH To Surface. | Trip | 0 | 2,702 | 0.0 | 12.0 | 10% | 0.55 | 31.45 | 34.27
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,702 | 0.0 | 5.0 | 10% | 0.23 | 31.45 | 34.50
+R/U Wire Line Logging and Perform Radial Cement Bond log from 13 3/8" casing. | Logging | 0 | 2,702 | 0.0 | 12.0 | 10% | 0.55 | 31.45 | 35.05
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 2,702 | 0.0 | 6.0 | 10% | 0.28 | 31.45 | 35.33
+Rig Service (1 Hr/Day) | Rig Service | 0 | 2,702 | 0.0 | 30.2 | 0% | 1.26 | 31.45 | 36.59
+12 1/4" HOLE SECTION
+M/U 12-1/4" PDC Bit#6 & RIH to bottom. | Trip | 0 | 2,702 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 37.14
+Cont Drlg 12-1/4" hole W/ PDC Bit#6  to 3013m | Drlg | 311 | 3,013 | 3.0 | 103.7 | 15% | 4.97 | 22.55 | 42.10
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,013 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 42.65
+POOH to Surface, Check Bit, RIH to bottom. | Trip | 0 | 3,013 | 0.0 | 24.0 | 10% | 1.10 | 22.55 | 43.75
+Cont Drlg 12-1/4" W/ PDC Bit#6 hole to 3313m | Drlg | 300 | 3,313 | 3.0 | 100.0 | 15% | 4.79 | 22.55 | 48.54
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 49.09
+POOH to Surface, L/D Bit. | Trip | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 49.64
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,313 | 0.0 | 5.0 | 10% | 0.23 | 22.55 | 49.87
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 50.42
+N/D Shooting Nipple,Change Top Rams  to 9-5/8" & Perform BOP test. | BOP Test | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 22.55 | 50.70
+R/U Csg Running Equipment, Run 9-5/8" casing to bottom | Csg Running | 0 | 3,313 | 0.0 | 36.0 | 10% | 1.65 | 22.55 | 52.35
+L/U Lines & Test w/ 3000 psi, Cement 9-5/8" casing as program | Cementing | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 22.55 | 52.62
+Lift BOP & Set 9-5/8" casing slips, Test Slips, hang up BOP, cut & dress 9-5/8" casing, N/D BOP | NU/ND | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 53.17
+N/U 13-5/8", 5K x 11",10K THS. N/U 13-5/8", 10K BOP, Change Top Rams to 5" | NU/ND | 0 | 3,313 | 0.0 | 18.0 | 10% | 0.83 | 22.55 | 54.00
+BOP Test as Policy. | BOP Test | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 22.55 | 54.27
+P/U & M/U 8-3/8" R.Bit#7 (IADC: 2-1-4) with New BHA & junk sub, RIH While M/U new 5" D.P | Trip | 0 | 3,313 | 0.0 | 28.0 | 10% | 1.28 | 22.55 | 55.56
+Drill out Shoe Track & Cement. | D/O Cmt | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 22.55 | 55.83
+Drlg 8-3/8" hole to 3338m to Exit S.Stabilizer | Drlg | 25 | 3,338 | 3.0 | 8.3 | 10% | 0.38 | 22.55 | 56.21
+Displace Heavy Wt. Mud in Hole w/ New Mud | Circ | 0 | 3,338 | 0.0 | 6.0 | 10% | 0.28 | 22.55 | 56.49
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 3,338 | 0.0 | 3.0 | 10% | 0.14 | 22.55 | 56.63
+POOH to Surface. | Trip | 0 | 3,338 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 57.18
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,338 | 0.0 | 5.0 | 10% | 0.23 | 22.55 | 57.41
+R/U Wire Line Logging and Perform Radial Cement Bond log from 9 5/8" casing. | Logging | 0 | 3,338 | 0.0 | 12.0 | 10% | 0.55 | 22.55 | 57.96
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 3,338 | 0.0 | 6.0 | 10% | 0.28 | 22.55 | 58.23
+Rig Service (1 Hr/Day) | Rig Service | 0 | 3,338 | 0.0 | 21.6 | 0% | 0.90 | 22.55 | 59.13
+8 3/8" HOLE SECTION
+P/U & M/U 8-3/8" New PDC Bit #8 and RIH to BTM | Trip | 0 | 3,338 | 0.0 | 12.0 | 10% | 0.55 | 36.30 | 59.68
+Drilling 8-3/8" hole to 3149m. | Drlg | 330 | 3,668 | 3.0 | 110.0 | 15% | 5.27 | 36.30 | 64.95
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 3,668 | 0.0 | 2.0 | 10% | 0.09 | 36.30 | 65.05
+POOH to Surface, Check Bit, RIH to bottom. | Trip | 0 | 3,668 | 0.0 | 26.0 | 10% | 1.19 | 36.30 | 66.24
+Cont Drlg 8-3/8" W/ PDC Bit#8 hole to 3968m | Drlg | 300 | 3,968 | 3.0 | 100.0 | 15% | 4.79 | 36.30 | 71.03
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,968 | 0.0 | 14.0 | 10% | 0.64 | 36.30 | 71.67
+POOH to Surface, L/D Bit, RIH to bottom W/ New PDC Bit#9. | Trip | 0 | 3,968 | 0.0 | 28.0 | 10% | 1.28 | 36.30 | 72.95
+Cont Drlg 8-3/8" W/ PDC Bit#9 hole to 4314m (section TD). | Drlg | 346 | 4,314 | 3.0 | 115.3 | 15% | 5.53 | 36.30 | 78.48
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 36.30 | 79.12
+POOH to Surface, L/D Bit. | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 36.30 | 79.76
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 4,314 | 0.0 | 5.0 | 10% | 0.23 | 36.30 | 79.99
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 36.30 | 80.63
+N/D Shooting Nipple,Change Top Rams  to 7" & Perform BOP test. | BOP Test | 0 | 4,314 | 0.0 | 6.0 | 10% | 0.28 | 36.30 | 80.91
+Run 7” liner at top of Ilam formation as per program (60m liner lap) | Csg Running | 0 | 4,314 | 0.0 | 35.0 | 15% | 1.68 | 36.30 | 82.59
+Perform cementing job of 7" Liner. | Cementing | 0 | 4,314 | 0.0 | 6.0 | 15% | 0.29 | 36.30 | 82.87
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 4,314 | 0.0 | 14.0 | 15% | 0.67 | 36.30 | 83.54
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 4,314 | 0.0 | 6.0 | 15% | 0.29 | 36.30 | 83.83
+RIH W/ 8-3/8" Used R.Bit#10 and Tag CMT Top. | D/O | 0 | 4,314 | 0.0 | 12.0 | 15% | 0.58 | 36.30 | 84.41
+Drill out & clean well to 7" liner lap @3253m. While Pump H.V Pill periodically, | D/O | 0 | 4,314 | 0.0 | 10.0 | 15% | 0.48 | 36.30 | 84.89
+Cir. BTMs UP , Flow check & POOH to surface while L/D extra 5" Drill pipe and 8-3/8" BHA. | D/O | 0 | 4,314 | 0.0 | 18.0 | 15% | 0.86 | 36.30 | 85.75
+M/U 6" NEW R.Bit#11, New BHA & RIH w/ 3-1/2" D.P Jt by Jt, Clean inside 7" Liner to LDC. | Trip | 0 | 4,314 | 0.0 | 22.0 | 10% | 1.01 | 36.30 | 86.76
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 4,314 | 0.0 | 4.0 | 10% | 0.18 | 36.30 | 86.94
+Cont POOH to Surface & L/D 6" R.BIT. | Trip | 0 | 4,314 | 0.0 | 12.0 | 10% | 0.55 | 36.30 | 87.49
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 4,314 | 0.0 | 72.0 | 15% | 3.45 | 36.30 | 90.94
+M/U 6" R.Bit#11, New BHA & RIH W/ 3-1/2" D.P, RIH to 7" Liner LDC. | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 36.30 | 91.58
+D/O LDC, Shoe Track, Collar, Shoe | D/O | 0 | 4,314 | 0.0 | 6.0 | 15% | 0.29 | 36.30 | 91.87
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 4,314 | 0.0 | 2.0 | 10% | 0.09 | 36.30 | 91.96
+POOH to Surface. | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 36.30 | 92.60
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 4,314 | 0.0 | 6.0 | 10% | 0.28 | 36.30 | 92.88
+R/U Wire Line and Run Radial Cement Bond log from 7" Liner. | Logging | 0 | 4,314 | 0.0 | 18.0 | 10% | 0.83 | 36.30 | 93.70
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 4,314 | 0.0 | 6.0 | 10% | 0.28 | 36.30 | 93.98
+Rig Service (1 Hr/Day) | Rig Service | 0 | 4,314 | 0.0 | 34.8 | 0% | 1.45 | 36.30 | 95.43
+6" HOLE SECTION
+P/U & M/U 6" New PDC Bit #12 and RIH to BTM | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 74.76 | 96.07
+Drilling 6" hole to 4765m. | Drlg | 451 | 4,765 | 2.0 | 225.5 | 15% | 10.81 | 74.76 | 106.88
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 4,765 | 0.0 | 2.0 | 15% | 0.10 | 74.76 | 106.97
+POOH to Surface, L/D Bit | Trip | 0 | 4,765 | 0.0 | 14.0 | 10% | 0.64 | 74.76 | 107.61
+RIH with Coring BHA & Core Bit and perform coring operation from Sarvak zones 8, 9, 10 and 11 (272m, about 10 run). | Coring | 272 | 5,037 | 1.0 | 552.0 | 15% | 26.45 | 74.76 | 134.06
+RIH W/ 6" used R.Bit#11 and perform wiper trip & hole condition in coring interval and continue drilling to 5057m (TD). | Drlg | 20 | 5,057 | 2.0 | 34.0 | 15% | 1.63 | 74.76 | 135.69
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 5,057 | 0.0 | 16.0 | 10% | 0.73 | 74.76 | 136.43
+POOH to Surface, L/D Bit. | Trip | 0 | 5,057 | 0.0 | 14.0 | 10% | 0.64 | 74.76 | 137.07
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 5,057 | 0.0 | 5.0 | 10% | 0.23 | 74.76 | 137.30
+Take Full suite/ Image / CDR-GR Logs, R/D logging Tools, Change Rams | Logging | 0 | 5,057 | 0.0 | 48.0 | 15% | 2.30 | 74.76 | 139.60
+RIH with condition BHA & Perform Hole condition and spot Hi. Vis pill @ BTM, POOH to surface and L/D BHA. | Hole Condition | 0 | 5,057 | 0.0 | 32.0 | 15% | 1.53 | 74.76 | 141.13
+Change Top Rams  to 5" & Perform BOP test. | BOP Test | 0 | 5,057 | 0.0 | 5.0 | 10% | 0.23 | 74.76 | 141.36
+Run 5” liner as per program (60m liner lap) | Csg Running | 0 | 5,057 | 0.0 | 35.0 | 15% | 1.68 | 74.76 | 143.04
+Perform cementing job of 5" Liner. | Cementing | 0 | 5,057 | 0.0 | 6.0 | 15% | 0.29 | 74.76 | 143.32
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 5,057 | 0.0 | 14.0 | 15% | 0.67 | 74.76 | 144.00
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 5,057 | 0.0 | 6.0 | 15% | 0.29 | 74.76 | 144.28
+RIH W/ 6" Used R.Bit#11 and Tag CMT Top. | D/O | 0 | 5,057 | 0.0 | 12.0 | 15% | 0.58 | 74.76 | 144.86
+Drill out & clean well to 5" liner lap @4254m. While Pump H.V Pill periodically, | D/O | 0 | 5,057 | 0.0 | 10.0 | 15% | 0.48 | 74.76 | 145.34
+Cir. BTMs UP , Flow check & POOH to surface while L/D 6" BHA. | D/O | 0 | 5,057 | 0.0 | 16.0 | 15% | 0.77 | 74.76 | 146.10
+M/U 4 1/8" E.Mill, New BHA & RIH W/ 2 7/8" D.P, Clean inside 5" Liner to LDC. | Trip | 0 | 5,057 | 0.0 | 24.0 | 10% | 1.10 | 74.76 | 147.20
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 5,057 | 0.0 | 4.0 | 10% | 0.18 | 74.76 | 147.39
+Cont POOH to Surface & L/D 4 1/8" E.Mill. | Trip | 0 | 5,057 | 0.0 | 12.0 | 10% | 0.55 | 74.76 | 147.94
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 5,057 | 0.0 | 72.0 | 15% | 3.45 | 74.76 | 151.39
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 5,057 | 0.0 | 6.0 | 10% | 0.28 | 74.76 | 151.66
+R/U Wire Line and Run Radial Cement Bond log from 5" Liner. | Logging | 0 | 5,057 | 0.0 | 18.0 | 10% | 0.83 | 74.76 | 152.49
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 5,057 | 0.0 | 6.0 | 10% | 0.28 | 74.76 | 152.76
+R/U Perforation tools and perforate 5" Liner (Perf. Interval: 100m) | Perfortion | 0 | 5,057 | 0.0 | 24.0 | 15% | 1.15 | 74.76 | 153.91
+P/U 4-1/8"Junk Mill and check and dress perforation interval. Displace completion fluid in well and POOH | Lower Completion | 0 | 5,057 | 0.0 | 24.0 | 15% | 1.15 | 74.76 | 155.06
+RIH with 6" Bit and scraper, scrape completion string PKR setting Depth. POOH | Completion | 0 | 5,057 | 0.0 | 24.0 | 10% | 1.10 | 74.76 | 156.16
+RIH W/ 4 1/2" completion String and set the PKRS | Completion | 0 | 5,057 | 0.0 | 70.0 | 15% | 3.35 | 74.76 | 159.52
+N/D BOP, N/U X mas-tree and test same | N/U W.H | 0 | 5,057 | 0.0 | 24.0 | 10% | 1.10 | 74.76 | 160.62
+RIH W/CT and lift the well by N2 | Stimulation | 0 | 5,057 | 0.0 | 24.0 | 15% | 1.15 | 74.76 | 161.77
+RIH with CT against Perforation and inject Acid to Formation, POOH with CT to above SSD & pump N2 to lift the well POOH to Surface. | Acidizing | 0 | 5,057 | 0.0 | 30.0 | 15% | 1.44 | 74.76 | 163.20
+Flow the well | Clean up | 0 | 5,057 | 0.0 | 72.0 | 15% | 3.45 | 74.76 | 166.65
+Secure the well and release the rig | Secure Well | 0 | 5,057 | 0.0 | 12.0 | 10% | 0.55 | 74.76 | 167.20
+Rig Service (1 Hr/Day) | Rig Service | 0 | 5,057 | 0.0 | 71.8 | 0% | 2.99 | 74.76 | 170.19
+Total Operation Time (Days) | 170
+
+[جدول 10]
+Drilling Operation TBD    Field: Siah Makan      Well: W036N(B)     (Reservoir: Bangestan)
+Operation | Operation | Interval (meter) | depth  (meter) | ROP (MPH) | Time Duration (hr) | Contingency | Time duration (day) | hole section duration (day) | Total duration (day)
+26" HOLE SECTION
+P/U & M/U 26" R.Bit#1 (IADC CODE: 1-1-1), BHA#1 & RIH to ±8m, tag bottom | Trip | 0 | 8 | 0.0 | 6.0 | 0% | 0.25 | 5.14 | 0.25
+Drilling  F/8m to 150m Casing Point, Run Totco @ BTM | Drlg | 142 | 150 | 4.0 | 35.5 | 15% | 1.70 | 5.14 | 1.95
+Circ Btm's Up, Pump Pill & Sweep Hole Clean | Mud Circ | 0 | 150 | 0.0 | 1.0 | 10% | 0.05 | 5.14 | 2.00
+Condition hole to Run Csg. | Hole Condition | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.18
+POOH to Surface & L/D R.Bit #1 | Trip | 0 | 150 | 0.0 | 3.0 | 10% | 0.14 | 5.14 | 2.32
+R/U & Run 18-5/8" Casing to ±150m | Csg Running | 0 | 150 | 0.0 | 8.0 | 10% | 0.37 | 5.14 | 2.68
+RIH with cement Stinger, Circulate and Pump cement slurry as per cement program | Cementing | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.87
+WOC to get hard and meanwhile perform top job(s) to fill annulus if needed | WOC | 0 | 150 | 0.0 | 6.0 | 10% | 0.28 | 5.14 | 3.14
+Cut 30" conductor pipe, Cut & Beveled 18 5/8" Casing, Install 20 3/4"- 3K C.H.H (Outlet valve should be adjusted as per Client  Instruction) | WH NU/ND | 0 | 150 | 0.0 | 10.0 | 10% | 0.46 | 5.14 | 3.60
+N/U 20-3/4", 3K BOP Stack as per drilling program | WH NU/ND | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.15
+BOP Test as Policy. | BOP Test | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.70
+P/U & M/U BHA#2 & 17-1/2" R.Bit#2 (IADC: 1-1-5 OR 1-3-5), drill out 18 5/8" shoe & Cement. | D/O Cmt | 0 | 150 | 0.0 | 5.0 | 10% | 0.23 | 5.14 | 4.93
+Rig Service (1 Hr/Day) | Rig Service | 0 | 150 | 0.0 | 4.9 | 0% | 0.21 | 5.14 | 5.14
+17 1/2" HOLE SECTION
+Drilling 17-1/2" hole to exit STB from Csg. | Drlg | 20 | 170 | 1.5 | 13.3 | 10% | 0.61 | 33.28 | 5.75
+Cont. Drlg 17-1/2" hole W/ R.Bit #2 to 590m | Drlg | 420 | 590 | 10.0 | 42.0 | 10% | 1.93 | 33.28 | 7.67
+Circulate, Sweep hole clean, Perform Hole condition and run totco | Hole Condition | 0 | 590 | 0.0 | 6.0 | 10% | 0.28 | 33.28 | 7.95
+Cont. Drilling 17-1/2" hole to 990m | Drlg | 400 | 990 | 7.0 | 57.1 | 10% | 2.62 | 33.28 | 10.57
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 990 | 0.0 | 6.0 | 10% | 0.28 | 33.28 | 10.84
+POOH while pump out to change the bit to PDC Bit#3, Back to BTM | Trip | 0 | 990 | 0.0 | 16.0 | 10% | 0.73 | 33.28 | 11.57
+Drilling 17-1/2" hole to 1508m with PDC Bit#3. | Drlg | 518 | 1,508 | 6.0 | 86.3 | 10% | 3.96 | 33.28 | 15.53
+Circulate, Sweep hole clean, | Hole Condition | 0 | 1,508 | 0.0 | 8.0 | 10% | 0.37 | 33.28 | 15.90
+Cont. Drilling 17-1/2" hole F/ 1508 to 2008m with PDC Bit#3 | Drlg | 500 | 2,008 | 6.0 | 83.3 | 10% | 3.82 | 33.28 | 19.72
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 2,008 | 0.0 | 8.0 | 10% | 0.37 | 33.28 | 20.08
+POOH while pump out to change the bit to PDC Bit#4, Back to BTM | Trip | 0 | 2,008 | 0.0 | 24.0 | 10% | 1.10 | 33.28 | 21.18
+Drilling 17-1/2" hole to 2677m (section TD) with PDC Bit#4. | Drlg | 669 | 2,677 | 6.0 | 111.5 | 10% | 5.11 | 33.28 | 26.29
+Circulate, Sweep hole clean, Perform Hole condition and spot Hi. VIS Water loss CTRL @ BTM & Drop Totco | Hole Condition | 0 | 2,677 | 0.0 | 10.0 | 10% | 0.46 | 33.28 | 26.75
+POOH to surface and L/D BHA. | Trip | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 33.28 | 27.30
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,677 | 0.0 | 5.0 | 10% | 0.23 | 33.28 | 27.53
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 33.28 | 28.08
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 2,677 | 0.0 | 6.0 | 10% | 0.28 | 33.28 | 28.36
+Perform condition trip. Spot pill. Prepare for CSG Running. | Trip | 0 | 2,677 | 0.0 | 24.0 | 10% | 1.10 | 33.28 | 29.46
+R/U Csg Running Tools & Run 13-3/8" casing to bottom | Csg Running | 0 | 2,677 | 0.0 | 30.0 | 10% | 1.38 | 33.28 | 30.83
+R/U Cement Lines and Test same w/ 3000psi, Mix and Pump Cement as Program. | Cementing | 0 | 2,677 | 0.0 | 7.0 | 10% | 0.32 | 33.28 | 31.15
+Lift BOP & Set 13-3/8" Casing Slips, Test Slips, Lift BOP,  CUT & L/D landing joint. N/D BOP | NU/ND | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 33.28 | 31.70
+N/U 20 3/4", 3K x 13-5/8", 5K CHS, Meanwhile Fill the 13-3/8" annulus if needed. | NU/ND | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 33.28 | 32.25
+N/U 13-5/8", 5K BOP Stack. | NU/ND | 0 | 2,677 | 0.0 | 12.0 | 10% | 0.55 | 33.28 | 32.80
+BOP Test as Policy. | BOP Test | 0 | 2,677 | 0.0 | 6.0 | 10% | 0.28 | 33.28 | 33.08
+P/U & M/U 12-1/4" R.Bit#5 (IADC: 1-3-7 OR 1-2-4), W/ New BHA (with junk sub), RIH to F.Collar While RIH With New 5" D.P JT by JT | Trip | 0 | 2,677 | 0.0 | 26.0 | 10% | 1.19 | 33.28 | 34.27
+Drill out shoe track & cement. | D/O Cmt | 0 | 2,677 | 0.0 | 6.0 | 10% | 0.28 | 33.28 | 34.54
+Circ Btm's Up and Displace w/ New Heavy Weight Mud, Cir. & Shear Mud | Mud Circ | 0 | 2,677 | 0.0 | 10.0 | 10% | 0.46 | 33.28 | 35.00
+Drlg 12-1/4" Rat hole W/ R.Bit#5 to 2702m. | Drlg | 25 | 2,702 | 3.0 | 8.3 | 10% | 0.38 | 33.28 | 35.38
+Work on junk sub, circulate clean hole | Mud Circ | 0 | 2,702 | 0.0 | 2.0 | 10% | 0.09 | 33.28 | 35.48
+POOH To Surface. | Trip | 0 | 2,702 | 0.0 | 12.0 | 10% | 0.55 | 33.28 | 36.03
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,702 | 0.0 | 5.0 | 10% | 0.23 | 33.28 | 36.26
+R/U Wire Line Logging and Perform Radial Cement Bond log from 13 3/8" casing. | Logging | 0 | 2,702 | 0.0 | 12.0 | 10% | 0.55 | 33.28 | 36.81
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 2,702 | 0.0 | 6.0 | 10% | 0.28 | 33.28 | 37.08
+Rig Service (1 Hr/Day) | Rig Service | 0 | 2,702 | 0.0 | 31.9 | 0% | 1.33 | 33.28 | 38.41
+12 1/4" HOLE SECTION
+M/U 12-1/4" PDC Bit#6 & RIH to bottom. | Trip | 0 | 2,702 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 38.96
+Cont Drlg 12-1/4" hole W/ PDC Bit#6  to 3013m | Drlg | 311 | 3,013 | 3.0 | 103.7 | 10% | 4.75 | 21.91 | 43.71
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,013 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 44.26
+POOH to Surface, Check Bit, RIH to bottom. | Trip | 0 | 3,013 | 0.0 | 24.0 | 10% | 1.10 | 21.91 | 45.36
+Cont Drlg 12-1/4" W/ PDC Bit#6 hole to 3313m | Drlg | 300 | 3,313 | 3.0 | 100.0 | 10% | 4.58 | 21.91 | 49.95
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 50.50
+POOH to Surface, L/D Bit. | Trip | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 51.05
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,313 | 0.0 | 5.0 | 10% | 0.23 | 21.91 | 51.28
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 51.83
+N/D Shooting Nipple,Change Top Rams  to 9-5/8" & Perform BOP test. | BOP Test | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 21.91 | 52.10
+R/U Csg Running Equipment, Run 9-5/8" casing to bottom | Csg Running | 0 | 3,313 | 0.0 | 36.0 | 10% | 1.65 | 21.91 | 53.75
+L/U Lines & Test w/ 3000 psi, Cement 9-5/8" casing as program | Cementing | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 21.91 | 54.03
+Lift BOP & Set 9-5/8" casing slips, Test Slips, hang up BOP, cut & dress 9-5/8" casing, N/D BOP | NU/ND | 0 | 3,313 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 54.58
+N/U 13-5/8", 5K x 11",10K THS. N/U 13-5/8", 10K BOP, Change Top Rams to 5" | NU/ND | 0 | 3,313 | 0.0 | 18.0 | 10% | 0.83 | 21.91 | 55.40
+BOP Test as Policy. | BOP Test | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 21.91 | 55.68
+P/U & M/U 8-3/8" R.Bit#7 (IADC: 2-1-4) with New BHA & junk sub, RIH While M/U new 5" D.P | Trip | 0 | 3,313 | 0.0 | 24.0 | 10% | 1.10 | 21.91 | 56.78
+Drill out Shoe Track & Cement. | D/O Cmt | 0 | 3,313 | 0.0 | 6.0 | 10% | 0.28 | 21.91 | 57.05
+Drlg 8-3/8" hole to 3338m to Exit S.Stabilizer | Drlg | 25 | 3,338 | 3.0 | 8.3 | 10% | 0.38 | 21.91 | 57.43
+Displace Heavy Wt. Mud in Hole w/ New Mud | Circ | 0 | 3,338 | 0.0 | 6.0 | 10% | 0.28 | 21.91 | 57.71
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 3,338 | 0.0 | 3.0 | 10% | 0.14 | 21.91 | 57.84
+POOH to Surface. | Trip | 0 | 3,338 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 58.39
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,338 | 0.0 | 5.0 | 10% | 0.23 | 21.91 | 58.62
+R/U Wire Line Logging and Perform Radial Cement Bond log from 9 5/8" casing. | Logging | 0 | 3,338 | 0.0 | 12.0 | 10% | 0.55 | 21.91 | 59.17
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 3,338 | 0.0 | 6.0 | 10% | 0.28 | 21.91 | 59.45
+Rig Service (1 Hr/Day) | Rig Service | 0 | 3,338 | 0.0 | 21.0 | 0% | 0.88 | 21.91 | 60.33
+8 3/8" HOLE SECTION
+P/U & M/U 8-3/8" New PDC Bit #8 and RIH to BTM | Trip | 0 | 3,338 | 0.0 | 12.0 | 10% | 0.55 | 44.42 | 60.88
+Drilling 8-3/8" hole to 3149m. | Drlg | 330 | 3,668 | 2.0 | 165.0 | 15% | 7.91 | 44.42 | 68.78
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 3,668 | 0.0 | 2.0 | 10% | 0.09 | 44.42 | 68.87
+POOH to Surface, Check Bit, RIH to bottom. | Trip | 0 | 3,668 | 0.0 | 26.0 | 10% | 1.19 | 44.42 | 70.07
+Cont Drlg 8-3/8" W/ PDC Bit#8 hole to 3968m | Drlg | 300 | 3,968 | 2.0 | 150.0 | 15% | 7.19 | 44.42 | 77.25
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,968 | 0.0 | 14.0 | 10% | 0.64 | 44.42 | 77.89
+POOH to Surface, L/D Bit, RIH to bottom W/ New PDC Bit#9. | Trip | 0 | 3,968 | 0.0 | 28.0 | 10% | 1.28 | 44.42 | 79.18
+Cont Drlg 8-3/8" W/ PDC Bit#9 hole to 4314m (section TD). | Drlg | 346 | 4,314 | 2.0 | 173.0 | 15% | 8.29 | 44.42 | 87.47
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 44.42 | 88.11
+POOH to Surface, L/D Bit. | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 44.42 | 88.75
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 4,314 | 0.0 | 5.0 | 10% | 0.23 | 44.42 | 88.98
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 44.42 | 89.62
+N/D Shooting Nipple,Change Top Rams  to 7" & Perform BOP test. | BOP Test | 0 | 4,314 | 0.0 | 6.0 | 10% | 0.28 | 44.42 | 89.90
+Run 7” liner at top of Ilam formation as per program (60m liner lap) | Csg Running | 0 | 4,314 | 0.0 | 35.0 | 15% | 1.68 | 44.42 | 91.57
+Perform cementing job of 7" Liner. | Cementing | 0 | 4,314 | 0.0 | 6.0 | 15% | 0.29 | 44.42 | 91.86
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 4,314 | 0.0 | 14.0 | 15% | 0.67 | 44.42 | 92.53
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 4,314 | 0.0 | 6.0 | 15% | 0.29 | 44.42 | 92.82
+RIH W/ 8-3/8" Used R.Bit#10 and Tag CMT Top. | D/O | 0 | 4,314 | 0.0 | 12.0 | 15% | 0.58 | 44.42 | 93.39
+Drill out & clean well to 7" liner lap @3253m. While Pump H.V Pill periodically, | D/O | 0 | 4,314 | 0.0 | 10.0 | 15% | 0.48 | 44.42 | 93.87
+Cir. BTMs UP , Flow check & POOH to surface while L/D extra 5" Drill pipe and 8-3/8" BHA. | D/O | 0 | 4,314 | 0.0 | 18.0 | 15% | 0.86 | 44.42 | 94.74
+M/U 6" NEW R.Bit#11, New BHA & RIH w/ 3-1/2" D.P Jt by Jt, Clean inside 7" Liner to LDC. | Trip | 0 | 4,314 | 0.0 | 22.0 | 10% | 1.01 | 44.42 | 95.74
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 4,314 | 0.0 | 4.0 | 10% | 0.18 | 44.42 | 95.93
+Cont POOH to Surface & L/D 6" R.BIT. | Trip | 0 | 4,314 | 0.0 | 12.0 | 10% | 0.55 | 44.42 | 96.48
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 4,314 | 0.0 | 72.0 | 15% | 3.45 | 44.42 | 99.93
+M/U 6" R.Bit#11, New BHA & RIH W/ 3-1/2" D.P, RIH to 7" Liner LDC. | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 44.42 | 100.57
+D/O LDC, Shoe Track, Collar, Shoe | D/O | 0 | 4,314 | 0.0 | 6.0 | 15% | 0.29 | 44.42 | 100.86
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 4,314 | 0.0 | 2.0 | 10% | 0.09 | 44.42 | 100.95
+POOH to Surface. | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 44.42 | 101.59
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 4,314 | 0.0 | 6.0 | 10% | 0.28 | 44.42 | 101.87
+R/U Wire Line and Run Radial Cement Bond log from 7" Liner. | Logging | 0 | 4,314 | 0.0 | 18.0 | 10% | 0.83 | 44.42 | 102.69
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 4,314 | 0.0 | 6.0 | 10% | 0.28 | 44.42 | 102.97
+Rig Service (1 Hr/Day) | Rig Service | 0 | 4,314 | 0.0 | 42.6 | 0% | 1.78 | 44.42 | 104.74
+6" HOLE SECTION
+P/U & M/U 6" New PDC Bit #12 and RIH to BTM | Trip | 0 | 4,314 | 0.0 | 14.0 | 10% | 0.64 | 55.42 | 105.38
+Drilling 6" hole to 4684m. | Drlg | 370 | 4,684 | 3.0 | 123.3 | 15% | 5.91 | 55.42 | 111.29
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 4,684 | 0.0 | 2.0 | 10% | 0.09 | 55.42 | 111.38
+POOH to Surface, L/D Bit, RIH to bottom W/ New PDC Bit#13. | Trip | 0 | 4,684 | 0.0 | 28.0 | 10% | 1.28 | 55.42 | 112.67
+Cont. Drilling W/ 6" PDC Bit#13 to 5054m (TD). | Drlg | 370 | 5,054 | 2.0 | 185.0 | 15% | 8.86 | 55.42 | 121.53
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 5,054 | 0.0 | 16.0 | 10% | 0.73 | 55.42 | 122.27
+POOH to Surface, L/D Bit. | Trip | 0 | 5,054 | 0.0 | 14.0 | 10% | 0.64 | 55.42 | 122.91
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 5,054 | 0.0 | 5.0 | 10% | 0.23 | 55.42 | 123.14
+Take Full suite/ Image / CDR-GR Logs, R/D logging Tools, Change Rams | Logging | 0 | 5,054 | 0.0 | 72.0 | 15% | 3.45 | 55.42 | 126.59
+Perform Hole condition and spot Hi-Vis pill @ BTM, POOH to surface and L/D BHA. | Hole Condition | 0 | 5,054 | 0.0 | 32.0 | 10% | 1.47 | 55.42 | 128.05
+Change rams to take logs, R/U shooting Nipple, take RFT using slim tool inside Bangestan (40 point), R/D shooting Nipple | Test | 0 | 5,054 | 0.0 | 30.0 | 15% | 1.44 | 55.42 | 129.49
+RIH with condition BHA & Perform Hole condition and spot Hi. Vis pill @ BTM, POOH to surface and L/D BHA. | Hole Condition | 0 | 5,054 | 0.0 | 30.0 | 10% | 1.38 | 55.42 | 130.87
+Change Top Rams  to 5" & Perform BOP test. | BOP Test | 0 | 5,054 | 0.0 | 5.0 | 10% | 0.23 | 55.42 | 131.10
+Run 5” liner as per program (60m liner lap) | Csg Running | 0 | 5,054 | 0.0 | 30.0 | 15% | 1.44 | 55.42 | 132.53
+Perform cementing job of 5" Liner. | Cementing | 0 | 5,054 | 0.0 | 6.0 | 15% | 0.29 | 55.42 | 132.82
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 5,054 | 0.0 | 14.0 | 15% | 0.67 | 55.42 | 133.49
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 5,054 | 0.0 | 6.0 | 15% | 0.29 | 55.42 | 133.78
+RIH W/ 6" Used R.Bit#11 and Tag CMT Top. | D/O | 0 | 5,054 | 0.0 | 12.0 | 15% | 0.58 | 55.42 | 134.35
+Drill out & clean well to 5" liner lap @4254m. While Pump H.V Pill periodically, | D/O | 0 | 5,054 | 0.0 | 10.0 | 15% | 0.48 | 55.42 | 134.83
+Cir. BTMs UP , Flow check & POOH to surface while L/D 6" BHA. | D/O | 0 | 5,054 | 0.0 | 16.0 | 15% | 0.77 | 55.42 | 135.60
+M/U 4 1/8" E.Mill, New BHA & RIH W/ 2 7/8" D.P, Clean inside 5" Liner to LDC. | Trip | 0 | 5,054 | 0.0 | 24.0 | 10% | 1.10 | 55.42 | 136.70
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 5,054 | 0.0 | 4.0 | 10% | 0.18 | 55.42 | 136.88
+Cont POOH to Surface & L/D 4 1/8" E.Mill. | Trip | 0 | 5,054 | 0.0 | 12.0 | 10% | 0.55 | 55.42 | 137.43
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 5,054 | 0.0 | 72.0 | 15% | 3.45 | 55.42 | 140.88
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 5,054 | 0.0 | 6.0 | 10% | 0.28 | 55.42 | 141.16
+R/U Wire Line and Run Radial Cement Bond log from 5" Liner. | Logging | 0 | 5,054 | 0.0 | 18.0 | 10% | 0.83 | 55.42 | 141.98
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 5,054 | 0.0 | 6.0 | 10% | 0.28 | 55.42 | 142.26
+R/U Perforation tools and perforate 5" Liner (Perf. Interval: 50m) | Perfortion | 0 | 5,054 | 0.0 | 24.0 | 15% | 1.15 | 55.42 | 143.41
+P/U 4-1/8"Junk Mill and check and dress perforation interval. Displace completion fluid in well and POOH | Lower Completion | 0 | 5,054 | 0.0 | 24.0 | 15% | 1.15 | 55.42 | 144.56
+RIH with 6" Bit and scraper, scrape completion string PKR setting Depth. POOH | Completion | 0 | 5,054 | 0.0 | 24.0 | 10% | 1.10 | 55.42 | 145.66
+RIH W/ 4 1/2" completion String and set the PKRS | Completion | 0 | 5,054 | 0.0 | 90.0 | 15% | 4.31 | 55.42 | 149.97
+N/D BOP, N/U X mas-tree and test same | N/U W.H | 0 | 5,054 | 0.0 | 24.0 | 10% | 1.10 | 55.42 | 151.07
+RIH W/CT and lift the well by N2 | Stimulation | 0 | 5,054 | 0.0 | 30.0 | 15% | 1.44 | 55.42 | 152.51
+RIH with CT against Perforation and inject Acid to Formation, POOH with CT to above SSD & pump N2 to lift the well POOH to Surface. | Acidizing | 0 | 5,054 | 0.0 | 30.0 | 15% | 1.44 | 55.42 | 153.95
+Flow the well | Clean up | 0 | 5,054 | 0.0 | 72.0 | 15% | 3.45 | 55.42 | 157.40
+Secure the well and release the rig | Secure Well | 0 | 5,054 | 0.0 | 12.0 | 10% | 0.55 | 55.42 | 157.95
+Rig Service (1 Hr/Day) | Rig Service | 0 | 5,054 | 0.0 | 53.2 | 0% | 2.22 | 55.42 | 160.16
+Total Operation Time (Days) | 160
+
+[جدول 11]
+Drilling Operation Step by Step Time Break down    Field: Siah Makan      Well: E012     (Reservoir: Pabdeh / Bangestan)
+Operation | Operation | Interval (meter) | depth  (meter) | ROP (MPH) | Time Duration (hr) | Contingency | Time duration (day) | hole section duration (day) | Total duration (day)
+26" HOLE SECTION
+P/U & M/U 26" R.Bit#1 (IADC CODE: 1-1-1), BHA#1 & RIH to ±8m, tag bottom | Trip | 0 | 8 | 0.0 | 6.0 | 0% | 0.25 | 5.14 | 0.25
+Drilling  F/8m to 150m Casing Point, Run Totco @ BTM | Drlg | 142 | 150 | 4.0 | 35.5 | 15% | 1.70 | 5.14 | 1.95
+Circ Btm's Up, Pump Pill & Sweep Hole Clean | Mud Circ | 0 | 150 | 0.0 | 1.0 | 10% | 0.05 | 5.14 | 2.00
+Condition hole to Run Csg. | Hole Condition | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.18
+POOH to Surface & L/D R.Bit #1 | Trip | 0 | 150 | 0.0 | 3.0 | 10% | 0.14 | 5.14 | 2.32
+R/U & Run 18-5/8" Casing to ±150m | Csg Running | 0 | 150 | 0.0 | 8.0 | 10% | 0.37 | 5.14 | 2.68
+RIH with cement Stinger, Circulate and Pump cement slurry as per cement program | Cementing | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.87
+WOC to get hard and meanwhile perform top job(s) to fill annulus if needed | WOC | 0 | 150 | 0.0 | 6.0 | 10% | 0.28 | 5.14 | 3.14
+Cut 30" conductor pipe, Cut & Beveled 18 5/8" Casing, Install 20 3/4"- 3K C.H.H (Outlet valve should be adjusted as per Client  Instruction) | WH NU/ND | 0 | 150 | 0.0 | 10.0 | 10% | 0.46 | 5.14 | 3.60
+N/U 20-3/4", 3K BOP Stack as per drilling program | WH NU/ND | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.15
+BOP Test as Policy. | BOP Test | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.70
+P/U & M/U BHA#2 & 17-1/2" R.Bit#2 (IADC: 1-1-5 OR 1-3-5), drill out 18 5/8" shoe & Cement. | D/O Cmt | 0 | 150 | 0.0 | 5.0 | 10% | 0.23 | 5.14 | 4.93
+Rig Service (1 Hr/Day) | Rig Service | 0 | 150 | 0.0 | 4.9 | 0% | 0.21 | 5.14 | 5.14
+17 1/2" HOLE SECTION
+Drilling 17-1/2" hole to exit STB from Csg. | Drlg | 20 | 170 | 1.5 | 13.3 | 10% | 0.61 | 29.69 | 5.75
+Cont. Drlg 17-1/2" hole W/ R.Bit #2 to 580m | Drlg | 410 | 580 | 10.0 | 41.0 | 10% | 1.88 | 29.69 | 7.63
+Circulate, Sweep hole clean, Perform Hole condition and run totco | Hole Condition | 0 | 580 | 0.0 | 6.0 | 10% | 0.28 | 29.69 | 7.90
+Cont. Drilling 17-1/2" hole to 980m | Drlg | 400 | 980 | 7.0 | 57.1 | 10% | 2.62 | 29.69 | 10.52
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 980 | 0.0 | 6.0 | 10% | 0.28 | 29.69 | 10.79
+POOH while pump out to change the bit to PDC Bit#3, Back to BTM | Trip | 0 | 980 | 0.0 | 16.0 | 10% | 0.73 | 29.69 | 11.53
+Drilling 17-1/2" hole to 1480m with PDC Bit#3. | Drlg | 500 | 1,480 | 7.0 | 71.4 | 10% | 3.27 | 29.69 | 14.80
+Circulate, Sweep hole clean, | Hole Condition | 0 | 1,480 | 0.0 | 8.0 | 10% | 0.37 | 29.69 | 15.17
+Cont. Drilling 17-1/2" hole F/ 1480 to 1880m with PDC Bit#3 | Drlg | 400 | 1,880 | 7.0 | 57.1 | 10% | 2.62 | 29.69 | 17.79
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 1,880 | 0.0 | 8.0 | 10% | 0.37 | 29.69 | 18.15
+POOH while pump out to change the bit to PDC Bit#4, Back to BTM | Trip | 0 | 1,880 | 0.0 | 24.0 | 10% | 1.10 | 29.69 | 19.25
+Drilling 17-1/2" hole to 2380m (section TD) with PDC Bit#4. | Drlg | 500 | 2,380 | 7.0 | 71.4 | 10% | 3.27 | 29.69 | 22.53
+Circulate, Sweep hole clean, Perform Hole condition and spot Hi. VIS Water loss CTRL @ BTM & Drop Totco | Hole Condition | 0 | 2,380 | 0.0 | 10.0 | 10% | 0.46 | 29.69 | 22.99
+POOH to surface and L/D BHA. | Trip | 0 | 2,380 | 0.0 | 12.0 | 10% | 0.55 | 29.69 | 23.54
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,380 | 0.0 | 5.0 | 10% | 0.23 | 29.69 | 23.77
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 2,380 | 0.0 | 12.0 | 10% | 0.55 | 29.69 | 24.32
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 2,380 | 0.0 | 6.0 | 10% | 0.28 | 29.69 | 24.59
+Perform condition trip. Spot pill. Prepare for CSG Running. | Trip | 0 | 2,380 | 0.0 | 26.0 | 10% | 1.19 | 29.69 | 25.78
+R/U Csg Running Tools & Run 13-3/8" casing to bottom | Csg Running | 0 | 2,380 | 0.0 | 35.0 | 10% | 1.60 | 29.69 | 27.39
+R/U Cement Lines and Test same w/ 3000psi, Mix and Pump Cement as Program. | Cementing | 0 | 2,380 | 0.0 | 7.0 | 10% | 0.32 | 29.69 | 27.71
+Lift BOP & Set 13-3/8" Casing Slips, Test Slips, Lift BOP,  CUT & L/D landing joint. N/D BOP | NU/ND | 0 | 2,380 | 0.0 | 12.0 | 10% | 0.55 | 29.69 | 28.26
+N/U 20 3/4", 3K x 13-5/8", 5K CHS, Meanwhile Fill the 13-3/8" annulus if needed. | NU/ND | 0 | 2,380 | 0.0 | 12.0 | 10% | 0.55 | 29.69 | 28.81
+N/U 13-5/8", 5K BOP Stack. | NU/ND | 0 | 2,380 | 0.0 | 12.0 | 10% | 0.55 | 29.69 | 29.36
+BOP Test as Policy. | BOP Test | 0 | 2,380 | 0.0 | 6.0 | 10% | 0.28 | 29.69 | 29.63
+P/U & M/U 12-1/4" R.Bit#5 (IADC: 1-3-7 OR 1-2-4), W/ New BHA (with junk sub), RIH to F.Collar While RIH With New 5" D.P JT by JT | Trip | 0 | 2,380 | 0.0 | 26.0 | 10% | 1.19 | 29.69 | 30.82
+Drill out shoe track & cement. | D/O Cmt | 0 | 2,380 | 0.0 | 6.0 | 10% | 0.28 | 29.69 | 31.10
+Circ Btm's Up and Displace w/ New Heavy Weight Mud, Cir. & Shear Mud | Mud Circ | 0 | 2,380 | 0.0 | 10.0 | 10% | 0.46 | 29.69 | 31.56
+Drlg 12-1/4" Rat hole W/ R.Bit#5 to 2405m. | Drlg | 25 | 2,405 | 3.0 | 8.3 | 10% | 0.38 | 29.69 | 31.94
+Work on junk sub, circulate clean hole | Mud Circ | 0 | 2,405 | 0.0 | 2.0 | 10% | 0.09 | 29.69 | 32.03
+POOH To Surface. | Trip | 0 | 2,405 | 0.0 | 12.0 | 10% | 0.55 | 29.69 | 32.58
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,405 | 0.0 | 5.0 | 10% | 0.23 | 29.69 | 32.81
+R/U Wire Line Logging and Perform Radial Cement Bond log from 13 3/8" casing. | Logging | 0 | 2,405 | 0.0 | 12.0 | 10% | 0.55 | 29.69 | 33.36
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 2,405 | 0.0 | 6.0 | 10% | 0.28 | 29.69 | 33.64
+Rig Service (1 Hr/Day) | Rig Service | 0 | 2,405 | 0.0 | 28.5 | 0% | 1.19 | 29.69 | 34.82
+12 1/4" HOLE SECTION
+M/U 12-1/4" PDC Bit#6 & RIH to bottom. | Trip | 0 | 2,405 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 35.37
+Cont Drlg 12-1/4" hole W/ PDC Bit#6  to 2726m | Drlg | 321 | 2,726 | 3.0 | 107.0 | 10% | 4.90 | 23.35 | 40.28
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 2,726 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 40.83
+POOH to Surface, Check Bit, RIH to bottom. | Trip | 0 | 2,726 | 0.0 | 24.0 | 10% | 1.10 | 23.35 | 41.93
+Cont Drlg 12-1/4" W/ PDC Bit#6 hole to 3076m | Drlg | 350 | 3,076 | 3.0 | 116.7 | 10% | 5.35 | 23.35 | 47.27
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,076 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 47.82
+POOH to Surface, L/D Bit. | Trip | 0 | 3,076 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 48.37
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,076 | 0.0 | 5.0 | 10% | 0.23 | 23.35 | 48.60
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 3,076 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 49.15
+N/D Shooting Nipple,Change Top Rams  to 9-5/8" & Perform BOP test. | BOP Test | 0 | 3,076 | 0.0 | 6.0 | 10% | 0.28 | 23.35 | 49.43
+R/U Csg Running Equipment, Run 9-5/8" casing to bottom | Csg Running | 0 | 3,076 | 0.0 | 42.0 | 10% | 1.93 | 23.35 | 51.35
+L/U Lines & Test w/ 3000 psi, Cement 9-5/8" casing as program | Cementing | 0 | 3,076 | 0.0 | 6.0 | 10% | 0.28 | 23.35 | 51.63
+Lift BOP & Set 9-5/8" casing slips, Test Slips, hang up BOP, cut & dress 9-5/8" casing, N/D BOP | NU/ND | 0 | 3,076 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 52.18
+N/U 13-5/8", 5K x 11",10K THS. N/U 13-5/8", 10K BOP, Change Top Rams to 5" | NU/ND | 0 | 3,076 | 0.0 | 18.0 | 10% | 0.83 | 23.35 | 53.00
+BOP Test as Policy. | BOP Test | 0 | 3,076 | 0.0 | 6.0 | 10% | 0.28 | 23.35 | 53.28
+P/U & M/U 8-3/8" R.Bit#7 (IADC: 2-1-4) with New BHA & junk sub, RIH While M/U new 5" D.P | Trip | 0 | 3,076 | 0.0 | 28.0 | 10% | 1.28 | 23.35 | 54.56
+Drill out Shoe Track & Cement. | D/O Cmt | 0 | 3,076 | 0.0 | 6.0 | 10% | 0.28 | 23.35 | 54.84
+Drlg 8-3/8" hole to 3101m to Exit S.Stabilizer | Drlg | 25 | 3,101 | 3.0 | 8.3 | 10% | 0.38 | 23.35 | 55.22
+Displace Heavy Wt. Mud in Hole w/ New Mud | Circ | 0 | 3,101 | 0.0 | 6.0 | 10% | 0.28 | 23.35 | 55.49
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 3,101 | 0.0 | 3.0 | 10% | 0.14 | 23.35 | 55.63
+POOH to Surface. | Trip | 0 | 3,101 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 56.18
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,101 | 0.0 | 5.0 | 10% | 0.23 | 23.35 | 56.41
+R/U Wire Line Logging and Perform Radial Cement Bond log from 9 5/8" casing. | Logging | 0 | 3,101 | 0.0 | 12.0 | 10% | 0.55 | 23.35 | 56.96
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 3,101 | 0.0 | 6.0 | 10% | 0.28 | 23.35 | 57.24
+Rig Service (1 Hr/Day) | Rig Service | 0 | 3,101 | 0.0 | 22.4 | 0% | 0.93 | 23.35 | 58.17
+8 3/8" HOLE SECTION
+P/U & M/U 8-3/8" New PDC Bit #8 and RIH to BTM | Trip | 0 | 3,101 | 0.0 | 12.0 | 10% | 0.55 | 53.42 | 58.72
+Drilling 8-3/8" hole to 3142m. | Drlg | 41 | 3,142 | 3.0 | 13.7 | 15% | 0.65 | 53.42 | 59.37
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 3,142 | 0.0 | 2.0 | 10% | 0.09 | 53.42 | 59.47
+POOH to Surface, L/D Bit. | Trip | 0 | 3,142 | 0.0 | 12.0 | 10% | 0.55 | 53.42 | 60.02
+RIH W/Scraper and scrap PKR Setting depth, POOH | Test | 0 | 3,142 | 0.0 | 24.0 | 10% | 1.10 | 53.42 | 61.12
+RIH with DST Tools and set the packer | Test | 0 | 3,142 | 0.0 | 24.0 | 10% | 1.10 | 53.42 | 62.22
+Flow the well for 1 day and record well data (first 50m of Asmari formation) | Test | 0 | 3,142 | 0.0 | 24.0 | 10% | 1.10 | 53.42 | 63.32
+POOH to surface and L/D DST Tools | Test | 0 | 3,142 | 0.0 | 21.0 | 10% | 0.96 | 53.42 | 64.28
+RIH W/ PDC Bit#8 & BHA to BTM | Trip | 0 | 3,142 | 0.0 | 12.0 | 10% | 0.55 | 53.42 | 64.83
+Cont Drlg 8-3/8" W/ PDC Bit#8 hole to 3342m | Drlg | 200 | 3,342 | 3.0 | 66.7 | 15% | 3.19 | 53.42 | 68.02
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,342 | 0.0 | 14.0 | 10% | 0.64 | 53.42 | 68.66
+POOH to Surface, Check Bit, RIH to bottom. | Trip | 0 | 3,342 | 0.0 | 24.0 | 10% | 1.10 | 53.42 | 69.76
+Cont Drlg 8-3/8" hole W/ PDC Bit#8 to 3555m (section TD). | Drlg | 213 | 3,555 | 3.0 | 71.0 | 15% | 3.40 | 53.42 | 73.17
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,555 | 0.0 | 14.0 | 10% | 0.64 | 53.42 | 73.81
+POOH to Surface, L/D Bit. | Trip | 0 | 3,555 | 0.0 | 12.0 | 10% | 0.55 | 53.42 | 74.36
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,555 | 0.0 | 5.0 | 10% | 0.23 | 53.42 | 74.59
+R/U Wire Line Logging and Perform RFT (40 points) using dual packer (4 point) and fluid type determinant tool (6 point or interval). R/D logging Tools Change Rams. | Logging | 0 | 3,555 | 0.0 | 30.0 | 15% | 1.44 | 53.42 | 76.02
+Perform Hole condition and spot Hi-Vis pill @ BTM, POOH to surface and L/D BHA. | Hole Condition | 0 | 3,555 | 0.0 | 32.0 | 10% | 1.47 | 53.42 | 77.49
+Change rams to take logs, R/U shooting Nipple, Running full suite logs with Image log (in Asmari and first 80 m of Pabdeh) and CDR/GR from surface to TD. | Logging | 0 | 3,555 | 0.0 | 72.0 | 15% | 3.45 | 53.42 | 80.94
+N/D Shooting Nipple,Change Top Rams  to 7" & Perform BOP test. | BOP Test | 0 | 3,555 | 0.0 | 6.0 | 10% | 0.28 | 53.42 | 81.22
+Run 7” liner at 20m inside Pabdeh formation as per program (60m liner lap) | Csg Running | 0 | 3,555 | 0.0 | 35.0 | 15% | 1.68 | 53.42 | 82.89
+Perform cementing job of 7" Liner. | Cementing | 0 | 3,555 | 0.0 | 6.0 | 15% | 0.29 | 53.42 | 83.18
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 3,555 | 0.0 | 14.0 | 15% | 0.67 | 53.42 | 83.85
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 3,555 | 0.0 | 6.0 | 15% | 0.29 | 53.42 | 84.14
+RIH W/ 8-3/8" Used R.Bit#9 and Tag CMT Top. | D/O | 0 | 3,555 | 0.0 | 12.0 | 15% | 0.58 | 53.42 | 84.71
+Drill out & clean well to 7" liner lap @3016m. While Pump H.V Pill periodically, | D/O | 0 | 3,555 | 0.0 | 10.0 | 15% | 0.48 | 53.42 | 85.19
+Cir. BTMs UP , Flow check & POOH to surface while L/D extra 5" Drill pipe and 8-3/8" BHA. | D/O | 0 | 3,555 | 0.0 | 18.0 | 15% | 0.86 | 53.42 | 86.06
+M/U 6" NEW R.Bit#10, New BHA & RIH w/ 3-1/2" D.P Jt by Jt, Clean inside 7" Liner to LDC. | Trip | 0 | 3,555 | 0.0 | 22.0 | 10% | 1.01 | 53.42 | 87.06
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 3,555 | 0.0 | 4.0 | 10% | 0.18 | 53.42 | 87.25
+Cont POOH to Surface & L/D 6" R.BIT. | Trip | 0 | 3,555 | 0.0 | 12.0 | 10% | 0.55 | 53.42 | 87.80
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 3,555 | 0.0 | 72.0 | 15% | 3.45 | 53.42 | 91.25
+M/U 6" R.Bit#10, New BHA & RIH W/ 3-1/2" D.P, RIH to 7" Liner LDC. | Trip | 0 | 3,555 | 0.0 | 14.0 | 15% | 0.67 | 53.42 | 91.92
+D/O LDC, Shoe Track, Collar up to 5m above 7” shoe. | D/O | 0 | 3,555 | 0.0 | 6.0 | 15% | 0.29 | 53.42 | 92.21
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 3,555 | 0.0 | 2.0 | 10% | 0.09 | 53.42 | 92.30
+POOH to Surface. | Trip | 0 | 3,555 | 0.0 | 14.0 | 10% | 0.64 | 53.42 | 92.94
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 3,555 | 0.0 | 6.0 | 10% | 0.28 | 53.42 | 93.21
+R/U Wire Line and Run Radial Cement Bond log from 7" Liner. | Logging | 0 | 3,555 | 0.0 | 18.0 | 10% | 0.83 | 53.42 | 94.04
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 3,555 | 0.0 | 6.0 | 10% | 0.28 | 53.42 | 94.31
+M/U 6" R.Bit#10, RIH w/ 3-1/2" D.P Jt by Jt, Clean well to final depth. (60m below 7" liner shoe) | D/O Cmt | 0 | 3,555 | 0.0 | 48.0 | 15% | 2.30 | 53.42 | 96.61
+RIH with 8 3/8" Bit and scraper, scrape completion string PKR setting Depth. POOH | Completion | 0 | 3,555 | 0.0 | 24.0 | 10% | 1.10 | 53.42 | 97.71
+RIH W/ 4 1/2" completion String and set the PKRS | Completion | 0 | 3,555 | 0.0 | 90.0 | 15% | 4.31 | 53.42 | 102.03
+N/D BOP, N/U X mas-tree and test same | N/U W.H | 0 | 3,555 | 0.0 | 24.0 | 10% | 1.10 | 53.42 | 103.13
+RIH W/CT and lift the well by N2 | Stimulation | 0 | 3,555 | 0.0 | 30.0 | 15% | 1.44 | 53.42 | 104.56
+RIH with CT and inject Acid to Formation, POOH with CT to above SSD & pump N2 to lift the well POOH to Surface. | Acidizing | 0 | 3,555 | 0.0 | 30.0 | 15% | 1.44 | 53.42 | 106.00
+Flow the well | Clean up | 0 | 3,555 | 0.0 | 72.0 | 15% | 3.45 | 53.42 | 109.45
+Rig Service (1 Hr/Day) | Rig Service | 0 | 3,555 | 0.0 | 51.3 | 0% | 2.14 | 53.42 | 111.59
+6" HOLE SECTION (second scenario)
+N/D X mas-tree, N/U BOP and test same | N/D W.H | 0 | 3,555 | 0.0 | 24.0 | 10% | 1.10 | 58.72 | 112.69
+Pull out completion string | Decompletion | 0 | 3,555 | 0.0 | 90.0 | 15% | 4.31 | 58.72 | 117.00
+P/U & M/U 6" New PDC Bit #11 and RIH to BTM | Trip | 0 | 3,555 | 0.0 | 14.0 | 10% | 0.64 | 58.72 | 117.64
+Drilling 6" hole to 4005m. | Drlg | 450 | 4,005 | 3.0 | 150.0 | 15% | 7.19 | 58.72 | 124.83
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 4,005 | 0.0 | 2.0 | 10% | 0.09 | 58.72 | 124.92
+POOH to Surface, L/D Bit, RIH to bottom W/ New PDC Bit#12. | Trip | 0 | 4,005 | 0.0 | 28.0 | 10% | 1.28 | 58.72 | 126.21
+Cont. Drilling W/ 6" PDC Bit#12 to 4424m (TD, 20m inside Sarvak zone 7). | Drlg | 419 | 4,424 | 2.0 | 209.5 | 15% | 10.04 | 58.72 | 136.24
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 4,424 | 0.0 | 16.0 | 10% | 0.73 | 58.72 | 136.98
+POOH to Surface, L/D Bit. | Trip | 0 | 4,424 | 0.0 | 14.0 | 15% | 0.67 | 58.72 | 137.65
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 4,424 | 0.0 | 5.0 | 10% | 0.23 | 58.72 | 137.88
+Take Full suite/ Image / CDR-GR Logs, R/D logging Tools, Change Rams | Logging | 0 | 4,424 | 0.0 | 48.0 | 15% | 2.30 | 58.72 | 140.18
+RIH with condition BHA & Perform Hole condition and spot Hi. Vis pill @ BTM, POOH to surface and L/D BHA. | Hole Condition | 0 | 4,424 | 0.0 | 32.0 | 10% | 1.47 | 58.72 | 141.64
+Change Top Rams  to 5" & Perform BOP test. | BOP Test | 0 | 4,424 | 0.0 | 5.0 | 10% | 0.23 | 58.72 | 141.87
+Run 5” liner as per program (60m liner lap) | Csg Running | 0 | 4,424 | 0.0 | 35.0 | 15% | 1.68 | 58.72 | 143.55
+Perform cementing job of 5" Liner. | Cementing | 0 | 4,424 | 0.0 | 6.0 | 15% | 0.29 | 58.72 | 143.84
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 4,424 | 0.0 | 14.0 | 15% | 0.67 | 58.72 | 144.51
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 4,424 | 0.0 | 6.0 | 15% | 0.29 | 58.72 | 144.80
+RIH W/ 6" Used R.Bit#10 and Tag CMT Top. | D/O | 0 | 4,424 | 0.0 | 12.0 | 15% | 0.58 | 58.72 | 145.37
+Drill out & clean well to 5" liner lap @3435m. While Pump H.V Pill periodically, | D/O | 0 | 4,424 | 0.0 | 10.0 | 15% | 0.48 | 58.72 | 145.85
+Cir. BTMs UP , Flow check & POOH to surface while L/D 6" BHA. | D/O | 0 | 4,424 | 0.0 | 16.0 | 15% | 0.77 | 58.72 | 146.62
+M/U 4 1/8" E.Mill, New BHA & RIH W/ 2 7/8" D.P, Clean inside 5" Liner to LDC. | Trip | 0 | 4,424 | 0.0 | 24.0 | 10% | 1.10 | 58.72 | 147.72
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 4,424 | 0.0 | 4.0 | 10% | 0.18 | 58.72 | 147.90
+Cont POOH to Surface & L/D 4 1/8" E.Mill. | Trip | 0 | 4,424 | 0.0 | 12.0 | 10% | 0.55 | 58.72 | 148.45
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 4,424 | 0.0 | 72.0 | 15% | 3.45 | 58.72 | 151.90
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 4,424 | 0.0 | 6.0 | 10% | 0.28 | 58.72 | 152.17
+R/U Wire Line and Run Radial Cement Bond log from 5" Liner. | Logging | 0 | 4,424 | 0.0 | 18.0 | 10% | 0.83 | 58.72 | 153.00
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 4,424 | 0.0 | 6.0 | 10% | 0.28 | 58.72 | 153.27
+R/U Perforation tools and perforate 5" Liner (Perf. Interval: 70m) | Perfortion | 0 | 4,424 | 0.0 | 24.0 | 15% | 1.15 | 58.72 | 154.42
+P/U 4-1/8"Junk Mill and check and dress perforation interval. Displace completion fluid in well and POOH | Lower Completion | 0 | 4,424 | 0.0 | 24.0 | 15% | 1.15 | 58.72 | 155.57
+RIH with 6" Bit and scraper, scrape completion string PKR setting Depth. POOH | Completion | 0 | 4,424 | 0.0 | 24.0 | 10% | 1.10 | 58.72 | 156.67
+RIH W/ 4 1/2" completion String and set the PKRS | Completion | 0 | 4,424 | 0.0 | 75.0 | 15% | 3.59 | 58.72 | 160.27
+N/D BOP, N/U X mas-tree and test same | N/U W.H | 0 | 4,424 | 0.0 | 24.0 | 10% | 1.10 | 58.72 | 161.37
+RIH W/CT and lift the well by N2 | Stimulation | 0 | 4,424 | 0.0 | 24.0 | 15% | 1.15 | 58.72 | 162.52
+RIH with CT against Perforation and inject Acid to Formation, POOH with CT to above SSD & pump N2 to lift the well POOH to Surface. | Acidizing | 0 | 4,424 | 0.0 | 30.0 | 15% | 1.44 | 58.72 | 163.96
+Flow the well | Clean up | 0 | 4,424 | 0.0 | 72.0 | 15% | 3.45 | 58.72 | 167.41
+Secure the well and release the rig | Secure Well | 0 | 4,424 | 0.0 | 12.0 | 10% | 0.55 | 58.72 | 167.96
+Rig Service (1 Hr/Day) | Rig Service | 0 | 4,424 | 0.0 | 56.4 | 0% | 2.35 | 58.72 | 170.30
+Total Operation Time (Days) | 170
+
+[جدول 12]
+Drilling Operation Step by Step Time Break down    Field: Siah Makan      Well: W065     (Reservoir: Bangestan)
+Operation | Operation | Interval (meter) | depth  (meter) | ROP (MPH) | Time Duration (hr) | Contingency | Time duration (day) | hole section duration (day) | Total duration (day)
+26" HOLE SECTION
+P/U & M/U 26" R.Bit#1 (IADC CODE: 1-1-1), BHA#1 & RIH to ±8m, tag bottom | Trip | 0 | 8 | 0.0 | 6.0 | 0% | 0.25 | 5.14 | 0.25
+Drilling  F/8m to 150m Casing Point, Run Totco @ BTM | Drlg | 142 | 150 | 4.0 | 35.5 | 15% | 1.70 | 5.14 | 1.95
+Circ Btm's Up, Pump Pill & Sweep Hole Clean | Mud Circ | 0 | 150 | 0.0 | 1.0 | 10% | 0.05 | 5.14 | 2.00
+Condition hole to Run Csg. | Hole Condition | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.18
+POOH to Surface & L/D R.Bit #1 | Trip | 0 | 150 | 0.0 | 3.0 | 10% | 0.14 | 5.14 | 2.32
+R/U & Run 18-5/8" Casing to ±150m | Csg Running | 0 | 150 | 0.0 | 8.0 | 10% | 0.37 | 5.14 | 2.68
+RIH with cement Stinger, Circulate and Pump cement slurry as per cement program | Cementing | 0 | 150 | 0.0 | 4.0 | 10% | 0.18 | 5.14 | 2.87
+WOC to get hard and meanwhile perform top job(s) to fill annulus if needed | WOC | 0 | 150 | 0.0 | 6.0 | 10% | 0.28 | 5.14 | 3.14
+Cut 30" conductor pipe, Cut & Beveled 18 5/8" Casing, Install 20 3/4"- 3K C.H.H (Outlet valve should be adjusted as per Client  Instruction) | WH NU/ND | 0 | 150 | 0.0 | 10.0 | 10% | 0.46 | 5.14 | 3.60
+N/U 20-3/4", 3K BOP Stack as per drilling program | WH NU/ND | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.15
+BOP Test as Policy. | BOP Test | 0 | 150 | 0.0 | 12.0 | 10% | 0.55 | 5.14 | 4.70
+P/U & M/U BHA#2 & 17-1/2" R.Bit#2 (IADC: 1-1-5 OR 1-3-5), drill out 18 5/8" shoe & Cement. | D/O Cmt | 0 | 150 | 0.0 | 5.0 | 10% | 0.23 | 5.14 | 4.93
+Rig Service (1 Hr/Day) | Rig Service | 0 | 150 | 0.0 | 4.9 | 0% | 0.21 | 5.14 | 5.14
+17 1/2" HOLE SECTION
+Drilling 17-1/2" hole to exit STB from Csg. | Drlg | 20 | 170 | 1.5 | 13.3 | 10% | 0.61 | 35.63 | 5.75
+Cont. Drlg 17-1/2" hole W/ R.Bit #2 to 590m | Drlg | 420 | 590 | 10.0 | 42.0 | 10% | 1.93 | 35.63 | 7.67
+Circulate, Sweep hole clean, Perform Hole condition and run totco | Hole Condition | 0 | 590 | 0.0 | 6.0 | 10% | 0.28 | 35.63 | 7.95
+Cont. Drilling 17-1/2" hole to 990m | Drlg | 400 | 990 | 7.0 | 57.1 | 10% | 2.62 | 35.63 | 10.57
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 990 | 0.0 | 6.0 | 10% | 0.28 | 35.63 | 10.84
+POOH while pump out to change the bit to PDC Bit#3, Back to BTM | Trip | 0 | 990 | 0.0 | 16.0 | 10% | 0.73 | 35.63 | 11.57
+Drilling 17-1/2" hole to 1505m with PDC Bit#3. | Drlg | 515 | 1,505 | 7.0 | 73.6 | 10% | 3.37 | 35.63 | 14.95
+Circulate, Sweep hole clean. | Hole Condition | 0 | 1,505 | 0.0 | 8.0 | 10% | 0.37 | 35.63 | 15.31
+Cont. Drilling 17-1/2" hole F/ 1505 to 2005m with PDC Bit#3 | Drlg | 500 | 2,005 | 7.0 | 71.4 | 10% | 3.27 | 35.63 | 18.59
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 2,005 | 0.0 | 8.0 | 10% | 0.37 | 35.63 | 18.95
+POOH while pump out to change the bit to PDC Bit#4, Back to BTM | Trip | 0 | 2,005 | 0.0 | 24.0 | 10% | 1.10 | 35.63 | 20.05
+Drilling 17-1/2" hole to 2505m with PDC Bit#4. | Drlg | 500 | 2,505 | 7.0 | 71.4 | 10% | 3.27 | 35.63 | 23.33
+Circulate, Sweep hole clean and drop Totco | Hole Condition | 0 | 2,505 | 0.0 | 8.0 | 10% | 0.37 | 35.63 | 23.69
+POOH while pump out to change the bit to PDC Bit#4, Back to BTM | Trip | 0 | 2,505 | 0.0 | 24.0 | 10% | 1.10 | 35.63 | 24.79
+Drilling 17-1/2" hole to 2955m (section TD) with PDC Bit#4. | Drlg | 450 | 2,955 | 6.0 | 75.0 | 10% | 3.44 | 35.63 | 28.23
+Circulate, Sweep hole clean, Perform Hole condition and spot Hi. VIS Water loss CTRL @ BTM & Drop Totco | Hole Condition | 0 | 2,955 | 0.0 | 10.0 | 10% | 0.46 | 35.63 | 28.69
+POOH to surface and L/D BHA. | Trip | 0 | 2,955 | 0.0 | 12.0 | 10% | 0.55 | 35.63 | 29.24
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,955 | 0.0 | 5.0 | 10% | 0.23 | 35.63 | 29.47
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 2,955 | 0.0 | 12.0 | 10% | 0.55 | 35.63 | 30.02
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 2,955 | 0.0 | 6.0 | 10% | 0.28 | 35.63 | 30.29
+Perform condition trip. Spot pill. Prepare for CSG Running. | Trip | 0 | 2,955 | 0.0 | 26.0 | 10% | 1.19 | 35.63 | 31.49
+R/U Csg Running Tools & Run 13-3/8" casing to bottom | Csg Running | 0 | 2,955 | 0.0 | 35.0 | 10% | 1.60 | 35.63 | 33.09
+R/U Cement Lines and Test same w/ 3000psi, Mix and Pump Cement as Program. | Cementing | 0 | 2,955 | 0.0 | 7.0 | 10% | 0.32 | 35.63 | 33.41
+Lift BOP & Set 13-3/8" Casing Slips, Test Slips, Lift BOP,  CUT & L/D landing joint. N/D BOP | NU/ND | 0 | 2,955 | 0.0 | 12.0 | 10% | 0.55 | 35.63 | 33.96
+N/U 20 3/4", 3K x 13-5/8", 5K CHS, Meanwhile Fill the 13-3/8" annulus if needed. | NU/ND | 0 | 2,955 | 0.0 | 12.0 | 10% | 0.55 | 35.63 | 34.51
+N/U 13-5/8", 5K BOP Stack. | NU/ND | 0 | 2,955 | 0.0 | 12.0 | 10% | 0.55 | 35.63 | 35.06
+BOP Test as Policy. | BOP Test | 0 | 2,955 | 0.0 | 6.0 | 10% | 0.28 | 35.63 | 35.34
+P/U & M/U 12-1/4" R.Bit#5 (IADC: 1-3-7 OR 1-2-4), W/ New BHA (with junk sub), RIH to F.Collar While RIH With New 5" D.P JT by JT | Trip | 0 | 2,955 | 0.0 | 26.0 | 10% | 1.19 | 35.63 | 36.53
+Drill out shoe track & cement. | D/O Cmt | 0 | 2,955 | 0.0 | 6.0 | 10% | 0.28 | 35.63 | 36.80
+Circ Btm's Up and Displace w/ New Heavy Weight Mud, Cir. & Shear Mud | Mud Circ | 0 | 2,955 | 0.0 | 10.0 | 10% | 0.46 | 35.63 | 37.26
+Drlg 12-1/4" Rat hole W/ R.Bit#5 to 2702m. | Drlg | 25 | 2,980 | 3.0 | 8.3 | 10% | 0.38 | 35.63 | 37.64
+Work on junk sub, circulate clean hole | Mud Circ | 0 | 2,980 | 0.0 | 2.0 | 10% | 0.09 | 35.63 | 37.73
+POOH To Surface. | Trip | 0 | 2,980 | 0.0 | 12.0 | 10% | 0.55 | 35.63 | 38.28
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 2,980 | 0.0 | 5.0 | 10% | 0.23 | 35.63 | 38.51
+R/U Wire Line Logging and Perform Radial Cement Bond log from 13 3/8" casing. | Logging | 0 | 2,980 | 0.0 | 12.0 | 10% | 0.55 | 35.63 | 39.06
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 2,980 | 0.0 | 6.0 | 10% | 0.28 | 35.63 | 39.34
+Rig Service (1 Hr/Day) | Rig Service | 0 | 2,980 | 0.0 | 34.2 | 0% | 1.43 | 35.63 | 40.76
+12 1/4" HOLE SECTION
+M/U 12-1/4" PDC Bit#6 & RIH to bottom. | Trip | 0 | 2,980 | 0.0 | 12.0 | 10% | 0.55 | 14.18 | 41.31
+Cont Drlg 12-1/4" hole W/ PDC Bit#6  to 3183m (section TD). | Drlg | 203 | 3,183 | 3.0 | 67.7 | 10% | 3.10 | 14.18 | 44.41
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,183 | 0.0 | 12.0 | 10% | 0.55 | 14.18 | 44.96
+POOH to Surface, L/D Bit. | Trip | 0 | 3,183 | 0.0 | 12.0 | 10% | 0.55 | 14.18 | 45.51
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,183 | 0.0 | 5.0 | 10% | 0.23 | 14.18 | 45.74
+R/U Wire Line Logging and Perform CDR/GR Log. | Logging | 0 | 3,183 | 0.0 | 12.0 | 10% | 0.55 | 14.18 | 46.29
+N/D Shooting Nipple,Change Top Rams  to 9-5/8" & Perform BOP test. | BOP Test | 0 | 3,183 | 0.0 | 6.0 | 10% | 0.28 | 14.18 | 46.57
+R/U Csg Running Equipment, Run 9-5/8" casing to bottom | Csg Running | 0 | 3,183 | 0.0 | 42.0 | 10% | 1.93 | 14.18 | 48.49
+L/U Lines & Test w/ 3000 psi, Cement 9-5/8" casing as program | Cementing | 0 | 3,183 | 0.0 | 6.0 | 10% | 0.28 | 14.18 | 48.77
+Lift BOP & Set 9-5/8" casing slips, Test Slips, hang up BOP, cut & dress 9-5/8" casing, N/D BOP | NU/ND | 0 | 3,183 | 0.0 | 12.0 | 10% | 0.55 | 14.18 | 49.32
+N/U 13-5/8", 5K x 11",10K THS. N/U 13-5/8", 10K BOP, Change Top Rams to 5" | NU/ND | 0 | 3,183 | 0.0 | 18.0 | 10% | 0.83 | 14.18 | 50.14
+BOP Test as Policy. | BOP Test | 0 | 3,183 | 0.0 | 6.0 | 10% | 0.28 | 14.18 | 50.42
+P/U & M/U 8-3/8" R.Bit#7 (IADC: 2-1-4) with New BHA & junk sub, RIH While M/U new 5" D.P | Trip | 0 | 3,183 | 0.0 | 28.0 | 10% | 1.28 | 14.18 | 51.70
+Drill out Shoe Track & Cement. | D/O Cmt | 0 | 3,183 | 0.0 | 6.0 | 10% | 0.28 | 14.18 | 51.98
+Drlg 8-3/8" hole to 3208m to Exit S.Stabilizer | Drlg | 25 | 3,208 | 3.0 | 8.3 | 10% | 0.38 | 14.18 | 52.36
+Displace Heavy Wt. Mud in Hole w/ New Mud | Circ | 0 | 3,208 | 0.0 | 6.0 | 10% | 0.28 | 14.18 | 52.63
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 3,208 | 0.0 | 3.0 | 10% | 0.14 | 14.18 | 52.77
+POOH to Surface. | Trip | 0 | 3,208 | 0.0 | 12.0 | 10% | 0.55 | 14.18 | 53.32
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 3,208 | 0.0 | 5.0 | 10% | 0.23 | 14.18 | 53.55
+R/U Wire Line Logging and Perform Radial Cement Bond log from 9 5/8" casing. | Logging | 0 | 3,208 | 0.0 | 12.0 | 10% | 0.55 | 14.18 | 54.10
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 3,208 | 0.0 | 6.0 | 10% | 0.28 | 14.18 | 54.38
+Rig Service (1 Hr/Day) | Rig Service | 0 | 3,208 | 0.0 | 13.6 | 0% | 0.57 | 14.18 | 54.94
+8 3/8" HOLE SECTION
+P/U & M/U 8-3/8" New PDC Bit #8 and RIH to BTM | Trip | 0 | 3,208 | 0.0 | 12.0 | 10% | 0.55 | 46.88 | 55.49
+Drilling 8-3/8" hole to 3454m. (top 50 m of Asmari Formation) | Drlg | 246 | 3,454 | 3.0 | 82.0 | 15% | 3.93 | 46.88 | 59.42
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 3,454 | 0.0 | 2.0 | 10% | 0.09 | 46.88 | 59.51
+POOH to Surface, L/D Bit. | Trip | 0 | 3,454 | 0.0 | 12.0 | 10% | 0.55 | 46.88 | 60.06
+RIH W/Scraper and scrap PKR Setting depth, POOH | Test | 0 | 3,454 | 0.0 | 24.0 | 10% | 1.10 | 46.88 | 61.16
+RIH with DST Tools and set the packer | Test | 0 | 3,454 | 0.0 | 24.0 | 10% | 1.10 | 46.88 | 62.26
+Flow the well for 1 day and record well data (first 50m of Asmari formation) | Test | 0 | 3,454 | 0.0 | 24.0 | 10% | 1.10 | 46.88 | 63.36
+POOH to surface and L/D DST Tools | Test | 0 | 3,454 | 0.0 | 21.0 | 10% | 0.96 | 46.88 | 64.33
+RIH W/ PDC Bit#8 & BHA to BTM | Trip | 0 | 3,454 | 0.0 | 12.0 | 10% | 0.55 | 46.88 | 64.88
+Cont Drlg 8-3/8" W/ PDC Bit#8 hole to 3764m | Drlg | 310 | 3,764 | 3.0 | 103.3 | 15% | 4.95 | 46.88 | 69.83
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 3,764 | 0.0 | 14.0 | 10% | 0.64 | 46.88 | 70.47
+POOH to Surface, L/D Bit, RIH to bottom W/ New PDC Bit#9. | Trip | 0 | 3,764 | 0.0 | 28.0 | 10% | 1.28 | 46.88 | 71.75
+Cont Drlg 8-3/8" W/ PDC Bit#9 hole to 4064m. | Drlg | 300 | 4,064 | 3.0 | 100.0 | 15% | 4.79 | 46.88 | 76.54
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 4,064 | 0.0 | 14.0 | 10% | 0.64 | 46.88 | 77.19
+POOH to Surface, Check Bit, RIH to bottom. | Trip | 0 | 4,064 | 0.0 | 28.0 | 10% | 1.28 | 46.88 | 78.47
+Cont Drlg 8-3/8" W/ PDC Bit#9 hole to 4364m (section TD). | Drlg | 300 | 4,364 | 3.0 | 100.0 | 15% | 4.79 | 46.88 | 83.26
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 4,364 | 0.0 | 14.0 | 10% | 0.64 | 46.88 | 83.90
+POOH to Surface, L/D Bit. | Trip | 0 | 4,364 | 0.0 | 14.0 | 10% | 0.64 | 46.88 | 84.54
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 4,364 | 0.0 | 5.0 | 10% | 0.23 | 46.88 | 84.77
+R/U Wire Line Logging and Perform Full suite, CDR/GR Log. | Logging | 0 | 4,364 | 0.0 | 40.0 | 10% | 1.83 | 46.88 | 86.61
+N/D Shooting Nipple,Change Top Rams  to 7" & Perform BOP test. | BOP Test | 0 | 4,364 | 0.0 | 6.0 | 10% | 0.28 | 46.88 | 86.88
+Run 7” liner at top of Ilam formation as per program (60m liner lap) | Csg Running | 0 | 4,364 | 0.0 | 35.0 | 15% | 1.68 | 46.88 | 88.56
+Perform cementing job of 7" Liner. | Cementing | 0 | 4,364 | 0.0 | 6.0 | 15% | 0.29 | 46.88 | 88.85
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 4,364 | 0.0 | 14.0 | 15% | 0.67 | 46.88 | 89.52
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 4,364 | 0.0 | 6.0 | 15% | 0.29 | 46.88 | 89.80
+RIH W/ 8-3/8" Used R.Bit#10 and Tag CMT Top. | D/O | 0 | 4,364 | 0.0 | 12.0 | 15% | 0.58 | 46.88 | 90.38
+Drill out & clean well to 7" liner lap @3123m. While Pump H.V Pill periodically, | D/O | 0 | 4,364 | 0.0 | 10.0 | 15% | 0.48 | 46.88 | 90.86
+Cir. BTMs UP , Flow check & POOH to surface while L/D extra 5" Drill pipe and 8-3/8" BHA. | D/O | 0 | 4,364 | 0.0 | 18.0 | 15% | 0.86 | 46.88 | 91.72
+M/U 6" NEW R.Bit#11, New BHA & RIH w/ 3-1/2" D.P Jt by Jt, Clean inside 7" Liner to LDC. | Trip | 0 | 4,364 | 0.0 | 22.0 | 10% | 1.01 | 46.88 | 92.73
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 4,364 | 0.0 | 4.0 | 10% | 0.18 | 46.88 | 92.91
+Cont POOH to Surface & L/D 6" R.BIT. | Trip | 0 | 4,364 | 0.0 | 12.0 | 10% | 0.55 | 46.88 | 93.46
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 4,364 | 0.0 | 72.0 | 15% | 3.45 | 46.88 | 96.91
+M/U 6" R.Bit#11, New BHA & RIH W/ 3-1/2" D.P, RIH to 7" Liner LDC. | Trip | 0 | 4,364 | 0.0 | 14.0 | 10% | 0.64 | 46.88 | 97.55
+D/O LDC, Shoe Track, Collar, Shoe | D/O | 0 | 4,364 | 0.0 | 6.0 | 15% | 0.29 | 46.88 | 97.84
+Circ Btm's Up, Hole clean. | Mud Circ | 0 | 4,364 | 0.0 | 2.0 | 10% | 0.09 | 46.88 | 97.93
+POOH to Surface. | Trip | 0 | 4,364 | 0.0 | 14.0 | 10% | 0.64 | 46.88 | 98.58
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 4,364 | 0.0 | 6.0 | 10% | 0.28 | 46.88 | 98.85
+R/U Wire Line and Run Radial Cement Bond log from 7" Liner. | Logging | 0 | 4,364 | 0.0 | 18.0 | 10% | 0.83 | 46.88 | 99.68
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 4,364 | 0.0 | 6.0 | 10% | 0.28 | 46.88 | 99.95
+Rig Service (1 Hr/Day) | Rig Service | 0 | 4,364 | 0.0 | 45.0 | 0% | 1.88 | 46.88 | 101.83
+6" HOLE SECTION
+P/U & M/U 6" New PDC Bit #12 and RIH to BTM | Trip | 0 | 4,364 | 0.0 | 14.0 | 10% | 0.64 | 58.00 | 102.47
+Drilling 6" hole to 4444m. | Drlg | 80 | 4,444 | 3.0 | 26.7 | 15% | 1.28 | 58.00 | 103.75
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 4,444 | 0.0 | 2.0 | 10% | 0.09 | 58.00 | 103.84
+POOH to Surface, L/D Bit. | Trip | 0 | 4,444 | 0.0 | 12.0 | 10% | 0.55 | 58.00 | 104.39
+RIH W/Scraper and scrap PKR Setting depth, POOH | Test | 0 | 4,444 | 0.0 | 24.0 | 10% | 1.10 | 58.00 | 105.49
+RIH with DST Tools and set the packer | Test | 0 | 4,444 | 0.0 | 24.0 | 10% | 1.10 | 58.00 | 106.59
+Flow the well for 1 day and record well data (first 50m of Asmari formation) | Test | 0 | 4,444 | 0.0 | 24.0 | 10% | 1.10 | 58.00 | 107.69
+POOH to surface and L/D DST Tools | Test | 0 | 4,444 | 0.0 | 21.0 | 10% | 0.96 | 58.00 | 108.65
+RIH to BTM W/ Bit#12 | Trip | 0 | 4,444 | 0.0 | 14.0 | 10% | 0.64 | 58.00 | 109.29
+Cont. Drilling 6" hole to 4694m. | Drlg | 250 | 4,694 | 3.0 | 83.3 | 15% | 3.99 | 58.00 | 113.28
+Perform Hole condition, Circulate, Sweep hole clean. | Hole Condition | 0 | 4,694 | 0.0 | 2.0 | 10% | 0.09 | 58.00 | 113.38
+POOH to Surface, L/D Bit, RIH to bottom W/ New PDC Bit#13. | Trip | 0 | 4,694 | 0.0 | 24.0 | 10% | 1.10 | 58.00 | 114.48
+Cont. Drilling W/ 6" PDC Bit#13 to 5132m (TD). | Drlg | 438 | 5,132 | 3.0 | 146.0 | 15% | 7.00 | 58.00 | 121.47
+Circ Btm's Up, Perform Hole condition Trip, Circ and Spot Hi-Vis Pill at BTM | Hole Condition | 0 | 5,132 | 0.0 | 12.0 | 10% | 0.55 | 58.00 | 122.02
+POOH to Surface, L/D Bit. | Trip | 0 | 5,132 | 0.0 | 14.0 | 10% | 0.64 | 58.00 | 122.66
+Change Top Rams, N/U Shooting Nipple and Test Same. | Logging | 0 | 5,132 | 0.0 | 5.0 | 10% | 0.23 | 58.00 | 122.89
+Take Full suite/ Image / CDR-GR Logs, R/D logging Tools, Change Rams | Logging | 0 | 5,132 | 0.0 | 72.0 | 15% | 3.45 | 58.00 | 126.34
+Perform Hole condition and spot Hi-Vis pill @ BTM, POOH to surface and L/D BHA. | Hole Condition | 0 | 5,132 | 0.0 | 32.0 | 10% | 1.47 | 58.00 | 127.81
+Change rams to take logs, R/U shooting Nipple, take RFT using slim tool inside Bangestan (40 point), R/D shooting Nipple | Test | 0 | 5,132 | 0.0 | 30.0 | 15% | 1.44 | 58.00 | 129.25
+RIH with condition BHA & Perform Hole condition and spot Hi. Vis pill @ BTM, POOH to surface and L/D BHA. | Hole Condition | 0 | 5,132 | 0.0 | 32.0 | 10% | 1.47 | 58.00 | 130.71
+Change Top Rams  to 5" & Perform BOP test. | BOP Test | 0 | 5,132 | 0.0 | 5.0 | 10% | 0.23 | 58.00 | 130.94
+Run 5” liner as per program (60m liner lap) | Csg Running | 0 | 5,132 | 0.0 | 30.0 | 15% | 1.44 | 58.00 | 132.38
+Perform cementing job of 5" Liner. | Cementing | 0 | 5,132 | 0.0 | 6.0 | 15% | 0.29 | 58.00 | 132.67
+Pull out setting tool 10 stands Circulate and flash & POOH 5 stands (In case of no Loss), CBU. POOH to surface & L/D setting tools (If observe well flowing close the well and wait on cement). | Csg Running | 0 | 5,132 | 0.0 | 14.0 | 15% | 0.67 | 58.00 | 133.34
+Change top rams to 2-7/8"-5" variable ram. Perform P/T. Install Wear-bushing. | BOP TEST | 0 | 5,132 | 0.0 | 6.0 | 15% | 0.29 | 58.00 | 133.63
+RIH W/ 6" Used R.Bit#11 and Tag CMT Top. | D/O | 0 | 5,132 | 0.0 | 12.0 | 15% | 0.58 | 58.00 | 134.20
+Drill out & clean well to 5" liner lap @4304m. While Pump H.V Pill periodically, | D/O | 0 | 5,132 | 0.0 | 10.0 | 15% | 0.48 | 58.00 | 134.68
+Cir. BTMs UP , Flow check & POOH to surface while L/D 6" BHA. | D/O | 0 | 5,132 | 0.0 | 16.0 | 15% | 0.77 | 58.00 | 135.45
+M/U 4 1/8" E.Mill, New BHA & RIH W/ 2 7/8" D.P, Clean inside 5" Liner to LDC. | Trip | 0 | 5,132 | 0.0 | 24.0 | 10% | 1.10 | 58.00 | 136.55
+POOH to above L.Lap and perform Liner Lap Pressure Test with 2000 psi, | Trip | 0 | 5,132 | 0.0 | 4.0 | 10% | 0.18 | 58.00 | 136.73
+Cont POOH to Surface & L/D 4 1/8" E.Mill. | Trip | 0 | 5,132 | 0.0 | 12.0 | 10% | 0.55 | 58.00 | 137.28
+Scrape the PKR Setting depth and Perform Dry Test Operation | Dry test | 0 | 5,132 | 0.0 | 72.0 | 15% | 3.45 | 58.00 | 140.73
+Change Top Rams, N/U Shooting Nipple and Test Same. | BOP TEST | 0 | 5,132 | 0.0 | 6.0 | 10% | 0.28 | 58.00 | 141.01
+R/U Wire Line and Run Radial Cement Bond log from 5" Liner. | Logging | 0 | 5,132 | 0.0 | 18.0 | 10% | 0.83 | 58.00 | 141.83
+N/D Shooting Nipple,Change Top Rams and Test Same. | BOP Test | 0 | 5,132 | 0.0 | 6.0 | 10% | 0.28 | 58.00 | 142.11
+R/U Perforation tools and perforate 5" Liner (Perf. Interval: 100m) | Perfortion | 0 | 5,132 | 0.0 | 24.0 | 15% | 1.15 | 58.00 | 143.26
+P/U 4-1/8"Junk Mill and check and dress perforation interval. Displace completion fluid in well and POOH | Lower Completion | 0 | 5,132 | 0.0 | 24.0 | 15% | 1.15 | 58.00 | 144.41
+RIH with 6" Bit and scraper, scrape completion string PKR setting Depth. POOH | Completion | 0 | 5,132 | 0.0 | 24.0 | 10% | 1.10 | 58.00 | 145.51
+RIH W/ 4 1/2" completion String and set the PKRS | Completion | 0 | 5,132 | 0.0 | 90.0 | 15% | 4.31 | 58.00 | 149.82
+N/D BOP, N/U X mas-tree and test same | N/U W.H | 0 | 5,132 | 0.0 | 24.0 | 10% | 1.10 | 58.00 | 150.92
+RIH W/CT and lift the well by N2 | Stimulation | 0 | 5,132 | 0.0 | 24.0 | 15% | 1.15 | 58.00 | 152.07
+RIH with CT against Perforation and inject Acid to Formation, POOH with CT to above SSD & pump N2 to lift the well POOH to Surface. | Acidizing | 0 | 5,132 | 0.0 | 30.0 | 15% | 1.44 | 58.00 | 153.51
+Flow the well | Clean up | 0 | 5,132 | 0.0 | 72.0 | 15% | 3.45 | 58.00 | 156.96
+Secure the well and release the rig | Secure Well | 0 | 5,132 | 0.0 | 12.0 | 10% | 0.55 | 58.00 | 157.51
+Rig Service (1 Hr/Day) | Rig Service | 0 | 5,132 | 0.0 | 55.7 | 0% | 2.32 | 58.00 | 159.83
+Total Operation Time (Days) | 160
+
+[جدول 13]
+Casing Point | 18 5/8" Shoe @ 150m
+Formation | Aghajari
+Risks and Hole problems | Bit Balled Up, Complete loss
+Deviation Control | Totco
+Logging | N/A
+Drilling Fluid | Hi Vis. , Bentonite Mud
+Drilling Fluid | MW | 63-76 pcf
+Drilling Fluid | Vis | 70-80 Sec
+Drilling Fluid | PV | ALAP
+Drilling Fluid | YP | 30-40 lLbs/100ft²
+Drilling Fluid | Gel | 15-20/20-30
+Drilling Fluid | PH | 9.5-10.5
+Drilling Parameters | GPM | 800-1000
+Drilling Parameters | WOB | 10-30 klbs
+Drilling Parameters | RPM | 90-100
+
+[جدول 14]
+Casing Point | 13 3/8" Shoe @ 2677m
+Formation | Gachsaran
+Risks and Hole problems | Bit Balled up, Loss, Flow, Tight hole, Stuck
+Deviation Control | Totco
+Logging | CDR/GR, Radial Cement Bond Log
+Drilling Fluid | Bentonite Mud /Salt Water/ Inhibited Salt Water / Inhibited Polymer Mud
+Drilling Fluid | MW | 64-96 pcf
+Drilling Fluid | Vis | 40-50 Sec
+Drilling Fluid | PV | ALAP
+Drilling Fluid | YP | 14-20 lLbs/100ft²
+Drilling Fluid | Gel | 3-8 / 5-11
+Drilling Fluid | Fluid Loss cc/30' | NC / < 3
+Drilling Fluid | Chloride(mg/Lit) * 1000 | 72-188
+Drilling Fluid | KCl (%Wt.) | 3 - 5
+Drilling Fluid | Ca++ | < 800
+Drilling Fluid | PH | 9.5-10
+Drilling Parameters | GPM | 800-1000
+Drilling Parameters | WOB | 10-30 klbs
+Drilling Parameters | RPM | 90-100
+
+[جدول 15]
+Casing Point | 9 5/8" Shoe @ 3313m
+Formation | Gachsaran (High pressure zone)
+Risks and Hole problems | Loss, Flow, Tight hole, Stuck
+Deviation Control | NA
+Logging | CDR/GR, Radial Cement Bond Log
+Drilling Fluid | Salt Saturated Polymer Mud
+Drilling Fluid | MW | 130-137 pcf
+Drilling Fluid | Vis | 45-55 Sec
+Drilling Fluid | PV | ALAP
+Drilling Fluid | YP | 14-20 lLbs/100ft²
+Drilling Fluid | Gel | 3-8 / 5-11
+Drilling Fluid | Fluid Loss cc/30' | NC / < 3
+Drilling Fluid | Chloride(mg/Lit) * 1000 | 188
+Drilling Fluid | PH | 9.5-10
+Drilling Parameters | GPM | 800-1000
+Drilling Parameters | WOB | 40-60 klbs
+Drilling Parameters | RPM | 90-130
+
+[جدول 16]
+Casing Point | 7" Liner Shoe @ 4314m
+Formation | Asmari, Pabdeh, Gurpi, Ilam
+Risks and Hole problems | Tight hole, Stuck pipe, Loss, Flow
+Deviation Control | NA
+Logging | Radial cement bond log, Full suite log, Image log, CDR/GR
+Drilling Fluid | Oil Base Mud
+Drilling Fluid | MW | 70-90 pcf
+Drilling Fluid | Vis | 40-55 Sec
+Drilling Fluid | PV | ALAP
+Drilling Fluid | YP | 14-20 Lbs/100ft²
+Drilling Fluid | Gel | 4-8/8-12
+Drilling Fluid | Oil Water Ratio (%) | 90/10
+Drilling Fluid | Alkanity | 4-5
+Drilling Fluid | HP-HT Fluid Loss cc/30' | 9.5-10
+Drilling Fluid | E.S (Volt) | 500 ≤
+Drilling Parameters | GPM | 300-550
+Drilling Parameters | WOB | 10-35 klbs
+Drilling Parameters | RPM | 80-120
+
+[جدول 17]
+Casing Point | 5" liner shoe @ 5057m
+Formation | Bangestan group, Kazhdumi
+Risks and Hole problems | Tight hole, Loss, Flow, Stuck
+Deviation Control | NA
+Logging | Radial cement bond log, Full suite log, Image log, CDR/GR
+Drilling Fluid | Oil Base Mud
+Drilling Fluid | MW | 79 - 90
+Drilling Fluid | Viscosity(sec/qt) | 35 - 50
+Drilling Fluid | Oil Water Ratio (%) | 90/10
+Drilling Fluid | PV (cp) | ALAP
+Drilling Fluid | YP (lbs/100 sq ft) | 14 - 18
+Drilling Fluid | Gel Strength(10s/10m) | 2-5 / 4-7
+Drilling Fluid | Alkanity | 4 - 5
+Drilling Fluid | HP-HT Fluid Loss cc/30' | < 4
+Drilling Fluid | E.S (Volt) | 500 ≤
+Drilling Parameters | GPM | 300-550
+Drilling Parameters | WOB | 10-35 klbs
+Drilling Parameters | RPM | 80-120
+
+[جدول 18]
+Bit Size | Bit Type | GPM | RPM | WOB (klb) | Nozzle
+26” | Tri Cone 1-1-1 | 800 -1000 | 60-150 | MAX | 16,18,20  CJ: 14,16
+17 ½” | Tri Cone 1-2-1  Tri Cone 5-1-7  PDC | 900 | 120-200 | 30-45 | 16,18,20  CJ: 14,16
+12 ¼” | Tri Cone 2-1-4  PDC | 650-700 | 80-200 | 10-35 | 16,18,20
+8 3/8” | Tri Cone 2-1-4, 5-1-7 PDC, Core Head | 350-450 | 60-180 | 10-30 | 14,16,18
+6” | Tri Cone 5-1-7,  PDC   Core Bits | 230 -300 | 60-80 | 8-15 | 12,14,16,18
+
+[جدول 19]
+Group 1 (W014N, W036N) – Siah Makan Oilfield
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+18-5/8” | Surf. | 150 | 87.5 | J-55 | BTS | 630 | 2250
+13-3/8” | Surf. | 1360 | 68 | J-55 | BTS | 1950 | 3450
+13-3/8” | 1360 | 2360 | 72 | N-80 | BTS | 2670 | 5380
+13-3/8” | 2360 | 2677 | 72 | NKT-95 | BTS | 2820 | 6390
+9-5/8” | Surf. | 1770 | 43.5 | L-80 | VAM | 3810 | 6330
+9-5/8” | 1770 | 1920 | 47 | L-80 | VAM | 4750 | 6870
+9-5/8” | 1920 | 2340 | 53.5 | L-80 | VAM | 6620 | 7930
+9-5/8” | 2340 | 2825 | 53.5 | C-150 | VAM | 8960 | 14860
+9-5/8” | 2825 | 3313 | 58.4 | C-150 | VAM | 8960 | 14860
+7” | 3253 | 3463 | 29 | P-110 | VAM | 8530 | 11220
+7” | 3463 | 4314 | 32 | P-110 | VAM | 10780 | 12460
+5" | 4254 | 5057 | 18 | L-80 | VAM | 10490 | 10140
+
+[جدول 20]
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+18-5/8” | Surf. | 150 | 87.5 | J-55 | BTS | 630 | 2250
+
+[جدول 21]
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+13-3/8” | Surf. | 1360 | 68 | J-55 | BTS | 1950 | 3450
+13-3/8” | 1360 | 2360 | 72 | N-80 | BTS | 2670 | 5380
+13-3/8” | 2360 | 2677 | 72 | NKT-95 | BTS | 2820 | 6390
+
+[جدول 22]
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+9-5/8” | Surf. | 1770 | 43.5 | L-80 | VAM | 3810 | 6330
+9-5/8” | 1770 | 1920 | 47 | L-80 | VAM | 4750 | 6870
+9-5/8” | 1920 | 2340 | 53.5 | L-80 | VAM | 6620 | 7930
+9-5/8” | 2340 | 2825 | 53.5 | C-150 | VAM | 8960 | 14860
+9-5/8” | 2825 | 3313 | 58.4 | C-150 | VAM | 8960 | 14860
+
+[جدول 23]
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+3253 | 3463 | 29 | P-110 | VAM | 8530 | 11220 | 3253
+3463 | 4314 | 32 | P-110 | VAM | 10780 | 12460 | 3463
+
+[جدول 24]
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+5" | 4254 | 5057 | 18 | L-80 | VAM | 10490 | 10140
+
+[جدول 25]
+Group 1 (W014N, W036N) – Siah Makan Oilfield
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+18-5/8” | Surf. | 150 | 87.5 | J-55 | BTS | 630 | 2250
+13-3/8” | Surf. | 1360 | 68 | J-55 | BTS | 1950 | 3450
+13-3/8” | 1360 | 2360 | 72 | N-80 | BTS | 2670 | 5380
+13-3/8” | 2360 | 2677 | 72 | NKT-95 | BTS | 2820 | 6390
+9-5/8” | Surf. | 1770 | 43.5 | L-80 | VAM | 3810 | 6330
+9-5/8” | 1770 | 1920 | 47 | L-80 | VAM | 4750 | 6870
+9-5/8” | 1920 | 2340 | 53.5 | L-80 | VAM | 6620 | 7930
+9-5/8” | 2340 | 2825 | 53.5 | C-150 | VAM | 8960 | 14860
+9-5/8” | 2825 | 3313 | 58.4 | C-150 | VAM | 8960 | 14860
+7” | 3253 | 3463 | 29 | P-110 | VAM | 8530 | 11220
+7” | 3463 | 4314 | 32 | P-110 | VAM | 10780 | 12460
+5" | 4254 | 5057 | 18 | L-80 | VAM | 10490 | 10140
+
+[جدول 26]
+Group 2 (E012) – Siah Makan Oilfield
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+18-5/8” | Surf. | 150 | 87.5 | J-55 | BTS | 630 | 2250
+13-3/8” | Surf. | 1210 | 68 | J-55 | BTS | 1950 | 3450
+13-3/8” | 1210 | 2100 | 72 | N-80 | BTS | 2670 | 5380
+13-3/8” | 2100 | 2380 | 72 | NKT-95 | BTS | 2820 | 6390
+9-5/8” | Surf. | 1640 | 43.5 | L-80 | VAM | 3810 | 6330
+9-5/8” | 1640 | 1790 | 47 | L-80 | VAM | 4750 | 6870
+9-5/8” | 1790 | 2180 | 53.5 | L-80 | VAM | 6620 | 7930
+9-5/8” | 2180 | 2630 | 53.5 | C-150 | VAM | 8960 | 14860
+9-5/8” | 2630 | 3076 | 58.4 | C-150 | VAM | 8960 | 14860
+7” | 3016 | 3126 | 29 | P-110 | VAM | 8530 | 11220
+7” | 3126 | 3555 | 32 | P-110 | VAM | 10780 | 12460
+5" | 3495 | 4424 | 18 | L-80 | VAM | 10490 | 10140
+
+[جدول 27]
+Group 3 (W065) – Siah Makan Oilfield
+Size | Depth (m) | Lb/ft | Grade | Connection | Collapse (psi) | Burst (psi)
+18-5/8” | Surf. | 150 | 87.5 | J-55 | BTS | 630 | 2250
+13-3/8” | Surf. | 1500 | 68 | J-55 | BTS | 1950 | 3450
+13-3/8” | 1500 | 2600 | 72 | N-80 | BTS | 2670 | 5380
+13-3/8” | 2600 | 2955 | 72 | NKT-95 | BTS | 2820 | 6390
+9-5/8” | Surf. | 1700 | 43.5 | L-80 | VAM | 3810 | 6330
+9-5/8” | 1700 | 1850 | 47 | L-80 | VAM | 4750 | 6870
+9-5/8” | 1850 | 2250 | 53.5 | L-80 | VAM | 6620 | 7930
+9-5/8” | 2250 | 2715 | 53.5 | C-150 | VAM | 8960 | 14860
+9-5/8” | 2715 | 3183 | 58.4 | C-150 | VAM | 8960 | 14860
+7” | 3123 | 3363 | 29 | P-110 | VAM | 8530 | 11220
+7” | 3363 | 4364 | 32 | P-110 | VAM | 10780 | 12460
+5" | 4304 | 5132 | 18 | L-80 | VAM | 10490 | 10140
+
+[جدول 28]
+Section | Material Type | Description | Required/Well
+26" | Bit | 26" Milled Tooth Bit (111) | 1
+26" | Bit | Bit Nozzle 18/32” (set) | 1
+26" | Bit | 26” Bit breaker | 1
+26" | Bit | 26” Ring gauge | 1
+26" | Bit | 26” String Stabilizer | 1
+26" | Bit | 26” Ring gauge | 1
+26" | Tubular | 18 5/8" Casing (m),87.5#,J55,BTC | 150
+26" | Tubular | 18 5/8" Float shoe | 1
+26" | Tubular | 18 5/8" Rigid Centalizer | 1
+26" | Tubular | 18 5/8" Bow Centalizer | 10
+26" | Tubular | Drill pipe 5" , 19.5# | As Required
+26" | Tubular | Stop Ring | 20
+26" | Tubular | Cementing Stinger | 1
+26" | Tubular | Dope | 4
+26" | Wellhead | 20 3/4" Casing Head Housing 20 3/4" 3000psi | 1
+
+[جدول 29]
+Section | Material Type | Description | Required/Well
+17 1/2" | Bit | 17 1/2" Insert Bit (437) | 2
+17 1/2" | Bit | 17 1/2"  Milled Tooth Bit (121) | 2
+17 1/2" | Bit | PDC bits | 4
+17 1/2" | Tubular | 13 3/8" Casing (m), 68#,L80,BTC | 1360
+17 1/2" | Tubular | 13 3/8" Casing (m), 72#,N80,BTC | 1000
+17 1/2" | Tubular | 13 3/8" Casing (m), 72#,NKT95,BTC | 317
+17 1/2" | Tubular | 13 3/8" Floating Equipment (Set) | 1
+17 1/2" | Tubular | 13 3/8" Rigid Centalizer | 1
+17 1/2" | Tubular | 13 3/8" Centalizer | 80
+17 1/2" | Tubular | Stop Ring | 160
+17 1/2" | Tubular | Top Plug | 1
+17 1/2" | Tubular | Thread lock compound | 2
+17 1/2" | Tubular | Thread sealing compound | 2
+17 1/2" | Tubular | Bottom Plug | 1
+17 1/2" | Wellhead | Well Head CHS 20-3/4”3000 x 13-5/8” 5000 | 1
+
+[جدول 30]
+Section | Material Type | Description | Required/Well
+12 1/4" | Bit | 12 1/4" Insert Bit (437) | 1
+12 1/4" | Bit | 12 1/4" Milled Tooth Bit (121) | 1
+12 1/4" | Bit | PDC bits | 3
+12 1/4" | Bit | Bit Breaker | 1
+12 1/4" | Tubular | 9 5/8" Casing (m),43.5#,L80,VAM | 1770
+12 1/4" | Tubular | 9 5/8" Casing (m), 47#,L80,VAM | 150
+12 1/4" | Tubular | 9 5/8" Casing (m), 53.5#,L80,VAM | 420
+12 1/4" | Tubular | 9 5/8" Casing (m), 53.5#,C150,VAM | 485
+12 1/4" | Tubular | 9 5/8" Casing (m), 58.4#,C150,VAM | 488
+12 1/4" | Tubular | 9 5/8" Floating Equipment (Set) | 1
+12 1/4" | Tubular | 9 5/8" Rigid Centalizer | 1
+12 1/4" | Tubular | 9 5/8" Centalizer | 70
+12 1/4" | Tubular | Stop Ring | 140
+12 1/4" | Tubular | Top Plug | 1
+12 1/4" | Tubular | Thread lock compound | 2
+12 1/4" | Tubular | Thread sealing compound | 2
+12 1/4" | Tubular | Bottom Plug | 1
+12 1/4" | Wellhead | Casing head housing  13-5/8” 5000x 11" 10000psi | 1
+
+[جدول 31]
+Section | Material Type | Description | Required/Well
+8  3/8" | Bit | 8 3/8" Insert Bit (517 ) | 2
+8  3/8" | Bit | 8 3/8" Milled Tooth Bit (121, 214) | 2
+8  3/8" | Bit | 8 3/8” PDC bits | 4
+8  3/8" | Bit | Bit Breaker | 1
+8  3/8" | Tubular | 7" liner (m),29#,L80,VAM | 200
+8  3/8" | Tubular | 7" liner (m),32#,L80,VAM | 860
+8  3/8" | Tubular | 7" Floating Equipment 32#(Set) | 1
+8  3/8" | Tubular | 7" Spirolizer | 100
+8  3/8" | Tubular | Pump down plug | 1
+8  3/8" | Tubular | Wiper plug | 1
+8  3/8" | Tubular | Thread lock compound | 2
+
+[جدول 32]
+Section | Material Type | Description | Required/Well
+6 " | Bit | 6 " Insert Bit (517) | 2
+6 " | Bit | 6 " Milled Tooth Bit (121, 214) | 2
+6 " | Bit | 6” PDC bits | 2
+6 " | Bit | Core bits | 5
+6 " | Bit | Bit Breaker | 1
+6 " | Tubular | 5" liner (m),18#,L80,VAM | 800
+6 " | Tubular | 5" Floating Equipment 18#(Set) | 1
+6 " | Tubular | 5" Spirolizer | 80
+6 " | Tubular | Pump down plug | 1
+6 " | Tubular | Wiper plug | 1
+6 " | Tubular | Thread lock compound | 2
+ | مناقصه "طرح سیاهمکان در قالب یک بسته یکپارچه از طرح عملیات محور افزایش و نگهداشت تولید 27 مخزن منتخب شرکت ملی مناطق نفتخیز جنوب" شماره مناقصه: (م م/0332/97) | 
+ | Typical Drilling Program | 
+ | مناقصه "طرح سیاهمکان در قالب یک بسته یکپارچه از طرح عملیات محور افزایش و نگهداشت تولید 27 مخزن منتخب شرکت ملی مناطق نفتخیز جنوب" شماره مناقصه: (م م/0332/97) | 
+ | Drilling Program | 
+ | مناقصه "طرح سیاهمکان در قالب یک بسته یکپارچه از طرح عملیات محور افزایش و نگهداشت تولید 27 مخزن منتخب شرکت ملی مناطق نفتخیز جنوب" شماره مناقصه: (م م/0332/97) | 
+ | Drilling Program |

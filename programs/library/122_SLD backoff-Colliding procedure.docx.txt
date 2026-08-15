@@ -1,0 +1,140 @@
+# SOURCE: SLD backoff-Colliding procedure.docx
+
+📄 فایل 122 از 214  |  SLD backoff-Colliding procedure.docx
+SEALAND ENGINEERING AND WELL SERVICES
+BACK OFF-Colliding Procedure
+1.   Purpose
+The purpose of this document is to specify a work instruction for recovery of the pipes stuck in well bore by cutting pipe above the stuck point. The objective being to allow recovery of the pipe.
+2.   Scope
+This document shall be applied for all back-off operations at worksites.
+3.   Terms and Definitions
+- BO Operation: Back-off Operation
+- CCL: Casing Collar Locator tool
+- BHA: Bore Hole Assembly
+-ID: Inner Diameter
+- CH: Cased Hole
+-OD: Outer Diameter
+- FPIT: Free Point Indicator Tool
+4.   Implementation
+In order to implement pipe recovery as an aid for emergency drilling support and contingencies, the following work instruction is to pursue step by step:
+Note that if there has not been a deployment in the drill pipe or tubing prior to running the BO that SLD will run a drift through the pipe / tubing prior to deployment,
+Request drill string BHA and verify all IDs of any components in the string,
+SLD wireline explosive procedure must be applied at all times and unit will be verified as per requirements prior to undertaking BO operations,
+Transmit warning of Backoff Operations, note during the rig up of the BO only authorized personnel shall be present,
+Carry out Weak point Calculation and make up CH Cable head onto the Cable with the appropriate weak point as per instruction on Cased hole Rope Socket Construction,
+Connect the shooting CCL to the cable head,
+Check electrical continuity and resistance of the wireline,
+Construct the Backoff bar by applying the right length of detonating cord.
+BACKOFF-Wire line conveyed
+In theory, only one strand of primacord is necessary to perform a successful Backoff. However, experience has shown that to account for variations in makeup torque combined with the different OD of the pipe, more strands need to be added to achieve good results. Determine the number of prima cord strands from below Table. This table shows the number of primacord strands recommended for certain types of pipes at various depths. The numbers shown in table 1 are well proven in the field.
+If the pipe does not backoff with the recommended number of primacord strands, the problem is most likely caused by insufficient left-hand torque worked down or the Backoff pull at the joint was incorrect (buoyant weight or very slightly more). In both cases it is unlikely that extra prim cord will solve the problem.
+Measure and record the distance from middle of the shooting CCL to the bottom of the backoff bar assembly,
+The SLD Supervisor will visually verify that the BO Bar is not physically connected to the wireline,
+Test the shooting panel through the system and the Tool string without the detonator connected.
+The test must be done with the logging head physically in the logging cabin.
+NOTE THE BO BAR MUST NOT BE CONNECTED OR UNINTENDED SURFACE DETONATION WILL OCCUR, only the SLD Logging Engineer will conduct this test and will liaise with the crew as to the most convenient time to achieve this,
+Ensure Pre-Job preparations have been made & everything is ready for start the job,
+Ask driller to tighten entire pipe by applying right-hand torque. If necessary, work the pipe and release completely,
+Applying Right-hand Torque:
+Before the Backoff can be made, right-hand torque must be applied to the pipe. This must be done to minimize the risk of an unintentional Backoff at an uncontrolled depth (mechanical Backoff). The right-hand torque applied at this time should be 25 to 30% higher than the left-hand torque applied for the Backoff. Make sure the torque arrives at the chosen Backoff point by working down the torque. With the Backoff pull on the weight indicator, apply half of right-hand turns and work the pipe up and down several times. Vary the pull so the lower section of the pipe is alternately in tension or compression. Repeat the process, increasing to the maximum allowed number of turns, until the entire pipe string has been evenly tightened to the maximum. Tightening up the string should be done prior to running in hole with the string shot.
+Rig-up wireline as per below points:
+The rig is active during a Backoff or FPIT operation; therefore, the elevator is not available for holding the upper sheave. Use the Fishing Sling to secure the upper sheave to a cross member strong enough to hold twice the cable breaking strength. Select a cross member as high as possible in the derrick and ensure the cable path into the drill pipe is clear.
+Position the lower sheave away from the rotary table to ensure unhindered operation on the drill floor.
+Prior to applying Backoff torque, the joints should be torqued with right-hand torque. Then, in theory, the pipe should not be able to back off mechanically (by itself) unless an equal amount or more of left-hand torque is applied to the pipe.
+Kelly Rigs:
+The best way to provide Backoff torque on a Kelly Rig is to apply the torque with the Kelly. However, this method often means that working the torque down is not possible since the Kelly bushing may slip out of the rotary when pulling on the pipe even if the Kelly bushing is tied down. If the torque cannot be worked down, the Backoff depth should be selected so the torque can be applied without working the pipe. Generally, this means the pipe needs to be 100% free at the Backoff depth. When using the Kelly to apply torque, the Backoff shot is inserted into the pipe by removing the Kelly gooseneck.
+If the Kelly cannot be used to apply the torque, it may be applied using the rotary table. This method is potentially very dangerous; exercise extreme caution. Set the pipe in the slips, slack off the elevators (but do not remove), and tie the slip handles together with rope. The torque can now be applied with the rotary.
+If too much torque is applied, the slips may fly out (the rope should prevent them from flying too far and causing injury) the pipe will be caught by the elevators and the operation can start over.
+Avoid holding the torque with a set of tongs and then working the pipe with the elevators. This procedure is very dangerous.
+The left-hand torque for Backoff should be 70-75% of the right-hand torque applied when tightening the joints. This can be achieved by counting the number of turns applied to the pipe from neutral point, or by monitoring the Amp-meter or torque measurement system if the rotary table is so equipped.
+For safety reasons the Backoff shot should be inserted into the pipe prior to applying torque. If torque is applied first the torque could release just when someone is guiding the Backoff shot into the pipe, due to the large amount of potential energy stored in a torqued-up pipe the reaction at surface can be very dramatic.
+Top Drive:
+Rigs that have Top Drives are very well suited for applying torque and working it down. This makes Backoff possible in places where the pipe is not completely free. Given enough time and effort the necessary Backoff torque can be worked down to the joint in question.
+Most Top Drive systems have a plug/entrance hole to facilitate the entry of a Backoff shot. In some cases, it is necessary to feed the rope socket through first and assemble the equipment below.
+If circulating is required while running the Backoff, a stuffing box may be needed to plug the cable-entry hole on the Top Drive.
+For Top Drive operations applying the left-hand torque should be done using the Amp- meter or the torque measurement system, 70-75% of the right-hand makeup torque should be applied and worked down prior to firing the shot.
+Discuss with the driller how and when to apply the torque. With certain makes of Top
+Drives, it may not be possible to hold the torque for long without damaging the electrical parts.
+Make sure the Top Drive is shut down while rigging up. The Top Drive has large currents flowing through it. The Top Drive shut down should always be considered part of the "radio-silence" required for working with explosives close to surface.
+Test Fire the Surface System from the Unit WITHOUT THE BO BAR –
+UNINTENDED SURFACE DETONATION WILL OCCUR,
+Apply voltage through the upper tool string and check fire current,
+Verify Casing Collar Locator is working by using a metallic object and sweeping across the magnet, RISK OF UNINTENDED DETONATION.
+Once complete confirm the system is safe by placing the shooting power supply in the “SAFE” position (make sure that SLD Explosives Safety policy is being followed, remove the firing key and confirm removal with all personnel, submit the key to the designated “Safe Key” Holder)
+Vertically attach the BO Bar,
+Only when fully made up move the Complete BO Tool string over the well
+Zero the depth system and tool string together at the agreed reference point,
+Run in hole to BO depth, taking suitable care to avoid spudding the tool through good winch operating practice, speed control, tension observation and knowledge of all drill string components,
+Under no circumstances should RIH speed exceed 50 m / min,
+CCL can be switched on to log collars,
+Perform tension tests and manipulate the winch dump at intervals not exceeding 500 m,
+Lower to a suitable depth below station and proceed with correlation pass, ensure correlation is accurate by repetition, the Company Representative should be present to verify correlation and shooting depth,
+Correlate the CCL over the Backoff interval and position the shot at the joint to be backed off and apply winch brake. Remember that the CCL is the tool zero for Backoff.
+No personnel shall be on the drill floor during backoff operations since the drill string is torque and when the tool joint is disconnected there may be a sudden and violent release of torque at surface,
+Apply the required left-hand torque.
+Applying Left-hand Backoff Torque
+Most of today's drilling rigs are equipped with equipment for torsion control of the drilling operation. Using this equipment, the driller can tell how much torque is applied to the pipe. When this information is available, use it to put in Backoff torque. Apply left-hand torque, 70 to 75% of the right-hand torque applied to tighten the joints earlier.
+-	In straight wells where the pipe/well friction is low, the applied left-hand torque is easily transmitted downhole and does not have to be worked down.
+-	Where the pipe/well friction is high, as indicated by a sluggish response from the FPIT, the applied left-hand torque must be worked down.
+-	When applying left-hand torque before firing the Backoff shot, work the pipe between maximum safe pull and Backoff pull. Never go below Backoff pull to minimize the chance of backing off mechanically up hole.
+-     On rigs equipped with the ability to measure the torque applied to the pipe at the surface
+(e.g., tension gauge on tongs or rotary motor current meter), apply left-hand turns in increments (so as not to exceed safe torque at surface) and work the pipe up and down.
+Monitor the torque and continue the process until no more decrease in torque is observed.
+-	If surface torque cannot be measured, apply 1/2 of the required turns and work pipe up and down. Alternately apply turns and release the torque. Continue applying turns until the turns
+returned when the torque is released equals the number applied. This indicates the torque
+has been worked down.
+-	With the FPIT in combination with the Backoff shot, the FPIT is used to monitor the left- hand torque as it moves down.
+Apply backoff pull on pipe (slightly more than buoyant weight at backoff point).
+Backoff Pull:
+The Backoff pull should be slightly higher than the calculated buoyant weight (5%-10%). Theoretically the pipe should be at neutral weight at the backoff depth to minimize the friction forces on the connection. However, field experience has shown that having the pipe slightly in tension is to be preferred to avoid unintentional mechanical Backoff above the Backoff depth.
+Make sure rig floor is cleared of all personnel in case of sudden release of torque.
+Notify the driller that the shot is being fired so he will be aware of any signs of the shot/backoff, i.e., less torque or weight at surface.
+Fire the Backoff shot.
+If no obvious effect on the pipe is observed at surface, do not release left-hand torque.
+Slowly, pull up to casing shoe. Watch cable tension closely. A significant increase in tension may indicate a mechanical Backoff higher up and a sharp bend on the cable at the backed off joint.
+When safely inside the casing shoe: ask the driller to:
+-		Release left-hand torque. If the number of turns returned is much less than applied, the pipe has backed off.
+-    Apply additional left-hand turns to complete Backoff.
+-	Pull pipe several feet to confirm that the pipe is free. Make certain no residual torque remains when the pipe is picked up.
+If the pipe backs off mechanically higher up, the pipe should be pulled up several feet to reduce the bend on the cable and the tool pulled up into the free section of the pipe before reconnection is attempted.
+If Backoff is not successful, resume circulation and working the pipe while the next attempt is prepared.
+Discuss the following options with driller or client representative:
+-    Run another shot using the same Backoff parameters,
+-    Increase Backoff torque and/or pull,
+-    Increase explosives.
+-    Rerun FPIT to determine if stuck point has moved up.
+-    Select another joint for the Backoff.
+If the Backoff was done in a joint that was not 100% free, working the pipe may be necessary to complete the Backoff.
+Colliding – Wireline conveyed
+Hold safety meeting with the presence of WL team, rig crew, QHSE supervisor and rig supervisor.
+Prepare and assemble colliding string according to Explosives Standard Operating Procedure and Run-in hole.
+Note 1: A cut must always be attempted at or above the free point. The tubing must be at least 100% free (FPIT reading) in stretch and torque.
+Note 2: It is recommended to always put the tubing string under maximum safe tension and, if possible, with maximum safe right-hand torque.
+Note 3: maximum safe over pull-on tubing string must be applied.
+Run in hole to Colliding depth, taking suitable care to avoid spudding the tool through good winch operating practice, speed control, tension observation and knowledge of all tubing string components, (Max RIH speed 40 m / min)
+RIH to a suitable depth below station and proceed with correlation pass, ensure correlation is accurate by repetition, the Company Representative should be present to verify correlation and shooting depth,
+Correlate the CCL over Colliding point and position the shot at the tubing body and apply winch brake. Remember that the CCL is the tool zero for colliding
+Hold at colliding Depth, make sure rig floor is cleared of all personnel in case of sudden Jump of tubing at surface.
+Apply the maximum safe right-hand torque,
+Fire the Colliding Shot.
+If no obvious effect on the tubing is observed at surface, do not release right-hand torque.
+Slowly, pull up to above completion bottom assembly. Watch cable tension closely.
+When safely reached above completion bottom assembly, ask the driller to:
+Release right-hand torque.
+Pull tubing several feet to confirm that the tubing is free. Make certain no residual torque remains when the tubing is picked up.
+If Colliding is not successful, resume circulation and working the tubing while the next attempt is prepared.
+Ensure wellsite witness receives all required digital and graphical data and that data is completely transmitted to town for processing and is received.
+Colliding Technical features:
+Technical features 1
+Technical features 2
+Technical features 3
+5.   Responsibilities
+SLD Wireline Operation department shall be responsible for implementation of this document in cooperation with company man & rig drilling crew, ensuring the requirement mentioned and reviewing of documents subjected to this procedure.
+ | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services
+ | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure
+Page 34 of 36 | Co.ID | Department | Document Type | Serial | Revision
+Class: | SLD |  |  |  | 
+ | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services | SeaLand Engineering & Well Services
+ | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure | BACKOFF-Colliding procedure
+Page 34 of 36 | Co.ID | Department | Document Type | Serial | Revision
+Class: | SLD |  |  |  |

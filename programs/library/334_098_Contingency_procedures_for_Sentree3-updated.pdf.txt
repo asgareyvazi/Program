@@ -1,0 +1,186 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 4 ]
+────────────────────────────────────────────
+           ContingencyContingencyContingencyContingency proceduresproceduresproceduresprocedures
+
+
+
+
+Note:Note:Note:Note: Below procedures are dependent on using:
+          1. A SSTT with a fast (1-2 minutes) disconnect time.
+          2. Fail safe (without pressure assist) cutting capacity of SSTT.
+
+
+POSITIONINGPOSITIONINGPOSITIONINGPOSITIONING FAILUREFAILUREFAILUREFAILURE orororor SECURINGSECURINGSECURINGSECURING WELLWELLWELLWELL PRIORPRIORPRIORPRIOR TOTOTOTO UPCOMINGUPCOMINGUPCOMINGUPCOMING
+WEATHERWEATHERWEATHERWEATHER
+
+
+Securing of well and preparation for disconnecting from the well will be required if at least one
+parameter is outside, or tending outside, Normal Operating Limits or the consequence of a worst
+single failure will exceed Normal Operating Limits.
+
+
+SLOWLYSLOWLYSLOWLYSLOWLY DETERIORATINGDETERIORATINGDETERIORATINGDETERIORATING SITUATIONSITUATIONSITUATIONSITUATION
+
+
+WithoutWithoutWithoutWithout wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole                 WithWithWithWith wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole
+ParametersParametersParametersParameters tendingtendingtendingtending towardstowardstowardstowards yellowyellowyellowyellow sector:sector:sector:sector:    ParametersParametersParametersParameters tendingtendingtendingtending towardstowardstowardstowards yellowyellowyellowyellow sector:sector:sector:sector:
+1. Bleed off annulus pressure to close downhole   1. Pull wireline above downhole tester valve.
+Tester valve.                                             2. Bleed off annulus pressure to close downhole                                                                                                                                                                                                                                                                                                                                                                                                                             Schlumberger
+2. If time allows: Bullhead glycol / base oil in the   Tester valve. Continue to pull wireline.
+landing string and inject methanol at the SSTT.     3. If time allows: Bullhead glycol / base oil in the3. Start to bleed off landing string and verify       landing string and inject methanol at the SSTT.                                Private
+SSTT closure.                                            4. Pressure line Band bleed line A to close SSTT
+4. If time allows: Bullhead glycol / base oil in the  and cut wireline if not above SSTT.
+landing string.                                            5. Start to bleed off landing string and verify
+5. Assess situation ready to disconnect SSTT.    SSTT closure.
+                                                             6. If time allows: Bullhead glycol / base oil in the
+                                                landing string.
+                                                             7. Assess situation ready to disconnect SSTT.
+
+
+
+
+
+FIREFIREFIREFIRE ONONONON BOARDBOARDBOARDBOARD
+
+
+WithoutWithoutWithoutWithout wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole                 WithWithWithWith wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole
+1. Bleed off annulus pressure to close downhole   1. Pull wireline above downhole tester valve.
+Tester valve.                                             2. Bleed off annulus pressure to close downhole
+2. If time allows: Bullhead cushion (glycol / base   Tester valve.
+oil) in the landing string and inject methanol at      3. If time allows: Bullhead cushion (glycol / base
+the SSTT.                                                     oil) in the landing string and inject methanol at
+
+
+
+Subsea Contingency Procedures                                       1
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 4 ]
+────────────────────────────────────────────
+3. Close flow wing valve on STT.                  the SSTT.
+4. Close SSTT.                                 Continue to pull wireline.
+5. Close master valve on STT.                          4. Close flow wing valve on STT.
+6. Assess situation ready to perform:                 5. Assess situation ready to perform:
+a) SSTT disconnect sequence.                     a) Disconnect sequence.
+b) Emergency riser disconnect to close shear      b) Emergency riser disconnect to close shear
+Ram and release LMRP.                  Ram and release LMRP.
+
+
+
+
+LEAKLEAKLEAKLEAK BELOWBELOWBELOWBELOW SUBSEASUBSEASUBSEASUBSEA TESTTESTTESTTEST TREETREETREETREE
+
+MinorMinorMinorMinor testtesttesttest stringstringstringstring leakageleakageleakageleakage belowbelowbelowbelow thethethethe subseasubseasubseasubsea tree:tree:tree:tree:
+
+
+WithoutWithoutWithoutWithout wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole                 WithWithWithWith wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole
+1. Shut well in at choke manifold.                     1. Shut well in at choke manifold.
+2. Close flow valve on surface test tree.              2. Close flow valve on surface test tree.
+3. Equalize pressure across kill valve.                3. Equalize pressure across kill valve.
+4. Open kill valve and bullhead kill mud down       Pull wireline tools above the BHA and continue
+test string.                                            pulling.
+5. Secure well with standard kill procedure.         4. Open kill valve and bullhead kill mud down
+                                                      test string.
+                                                             5. Secure well with standard kill procedure.                                                                                                                                                                                                                                                                                                                                                                                                                             Schlumberger
+MajorMajorMajorMajor leakleakleakleak BelowBelowBelowBelow SubSubSubSub SeaSeaSeaSea TreeTreeTreeTree                                                                                                                                                               Private
+
+
+WithoutWithoutWithoutWithout wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole                 WithWithWithWith wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole
+1. Shut well in at choke manifold and let annulus   1. Shut well in at choke manifold and let annulus
+pressure build up until reversing valve opens.     pressure build up until reversing valve opens.
+2. Reverse content of test string by pumping kill    2. Reverse content of test string by pumping kill
+mud.                                      mud.
+3. Pressurise annulus to open SHRV 3 and           3. Pressurise annulus to open SHRV 3 and
+bullhead volume below tester valve.              bullhead volume below tester valve.
+4. Secure well with standard kill procedure.         4. Secure well with standard kill procedure.
+
+
+
+
+
+Subsea Contingency Procedures                                       2
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 4 ]
+────────────────────────────────────────────
+LEAKLEAKLEAKLEAK BETWEENBETWEENBETWEENBETWEEN SUBSEASUBSEASUBSEASUBSEA TESTTESTTESTTEST TREETREETREETREE ANDANDANDAND SURFACESURFACESURFACESURFACE TREETREETREETREE
+
+MinorMinorMinorMinor testtesttesttest stringstringstringstring leakageleakageleakageleakage betweenbetweenbetweenbetween subseasubseasubseasubsea treetreetreetree andandandand surfacesurfacesurfacesurface tree:tree:tree:tree:
+
+
+WithoutWithoutWithoutWithout wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole                 WithWithWithWith wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole
+1. Bleed off annulus pressure to close downhole   1. Pull wireline tools above downhole tester
+tester valve.                                    valve and close same.
+2. Close SSTT and inject methanol at the SSTT.     2. Bleed pressure above downhole tester valve,
+3. Bleed down pressure in landing string.           Inject methanol at SSTT and
+4. Disconnect from SSTT, pull string above          3. Pull wireline above SSTT.
+shear rams.                                               4. Close SSTT and inject methanol at the SSTT.
+5. Close shear rams.                                     5. Disconnect from SSTT, pull string above
+6. Pull landing string and repair leak             shear rams.
+                                                             6. Close shear rams.
+                                                             7. Pull landing string and repair leak.
+
+
+
+
+
+MajorMajorMajorMajor testtesttesttest stringstringstringstring leakageleakageleakageleakage betweenbetweenbetweenbetween subseasubseasubseasubsea treetreetreetree andandandand surfacesurfacesurfacesurface tree:tree:tree:tree:
+
+
+WithoutWithoutWithoutWithout wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole                 WithWithWithWith wirelinewirelinewirelinewireline inininin thethethethe holeholeholehole
+1. Bleed off annulus pressure to close downhole   1. Bleed off annulus pressure to close downhole
+tester valve.                                        tester valve (unknown if wireline is cut).2. Close SSTT and inject methanol at the SSTT.     2. Close SSTT to cut wireline and inject                                                                                   Schlumberger
+3. Bleed down pressure in landing string.         methanol at the SSTT.
+4. Disconnect from SSTT, pull string above          3. Bleed down pressure in landing string.                                                                                                                                                                                                                                                 Privateshear rams.                                               4. Disconnect from SSTT, pull string above
+5. Close shear rams.                           shear rams.
+6. Pull landing string and repair leak.                 5. Close shear rams.
+                                                             6. Pull landing string and repair leak
+
+
+
+
+LEAKLEAKLEAKLEAK ININININ SURFACESURFACESURFACESURFACE TESTTESTTESTTEST EQUIPMENTEQUIPMENTEQUIPMENTEQUIPMENT
+
+
+Without wireline in the hole                    With wireline in the hole
+1. Close surface tree flow wing valve.                1. Close surface tree flow wing valve.
+2. Bleed off annulus pressure to close downhole   2. Pull wireline above downhole tester valve.
+tester valve.                                              3. Bleed off annulus pressure to close downhole
+3. Bullhead cushion (glycol / base oil) in the        tester valve.
+landing string and inject methanol at the SSTT.     4. Bullhead cushion (glycol / base oil) in the
+4. Close surface tree master valve.               landing string and inject methanol at the SSTT.
+5. Bleed down pressure in surface equipment.      5. Bleed down pressure in surface equipment.
+6. Repair leakage and pressure test lines.           6. Repair leakage and pressure test lines.
+
+
+
+
+Subsea Contingency Procedures                                       3
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 4 ]
+────────────────────────────────────────────
+LEAKLEAKLEAKLEAK BETWEENBETWEENBETWEENBETWEEN WIRELINEWIRELINEWIRELINEWIRELINE BOPBOPBOPBOP ANDANDANDAND TESTTESTTESTTEST TREETREETREETREE
+1 Pull wireline above downhole tester valve.
+2 Close downhole tester valve and bleed down tubing pressure.
+3 Pull out, close upper lubricator valve, bleed off excess pressure and rig down wireline.
+Note: If immediate closure is required, cut wireline with SSTT.
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                             Schlumberger
+                                                                                                                                                                                                                                                 Private
+
+
+
+
+
+Subsea Contingency Procedures                                       4
+
+

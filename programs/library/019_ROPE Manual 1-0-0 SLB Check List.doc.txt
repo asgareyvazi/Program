@@ -1,0 +1,9 @@
+# SOURCE: ROPE Manual 1-0-0 SLB Check List.doc
+
+📄 فایل 19 از 214  |  ROPE Manual 1-0-0 SLB Check List.doc
+❌ خطا در خواندن فایل:
+فایل .doc قدیمی است و python-docx نمی‌تواند آن را بخواند.
+
+راه‌حل‌ها:
+• فایل را در Word باز کنید و با «Save As» به .docx تبدیل کنید
+• یا روی سیستم خود antiword / catdoc نصب کنید تا خودکار خوانده شود

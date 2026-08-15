@@ -1,0 +1,116 @@
+
+
+# FPIT / BO Procedure and Recommended Best Practices
+25-Oct-2013 V 1.0
+
+## Abstract:
+Below procedure is the recommended best practice for running successful Free Point Indicator Tool and Back Off Operation.  Deviation from these procedures must be discussed with Field Service Manager before proceeding.
+
+## Safety is of foremost importance in FPIT - BO
+A JSA (Pre-job Safety Meeting) is a must with all persons involved:
+Comprehensive Risk Assessment to be carried out before start of the operation.
+Overpull, Torque, Rig-up Procedures to be discussed, with SLD and Rig crew.
+Pipe Tally to be provided to SLD (including lengths/weights of all pieces in Drill String).
+If not using SAFE (i.e., with Conventional Explosives), all precautions to be taken as per procedures (Electrical Isolation of Top Drive, Radio Silence, No welding, Cathodic Protection off etc.) – SLD Explosives Placard to be followed; standby boat to be moved away at least 500 M
+If using SAFE, Top Drive Isolation still required until tool is 200 ft below seabed.
+Pre-job Safety Meeting (PJSA) before Rig-up, constant communication with Drill Floor (radio)
+Clear all personnel from Rig floor during applying any torque until torque is released.
+
+## CAUTION
+Keep all personnel away from Rig Floor if any work being down on the drill pipe (torque).  The drill pipe thongs frequently sleep during this operation and has hit and killed many people in the past, in some cases has cut logging cable as well.
+Do not go down after shooting, you might go outside drill pipe and get stuck between the pipe and borehole wall.
+Do not enter any flapper valves or any one-way valve to avoid the risk of getting stuck.
+Do not allow Drill string to be pulled out before Tool string.
+Follow Explosive SOP step by step and do not take any shortcuts.
+Please ensure that each component in the drill string had been rabbited to the right ID.
+Rig-up of SLD Upper Sheave in the Crown is dangerous and must us certified 20T belt or Sling, and must be installed by Rig crew using safety belts and harnesses. Clear rig floor during this
+Ensure that jars do not go off accidentally during operation / while applying stretch
+Donot pass through the float valve (or so called Float Sub or the bit sub) as this piece is a one way valve; Stay above this depth (correlated) by min. 5 to 10 m to avoid getting stuck.
+
+## Tools Specifications (Minimum drift required):
+FPIT: 1 3/8” OD, Anchors open from 1.5” to 5”
+Back-Off without RFSAFE: 1 3/8” – 1 11/16”
+Back-Off with RFSAFE: 2 1/8”
+FPIL : 1-11/16" , 1-3/8", 2-1/8"
+
+## Points to be considered for Rig-up:
+High Deviation, RIH may require pumping down with stuffing box: SLD to advise client.
+Circulation
+Compensators (for Floaters/ Semi-submersibles)
+Rig Set-up: Rig-up points for Sheaves etc.
+Longest Bails to be used
+Ensure that jars do not go off accidentally during operation / while applying stretch
+When applying stretch, it should be slowly and driller must inform logging engineer.
+
+## Required Information from The Client
+The information below is required for successful design of FPIT and Bo and must be obtained from the Company Man:
+Top drive or conventional
+Jar info (type, set and reset pull) Jar operating or not ?
+Is Circulation possible
+Can LHT be applied down hole? (Else, Cutter recommended instead of BO)
+Drill String Sketch including BHA (including lengths, Weights ODs and IDs)
+Bit Depth When stuck.
+Minimum Restriction points
+Total Drill String weight including BHA (in Air and in mud)
+Travelling block weight including any Top Drive
+WUBS (weight coming up before stuck)
+WDBS (weight going down before stuck)
+Rotating Weight Before getting stuck (Neutral Weight, NW)
+Mud weight and mud type.
+Hole data: Bit Size, TD, Casing Size, Casing Depth.
+Hole profile: Kick-Off depth, Doglegs, Deviations.
+Max Safe RHT(right hand turns) MSRT
+Max Safe LHT(left hand turns) MSLT
+Max safe over pull  (without setting off the Jar) MSOP
+Min Safe Slack off  (without setting off the Jar) MSSO
+Estimated Depth of stuck point (calculated by company man from drill string stretch).
+Note: the float valve depth is important; Stay above this depth (correlated) by min. 5 to 10 m to avoid sticking.
+
+## FPIT Operating procedure:
+Put drill pipes in NW, Rig up upper sheave in the crown with 20T safety belt, Check tool on surface, open close anchors and Run In Hole.
+Reference point: Record 100% free pipe reference point in casing (about 500-1000m deep)
+Position tool in the middle of a joint, Open lower Anchor, slack cable 1m cable for every 1000m (1.5m in deviated wells), Open Upper Anchor. Record Stretch Base Frequency (SBF).
+Apply MSOP (all subsequent stretch measurements must apply the same amount of stretch)
+Record frequency (this is your 100% free pipe Stretch Frequency Reference Point, SFRP)
+Slack off drill pipe weight to 20% below NW, then put drill pipes in NW. Observe and Record Torque Base Frequency (TBF), it should be close to before applying MSOP.
+Apply MSRT (all subsequent torque measurements must apply the same number of turns)
+Record frequency (this is your 100% free pipe Torque Frequency Reference Point, TFRP)
+Release all torque, count the number of turns that drill pipe unwinds to be the same as applied, other wise work pipe between NW and MSOP until all torque released. Observe and record Base Frequency (close to before applying MSOP).
+Put drill pipe in NW, Pick up Slack, close Upper and then Lower Anchors.
+RIH to estimated stuck point depth, Perform CCL depth correlation,
+At 3 joint above the estimated stuck point, Stop in the middle of a joint.
+Start FPIT stations going down joint by joint untill you find the stuck point.
+At each station, make Base Frequency (BF) Measurement and both Stretch Measurement (SM) and Torque Measurements (TM) as described above and record frequencies to compare with SFRP and TFRP for % of free pipe.
+Always place tool in the middle of joints.
+Recommended MSRT=0.45 turns/ 1000 Ft.
+Keep in mind the MSOP of the drill string and always go below the NW of the drill string after pulling to MSOP.
+If deviated, work torque down between MSOP and minimum slack off value MSSO.
+After completing stations, POOH Safely and watch for obstruction near surface while pulling out of hole.
+If deep well, repeat reference point once or twice more on the way to estimated stuck point.
+
+## FPIL job:
+Put pipe in compression at MSSO, RIH and Record CCL correlation pass.
+Mark joints near estimated stuck point (above and below), 2m above and below each joint.
+Record Strain pass.
+Work the drill pipe between max compression MSSO to max safe pull MSOP at 10-15 times.
+Work the drill pipe from normal to max right hand torque MSRT at least 5-10 times and apply stretch.
+Put drill pipe max safe tension MSOP.
+Record stretch pass with.
+Compare (overlay) the strain and stretch passes to detect the stuck point.
+
+## BO operation:
+SLD will advises client on BO point (where it is 80% free) based on FPIT or FPIL results and client should confirm the back-off depth
+Torque up (tighten) the Drill string to MSLT and work the torque down between MSOP and MSSO.
+Apply Left Hand Turns (LHT) equal to 75% of MSLT and work the torque down by pulling between MSOP and BO weight.
+Note: For Deviated wells work the torque down by pulling between MSOP and MSSO
+BO Weight Thumb-rule:  BO weight = Normal weight of string at BO depth in MUD + (10% to 25%) + weight of block
+……  Note: For Deviated wells  use 20% to 25%.
+Use 1.5m lengh of wrapping primacord strands, tightly fastened together by strings at 10cm intervals, then wrapped with 2 inch scotch tape to backoff bar and more string knotes at 10 cm intervals using SLD knotting technique. Number of Primocord strands depends on backoff depth pressure, Tumb-rule: 1 string for every 350 psi.  I.E. for 4200 psi (calculated based on Mud Weight and TVD) require 18m of primacord wrapped 12 strands 1.5m long.
+Arm BO Shot Bar according to Explosives Standard Operating Procedure, Run In Hole, depth correlate, go up to BO depth.
+Hold at BO depth, Clear Rig floor from all personnel, and Fire the BO. Torque release is and indication of successful Back Off.
+Pull out 20m and stop.  Ask Driller to pull out 2-3m and stop to indicate successful Back off, then Pull out of hole safely.
+Ensure that jars do not go off accidentally during operation / while applying stretch
+⟐ SeaLand Private
+⟐ 1 of 4
+
+

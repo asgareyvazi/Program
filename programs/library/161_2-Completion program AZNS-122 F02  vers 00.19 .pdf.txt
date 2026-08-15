@@ -1,0 +1,1450 @@
+# SOURCE: 2-Completion program AZNS-122 F02  vers 00.19 .pdf
+
+📄 فایل 161 از 214  |  2-Completion program AZNS-122 F02  vers 00.19 .pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+    Well AZNS-122
+          (F02)
+  Fahliyan Development
+       Vertical Well
+  Completion Program
+
+    SOUTH AZADEGAN
+
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+DOCUMENT TYPE:    Completion Plan
+DOCUMENT TITLE:   AZNS-122 Fahliyan Development Vertical Well
+                      Completion Program
+SITE LOCATION:      South Azadegan Oil Field Development, Khuzestan,
+                          Iran
+                 ANTON
+
+                      Position         Name       Date & Signature
+
+          ANTON Technique Prepared by
+             Manager
+          ANTON Operations
+             Manager
+                    NIDC
+
+                      Position         Name       Date & Signature
+
+ Check&     NIDC Senior Drilling
+ Prepared by  Engineer
+            NIDC Head of Drilling Approved by                Fluid Engineering
+
+            NIDC Head of Drilling
+
+            NIDC Head of Drilling
+               Engineering
+            NIDC Project Manager
+
+                 PEDEC
+
+                      Position         Name       Date & Signature
+
+          PEDEC       Operation
+ Final Approval Manager
+
+          PEDEC Project Manager
+
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                             Table of Content
+A. General Data .............................................................................................................................. 1
+    A.1. General Data ................................................................................................................... 2
+    A.2. Well Schematic ............................................................................................................... 5
+    A.3. Tubular Specifications .................................................................................................... 6
+B. Clean-out Trip............................................................................................................................. 7
+    B.1. Objective .......................................................................................................................... 8
+    B.2. Risk Evaluation ............................................................................................................... 8
+    B.3. HSE Focus Points .......................................................................................................... 8
+    B.4. Technical .......................................................................................................................... 8
+    B.5. Operation Sequence ...................................................................................................... 9
+C. 7″Scraper Run ....................................................................................................................... 10
+    C.1. Objective ....................................................................................................................... 11
+    C.2. Risk Evaluation ............................................................................................................. 11
+    C.3. HSE Focus Points ........................................................................................................ 11
+    C.4. Technical ........................................................................................................................ 11
+    C.5. Operation Sequence.................................................................................................... 12
+D. Completion Installation ........................................................................................................... 13
+    D.1. Objectives...................................................................................................................... 14
+    D.2. Risk Evaluation ............................................................................................................. 14
+    D.3. HSE Focus Points ........................................................................................................ 14
+    D.4. Technical ........................................................................................................................ 14
+    D.5. Thread cleaning, compound application and make up........................................... 15
+    D.6. Well Status .................................................................................................................... 17
+    D.7. Completion Installation Operational Sequence ....................................................... 17
+    D.8. Completion Schematic ................................................................................................ 29
+    D.9. Completion Tally ........................................................................................................... 30
+    D.10. Completion Fluid ........................................................................................................ 31
+E. Main Tool Overview ................................................................................................................. 34
+    E.1. Top No-Go Landing Nipple ......................................................................................... 35
+    E.2. Premier Packer ............................................................................................................. 36
+    E.3. CMD Sliding Sleeve ..................................................................................................... 37
+    E.4. Travel Joint .................................................................................................................... 38
+    E.5. Chemical Injection Valve ............................................................................................. 39
+    E.6. Thunder (10E) Safety Valve ........................................................................................ 40
+    E.7. Well Head Schematic .................................................................................................. 41
+
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+         AZNS-122
+             (F02)
+
+  Upper Completion Project
+
+  A. General Data
+
+      ANTON OILFIELD SERVICES (GROUP)
+                            Jul. 2017
+
+                                                                                                     1/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+A.1. General Data
+                         F-02 Well Information
+
+ Country / Area:                  Iran / Khuzestan
+
+ Client :                 PEDEC
+
+ Field Name:             AZADEGAN
+
+ Well Name:                 AZNS-122(F02)
+
+ Location :                   Pad:55  Block: II
+
+ Grid Geodetic system:      UTM39N, WGS84
+
+ Wellhead Coordinates:       E:194,074   N:3,447,673
+
+ Reservoir Entry Coordinates:    E:194,074   N:3,447,673
+
+ TD Coordinates:             E:194,074   N:3,447,673
+
+ Well Completion:    7”Cemented Liner         Target                Fahliyan zone-5
+
+ Target Depth:      4200m MD
+
+ Completion            Vertical Well/Area II
+  t
+ Well Type:           Development / Vertical Well
+
+ RTE :              9.05m         GLE :                3.95m
+
+ Rig Name:         FATH 92          Contractor:          NIDC
+
+                                                                                                     2/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                         Casing / Liner Size
+
+ CSG/LNR Size    20"CS      13-3/8"CSG                                                  9-5/8"CSG     7"Liner
+
+ Shoe Depth      155m      2169m              3909.5m      3782m-4208m
+
+                          Other Information
+
+ Total Depth:               4208M MD
+
+ Producer Formation:           Fahliyan Oil Producer
+
+                             Reservoir Data
+
+                                        Measure
+      Item
+                   Sarvak    Kazhdumi    Gadvan      Fahliyan         Unit
+ Datum depth                                         4000      MSS
+ Temperature                                             269.6     ℉
+ Temp. Gradient                                             1.32       ℉/100ft
+ Initial Pressure                                       8825       PSIA
+ H2S from PVT
+                     0.06         0           0.11         0.28       Mol%
+ Reservoir Oil
+ CO2 from PVT
+                     1.45        200          1.87         2.68       Mol%
+ Reservoir Oil
+ H2S from PVT
+                     0.13         0           0.16         0.37       Mol%
+ Separator Gas
+ CO2 from PVT
+                      6.11         2.65         2.91         3.60       Mol%
+ Separator Gas
+ Interval         2646-3279   3279-3450   3661-3780    3780-TD     M
+ Pore Pressure    1.14-1.26     1.1-1.14      1.1-1.25      1.60-1.3      SG
+ Collapse
+                    0.24-1.23    0.46-0.96     0.55-1.44     1.20-1.75     SG
+ Pressure
+ Fracture
+                    1.44-1.81    1.93-1.94     1.97-2.11     2.08-2.12     SG
+ Pressure
+
+                                                                                                     3/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                          Perforation Intervals Table2005 年本地大学学生注册
+  ITEM       TOP     BOTTOM      THICKNESS
+
+     1         4086        4101         15MTR           A1
+
+     2         4114        4120          6MTR           B1
+
+                                                                                                     4/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+A.2. Well Schematic
+
+                                   South Azadegan Oil field
+
+                 Formation                          AZNS#122 (F02– Area II-pad 55 )
+
+                               0
+
+                                         20" @ 155m
+
+                            500 m
+
+                           1000 m
+
+                           1500 m
+
+                           2000 m
+                                      13 3/8 @ 2169m
+
+                           2500 m
+
+                      3000m
+
+                      3500m
+                                                   NEW PRK@ 3838±1m MD
+
+                                                                                                  Perforation                                                                                                                  Intervals:                                       9 5/8 @ 3909.5m                  OLD PRK@ 3930m MD                                                                                                           4086-4101 m MD
+                      4000m                                                                            4114-4120 m MD
+                                                                                    Remained Operations:
+                                                                                     1-TCP- UB
+                                      7 "Liner@3782- 4208 MD                                                    2- Run Completion String
+                                                        TD: 4208m; MD
+
+                                                                                                     5/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+A.3. Tubular Specifications
+
+A combination of 9.2 ppf 3 1/2” G3-110 and 18.9 ppf 4 1/2”, L-80, 15.1ppf 4 1/2”,
+T-95 Gas tight Thread Tubing will be used to complete the wells.
+                           TBG     TBG     TBG
+Size(in)                            4 1/2      3 1/2      4 1/2
+Nominal weight(lb/ft)                   18.9         9.2       15.1
+Wall thickness(in)                      0.43       0.254      0.337
+Inside diameter(in)                     3.64       2.992      3.826
+API Drift Diameter(in)                  3.515      2.867      3.701
+Steel cross section(in2)                5.498      2.590      4.407
+Capacity(gal/ft)                        0.541      0.365      0.597
+Displacement(gal/ft)                   0.826      0.499      0.826
+Grade                                 L-80      G3-110    T-95
+Collapse resistance(psi)               13818.5   13530     12760
+Internal yield pressure(psi)            13369     13970     12450
+Pip body yield strength(klbf)            439.2      285      419
+
+                                                                                                     6/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+         AZNS-122
+             (F02)
+
+  Upper Completion Project
+
+   B. Clean-out Trip
+
+      ANTON OILFIELD SERVICES (GROUP)
+                            Jul. 2017
+
+                                                                                                     7/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+Well Status
+1.  7'' liner hanger was set.
+2.  Stable well filled with 106 PCF mud.
+3. 11” short wear bushing installed in wellhead.
+
+B.1. Objective
+
+The objective is to run the clean out BHA to top of perforation and Circulation
+to displace completion fluid.
+
+ B.2. Risk Evaluation
+
+  Junk falls in hole.
+  Debris on top of liner hanger.
+ BHA stuck in the hole.
+   Bit or BHA stuck due bad liner joint(Small ID or collapsed casing/liner)in
+     liner or casing.
+
+B.3. HSE Focus Points
+
+  Well has to be stable before running the BHA.
+  Monitor well for loss/gain over the trip tank.
+  Good communication among all parties responsible for well control.
+  Pre-job meeting will focus on well control, contingency procedures to be
+    understood by all involved parties.
+  Volume and well control shall be focused upon throughout running/pulling.
+       Fill out kick sheet prior to run in hole.
+  On a positive indication of a kick, unexpected pit gain or flow return rate
+     increase, well shall be shut in without performing flow check.
+  A kick stand shall be readily available at all times.
+  Run with BHA slowly & carefully inside liner In the First.
+
+B.4. Technical
+
+                                                                                                     8/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+    It.     7"CSG L80 29# .
+  Spec.    Drift ID:6.125"
+
+B.5. Operation Sequence
+
+1.  P/U & M/U clean out BHA including:
+   6 1/8" Bit + enough length of 3 1/2"HWDP+ enough length of 3 1/2" DP+5"DP.
+2.  RIH clean out BHA to3930m (the top of the old packer).
+3.  Circulation to displace completion fluid as program (Section D10) inside
+    the well.
+   NOTE : TSS and NTU of completion fluid should be mention below the 30(TSS
+   UNIT is mg/l)
+4. POOH to surface while observe the well to make sure well is static.
+
+                                                                                                     9/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+         AZNS-122
+             (F02)
+
+  Upper Completion Project
+
+   C. 7″Scraper Run
+
+      ANTON OILFIELD SERVICES (GROUP)
+                            Jul. 2017
+
+                                                                                                 10/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+Well Status
+1.  7" liner hanger was set.
+2.  Clean out string has been run to clean the well.
+3.  Stable well filled with 106PCF (14.16ppf) completion fluid.
+4.  11” short wear bushing installed in wellhead.
+
+C.1. Objective
+
+The objective is to run the 7″ scraper with 6-1/8” bit BHA to scrape inside
+7”Liner above the old packer.
+
+C.2. Risk Evaluation
+
+  Junk falls in hole.
+ BHA stuck in the hole.
+  Fish scraper parts in well.
+
+C.3. HSE Focus Points
+
+  Well has to be stable before running the BHA.
+  Monitor well for loss/gain over the trip tank.
+  Good communication among all parties responsible for well control.
+  Pre-job meeting will focus on well control, contingency procedures to be
+   understood by all involved parties.
+  Volume and well control shall be focused upon throughout running/pulling.
+      Fill out kick sheet prior to run in hole.
+  On a positive indication of a kick, unexpected pit gain or flow return rate
+    increase, well shall be shut in without performing flow check.
+  A kick stand shall be readily available at all times.
+
+C.4. Technical
+
+Note:7” scraper shall be suitable for 35 ppf liner.
+It.        7"Liner 110S, 29PPF
+Spec.      Drift ID:6.125"
+
+                                                                                                 11/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+C.5. Operation Sequence
+
+1.  P/U & M/U 6 1/8” Bit + 7” Scrapper + 3 1/2” HWDP + enough length of 3
+    1/2” & 5”DP.
+2.  RIH to packer depth@3838±1m (avoid casing collar).
+3.  Scrape 3 times up and down 20m at designed packer setting depth while
+   pumping.
+4.  Circulation and clean out the well with 1.5 to 2 times of well volume
+    completion fluid.
+5. POOH to surface while observe the well to make sure well is static.
+
+                                                        6 1/8
+
+                                                        6 1/8
+
+                                                                                                 12/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+         AZNS-122
+             (F02)
+
+  Upper Completion Project
+
+    D. Completion
+       Installation
+
+      ANTON OILFIELD SERVICES (GROUP)
+                            Jul. 2017
+
+                                                                                                 13/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+D.1. Objectives
+
+The objective is to install the upper completion tools, including anchor latch
+seal (anchor is removed), landing nipple, production packer, expansion joint,
+SSD, chemical injection mandrel, chemical injection valve, TRSSSV, 4 1/2” & 3
+1/2” production tubing, tubing hanger and X-mas tree.
+
+D.2. Risk Evaluation
+
+  Fluid left in tubing is not properly inhibited.
+  Losing control line clamps in hole.
+  Junk falls in the well before or during completion.
+  Over torque tubing connections.
+  Leak in TRSSSV control line when pressure testing .
+  Damage to TRSSSV control lines from manual slips.
+  Taking kick/inflow during completion.
+  Damage to tubing hanger when running through riser/BOP.
+  Poor make up graphs due to poor supervision.
+
+D.3. HSE Focus Points
+
+  Maintain good housekeeping on the drill floor at all times.
+  The well shall be lined up to the trip tank. Keep the trip tank pump running.
+  Perform pre job meetings with all involved personnel at critical stages of
+    the operation.
+  Perform kick drill prior to commencement.
+    It is strongly advised to have emergency cable cutters (tong) for TRSSSV
+    control line ready on rig floor.
+  Observe that well is stable before running completion.
+
+D.4. Technical
+
+  TRSSSV should be drifted to minimum ID prior to shipment.
+  Verify that BPV has been physically checked to fit the TH no-go profile and
+    that it has been drifted through the X-mas tree.
+  The tubing will be measured, checked, drifted and cleaned from inside.
+
+                                                                                                 14/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+  Number tubing joints from 1 upwards when lying out on pipe deck.
+  No turning of string while RIH.
+   All completion BHA’s have Premium Connections.
+   All tubing will be drifted after makeup.
+  NIDC Representative will inspect the tubing threads and seal area for
+   damage and supervise the handling and running of the BHA’s and tubing.
+  Rejected tubing joints to be marked as damaged with red paint and put
+    aside.
+  Prepare the rig tally. The rig tally should be checked and prepared in
+   enough copy to be delivered to all group involve. Pup joints and crossovers
+    to be included in the tally.
+  Enough extra 4 1/2" & 3 1/2” couplings should be available in case of
+    thread galling when makeup.
+  Use cloth cover at all times when making up BHA. Report any items lost in
+    hole immediately.
+   All pressure testing to be recorded on charts and approved by Completion
+   Engineer and NIDC Representative to be included in handover document.
+  4 1/2” 18.9 # TPCQ-EX tubing, pups and tubing hanger to be drifted to
+    3.515”.
+  3 1/2” 9.2 # VAM-TOP tubing to be drifted to 2.867”.
+  M/U the connections of completion tools according to the following table
+                                      Minimum  Optimum  Maximum
+ Item    Description    Material   Connection
+                                                                    (ft-lb)        (ft-lb)         (ft-lb)
+  1      4-1/2”-18.9#     L80     TPCQ-EX     6,860      7,620      8,380
+
+  2      4-1/2”-15.1#      T-95     TPCQ-EX     5,260      5,840      6,420
+
+  3      3-1/2”-9.2#     G3-110    VAMTOP     2,860      3,170      3,480
+
+D.5. Thread cleaning, compound application and
+make up
+
+             COMPOUND CHARACTERISTICS
+    COMPANY:                 JET-LUBE
+     TYPE:                   SEAL-GUARD ECF
+    COLOR:                DARK GRAY TO BLACK
+     THICKENER:             COMPLEX THICKENERS
+
+                                                                                                 15/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+     FLUID TYPE(OIL):          SYNTHETIC&VEGETABLE
+    DROPPING               190℃
+     POINT(ASTM-2265):
+     SPECIFIC GRAVITY, TYPICAL:  1.28
+     DENSITY(LB/GAL), TYPICAL:   10.65
+     OIL     SEPARATION(ASTM  ＜3.0
+      D-6184):
+    FLASH POINT(ASTM D-92):    ＞232℃
+     NLGI GRADE:                 1
+     SERVICE RATING:            -29℃ to 260℃
+
+Storage compounds are not suitable as running compounds, so they must be
+removed and the connections cleaned prior to application of thread running
+compound for make-up.
+  Never use barite or wire brush to clean connections as damage may be
+    occurred.
+  Never use diesel to clean the connections as this will leave a film that can
+   cause make up problems or affect the performance.
+  Use steam cleaner or water jet to clean the threads.
+Rack one row of tubular on pipe rack, open the protectors, clean the box and
+pin connections out of storage dope, hand tight the clean protectors and rack
+another row of tubular on top. Continue the above procedure till all connections
+are cleaned and racked consecutively.
+Rack the tubular in staggered configuration with suitable pipe in between.
+Connections should be completely dry before application of thread compound.
+All compounds conforming to API 5A2 and API 5A3 are acceptable as running
+compounds.
+These API modified thread compounds are harmful to the environment and
+can cause skin problems.
+Do not use expired running thread compounds. If excess thread compound
+has been left from a previous job and it has been stored properly, then it is
+acceptable to use. Ensure that the compound is free of foreign particles.
+Never use drill pipe compounds for tubing and casing and vice-versa.
+Thread compounds are all required to be regularly mixed during use.
+Evenly apply the correct quantity of compound (as per below table) to all the
+thread seal and shoulder areas with fine brush. The compound must reach the
+bottom of the thread. Thread compound must not extrude from the connections
+during make up as this indicates extra dope applied.
+
+                                                                                                 16/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+   Nominal OD(in.)/Type     Dope Volume(cm3)       Dope Volume(in.3)
+      4-1/2" TPEX 18.9#              8                          0.5
+     3-1/2" VAMTOP 9.2#             4                          0.2
+Above mentioned dope volume shall be applied as a thin film, evenly at pin
+connections.
+Apply the following procedure for making up the tubular:
+
+D.6. Well Status
+
+  Hole is stabled with Completion fluid.
+  The BOP rams have been operated before running the packer.
+  7”Liner has been scrapped.
+  Remove Wear Bushing before RIH BHA.
+
+D.7.   Completion    Installation   Operational
+Sequence
+
+Note: Perform pre-job safety meeting with special instruction to NIDC crew
+regarding correct dope application, make up torque and tubing handling
+(Under NIDC Representative).
+Note: Retrieve wear bushing. Flush tubing head spool as per Wellhead service
+Engineer instruction. Do perfect wash and check the return form side outlet to
+make sure it's free of debris.
+Note: Measure accurate distance from tubing landing shoulder to rotary table
+Note: A single joint elevator same as tubing size will be used as backup to
+secure the assemblies in the beginning when there is low weight hanging in
+the side door. This will be installed directly on TOP of the compact spider
+frame.
+Note: Rigging up of the assembly should take place with extra care while using
+the air hoist and the Crane at the same time.
+Note: all the completion equipment are already made up with 1 pup jt. above
+
+                                                                                                 17/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+and 1 pup jt. below, torqued up and pressure tested, all valves of X-mas tree
+already tested in work shop. The make-up torque according the following table:
+                                      Minimum  Optimum  Maximum
+  Item    Description   Material   Connection
+                                                                    (ft-lb)        (ft-lb)         (ft-lb)
+
+   1      4-1/2”-18.9#    L80     TPCQ-EX     6,860      7,620      8,380
+
+   2      4-1/2”-15.1#     T-95     TPCQ-EX     5,260      5,840      6,420
+
+   3      3-1/2”-9.2#    G3-110   VAMTOP     2,860      3,170      3,480
+
+Note: Lift all emergency well control subs to rig floor and make up to cock
+valve.
+1. Open all the tubing protectors in the rack, wash and clean all the threads.
+2.  Rig up completion running tools.
+3. M/U and RIH all below equipment’s step by step:
+
+Run completion components as below:
+
+1)  4.00" Anchor Seal (WQX supplied) with 1 jt. 3-1/2” tubing
+
+                         Specification of Anchor Seal
+
+Item       Name                               Description                        Remark
+
+                         SIZE 4.00" ANCHOR SEAL ASSEMBLY SUIT WITH
+                    PERMANENT PACKER
+                        SUITABLE FOR 3-1/2" 10.20 PPF TPCQ-EX TUBING
+                           MIN. ID: 2.922"
+           SIZE 4.00"
+                  WORK PRESSURE: 10,000 PSI
+       ANCHOR SEAL  1                      TEMPERATURE: 325 DEG F
+        ASSEMBLY
+                         MATERIAL: SUPER 13CR-110KSI
+                     TOP CONNECTION: 3-1/2" 10.20 PPF TPCQ-EX BOX
+                    BOTTOM  CONNECTION: MULE SHOE GUIDE
+                      TYPE : RATCH LATCH
+-  The anchor is removed before RIH.
+-   Bakerlok would be used at tubing pin connection before makeup.
+-   Connection must be fulfilled by pipe wrench before makeup by tubing tongs avoid
+    thread of completion tool damaged.
+
+                                                                                                 18/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+2)  2.75” Top No-Go Landing Nipple with 1 jt. 3-1/2” tubing
+
+-   Pressure test Top No-Go Landing Nipple with 8,000 psi in the workshop.
+
+                  Specification of Top No-Go Landing Nipple
+
+Item       Name                               Description                        Remark
+
+                    MODEL AOF TOP NO GO LANDING NIPPLE
+                            SIZE: 3-1/2",
+                        WEIGHT: 9.2 PPF,
+                     THREAD TYPE: 3-1/2", 9.2 PPF, VAM TOP PIN × BOX,
+                      SEAL BORE MIN ID: 2.75" WITH AOF LOCK PROFILE AND
+        TOP NO-GO
+                        SUITABLE LOCK MANDREL  2       LANDING NIPPLE
+                            OD:3.91”
+                                 ID: 2.75”
+                    WORKING PRESSURE: 10,000 PSI
+                         MATERIAL: INCOLOY 925, UNS: N09925
+                       MIN YIELD STRENGTH: 110 KSI
+
+3)  7” Production Packer and RIH
+-   Pressure test the Production Packer with 500 psi in the workshop.
+-  Check the element/packer slip without any damages.
+-  Use sling to lift packer assembly to rig floor, the tag line is required to assist lifting.
+-   After M/U packer assembly with tubing, slowly slack off it near to the rig floor.
+    Double check the quantity of shear pins, remove the tape on the packing element
+   and slips, and check if any damages on it.
+-  Much more care should be taken when the packer is passing wellhead.
+-   Record the pickup and slack off weight of the string after the packer below the
+    wellhead.
+-   After 7” production packer RIH, limited the running speed less than 30 second per
+     joint from slip to slip.
+
+                      Specification of Production Packer
+
+Item       Name                               Description                        Remark
+
+              3-1/2" × 7"     MODEL PREMIER PRODUCTION PACKER
+       HYDRAULIC SET    SIZE: 7"
+  3      RETRIEVABLE     OD:5.820”
+        PRODUCTION    MIN ID:2.870”
+         PACKER     CAN BE SET IN 7" 32-35PPF LINER
+
+                                                                                                 19/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                      WITH INCLINATION MORE THAN 45°
+                        WEIGHT: 32-35 PPF,
+                      GRADE: L80,
+                      CONNECTION: 3-1/2", 9.2 PPF, VAM TOP. TUBING BOX X
+                         PIN
+                    WORKING PRESSURE: 10,000 PSI
+                         MATERIAL: INCOLOY 925, UNS: N09925
+                       MIN YIELD STRENGTH: 110 KSI,
+                      DESIGN VALIDATION GRADE: V3
+                       QUALITY CONTROL GRADE: Q1
+                     ELEMENT MATERIAL: AFLAS
+                        O-RING MATERIAL: VITON
+
+4)  M/U SSD and RIH
+-  Make sure the SSD is in open position while RIH.
+-   Pre-install AFT-2 check valve in the lock profile of SSD and pressure test the SSD
+    with 8,000 psi in the workshop.
+-  RIH the SSD with AFT-2 check valve inside and SSD in Open Position.
+    Note: SSD is Jar Down to open.
+
+                             Specification of SSD
+
+Item       Name                               Description                        Remark
+
+                    MODEL CMD NON-ELASTOMERIC SLIDING SLEEVE
+                    FOR SIZE: 3-1/2", WEIGHT: 9.2 PPF,
+                      SEAL BORE ID:2.813”
+                     THREAD TYPE: VAM TOP
+                      CONNECTION: BOX × PIN
+  4        SSD       WORKING PRESSURE: 10,000 PSI
+                         MATERIAL: INCONEL 718, UNS: N07718
+                       MIN YIELD STRENGTH: 120 KSI,
+                      NON-ELASTOMERIC TYPE.
+                                        • TO BE RUN INSIDE LINER 7", 32-35 PPF, L80, TPCQ
+                                        • WITH F LOCK PROFILE
+
+5)  M/U Keyed Travel Joint and RIH
+-   Pressure test the Keyed Travel Joint with 8,000 psi in the workshop at full open
+     position.
+-   Before deliver the travel joint to the rig, install all 10 shear pins on it at full close
+     position.
+                                                                                                 20/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+-  Use sling to lift packer assembly to rig floor, the tag line is required to assist lifting.
+-   After M/U travel joint to tubing, remove all shear pins around travel joint at the
+    neutral point with slip holding the whole BHA.
+-   Pick up travel joint to the full open position.
+-  Remove the slip and record the pickup and slack off weight of the string.
+-   Slack off the travel joint with fully open near to the rig floor, and install 3 shear
+    pins (20,000lbs or 9tons).
+
+                        Specification of Expansion joint
+
+ Item       Name                               Description                        Remark
+
+                    MODEL N SPLINED EXPANSION JOINT
+                            SIZE: 3-1/2"
+                            OD:4.875”
+                               ID:2.875”
+                        WEIGHT: 9.2 PPF,
+                     THREAD TYPE: VAM TOP.
+                      CONNECTION: BOX × PIN
+                       TOTAL STROKE: 20 FEET,
+                    WORKING PRESSURE: 10,000 PSI
+       KEYED TRAVEL
+  5                      MATERIAL: INCOLOY 925, UNS: N09925
+            JOINT
+                       MIN YIELD STRENGTH: 110 KSI,
+                      TENSION VALUE AT FULL OPEN POSITION: 130,000LBS
+                    TORQUE VALUE AT OPEN POSITION: 3,500FT-LB
+                      SEAL MATERIAL: VTR, O-RING MATERIAL:
+                       TEFLON/PEEK BACKUP METAL TO METAL SEAL
+                        SERVICE: H2S/CO2
+                    SHEAR PIN SIZE: 1/2-13 X 3/4
+                    SHEAR PIN MATERIAL: BRASS
+                    EACH SHEAR PIN SHEAR VALUE: 6,630LBS
+
+6)  M/U Chemical Injection Sub w/Injection Valve #1 & 2 and RIH
+-   Pressure test Chemical Injection Sub w/Injection Valve with 8,000 psi in the
+    workshop.
+-   Pick up and make up chemical injection sub, make up one more joint of 3-1/2"
+     tubing.
+-   Connect with the 3/8” chemical injection line.
+-   Pressure tests the Fitting with max 5,000psi@15 min.
+    Note: In order to protect the rupture disk in CIV, test pressure should not exceed
+    5000psi. It is difficult to hold on 5000psi due to hydraulic oil compression and
+                                                                                                 21/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+     friction loss from 4000m injection line volume. Therefore, hold on pressure less
+    than 5000psi and no leakage detected in the fitting mean qualified.
+-   Hold 500~1000psi pressure in chemical injection line during RIH. Monitor
+    pressure changes during RIH.
+    Note: pressure may increase or decrease because of temperature variation. It
+    always happens increasing at day and decreasing at night.
+-   Take care of the CIL from being collapsed by slip or any other equipment.
+-  Do not close BOP once the chemical injection lines were in the hole unless
+    necessary.
+-   Note: Chemical Injection Sub holding pressure during RIH calculation as bellow:
+                Rupture Pressure (psi)                              7000±10%
+
+                   3/8” C/line Test Pressure (psi)                              10000psi
+
+                   C/line hydrostatic pressure (psi) at 3700(oil density 55 pcf)    4700
+
+             Recommended holding pressure on CIL (psi)               500
+
+      Specification of Chemical Injection Sub w/ Injection Valve #1 and #2
+
+ Item       Name                               Description                        Remark
+
+                    ECC CHEMICAL INJECTION SUB
+                    CAN BE RUN IN 7" 32-35PPF LINER
+                            OD:5.255"
+                               ID:2.949"
+                            SIZE: 3-1/2",WEIGHT: 9.2 PPF,
+                     THREAD TYPE: VAM TOP BOX × PIN
+                    WORKING PRESSURE: 10,000 PSI,
+         CHEMICAL
+                      CHEMICAL INJECTION LINE CONNECTION SIZE: 3/8"
+          INJECTION
+  6                      MATERIAL: INCOLOY 925, UNS: N09925
+       MANDREL AND
+                       MIN YIELD STRENGTH: 110 KSI,
+           VALVE
+                     CONNECTION TO THE  INJECTION  LINE SHALL BE
+                      PRIMARY AND BACK UP METAL TO METAL SEAL.
+                                        • ISO 14310 V3 BARRIER SHALL BE QUALIFIED.
+                      CHEMICAL INJECTION VALVE:
+                         MATERIAL: INCOLOY 925
+                     RUPTURE DISC BURST PRESSURE: 7,000 PSI±10%
+                     PRESSURE RATING: 10,000 PSI
+
+7)  RIH with 3-1/2” tubing
+-  Each tubing should be drifted before lifted to the rig floor.
+-   Clean the thread with rag before dope it at the pin end.
+
+                                                                                                 22/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+-    Install “Cross Coupling Protector (Screw Type)” on each tubing coupling.
+    Note: Protectors should be screwed tightly. Cover should be used during this
+    time.
+
+      Specification of 3 ½” Tubing Cross Coupling Protector (Screw Type)
+
+ Item       Name                               Description                        Remark
+
+                   SCREW TYPE
+          3 ½” TUBING
+                         SUIT FOR 3-1/2" VAMTOP TUBING,         CROSS  7         COUPLING                            SIZE: INCLUDING 3 SLOTS, ONE FOR 1/4" OD CL, TWO
+        PROTECTOR
+                    FOR 3/8" OD CHEMICAL INJECTION LINE
+
+8)  RIH Cross-over Sub
+-   After M/U one joint of 4-1/2” tubing above crossover sub, use gauge cutter to drift
+   BHA until SSD.
+-   Pressure test BHA integrity about 8000psi@15mins.
+
+                        Specification of Crossover Sub
+
+ Item       Name                               Description                        Remark
+
+                      CONNECTION: 3-1/2", 9.2 PPF, VAM TOP PIN × 4-1/2", 15.1
+                           PPF, TPCQ-EX BOX,
+  8     CROSSOVERS    LENGTH: 1.5 M.
+                         MATERIAL: INCOLOY 925, UNS: N09925
+                       MIN YIELD STRENGTH: 110 KSI,
+
+9)  RIH with 4-1/2” tubing
+-    Install “Cross Coupling Protector (Screw Type)” on each tubing coupling.
+
+      Specification of 4 ½” Tubing Cross Coupling Protector (Screw Type)
+
+ Item       Name                               Description                        Remark
+
+                   SCREW TYPE
+         CROSS
+                         SUIT FOR 4-1/2", TPCQ–EX TUBING,
+  9      COUPLING
+                            SIZE: INCLUDING 3 SLOTS, ONE FOR 1/4" OD CL, TWO
+        PROTECTOR
+                    FOR 3/8" OD CHEMICAL INJECTION LINE
+
+10) Pressure tests during the tubing string while running in below depth:
+-   1800 m (after running 1700 m 4 ½” Tubing above the X-Over 4 ½” * 3 ½”)
+    6500psi@15mins
+
+                                                                                                 23/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+-  3700m (before make up TRSCSSSV)
+    5500psi@15mins
+11) Run in 4-1/2" TRSV
+-   Pick up and make up to 4-1/2" Tubing.
+-    Install 1/4” control line with suitable fitting to TRSV.
+-   Pressure test control line 1000psi@5mins and 10,000psi@15mins.
+-   Bleed off the 1/4” control line pressure to 5,000psi while RIH.
+-   Monitor control line pressure change during RIH. Emergency report immediately.
+
+                   Specification of SHORT FLOW COUPLING
+
+ Item       Name                               Description                        Remark
+
+                            SIZE: 4-1/2"
+                        WEIGHT: 15.1 PPF, LENGTH: 6 FT.
+                     THREAD TYPE: 4-1/2", 15.1 PPF, VAM TOP BOX
+       SHORT FLOW
+11-1                     × 4-1/2", 15.1 PPF, TPCQ-EX PIN,
+         COUPLING
+                    FLOW COUPLING ID: 3.826",
+                    FLOW COUPLING OD: 5.350"
+                         MATERIAL: INCOLOY 925, UNS: N09925
+
+                    MODEL THUNDER-10E
+                            SIZE: 4-1/2
+                       MIN BORE: 3.688",
+                    MAX OD: 7.403”,
+                    WORKING PRESSURE: 10,000 PSI
+               W T: 20-300 °F
+          TUBING
+                       SETING DEPTH:1000FT
+        RETRIEVABLE
+11-2                   OPENING PRESSURE:2000PSI+SHUT IN PRESSURE
+       SUBSURFACE
+                      CONNECTION: VAM TOP
+       SAFETY VALVE
+                         MATERIAL: INCONEL 718, UNS: N07718
+                       MIN YIELD STRENGTH: 120 KSI,
+                       FEATURES: SELF EQUALIZING AND FLAPPERTYPE,
+                      FLAPPER MATERIAL:INC 718
+                      SPRING MATERIAL:X-750
+                      CLASS OF SERVICE:3S
+
+                            SIZE: 4-1/2"
+                        WEIGHT: 15.1 PPF
+11-3   LONG    FLOW  THREAD TYPE: 4-1/2", 15.1 PPF, VAM TOP PIN
+      COUPLING           ×4-1/2", 15.1 PPF, TPCQ-EX, BOX
+                       LENGTH: 20 FT
+
+                                                                                                 24/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                    FLOW COUPLING ID: 3.826",
+                    FLOW COUPLING OD: 5.350".
+                         MATERIAL: INCOLOY 925, UNS: N09925
+                       MIN YIELD STRENGTH: 110 KSI,
+-    Install “Protector for TR-SCSSSV (Screw Type)” for securing CIL & CL on
+   TRSCSSV instead of “Cross Coupling Protector (Screw Type)”
+
+               Specification of Protector for TRSV (Screw Type)
+
+ Item       Name                               Description                        Remark
+
+                     (SCREW TYPE)
+      PROTECTOR FOR   SUIT FOR 4-1/2" TRSCSSSV, SIZE: INCLUDING
+ 11-4
+         TR-SCSSSV     3 SLOTS, ONE FOR 1/4" OD CONTROL LINE,
+                  TWO FOR 3/8" CHEMICAL INJECTION LINE,
+-   Continue RIH 1 Joint 4-1/2” tubing; install “Cross Coupling Protector (Screw
+    Type)” on each tubing coupling.
+Note: 4-1/2” Tubing above TRSV should be 4-1/2” 15.1ppf.
+12) Pressure Test Tubing, Inflow Test for TRSV
+-   Pressurize control line to open TRSV and hold the pressure to 10000psi.
+-   Close the valve above tubing to only pressure test surface pumping line to
+    6,000psi@15mins.
+-  Open the valve above tubing and pressure test tubing integrity against AFT-2
+    check valve in SSD to 5500psi@ 15mins.
+-   After tubing P/T, bleed off the control line to zero to close the TRSV.
+-   Inflow test for TRSV.
+ · Bleed off the tubing pressure to 500psi. Monitor the tubing pressure for more
+     than 10mins for any pressure builds up. No pressure builds up indicate the
+    TRSV can work well.
+ · Pressurize control line to open TRSV (SITP + opening pressure of the valve),
+     and monitor the tubing pressure for more than 10min.
+ · If the pressure increased to ±5500psi, the TRSV is ok.
+ · Release pressure to 0.
+ · Continue RIH 4-1/2” TPCQ-EX tubing while installing “Cross Coupling Protector
+     (Screw Type)” on each tubing coupling.
+13) Tag the bottom packer
+-   According to the running tally, record the last joint of tubing pick-up and slack-off
+    weight.
+-   Slack off the last joint of tubing to tag the top of bottom packer.
+    Note: The Max. Slack off weight must be less than 15,000lbs about 3 shear pins
+
+                                                                                                 25/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+     installed on Travel Joint.
+-   Record the length when anchor seal in to the bottom packer fully. And according
+     to this length do the tubing space out.
+    Note: When the anchor seal stab into the bottom packer, friction would be
+   happened and it would lead the BHA weight loss.
+14) M/U Tubing Hanger
+-  Make up Double Pin Pup joint to Tubing Hanger in advance.
+
+                       Specification of double pin nipple
+
+ Item       Name                               Description                        Remark
+
+                                  4-1/2", 15.1 PPF, TPCQ-EX,
+                         PIN × PIN, LENGTH: 1.5 M
+ 12.1       4-1/2" NIPPLE
+                         MATERIAL: INCOLOY 925, UNS: N09925
+                       MIN YIELD STRENGTH: 110 KSI,
+
+                                  4-1/2", 15.1 PPF, VAM TOP,
+                         PIN × TPCQ-EX PIN, LENGTH: 1.5 M
+ 12.2       4-1/2" NIPPLE
+                         MATERIAL: INCOLOY 925, UNS: N09925
+                       MIN YIELD STRENGTH: 110 KSI,
+
+-  RIH tubing hanger
+ · Check the thread type of tubing hanger, choose the suitable 4-1/2” double pin
+      nipple
+ · According to the tubing space out to calculate how many pup joints would be
+     used, check tally again to make sure  it will not set the packer across casing
+       collar.
+ · Check the seals on the tubing hanger body, take off the seal. Clean the threads
+      of through-hole into tubing hanger.
+ · Apply grease oil on the body.
+ · Connect tubing hanger and crossover with pup joint.
+ · Pressure test completion string completely to 5500 psi@15mins.
+ · Break off pup joint, install seal element to tubing hanger and connect landing
+       joint to tubing hanger.
+ · If necessary, rotate the BHA following tubing hanger manufacturer engineer
+      direction.
+ · Bleed off the lines, and cut them 3m above tubing hanger. Wrap 2-3 turns onto
+     double pin pup joint below tubing hanger.
+-  Feed through THG
+ · Install a bored through fitting over line, feed lines through tubing hanger, and
+
+                                                                                                 26/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+     then fix a bored through fitting on both bottom and top of tubing hanger.
+ · Connect needle valve to control line and Pump pressure to 10,000psi into
+      control line to test the connector, and then bleed off pressure to 7000psi close
+     needle valve keep safety valve open, install a plug to the other side of needle
+      valve.
+ · Install 3/8" plugs on injection lines. Make mark on the tubing hanger so that
+      identify the three chemical and control lines.
+-   Lower tubing hanger
+ · Drain the BOP stack through the gate valves of tubing head. Leave the valves
+     open.
+ · Grease the body of the THG.
+ · Land the tubing in center position, and land into the tubing head spool. Check
+      the landing joint in depth to ensure the tubing hanger is fully landed.
+ · Make a mark onto landing joint.
+ · Reverse circulation 2 volume of downhole fluids and circulation pressure should
+     be less than 300psi.
+ · S/L RIH for retrieve AFT-2 check valve from SSD.
+ · S/L RIH shifting tool to close SSD.
+ · S/L RIH with suitable drift the failed tail string Landing Nipple.
+ · Run slick line to set 2.75” AFM blanking plug into 2.75” AOF LN.
+ · POOH S/L.
+      Note: Fill up annulus after AFM blanking plug set into LN.
+
+15) Set Production Packer and Pressure Test
+-   Pick up the tubing hanger to the tubing hanger 10ft above the tubing head spool.
+   Do not set slip at rotary table.
+-  R/U pump unit, flush the surface line to ensure there is not any trash inside.
+    Pressure tests the surface pumping line only with 6,000psi @5min.
+-   Slowly pump pressure difference up to 5,000psi step by step to set the packer,
+    hold 5 minutes for each step, hold 5,000psi for 15min.
+ · 500psi@2min
+ · 1500psi@5min
+ · 2500psi@5min
+ · 3500psi@5min
+ · 4500psi@5min
+ · 5000psi@15min
+-   Pick up string with 10-15 klb over pull to confirm packer is set.
+-   Slack off to shear the shear pins on travel joint which would be 20,000lbs.
+-   Lower string to Land tubing hanger in tubing head spool, compare the mark on
+
+                                                                                                  27/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+    landing joint to make sure the tubing hanger in place. tight and lock all tie down
+    screw and close ram BOP (make sure CL and CIL under the ram), pressure test
+    above tubing hanger 6000psi to confirm tubing hanger seal is ok.
+-   Pressure test all the completion string for 5500 psi, hold for 15mins.
+-   S/L retrieves 2.75” AFM blanking plug from 2.75” Top No-Go Landing nipple.
+-   Test annulus with 2,000 psi pressure for 15 min step by step to confirm packer is
+     set.
+ · 500psi@2min
+ · 1000psi@5min
+ · 1500psi@5min
+ · 2000psi@15min
+Note:  If annular testing failed, repeat the packer setting with higher pressure and
+annular pressure test again.
+16) RIH 2.75” AFM blanking plug
+-   With slick line, RIH 2.75” AFM blanking plug to 2.75” Top No-Go Landing nipple
+17) N/D BOP Stack and N/U X-tree
+-   Bleed off control line to close the TRSV.
+-   Back off landing joint.
+-    Install TWCV into tubing hanger, N/D BOP stack.
+-  N/U X-Mas Tree and test it against TWCV.
+-   Retrieve TWCV& running the coil tubing to top of landing nipple.
+-   Displace the tubing inside completion fluid above landing nipple by gas-oil.
+-  BPV set into tubing hanger
+
+                                                                                                 28/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+             Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+   D.8. Completion Schematic
+
+NIDC                                                                                                                                               Description     Tubing      Tubing          Tubing
+Well:AZNS-122                                                                                                                                              Size        3 1/2"       4 1/2"         4 1/2"
+Field: South Azadegan                                                                                                                 Weight         9.2          18.9             15.1
+Proposed Schematic                                                                                                                  Grade       G3-110      L80           T95
+Date: 12 Jul.2017                                                                                                                    Thread   VAM-TOP  TPCQ-EX     TPCQ-EX
+                        1    Item                                            Description                                           OD(in)       ID(in)    Length(m)  Bottom Depth(m)
+            C
+                        2                                          KB-GL                                                                      9             0.000
+                        3      1   Tubing Hanger, 4 1/2" 15.1# TPCQ-EX Box * ACME Box                                                                              0.550           9.000
+                        4      2   Double-Pin Pup Joint, 4 1/2" 15.1# TPCQ-EX Pin * Pin, INC925-110KSI                                      4.512        3.826        1.336           9.550
+                        5      3   Tubing Pup Joint, 4 1/2", T95, 15.1# TPCQ-EX Box * Pin                                                      4.500        3.826        5.964           10.886
+                        6      4   Tubing, 4 1/2", T95, 15.1# TPCQ-EX Box * Pin                                                              4.500        3.826       76.000          16.850
+                        7                              Pup Joint 4 1/2" 15.1# TPCQ-EX Box * Pin INC925-110KSI                                                  5.118        3.826        1.318           92.850                            5
+                        8         Long Flow Coupling, 4 1/2" 15.1# TPCQ-EX Box * 4 1/2" 15.1# Vam Top Pin INC925-110KSI                    5.350        3.826        6.015           94.168
+                            6  TRSSSV, 3.688" X, 4 1/2" 15.1# Vam Top Box * Pin INC925-110KSI                                           7.403        3.688        2.000          100.183
+                                      Short Flow Coupling 4 1/2" 15.1# Vam Top Box * 4 1/2" 15.1# TPCQ-EX Pin INC925-110KSI                    5.350        3.826        1.648          102.183                            7
+D                      9         Pup Joint 4 1/2" 15.1# TPCQ-EX Box * Pin INC925-110KSI                                                    5.118        3.826        1.426          103.831
+                            8   Tubing, 4 1/2", L80, 18.9# TPCQ-EX Box * Pin                                                              4.500        3.640      3638.500        105.257
+                              Pup Joint 4 1/2", L80, 18.9# TPCQ-EX Box * Pin                                                             4.500        3.640        1.800         3743.757                            9
+                                   Crossover 4 1/2", 15.1# TPCQ-EX Box * 3 1/2" 9.2# Vam Top Pin, INC 925, 110 KSI                             5.118        2.992        2.825         3745.557
+            A      10  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                           3.500        2.992        9.500         3748.382
+                        10        Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                      3.937        2.992        1.430         3757.882                            11
+                                  Chemical Injection Valve 2# 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                    5.255        2.949        0.430         3759.312
+                        11    12  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                           3.500        2.992        9.500         3759.742
+                        12
+                        13    13  Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                      3.937        2.992        1.430         3769.242
+                                  Chemical Injection Valve 1# 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                    5.255        2.949        0.430         3770.672
+                        14    14  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                           3.500        2.992       28.500         3771.102
+                              Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                     3.937        2.992        1.429         3799.602
+                        15    15  Travel Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                   4.875        2.875       13.160         3801.031
+                        16        Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                      3.937        2.992        1.350         3814.191
+                        17
+                        18    16  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                           3.500        2.992        9.500         3815.541
+                              Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                     3.937        2.992        1.507         3825.041                            17
+                        19           Slide Side Door, 2.813" X, 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                      4.280        2.813        1.313         3826.548
+                        20    18  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                           3.500        2.992        9.500         3827.861
+                              Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                      3.937        2.992        1.428         3837.361
+                        21     19  Premier Packer, 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                               5.820        2.870        3.013        3838.789
+                        22        Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                                      3.937        2.992        1.427         3841.802
+                        23                            20  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                           3.500        2.992        9.500         3843.229
+                        24    21  Top No-Go Landing Nipple, 2.75" X, 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                             3.910        2.750        0.581         3852.729
+                        25    22  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                           3.500        2.992        9.500         3853.310
+                        26    23  Crossover 3 1/2", 9.2# Vam Top Box * 3 1/2" 10.2# TPCQ-EX Pin, G3-110KSI                                   3.500        2.992        0.500         3862.810
+                            24  Tubing , 3 1/2" 10.2# TPCQ-EX Box * Pin G3-110KSI                                                         3.500        2.992       66.500         3863.310
+               B  25  Anchor Seal, 4"OD seal unit SUPER 13CR-110KSI, 3-1/2" 10.20 PPF TPCQ-EX BOX                            3.910        2.992        0.190         3929.810
+                            26  Permenant Production Packer, 7" casing 29~35# 4“ seal bore (WQX)                                            5.750        2.992        1.800         3930.000
+                               Others:
+                               9 5/8" Casing :                                                                                                                1/4" ENCAPSULATED CL                   A                                                                         C
+                                    Surface to 3909.5m, C110, 47#, TPCQ ID:8.681"                                                                           Thickness: 0.049" WP:15000psi, INC925
+                                    7" Casing :                                                                                                                    3/8" ENCAPSULATED CIL                     B                                                                   D
+                                3782-4208m (426m), 110SS, 29#, TPCQ ID:6.184"                                                                         Thickness: 0.065" WP:10000psi, INC925
+                             Note:
+                                Perforation Interval: 4086-4101 m MD; 4114-4120 m MD
+    Note: The depth is design depth and the packer setting position should avoid 7"
+    casing coupling, so actual depth may be adjusted.
+
+                                                                                                     29/45
+     Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+D.9. Completion Tally
+
+ Item                                         Description                                      OD(in)  ID(in)  Length(m) Remark
+
+                                     KB-GL                                                           9
+   1   Tubing Hanger, 4 1/2" 15.1# TPCQ-EX Box * ACME Box                                                              0.550
+   2   Double-Pin Pup Joint, 4 1/2" 15.1# TPCQ-EX Pin * Pin, INC925-110KSI                              4.512   3.826     1.336
+   3   Tubing Pup Joint, 4 1/2", T95, 15.1# TPCQ-EX Box * Pin                                             4.500   3.826     5.964     3 joints
+   4   Tubing, 4 1/2", T95, 15.1# TPCQ-EX Box * Pin                                                      4.500   3.826    76.000     8 joints
+      Pup Joint 4 1/2" 15.1# TPCQ-EX Box * Pin INC925-110KSI                                          5.118   3.826     1.318   5
+      Long Flow Coupling, 4 1/2" 15.1# TPCQ-EX Box * 4 1/2" 15.1# Vam Top Pin INC925-110KSI            5.350   3.826     6.015
+   6  TRSSSV, 3.688" X, 4 1/2" 15.1# Vam Top Box * Pin INC925-110KSI                                   7.403   3.688     2.000
+       Short Flow Coupling 4 1/2" 15.1# Vam Top Box * 4 1/2" 15.1# TPCQ-EX Pin INC925-110KSI           5.350   3.826     1.648   7
+      Pup Joint 4 1/2" 15.1# TPCQ-EX Box * Pin INC925-110KSI                                           5.118   3.826     1.426
+   8   Tubing, 4 1/2", L80, 18.9# TPCQ-EX Box * Pin                                                      4.500   3.640   3638.500   383 joints
+      Pup Joint 4 1/2", L80, 18.9# TPCQ-EX Box * Pin                                                     4.500   3.640     1.800   9
+       Crossover 4 1/2", 15.1# TPCQ-EX Box * 3 1/2" 9.2# Vam Top Pin, INC 925, 110 KSI                    5.118   2.992     2.825
+  10  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                   3.500   2.992     9.500      1 joint
+      Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                              3.937   2.992     1.430  11
+       Chemical Injection Valve 2# 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                            5.255   2.949     0.430
+  12  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                   3.500   2.992     9.500      1 joint
+      Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                              3.937   2.992     1.430  13
+       Chemical Injection Valve 1# 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                            5.255   2.949     0.430
+  14  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                   3.500   2.992    28.500     3 joints
+      Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                             3.937   2.992     1.429
+  15   Travel Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                           4.875   2.875    13.160
+      Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                              3.937   2.992     1.350
+  16  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                   3.500   2.992     9.500      1 joint
+      Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                             3.937   2.992     1.507  17
+        Slide Side Door, 2.813" X, 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                              4.280   2.813     1.313
+  18  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                   3.500   2.992     9.500      1 joint
+      Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                              3.937   2.992     1.428
+  19  Premier Packer, 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                       5.820   2.870     3.013
+      Pup Joint 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                                              3.937   2.992     1.427
+  20  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                   3.500   2.992     9.500      1 joint
+  21  Top No-Go Landing Nipple, 2.75" X, 3 1/2" 9.2# Vam Top Box * Pin INC925-110KSI                    3.910   2.750     0.581
+  22  Tubing , 3 1/2" 9.2# Vam Top Box * Pin G3-110KSI                                                   3.500   2.992     9.500      1 joint
+  23  Crossover 3 1/2", 9.2# Vam Top Box * 3 1/2" 10.2# TPCQ-EX Pin, G3-110KSI                           3.500   2.992     0.500
+  24  Tubing , 3 1/2" 10.2# TPCQ-EX Box * Pin G3-110KSI                                                 3.500   2.992    66.500     7 joints
+  25  Anchor Seal, 4"OD seal unit SUPER 13CR-110KSI, 3-1/2" 10.20 PPF TPCQ-EX BOX                   3.910   2.992     0.190
+  26  Permenant Production Packer, 7" casing 29~35# 4“ seal bore (WQX)                                    5.750   2.992     1.800
+Note: The distance between tubing and bushing is theoretical value, actual value may
+be different.
+
+                                                                                                 30/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+D.10. Completion Fluid
+
+                                                                                                 31/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                                                                                                 32/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                                                                                                 33/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+         AZNS-122
+             (F02)
+
+  Upper Completion Project
+
+ E. Main Tool Overview
+
+      ANTON OILFIELD SERVICES (GROUP)
+                            Jul. 2017
+
+                                                                                                 34/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+E.1. Top No-Go Landing Nipple
+
+                                                                                                 35/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+E.2. Premier Packer
+
+                                                                                                 36/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+E.3. CMD Sliding Sleeve
+
+                                                                                                  37/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+E.4. Travel Joint
+
+                                                                                                 38/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+E.5. Chemical Injection Valve
+
+                                                                                                 39/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+E.6. Thunder (10E) Safety Valve
+
+                                                                                                 40/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+E.7. Well Head Schematic
+
+                                                                                                 41/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+ 1. X-mas tree technical parameter
+
+                 Casing Head    Casing     Tubing Head for   Adaptor & Tubing      Item                                                                    X-Tree
+                                  Spool                   Housing                   Fahliyan Wells       Hanger
+
+                     20-3/4″ 3k    13-5/8″ 5k      11″ 10k Top
+ Wellhead Type                   20-3/4″ 3k                         10k        10k                  20″ SOL Btm                 13-5/8″ 5k Btm                             Btm
+                                      13-3/8″,                      20″, k-55                       9-5/8″, T-95                                N-80    Casing
+                    94#         68#           53.5#
+
+  Collapse (psi)       522        2262         7340
+   Burst (psi)        2110        5017         9410
+
+ Port-Seal (psi)       400        1800         5800
+
+Flange-Seal (psi)                  1600/1600     4000         7000
+
+                                                                                                  42/45
+ Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+2. Pressure test X-mas tree as Drilling program.
+
+                                                                                                 43/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                                                                                                 44/45
+Completion Program Development Well
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Completion Program Well: AZNS-122                    Date:2017/07/12 Rev:00.19
+
+                                                                                                 45/45
+Completion Program Development Well

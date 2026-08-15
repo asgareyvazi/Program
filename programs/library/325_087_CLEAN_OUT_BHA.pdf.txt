@@ -1,0 +1,71 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 1 ]
+────────────────────────────────────────────
+            Drilling Department
+
+     CLIENT   :                                        RIG  :                                                 Depth In  :           -
+
+     BHA No.           14         BIT No.        13       BIT RUN No.    RR      WELL
+
+        BOTTOM HOLE ASSEMBLY TYPE                             Performance Assy.
+
+        OBJECTIVE.                                                                                                                  LAST CASING SET DEPTH
+                                                                   Clean Out 7" liner
+                                                                                                                                         7 Liner @"   3228.00m
+
+                        ELEMENT     CUMM        SERIAL       OD             ID        MAX. OD          PIN           BOX         FN    FN. OD
+       DESCRIPTION                                                                                                                  VENDOR
+                       LENGTH (m)   LENGTH (m)    NUMBER         (inch)           (inch)          (inch)        Connection        Connection     m      inch
+
+6" milled tooth Bit (open )          0.19            0.19                        6                            6"                 3 1/2" Reg
+
+D. H. Motor ( AKO= 0.0 )          7.67            7.86                      4 3/4"         Rotor                    3 1/2" Reg Box X 3 1/2" IF Box
+
+D. Pin                           0.73            8.59                      4 3/4"           2"                    3 1/2" IF Pin     3 1/2" Reg Pin
+
+7" Scrapper                      1.31            9.90                             7"             2"                   3 1/2" Reg Box    3 1/2" Reg Pin                   CTR
+
+Bit Sub                           0.92           10.82                      4 3/4"        F. Valve                3 1/2" Reg Box     3 1/2 IF Box                       RIG
+
+3 Jts_4 3/4" DC                  28.22          39.04                      4 3/4"        2 1/4"                  3 1/2" IF Pin      3 1/2" IF Box                       RIG
+
+12 Jts_ 3.5" HWDP              112.41         151.45                            3.5"        2 1/8"                  3 1/2" IF Pin      3 1/2" IF Box                       RIG
+
+4 3/4" Drilling Jar                  3.90          155.35                     4 3/4"        2 1/4"                  3 1/2" IF Pin      3 1/2" IF Box
+
+3 Jts_ 3.5" HWDP               28.25         183.60                            3.5"        2 1/8"                  3 1/2" IF Pin      3 1/2" IF Box                       RIG
+
+51 Jts_3.5" DP                 516.82         700.42                            3.5"                               3 1/2" IF Pin      3 1/2" IF Box                       RIG
+
+Cross Over Sub                  0.83          701.25                                                         3 1/2" IF Pin      XT 57 Box                        RIG
+
+
+
+
+
+                                 7" Shoe @ 3228 m          L D C @ 3163 m              7" Liner Lap @ 2571 m
+
+
+                  SENSOR OFF SETS                          HYDRAULICS DATA with                         MWD* DATA
+Bit to APWD Sensor                                                    Press Drop across BIT                            FLOW RANGE                 N/A
+Bit to RESISTIVITY Sensor                                             HSI of BIT Diameter                2.20 hhp/in²                   LWD1* DATA
+Bit to GAMMA RAY Sensor                                   HHP at BIT                         hhp          FLOW RANGE                 N/A
+Bit to D & I Sensor                                                            Jet Impact Force                           lbs                      LWD2* DATA
+Bit to NEUTRON Sensor                                                      Jet Velocity                         m/min        FLOW RANGE                 N/A
+
+                         BHA DATA                                                  BIT DATA                               Motor* DATA
+MUD WEIGHT                                             10.50 ppg           BIT TYPE                          MOTOR TYPE
+
+BUOYANCY FACTOR                                                                  BIT MAKE                           LOBE / STAGE
+TOTAL BHA LENGTH (without DP)                          701.25 m                I.A.D.C.                           WEAR PAD
+BHA WEIGHT BELOW JAR (in mud)                                       lbs         BLADES                                  REV/UNIT VOL
+BHA WEIGHT ABOVE JAR (in mud)                                       lbs          JETS            OPEN          BENT SET
+TOTAL BHA WEIGHT (in mud)                                            lbs          TFA                             MOTOR STAB
+DRILL PIPE GRADE                  5 7/8"                 XT           GRADE IN                          FLOW RANGE
+        DATE                                                                   TF Correction                    SHT with     150 gpm       260 psi
+
+Directional Engineers :
+
+

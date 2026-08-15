@@ -1,0 +1,137 @@
+# SOURCE: leak-off and limit tests (LOT LT and FIT) 14 1-4 in Hole.pdf
+
+📄 فایل 148 از 214  |  leak-off and limit tests (LOT LT and FIT) 14 1-4 in Hole.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 AZAR OIL FIELD EPD PROJECT
+
+                                  Work Instruction
+
+                                   leak-off and limit tests (LOT, LT and FIT)
+
+                  Detailed Working Instruction
+
+                        PROCEDURE
+
+   Leak-off and Limit Tests (LOT, LT and FIT)
+
+                   Rev 0
+                               January 07, 2018
+
+                              Azar Oilfield
+                              Well  : Azr-18
+
+      Prepared by:
+     GPTK Drilling Engineering:       ________________________
+
+      Approved by:
+     GPTK Drilling Supervisor:             ________________________
+
+Last revision date: 07.Jan.2018                                                         Page 1 of 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 AZAR OIL FIELD EPD PROJECT
+
+                                  Work Instruction
+
+                                   leak-off and limit tests (LOT, LT and FIT)
+
+Objective: Perform FIT test in Asmari formation to EMW of 137 pcf.
+
+Note: If any leak off is observed before reaching aforementioned limit, the test will be stopped
+
+to avoid inducing fractures to formation.
+
+The following Leak-off test procedure should be applied:
+
+1: Drilling formation to 50 m below 14” shoe.
+
+2: Circulate and condition mud.
+
+       While circulating the hole clean of cuttings, circulate/ treat the mud to achieve as low as possible gel
+
+        strength; (excessive gels may reduce the pressure transmitted down the well to the formation).
+
+       Consider pulling the bit into the casing shoe to prevent wash out.
+
+       Accurately measure the mud weight with a recently calibrated pressurized mud balance;
+
+       Confirm that mud weight-in is equal to mud weight-out on 90 pcf.
+
+      Do not change the mud weight until after the test.
+
+3: Pull the bit back into the casing shoe to prevent micro-annuli development during the test.
+
+4: Make sure the hole is filled up and close the BOP around the drill pipe. Where practicable, open and
+
+top-up the annulus between the last and previous casing string on side valves, and check for returns
+
+during the test.
+
+5: Use the cement unit, rig pumps are not recommended. Line up to establish a clear flow path from the
+
+pump to the open hole annulus.
+
+6: Line up and check calibrated pressure gauges.
+
+7: Pump mud slowly (less than ½ BPM.) until the pressure builds up. Record and plot the volume
+
+pumped against pressure.
+
+8: Pump a small increment of mud, and wait for 2 minutes or the time required for the pressure to
+
+stabilize in case this takes longer.
+
+Last revision date: 07.Jan.2018                                                         Page 2 of 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                 AZAR OIL FIELD EPD PROJECT
+
+                                  Work Instruction
+
+                                   leak-off and limit tests (LOT, LT and FIT)
+
+Note: drill pipe pressure should be recorded during operation.
+
+9: Record the cumulative volume pumped, the initial static pressure and the final static pressure after
+
+the waiting period. The initial static pressure is the pressure immediately after pumping has stopped
+
+and the transients have died out.
+
+10: Repeat items 8 and 9 and plot both pressure values against cumulative mud volume for each
+
+increment until the predetermined limit pressure has been reached (which is about 2970 psi w/ 90 pcf
+
+mud) or leak-off is observed,.
+
+Keep the waiting period and the volume increments constant.
+
+       Leak-off is defined as the first point on the volume/pressure plot where either the initial static pressure
+
+        or the final static pressure deviates from the trend observed in the previous observations.
+
+         If the pump pressure suddenly drops, stop pumping but keep the well closed in. This indicates a leak in
+
+        the system, cement failure or formation breakdown. Record the pressures every minute until they
+
+         stabilize. If the drop in pressure is related to formation breakdown, this data can be used to derive the
+
+      minimum in-situ stress.
+
+11: Keep the well closed in to verify that a constant pressure has been obtained. Record and plot the
+
+closed-in pressure every minute.  If the pressure does not stabilize, this may be an indication of a
+
+system leak or a bad cement bond.
+
+12: Bleed off the pressure, measure returning mud volume and calculate the volume of mud lost to the
+
+formation.
+
+13: Open the well. Proceed to next steps.
+
+Last revision date: 07.Jan.2018                                                         Page 3 of 3

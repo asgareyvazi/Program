@@ -1,0 +1,1357 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 24 ]
+────────────────────────────────────────────
+                         SUBSEA          OPERATING AND
+vetcogray         WELLHEAD             SERVICE
+
+
+                         SYSTEMS         PROCEDURE 6127
+
+
+
+
+
+EQUIPMENT
+
+  STANDARD AND HIGH CAPACITY CASING
+  HANGER RUNNING TOOL WITH PRESSURE
+   ASSIST (PADPRT AND HC-PADPRT)
+
+   P/N H56070   - 18-3/4" PADPRT
+   P/N H56570   - 18-3/4" HC-PADPRT
+   P/N H57028-1 - MS-1 Seal Assembly
+   P/N H57465-1 - MS-E Seal Assembly
+   P/N H57030-1 - SG-TPR Seal Assembly
+  MS SERIES CASING HANGER
+
+TECHNICAL TOOL DESCRIPTION
+
+  The standard and high capacity MS-700
+   Pressure Assist Drillpipe Running Tool
+  (PADPRT and HC-PADPRT), is designed to run
+   the MS series casing hangers and also run, set
+   and test either the MS-1, MS-E or the SG-TPR
+   seal assembly in a single or dual trip.
+
+   The tool consists of three basic systems:
+
+   1) The Cam and Latch ring System:
+   Locks/releases the tool to the casing hanger.
+
+   2) The Smart Ring System: Ensures the
+   seal assembly is in the correct position in
+    relation to the casing hanger wickers prior to
+   energizing with pressure.
+
+   3) The Pressure Assist System: Energizes
+   the seal assembly with the assistance of
+   15,000 lbs (6800 kgs) of drillpipe landing string weight. The pipe rams or an annular
+   are closed and the pressure above the tool’s bulk seal is pumped up to 3000 psi
+   (207 bar) to fully set the seal assembly E-ring.
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 1 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+SPECIFICATIONS
+
+   Tool Weight                               3200 lbs (1454 kgs)
+
+  Maximum test pressure                        15,000 psi (1035 bar)
+
+   Thru bore                                       3.03" ID +/- .03” PADPRT
+                                                       (3.00" + .030/ -.010 HC-PADPRT)
+
+   Flowby:  Total area                        27 sq. inches minimum
+     Max Particle Size                             0.8 inches
+
+   Load capacity of running tool - un-cocked        500,000 lbs (226,800 kgs)
+    (short limit pins up against top of slots)
+
+   Max. weight down on tool                      300,000 lbs (136,200 kgs)
+
+   Torque capacity, external anti-rotation key       8000 ft-lbs (10,850 Nm)
+
+   Torque to rotate stem                       700 - 1200 ft-lbs (949 - 1627 Nm)
+
+   Pressure above tool to energize seal           3000 psi (207 bar) & .03
+                                                       barrels w/15,000 lbs (6800
+                                                   kgs) weight down to pre-load
+                                                     bulk seal
+
+   Rupture disc burst rating                     4300 psi minimum (297 bar)
+
+   Overpull to release from MS-1,                  25-40,000 lbs (11-18,000 kgs)
+  MS-E or SG-TPR
+
+   Overpull on landing string during                100,000 lbs (45,455 kgs)
+      pressure testing (maintained for all
+       seal & BOP testing)
+
+   Lead impression block reading to verify           1.515" min/1.75" max
+       that annulus seal is fully set
+
+   Stack-up height of tool above Datum (+/- 1/8”)
+        for standard MS-700 3 hanger housing:       Extended          Collapsed
+    1st position (13-3/8" or 14" casing hanger)         28.40" (721 mm)   19.12" (486 mm)
+    2nd position (9-5/8" or 10-3/4" casing hanger)      42.90" (1090 mm)  33.62" (854 mm)
+    3rd position (7" or 7-5/8" std or HC-CH hanger)    56.40" (1433 mm)  47.12" (1197
+  mm)
+
+   Stack-up height of tool above Datum (+/- 1/8”)
+        for standard MS-700 4 hanger housing:       Extended          Collapsed
+    1st position (13-3/8" or 14" casing hanger)         14.90" (370 mm)   5.62" (143 mm)
+    2nd position (9-5/8" or 10-3/4" casing hanger)      28.40" (378 mm)   19.12" (486 mm)
+    3rd position (7" or 7-5/8" std or HC-CH hanger)    42.90" (1090 mm)  33.62" (854 mm)
+    4th position                                     56.40" (1433mm)   47.12" (1197mm)
+  Maximum Pressure below tool:                5000 psi (345 bar) at 200oF
+                                                      with no axial load on tool
+                                             see chart f/additional information
+
+
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 2 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+                            CAUTION:
+
+ If hanger is to be suspended during cementing (not landed in wellhead) please
+ refer to chart on next page for max allowable pressure under tool.
+
+
+Tool Joint Capacity Information:
+
+                      Upper Tool Joint Capacity (Cocked):
+
+    Running Tool     Casing Hanger   API Box Tool   Makeup Torque       Rated           Extreme
+                          Material YS       Joint Size            (ft-lbs)          Capacity**         Capacity**
+                                   (ksi)                                                      (kips)                (kips)
+
+     PADPRT &             80/85             4-1/2” IF           24,000             800                1,000
+    HC-PADPRT
+
+     PADPRT &             80/85            5-1/2” FH           33,000             1,000               1,200
+    HC-PADPRT
+
+     PADPRT &             80/85           6-5/8” REG          45,000             1,000               1,200
+    HC-PADPRT
+
+    HC-PADPRT            80/85            6-5/8” FH           49,000             1,000               1,200
+
+    HC-PADPRT           120              4-1/2” IF           24,000             800                1,000
+
+    HC-PADPRT           120             5-1/2” FH           33,000             1,100               1,330
+
+    HC-PADPRT           120            6-5/8” REG          45,000             1,250               1,500
+
+    HC-PADPRT           120             6-5/8” FH           49,000             1,250               1,500
+
+
+             HC-PADPRT and PADPRT Lower Tool Joint Capacity:
+      Running Tool        API Tool    API Tool Joint Pin ID   Makeup Torque     Rated Capacity**
+                             Joint Size                (in.)                    (ft-lbs)              (KIPS)
+
+      PADPRT OR              4-1/2” IF                3.00                  24,000                 500
+
+       HC-PADPRT
+
+      PADPRT OR               4-1/2”                 3.00                  500                    165***
+
+       HC-PADPRT           8-RND
+
+  *  Recommended makeup torque +/- 2000 ft-lbs
+  ** Buoyed casing capacity. See Engineering Bulletin H011534 for additional information.
+  *** Rating for 4-1/2 8-Rnd based on T-95 tubing at 2/3 of yield.
+
+  4-1/2”IF, 5-1/2”FH and 6-5/8” REG capacities listed are based on tool make-up to a 120 ksi API pin tool joint with a 3.00”
+ maximum ID
+
+  6-5/8” FH capacities listed are based on tool make-up to a 120 ksi API pin tool joint with a 3.50” maximum ID
+
+ Hanger rated at 120 ksi is required to develop full capacity with HC-PADPRT.
+
+
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 3 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 24 ]
+────────────────────────────────────────────
+                                                                                                                                                                                               5,500                                                         2004
+                                                                                                                                                                                                                                                                                                                           AUGUST
+                                                                                                         24                                                                                                                                                                                               5,000
+
+                                                                                                                                                                                               4,500
+
+      Tool                                                                                                                                                                                               4,000
+       BelowPADPRT)                                                                                                                                                                                               3,500
+Std.                                                                                                                                                                                                  (psi)            Pressure
+to                                                                                                                                                           Tool
+(N/A                                                                                                                                                                                         3,000                                                                                                                                                                                                        Below             Allowable
+                                                                                                           24    vs.                                                                                                                                                                                                       6127Hanger                                                                                                                                                                                                                                                                                                                                 Pressure                           OF                                                                                                                                                                                               2,500               4                                                                                                                                                             OSPKsi Load                                                                                             Capacity
+120                                                                                                                                                                                                                                                                                                                                                                         Allowable         Casing                                                                                 Extremewith                                                                                                                                                                                         2,000
+         BuoyedPADPRT                                                                                                                                                                                         1,500
+HC                                                                                           Area                                                                                                                                                                                                                                      capacity)             Suspended                                                                                                                                                                         Working  casing                                                           1,000
+                                                                                                 Safe                                                                                                                    (80%YS)                                                                                                                                                         (Rated                                                                                               (67%YS)
+
+                                                                                                                   500                                                                                                                                                                                                                                                                                                                                                                                       Allowable                                                                                                                                                                                                                                                                                                                                                                        Allowable
+                                                                                                                                                                                                                                                                                                                                             Capacity                                      0      Capacity
+                                     0            Rated     Extreme                             1,500,000           1,400,000           1,300,000           1,200,000           1,100,000           1,000,000         900,000         800,000        700,000         600,000         500,000         400,000         300,000        200,000         100,000                  R
+                       (lbs) Tool on Load Casing Buoyed Suspended                                                                                                                                                                                                                                                                                                                                                                                                                                    REVISION
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 24 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                 5,500
+
+                                                                                                                                                                                                                          2004
+                                                                                                                                                                                                                 5,000
+                                                                                                                                                                                                                                                                                                                                       AUGUST
+                                                                                                             24
+                                                                                                                                                                                                                 4,500
+
+
+                                                                                                                                                                                                                 4,000
+     Tool
+       Below
+Hanger                                                                                                                                                                                                            3,500
+Ksi                                                                                                                                                                                                                      (psi)           Pressure
+80/85                                                                                                                                                                           Tool
+                                                                                                                                                                                                                 3,000with            Allowable                                                                                                                                                                                                              Below
+    vs.PADPRT     Load                                                                                                                                                                                                                                                                                                                                          Pressure                        24HC                                                                                                                               Capacity                                                                                                                        2,500                                                  6127
+                                                                                                               OF
+
+                                                        5and                                                                                                                                                                OSP        Casing                                                                                                                       Extreme                                                                                                                                                                                                                                        Allowable
+PADPRT  Buoyed                                                                                                                                                                                                     2,000
+Std.                                                                                                                                                                                                                                                                                                                                (80%YS)                                                                                                                                                                                                                                                                                                                    (67%YS)
+                                                                                                                                                                                       able            Suspended                                                                                                                                                                                                                 1,500    able                                                                                                                 Area                                                                                  Allow                                                                                                                                                                                                                                                                           capacity)                                                                                                                                                                                                                            Allow
+                                                                                                                                                                                                      Working  casing                                                                                                                        Capacity                                                                                                                                                                                                                                                                                                                                                                Capacity                                                                                                                 Safe                                                               1,000                                                                                                                                                                                  (Rated                                                                                                                                                                                                                            Rated     Extreme
+
+                                                                                                                              500
+
+
+
+
+
+                                          0
+                            1,200,000                   1,100,000                   1,000,000               900,000               800,000               700,000               600,000               500,000               400,000               300,000               200,000               100,000  0              R                           (lbs) Tool on Load Casing Buoyed Suspended                                                                                                                                                                             REVISION
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+                    OPERATIONAL SUMMARY
+    1.   Rotate stem to the right 4 turns to lock the tool to the casing hanger. Verify that
+        connector (51) and three each of plug (52) are not installed in tool.
+    2.  Once the casing hanger is landed in the wellhead, set down all casing weight and
+       15,000 lbs (6800 kgs) of landing string weight.
+    3.   Rotate the drillpipe to the right ¼ turn to ensure that the stem is free prior to
+         circulating and cementing operations.
+    4.   Circulate and cement as per program.
+
+    5.   With 15,000 lbs (6800 kgs) of drillpipe landing string weight down, rotate the string
+       4 to 4-1/2 turns to the right. Travel of stem should be 8".
+    6.   Pressure to 3000 psi (207 bar) with the 15,000 lbs (6800 kgs) down on the tool to
+        energize the MS seal assembly. This will require 0.03 barrels of fluid.
+    7.   Overpull the landing string to 100,000 lbs (45,359 kgs) to release from MS-1 seal
+        with 6-1/4" travel and maintain during the testing of the seal assembly and the
+       BOP’s.
+    8.   Test the seal assembly and BOP.
+
+    9.   Relax the overpull to 5000 lbs and rotate the stem to the right 4 turns to release the
+        running tool from the casing hanger.
+   10.  Pull the tool to the surface and inspect the lead impression blocks to determine
+       whether or not the seal has been properly energized.
+
+ROUTINE OPERATIONS
+
+                    PRE-OPERATIONAL CHECKS
+
+  Make sure that the tool is properly configured with the proper parts installed for the
+   intended wellhead position.
+
+
+                             NOTE:
+
+ The tool is traditionally prepared with the standard set-up, which is to have items 9, 10,
+ and 29 fitted ready to run and set a MS seal on to 9-5/8" - 10-3/4" or 13-3/8" - 14" casing
+ hangers. Any attempt to use (11) and (12) and (47) will cause severe damage to both
+ the wellhead and tool. This tool requires a different setting sleeve adapter, support ring,
+ and bulk rubber packer for running the 7" or 7-5/8" casing hanger into it’s normal position
+ in the wellhead. For the 7" or 7-5/8" hanger position; the setting sleeve adapter (11) and
+ support ring (12) will be blue in color and the bulk rubber packer (47) will have a red stripe
+ on its OD with the red stripe installed down.
+
+
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 6 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+Tool Handling
+    1.   Tool supplied loose - remove the HC/PADPRT from the tool skid using a lift-cap
+      made up to the drillpipe top connection and move to the required location.
+
+
+    2.   Tool supplied made up to casing hanger complete with pup - remove the tool and
+       hanger assembly from the shipping basket using suitable rated slings and move to
+        the required location.
+
+   Using elevators on the drillpipe pup, pick up and tail-in to the drill floor.
+
+   The following checks, assume that the tool has already been fully serviced and
+   re-cocked.
+
+HC / PADPRT
+
+
+                             NOTE:
+
+ If the HC / PADPRT was made-up to the casing hanger on the beach, the tool will already
+ have been configured to match the hanger. Verify that the plug launcher is installed in the
+ hanger.
+
+    1.  Ensure that the tool has been configured correctly for the casing hanger about to
+       be run, (13-3/8" and 9-5/8" vs. 7" adapter).Verify that connector (51) and three
+       each plug (52) are not installed in the tool.
+    2.  Check that the tool has been fully re-cocked by inspecting the limit pins and their
+         positions. Two of the limit pins, 180o from one another should be fully into their
+        respective long slots and each retained with a leaf spring and a socket head cap
+        screw. The remaining 4 limit pins should be in their positions but not in short slots.
+        This is easily recognized as the remaining 4 leaf springs are deflected and again
+        held with socket head cap screws.
+    3.  A welding rod can be inserted into the hole in the underside of the tool and a
+       measurement taken to the bottom of the cam mechanism. The reading should be
+         7-1/2" to 8".
+    4.  Check that the length of the tool from the top of the setting sleeve to the casing
+       hanger landing shoulder is approximately 57-3/8".
+    5.  Check that the bulk rubber packer is the correct one for the casing hanger to be run
+       and  is in good condition. Refer to H56070 (PADPRT) drawing and  bill for
+        information or H56570 (HC-PADPRT).
+    6.  Check the anti-rotation key on the lower body for correct operation and that  it
+        springs back after being depressed.
+    7.  Using a set of chain tongs, rotate the tool stem 1/8 of a turn right hand to ensure
+         that the stem is free.
+    8.  Inspect the tool joint threads and sealing face for damage.
+
+    9.  Inspect the 4-1/2" 8rd non-upset box connection for damage, then make up the
+         4-1/2" 8rd pin x 4-1/2" IF pin crossover to check for damage if applicable.
+   10.  Inspect the seal on the lower body of the tool that seals in the top of the casing
+        hanger.
+
+
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 7 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+   11.  Check that all accessible socket head screws are in place and tight.
+
+   12.  Using a flashlight, visually inspect rupture disc to ensure that the disc is intact.
+
+   13.  Check that the seal latch ring is in good condition.
+
+   14.  Check that the lead impression blocks and the retaining screws are available
+       onboard to be run with the casing hanger.
+   15.  Check the diameter of the cement dart to pass through the tool and drift to the
+         largest size.
+
+MS-1/MS-E Seal
+    1.  Check OD and ID of the seal assembly for damage. Measure and record overall
+        height of seal. The seal should have a maximum height of 9-13/16" or in the case of
+        the HC-CH, MS-1 and MS-E seals, no greater than 8-1/4".
+    2.   Inspect the E- ring thread profile for damage.
+
+SG-TPR Seal Assembly
+    1.  Check OD and ID of the seal assembly for damage. Measure and record the
+         overall height of seal. The seal should have a maximum height of 9-17/32".
+    2.   Inspect the E-ring thread profile for damage.
+
+    3.   Inspect the elastomer seal and metal-to-metal seal lips.
+
+MS Casing Hanger
+
+  STANDARD
+       Clean and inspect the internal and external sealing surfaces of the hanger body.
+       Ensure the running tool lock ring profile is free of damage. Record the part and
+         serial number.
+
+  HC-CH
+    1.   Clean and inspect the internal and external sealing surfaces of the hanger body.
+       Ensure the running tool lock ring profile is free of damage. Record the part and
+         serial number.
+    2.   Inspect and verify that actuator sleeve, load ring, shear pins, and screws are
+        secure.
+
+                     RUNNING PROCEDURE
+    1.   Taking into account the casing string weight and the pressure the seal assembly
+           will be tested to, calculate and make up the drillpipe needed above the HC /
+      PADPRT for racking back in the derrick once the hanger is made up. Make the
+          drillpipe up to the top drive, if available. If not, the rotations to make up to the casing
+       hanger will have to be done using a chain tong.
+    2.  Make up the equalizer sub (4-1/2" 8rd pin x 4-1/2 “ IF pin) to the subsea plug
+        launcher using the iron roughneck, if available, then screw the 8rd pin into the
+       bottom of the tool and tighten with a chain tong. Pick up the HC / PADPRT and set
+          in the rotary table. The operation of making the tool up to the drillpipe can be made
+        easier by removing the rotary inserts and installing the 10" insert packer and
+        landing the tool on it. Make up the drillpipe using the top drive and a back up tong
+       on the tool joint or by using two rig tongs.
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 8 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 24 ]
+────────────────────────────────────────────
+      18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+3.   Pull back the tool and torque up the 4-1/2" 8rd into the tool with 500 ft-lbs (678 Nm).
+     Pick up the assembly and stand it to the side. Inspect the seal (34) that it is in place
+    and in good condition.
+4.   Pick up the casing hanger with a single joint elevators around the casing pup and
+    pass it through the rotary, lowering the hanger to a comfortable working height.
+    Remove the protector from the hanger, inspect internally and externally for
+    damage. Mark the anti-rotation key slots on the outside of the hanger body then
+      lightly grease the internal seal areas.
+5.  Remove the protector from the seal assembly and pass it over the top of the casing
+     hanger. Ensure its landed out on the load shoulder and is level all the way around.
+6.   Pick up the running tool and fit the cement plugs. Tongs should only be placed on
+     the lower sub when making up the cementing plugs. Stab the cement plugs into the
+     casing hanger. Grease the lock ring and seal ring lightly and orient the anti-rotation
+    key with one of the marks previously made prior to landing out on the casing
+     hanger.
+7.    Install two lead impression blocks and secure with button head screws. Lift the
+     seal up and make up to the latch ring with one left hand turn until it is tight. Tap up
+    snug using a hammer and punch on the E-ring. Check the initial stand off which
+     should be 10-5/8" +/- ¼" between the nose of the seal assembly and the seal
+    assembly load shoulder on the casing hanger.
+8.   Rotate the stem of the running tool four right hand turns using the top drive,
+     elevator spinners or a set of chain tongs. Check the final stand off which should be
+     8+/-¼" between the nose of the seal assembly and the seal assembly load
+     shoulder on the casing hanger. Install the protector around the seal in which it
+    came and also wrap protection around the casing hanger seal areas.
+9.   Mark the tool stem and the casing hanger with a solid white alignment mark. Break
+     out top drive if used. Handle as an assembly and stand back in the derrick.
+10.  Recover the flex joint wear busing if applicable. Land the WBRRT on the nominal
+     seat protector or wear bushing. See OSP 6072 for details. Set down 15,000 lbs
+    (6800 kgs)  of landing  string weight and check RKB  to landing shoulder
+    measurement using the reference wire. Refer to drawing SIS004.
+11. Upon recovery, inspect the NSP/WB for key seating to assist in rig position.
+
+12.  Start running casing as per program.
+
+13.  With the last joint of casing in the table and the blocks unlocked, pick up the
+     running tool, seal, and hanger assembly and make up to the casing string. Set
+    down all weight and rotate the unit as an assembly. Observing the alignment mark,
+    make sure stem does not rotate with respect to the tool body and casing hanger.
+    Lower the hanger to the table and remove the protector from the seal assembly
+    and recheck the final stand off.
+
+
+
+
+
+REVISION R                           OSP 6127                                    24 AUGUST 2Z
+                                             9 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+                           CAUTION:
+
+Vetco Gray strongly recommends that casing scratchers and centralizers not be
+used. Field experience has shown that parts can break off when passing through
+the BOP stack, lodge in the wellhead, or scar the wellhead bore, preventing the
+hanger or seal from seating correctly, or causing an MS-1 seal failure due to
+wellhead bore damage..
+
+  14.  Pick up the hanger assembly and remove the master bushings. Run the hanger
+      assembly down through the diverter and paint the joint above the tool with white
+        paint. Refit the master bushings. Take a note of the string weight indicator reading
+      and continue to run the hanger on drillpipe.
+  15.  Prior to passing the hanger assembly into the BOP’s, open choke and kill lines and
+      compensator if the string weight allows. If the string weight is more than the rating
+        of the compensator, it should be adjusted to support the weight of the landing
+        string as soon as the casing weight drops off. Take a note of the string weight
+       again, land the casing hanger and check that the measurements are the same as
+       taken in Step 10 with 15,000 lbs down. Mark the drillpipe at the RKB (mark 1).
+
+
+                            NOTE:
+
+The following steps refer to making marks on the drillpipe during the setting operation. It is
+essential that these steps be followed in deep water and are advantageous in shallow
+water.
+
+  16.  With the calculated landing string weight, overpull 100,000lbs (45,359 kgs) and
+        hold. Mark on the drillpipe with another reference point (mark 2). This mark will be
+      used after the seal has been set and an overpull of 100,000lbs (45,359 kgs) is
+       required during seal and BOP testing.
+  17.  Set weight back down and adjust landing string weight to neutral (+ or - 5000 lbs.).
+       Rotate drillpipe to the right ¼ turn to ensure that the running tool stem will move
+         freely. Hold neutral weight during circulating and cementing operations.
+  18.  Start circulation and cementing program. To assist in bringing the cuttings to the
+       surface, pump through mud booster lines.
+
+
+                            NOTE:
+
+It is strongly recommended that a pump be lined up on the BOP choke or kill line which is
+closest to the top of the HC / PADPRT, and that mud should be circulated through this line
+for the duration of the circulating and cementing operation, until the cement plug has been
+bumped. A boost to mud velocity at this point may minimize the risk of having returned
+solids setting in or around the running tool/casing hanger interface, where they can have
+a detrimental effect on the seal setting process.
+
+
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                10 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+  19.  With the cement job complete, break off the cement line and open the landing
+        string to atmosphere. Apply a 100,000 lbs overpull to verify mark 2. This mark
+       should be in the same location as in Step 16. Apply 15,000 lbs (minimum of 10,000
+        lbs - maximum 25,000 lbs) of landing string weight down on the tool and rotate the
+       running string an additional 4 to 4-1/2 right hand turns. Using the reference wire,
+      check that the string has dropped and measures 8" to 8-1/4" with 15,000 lbs (6800
+       kgs) still down. Mark the drillpipe (mark 3).
+  20.  Pressure test the surface equipment to 3000 psi down against a closed BOP
+         fail-safe in the choke or kill line that is going to be used to energize the seal.
+      Record the volume pumped to achieve the test pressure.
+  21.  Close a set of pipe rams or an annular and line the top drive up to the trip tank or
+       disconnect the top drive to monitor for returns. Apply and hold low pressure of 500
+        psi (35 bar) below the closed ram to ensure that the rubber packer is sealing in the
+       wellhead. With no leak-off, increase pressure in increments to 3000 psi (207 bar)
+      down the choke or kill line to energize and lock the seal in position. Observe the
+      volume of fluid pumped and compare to the previous volume. If the seal is not
+       properly positioned, test fluid flow will be observed through the landing string or an
+       increase in the trip tank volume. If continuous returns occur, the tool’s packer can
+      be unseated by over pulling the landing string to 5000 lbs (2270 kgs) and setting
+       15,000 lbs (6800 kgs) back down on the tool. This will wipe the wellhead sealing
+       area free of any debris.
+
+
+                            NOTE:
+
+The total volume pumped to achieve 3000 psi seal setting pressure should be that noted
+in Step 20 plus 0.03 barrels. To prevent collapsed casing due to setting pressure leaking
+past the annulus seal, pumped volume should be accurately monitored against this
+calculated volume.
+
+  22.   If flow continues, an additional 4 right hand turns should be made and the tool
+       should be recovered with the seal assembly. To re-run seal, refer to appropriate
+       section of this procedure. If the MS seal is not set fully in the seal pocket , sitting
+       plus 3/8" or greater off the landing shoulder, the bulk seal will not energize and the
+        test fluid will bypass through the tool main body, around the stem OD and vent
+       through the stem ID. It is imperative that the drillpipe is open to atmosphere, full of
+         fluid, and monitored during functioning and test with the HC / PADPRT. A small
+      amount will be displaced during functioning. (Less than 1 gallon displacement
+       returns is normal.)
+
+
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                11 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+
+
+
+                           CAUTION:
+
+Do not exceed 3200 psi (221 bar) at this time. Pressure in excess of this figure
+could damage the tool. Additionally, the tool must be released from the seal as
+detailed in Step 24 (below) before performing a seal test. The tool is equipped with
+a rupture disc (50), with a minimum burst rating of 4300 psi (297 bar). This is
+designed to assist in preventing tool damage, in case of excess pressure. If the
+disc ruptures, it will allow returns to the rig floor through the drillpipe.
+
+  23.  Bleed off pressure and open the pipe rams or annular.
+
+  24.  Pull and maintain 100,000 lbs (45,359 kgs) overpull. Stem will travel up 6-1/4" plus
+         drillpipe stretch and the latch ring  will release from the seal assembly at
+       approximately 30,000 lbs (13,610 kgs). Mark the drillpipe (mark 4). The mark on
+       the drillpipe should be 3" to 3-1/2" lower than mark 2 with 100,000 lbs (45,359 kgs)
+        overpull. This allows BOP test pressure to access the MS-1 seal, which during
+        setting, was isolated from pressure by the tool rubber packer and avoids
+       overloading tool. A rupture disc is present to prevent damage should the tool not
+      be in the stroked up position. Returns would be noticed at the drillpipe open end.
+
+
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                12 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+                            NOTE:
+
+Some operators displace seawater after cementing, leading to a condition where the fluid
+in the drillpipe is lighter than the mud on the annulus side, and creating a pressure load
+acting on the bulk rubber seal due to mud column weight. This will result in an increased
+load required to de-energize the bulk seal, best handled as follows:
+
+1. Before applying the overpull to release the tool, run the following calculation.
+2. Determine the weight of drillpipe fluid & riser annulus fluid & compute as follows:
+       Differential pressure = (Mud weight – Seawater weight) x Water depth x .052
+     Example: Differential pressure = (11.8 #/gal – 8.6 #/gal) x 6000 ft. x .052 = 999 psi
+3. Pressure down drillpipe based on the calculated differential pressure acting on the
+bulk seal.
+4. Apply the 100,000 lb. overpull specified above to release the tool.
+5. Continue with the standard operation as normal.
+
+  25.  Close BOP pipe rams and annulars as required and test. Test per requirements in
+      1000 psi (69 bar) increments after initial low pressure test. Closely observe fluid
+      volume pumped. Maintain 100,000lbs (45,359 kgs) overpull during pressure test.
+  26.  Complete testing. Open the pipe rams or annular and adjust landing string overpull
+        to 2000 to 5000 lbs (910 kgs to 2270 kgs), rotate running string 4 to 4-1/2 right hand
+       turns and recover tool.
+
+
+                            NOTE:
+
+As BOP stack and wellhead configurations vary from rig to rig, it is important to obtain the
+top of wellhead to BOP ram measurement. The stack/wellhead configuration may be
+such that a complete stack test is impossible with the HC / PADPRT. In that case, the tool
+should be pulled and the stack testing completed with a plug type test tool.
+
+Impression Blocks will indicate acceptable tool travel by smearing lead to within area
+shown. The block will be smeared 5/8" before seal starts to energize.
+
+  27. Upon recovery, inspect the joint above the tool. There should be a band 1-1/2" to
+        1-3/4" wide over which the paint was smeared during seal setting, adjacent to a
+      band over which the paint was wiped clean. There should be an additional band
+       over which the paint is wiped clean beginning 6"+/- ¼" below the top of the
+      smeared paint band. Wash down tool, inspect bulk seal (29) and rupture disc (50).
+        Verify indication on lead impression blocks. Break-out the tool from the drillpipe
+      and attach a lift cap to the tool, . Move and lay down the tool at a suitable location
+      on the deck. Down on the deck, remove rupture disc (50) slowly to vent any
+       trapped pressure. Flush the monitoring ports in the tool with the rupture disc
+      removed, to ensure they are not blocked. Wash down tool, inspect bulk seal (29)
+         for damage and the rupture disc (50) for indications of over-pressure.
+
+
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                13 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+                            CAUTION:
+
+ Ensure that all personnel in attendance are aware of the possibility of trapped
+ pressure beneath the rupture disc. All personnel involved must be wearing the
+ correct PPE (safety glasses, etc) and are suitably positioned to prevent any
+ ejected fluids or materials from striking them.
+
+
+       The rupture disc thread is slotted to relieve any pressure trapped behind the disc
+        before it is fully removed. Carefully unscrew the disc until the o-ring is clear of its
+        sealing face and observe for pressure relieving. Once any trapped pressure is
+        vented, the disc can be removed completely. Flush the monitoring ports with the
+        rupture disc removed, to ensure they are not blocked. Wash the tool with fresh
+        water.
+   28.  Service tool as detailed in Post Operational Maintenance located later in this
+       document.
+
+          TWO-TRIP CASING HANGER AND SEAL INSTALLATION
+
+   This section of the procedure assumes that the casing hanger and seal assembly are to
+   be run separately. This would occur if a fullbore running tool is used to land casing or if
+   hole conditions dictate that the seal assembly should be run separately after the HC /
+  PADPRT is used to land the hanger. Additionally, the seal assembly may have to be
+   rerun if the initial attempt to set the seal has failed. In all of these cases it is strongly
+   recommended that the mill and flush tool be run to remove any debris from the seal
+   pocket prior to running the seal.
+
+Running Casing Hanger with HC / PADPRT (without seal assembly)
+    1.  Ensure that the tool has the proper seal setting sleeve adapter for the casing
+       hanger being run (14" or 13-3/8" and 10-3/4" or 9-5/8" vs. 7-5/8" or 7" adapter).
+    2.  Taking into account the casing string weight and the pressure the seal assembly
+           will be tested to, calculate and make up the drillpipe needed above the HC /
+      PADPRT for racking back in the derrick once the hanger is made up. Make the
+          drillpipe up to the top drive, if available. If not, the rotations to make up to the casing
+       hanger will have to be done using a chain tong.
+    3.  Make up the 4-1/2" 8rd pin x 4-1/2 “ IF pin to the subsea plug launcher in the iron
+        roughneck, if available. Screw the 8rd pin into the bottom of the tool and tighten
+        with a chain tong. Pick up the HC / PADPRT and set in the rotary table. The
+        operation of making the tool up to the drillpipe can be made easier by removing the
+         rotary inserts and installing the 10" insert packer and landing the tool on it. Make up
+        the drillpipe using the top drive and a back up tong on the tool joint or by using two
+          rig tongs.
+    4.   Pull back the tool and torque up the 4-1/2" 8rd into the tool with 500 ft-lbs (678 Nm).
+        Pick up the assembly and stand it to the side. Inspect that seal item 34 is in place
+       and good condition.
+
+
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 14 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+   5.   Pick up the casing hanger with a single joint elevators around the casing pup and
+      pass it through the rotary, lowering the hanger to a comfortable working height.
+     Remove the protector from the hanger, inspect internally and externally for
+      damage. Mark the anti-rotation key slots on the outside of the hanger body then
+         lightly grease the internal seal areas.
+   6.   Pick up the running tool and fit the cement plugs. Tongs should only be placed on
+       the lower sub when making up the cementing plugs. Stab the cement plugs into the
+       casing hanger. Grease the lock ring and seal ring lightly and orient the anti-rotation
+      key with one of the marks previously made prior to landing out on the casing
+       hanger.
+   7.   Rotate the running tool stem 4 right hand turns using the top drive, elevator
+       spinners or a set of chain tongs. Wrap and secure protection around the casing
+      hanger seal areas.
+   8.  Mark the tool stem and the casing hanger with a solid white alignment mark.
+      Handle as an assembly and stand back in the derrick.
+   9.  Recover the flex joint wear busing if applicable. Land the WBRRT on the nominal
+       seat protector or wear bushing. Refer to OSP 6072 for details. Set down 15,000 lbs
+       (6800 kgs)  of landing  string weight and check RKB  to landing shoulder
+      measurement using the reference wire. Refer to drawing SIS004.
+  10. Upon recovery, inspect the NSP or WB for key seating to assist in rig position.
+
+  11.  Start running casing as per program.
+
+  12.  With the last joint of casing in the table and the blocks unlocked, pick up the
+       running tool, seal and hanger assembly and make up to the casing string. Set
+      down all weight and rotate the unit as an assembly. Observing the alignment mark,
+     make sure the stem does not rotate with respect to the tool body and casing
+       hanger. Lower the hanger to the table and remove the protection from the hanger
+       seal areas.
+
+
+                           CAUTION:
+
+Vetco Gray strongly recommends that casing scratchers and centralizers are not
+used. Field experience has shown that parts can break off when passing through
+the BOP stack and lodge in the wellhead area, preventing the hanger from seating
+correctly and also preventing the seal from setting.
+
+  13.  Pick up the hanger assembly and remove the master bushings. Run the hanger
+      assembly down through the diverter and refit the master bushings. Take a note of
+       the string weight indicator reading and continue to run the hanger on drillpipe.
+  14.  Prior to passing the hanger assembly into the BOP’s, open choke and kill lines and
+      compensator if the string weight allows. If the string weight is more than the rating
+        of the compensator, it should be adjusted to support the weight of the landing
+        string as soon as the casing weight drops off. Take a note of the string weight
+       again, land the casing hanger and check that the measurements are the same as
+       taken in Step 10 with 15,000 lbs (6800 kgs) down. Rotate the landing string to the
+         right ¼ turn.
+
+
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                15 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+   15.  Overpull 2000-5000 lbs (910 to 2270 kgs) above landing string weight during
+         circulating and cementing operations.
+   16.  Close the choke and kill lines. Start circulation and cementing program.
+
+   17.  With the cement job complete, break off the cement line and open the landing
+         string to atmosphere to check for back flow. With the landing string weight at
+       2000-5000 lbs (910 to 2270 kgs) down, rotate the running string an additional 7-3/4
+         to 8-1/4 turns right hand. The tool is now unlocked from the hanger and ready to
+        recover with a straight pull.
+   18.  Recover the tool to the surface and inspect.
+
+   19. Run the mill and flush tool to clean out the wellhead to casing hanger seal pocket
+         prior to running the seal assembly. Continue to flush through the choke/kill line to
+         assist in bringing the cuttings to the surface.
+
+Running Seal Assembly w/o casing hanger
+    1.   Service and re-cock tool as detailed in this procedure on page 20.
+
+    2.   Replace item #34 with P/N 201144-6.
+
+    3.   Pick up the HC / PADPRT and make it up to a stand of drillpipe.
+
+    4.   Ensure that the seal (34) that will seal in the casing hanger is in place and in good
+         condition.
+    5.    Fit the two LIB’s and secure them with the button head cap screws.
+
+    6.    Lift up the MS-1, MS-E or SG-TPR seal assembly and make up to the latch ring
+        with 1 left hand turn until it is tight. Using a hammer and punch on the E-ring, snug
+       up the seal assembly to ensure it’s fully secure.
+    7.  Remove the master bushings and run the tool and seal assembly down through
+        the diverter. Refit master bushings and take a note of the string weight indicator
+        reading and continue to run the seal on drillpipe.
+    8.  Run in the hole until above the BOP stack. With the drillpipe open to atmosphere,
+       open the compensator and support the string weight, land the tool on the casing
+        hanger. Set down 5-10,000 lbs of landing string weight on the running tool and
+       check the landing point using the reference wire. Rotate the string 4-5 right hand
+        turns to lock the running tool to the casing hanger. Mark the drillpipe at the RKB
+       (mark 1).
+    9.   With the calculated landing string weight, overpull to 100,000 lbs and hold. Mark
+       on the drillpipe with another reference point (mark 2). This mark will be used after
+        the seal has been set and an overpull of 100,000 lbs is required during seal and
+     BOP testing.
+   10.  With 15,000 lbs (minimum of 10,000 lbs and a maximum of 25,000 lbs) back down
+       on the tool, rotate the string to the right 3-4 turns. Using the reference wire, the
+         string should show a total drop of 8" to 8-1/4" from the first mark made. Mark
+          drillpipe (mark 3).
+   11.  Pressure test the surface equipment to 3000 psi (207 bar) down against a closed
+     BOP fail-safe in the choke or kill line that is going to be used to energize the seal.
+       Record the volume pumped to achieve the test pressure.
+
+
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 16 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+  12.  Close a set of pipe rams or an annular and line the top drive up to the trip tank or
+       disconnect the top drive to monitor for returns. Apply and hold low pressure of 500
+        psi (35 bar) below the closed ram to ensure that the rubber packer is sealing in the
+       wellhead. With no leak-off, increase pressure in increments to 3000 psi (207 bar)
+      down the choke or kill line to energize and lock the seal in position. Observe the
+      volume of fluid pumped and compare with previous volume. If the seal is not
+       properly positioned, test fluid flow will be observed through the landing string or an
+       increase in the trip tank volume.  If continuous returns occur, the tool’s packer can
+      be unseated by overpulling the landing string to 5000 lbs (2270 kgs) and setting
+       15,000 lbs (6800 kgs) back down on the tool. This will wipe the wellhead sealing
+       area free of any debris.
+
+
+                            NOTE:
+
+The total volume pumped to achieve 3000 psi seal setting pressure should be that noted
+in Step 11 plus 0.03 barrels. To prevent collapsed casing due to setting pressure leaking
+past the annulus seal, pumped volume should be accurately monitored against this
+calculated volume.
+
+  13.   If flow continues, an additional 4 right hand turns should be made and the tool
+       should be recovered with the seal assembly. To re-run seal, refer to appropriate
+       section of this procedure. If the MS seal is not set fully in the seal pocket 3/8" or
+       greater off the landing shoulder, the bulk seal will not energize and the test fluid will
+      bypass through the tool main body, around the stem OD and vent through the stem
+        ID.  It is imperative that the drillpipe is open to atmosphere, full of fluid, and
+       monitored during functioning and test with the HC / PADPRT. A small amount will
+      be displaced during functioning. (Less than 1 gallon displacement returns is
+       normal.)
+
+
+                           CAUTION:
+
+Do not exceed 3200 psi (221 bar) at this time. Pressure in excess of this figure
+could damage the tool. Additionally, the tool must be released from the seal as
+detailed in Step 24 (below) before performing a seal test. The tool is equipped with
+a rupture disc (50), with a burst rating of 4300 psi (297 bar). This is designed to
+assist in preventing tool damage, in case of excess pressure. If the disc ruptures, it
+will allow returns to the rig floor through the drillpipe.
+
+  14.  Bleed off pressure and open the pipe rams or annular.
+
+  15.  Pull and maintain 100,000lbs (45,359 kgs) overpull. Stem will travel up 6-1/4" plus
+         drillpipe stretch and the latch ring  will release from the seal assembly at
+       approximately 30,000 lbs (13,610 kgs). Mark drillpipe (Mark 4). Note the 4th mark
+      on the drillpipe should be within 3" to 3-1/2" lower than the 2nd mark with
+       100,000lbs (31,752 kgs) overpull. This allows BOP test pressure to access the
+      MS-1 seal, which during setting, was isolated from pressure by the tool rubber
+       packer and avoids overloading tool. A rupture disc is present to prevent damage
+       should the tool not be in the stroked-up position. Returns would be noticed at the
+         drillpipe open end.
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                17 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+  16.  Close BOP pipe rams and annulars as required and test. Test per requirements in
+      1000 psi (69 bar) increments after initial low pressure test. Closely observe fluid
+      volume pumped. Maintain 100,000lbs (45,359 kgs) overpull during pressure test.
+
+
+                            NOTE:
+
+As BOP stack and wellhead configurations vary from rig to rig, it is important to obtain the
+top of wellhead to BOP ram measurement. The stack/wellhead configuration may be
+such that a complete stack test is impossible with the HC / PADPRT. In that case, the tool
+should be pulled and the stack testing completed with a plug type test tool.
+
+  17.  Complete testing. Open the pipe rams or annular and adjust landing string overpull
+        to 2000 to 5000 lbs (910 kgs to 2270 kgs), rotate running string 4 to 4-1/2 right hand
+       turns and recover tool.
+  18. Upon recovery inspect the joint above the tool. There should be a band 1-1/2" to
+        1-3/4" wide over which the paint was smeared during seal setting adjacent to a
+      band over which the paint was wiped clean. There should be an additional band
+       over which the paint is wiped clean beginning 6+/- ¼" below the top of the smeared
+        paint band. Wash tool down and inspect the bulk seal (29) and rupture disc (50) for
+        indications of over pressure. Break-out the tool from the drillpipe and attach a lift
+      cap to the tool. Move and lay down the tool at a suitable location on the deck. Down
+      on the deck, remove rupture disc (50) slowly to vent any trapped pressure. Confirm
+        indications on the lead impression blocks verify correct tool travel.
+
+
+                           CAUTION:
+
+Ensure that all personnel in attendance are aware of the possibility of trapped
+pressure beneath the rupture disc. All personnel involved must be wearing the
+correct PPE (safety glasses, etc.) and are suitably positioned to prevent any
+ejected fluids or materials from striking them.
+
+
+      The rupture disc thread is slotted to relieve any pressure trapped behind the disc
+       before it is fully removed. Carefully unscrew the disc until the o-ring is clear of its
+       sealing face and observe for pressure relieving. Once any trapped pressure is
+       vented, the disc can be removed completely. Flush the monitoring ports with the
+       rupture disc removed, to ensure they are not blocked. Wash the tool with fresh
+       water.
+  19.  Service the tool as detailed in Post Operational Maintenance located below.
+
+
+              EMERGENCY DISCONNECT ADVISORY
+
+  With the casing hanger landed in the wellhead, the following steps should be followed.
+   1.   With 2,000 - 5000 lbs of landing string weight down, rotate the string to the right
+         until a total of 13 turns have been made. This includes the 4 right hand turns made
+      on the surface, if applicable.
+       Refer to turns table below.
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                18 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+                    With Seal   Without Seal          Without Casing Hanger
+    OPERATION       Turns RH      Turns LH for     Turns RH   Turns LH for Turns RH Turns LH for
+                                      Emergency                Emergency           Emergency
+                                          Disconnect                  Disconnect            Disconnect
+    Make-up to hanger
+                             4               4             4            4        4 - 5       4 - 5   On beach or rig floor
+      2,000 - 5,000 lbs
+                   ¼                4-1/4        ¼            4-1/4       landing string
+      weight overpull
+     before cementing
+           ops.
+    Release outer body/
+                          4 - 4-1/2         8 - 8-3/4         N/A                    3 - 4       7 - 9       position seal
+     Release tool from
+                             4           12 - 12-3/4      7-3/4 - 8-1/4    12 - 12-1/2      4        11 - 13    hanger to recover
+       Emergency
+                             13                            13                      13       Disconnect
+
+        Pull the tool complete with seal assembly out of the casing hanger and back to the
+           drill floor. Break-out the tool from the drillpipe and attach a lift cap to the tool. Move
+      and lay down the tool at a suitable location on the deck.
+   2.   Emergency release with left hand rotation is an option, however, several factors
+          i.e. string make-up, cement plugs and string weight should be considered carefully
+        prior to any left hand rotation. The total number of turns to release with left hand
+        rotation is the total turns made to the right hand to that point. Four turns to make up
+        to the casing hanger, plus possibly one more to check before cementing. String
+       weight balance, rig position and cement plugs effect rotational torque.
+
+                POST-OPERATIONAL MAINTENANCE
+
+
+                           CAUTION:
+
+If the tool comes out of the hole plugged with drilled solids, a potentially hazardous
+condition may exist, in that pressure may be trapped in the internal chamber of the
+tool. This condition is confirmed  if the limit pins are hard to remove.  If this
+condition occurs, DO NOT REMOVE THE LIMIT PINS. The rupture disc (50) is
+slotted to act as a bleeder fitting. By carefully backing it off, trapped pressure will
+be relieved and the maintenance operation continued.
+Ensure that all personnel in attendance are aware of the possibility of trapped
+pressure beneath the rupture disc. All personnel involved must be wearing the
+correct PPE (safety glasses, etc) and are suitably positioned to prevent any
+ejected fluids or materials from striking them.
+
+   1.  The rupture disc thread is slotted to relieve any pressure trapped behind the disc
+       before it is fully removed. Carefully unscrew the disc (50) until the o-ring is clear of
+          its sealing face and observe for pressure relieving. Once any trapped pressure is
+       vented, the disc can be removed completely.
+   2.   With the tool secured in the re-cocking skid in the vertical position, remove socket
+      head cap screws (41) and slide up the stem keys (44), out of the coupler slots.
+      Back off the coupler (18) to the left then slide the stem keys (44) back down to
+      remove. Remove the threaded sleeve (43) by screwing it to the left off the stem.
+   3.  Remove all cap screws (42), leaf springs (4), and limit pins (16).
+
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                19 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 24 ]
+────────────────────────────────────────────
+      18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+4.  Remove socket head cap screws (19) and split collar (2).
+
+5.   Screw a lifting cap into the stem top tool joint and remove from the outer sleeve
+    assembly, inspect the wear bands (26) and polypak seal (30)
+6.   Screw lifting eyes into the top outer
+     sleeve and draw the outer sleeve
+    assembly  off   of  the main body.
+    Thoroughly wash the setting sleeve
+     body, the stem and the main body.
+     Inspect for wear or damage.
+
+7.   With a high pressure gun, wash out
+     the monitoring ports running through
+     the main body to ensure they are free
+     of drilling debris.
+
+8.  Wash cam (20) and cam rotation latch
+     ring (17).
+
+9.   Flush out the cavity between the cam
+    and release nut.
+
+10.  Check condition of seals (28, 32, 33,
+     36) and replace if necessary.
+
+11.  Check condition of threads in release nut (14) and release nut thread sleeve (53)
+    and redress if necessary.
+12.  Check condition of rubber packer (29 or 47) and replace if necessary.
+
+13.  Check condition of seal areas on body and in setting sleeve and dress  if
+     necessary.
+14.  Liberally grease all surfaces and pack cavities above and below cam sleeve (20)
+     with grease. Apply a low friction compound to release nut threads.
+15.  Reassemble tool by reversing Steps 1 through 6 above. Line up the long slot limit
+     pin slots and install limit pins (16), leaf springs (4), and cap screws (42) in these
+     slots (2) only. Torque to 100 ft-lbs (137 Nm).
+16.  Prior to re-installation, inspect the condition of the rupture disc assembly, which
+    has a replaceable disc element. Look into the bore of the rupture disc holder,
+     inspecting the disc for any signs of failure. If the rupture disc has blown, clamp the
+    hex of the holder in a vise. Insert a ½" hex key into the hold down ring. Loosen and
+    remove the ring. Remove the rupture disc element and the small o-ring and
+     discard. Insert a new o-ring into the o-ring groove. Carefully insert the disc, with the
+    dome side of the disc facing the o-ring, assuring that the o-ring is not dislodged
+     from the groove. Insert the hold down ring, hex side facing outwards, and screw it
+      into the holder until it shoulders off. Tighten the hold down ring, using a ½" hex key,
+     to 30-40 ft-lbs. Replace the o-ring on the body of the holder. Inspect the face
+     shoulder of the holder and the mating face on the setting sleeve. Re-install the
+     rupture disc assembly and tighten to approximately 75 ft-lbs.
+17. The tool is now ready to be re-cocked. After re-cocking, the T-seal (28) may be
+     tested.
+
+
+
+
+
+REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                             20 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 24 ]
+────────────────────────────────────────────
+         18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+
+                   FIELD RE-COCKING PROCEDURE
+
+GENERAL
+
+   Re-cocking of the tool ensures that the proper orientation exists between the release
+   thread and the position of the cam. The tool must always be re-cocked before use.
+
+   This procedure presumes that the tool has just been pulled from the hole after making a
+   successful casing run. The release thread is disengaged. The stem (1) and setting
+   sleeve (5) assembly may be anywhere between fully down and the position where the
+    limit pins are up against the top of the short slots. The cam is at or near the bottom of it’s
+    internal travel and the Rupture Disc Assembly has been used to vent any trapped
+   pressure as per Cautionary Notes of this procedure and reinstalled .
+
+   Rotating the stem in this procedure will require 500 to 1000 ft-lbs (608 to 1356 Nm)
+   torque.
+    1.  Remove the six limit pins (16) and leaf springs (4) by removing their screws (42).
+
+    2.   Lay re-cocking skid and the tool in a horizontal position with the anti-rotation key
+        facing up and secured from rotating by screwing in 2 x ½" UNC bolts into the
+        release thread nut (14).
+    3.   While reacting against the release thread nut (14), slowly rotate the stem (1) to the
+           left (as viewed from the top of the tool) UNTIL the casing hanger latch ring (45) can
+       be seen just BEGINNING TO EXPAND. THIS IS AN IMPORTANT POSITION!
+       The ring expansion can best be viewed by observing the opening in the lock ring
+       near the anti-rotation key (13).
+    4.   Place matching turn indicator marks on the stem (1) and release nut (14). Rotate
+        the stem to the left 4 complete turns and align indicator marks. Mark the two thread
+         starts on the release sleeve (43) and on the release nut body (14) or release nut
+        thread sleeve (53) and align ready for engagement. Using the re-cocking skid, or
+        other means, move the stem (1) towards the release nut (14) or release nut thread
+        sleeve (53) until the release thread is bumped up. Maintain compression on the
+        stem.
+    5.  Rotate the stem to the left 8 to 9 additional complete turns. As turning begins, make
+        sure that the release thread on the stem is moving up into the release thread nut
+        (14) or release nut thread sleeve (53). Once the thread has started, the
+       compression can be released.
+    6.  Check that the casing hanger lock ring (45) is fully collapsed and that it is loose in
+           its groove. Rotate the stem a maximum of ¼ turn to the right to free any bind that
+      may be in the cam mechanism.
+    7.  Check that the lower end of the release thread nut (14) or release nut thread sleeve
+        (53) is positioned within the indicator band on the release thread sleeve (43).
+    8.  Check that the limit pin in the long slot can be installed fully and that the setting seal
+       body has not traveled too far. Reinstall both the long slot limit pins (16), leaf spring
+         (4) and screw (42). Torque to 100 ft-lbs (136 Nm).
+    9.     If the checks in Steps 6, 7, and 8 are satisfactory, continue on to Step 10 below; if
+        not go back to Step 2 and restart the re-cocking procedure.
+
+
+
+
+
+    REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                 21 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 24 ]
+────────────────────────────────────────────
+        18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+  10.  Reinstall the four short slot limit pins. (16), leaf springs (4) and screws (42). Torque
+      screws to 100 ft-lbs (136 Nm). Note that these leaf springs will be deflected
+       outward. Check that the leaf springs and screws do not extend outward past the
+    OD of the setting sleeve (5).
+
+               DISASSEMBLY/ASSEMBLY PROCEDURE
+
+
+                            NOTE:
+
+This tool requires a different setting sleeve adapter, support ring, and bulk rubber packer
+for running in the 7" wellhead positions than for running in other wellhead positions.
+Ensure that the proper setting sleeve adapter (8 or 11), support ring (10 or 12), and bulk
+rubber packer (29 or 47) are used and that the bulk rubber packer (47) is properly
+installed with the red stripe down. See drawing H56070 or H56070(HC).
+
+
+  For ease of assembly, this tool can be built as five separate sub-assemblies:
+          Body Assembly
+           Release Nut Assembly
+             Setting Sleeve Assembly
+          Lower Setting Sleeve Adapter Assembly
+          Stem Assembly
+   1.   Coat all interior surfaces with Jet-Lube Alco-EP 73 Plus. All threaded components
+      must be coated with Never-seize or equivalent.
+   2.   With the body (3) in a horizontal position, use shop air to blow out the four ports.
+
+   3.    Install the cam (20) with Never-seize. Thread the cam until the end of the cam is
+         just inside the end of the body (3).
+   4.    Install the latch ring (17) into cam. Make certain the latch ring lobes engage the ID
+        of the cam. The ID of the cam and the latch ring should be well greased.
+   5.    Install the retaining ring (35) below the latch ring (17).
+
+   6.   Stand the body (3) upright. Install two o-rings (32) on OD of upper body. Set the
+      body sub-assembly aside.
+   7.   Stand the setting sleeve (5) upright with the major ID up. Coat the ID of sleeve with
+       grease.
+   8.    Install the polypak (33) with the lips facing down (toward the smaller or closed ID).
+      Ensure that the o-ring has been removed from the polypak.
+   9.   Set aside the setting sleeve sub-assembly.
+
+  10.  Place the support ring (10 or 12) over the seal releasing latch ring (48). Align and
+     make up 12 socket head cap screws (49). Torque to 50 ft-lbs (68 Nm).
+  11.  Grease the ID of the bulk rubber packer (29 or 47) and slide it over the reduced OD
+        of the setting sleeve adapter (8 or 11). As noted on the drawing , the bulk rubber
+       packer (47) (for 7" position) has a “red stripe” which must be installed to be facing
+      down when assembling to tool.
+
+
+
+
+
+   REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                                22 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 24 ]
+────────────────────────────────────────────
+      18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+12.  Slide the setting sleeve adapter (8 or 11) with the bulk rubber packer (29 or 47) (ID
+     radius up) over the support ring (10 or 12). Align the slots with the tapped holes in
+     the ID. Install the eight support latch ring retainer screw assemblies (24) using a
+     3/8" AF Allen wrench. Torque screws to 50 ft-lbs (68 Nm). Make sure the o-rings
+    have been installed on these screws before installation.
+13.  Apply grease to the o-rings (6) and immediate area of the setting sleeve (5). Turn
+     the setting sleeve sub-assembly over and lower it into the ID of the lower setting
+     sleeve adapter sub-assembly. Align the through holes with the tapped holes.
+    These holes are not equally spaced. There are only two correct positions. Install
+     twelve socket head cap screws (7). Torque to 75 ft-lbs (102 Nm).
+14.  With the release nut (14) on the floor (threads down) set the release nut lock ring
+     (15) on top. It may be necessary to put a plate on top of the lock ring and use weight
+     to press the ring in. Once ring is in its slot, it should be free to rotate.
+15.  Align the slot in the ring with the slot in the release nut with one end ¼" away from
+     the edge of the slot.
+16.  For the HC-PADPRT it will be necessary to install the release nut threaded sleeve
+     (53) into the release nut (14) and secure it with 4 anti-rotation pins (54) threaded
+     through the release nut. Ensure that the pins are engaging the mating slots on the
+     threaded sleeve and torqued to 50 ft-lbs (68 Nm). Install the 4 plugs (55) into the
+      anti-rotation pins holes and torque to 50 ft-lbs (68Nm).
+17. Use two ¾-10 lift eyes to pick up the body assembly. Install the fifteen transfer pins
+     (46) into the holes on the lower end of the body.
+18.  Place the latch ring (45) on top of the release nut assembly with the slot aligned
+     with the key slot and major OD up.
+19.  Keeping key slots in line, lower the upper body assembly into the release nut
+    assembly.
+20. To secure the two assemblies, install twelve each 1"-8 set screws (25). After these
+    screws are in hand tight, using a 9/16" AF allen wrench, start tightening the screws
+     starting with the screw positioned closest to the end of the ring (15). Positioned as
+      in Step 15. Observe through the anti rotation key slot as the end of the ring fully
+    engages in its recess in the body (3). Beginning at one side of key, tighten the first
+      six in sequence and back off ¼ turn. Then tighten in remainder sequence to 150
+      ft-lbs (168 kgs). Complete process by tightening first six in reverse to 150 ft-lbs
+    (168 kgs). This procedure centralizes the release nut on the lower body. Install
+      anti-rotation key (13) and retainer screw.
+21.  Install “T” seal assembly (28) in ID of bore of the body. Ensure the two brass rings
+     are correctly installed. The spiral grooves on brass rings face away from the seal
+     element. Retain this seal with gland (22). Use twelve of ½"-13 x 1-1/2" cap screws
+     (38) to bolt gland to body. Torque bolts to 25 ft-lbs (34 Nm). Set this sub-assembly
+      into the re-cocking skid which is standing vertically and secure with 2 x ½" 1 ½"
+   UNC bolts.
+22.  Install polypak (30) into its groove with seal lips up on the stem , then the wear
+    bands (26) into their grooves. Slip the setting sleeve assembly over the body
+    assembly and align the long slots on the main body with the middle limit pin hole in
+     the setting sleeve assembly. Ensure the setting sleeve assembly is all the way
+    down on the main body. Install the stem into the setting sleeve assembly in the
+     re-cocking skid. Install the split ring (2) in stem groove using twelve socket head
+    cap screws (19) to secure and torque screws to 75 ft-lbs (102 Nm).
+
+
+
+
+REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                             23 OF 24
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 24 ]
+────────────────────────────────────────────
+      18-3/4" DRILLPIPE RUNNING TOOL W/ PRESSURE ASSIST - HC / PADPRT
+
+23.  Install the long limit pins (16), springs (4), and screws (42) can be fitted. Thread on
+     threaded release sleeve (43) after packing key ways with grease. When sleeve is
+    bottomed out, back-off to nearest key way. Now push the four keys (44) up into the
+    key ways of stem and sleeve.
+24. The two o-rings (36) can now be put on the stem. Thread on coupling (18) onto
+     stem. Thread it until it bottoms out and back-off until key and slot align. Pull down
+     the keys and make up four of ¼ -20 x 0.5" cap screw, cap screws with 3/16" AF
+     Allen wrench.
+25. Remove tool from the vertical position in re-cocking skid and lay down tool.
+
+26.  Refer to Re-Cocking Procedure to make tool rig ready.
+
+
+
+
+
+REVISION R                           OSP 6127                                  24 AUGUST 2004
+                                             24 OF 24
+
+

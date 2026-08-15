@@ -1,0 +1,785 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 1 of 24
+
+
+
+
+
+                   Work Over Program JR-08
+
+
+
+
+
+D00       Issued for Comment         E.Barzegar      MR.Namazi    Smm.Hashemi    24-April-2023
+
+Rev.        Purpose of Issue           Prepared         Checked       Approved         Date
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 2 of 24
+
+
+                            TABULATION OF REVISED PAGES
+
+      Page   D00   D01  D02  D03   D03       Page   D00  D01  D02  D03  D03
+       1      X                                 35
+       2      X                                 36
+       3      X                                 37
+       4      X                                 38
+       5      X                                 39
+       6      X                                 40
+       7      X                                 41
+       8      X                                 42
+       9      X                                 43
+       10     X                                 44
+       11     X                                 45
+       12     X                                 46
+       13     X                                 47
+       14     X                                 48
+       15     X                                 49
+       16     X                                 50
+       17     X                                 51
+       18     X                                 52
+       19     X                                 53
+       20     X                                 54
+       21     X                                 55
+       22     X                                 56
+       23     X                                 57
+       24     X                                 58
+       25     X                                 59
+       26                                        60
+       27                                        61
+       28                                        62
+       29                                        63
+       30                                        64
+       31                                        65
+       32                                        66
+       33                                        67
+       34                                        68
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 3 of 24
+
+
+                                        Table of Content
+
+   Distribution List .......................................................................................................................................... 5
+
+   1    Well Summary .................................................................................................................................... 7
+
+            Location ..................................................................................................................................................................... 7
+
+            Location Data .......................................................................................................................................................... 10
+
+              Site Description ........................................................................................................................................................ 11
+
+           Well Objective .......................................................................................................................................................... 11
+
+          Time Estimate .......................................................................................................................................................... 12
+
+            JR-08 Well Head Schematic ..................................................................................................................................... 13
+
+   2    Section Summaries ........................................................................................................................... 14
+
+           32ʺ Hole Section ...................................................................................................................................................... 14
+
+           24” Hole Section ...................................................................................................................................................... 14
+
+           17” Hole Section ...................................................................................................................................................... 14
+
+          12 ¼” Hole Section ................................................................................................................................................... 14
+
+          8 ½” Hole Section ..................................................................................................................................................... 15
+
+   3   Time BREAK DOWN table .................................................................................................................. 17
+
+   4    Drilling Operation Tables .................................................................................................................. 18
+
+            Tubular Program...................................................................................................................................................... 18
+
+   5    Drilling Fluid ..................................................................................................................................... 19
+
+              Drilling Fluid Summary Program.............................................................................................................................. 19
+
+              Drilling Fluid Properties ........................................................................................................................................... 20
+
+           Completion fluid ...................................................................................................................................................... 21
+
+   6    Drilling Procedures ........................................................................................................................... 22
+
+   7    Section Requirements ....................................................................................................................... 23
+
+          8 ½” Hole Section ..................................................................................................................................................... 23
+
+           Completion .............................................................................................................................................................. 23
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 4 of 24
+
+
+
+                                         Table of Figure
+   Figure 1 Geographical location of the Operation Area (Sepehr-Jufair field) (Scale: 1000m each Box). .. 8
+   Figure 2 Geographical Location of Sepehr-Jufair oilfield ......................................................................... 9
+
+
+                                                       List of Table
+   Table 1: The well general data................................................................................................................ 10
+   Table 2: Proposed JR-08 well location and the 3 nearby wells location ................................................ 11
+   Table 3 Tubular Program ........................................................................................................................ 18
+   Table 4-Summary of Drilling Fluid Program ........................................................................................... 19
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 5 of 24
+
+
+   Distribution List
+        Printed   E-File                            Title                     Name
+        1 ea  1 ea   NIOC-PEDEC                                 Mr. Mokarami
+        1 ea          Pasargad E&P- Project Manger                  Mr. S.Dehghani
+              1 ea    Pasargad E&P- Operations Manager              Mr. M.Tayebi
+              1 ea    Pasargad E&P- Drilling Engineering Manager       Mr. M.R. Afsharian
+              1 ea    Pasargad E&P- Petroleum Engineering Manager    Mr. S.M. Seyyedsar
+              1 ea    Pasargad E&P- G&G Manager                   Mr. Lotfpour
+              1 ea    Pasargad E&P- HSSE Manager                   Mr. H.Isaabadi
+        1 ea        TDDC - Project Manger                         Mr. S.M.M. Hashemi
+              1 ea   TDDC - Operations Manager                    Mr. M.Nariman
+              1 ea   TDDC - Drilling Engineering Manager             Mr. MR.Namazi
+        1 ea        TDDC - Rig Manager                           Mr. Sohrab Ghalavandi
+        Original        To be kept in well file
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 6 of 24
+
+
+This Re-Entry program will be continuously reviewed during the operation and may be revised based on
+whether the different section objectives are met or not. Separate detailed guidelines will be issued. These
+will reflect the results from different ongoing optimization projects. If major design changes are decided
+on, an amendment to the Re-Entry program will be issued and this will be subject for approval.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 7 of 24
+
+
+1  WELL SUMMARY
+
+       Location
+  The Sepehr-Jufair field (Operation Area) is located in Khuzestan province with about 40km distance in
+   the west of Ahwaz City. The Sepehr-Jufair field (Operation Area) covers about 352 square kilometers
+   area with approximately 23 kilometers long and 27 kilometers wide, it is located in vicinity of South
+  Azadegan and Yadavaran giant fields. The operation area does not have any geological surface
+   impression and was explored initially by 2D seismic survey in 1976. The explored oil reservoirs from
+   different geological strata show economic hydrocarbon potential, which are developed firmly in the
+   Sepehr-Jufair field and nearby oil fields.
+  The Well JR-08 has been penetrated in the north part of Jufair structure, north-east direction to the Well
+   JR-06 as the main reference well with the distance 2700m. The Well location is away 950m from JR-01
+   location. The main purpose of this well is production oil from Lower Fahliyan reservoir.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 8 of 24
+
+
+Location Map
+
+
+
+
+
+     Figure 1 Geographical location of the Operation Area (Sepehr-Jufair field) (Scale: 1000m each Box).
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 9 of 24
+
+
+
+
+
+                        Figure 2 Geographical Location of Sepehr-Jufair oilfield
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00       Page 10 of 24
+
+
+       Location Data
+Below Table, shows some general information about the drilling location of Well JR-08 that was spudded
+in the Sepehr area.
+                                  Table 1: The well general data
+
+ Well Name                    JR-08
+
+  Province                    Khuzestan
+
+  Area                     Abadan Plain
+
+  Field                           Sepehr-Jufair
+
+  Well Class.                   Production well
+
+  Well Type                       Vertical well
+
+  Well No.                      JR-08
+
+  Reference Wells               JR-06
+
+  Rig Name                  TDDC-303
+
+                                   Original producer: Lower Fahliyan Fm.
+  Well Objective
+                                  Alternative producer: Lower Gadvan Fm.
+
+                               Geodetic system: UTM39N, WGS84
+
+                             Wellhead Coordinates     X: 226690 m       Y: 3464050 m
+
+                                  Position in respect with reference well (JR-06): 2700m distance at  Well Location
+                                north- east direction
+
+                                   Structural position: north part of Jufair Culmination
+
+                                Location on seismic lines: inline 792 - cross line 784
+
+  Ground Level Elevation (GLE)  8.17 m
+
+  Rotary table Elevation (RTE)   18.67 m (10.5m rig floor + 8.17m GLE)
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00       Page 11 of 24
+
+
+  Planned TD                4589 m
+
+  Actual TD                  4670 m
+
+  Target Reservoir            Lower Fahliyan Fm.
+
+  Well Completion            Completed and cemented with 7” liner
+
+
+
+        Site Description
+The nearest well to the proposed JR-08 well location is JR-01, located in adjacent with the Jufair village.
+well JR-08 was drilled in order to evaluate the hydrocarbon potential possibility of Bangestan and Khami
+Groups. This well was drilled from surface (Aghajari formation) to the near bottom of the Fahliyan
+formation (Lower Fahliyan reservoir layers) and finally was penetrated into the depth of 4670m (FTD).
+After perforating and conducting the production tests, respectively from bottom to the top. Based on the
+achieved results, some layers show outstanding capability.
+
+
+                 Table 2: Proposed JR-08 well location and the 3 nearby wells location
+
+                                                       Distance       Well       Easting (X)         Northing (Y)                        Reference well                                                        to JR-08
+       JR-08      226690            3464050               -                          -
+       JR-06      225,476           3,461,601       2700m          Main reference
+       JR-04      225,331.0          3,462,391.0     2150m           #2
+       JR-01      225719.1         3463340.5      950m            #3
+
+
+
+       Well Objective
+ The well JR-08 will be re-entry (de-suspension), in order to access Khami group reservoir layers
+ including Lower Gadvan and Lower Fahliyan formation.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00       Page 12 of 24
+
+
+      Time Estimate
+A total time of 55.5 days are estimated to complete and test the well.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 24 ]
+────────────────────────────────────────────
+                         Sepehr-Jufair Field Development
+                     And Production Operations
+                     Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002    D00       Page 13 of 24
+
+
+
+          JR-08 Well Head Schematic
+
+          Wellhead direction while installation will be instructed by client’s representative.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00       Page 14 of 24
+
+
+   2   SECTION SUMMARIES
+
+         32ʺ Hole Section
+   36” Hole section was planned to be drilled to 110 m with 2 run; run and cement 26” conductor Pipe.
+   However, while drilling with 26” bit to 43 m POOH to surface three times because the bit was balled
+   up. It was decided to continue drilling & enlarging well to TD section by 24” bit & 36” hole opener. The
+   36” hole section size was done successfully in 7 Days.
+
+
+
+         24” Hole Section
+   24” Hole Section was planned to drill with 5 run BHA; But unfortunately, due to wash out in DP & DC
+   and also inability to pass 18 5/8” CSG from 26” Shoe in several times.
+
+         17” Hole Section
+   Based on drilling program, 17” Hole Section would be drilled to ±2031.5 m and 13 5/8” & 13-3/8" casing
+   would be run to ±2031 m and cemented as per program. Hole section was planned to drilled with 3
+  BHA run after drill out shoe track and this section finished in 3 BHA runs (includes D/O BHA). In actual,
+   this section was started by 17” M.T.Bit (clean out BHA) for D/O & drilling formation to 1482.5 m. try to
+   perform FIT; no success. Rec. another FOSV, Inside Ann. stepwise W/Max 1200psi, press. gradually
+   drop 900psi in 15min. POOH to surface & RIH to 310 by new 17” PDC Bit. Stop RIH due to observed
+   unusually SPP. POOH & check string; ok. RIH again with same Bit to BTM & drilling to TD section @
+   2031.5 m. Run 13 5/8” & 13 3/8” CSG to 2031 m and cemented as per program.
+
+         12 ¼” Hole Section
+   For 12 1/4” hole section, RIH D/O BHA to 2002 m. D/O shoe & rat hole to 2031.5 m, 12 ¼” hole section
+  was commenced to drilling 12 1/4” hole section to 2032 m. the well was displaced the with 80 pcf
+   KCl/Polymer mud. Continue drilling to 2061 m W/NL-NG. POOH to surface & RIH with performance
+   BHA. Drilling was continued as performance to 2242.5 m. stop Drilling; due to low ROP. POOH to
+   surface. It was observed that protection sleeve of PDM was open & had fallen on shank of the bit. RIH
+   with 12 ¼” junk recovery BHA to 2242.5m. work on junk sub several times & drilling to 2252.5 m. POOH
+   to surface & recovered 230 g pieces of PDC bit. RIH 12 ¼” performance BHA & drilling to 2283 m. POOH
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00       Page 15 of 24
+
+
+   to surface due to wash out on DP. RIH 12 ¼” pendulum BHA to BTM & Drilling to coring depth @ 2930
+  m. coring in 3 run from 2930 to 2995 m & enlarge coring interval with 12 ¼” pendulum BHA. Drilling
+  was continued drilling to 3739 m (STD). Prior to taking the log, the hole was conditioned. R/U logging
+   tools & RIH DSI (Run#1) to 3737.5 m. Log up to 13 5/8 CSG Shoe. full suite log (Run#2) was taken from
+   3739 m to 13 5/8” CSG Shoe. RIH FMI log (Run#3) to 3030 m & log up to 2930 m. CBL-VDL-CCL-GR log
+   (Run#4) was run to 2028 m & log up to 1479.5 m. condition trip before Run Casing by pendulum BHA.
+  Run 9-5/8” Casing as per tally to 3729 m. observe String stuck. Work on same; no success. perform
+  Cement Casing as per plan (Lead: 950 bbl; 98 pcf & Tail: 84 bbl; 118 pcf). Install auto casing slips. Slack
+   off Casing weight. Install THS. RIH 8 ½” PDC Bit & pendulum BHA to 3704.7 m. D/O shoe track & perform
+   CIT with 3000 psi; ok. Continue D/O shoe track & rat hole to 3739 m. perform FIT with max 3000 psi;
+   ok. The well was displaced with 130 pcf fresh Mud.
+
+         8 ½” Hole Section
+
+   The last hole as 8-1/2” hole section was started by drill out all inside casing and drilling to 3776 m. due
+   to low ROP; POOH to surface for Change Bit. RIH by 8 ½” PDC Bit and pendulum BHA to bottom. Drilling
+   to 4119 m while decrease mud weight from 130 to 115 pcf. Observe SPP dropped from 2882 to 2730
+    psi. check surface equipment; ok. POOH to 1255 m & found wash out on DP. RIH back to bottom &
+   continue drilling to 4579 m. while decrease mud weight to 113 pcf. observe loss increase to 9 BPHL.
+  Pump 30 bbl LCM pill. Continue Drilling to 4670 m with 1-3 BPHL. 8 ½” section TD confirmed by
+   geologist. CBU & condition well. POOH to surface. Perform full suite log by WSI as Run#1 (RESISTIVITY-
+   DIPOLE SONIC-GR) & Run#2 (DENSITY-NEUTRON-GR) to 9 5/8” CSG Shoe. Log down to TD & log up to
+   9 5/8” CSG Shoe. RIH 9 5/8” Scraper to 3727 m & scrap inside 9 5/8” CSG. POOH to 3500 m & spot 118
+   BBL 134 PCF Kill mud as trip margin. POOH to surface. RIH Logging Tools (SBT/VDL/CCL/GR) to 2075 m.
+   log down to 2200 m. RIH to 9 5/8” CSG & log up to 2000 m. POOH to surface. Perform BOP test. RIH 8
+  ½” TCI Bit & condition BHA to 4670 m while uniform mud weight to 112 pcf. Run 7" LNR as per program
+    [totally run 48 jts 7” LNR (35#, C-110, TMK) & 45 jnt 7” LNR (32#; C-100; TMK)] & 7” PPA LNR HGR
+   Assay. cementing Liner as program. RIH by 8 1/2” TCI bit for clean out inside 9 5/8” casing to top of
+   Liner Lap & P/U 5 7/8” MT.Bit for cleaning inside LNR to top of LDC. Run SBT log instead of USIT.
+   Perform Dry Test successfully.
+   P/Up & M/Up 5 7/8" R.Bit (Used,Open, K.D) W/ 7"Scraper Bha . Rih F/3303 To 4455m (16m Above
+   Perforation Interval), W/ Nl-Ng. Perform Short Circ. Mud While Scrap Pkr Depth As Prog, W/ Nl-Ng.
+   Cont. Pooh F/4330 To 3900m While L/D 29 Jts 5" Dp, Rih While Scrap F/ 3900 To 4100m, Circ.Btm's Up
+ @ 4040m,Pump 50 Bbl Hi-Vis Pill (Cacl2 Brine) As Spacer, Displace Mud In Hole W/Cabr2 (105 Pcf),
+   Flow Checked The Well "Static", Pooh To 3320m While L/D 75 Jts 5" Dp, W/ Nl Ng. Cont. Pooh F/ 1156m
+   To Surf. While L/D 12 Jts 5" Dp & 93 Jts 3-1/2" Hwdp & Scrap Bha#39, R/U Aco Pars Tbg Running
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00       Page 16 of 24
+
+
+   Equipment, Held Pjsm And Run Completion Strg As Per Program,W/ Nl-Ng. Cont. Run Completion Strg
+   F/ 24 To 155m As Per Program, W/ Nl-Ng. Cont. Run Completion Strg F/ 155 To 679m While Pressure
+   Test Strg @ 155m & 355m W/7500 Psi For 15 Min, "Ok".Cont. Run Completion Strg F/ 679 To 1640M
+   While Perform Tbg Strg Press. Test @ 960M W/ 6500 Psi For 15 Min, "Ok", & Run 2.875" Gauge Ring
+ @ 1302M, "Ok",Cont. Run Comp. Strg F/1640 To 2917M While Perform Press. Test @ 1890M W/ 6500
+   Psi For 15 Min. Cont. Run Comp. Strg F/2917 To 3957M (While Perform Pressure Test Comp. Strg @
+   2917M), Perform Gauge Ring Trip To 3470M, Nl-Ng. Perform Gauge Run, Press. Test Comp. Strg @
+  3957M W/ 6500 Psi For 15 Min, M/U 3sv Assy And Press. Test Comp W/ 7500 Psi For 15 Min & Perform
+   Inflow Test "Ok", Cont. Run Comp. Strg + M/U Tbg Hgr & Press Test Same. Due To Check Tbg Hgr Assy.
+   Connection &Rupture Civs Rupture Disc, M/U 4 1/2" P.Joint (15.1#. L-80, Tp-G2) + Test Assy (Xos: 4
+   1/2" Tpg2 Pin* 4 1/2" If Box + 5"P.Joint) On Tbg Hgr Running Tools, Perform Completion Strg Press Test
+   Against The Plug In Ssd W/ 500-7500 Psi For 15 Min, "Ok".Disconnected Test Line From Comp.Strg, B/O
+  & L/D Test Assy. Check Civs, Cut & Pass Cils & Cl From Tbg Hgr, Test Tbg Hgr Ports (CONNECT WETCO
+   OIL PUMP TO TBG HGR PORTS 4 No.) & TEST EACH PORTS W/ 8000 psi FOR 15 min "OK" . Land Tbg Hgr
+   In Ths,P/U 2.1M Comp. Strg (Set Pkr Depth Position), Retrieved Prong & Plug From Ssd, Set Plug &
+   Prong In Top No-Go, Set Packer, Shear Expantion Joint & Land Tgb Hgr In Ths, Press. Test Above Hgr
+   "Ok".Press. Test Comp. Strg "Ok", Press. Test Tbg Hgr Sealing & Tie-Down Screws "Ok",Press. Test 9
+   5/8"Csg X Tbg Ann After Retrieving Prong& Plug From No Go. W/ 500-2000 Psi For 15 Min, Against Pkr
+   Element & Tbg Hgr Seals And Checked The Pressure Holding, "Ok". Set Twcv & Press Test, Obs Drop
+   Press, Retrieve Twcv, Obs Fail Twcv's Poppet & Left In Hole, Wait On Rec. Magnet & Fishing Tools. Set
+  Twcv Ibn Tbg Hgr & Test Same Ok", N/D Bop Stack (N/D 13 5/8"-10k Bop Stack.Check Top Of Tbg Hgr,
+   Found Twcv's Poppet On Side Of Tbg Hgr, Clean & Wash THS ), Land Bmv On Ths & Test Same "Ok" B/O
+   PRESS. ,N/U Wetco Solid Block On Top Of 11” ~ 4 1/16” Tbg Head Adaptor. Perform X-Mass Tree Body
+   Test "Ok", Pressure Test 3/8" Cils & 1/4" Cl," Ok". R/U Tpk Ct &Perform Pressure Test Bop "Ok". Rih 1
+   1/2" Ct To 4030M, Displace The Well W/ Hi-Ph Water (Got 180 Bbl Ca Br2 On Sufrace), R/D Ct& Equip.,
+   Retrieve Protection Sleeve, Close The Well.As Client (E & P Pasargad) Request, Bleed Off Well Press F/
+   4000 To 1000 Psi Stepwise (500 Psi Each Step) & Monitor For 15 Min"No Build".Bleed Off Well Press F/
+   2000 To 1000 Psi & Monitor Press "Obs Build Up To 1900 Psi Within 50 Min", Bleed Off Press In Cl To
+   Zero & Close 3sv, Bleed Off Well Press Above 3sv To Zero, Close Tmv. Close All Xmt All Valves Except
+   Bmv.R/D Pump Truck & S/L Equipment. Released The Rig @ 05-September-2022, 06:00 O'clock. Tear
+   Out the Rig.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 24 ]
+────────────────────────────────────────────
+                               Sepehr-Jufair Field Development
+                          And Production Operations
+                          Work Over Program JR-08
+Document No.:                  SJD2   DDRGTD   DRDR    PLDR    4002   D00          Page 17 of 24
+
+
+
+    3  TIME BREAK DOWN TABLE
+
+     Re-Entry Operation - Well No. JR-08                                                                                             Depth                                                                                                                                                                                                                                                                                                                                                           Duration(hrs)                Duration(day)                Duration(Days)                                                                                                                                                                                                                                                                                                                                                                        Operation                                                                                                                                                                              Time            Time               Total
+                                                                                                                                                    Time          Total
+                                                                                                                                                                 Duration     Duration     Operation Sequence                                                                                  Depth(m)                   DurationTime(hrs)                                                                                                                                                                                    (day)         (Days)
+      Spud Rig on well # JR-08                                                                        4631     Completion      0.0          0.0         0
+       Retrieve one way. Record wellhead and annulus pressure.                                              4631     Completion      9.0          0.4          0.4
+      R/U Slick line equipment, install protection sleeve in 3SV. Record pressure.                                 4631     Completion      6.0          0.3          0.6
+     Open SSD. Connect surface Line, Kill the well w/115 pcf mud. Get contaminated CaBr2 on surface.              4631     Completion      8.0          0.3          1.0
+       Close SSD, Test String w/ 5000 psi, Retrieve protection sleeve. R/D Slick line equipment,                      4631     Completion     10.0         0.4          1.4
+        Install Two way in tubing hanger. N/D wellhead and N/U BOP. Pressure test BOP.                           4631     Completion     36.0         1.5          2.9
+       Retrieve Two way. R/U Slick line equipment, Retrieve Prong & Plug of NO-GO, Set Plug in SSD, Test String w/                                                                                                4631     Completion     18.0         0.8          3.6      5000 psi.
+       Unlatch completion string from anchor seal. POOH completion string to Surface.                            4631     Completion    192.0        8.0         11.6
+      RIH w/5 7/8" mill to packer depth at 4006.1m. Mill packer, POOH to Surface.                               4631     Completion    120.0        5.0         16.6
+      RIH w/Taper tap to BTM. Engauge w/packer. Pull packer to Surface.                                      4631     Completion     40.0         1.7         18.3
+      P/U 5 7/8" Condition BHA. RIH to bottom to check well condition. CBU. POOH to Surface. L/D BHA.              4631     Extra Work     60.0         2.5         20.8
+      P/U 2 7/8" open end drill pipe, RIH to TOC at 4631m. Spot 10 bbl 118pcf cement as balance plug. WOC to get                                                                                                4631     Extra Work     96.0         4.0         24.8       hard. RIH & tag cement. POOH to Surface. L/D BHA.
+      P/U 5 7/8" D/O BHA. RIH to Tag TOC. D/O CMT to 4544m. CBU. POOH to Surface. L/D BHA.                   4631     Extra Work     60.0         2.5         27.3
+      P/U 7" Scraper BHA. RIH to packer depth. Scrap packer depth. Displace mud with Completion fluid (CaBr2).                                                                                                4631     Completion    120.0        5.0         32.3      Perform flow check. POOH to surface.
+      P/U Completion String. RIH & Set packer @ 3900m                                                   4631     Completion    192.0        8.0         40.3
+      Secure the well. N/D BOP. N/U wellhead and test same.                                               4631     Completion     48.0         2.0         42.3
+      R/U Well test & stimulation surface equipment and test same.                                          4631      Well Test     120.0        5.0         47.3
+     Open the well and try to flow in one choke sizes as per program, in case of NO flow, perform acidizing as                                                                                                4631      Well Test     120.0        5.0         52.3      program and clean up the well and flow the well in one choke size . R/D well stimulation equipment.
+      Suspend The Well as per Procedure.                                                              4631      Well Test      24.0         1.0         53.3
+       Rig Service                                                                                  4631      Rig Service     53.3         2.2         55.5
+     Total Rig Days                                                                                                         55.5
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 24 ]
+────────────────────────────────────────────
+                                Sepehr-Jufair Field Development
+                          And Production Operations
+                          Work Over Program JR-08
+Document No.:                  SJD2   DDRGTD   DRDR    PLDR    4002   D00          Page 18 of 24
+
+
+    4   DRILLING OPERATION TABLES
+
+           Tubular Program
+                                                   Table 3 Tubular Program
+
+                     Depth
+    Casing Size                         PPF      Grade     Collapse (Psi)    Burst (Psi)      Drift (In)       ID (In)
+                From      To
+
+       26"          Surface      110       150        X-60          280           2041          24.6          24.76
+
+      18 ⅝"         Surface     1479.5      109.4       K-55         1630          4460          17.25         17.437
+
+      13 ⅜"         Surface      965        72        N-80         2669          5380          12.25         12.347
+
+      13 ⅝"         965       2031       88.2       N-80         4572          8830          12.25         12.375
+
+      9 ⅝"          Surface     3729       53.5        T-95         7340          9410           8.5           8.535
+
+        7"          3619.5      4128       32        C-110        10790          12455         5.879         6.094
+
+        7"          4128      4666.8      35        C-110        13035          13688         5.879         6.004
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00       Page 19 of 24
+
+
+   5   DRILLING FLUID
+
+             Drilling Fluid Summary Program
+   The following tables demonstrates the mud (weights and types) that should be used for drilling
+   operation of Well JR-08. This proposed mud summary program has been obtained, based on Nearby
+   Wells.
+
+
+                              Table 4-Summary of Drilling Fluid Program
+
+                                         Fluid Properties Summary
+
+                     Density                         Pcf            115
+
+                  Marsh Viscosity               Sec           44 - 55
+
+                 PV                         Cps           ALAP
+
+                       Yield Point                  Lb/100ft2         14-20
+
+                    API filter loss              cc/30min         <16
+
+                pH                                         -             9.5-10.5
+
+                   Ca++                       mg/l          < 1000
+
+                   LGS                 %             < 7
+
+                         CL-                         mg/l          188,000
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 20 of 24
+
+
+           Drilling Fluid Properties
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 21 of 24
+
+
+         Completion fluid
+          Since the related LOA for provision of Calcium Bromide (CaBr2) is not issued by TDDC to
+          contractor, hence the program and all related information/documents will be presented and
+         sent in due time, as per the specifications of the Scope of Work.
+        The completion fluid is to be CABR2 brine 1.6-1.69 g/cm3 density with corrosion inhibitor, H2S
+         Scavenger, oxygen scavenger,  etc. for preserving tubular  in Fahliyan wells. The CaBr2
+          specification and testing methods shall be as following:
+
+
+
+                     Test                  Method                  Unit                     Limits
+
+      Color                                        Visual                              -                      Colorless
+
+       Purity                                            Titration              %wt                    52
+
+       Crystallization Point              ASTM D2386              °C                          -7
+
+       Specific Gravity @ 25 °C           ASTM D 4052                         -                       1.7-1.73
+
+     pH @ 25°C (1:10)                   pH meter                            -                        7-8
+
+      Chloride                     APHA 4500 CL B           %wt                 Below 0.3
+
+       Sulfide                                  Gravimetry             %wt                 Below 0.01
+
+       Turbidity                      APHA 2130B           NTU                Max 6
+
+      Corrosion Rate @ 92 °C (72 Hours)     ASTM G1     MPY (milli Inch Per Year)          Below 5
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 22 of 24
+
+
+  6   DRILLING PROCEDURES
+      •  Spud Rig on well#JR-08
+      •  Retrieve one way. Record wellhead and annulus pressure.
+      •  R/U Slick line equipment, install protection sleeve in 3SV. Record pressure.
+      •  Open SSD. Connect surface Line, Kill the well w/115 pcf mud. Get contaminated CaBr2 on
+          surface.
+      •  Close SSD, Test String w/ 5000 psi, Retrieve protection sleeve. R/D Slick line equipment,
+      •   Install Two way in tubing hanger. N/D wellhead and N/U BOP. Pressure test BOP.
+      •  Retrieve Two way. R/U Slick line equipment, Retrieve Prong & Plug of NO-GO, Set Plug in SSD,
+          Test String w/ 5000 psi.
+      •  Unlatch completion string from anchor seal. POOH completion string to Surface.
+      •  RIH w/7" mill to packer depth at 4006.1m. Mill packer, POOH to Surface.
+      •  RIH w/7" Taper tap to BTM. Engauge w/packer. Pull packer to Surface.
+      •  P/U 5 7/8" Condition BHA. RIH to bottom to check well condition. CBU. POOH to Surface. L/D
+        BHA.
+      •  P/U 2 7/8" open end drill pipe, RIH to TOC at 4631m. Spot 10 bbl 118pcf cement as balance
+          plug. WOC to get hard. RIH & tag cement. POOH to Surface. L/D BHA.
+      •  P/U 5 7/8" D/O BHA. RIH to Tag TOC. D/O CMT to 4544m. CBU. POOH to Surface. L/D BHA.
+      •  P/U 7" Scraper BHA. RIH to packer depth. Scrap packer depth. Displace mud with Completion
+           fluid (CaBr2). Perform flow check. POOH to surface.
+      •  P/U Completion String. RIH & Set packer @ 3900m.
+      •  Secure the well. N/D BOP. N/U wellhead and test same.
+      •  R/U Well test & stimulation surface equipment and test same.
+      •  Open the well and try to flow in one choke sizes as per program, in case of NO flow, perform
+           acidizing as program and clean up the well and flow the well in one choke size. R/D well
+          stimulation equipment.
+      •  Suspend The Well as per Procedure.
+       •   Rig Service
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 23 of 24
+
+
+  7   SECTION REQUIREMENTS
+
+        8 ½” Hole Section
+
+    No.
+          Supplier                          Description                              Quantity
+     Item
+
+    1  TDDC      5 7/8” Metal Muncher                                       2 No
+    1  TDDC      5 7/8" BIT (216)                                            2 No.
+    2  TDDC         Bit nozzle For Roller cone (18/32")                                  as req
+    3   Rig Cont.   5 7/8" Bit Breaker                                          1 No.
+    4   Rig Cont.   4 3/4" Drill Collar                                           15 Jts
+    5   Rig Cont.   4 3/4" Drilling Jar                                           1 No.
+    6   Rig Cont.   2 7/8" Drill pipe                                            500 m
+    7   Rig Cont.   3 ½” Drill Pipe                                            1000 m
+    8   Rig Cont.   5 " Drill pipe Grade "S" + Grade "G"                         2500 m each
+    9   Rig Cont.    7" Scraper- Rotating Type- Two Side                            1 No.
+    10   Rig Cont.     Bit Sub 4 1/2 REG box X 4 1/2 IF box (float type)/Float Valve         1 No.
+    11   Service Co.  Mud Logging                                              1 Unit
+    12   Service Co.  H2S Service                                             Before Illam Formation
+    13   Service Co.  Well Head Service                                            As Req
+    14   Service Co.  Waste management Unit                                    1 Unit
+    15   Service Co.   Slick Line                                                   As Req
+    16   Service Co.   Coil Tubing                                                 As Req
+    17   Service Co.   Drilling fluid Services + Crew                                   As Req
+
+         Completion
+
+    No.
+             Supplier                        Description                             Quantity
+     Item
+
+     1   TDDC         4 1/2" Tubing 15.1 # Gas Tight                            ±3505 m
+     2   TDDC         3 1/2" Tubing 9.2 # Gas Tight                             ±1000 m
+     3   TDDC          Well Head & X mass Tree As program                        1 Set
+     4    Service Co.     Completion Equipment As program                          1 Set
+     5    Service Co.     Casing Crew & Equipment                                  As Req
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 24 ]
+────────────────────────────────────────────
+                        Sepehr-Jufair Field Development
+                    And Production Operations
+
+                    Work Over Program JR-08
+Document No.:             SJD2  DDRGTD  DRDR   PLDR   4002  D00        Page 24 of 24
+
+
+     6    Service Co.    Pump Truck                                              As Req
+     7    Service Co.    H2S Service                                          Before Ilam Formation
+     8    Service Co.     Well Head Service                                         As Req
+     9    Service Co.     Completion Running Service                                As Req
+    10   Service Co.      Slick Line                                                As Req
+    11   Service Co.    Mud Logging                                           1 Unit
+    12   Service Co.      Drilling fluid Service + Crew                                1 Unit
+    13   Service Co.    Waste Management Service                               1 Unit
+    14   Service Co.     Well Test & Stimulation Crew                              1 Unit
+
+

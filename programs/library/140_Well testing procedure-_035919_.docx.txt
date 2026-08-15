@@ -1,0 +1,74 @@
+# SOURCE: Well testing procedure-[035919].docx
+
+📄 فایل 140 از 214  |  Well testing procedure-[035919].docx
+
+## Well Test Operational Procedure
+
+### Connect Test Line to Flow line
+Line up the surface test line to flow line through flange.
+Double check the Master Valve and SSV (Actuator) still closed, Flush flow line as per service company’s procedure
+Pressure test surface equipment and line according to service company’s testing procedure,
+
+### Surface Clean Up
+To back produce the washing fluid, the clean-up of well from small choke size to full choke size 128/64" is conducted. The duration of the clean-up flow period will depend very much on the flow performance of the well; in any case, stabilized flow conditions and less than 1% BS&W should be achieved before shutting-in the well. At the end of the clean-up flow period a contingent set of separator samples will be taken.
+Actual flow times and choke settings will be determined by the Well Test Engineer and will depend on well response and operational considerations prevailing at the time. The planned test periods and the expected duration of each test period are different, actual test periods will be determined by the Well Test Supervisor/Reservoir Engineer according to well response condition in site. Carry out H2S emergency produces drill and hold pre-test safety meeting before clean-up for well test.
+Open O.T.S choke manifold slowly on adjustable choke and flow-back the well via the surge tank to the flare pit, by-passing the test separator. Divert residual washing fluid and residual acid (it will be neutralized with chemicals until the PH of returning fluid equal to 7, if acidizing after) into waste pit.
+Gradually increase adjustable choke size as per directed by the Well Test Engineer.
+Note: If the well is not capable of sustaining flow, other lifting method may be used.
+Once first hydrocarbons reach surface, collect reservoir fluids sample from the needle valve of data head, H2S drager tube measurements must be made immediately and repeated every 15 minutes until the well is stabilized on a fixed choke size and then at 30 minutes intervals or longer duration.
+Note: All personnel involved in the H2S measurements must wear breathing apparatus!
+Any H2S level is to be immediately reported to the Well Test Engineer who will confirm the information and then report to related department.
+Once reasonable stable flow has been achieved, switch flow to fixed choke and stabilize the well. Monitor FTHP, BS&W, PH and water salinity to monitor the well clean-up progress.
+Once sediment below approx.0.5%, divert flow by choke set at appointed choke size decidedy by welltesting engineer to estimate and measure preliminary flow rates.
+BS&W measurements should be below 5% before the well is shut-in.
+Shut-in well by O.T.S choke manifold.
+Rig up slick-line equipments and related accessories, setting memory pressure & temperature gauges.
+
+### Hanging memory pressure & temperature gauge
+
+### Main flow test(all choke size only for reference)
+Open choke manifold slowly on 12/64" adjustable choke to flow well, the hydrocarbons will be diverted to production line by-passing the test separator.
+Switch flow from 12/64" adjustable choke to 12/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and PH of any produced water if needed.
+Once sediment below approx.0.5%, divert flow through the test separator. Send produced gas to flare in pit, oil/water custody-transferred back to the existent production system
+Establish stable flow conditions and produce well at constant flow rate through the separator. The Well Test Engineer will determine the duration of the flow period. Duration of 8-10 hours is expected.
+The choke sizes for the multi-rate test will be selected based on the results of the clean-up flow period. The choke sizes given in this program can therefore change accordingly!
+Measure the stable flow rate of 12/64”choke size.
+One hour before change of choke size, take a set of separator PVT samples & liquid samplers (gas, oil and water) as per reservoir engineer requirement.
+Switch from 12/64” fixed to 12/64” adjustable choke. Gradually increase adjustable choke to 20/64”.
+Switch flow from 20/64" adjustable choke to 20/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and PH of any produced water if needed.
+Establish stable separator conditions and continue to flow at this rate for approximately 8-10 hours (duration to be determined by the Well Test Engineer depending on well behavior.
+Measure the stable flow rate of 20/64”choke size.
+One hour before change of choke size, take a set of separator PVT samples & liquid samplers (gas, oil and water) as per reservoir engineer requirement.
+Switch from 20/64” fixed to 20/64” adjustable choke. Gradually increase adjustable choke to 28/64”.
+Switch flow from 28/64" adjustable choke to 28/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and PH of any produced water if needed.
+Establish stable separator conditions and continue to flow at this rate for approximately 8-10 hours (duration to be determined by the Well Test Engineer depending on well behavior.
+Measure the stable flow rate of 28/64”choke size.
+One hour before the end of the main flow period, take a final set of separator PVT samples & liquid samples (gas, oil and water) as per reservoir engineer requirement.
+At least 2 surface oil samples, every sample is 20 liter.
+At least 2 surface gas samples, each sample is 20 liter.
+At least 2 water samples, each sample is 2 liter if formation produces water.
+Separator oil --- at least 2000cc.
+Separator gas --- at least 80liter
+Throughout main flow, measure and record the following at regular intervals. Surface data acquisition will be used to monitor some of these items simultaneously.
+Flowing tubing pressure and temperature.
+Separator pressure and temperature
+BS&W
+Water chlorides and concentrations of any tracers.
+Oil and gas rates and calculated gas-oil ratio (verify orifice plate used).
+Oil and gas gravities.
+Gas H2S.
+As required, divert separator oil line output to gauge tank for stock tank oil rate measurement and establishment of combined shrinkage/meter factor.
+Note:  Carefully monitor for evidence of sand at surfaces.
+Utilize methanol injection as necessary to prevent hydrates at choke manifold.
+
+### Main build-up test
+Put choke manifold to closed position (as per instructions of the O.T.S surface Specialist) for the intermediate pressure build-up period. Monitor well head pressure to ensure choke manifold fully closed. The well will be shut-in period at least 48 hours. The actual duration will be advised by the Reservoir or Well Test Engineer.
+Open O.T.S  choke manifold slowly on 12/64” adjustable choke to flow well.
+Retrieve pressure/temperature memory gauges on slickline.
+Perform flow pressure gradient test as per reservoir engineer requirement if need.
+
+### Retrieve memory pressure & temperature gauge
+
+### Rig down surface equipment
+Close master valve of X-mass tree, use clean water to flush all lines and equipments from kill line side of X-mass tree by pump
+Rig down well test line from production line

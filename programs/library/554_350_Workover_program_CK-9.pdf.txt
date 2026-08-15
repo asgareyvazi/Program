@@ -1,0 +1,972 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+                         IntheNameofGod
+
+                Work Over Program NO-1
+                   Cheshmeh khosh-9
+
+
+
+
+REVISION 1.2                                          SIGNATURE & DATE
+
+
+
+                 Hasan abbasi/Alireza Prepared by  :                                       Drilling programmer                    amrollahi
+
+
+ Prepared by  :      Iraj Khanalizadeh           Senior drilling program
+
+
+ Approved by :    Taghee farhadian         Head of Drilling chemistry
+
+
+ Approved by :     Sirous Zarei             Head of Drilling program
+
+
+
+ Approved by  :    G.Dowlatnia             Head of Drilling Operation
+
+
+                                      Head of drilling
+ Approved by  :    L.Eshghee                                              engineering department
+
+
+
+
+
+                                        1                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+Table of Content:
+
+
+1. INTRODUCTION ......................................................................................................................... 3
+  1.1 INTRODUCTION ............................................................................................................... 3
+
+  A REMEDIAL PLAN WAS ARRANGED TO REACH BELLOW PURPOSES: ............................................ 3
+
+  1.2 WELL INFORMATION ....................................................................................................... 4
+    1.2.1.DRILLING,COMPLETIONANDPRODUCTIONHISTORY......................................................... 5
+    1.2.1.1.DRILLINGHISTORY.......................................................................................................................... 5
+    1.2.1.2.PRODUCTIONTESTHISTORY........................................................................................................ 6
+   1.2.2H2SCONTENT.......................................................................................................................................... 6
+  1.3 WELL MONTAGE HISTORY BEFORE WORK OVER CK-9:…………………………………… …. .......... 7
+
+  1.4 CHESHMEH KHOSH COMPLETION STRING BEFORE ..................................................................... 8
+
+2. Work over Plan ........................................................................................................................... 9
+  2.1. DETAIL WORK OVER PLAN: .................................................................................................... 9
+
+  2.2. Mud Program……………………………………………………………………………………………12
+  2.3. WELL MONTAGE HISTORY AFTER WORK OVER: ...................................................................... 12
+
+  2.4. WELL COMPLETION AFTER WORK OVER: .............................................................................. 13
+
+  2.5 WELL HEAD BEFORE AND AFTER WORK OVER .......................................................................... 14
+
+  2.6 RIG MOVE ........................................................................................................................... 15
+
+  2.7 PREPARATION ....................................................................................................................... 15
+   2.7.1StandardsandPreparationoftheOperations........................................................................... 15
+   2.7.2 Pre-RunningChecklist..................................................................................................................... 15
+  2.8 COMPLETION RUNNING PROCEDURE ........................................................................................... 16
+
+3. Equipment and Material list with cost ..................................................................................... 19
+  4 TOTAL COST ........................................................................................................................... 20
+
+Attachments …………………………………………………………………………………………………….21
+
+
+
+
+List of tables:
+
+
+
+
+
+                                        2                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+1. INTRODUCTION
+  1.1 INTRODUCTION
+
+THIS PROGRAM COVERS WORK OVER OF WELL CHESHMEH KHOSH-9, CHESHMEH KHOSH FIELD, NORTH
+OF DEZFUL, IRAN. THE WELL IS PRODUCING OIL FROM ASMARI FORMATION.
+THIS WELL WILL REPAIR TO REMOVE OBSTRUCTION IN THE WELL COLUME & OBSERVE 7" LINER LAP &
+9-5/8" CASING.
+THE WORK OVER PROGRAM IS PREPARED ACCORDING TO LETTER NO.86/13-3/001 (27.1.86) FROM
+WEST PRODUCTION COMPANY.
+A REMEDIAL PLAN WAS ARRANGED TO REACH BELLOW PURPOSES:
+
+•  RIGGING UP THE RIG ON CK-9 THEN CHECK AND RECORD WELL HEAD PRESSURES.
+•  KILL THE WELL BY WATER (63PCF).
+•  NIPPLE DOWN WELL HEAD & N/UP BOP.
+•  PULL OUT & LAY DOWN URBAN COMPLETION STRING.
+•  CLEAN THE WELL TO TOP OF OBSTRACTION @ 2300MT THEN CLEAN WELL TO "TD" WITH
+   RECHECK 7"LINER (LAP) & 9 5/8"CASING.
+•  RUN URBAN COMPLETION STRING & COMPLETE WELL HEAD AS ATTACHMENT.
+•  FLOWING THE WELL ON PROPER CHOKE SIZES & RECORD THE FLOWING PRESSURES.
+•  SECURE THE WELL AND RELEASE THE RIG.
+
+NOTE: In case of encountering 9-5/8” casing collapse, the workover of the well will be depend
+on preparing of the required equipment.
+
+
+
+
+
+                                        3                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 27 ]
+────────────────────────────────────────────
+    CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+   1.2 WELL INFORMATION
+
+
+Well Name:    CK-9                              Client:                 I.C.O.F.C.
+
+Well Type:     Work Over                     Contractor:        NIDC
+
+Status:        Producing
+
+Field:        CHESHMEH KHOSH            Rig Name:           80 FATH
+
+Location:       E005S                     RTE / MSL:        149M
+
+Country:      IRAN                     GLE / MSL:         141.04M
+
+                             Latitude: East                                1755000 M
+Surface               Geodetic                              UTM
+Location:
+                           Longitude: North                              1151660 M
+
+Est. Timing
+
+Est. Spud Date:
+
+Well Duration:
+
+Rig Release Date:
+
+Casing & Other Information
+
+Size (in)                                Measured Depth (m)                         Specifications
+
+18 5/8"                                154                    13 Jts (J-55, 87.5 lb/ft, BTS)
+
+                                                             69 Jts (13-5/8", C-95, 82.5 lb/ft, BTS) + 90 Jts13 3/8" & 13-5/8"                       1871                                                                         (13-3/8", C-95, 72 lb/ft, VAM)
+
+                                                             180 Jts (L80, 53.5lb/ft, N.VAM), 45 Jts (P-110,
+9 5/8"                                 3448                      53.5 lb/ft, N.VAM), 24 Jts (V-150, 53.5 lb/ft,
+                                                                   N.VAM), 93 Jts (C-150, 58.4 lb/ft, NS-CC)
+
+7" Liner                                3638 TO 3384 m           26 Jts (L80, 29 lb/ft, N.VAM)
+
+5" Liner (10 Joints were perforated)                                      4034 TO 3580 m           38 Jts (RTC-95, 18 lb/ft, N.VAM)
+from 3699.27 to 4034.08 m
+
+Completion String (as URBAN)               200.9                    9 5/8"×7"
+
+Kick off Point                           3477
+
+Total Depth:                            4034                            Inc = 87.26◦ , Azim = 46.60◦, TVD = 3604.10 m
+
+Formation at TD:                       ASMARI                  Top of ASMARI formation is 3469M.
+
+W.O.C ( MTR SUB SEA)                    3489
+
+RES. PRESSURE @ 3414.8 MSS              4906 PSI
+
+OIL GRADIENT & WTR GRADIENT             0.34 PSI/FT & 0.49 PSI/FT
+
+TEMP. @3414.8 MSS, TEMP. GRADIENT        215˚F & 0.011˚F/FT
+
+WEIGHT PERSENT OF 'H2S' IN OIL       0%                     NEGLIGIBLE
+
+
+
+                                            4                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+1.2.1. DRILLING, COMPLETION AND PRODUCTION HISTORY
+1.2.1.1. DRILLING HISTORY
+
+26" Hole Size:
+Rig was spud at 1383/07/30 on well CK-9. Commence drilling with 26" bit & Bentonite mud to 155 m then
+18-5/8" casing (13 joints, 87.5 lb/ft) was run to 154 m & cemented with 10 bbl return on surface.
+
+17 1/2" Hole Size:
+Drilling with 17 1/2" bit and 69 to 86 pcf mud weight to 1871.1 m. 13 3/8" casing (69 joints 13-5/8", 88.2
+lb/ft + 90 joints 13-3/8", 72 lb/ft) was run to 1871.1 m and cemented as program (return 50 bbl cement on
+surface).
+* Drilling problems:
+       - There were washout in string at 1164, 1210, 1461, 1520, 1639 & 1778 m.
+       - Pipes stuck at 1462 m & get free after work on it.
+       - Mud weight increased gradually to 86 pcf due to tight hole at 1164, 1461, 1462 & 1865 m.
+
+12 1/4" Hole Size:
+Drilling with 12 1/4" bit and 126 to 146 pcf mud weight to 3448 m. GR/CDR log was run. 9 5/8" casing (249
+joints, 53.5lb/ft, 93 Joints, 58.4 lb/ft) was run to 3448 m and cemented as program without return cement
+on surface.
+* Drilling problems:
+       - 40 bbl/hr losses occurred at 3412m.
+       - Mud weight increased gradually to 146 pcf due to tight hole at 1937, 2000, 2176, 2346, 2415, 2500
+& 2750 m.
+
+8 3/8" Hole Size:
+Drilling with 8 3/8" bit and 64 to 75 pcf mud weight to 3520 m. DST test was done from ASMARI formation
+and then drilling continued to 4294 m while increased mud weight gradually to 93 pcf. The VSP/DSI/RFT/
+CCL/ VDL/ CBL/UBI/OBMI/LDL/BHC/AIT/CNL/NGS/GR logs was run & recorded in hole.Cement plug back
+was set at 3992 to 3754m, 3669 to 3514m & 3514 to 3467m.
+Directional drilling tools picked up and directional drilling started from 3477m (K.O.P) to 3638m (Inc= 88◦,
+Azim = 46.3◦, TVD = 3574.35 m) with 75 pcf mud weight. 7" liner (26 joints, 29 lb/ft) was run from 3638 to
+3384 m and cemented as program with observing shearing pressure.
+
+
+* Drilling problems:
+       - Pipes stuck at 3486, 3831, 3830 & 4148 m & get free after increased mud weight to 93pcf.
+       - There was washout in string at 3596m.
+
+
+
+6 1/8" Hole Size:
+Commence horizontal drilling with 6 1/8" bit and 64 pcf oil base mud to 4034m (Inc= 87.26◦ , Azim = 46.6◦,
+TVD = 3604.1 m). 5" liner (38 joints (10 joints were perforated, from 3699.27 to 4034.08 m), 18 lb/ft) was
+run from 4034 to 3580 m without cementing.
+Urban completion string was run to 200.9 m. the well was bull head with 220 bbl gasoil with low injection
+rate and tried to flow the well, without success. Rig released at date 1384/02/10.
+
+
+
+
+                                        5                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+1.2.1.2. PRODUCTION TEST HISTORY
+
+After drilling and prepared the well on summery 84, the well started to produce oil with salt.
+At date 1385/11/14 production was stopped due to decreasing well head pressure to zero.
+Following operation was done to investigate well problem:
+   1- At date 1385/11/18 & 19 ran in hole with wire line equipments and indicated
+       obstruction at 2300m. It is tried to pass from this point for several times no success.
+      Sample got from obstruction and send to NISOC laboratory to analysis its. Test results
+       received from NISOC At date 1385/12/21 (for more information refer to production
+        field documents)
+   2- The well flowed for several times but well head pressure decrease from 2500 – 3000
+       psi to zero after 1 min (pure gas observed at each step).
+   3- At date 1385/11/30 tried to remove obstruction by using gasoil with 4000 psi
+       pressure, no success.
+   4- At date 1386/1/4, observed oil leakage from VR-PLUG of 9-5/8"×13-3/8" TBG SPL,
+      leakage was eliminate after releasing pressure from 2500 psi to zero, installing 2-
+      1/16"-5000 gate valve and fasten VR-PLUG. Other well head equipments checked that
+      they were Ok.
+   5- During 1386/1/22 to 1386/1/24 coiled tubing was rigged up on well and following
+       operations were done:
+   5-1- At date 1386/1/22 ran in hole while pumping gasoil to 2275 m and tried to pass with
+    injected 150 bbl gasoil and 4000 psi back pressure, no success.
+   5-2- At date 1386/1/23 tried to remove obstruction with water injection without any
+   progress.
+   5-3- According to results of sample analysis, spot 200 gal 15% chloride acid on obstruction
+   with applying 4000 psi back pressure on it, but there was not any effective progress on
+   obstruction after 1 hr. Due to no more progress diluted chloride acid with 50 bbl water and
+   released coiled tubing.
+
+ 1.2.2 H2S CONTENT
+    No significant H2S content is present in this field.
+
+
+
+
+
+                                        6                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+1.3 Well Montage History before work over:
+
+
+
+
+
+                                        7                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+1.4 Completion String before Work Over
+
+
+
+
+
+NOTE: ALL ACCESSORIES SAME AS DUMMY & DUMMY PLUG, RUNNING & PULLING TOOLS ,
+RETREIVEABLE TOOLS &RETRIVING PACKER TOOLS FOR FULL OUT PACKER MUST BE EXIST
+ON LOCATION.
+
+
+
+
+
+                                        8                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+2. Work over Plan
+2.1. Detail work over plan:
+
+
+
+
+
+                                        9                                DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+
+
+                                        10                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+
+
+                                        11                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+2.2. Mud Program:
+Only Fresh water (63 pcf) will be used as mud for work over program and there is not any program for Mud.
+
+2.3. Well Montage History after work over:
+
+
+
+
+
+                                        12                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+2.4. Well Completion after Work Over:
+
+
+
+
+
+NOTE: AS SHORTAGE 9-5/8" * 7" URBAN COMP. IN DRILLING STOCK DESIGN 9-5/8" *
+7" COMP. STRING FOR THIS WELL.
+
+
+
+                                        13                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+2.5 Well head before and after Work over
+
+
+
+
+
+                                        14                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+
+2.6 Rig Move
+
+                    •   Prior to commence rig move operations, a pre-job safety meeting with all
+                       personnel involved is to be conducted.
+                    •  Move rig from DHL-20 to CK-9.
+
+2.7 Preparation
+
+                   It is planned to Kill the well and cure the loss, N/U the BOP and & pull out urban completion
+                 string, cleaned hole then run urban completion string as program. Flow the well on proper
+             choke sizes, secure the well and finally release the rig.
+
+
+            2.7.1 Standards and Preparation of the Operations
+
+                     •  Make sure that the whole operation is based on good and safe work over operation
+                          practices.
+                     •  After bullhead well, BPV plus related running tools, wear bushing and plug tester,
+                    8 3/8" J.mill & E.mill with necessary X-Over are on board. For more detail, refer to
+                    work over plan.
+                     •  Prior to start operation, hold a safety/Pre-spud meeting with rig crews and service
+                     hands to review the work over program and potential problems. Note meetings in
+                        tour book. Ensure that Oil & gas monitors are set up. Ensure that all safety devices
+                       are properly installed and functioning.
+
+                 Note: Before spud the rig follow pre-Spud check list.
+
+                 Note: Before spud the rig make sure the suitable adaptor for nipple up the
+             BOP (13-5/8"-5000) above the 13 5/8"-3000×11"-5000 Tubing head spool
+                 are available on rig site.
+
+              2.7.2  Pre-Running Checklist
+
+                    •   Pre Completion Meeting to be held with all Rig Personnel.
+                    •  The formation could cause mud losses at any time. Mud volume displaced must be
+                  checked against the completion displacement and accurate trip records must be kept at
+                           all times.
+                    •   Although there  is positive plug in string while running in hole, but the correct
+                   crossover from tubing thread to 5” IF drill pipe must be available on the rig floor at all
+                   times when handling tubing. Also a safety valve are required on the rig floor all time.
+                    •   Special precautions need to be taken when running the control line outside tubing
+                  (due to difficulty in sealing with the annular preventor) and when running wire line.
+                 These  situations must be discussed by the crew &  all responsible personnel  to
+               commence running the completion.
+
+
+
+
+
+                                        15                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+2.8 Completion Running Procedure
+This program assumes that the packer and tailpipe are run with the rest of the
+completion.
+
+
+                    •  Make up and test pre-assemblies (in workshop as per manufacturer’s procedures).
+                    •    All equipment to be checked for any transport damage.
+                    •    All OD’s and ID'S to be checked against the  checklist sheets sent from the
+                  workshop. All assemblies and tubing to be drifted with respective sizes prior to picking
+                up to the rig floor. It is recommended that after testing, plugs and other flow control
+                    accessories are installed in the respective flow control nipples to ensure that the plugs
+                  can and will be installed properly down hole.
+                    •   Prior to running the completion, RIH with 9-5/8” casing scraper to 250 m.
+                    •   Install the XN (3.813'') plug into the top No-Go nipple, then the prong and
+                   pressure test to 4500psi. plug in SSD "R" & test string against this plug)
+                    •   Check  well  control  precautions (see top  of page)  are  in  place. Run Urban
+                   completion same as before. Tail pipe length is approx. 14.20 m.
+                 Note that the torque requirements for the 4 ½” string (13.5 lb/ft tubing, 13.5 lb/ft
+                   crossovers and  completion equipment) and  the  7”  string  (29  lb/ft  tubing and
+                   completion equipment) are:
+                    •   Torque figures: 4-1/2” 13.5 lb/ft New Vam 75-80-85 KSI
+                                       Min. 3780 ft/lbs; opt. 4200 ft/lbs; Max. 4620 ft/lbs
+                     Torque figures: 7” 29 lb/ft New Vam 75-80-85 KSI
+                                   Min 8460ft/lbs; Opt. 9400 ft/lbs; Max. 10340 ft/lbs
+                    •   Also note that the correct API modified thread lubricant must be used. Do not use
+                 any more thread lubricant than necessary, the completion eng. should demonstrate
+                     correct use of thread lubricant (using paint brush, not dope brush and applying to pin
+                 and only the shoulder of the box).
+                    •  Make up 9 5/8” packer assembly and set the assembly in the slips.
+                    •  Remove shear screws, and install the packer test clamp (segments).
+                NOTE: A dog collar clamp or safety clamp should be used at all times until there is
+                       sufficient weight on the slips to ensure that the tubing string is held securely in the
+                     rotary table during each connection.
+                    •    Fill assembly with 63 PCF high PH water.
+                    •   Pressure test assembly to 4,500 psi for 15 minutes.
+                    •   Bleed off pressure slowly.
+                    •   Dismantle surface test fittings and bull plug and install shear screws.
+                    •   Clear the rig floor and make ready to run the rest of the 9 5/8” x 7” Urban
+                   completion string.
+                    •  Run the packer slowly through the BOP’s.Once the packer is in the casing, do not
+                  run the packer faster than 30 foot joint -from slips out to slips in - per 4 minute.
+                NOTE: Monitor the trip tank continuously while running completion string plugged. Mud
+                 volume displaced must be checked against the completion displacement and accurate
+                        trip records must be kept at all times. Fluid level must be monitored continuously. A
+                    contractor Toolpusher or supervisor must be on the rig floor at all times and must keep
+                   the ICOFC Company Man and Completion Engineer notified of any changes in well
+                     status.
+
+                    •  RIH  adding  additional  completion equipment and 7”×9  5/8”  tubing  as  per
+                   (Completion diagram), fill the tubing with high PH water.
+
+                NOTE: Ensure the 5” elevators and slips are on the rig floor and ready, when the 5”
+                    cross over is reached. Recheck well control precautions .
+                    •  Make up the Landing nipple and connect the control line. Pressure test the control
+                        line against the dummy already installed to 4,500 psi. Bleed off the pressure to 1,000
+                      psi and maintain this pressure while running in the hole.
+
+
+
+                                        16                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+                NOTE: Extra care must be taken when running the tubing from this point to ensure
+                     that:
+                    •   Well control precautions are  in place. Because of the control  line outside the
+                    tubing, the annular BOP may not seal properly if it is needed.
+                    •  The control line is not crushed when setting the slips.
+                    •  The required depth of the safety valve nipple is to be +/- 64 m.
+                    •   Continue to run in hole until at setting depth clamping or strapping the control line
+                      tight to the tubing.
+                    •   Install first fluted adaptor (Box by Pin) above the upper 7” flow coupling of the
+                SSSV landing nipple, the second above two joints of tubing and the last one above
+                   another three joints.
+                    •  Run last 5 joints of tubing. RIH to the intended packer setting depth of +/- 200m.
+                Make up the Pin by Pin cross-over between the last tubing joint and the tubing hanger.
+                Make up the tubing hanger. Make up 7” tubing landing joint(s) to tubing hanger as per
+              MSP DRILEX procedures. Run the string in to depth where the tubing hanger can be
+                 worked on from the rig floor.
+                    •   Bleed off the pressure in the control line and terminate. Dress off the cut control
+                        line and make up to the tubing hanger. It is recommended that a minimum of three
+                 wraps around the tubing are used prior to connecting the control line to the tubing
+                   hanger. Connect a temporary control line to above the hanger. Pressure test the
+                     control line again to 4,500 psi to make sure  it’s holding pressure OK. Bleed off the
+                   pressure and disconnect the control line.
+                    •  Run the tubing hanger below the rotary table and run the landing joint through the
+                      rotary, stopping with the tubing hanger 10 ft above its final position.
+                    •  Make up circulating head to the tubing and pressure up on the tubing to set the
+                    packer. The packer should set at +/- 1,500 psi. Increase pressure to 2,500 psi and
+                   hold and record for 15 minutes. Then increase the pressure on tubing to 4500 psi for a
+                 30 minutes pressure test (potential acid injection pressure).
+                    •   Bleed off the pressure from the tubing.
+                    •   Prior to landing the tubing hanger, drain the stack and jet out to clean the tubing
+                  hanger land off point. Run in hole slowly to land the tubing hanger in the tubing head
+                    spool and tighten the tie – down screws.
+                    •   Pressure test tubing to 4500 psi for 30 minutes.
+                    •   Pressure up on the annulus to 2,000 psi for 30 minutes to confirm the packer is set
+                 and holding. Ensure the tubing is open at surface when testing the annulus. Some back
+                    flow will be seen from the tubing as the pressure increases due to the tubing being
+                  compressed. The flow should stop once the pressure has been reached. A strong flow
+                   could indicate leaking tubing, requiring remedial action.
+                    •   Closed top Ram, pressure test tubing hanger to 4500 psi.
+                    •   Bleed off the pressure. Unscrew and lay out landing joint(s) from tubing hanger.
+                    •   Refer to item work over operation program.
+
+
+
+
+
+                                        17                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+3. Equipment and Material list with cost
+
+
+
+
+
+Important Note: Upon finishing the work over, a complete list of used equipments in the well and the
+retrieved re-usable equipments should be prepared for future I.C.O.F.C.’s stock balance.
+Retrievable paker tools on location.
+
+
+
+
+
+                                        18                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+4 Total Cost
+
+
+
+
+
+                                        19                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+                 Attachment
+                                                             95/8          CASING SIZE
+
+         WEIGHT RANGE                                43.5 TO 53.5 pound/foot
+         MAXIMUM OD                                  8.300 inch
+          MINIMUM ID                                       3.880 inch
+          SEAL BORE ID-MIN                             5.000 inch
+         LENGTH                                      100.18 inch
+          MATERIAL                             ALLOY
+         ELEMENT MATERIAL                         NITRILE
+          O-RING MATERIAL                        VITON
+         TOP THREAD                                   5.250-6 RTH LTH LH
+         BOTTOM THREAD                                41/2-13.5 VAM-NEW
+         CONNECTION TYPE                        BOX-PIN
+          LA TCH TYPE                                   5.250-6 RTH LTH LH
+         TEMPERATURE RATING                     275 Deg. F
+          SERVICE                             STD
+                                                                          6250; 7500 pounds/sq. inch
+         PRESSURE RATING
+
+         RESSURE RATING REMARKS             PLUGGED 6250
+                                                   (ABOVE) 6250
+                                                 (BELOW) UNPLUGGED
+                                               WITH 4 1/2 TBG 7500
+                                                   (ABOVE) 7500
+                                                 (BELOW)
+
+           TENSILE STRENGTH, CALC/l000               307 pound
+          PISTON AREA                                 16.27 sq. inch
+          START SETTING PRESSURE                970 pounds/sq. inch
+          SETTING PRESSURE-MAX                  6250 pounds/sq. inch
+          TEST PRESSURE                         300 pounds/sq. inch
+          DIAMETER D1                                           7.62 inch
+          DIAMETER  D2                                       5.000 inch
+          DIAMETER  D3                                       3.880 inch
+          DIAMETER  D4                                        8.30 inch
+          DIAMETER  D5                                        8.30 inch
+          DIAMETER D6                                           5.77 inch
+         LENGTH L1                                             28.63 inch
+         LENGTH  L2                                          34.47 inch
+         LENGTH  L3                                            43.2 inch
+         LENGTH  L4                                          47.95 inch
+         LENGTH L5                                             83.67 inch
+                                                                          4550; 4000 pound
+         SHEAR VALUE, SCREW-LBS
+                                                                         36400; 16000 pound
+         SHEAR VALUE, TOTAL                                                      10 (SETTING)
+         HOLES A V AILABLE FOR SCREWS            4 (RELEASE)
+                                           MAXIMUM HANG
+                                             WEIGHT THRU RET
+                                            TOOL 123380 LBS
+                                                      (CALC)
+
+                                        20                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+
+         REMARKS 1                         SETTING SCREWS ITEM
+                                                  22 MAY BE REMOVED
+                                        AND REPLACED WITH
+                                        QTY 12 TEST BOLTS-
+                                          PART No. 41lCS578-FOR
+                                             INTERNAL TESTING OF
+                                         PACKER UP TO 5000
+                                                    PSI MAX. AFTER TEST
+                                      REMOVE TEST BOL TS
+                                        AND REPLACE SETTING
+                                      SCREWS ITEM 22 QTY 4
+                                         PER SPEC ES-T-517
+           DRIFT SIZE (IN) AND PART NO              3.833 DIA x 42.0 LG
+          RETRIEVING TOOL                                                  366879
+                                                (912HR T3 8820- E)
+
+          MATING RATCH-LATCH                                                  356609
+                                                   (913RL V50008)
+          TEST FIXTURE                          101089233
+                                                                     (8ITl 0073)
+         SHEAR V ALUE, TOTAL REMARKS         36400 (SETTING),
+                                                  16000 (RELEASE)
+          START SETTING PRESSURE REMARKS                                                  970 START TO SET,
+                                                  2220 SLIP CARRIER,
+                                                  6250 (MAXIMUM)
+                                        NACE MR-01-75
+         MEETS REQUIREMENTS                                          SEE DRA WING
+         OF MILL OUT DIMENSIONS               12ZZ1150
+
+
+
+
+
+         SHEAR VALUE, SCREW-LBS               4450 (SETTING)
+         REMARKS                              4000 (RELEASE)
+          MATERIAL YIELD                         80000
+
+
+
+
+
+DESIGN OVERVIEW
+The 'VHR' Packer is a Retrievable, Single, Hydraulic-Set Packer with completion features of a large bore
+permanent Packer. The Packer has been designed with a single set of bi-directional Slips below the
+Elements. The Packer will hold pressure from above and below. The Packer is pulled by a straight upward
+pull with the 'VRR' Retrieving Tool. Refer to the Design Specifications (Engineering Data Sheet) for details
+of pressure ratings, tensile strength and related data.
+
+
+
+DESIGN PRINCIPLE
+With the Packer at the desired depth, the tubing below the Packer is plugged, Pressure is then applied to
+
+
+                                        21                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+the tubing which causes the Packer's Piston to stroke up. The movement of the piston and related parts
+pushes the slip up the upper wedge, causing the slips to ramp outward to the casing. Simultaneously, the
+movement of the Slip Carrier and related parts causes the elements to compress and expand against the
+casing. Finally, the shear screws in the Slip Carrier and Bottom Wedge shear allowing the Bottom Wedge to
+slide up under the slips anchoring the Packer to the casing and completing the setting process. Once set,
+the Packer will retain mechanical and pressure loads from above and below as indicated on the Design
+Specification Sheets.
+To retrieve the Packer, the Production Seal Unit is pulled from the hole. The Retrieving Tool is then run
+and stung into the packer. Refer to the Design Specifications for the correct Retrieving Tool. A RATCH-
+LATCH on the top of the Retrieving Tool latches the Top Sub (or Head) of the Packer. An upward pull of
+10,000 pounds over neutral weight is then applied to make sure
+that the RA TCH - LATCH is latched in. More upward pull shears the top shear screws in the Retrieving
+Tool. Next, the Retrieving Tool is lowered to allow the plugs to engage the shifting sleeve from below.
+Pulling upward, shears the shear pins allowing the shifting sleeve to shift. This releases the snap ring and
+allows the mandrel to move upward. After the shifting sleeve is shifted, a set of shear screws shear in the
+Retrieving Tool's spring housing. Further upward pull is then transferred through the Top Sub of the Packer
+which is attached to the Mandrel. A shoulder in the middle of the Mandrel picks up the Top Wedge, the Slip
+Carrier, the Slips and the Bottom Wedge. A snap ring on the lower end of the Mandrel picks up the Piston,
+the Cylinder, the Bottom Sub and the Hang Weight. Once the Mandrel has completed its releasing stroke,
+the Packer should be fully released and the pickup weight may be noted on the Weight Indicator. Slow
+upward movement for one joint of pipe is advisable to assure complete release.
+PLUG FOR TUBING
+The tubing string that is to be pressured at a point below the VHR packer must be plugged. Using a catcher
+sub-assembly for this purpose requires installing it at the bottom of the tubing string to be pressurized. A no-
+go landing nipple can be used with a wire line retrievable plug as an alternate method.
+SETTING PRESSURE
+Shear screws retain the packer in an unset position. Application of hydraulic setting pressure shears the
+screws and the packer sets. The quantity of shear screws installed in a packer can be varied to change the
+value of the required setting pressure. This value will vary with the quantity of shear screws installed and
+with variations in the actual shear values of the screws.
+
+Refer to the Engineering Design Specifications for setting pressures.
+
+The setting pressure P is equal to:
+
+P = (Shear value per screw, lb) (Quantity of screws) ÷ (Piston area, sq. in.)
+
+DISASSEMBLY INSTRUCTIONS
+Components are identified on the appropriate Engineering Data Sheet drawing.
+
+1. Place the Packer assembly in a vise, grip on the Lower Element Retainer (11).
+   CAUTION: DO NOT grip the Lower Element Retainer at the slots
+2. Place a Back-up on the Shear Sleeve (35) and remove the Bottom Sub (41).
+3. Remove any remaining nubs of Shear Screws (40) from Shear Sleeve (35).
+4.  Place a Back-up on Cylinder (28) and remove Shear Sleeve (35).
+5. Remove the Shifting Sleeve (38) from the Mandrel (7).
+6. Remove the Snap Ring (37) from the Mandrel (7).
+
+
+
+
+                                        22                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+7. Remove the Stop Ring (36) from the Mandrel (7).
+8.  Place a Back-up on the Slip Housing (27) and remove the Cylinder (28).
+9.  Remove wedge pin (20), slide off Lower Wedge (18), Setting Sleeve (21), Slip Housing (27) and
+Piston (31) from Mandrel (7).
+10. Place Lower Wedge sub-assembly in a vise gripping on Slip Housing (27).
+11. Remove Driv-Lok Pins (29) and slide off Piston (31).
+12. Remove Bolts (23) and unscrew Setting Sleeve (21) from Slip Housing (27).
+13. Slide Bottom Wedge (18) up and remove Internal Slips (26), Spirolox Ring (25) and Wave spring (24).
+14. Slide the Setting Sleeve (21) off Lower Wedge (18).
+15. Remove any Remaining Nubs of Shear Screws (22) from the Setting Sleeve (21).
+16. Break the connection between the Top Wedge (13) and the lower Element Retainer (11).
+17. Remove the Bolts (14) from the Slip Carrier (15) and the Top Wedge (13).
+18. Move the Slip Carrier (15) with its associated parts, along with the Top Wedge (13) down and off of the
+Mandrel (7).
+19. Remove the Slips (16) and the Formed Springs (17) from the Slip Carrier (15).
+20. Remove any remaining nubs of Shear Screws (19) from the Slip Carrier (15) and the Bottom
+Wedge(18).
+21. Remove the Top Wedge (13) from the Element Retainer (11).
+22. Reposition the Assembly in the vice, grip on the lower end of the Mandrel (7).
+CAUTION: Care should be taken in placing the Mandrel in the vice. Do Not scar the Mandrel. Use a
+padded vise if necessary.
+23. Remove Screws (3) from Head (2).
+24. Place Back-off on Housing (4) and remove Head (2).
+25. Place Back-off on Connector (5) and remove Housing (4).
+26. Remove Connector (5) from Mandrel (7).
+27. Remove the Element Retainer Ring (8) from the Mandrel (7)
+28. Slide the Elements (9 and 10) off of the Mandrel (7).
+29. Slide the lower Element Retainer (11) up, align the opening over the Cap Screw (12) and 'I:emove the
+Cap Screw from the Mandrel (7).
+30. Slide the lower Element Retainer (11) off of the Mandrel (7).
+31. Remove and discard all of the used O-rings from the individual components
+32. Clean and inspect all of the parts for wear and damage.
+
+REASSEMBLY INSTRUCTIONS
+1. Grease and install new O-rings in their respective locations on the individual components
+2. Place Housing (4) in the vise, Make-up Head (2) to Housing (4) and install Screws (3).
+3. Make-up Connector (5) to Housing (4) and remove from vise.
+4.  Place the Mandrel (7) in the vise, grip on the lower end. Do Not damage the Mandrel, use a padded
+vise.
+5.  Slide the lower Element Retainer (11) onto the Mandrel (7). Align the holes in the Element Retainer (11)
+with the holes in the Mandrel (7) and install the Cap Screws (12).
+6.  Slide the Elements (9 and 10) onto the Mandrel (7).
+7. Make up the Element Retainer Ring (8) onto the Mandrel (7).
+8. Make up the Head (2)/Housing (4)/ Connector (5) sub-assembly onto the Mandrel (7).
+9.  Reposition the assembly in the vise, grip on the Connector (5).
+10. Install the Top Wedge (13) into the Slip Carrier (15). Align the bolt holes and install the bolts (14) into
+the Slip Carrier (15) and the Top Wedge (13).
+
+
+
+
+                                        23                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+11. Install the Formed Springs (17) and the Slips (16) into the Slip Carrier (15). The Slips (16) may need to
+be supported by a tube until the Bottom Wedge (18) is installed.
+12. Slide the Slip Carrier (15) with its associated parts onto the Mandrel (7) and make up the Top Wedge
+(13) into the lower Element Retainer (11).
+13.  Place the Bottom Wedge (18) Cone down on the work surface.
+14.  Install the Setting Sleeve (21) over the Bottom Wedge (18).
+15.  Place the Wave Spring (24) and the Spirolox Ring (25) onto the Setting Sleeve (21).
+16.  Install the Internal Slips (26) onto the 'Bottom Wedge (18).
+CAUTION: The Internal Slip segments must be installed in the same order in which they
+were machined (marked).
+17.   Slide the Slip Housing (27) down over the Internal Slips (26) and make up onto the Setting Sleeve
+(21).
+18.  Carefully align the shear screw holes in the Setting Sleeve (21) with the matching holes in the Bottom
+Wedge (18). The holes in the Setting Sleeve (21) must not be above the holes in the Bottom Wedge (18).
+Note: The Internal Slips have helical teeth and do not allow reverse movement. Care must be
+taken not to over stroke the Shear Screw holes during alignment.
+19. Install the Shear Screws (22) through the Setting Sleeve (21) onto the Bottom Wedge (18)
+Install Bolts (23) into Setting Sleeve (21) and Bottom Wedge (18).
+20.  Install the Bottom Wedge sub-assembly over the Mandrel (7) and into the Slip Carrier (15).
+21.  Align the Shear Screw holes in the Slip Carrier-(15) with the matching holes in the Bottom Wedge (18)
+and install the Shear Screws (19).
+22.  Align hole in Bottom Wedge (18) with slot in Mandrel (7) and install Wedge Pins (20)
+23.  Slide the Piston (31) over the Mandrel (7) and into the Bottom Wedge (18).
+24. Align the holes and install the Driv-Lok Pins (29) into the Bottom Wedge (18) and the Piston (31).
+25.  Install the External Snap Ring (33) on to the Mandrel (7).
+26.  Install the Cylinder (28) over the Piston (31) and make it up onto the Slip Housing (27).
+27.  Install the Stop Ring (36) on the Mandrel (7) and up against the Cylinder (28).
+28.  Install the Snap Ring (37) onto the Mandrel (7).
+29.  Install the Shifting Sleeve (38) onto the Mandrel (7).
+30.  Align the holes between Shifting Sleeve (38) and Shear Sleeve (35) and install Shear Screws (40).
+31. Make up the Bottom Sub (41) onto the Shear Sleeve (35).
+
+
+
+
+
+                                        24                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+
+
+                                        25                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+
+
+                                        26                               DRILLING PLANNNING ENG.
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 27 ]
+────────────────────────────────────────────
+CHESHMEH KHOSH-9 WORK OVER PROGRAM
+
+
+
+
+
+                                        27                               DRILLING PLANNNING ENG.
+
+

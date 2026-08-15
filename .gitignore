@@ -1,0 +1,19 @@
+# Runtime artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# App data (created on first run)
+projects/
+logs/
+config/
+temp/
+*.log
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Word exports
+*.docx

@@ -1,0 +1,3150 @@
+# SOURCE: AZNS-40 Well Stimulation Program-Rev.02.pdf
+
+📄 فایل 184 از 214  |  AZNS-40 Well Stimulation Program-Rev.02.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 1 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+      ACIDIZING PROGRAM
+
+     AZADEGAN OIL FIELD
+
+   WELL STIMULATION PROGRAM
+
+     AZNS-040 (PAD #50), TYPE: IIF
+
+                     Drilling Department
+
+                   NOVEMBER 2023
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                  AZNS-040 Acidizing Program  Contract No:
+                         Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 2 of 79 CCA/C/1401/27
+                 SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                      MSA/OEOC
+
+                              Position               Name         Date & Signature
+
+Prepared by         Drilling Engineering Department                     Ali Piroozian
+
+                      Project Head of Drilling Engineering               Mostafa Khedri
+
+Approved by        Project Head of Drilling Operation                   Piran Farzaneh
+
+                      Project Manager                                 Rashid Ansari
+
+                       PPL
+
+                              Position               Name         Date & Signature
+
+               PPL Drilling Department                              S.Safari Alamuti
+
+     Check
+    &        PPL Subsurface Engineering Department           Shahram Amini
+
+  Approved by
+
+               PPL Subsurface Project Manager                     Ali Hamoudi
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 3 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                             TABLE OF CONTENTS
+
+1  Contents
+   1.   EXECUTIVE SUMMARY ................................................................................................................................. 5
+
+  1.1    Stratigraphy & Formation Tops ........................................................................................................................... 6
+  1.2   AZNS-40 Static Properties ................................................................................................................................. 7
+  1.3    Well Status / History .......................................................................................................................................... 7
+  1.4   Type of Damages ............................................................................................................................................... 8
+  1.5    Objectives of operation....................................................................................................................................... 8
+  1.6   Summary of Needed Volume in Different Steps ................................................................................................... 8
+  1.7    Operation Execution flow chart ......................................................................................................................... 10
+   2.   OPERATION JOB SEQUENCE DETAILS .................................................................................................. 13
+
+  2.1    Preparation & Commissioning Equipment before Job ......................................................................................... 13
+  2.2    Slickline Operation .......................................................................................................................................... 13
+  2.3    Clean-up & Well Test ...................................................................................................................................... 13
+  2.4   CT-N2 Lifting Operation................................................................................................................................... 14
+  2.5    Well Test & FGS ............................................................................................................................................. 14
+  2.6    Clean-up & Well test ........................................................................................................................................ 16
+  2.7    Well Test & SL FGS ........................................................................................................................................ 16
+  2.8    Separator Test & Wellbore Displacement ........................................................................................................... 17
+   3.   FUNDAMENTAL GEOLOGY CHARACTERISTIC .................................................................................. 18
+
+   4.   SAFETY PLANNING & CONSIDERATIONS ............................................................................................. 19
+
+  4.1    Pre-Job Quality Control .................................................................................................................................... 19
+  4.2    Pre-Job Safety Meeting & Tools Box Meeting ................................................................................................... 19
+     4.2.1  Tools Box Meeting .................................................................................................................................................................. 19
+     4.2.2  Pre-Job Safety Meeting ........................................................................................................................................................ 19
+   5.   WELL DATA .................................................................................................................................................... 20
+
+  5.1    Basic Well & Reservoir Data ............................................................................................................................ 20
+  5.2    Producing Interval ........................................................................................................................................... 21
+  5.3    Well Schematic ............................................................................................................................................... 22
+  5.4    Casing & Liner Data ........................................................................................................................................ 23
+  5.5    Completion Sketch ........................................................................................................................................... 24
+  5.6    Displacement Volume Calculation .................................................................................................................... 25
+  5.7    Wellhead Schematic ......................................................................................................................................... 27
+   6.   STIMULATION DESIGN ................................................................................................................................ 28
+
+  6.1   Maximum Allowed Surface Pressure ................................................................................................................. 28
+  6.2    Friction Loss Calculation .................................................................................................................................. 30
+     6.2.1  Assuming wellbore filled with diesel (bullheading through CT annulus) ........................................................... 30
+     6.2.2  Assuming Wellbore Filled with Fresh Water (bullheading through CT annulus) ........................................... 33
+  6.3    Strategy of Acidizing ....................................................................................................................................... 35
+  6.4    Stimulation Main Challenges ............................................................................................................................ 35
+  6.5    Stimulation Software (Input/Output) .................................................................................................................. 35
+  6.6    Treatment Volume ........................................................................................................................................... 44
+  6.7    Stimulation Fluids & Stages Introduction ........................................................................................................... 44
+  6.8    Treatment Fluids & Mixing Stages .................................................................................................................... 44
+     6.8.1  CT Acid Pickling Fluid (15% HCl) .................................................................................................................................. 45
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 4 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+   6.8.2  Wellbore washing with Asphaltene solvent ................................................................................................................... 45
+   6.8.3  CT Acidizing Fluid ................................................................................................................................................................. 45
+7.   OPERATION DETAILS, PROCEDURES & REQUIREMENTS ............................................................... 48
+
+7.1    Rig-up & Pressure Test Procedures ................................................................................................................... 48
+   7.1.1  Pumping Rig-up & Pressure Test Procedure ............................................................................................................... 48
+   7.1.2  CT Rig-up & Pressure Test Procedure ........................................................................................................................... 48
+   7.1.3  Well Testing Rig-up & Pressure Test Procedure......................................................................................................... 50
+7.2    Slick Line Procedure ........................................................................................................................................ 52
+7.3    Protection Sleeve Installation & TD Check ........................................................................................................ 54
+7.4    Coiled Tubing Reel Acid Pickling Procedure ..................................................................................................... 54
+7.5    Coiled Tubing Accessibility Procedure .............................................................................................................. 55
+7.6    Contingencies .................................................................................................................................................. 56
+7.7    Well Flow-Back General Guidelines ................................................................................................................. 62
+7.8   CT Acidizing Procedure ................................................................................................................................... 63
+8.   PUMPING SCHEDULE OF CT ACIDIZING OPERATION (WILL BE UPDATED) ............................. 65
+
+9.   TOTAL CONSUMABLE REQUIREMENTS ............................................................................................... 68
+
+10.   APPENDIX 1: EQUIPMENT NEEDED ......................................................................................................... 70
+
+10.1   Stimulation Equipment ..................................................................................................................................... 70
+10.2   Coiled Tubing Equipment ................................................................................................................................. 70
+10.3  N2 Lifting Equipment ....................................................................................................................................... 71
+10.4   Well Testing Equipment ................................................................................................................................... 71
+10.5   Slick Line Equipment ....................................................................................................................................... 72
+10.6   Oil Storage & Transfer Equipment .................................................................................................................... 72
+10.7   Miscellaneous .................................................................................................................................................. 72
+11.   APPENDIX 2: RIG-UP LAYOUT, COIL TUBING STRING DETAILS & SPEED CALCULATION .. 73
+
+                                         11          73
+
+11.1   Rig-up Layout for CT Operation ....................................................................................................................... 73
+11.2  CT Speed Calculation (Average Speed) ............................................................................................................. 74
+11.3   Risk Analysis .................................................................................................................................................. 75
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 5 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+1.  Executive Summary
+
+The main objective of this plan is to stimulate (wash method) the producing interval zone in well AZNS-
+
+40 vertically completed into Fahliyan Formation with total depth of 4200 mMD (-4186.55m TVDss).
+
+Finally, the well potential & reservoir characteristics are to be determined via well testing analysis.
+
+Staged-Acidizing is adopted to be run from the bottom of perforation (BOP ≈ 4,112 mMD) to the top of
+perforation (TOP ≈ 4,039 mMD). Drag CT from toe to the heel while pumping 191bbl of 15% HCl acid
+with suitable additives to spot the toe (49.15gal/ft. as acid index). This is followed by increasing pump rate
+
+as much as possible during operation with pump pressure limited (MAWHP) advised by the Client at
+
+wellsite; then, flow back & POOH CT to surface.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 6 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+1.1 Stratigraphy & Formation Tops
+
+                            Surface        Z        mMD
+
+                              Gachsaran             - 1,124.5             1138.0
+
+                              Asmari               - 1,480.2             1493.7
+
+                              Pabdeh               - 1,762.6             1776.1
+
+                                Gurpi                - 2,184.4              2,197.9
+
+                                 Ilam                 - 2,521.5              2,535
+
+                                  Laffan               - 2,625.6              2,639.1
+
+                                Sarvak               - 2,631.9              2,645.4
+
+                           Kazhdumi             - 3,270.0              3,283.5
+
+                                Dariyan               - 3,476.2              3,489.7
+
+                            Gadvan               - 3,669.3              3,682.7
+
+                                 Fahliyan          -3972.34            3985.79
+
+                                Fah-1a           -4009.32            4022.77
+
+                                Fah-1b           -4024.66            4038.11
+
+                                Fah-1c           -4039.34            4052.79
+
+                                Fah-2a           -4071.05             4084.5
+
+                                Fah-2b            -4086.6             4100.05
+
+                                Fah-3a           -4096.44            4109.89
+
+                                Fah-3b           -4105.92            4119.37
+
+                                Fah-4a           -4115.44            4128.89
+
+                                Fah-4b           -4125.61            4139.06
+
+                                Fah-5a           -4140.27            4153.72
+
+                                Fah-5b           -4162.65             4176.1
+
+                    TD           -4186.55           4200
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 7 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+1.2 AZNS-40 Static Properties
+
+According to the client's instruction, petrophysical properties is considered as below:
+
+                                            PHIE_AVE                     *Est. Fm. Pres.
+         Perf No.         Zone        Interval (m MD)             K (md)
+                                                     (%)                                psi
+
+           Perf-1           Fah-1b         4039 - 4053           13            50            9293
+
+           Perf-2           Fah-1c         4073 - 4082           9             20            9294
+
+           Perf-3           Fah-2b         4103 - 4108           2             1         9100 - 8500
+
+           Perf-4           Fah-3a         4109 - 4112           4             5         6500 - 7700
+
+Nothing that some wells completed in Fahliyan Reservoir (sublayers of 2-5) are currently on stream,
+resulting in the reservoir pressure decline. This fact was proved by interpreting formation test (MDT)
+taken in well AZNS-195 in late 2022. Therefore, Fahliyan reservoir pressure distribution is needed to be
+reviewed & revised by the respected client.
+
+1.3 Well Status / History
+
+NOTE: Exact well status & history will be issued after completion of the well based on the actual data.
+
+The followings are merely based on the initial plan & predictions.
+
+    1. AZNS-40 is a vertical well located in Pad#50 - completed as a cased hole with 7” Liner from
+
+      3812 mMD down to 4189.5 mMD across the 8 ½” hole section. The well is perforated in
+
+       Fahliyan formation & completed as Fahliyan vertical oil producer well.
+
+    2. A 4 ½ * 3 ½ completion string was run in the hole down to the depth of (3963.97 mMD). A 7 * 3
+
+     ½” permanent PKR w/upper seal-bore of 4", was set at 3947.72 mMD with minimum tubing
+
+        restriction of 2.562”.
+
+    3. 2SV Cap must be installed during operation.
+
+    4.  There is no BPV (Back Pressure Valve) in TBH (Plug & prong is not installed into No-Go).
+
+    5. The estimated production rate after acidizing is reported by the respective Client to be around
+
+       4,000 STBD (Accordingly, ten storage tanks are considered for storying the produced oil at least
+
+        for one & half days of production).
+
+    6. No production history after completion is available in Project Data-Bank.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 8 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+1.4 Type of Damages
+
+N/A
+
+1.5 Objectives of operation
+
+    1.  Reduce formation damage & wash out the remained debris & residuals of completion & drilling
+       operations (depth penetration ≤ 2.8m).
+
+    2.  Achieve & ensure uniform distribution of acidizing fluids in the producing interval using CT.
+
+    3.  Achieve good clean up of production string from contaminated fluids & solids.
+
+    4.  Safe operation & special precautions both operationally & technically.
+
+    5.  Increase injectivity through Coiled Tubing acidizing.
+
+    6.  Investigation of stimulation performance by comparing pre- & post-acid parameters.
+
+    7.  All real time data, including coiled-tubing, pumping, nitrogen & testing data shall be transferred
+
+        to production supervisor as per requested.
+
+1.6 Summary of Needed Volume in Different Steps
+
+                          Item                                    Volume
+
+      CT Reel Acid Pickling (15% HCl: 5 bbl. + Water: 25 bbl.)                       30 bbl.
+
+                           1st Wellbore displacement (Diesel)                                  190
+
+         N2 kick-off (in case the well does not flow naturally)                         3200 gal
+
+        N2 kick-off (If heavy fluid is found within the wellbore)                        3200 gal
+
+           2nd Wellbore displacement after initial clean up (Diesel)                        190 bbl.
+
+              Injectivity measurement (If Inj. succeeded, Diesel)                           15 bbl.
+
+            Create injectivity (If Inj. non-succeeded, 20% HCl)                           9 bbl.
+
+    Displace & squeeze injectivity stimulation fluid (if required, Diesel)                    45 bbl.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.        Page 9 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                          Pre-flush pumping                                       23 bbl.
+
+               Main acid pumping (15% HCl)                                  119 bbl.
+
+                     Over flush pumping                                       23 bbl.
+
+                 Diesel for over flush displacement                                 25 bbl.
+
+                Squeeze stimulation fluid (Diesel)                                 28 bbl.
+
+                       N2 kick-off                                          3200 gal
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 10 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+1.7 Operation Execution flow chart
+
+                                   Execution Plan
+
+                                                         Required Material                  Notes
+                                             Start
+
+                                                                                        Visually observe annulus  pressure,  in  case  of any
+                               Observe Annulus                          pressure  inform  the  client  for  further  decision.
+                                      pressure                            Otherwise follow up the operation process chart
+                                                                          Note: Annulus digital press. gauge will be installed for
+                                                                                 further Ann. press. detection after setting up the data
+                                                                                    acquisition system cabin
+
+                                                                            Line/Up and conduct pressure tests on all the
+                              L/U & Pressure test
+                                                                                      equipment
+
+                                                                     R/Up slickline and conduct pressure test
+                          R/U SL & Pressure test
+                                                                                                   as per procedure
+
+                                RIH Gauge cutter                             RIH 3.300" Gauge Cutter to TRSSSV depth
+
+                                                                          Set Protection Sleeve (AF profile, 3.437", ID:2.9" ) in 71.8 m
+                                 Set Protection Sleeve            MD via SL, keep the control line pressurized during operation
+
+                                                                            RIH 2.200" or 2.250" Gauge Cutter to
+                                RIH Gauge cutter
+                                                                  maximum accessible depth
+
+                                                                     R/Up CT and conduct pressure test on coiled
+                           R/U & Pressure test                                                                                   tubing equipment
+
+                                                                            Perform CT reel pickling as per procedure. CT
+                                               15% HCL    5 bbl
+                             CT reel acid pickling                            RIH to upper than Top Master Valve, circulate
+                                                              F.water    25 bbl
+                                                                               out the acid with 25 bbl fresh water while
+                                                                                      return is open.
+
+                                    Wellbore                             RIH CT to maximum accessible depth and displace the
+                                                               Diesel    190 bbl
+                                  displacement                            completion fluid (CaBr2) in the wellbore with diesel
+
+                                                                   Open the well and try to flow prior start RIH
+                    Flow the well as                                            with coiled tubing
+         NO                         YES
+                       pre-acid clean up
+
+                                                                     RIH Coiled Tubing kick-off the well with N2,
+                                                                      perform at five steps from surface till the well could flow (500,
+                                            N2    3,200 gal
+                   Perform N2 Kick-off                                   1000, 1500, 1800, and 2000 m MD)
+                                                       Max Rate 4-8 GPM; Deepest injection depth :2000 m MD
+
+                                                   Stabilized flow condition prior
+                                               or  FGS:   less  than  5   psi   Clean the well at different choke sizes as per testing
+                                  1st Clean up           difference between avg. WHFP  program. X-mass tree vent port should be checked.
+                                              during  last 10 minutes than
+                                             those of last 1 hour.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 11 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+              Avg. P.Grad. of
+              bottom 3
+             steps>0.31 psi/ft                                              RIH SL with memory gauge, perform flowing survey as
+                                                                       per client decision and perform rate measurement                      Perform Flowing
+                                                                              (separator test on one choke size) while performing                            Survey
+                                                                             flowing survey as simultaneous operation
+
+          Heavy
+                                                                   RIH Coiled Tubing kick-off the well with N2,
+                                                                   perform at five steps from surface till the well could flow (500,
+                     Perform N2 Kick-off          N2    3,200 gal   1000, 1500, 1800, and 2000 m MD)
+                                                    Light                Max Rate 4-8 GPM; Deepest injection depth :2000 m MD
+
+                             2nd Clean up                                  Clean the well at different choke sizes as per testing
+                                                                     program. X-mass tree vent port should be checked
+
+                           Wellbore                                 RIH CT to maximum accessible depth and displace the                                                         Diesel    190 bbl
+                         displacement                                    well volume with diesel (optional as per client decision)
+
+                                 Injectivity                         POOH CT to a safe depth.  Perform injectivity test by
+                      measurement               Diesel    15 bbl    bullheading diesel through CT annulus while considering
+                                               MAWHP (optional as per client decision)
+
+                Injectivity Rate < 1 bpm        Injectivity Rate 1 bpm
+                                                                                                                                 If no injectivity, spot 9 bbl 20% HCl from BOP (4,112
+                                            m MD) to TOP interval (4,039 m MD); Soaking time:
+                                         20% HCl    9 bbl
+                         Create Injectivity                                15-30 mins) and squeeze it by bullheading 20 bbl of
+                                                          Diesel    25 bbl                                                                                   diesel through CT annulus, then, check the injectivity
+                                                          Diesel    20 bbl                                                                                  again. Pump 25 bbl  diesel to displace 20% HCl.
+                               Injectivity Rate  1 bpm
+                                                                                 (optional as per client decision)
+
+           Injectivity Rate < 1 bpm                                                                    Flow the well while measuring the flowing parameters to
+                                                                                           let the client evaluate the producing fluids, well and
+                        Flow the well                                     reservoir conditions. This enables the client  for making
+                                                                             decision either to proceed with the stimulation plan or
+       Ask for the client s                                                       skip this stage.
+         decision on the
+           next steps
+                                                      Diesel based Pre-flush   23 bbl
+                                  15% HCl Main Acid    119 bbl    Mix Stimulation fluids, RIH CT and perform
+                      Perform Stimulation
+                                                     Diesel based Over-flush   23 bb      acid wash as per procedure. Pump 25 bbl
+                           Operation
+                                                              Diesel          25 bb      diesel to displace over-flush.
+
+                                                                         Squeezing stimulation fluids by bullheading 28                           Squeeze
+                           stimulation fluid              Diesel    28 bbl      bbl diesel through CT annulus with maximum
+                                                                               rate considering MAWHP.
+
+                                  3rd Clean up                                 Clean the well at different choke sizes as per testing
+                                                                     program. X-mass tree vent port should be checked.
+                                            Stabilized flow condition prior
+                                        or  FGS:   less  than  5   psi
+                                          difference between avg. WHFP
+                                        during  last 10 minutes than
+                                      those of last 1 hour.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 12 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                                                           After post acid clean up and prior to perform FGS, a rate measurement on a suitable
+                                                  choke size (based on client decision) shall be performed to measure maximum well
+                                                                     production potential (Optional as per client request)
+
+                      Well flows naturally or
+             NO                                  YES                          Clean the well at different choke sizes as per
+                    BS&W<1%
+                                                                                       testing program
+
+                                                        POOH CT to appropriate depth (top of packer), kick
+                      Perform N2 Kick-off            N2    3,200 gal
+                                                                                             off the well with N2
+
+              NO       BS&W<1%          YES                     Check water and sediment content after N2 Kick-off
+
+                                                                      RIH SL with memory gauge, perform flowing survey as per
+                                                                                           client decision and perform rate measurement (separator
+                       Perform Flowing      Stable criteria prior to FGS:     test) while performing flowing survey as simultaneous
+                             Survey       FWHP variation < 5 psi/10min   operation  (same  choke   size   as  per   acid   rate
+                                                                   measurement)
+
+                                                                       Perform separator test with three choke sizes as per
+                        Separator test (Draw Down)                                    client s decision
+                                                                       Record the rates and FWHPs to determine the CIWHP
+
+                                                                        RIH CT to Perf. Bot. & perform diesel displacing 1.5
+                     RIH CT to bottom of Perf. And
+                                                             Diesel  285 bbl      times WBT w/back pressure on surface (CIWHP less)
+                       perform displacing via CT
+                                                                              while taking surface samples, POOH CT to the surface
+
+                         Retrieve protection sleeve                                 Retrieve protection sleeve with W/SL, and function test
+                      and perform flapper test                                   of TRSSSV and check the flapper valve, in case of failure
+                                                                  measure leakage rate.
+
+                             Secure the well
+
+                                                                    End
+
+       Important Notes:
+
+      1 : Acording to the completion engineering team statement ,the completion string has been tested from inside
+       the string up to6000 psi and from the annular space up to2000 psi.
+
+        2: High pressure test duration: 15min., max. allowable pressure loss over pressure test is 10 psi/min. Also
+       pressure test results are to be evaluated and confirmed on site by the client supervisor.
+
+        3: For flapper test, Pressure test duration: 15min., max. allowable pressure loss over pressure test is 1 psi/min.
+       Also pressure test results are to be evaluated and confirmed on site by the client supervisor .
+
+        4: Since the well is recently drilled and just about to be exploited, confronting the severe and rigid asphaltene
+       deposition is not expected. However, 50 bbl of ADR as asphatene solvent is considered in the consumable
+       material list to be provided in case of facing any possible asphaltene hindrance during the operation.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 13 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+2.  Operation Job Sequence Details
+
+Important Note: In order to ensure that production packer is not exposed to abnormal pressure during
+all stages of operation especially well flowing periods, if annulus pressure increases more than 500psi,
+
+immediately decrease annulus pressure to normal conditions by either decreasing choke size or bleeding
+
+off annulus pressure (based on Client’s decision).
+
+2.1 Preparation & Commissioning Equipment before Job
+
+    1.  Hold pre-job safety meeting (PJSM) & tools box meeting with Production Supervisor, Coiled
+
+      Tubing Supervisor, Slick line Supervisor, Well testing Supervisor & pump operator.
+
+    2.  Monitor Annulus & wellhead Pressure
+
+    3.  Complete/finalize rig up & pressure test testing & stimulation equipment
+
+    4.  Connect Well Testing Flow line to XMT production valve
+
+    5.  Connect all transmitter to Well Testing DAS
+
+2.2 Slickline Operation
+
+    6.  Prepare SL running equipment & rig up lubricators & BOP on X-mas tree based on program.
+
+      Perform the assembling procedure of the surface equipment.
+
+      Rig up Slick Line PCE as per Service Company stack up layout.
+
+    7. RIH SL with 3.300” Gauge Cutter to SSSV depth & then POOH to surface.
+
+    8. RIH SL with P.S. running tools to set the (AF profile, 3.437", ID: 2.9") P.S. on SSSV & then
+
+    POOH to surface.
+
+    9. RIH SL with 2.200’’ or 2.250” Gauge Cutter to maximum depth & then POOH to surface.
+
+2.3 Clean-up & Well Test
+    10. Flow the well at different choke sizes for clean-up. Measure & record BS&W, Weight, pH… of
+
+        effluent fluids every 30 min according to approved procedure in this program.
+
+          In case of well does not flow, follow operation from item 13.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 14 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+    11. RIH SL with Memory Gauge running tools to maximum depth & perform P-T survey & then
+
+    POOH to surface & perform on site analysis of P-T survey to check wellbore column fluid
+
+       gradient (Perform rate measurement (separator test on one choke size) while performing
+
+       flowing survey)
+
+    12. Rig down Slick line PCE.
+
+2.4 CT-N2 Lifting Operation
+
+    13. Prepare CT running equipment & rig up injector head & BOP on XMT based on program.
+
+      Perform the assembling procedure of the surface equipment.
+
+      Rig up CT PCE as per service company stack up layout.
+    14. Make up the connector on CT pipe & pull test  it up to 10,000lb. in presence of Production
+
+       Supervisor, then make up BHA according to the agreement prior to job in the PJSM.
+
+    15. After complete rig up, perform pressure tests according to approved procedure in this program.
+
+    16. After pressure test, deploy Jet nuzzle on CT BHA.
+
+    17. CT Pipe acid pickling according to approved procedure in this program.
+
+    18. Start CT RIH, with minimum speed (<15 ft. /min) while pass the protection sleeve / 3SV.
+         Continue RIH with speed 40ft. /min. Decrease CT speed to <15ft. /min 200ft. to target lifting
+
+           depth.
+
+    19. While CT RIH, pump Diesel with minimum rate.
+
+    20. Start to pump N2 at target lifting depth.
+
+    21. CT POOH to surface & rig down CT PCE.
+
+2.5 Well Test & FGS
+    22. Flowing Gradient Survey: Flow the well on a suitable choke size according to client supervisor
+
+       order  till  stabilizing WHP  (less than  5psi difference between average wellhead flowing
+
+       pressures during last 10 minutes than those of last 1 hour).
+
+    23. Prepare SL running equipment & rig up lubricators & BOP on X-mas tree based on program.
+
+      Perform the assembling procedure of the surface equipment.
+
+      Rig up Slick line PCE as per service company stack up layout.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 15 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+    24. RIH SL with Memory Gauge running tools to maximum depth & perform P-T survey.
+
+    25. Then POOH slickline to surface & rig down slickline PCE.
+
+    26. Perform on site analysis on P-T survey to check wellbore column fluid gradient.
+
+If heavy fluid is found within in the wellbore, perform CT-N2 lifting (Heavy fluid in wellbore,
+
+average pressure gradient greater than 0.31psi/ft.).
+
+       If CT is disconnected, repeat item 14, 15, 16 & 17.
+
+       Start CT RIH, with minimum speed (<15 ft. /min) while pass the protection sleeve / 3SV @
+          71.80 mMD ref. to RKB. Continue RIH with speed 40ft. /min.
+      Decrease CT speed to <15ft. /min 200ft. to target lifting depth.
+
+      While CT RIH, pump Diesel with minimum rate.
+
+       Start to pump N2 at target lifting depth
+
+      CT POOH to surface
+
+Flow the well at different choke sizes according to approved procedure in this program. Terminate clean
+
+up when BS&W surface reaches below 1%.
+
+    27. Prepare CT running equipment & rig up injector head & BOP on XMT based on program.
+
+    28. If CT is disconnected, repeat item 14, 15, 16 & 17.
+
+    29. Start CT RIH, with minimum speed (<15  ft. /min) while pass the protection sleeve  / 3SV.
+       Continue RIH with speed 40ft. /min. Decrease CT speed to <15ft. /min 200ft. to total depth (TD).
+
+    30. While CT RIH, pump Diesel with minimum rate.
+    31. Start to pump Diesel at LDC depth (4,154 mMD) with 190bbl (wellbore displacement; optional as
+
+       per client decision).
+
+    32. POOH CT from LDC depth (4,154 mMD, 13628.61ft.MD) to top of perforation (TOP: 4,039
+
+     mMD, 13251.31 ft.MD)
+
+    33. Bullhead Diesel (15 bbl.) for injectivity test through CT-TBG annulus.
+
+NOTE: If the injectivity result does not meet the acceptance criteria (Injectivity Rate≥1 bpm), create
+injectivity by spotting 9bbl. of 20% HCl within the open hole section & squeeze it by bulheading 20bbl. of
+
+diesel through CT annulus. Then, flow the well to evaluate the well productivity & decide to proceed
+
+with the acid wash or exclude acidizing operation from the plan.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 16 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+    34. Start to pump 23bbl. pre-flush according to the approved procedure in this program.
+    35. Start to pump main fluid (119bbl. 15% HCl) according to pumping schedule provided in Table 28.
+    36. Start to pump 23bbl. Over-flush & 25bbl. diesel for CT displacement according to the approved
+
+       procedure in this program.
+    37. Bullhead Diesel (28bbl.) for acid displacement through CT-TBG annulus into the formation with
+
+     maximum rate & record injectivity data.
+
+    38. CT POOH to top of packer.
+
+2.6 Clean-up & Well test
+    39. Flow the well at different choke sizes according to approved procedure in this program.
+      In Case of Well flow CT POOH to surface.
+      In case of well does not flow, RIH CT & perform CT-N2 lifting.
+
+       Start to pump N2 at target lifting depth
+
+      CT POOH to surface
+
+      Flow the well at different choke sizes according to approved procedure in this program.
+
+      Rig down CT PCE
+
+    40. After post acid clean up & prior to performing FGS, a rate measurement on a suitable choke size
+
+       (based on client decision) shall be performed to measure maximum well production potential.
+
+      Then proceed to post acid flowing survey in the next section. (Optional as per client request)
+
+2.7 Well Test & SL FGS
+    41. Prepare SL running equipment & rig up lubricators & BOP on X-mas tree based on program.
+
+      Perform the assembling procedure of the surface equipment.
+
+      Rig up Slick Line PCE as per service company stack up layout.
+
+    42. RIH SL with Memory Gauge running tools to target depth & perform P-T survey, well test & rate
+
+      measurement while flowing the well on the same choke size as pre-acid one.
+
+NOTE: To divert flow to the separator at conventional stimulation criteria, the produced fluid should
+
+have below specifications:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 17 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                 Sediment
+                             Water percentage  WHP variation      pH
+                  percentage
+
+               ≤1%           minimum         <10 psi/hr.          >5
+
+    43. Then POOH slick line to surface & rig down slick line PCE.
+
+      Perform on site analysis on P-T survey to check wellbore fluid gradient
+
+2.8 Separator Test & Wellbore Displacement
+    44. Perform drawdown analysis to determine the drawdown impacts on the rates & FWHPs through
+
+        three choke sizes & determine the CIWHP from the measured rates & recorded FWHPs.
+
+    45. RIH CT to perform Bot & perform diesel displacing 1.5 times WBT (~285 bbl.)  w/back
+
+       pressure on surface (CIWHP less) while taking surface samples. When diesel with a greater
+
+       portion (more than 50%) is found within the returned fluids, then start POOH CT to the surface
+
+       while reducing the choke size depending on the well condition & the client's representative
+
+       advice.
+
+    46. RIH SL with PS retrieving tools to retrieve PS from SSSV.
+
+    47. Then POOH slickline to surface & rig down slickline PCE.
+
+    48. Perform SSSV flapper test according to approved procedure in this program.
+
+    49. Secure & close the well. (P&P/SSSV/BMV, UMV, SSV & WV status shall be described by
+
+        detail)
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 18 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+3.  Fundamental Geology Characteristic
+
+The Fahliyan formation is deepest reservoir among the target reservoirs. The reservoir is shallow marine
+
+carbonates & produces light oil, unlike the north Azadegan, Fahliyan reservoir is important oil bearing
+
+layer in Azadegan. The structural configuration of the Fahliyan is generally similar to the other overlying
+
+Cretaceous reservoir.
+
+          Zone Name/Interval MD (TVDSS)                  Calcite%     Dolomite%   Clay%
+
+           Fahliyan Vertical Well/ 4039-4112                     90            8            2.0
+
+Based on the core study in AZNS for early wells, Fahliyan layers are characterized as follow:
+
+Fah-1: It is characterized by deposition of gray packstone/wackestone, medium-low energy depositional
+
+environment. The rock is linen, tight, oil free. The visible dissolution pore are not contained, developed
+
+horizontal fractures & open fractures contain oil can be observed in local cores.
+
+Fah-2: The component of core is mainly packstone & wackestone which represent medium-low energy
+
+depositional environment. The cores are wrapped with light crude oil, they are homogeneous & have
+
+good oil shows & are with visible dissolution pores.
+
+Fah-3: The component of core is mainly blocky packstone & wackestone which represent medium-low
+
+energy depositional environment. The oil-bearing cores show dark color & make a sharp contrast with
+
+the tight surrounding gray rock which showed heterogeneity, the component of cores is tight & oil
+
+saturation is low.
+
+Fahliyan reservoir distribution showed that compared Fah-1, Fah-2 dos not very much in general & has
+
+better reservoir properties than Fah-1. Besides, Fah-3 has the highest mean PHI & K in Fahliyan
+
+formation. Although, this is contrary to the table-2.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program    Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 19 of 79   CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+4.  Safety Planning & Considerations
+
+4.1 Pre-Job Quality Control
+
+Quality Control concludes pre-job activities & quality control of equipment, material & etc.
+
+4.2 Pre-Job Safety Meeting & Tools Box Meeting
+
+In order to minimize the job hazards & prevent the potential risks or failures, it is recommended to hold
+
+pre-job meeting including:
+
+4.2.1 Tools Box Meeting
+
+Some of the main points are as below:
+
+    Attendees: Client Rep, Stimulation crew, CT crew, WT & WH crew
+
+   Review the job proposal, sequence & details
+
+   Check the availability of Equipment, Material, Diesel, Water, etc.
+
+    Assign the duties, responsibilities & authorities
+
+4.2.2 Pre-Job Safety Meeting
+
+Some of the main points are as below:
+
+    Attendees: Client Rep, Stimulation crew, CT crew, WT & WH crew;
+
+   Submit Job Safety Analysis to the client rep.
+
+   Submit Material Safety Data Sheets to the Client Rep.
+
+    Job Hazards & risks to be reviewed;
+
+   Remedial actions must be reviewed in case of any Incident/accident
+
+    Availability of safety requirements must be checked (BA sets if needed, firefighting equipment).
+
+   Warn the involved personnel of Hazards & review the most probable accidents/incident & train
+
+       the remedial actions or contingency plans
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 20 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+5.  Well Data
+
+The following well Data has been provided by the client & are used as the design inputs.
+
+5.1 Basic Well & Reservoir Data
+
+Well Name                     AZNS-040
+
+Location                       PAD-50 (Area: II)
+
+Rig                      OEOC 208
+
+Well Type                              IIF Vertical Well
+
+Nearby Well                     AZNS-17, 36
+
+GLE                                 3.95 MAMSL
+
+Reference Depth (RTE)              13.45 MAMSL
+
+Oil density (API)                      35.8o
+
+Tubing Size                       4 ½” 18.9ppf L-80 (0– 3714.73 mMD); 3 ½” 10.2ppf L-80 (3714.73 –
+                                    3963.97 mMD)
+
+Minimum ID                         2.562" @ 3963.02 mMD, 3 1/2" bottom No Go Landing Nipple
+
+Total Depth                       4200 mMD (-4186.55 mTVDss)
+
+Producing Formation                 Fahliyan (Fah-1b, Fah-1c, Fah-2b & Fah-3a)
+
+Formation Lithology                Limestone 90%, Dolomite 8.5%, Clay 1.5%
+
+Clay percentage                               Illite Kaolinite, Montmorillonite
+
+Formation/Layer Permeability (md)   Fah-1b: 50, Fah-1c: 20, Fah-2b: 1, Fah-3a: 5
+
+Formation/Layer Porosity (%)        Fah-1b: 13, Fah-1c: 9, Fah-2b: 2, Fah-3a: 4
+
+H2S Content (%)                     0.35 mole %
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 21 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Asphaltene content                  Less than 0.5 wt %
+
+Surface Temperature               About 150 ˚F
+
+Reservoir Temperature             270 ˚F @ Datum Depth (Oil Datum Depth = 4,000 mss)
+
+Temperature Gradient            N/A
+
+Reservoir Pressure                     9276psi @ Datum Depth: 4,000 mss (based on dynamic model)
+
+Oil Pressure Gradient                0.28 psi/ft.
+
+Formation Fracture Gradient         0.962 psi/ft.
+
+5.2 Producing Interval
+
+                 Zone        Top MD, (TVD)   Bot MD, (TVD)     Producing Interval MD
+
+                Fah (1b-3a)          4039.00           4112.00                  73.00
+
+                 Zone        Top MD, (TVD)   Bot MD, (TVD)     Producing Interval MD
+
+                 Fah (1b)            4039.00           4053.00                 14
+
+                 Fah (1c)            4073.00           4082.00                  9
+
+                 Fah (2b)            4103.00           4108.00                  5
+
+                 Fah (3a)            4109.00           4112.00                  3
+
+                                    Total (MD)                                 31
+
+Pay zone Thickness (height): 31 mTVD–Based on Dynamic Model Simulation.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 22 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+5.3 Well Schematic
+
+                                                                                           20" CSG @ 152.5
+
+                                                                                  13 3/8" CSG @
+                                                                                    1493 mMD
+
+                                                                                         7" L.lap @ 3812
+                                                      mMD
+
+                                             9 5/8" CSG @
+                                              3933 mMD                              7" Liner Shoe @
+                                                                                           4189.5 mMD
+
+                                         TD@ 4200mMD
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 23 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+5.4 Casing & Liner Data
+
+                    Size (in)    Top (m MD)   Bottom (m MD)             Specification
+
+                    20           0              152.5                 K-55, 117 ppf
+
+                     13-3/8          0             1493                 N-80, 68 ppf
+
+                   9 5/8          0             3933             TP110SS, 53.5 ppf
+
+                    7           3812.2           4189.5               110SS, 32 ppf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 24 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+5.5 Completion Sketch
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+             South Azadegan Oilfield Project
+
+                    AZNS-040 Acidizing Program       Contract No:
+                               Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 25 of 79     CCA/C/1401/27
+                    SAC      P      IIF40   DR     DE     PRG      0024      02
+
+  5.6  Displacement Volume Calculation
+
+                         Production
+     Parameters                             Liner                              Tubing
+                          Casing
+
+        Size [in]             9 5/8"              7"                   4 ½"                        3 ½"
+
+   Nominal weight
+                               53.5             32                      18.9                           10.2
+          [lb/ft]
+
+ Inside diameter [in]          8.535             6.094                   3.640                         2.922
+
+ API Drift Diameter          8.379             5.969                   3.515                         2.797
+
+   Capacity (bbl/ft)          0.07076          0.03607                 0.01287                      0.00829
+
+      Grade               P-110            P-110                  L-80                        L-80
+
+    Interval (MD)          0 – 3933       3812.2 – 4189.5           0 -3714.12                 3714.12 – 3963.97
+
+       Collapse
+      Resistance             7,950            10,780                  13,830                        12,120
+          (psi)
+
+Internal Yield Pressure
+                            10,900            12,460                  13,380                        11,560
+Minimum Yield [psi]
+
+                                Displacement Volume to the Top of Perforated Section
+
+                                                                       Capacity/Displacement
+     Top (m)   Bottom (m)   Casing/Tubing  Length (m)  Length (ft)                         Volume
+                                                                                                  (bbl/ft)
+         0        3714.12       4.5", 18.9 PPF     3714.12    12185.43           0.01287               156.8
+       3714.12     3963.97       3.5", 10.2 PPF      249.85      819.72            0.00829                 6.8
+       3963.97     4039.00        7", 29 PPF        75.03       246.16            0.03607                 8.9
+
+                                             Total (BBL)                                              172.5
+
+                                             Total (USG)                                              7,245
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 26 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+             Displacement Volume along the Gross Producing Interval in 7" Liner (Perforated Section)
+
+                                                                             Capacity
+       Top        Bottom     Casing/Tubing   Length (m)    Length (ft)                Volume
+                                                                                                   (bbl/ft)
+
+        4039.00       4112.00        7", 29 PPF        73.00         239.50        0.03607          8.6
+
+                                            Total (gal)                                                 8.6
+
+                                           Total (bbl)                                        363
+
+                          Rat Hole in 7" Liner (from end of perforation to LDC)
+
+   Top     Bottom                      Length                   Capacity/Displacement
+                        Casing/Tubing               Length (ft)                           Volume
+    (m)       (m)                          (m)                                   (bbl/ft)
+
+  4112.00    4154.00         7", 29 PPF         42.00        137.80             0.03607                 5.0
+
+                                          Total (BBL)                                                    5.0
+
+                                          Total (USG)                                           209
+
+Based on the well completion data, the displacement volume to the top of perforation (4,039 mMD) is
+
+7,245 USG (≈172.5 bbl.) & the capacity of the producing Interval (from 4,039 – 4,112 mMD) is 363
+USG (≈8.6 bbl.). Capacity of rat hole from end of perforation to LDC (42m in 7” liner) is 209 USG (≈5.0
+
+bbl.).
+
+Total wellbore volume is 7,817 USG (186.1 bbl.).
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 27 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+5.7  Wellhead Schematic
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 28 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+6.  Stimulation Design
+
+6.1  Maximum Allowed Surface Pressure
+
+The maximum treating pressures can be calculated based on the fracture gradient & TVD to the top of
+
+open hole (T.O.O.H) as per below equation:
+
+                    Fracture Pressure = (TVD to T.O.O.H) *frac. gradient)
+
+    Maximum Treating Pressure = (TVD to T.O.O.H) *(frac. gradient–hydrostatic gradient)
+
+      TVD (m)  TVD (ft.)     Fracture gradient (psi/ft.), Min & Max       Fracture pressure (psi)
+
+          4039.00    13251.3                      0.882                            11688
+
+          4039.00    13251.3                      0.962                            12748
+
+          4039.00    13251.3                      1.042                            13808
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                   South Azadegan Oilfield Project
+
+                            AZNS-040 Acidizing Program                     Contract No:
+                                                 Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 29 of 79                   CCA/C/1401/27
+                                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                                                  Maximum Wellhead pressure    Maximum Wellhead pressure (psi) with
+                                                                                                     (psi)              10% safety margin or 300 psi
+
+                                 Expected       Hydrostatic   Assuming  Assuming  Assuming
+        Wellbore situation                                                                    Assuming    Assuming    Assuming
+                                  operation step    pressure (psi)    fracture    fracture    fracture                                                                                                             fracture       fracture      fracture
+                                                                    gradient    gradient    gradient                                                                                                          gradient      gradient      gradient
+                                                                     0.882      0.962       1.042
+                                                                                                        0.882 psi/ft.   0.962 psi/ft.   1.042 psi/ft.
+                                                                                           psi/ft.        psi/ft.         psi/ft.
+
+                                             Initial Wellbore
+       Filled with completion      displacement, in
+                                                  9662         2025       3085       4145         1725         2777         3731           fluid, 105pcf fluid          case of well not
+                                     flowed
+
+      Filled with Diesel (0.357
+                                     Bullheading        4969         6718       7779       8839         6047         7001         7955                  psi/ft.)
+
+       Wellbore filled with
+                                       Injectivity test (if
+        reservoir fluid (0.28                          3710        7977       9037      10097        7180         8134         9088
+                                     well flowed)                  psi/ft.)
+
+      Wellbore filled with
+                                     Stimulation     stimulation fluid (1.07                          6144         5543       6604       7664         4989         5943         6897
+                                       operation              S.G.)
+
+NOTE: Maximum Allowable Wellhead Pressure (MAWHP) in all stages during the operation will definitely be specified by the Client
+
+wellsite representative.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 30 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+6.2  Friction Loss Calculation
+
+Considering friction loss during bull-heading operation, below sections shows friction loss calculations
+
+for both  diesel &  fresh water  cases. Below equation demonstrate maximum wellhead pressure
+
+considering friction loss.
+
+     MWHP = (Fracture pressure – Hydrostatic pressure + ΔPf Total) – 10% Safety margin
+
+6.2.1 Assuming wellbore filled with diesel (bullheading through CT annulus)
+
+                 Bottom                   Tubing ID   CT OD    Tubing  OD CT     ID, Dh
+       Top (m)              Tubing Size
+                    (m)                                (in)            (in)      ID (m)      (m)       (m)
+
+           0.00      3714.12    4 1/2'', 18.9 ppf      3.640         1.50       0.0925     0.0381     0.0544
+
+        3714.12    3963.97    3 1/2'', 10.2 ppf      2.922         1.50       0.0742     0.0381     0.0361
+
+        3963.97     4039             7'', 32 ppf        6.094         1.50       0.1548     0.0381     0.1167
+
+               Pumping                                                       Dynamic
+       Length             Pumping Rate                   Velocity        Density
+                   Rate                   Area (m2)                                       Viscosity
+         (m)                      (m3/s)                        (m/s)        (Kg/m3)
+                  (bpm)                                                                   (Kg/m.s)
+
+       3714.12      5         0.01325      0.005574      2.377         832          0.00135
+
+        249.85       5         0.01325      0.003186      4.158         832          0.00135
+
+        75.03       5         0.01325      0.017677      0.749         832          0.00135
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 31 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                                              friction factor, f,         Friction       Friction Pressure
+            Reynolds Number, Re
+                              Moody diagram      Pressure (Pa)            (psi)
+
+                   79610.87                0.02213            3715164            539
+
+                   92583.97                0.02312            1212553            176
+
+                   53899.32                0.02191             3423              1
+
+                          Sum                                716
+
+                           relative roughness
+                                        d (mm)                  ε/d
+                          (ε,mm)
+
+                             0.045                   54.4              0.000827206
+
+                             0.045                   36.1              0.001245889
+
+                             0.045                  116.7              0.000385645
+
+                                                MWHP
+                             Fracture                  MWHP
+                                          Fracture   Hydrostatic                     considering
+     TVD                  gradient                                considering
+           TVD (ft)                   pressure     pressure                      friction loss (psi) -
+       (m)                       (psi/ft), Min                                   friction loss
+                                                       (psi)          (psi)                 10% safety
+                 & Max                                           (psi)
+                                                                              margin
+
+      4038.99    13251.3        0.882        11688       4969         7434            6691
+
+      4038.99    13251.3        0.962        12748       4969         8495            7645
+
+      4038.99    13251.3        1.042        13808       4969         9555            8599
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 32 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 33 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+6.2.2 Assuming Wellbore Filled with Fresh Water (bullheading through CT annulus)
+
+               Pumping                                                       Dynamic
+       Length             Pumping Rate                   Velocity        Density
+                   Rate                   Area (m2)                                       Viscosity
+         (m)                      (m3/s)                        (m/s)        (Kg/m3)
+                  (bpm)                                                                   (Kg/m.s)
+
+       3714.12      5         0.01325      0.005574      2.377         998.2           0.001
+
+        249.85       5         0.01325      0.003186      4.158         998.2           0.001
+
+        75.03       5         0.01325      0.017677      0.749         998.2           0.001
+
+                                               friction factor, f,     Friction Pressure        Friction
+               Reynolds Number, Re
+                               Moody diagram           (Pa)           Pressure (psi)
+
+                     128739               0.02105            4233240             614
+
+                     149718               0.02231            1402379             203
+
+                     87161                0.02025             3787                1
+
+                               Sum                                   818
+
+                                                  MWHP
+                               Fracture                  MWHP
+                                             Fracture   Hydrostatic                     considering
+      TVD                  gradient                                considering
+            TVD (ft)                   pressure     pressure                      friction loss (psi) -
+          (m)                       (psi/ft), Min                                   friction loss
+                                                           (psi)          (psi)                 10% safety
+                  & Max                                           (psi)
+                                                                                 margin
+
+        4038.99    13251.3        0.882        11688       5742         6763            6087
+
+        4038.99    13251.3        0.962        12748       5742         7824            7041
+
+        4038.99    13251.3        1.042        13808       5742         8884            7995
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 34 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 35 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+6.3  Strategy of Acidizing
+
+Following measures can be adopted in order to enhance the success rate, efficiency of acidizing &
+
+achieve a good effect on increasing productivity based on elementary acidizing theory & test:
+
+    a)  Considering the temperature of the formation to be treated.
+
+    b)  Select appropriate acid additives, to avoid corrosion, sludge & any problem that damage pay
+
+       zone.
+
+    c) Enhance the injecting pressure & flow rate as high as possible to form the “wormhole” as much
+
+       as possible & deepen its depth.
+
+    d) Design effective pre-flush & Overflush treatment for reservoir conditioning & break any formed
+
+        gel.
+
+6.4 Stimulation Main Challenges
+
+Given the high temperature (>250 oF), reaction rate will be definitely reduced during conventional
+
+treatment. Therefore, a de-efficiency factor (0.8) will be considered for overall stimulation efficiency.
+
+6.5 Stimulation Software (Input/Output)
+
+Primary wash-acid model with shut-in method was generated based on the compatibility test results.
+
+Clearly, this model can be tuned through Pressure Matching by using field-data.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 36 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+IMPORTANT: The well data shown on this page is based on information available when this treatment
+
+program was prepared. This data must be confirmed on location with the wellsite supervisor prior to the
+
+treatment. Any changes in the well data need to be reviewed for their impact on the treatment design.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 37 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Well Data
+
+Casing
+      OD              ID          Top Depth      Bottom Depth       Weight          Grade
+   9.625 in        8.353 in        0.0 ft.       12903.5 ft.     53.5 lb/ft.        P-110
+
+Casing
+      OD              ID          Top Depth      Bottom Depth       Weight          Grade
+   7.000 in        6.094 in      12506.6 ft.     13628.6 ft.     32.0 lb/ft.        P-110
+
+Tubing
+      OD              ID          Top Depth      Bottom Depth       Weight          Grade
+   4.500 in        3.640 in        0.0 ft.       12185.4 ft.     18.9 lb/ft.         L-80
+   3.500 in        2.922 in      12185.4 ft.     13005.2 ft.     10.2 lb/ft.         L-80
+
+Packer
+       OD                ID              Depth
+    6.094 in          3.500 in        12951.8 ft.
+
+Perforations
+Treatment Interval: 101.7 ft.
+          Top Depth                      Bottom Depth                    Shot Density
+         13251.3 ft.                     13297.2 ft.                    5.00 shot/ft.
+         13362.9 ft.                     13392.4 ft.                    5.00 shot/ft.
+         13461.3 ft.                     13477.7 ft.                    5.00 shot/ft.
+         13481.0 ft.                     13490.8 ft.                    5.00 shot/ft.
+
+Coiled Tubing
+
+Outer Diameter  Inner Diameter     Thickness         Length          Weight          Volume
+      in              in              in             ft.             lb             bbl.
+     1.500           1.282           0.109           15748           25523           25.1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 38 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Hole Survey
+
+Zone Properties
+
+Producing Zone Properties
+ Zone     Top     Bottom   Interval  Permeability    Kh    Porosity    Zone    Kh/Kv     Frac
+ Name    (MD)     (MD)      (MD)                                    Pressure          Gradient
+          ft       ft        ft          md       md.ft      %        psi              psi/ft
+ Fah   13251.3  13297.2    45.9         50        2297     13.0      9293     3.00    0.882
+  1b
+ Fah   13362.9  13392.4    29.5         20        591      9.0       9294     3.00    0.882
+  1c
+ Fah   13461.3  13477.7    16.4          1          16      2.0       8500     3.00    0.882
+  2b
+ Fah   13481.0  13490.8     9.8          5          49      4.0       7106     3.00    0.882
+  3a
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 39 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Mineralogy
+
+          Zone Name                       Minerals                        Weight %
+                                           Limestone                        90.0
+                                           Dolomite                         8.5
+            Fah 1b                          Illite                          0.5
+                                           Kaolinite                         0.5
+                                        Montmorillonite                      0.5
+                                           Limestone                        90.0
+                                           Dolomite                         8.5
+            Fah 1c                          Illite                          0.5
+                                           Kaolinite                         0.5
+                                        Montmorillonite                      0.5
+                                           Limestone                        90.0
+                                           Dolomite                         8.5
+            Fah 2b                          Illite                          0.5
+                                           Kaolinite                         0.5
+                                        Montmorillonite                      0.5
+                                           Limestone                        90.0
+                                           Dolomite                         8.5
+            Fah 3a                          Illite                          0.5
+                                           Kaolinite                         0.5
+                                        Montmorillonite                      0.5
+
+Reservoir Fluids @RES. CONDS.
+
+                                                                                    Specific
+Name                                       Fluid       Viscosity   Compressibility
+                                                                                    Gravity
+                                                       cP          1/psi
+Fah 1b                                     Res. Fluid  0.380       1.10E-5          0.70
+Fah 1c                                     Res. Fluid  0.380       1.10E-5          0.70
+Fah 2b                                     Res. Fluid  0.380       1.10E-5          0.70
+Fah 3a                                     Res. Fluid  0.380       1.10E-5          0.70
+
+Damage
+
+                                  Secondary       % of Skin                        Damage
+  Zone Name    Primary Damage                                    Damage Skin
+                                    Damage       Attributed to                     Diameter
+                                                  Secondary
+                                                                                      in
+                                                    Damage
+
+    Fah 1b      Mixed Deposits    Asphaltene         70.0              3            47.000
+
+    Fah 1c      Mixed Deposits    Asphaltene         70.0             2.5           33.000
+
+    Fah 2b      Mixed Deposits    Asphaltene         70.0             2.2           29.000
+
+    Fah 3a      Mixed Deposits    Asphaltene         70.0              2            25.000
+Total Skin calc. = +3.16
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 40 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Downhole Pumping Schedule
+
+                                                          CT MD                                 Annulus
+    Step        Fluid Name      Volume        Rate                   CT MD Stop    CT Speed
+                                                          Start                                   Rate
+                                 gal        bbl/min         ft           ft         ft/min       bbl/min
+                  mutaul
+  Preflush                       966          0.9        13251.3      13490.8         9           0.0
+                 solvent
+ Main Fluid      HCl 15.0        1000          0.9        13490.8      13251.3         -9           0.0
+ Main Fluid      HCl 15.0        3999          0.9        13251.3      13251.3         0           0.0
+                  mutaul
+  Overflush                      966          0.9        13251.3      13490.8         9           0.0
+                 solvent
+Displacement      Diesel         1056          0.0        13490.8      13490.8         0           0.0
+
+Estimated Mechanical Skin
+
+It is noted that total skin in horizontal wells is normally negative due to geometrical skin (is a function of
+
+Kv/Kh value). After analysing build up data (100 hrs), the amount of mechanical skin will be revised.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 41 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Pressure & Rate
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 42 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Fluid & Wormhole Summary
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 43 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Transient Production Profile
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 44 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+6.6  Treatment Volume
+
+                                                                                 ≈ Fluid
+ Producing      Interval                                      Treatment   Fluid Volume
+                        Job Type      Treatment Fluid                               Volume
+Interval (m)         (ft.)                                                            (gal/ft.)       (USG)
+                                                                                                                    (bbl.)
+
+                              20% HCL as Injectivity        3.72          378           9
+
+                                             Preflush (diesel based)          9.5          966           23
+                      CT
+     31          101.7
+                             Acidizing
+                              15% HCl as Main Fluid       49.15         4999          191
+
+                                          Overflush (diesel based)         9.5          966           23
+
+The equivalent volume of HCl 15% that is exposed to the formation with CT acidizing Operation is
+
+around 49.15 gal/ft.
+
+6.7  Stimulation Fluids & Stages Introduction
+
+In aim to achieve the best stimulation results following Stimulation fluids are proposed.
+
+Preflush:  Preflush acts as a spacer between reservoir fluid & main fluid, guarantees the water wet
+
+condition of reservoir rock, eliminates the risk of acid/oil sludge formation & facilitates post acid flow
+
+back process.
+
+Main Acid 15% HCl: HCl is the most suitable treatment fluid for stimulation of carbonate (including
+
+dolomite) reservoirs which can dissolve both rock matrix & damage. The dissolution process leads to
+
+clean up of hydrocarbon flowing path.
+
+Over-Flush: Overflush solution contains mutual solvent acting as a multifunctional non-ionic agent
+
+which is soluble in oil, acid & fresh water, which improves the clean-up of spent acid following
+
+stimulation treatment.
+
+6.8  Treatment Fluids & Mixing Stages
+
+Following stimulation fluids containing suitable additives are proposed for this operation:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 45 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Note: Samples of onsite stimulation additives will be tested & following recipe are finalized after
+
+performing acid lab tests under client’s supervision.
+
+6.8.1 CT Acid Pickling Fluid (15% HCl)
+
+              Total Volume                                    210 USG               5 BBL
+
+      Item             Description           Commercial Code     Concentration       Volume
+
+       1               Fresh Water                           ---            551       gpt      114    USG
+
+       2           Corrosion Inhibitor        WA-CI 120FH        15        gpt       4     USG
+
+       3            32% HCl                             ---            434       gpt      92    USG
+
+                 Total Volume                                                      5        bbl.
+
+6.8.2 Wellbore washing with Asphaltene solvent
+
+              Total Volume                                    2100 USG              50 BBL
+
+      Item             Description           Commercial Code     Concentration       Volume
+
+       1           Asphaltene Solvent          ADR           1,000      gpt     2,100   USG
+
+                 Total Volume                                                      5        bbl.
+
+6.8.3 CT Acidizing Fluid
+
+    1) 20% HCl Mixture as injectivity fluid
+
+                   Total Volume                            378 USG                9 BBL
+
+ Item              Description            Commercial Code     Concentration         Volume
+
+  1                Fresh Water                             ---            228       gpt       82     USG
+
+  2            Iron Reducing Agent         WA-iRED 459        30        gpt       12     USG
+
+  3             Iron Control Agent           WA-450 N         10        gpt       4      USG
+
+  4           Corrosion Inhibitor Aid           WA-810          30        gpt       12     USG
+
+  5             Anti-sludge Agent           WA-711 FH        30        gpt       12     USG
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 46 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+6              Non-Emulsifier            WA-340 FH         30        gpt       12     USG
+
+7            Corrosion Inhibitor         WA-CI 120 FH       30        gpt       12     USG
+
+8            H2S Scavenger          WA-HS 1000D       30        gpt       12     USG
+
+9            32% HCl                               ---            592       gpt      224     USG
+
+           Total Volume                                                        9          bbl.
+
+ 2)  Pre-Flush (Diesel Based)
+
+           Total Volume                                    966 USG               23 BBL
+
+   Item             Description           Commercial Code     Concentration       Volume
+
+     1                  Diesel                               ---            900       gpt      869    USG
+
+     2            Mutual Solvent            WA-211          100       gpt      97    USG
+
+               Total Volume                                                     23       bbl.
+
+ 3) 15% HCl Mixture as main fluid
+
+                     Total Volume                            4998 USG              119 BBL
+
+  Item              Description            Commercial Code     Concentration         Volume
+
+    1                Fresh Water                             ---            376       gpt      1879     USG
+
+    2            Iron Reducing Agent         WA-iRED 459        30        gpt      150     USG
+
+    3             Iron Control Agent           WA-450 N         10        gpt       50     USG
+
+    4           Corrosion Inhibitor Aid           WA-810          30        gpt      150     USG
+
+    5             Anti-sludge Agent           WA-711 FH        30        gpt      150     USG
+
+    6              Non-Emulsifier            WA-340 FH         30        gpt      150     USG
+
+    7            Corrosion Inhibitor           WA-CI 120         30        gpt      150     USG
+
+    8            H2S Scavenger          WA-HS 1000D       30        gpt      150     USG
+
+   10            32% HCl                               ---            434       gpt      2170     USG
+
+               Total Volume                                                      119        bbl.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 47 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+ 4)  Overflush (Diesel Based)
+
+           Total Volume                                    966 USG               23 BBL
+
+   Item             Description           Commercial Code     Concentration       Volume
+
+     1                  Diesel                               ---            900       gpt      869    USG
+
+     2            Mutual Solvent            WA-211          100       gpt      97    USG
+
+               Total Volume                                                     23       bbl.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 48 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+7.  Operation Details, Procedures & Requirements
+
+7.1  Rig-up & Pressure Test Procedures
+
+7.1.1 Pumping Rig-up & Pressure Test Procedure
+
+   Make sure that all the valves on wellhead assembly are closed.
+
+   Remove 4 1/16” 10K, flange on wellhead flow & kill line.
+
+    Connect the 4 1/16” 10K, flange cross overs to 1502 wing/thread connections (2*2”).
+
+   Rig up 1*2” treating lines up to the wellhead.
+
+   Rig up 1*2” treating line up to the CT reel.
+    Pressure test treating lines stepwise up to 6500psi.
+
+7.1.2 CT Rig-up & Pressure Test Procedure
+
+  1.   Hold Pre-Rig Up Safety Meeting & Document
+     Outline the permit to work requirements & scope of work covered during the operation
+     Discuss the operational procedure & highlight key points relating to its execution.
+     Outline the areas of responsibility for all personnel & establish the lines of communication.
+     Outline the pressure & operation limits of the intervention.
+     Discuss HARC [All parties to sign HARCs which are reviewed]
+     Discuss the contingency & emergency procedures & establish full understanding among all
+
+        parties.
+
+  2.   Proceed to rig up 1.5” CT unit as per standard procedure
+
+    a)  Install BOP on Wellhead & function test All Rams & perform visual confirmation though bore to
+
+       ensure rams are fully open following function test
+
+PT1 Procedure:
+
+The following procedure includes all treating lines, blind rams, BOP body, all crossovers & the wellhead.
+
+Following setup should be considered:
+
+   BOP installed on the wellhead
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 49 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+    upper blind rams closed
+
+   CT not inserted in the BOP stack
+
+PT2 Procedure:
+
+Before opening the well, CT personnel pressure test the equipment with the following setup:
+
+     all equipment rigged up
+
+    downhole check valves installed
+
+   CT inserted in the BOP stack.
+
+The PT-2 test includes the CT pipe, pipe rams, stripper & downhole check valves in BHA.
+
+    b) Secure Injector head with chain.
+
+    c)  Function test all hydraulics
+
+              I.   Reel
+
+            II.   Control Cabin
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 50 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+           III.    Injector Head
+
+  3.   Rig up Data Acquisition System
+
+  4.   Stop & hold toolbox talk to discuss HSE considerations, review HARC & go–forward plan for
+
+       stabbing Coiled Tubing
+
+  5.   Use crane to secure CT pipe in the level wind head
+
+  6.    Install the Connector.
+
+  7.    Pull Test CT-Connector using a pull test plate up to 10,000 lb
+
+  8.   Close the inside valve on the reel & pressure test surface lines between CT & pump with fresh
+
+       water (Ensure Over Pressure Shutdown is functioning properly before pressure test)
+  9.   Perform low pressure test [200-300psi for 5 minutes] & high pressure test [4,000psi for 15 minutes]
+
+       of surface lines & Coiled Tubing string against CT-Connector
+
+ 10.    Install BHA as per program
+
+ 11.   Make up the injector head onto the wellhead stack & secure with chain.
+
+ 12.   Perform Pressure Test 2 (PT2)
+
+    a) Low Test 5 min [200-300 psi]
+
+   b) High Test 15 min [6,500 psi]
+
+Test Bottom Hole Assembly, Check Valve:
+    Bleed pressure from BOP to 1,000psi then
+    Bleed off coiled tubing pressure to 0psi. This creates a differential pressure 1,000psi across the
+
+      check valves.
+
+    Observe the pressure differential across the check valve for 5 min.
+
+    Bleed off pressure.
+
+7.1.3 Well Testing Rig-up & Pressure Test Procedure
+
+   Check TMV on production flow line is closed
+
+   Connect treated iron pipe between wellhead to choke manifold
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 51 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+   Connect choke manifold to burn line
+
+    Install SSV & ESD control panel equipment
+    Pressure test treating line gradually up to 6,500psi for 15 minute
+
+    Release pressure, Connect hydraulic pump to ¼” control line port. Pressure test connection to
+        4,000psi for 15min
+
+    Bleed off pressure & make sure TMV & production valves are closed. Start pumping water to
+       increase the pressure at 500 & 6,500psi. Stop pumping & check for any leakage for 15 min.
+
+    Bleed off pressure & close upstream stream valve (U/S) of choke manifold, start pumping water
+        to increase the pressure at 500 & 6,500psi gradually. Stop pumping & check for any leakage for 15
+
+      min
+
+    Bleed off the pressure, open U/S, close downstream valve (D/S) of choke manifold. Start
+      pumping water to increase the pressure at 500 up to 6,500psi. Stop pumping & check for any leak
+
+        for 15 min
+
+    Bleed off the pressure, open D/S. Fill up the separator with 25 bbl. of water while all the
+       separator exits are closed. Start pumping water to increase the pressure up to 500psi. Stop
+
+      pumping & check for any leak for 15 min.
+
+    Bleed off the pressure & make sure all other lines from pump truck to burn pit are open
+
+    Flush the line with the highest possible flow rate to check if there is any leakage in the flare line
+
+        for 2 min
+
+    Function tests the ESD system from different station
+
+   Open the swab valve (SV), TMV
+
+   Check wellhead & annulus pressure
+
+    Secure the well
+
+Fishing Program
+
+Flush the well production line to burn pit
+
+   Check the burn pit
+
+   Check the production flow line valve is closed
+
+   Check & close the TMV & swab valve
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 52 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+    Drain the line under control
+
+   Pumping water to flush production line to burn pit
+
+   Check the sample taker to get fresh water
+
+7.2  Slick Line Procedure
+
+  1.   Have a good pre-job meeting with the whole crew, inform the crane driver & check with him the
+
+        correct signs for crane movements. Run together through the program, shortly explain the
+
+       purpose.
+
+  2.   Make sure all necessary surface equipment is available, check the last pressure certificates of
+
+      BOP’s, lubricator & other pressure vessels (not older than one year).
+
+  3.   As long as safety valve is closed & before opening a well to the lubricator visually inspect the
+
+     Xmas tree, pay attention to the control line system, including outlet, lines & pump. Inform the
+
+      crew for emergency access.
+
+  4.    Set up good access to the X-mass tree & pressure control equipment. Check & secure installation
+
+       of ladders & scaffolds.
+
+  5.   Check availability of communication means & devices. Show & explain the use of the system.
+
+  6.    All thermal engines (i.e. diesels) must to be installed in non-hazardous areas (10 meters from the
+
+       well center line around the wellhead), unless fitted with the following safety equipment, in which
+
+       case they may be located within 3 to 7 meters from the well center-line:
+     Exhaust with anti-spark device & cooling
+     Automatic shutdown by over speed detector system
+     Auto-closing of air intake & auto-shut-down in the event gas is detected
+     Conspicuous & easily accessible shut-down control
+
+  7.   Ensure that effective firefighting capabilities are in place throughout the slickline operations &
+
+        that all personnel are aware of the procedures.
+
+  8.   Locate portable foam extinguishers near the wellhead & ensure that they are full & operational.
+
+  9.   Ensure that all personnel are familiar with the operation of firefighting equipment. Ensure that
+
+      everybody in your crew knows what his duties are going to be.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                  AZNS-040 Acidizing Program   Contract No:
+                          Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 53 of 79  CCA/C/1401/27
+                 SAC      P      IIF40   DR     DE     PRG      0024      02
+
+10.   Ensure that your working stations are clean & tidy.
+
+11.   Should night work be expected, take appropriate steps to ensure proper lighting.
+
+12.   Before lifting a piece of equipment with slings, make sure the cables are in good shape & the
+
+      clamps & shackles well tightened & secured.
+
+13.   Always open a well slowly using the swab valve.
+
+14.   Each crew working on isolated locations should take along a first aid kit.
+
+15.   When designing a slick line set-up make sure the equipment planned can safely withstand &
+
+      handle the maximum wellhead pressure.
+
+16.   Every member of the slick line crew must know how to shut in a well in case of emergency.
+
+17.   Always make sure that the pressure has been bled down to zero before attempting to unscrew a
+
+      quick union.
+
+18.   Never run-in a well with the winch engine stopped.
+
+19.  Do not climb or let somebody climb the lubricator whenever it is under pressure.
+
+20.   Never attempt to pull a plug before the pressure across it has been equalized.
+
+21.   When rigging up or down a lubricator, never stay below it.
+
+22.   Blow out preventers should always be tested before each job.
+
+23.   When running in for the first time, check the weight frequently.
+
+24.   Perform torsion test on the wire prior to each job.
+
+25.     It is recommended to run a gauge cutter (or sinker bars only) prior to running anything else in the
+
+       hole.
+
+26.   When working in H2S wells, inhibit the wire.
+
+27.   When coming out of hole, use the winch relief valve.
+
+28.   Always write down the length, OD’s & size of fishing necks of the different components you are
+
+      running in the hole.
+
+29.   When cutting wire at surface (rig down) make sure that neither end can “fly”.
+
+30.   Always work in sight of each other.
+
+31.   Use demarcation cones on route of the wire.
+
+32.   When running a Slick line job, always have a clear view of the stuffing box.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 54 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Check Wire Quality
+
+These tests are performed to evaluate the wire quality prior RIH.
+
+  1.   Torque Test:
+     The wire is rounded 6-8 round on a stand
+     Visual check of wire quality & flexibility
+      In case of breaking or damaging, the wire will be rejected.
+
+  2.    Pull Test:
+     Finish tools set up/make up
+     Wire is fastened to the wellhead by a chain
+      Pull test is performed according to the wire specification
+
+7.3 Protection Sleeve Installation & TD Check
+
+  1.  M/U BOP & Lubricator.
+  2.   Conduct pressure test by increasing pressure gradually up to 6500psi.
+
+  3.   P/U & Make up 2.500” gauge cutter.
+
+  4.   RIH 3.300” gauge cutter to top of TRSCSSSV & POOH.
+
+  5.   M/Up & P/Up protection sleeve.
+
+  6.   Open 3SV & Keep it open during the operation.
+
+  7.   RIH & set protection sleeve inside TRSCSSSV & POOH.
+
+  8.   RIH 2.200” or 2.250” gauge cutter to maximum accessible depth to check TD.
+
+  9.  POOH to Surface.
+
+ 10.   Close Master Valve & Bleed off Pressure.
+
+ 11.   L/D Equipment.
+
+7.4 Coiled Tubing Reel Acid Pickling Procedure
+
+In order to prevent & minimize induced formation damage caused by debris & iron content, acid pickling
+
+is proposed prior to start the operation.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 55 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+  1.   Conduct a pre-job Safety Meeting. All operational & safety issues will be discussed before the
+
+       operation starts. Duties & fluid volumes will be agreed upon during the meeting. All safety
+
+       hazards will be discussed. It is essential that all personnel involved in the operation understand
+
+        their duties before the operation starts.
+
+  2.   Rig-up Pumping equipment as per the location safety standards. Perform pressure test at 6500psi
+
+      on the surface equipment.
+
+    Ensure all the safety gear is available in the location. Rubber boots, gloves, apron & wash station
+
+       with water.
+
+    All operational & safety issues, the contingency planning should be discussed & agreed in the
+
+       meeting.
+
+    All duties & responsibilities should be clearly assigned & understood by all personnel involved.
+
+    All the personnel should be briefed about the hazards of Acid.
+
+   Remove all non-essential personnel & establish a muster point should an emergency occur.
+
+  3.   Mix the acid as per the following recipe.
+
+  4.   Prepare CT & RIH to upper than Top Master Valve depth.
+
+  5.    Start pumping 5 bbl. of 15% HCl through coiled tubing followed by 25 bbl. fresh water as
+
+       displacement to pickle the Coiled Tubing reel while return is open & circulate it out.
+
+7.5 Coiled Tubing Accessibility Procedure
+
+  1.   Hold a pre-job safety meeting with all personnel involved in the operation & discussion
+      Identify escape routes & assembly point
+     Review the job steps in the program & ensure everyone is clear on the go forward plan
+     Confirm restrictions & well completion diagram is current & correct with company representative
+
+  2.    After the safety meeting, ensure that all non-essential personnel are removed from the work area
+
+    & the area between the coiled tubing reel & injector head is restricted access.
+
+  3.   Zero Depth & Confirm Zero Weight, ensure the acquisition is on & recording.
+
+  4.    Client to confirm well head pressure under swab valve [if any].
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 56 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+  5.   Equalize the pressure below & above BOP & prepare to open the well
+
+   Ensure clear line of communication is established between pump operator & CT Supervisor
+
+  6.   Equalize CT pressure & prepare to open well [if any].
+
+  7.   Open the master valve & swab valve & record the amount of turns need.
+  8.    Start RIH CT at 60ft. /min inside the tubing, when approaching any completion equipment with ID
+       changes (nipple profiles, tubing crossovers, etc.), reduce RIH speed to 10-15ft. /min.
+  9.   Every 2000ft. perform a pull test & break circulation to check weight/drag.
+
+    If pickup weights are unusual pull tests should be conducted more often
+
+ 10.   Continue RIH to check the accessibility in the open hole.
+ 11.     If the lock up depth found to be above TD (LDC depth), then pull out CT 200ft.
+
+ 12.   RIH again & check the lock up depth trying to reach to the maximum depth that can be achieved.
+Acid Line Rig-up
+
+     OEOC rig up the lines as per diagram.
+     Two pressure transducers will be installed on the pad. 1 before the check- valve, on the main
+
+        treating line & 1 after the check valve.
+     One pressure transducer will be rigged up on the annulus.
+     The pressure monitoring on the annulus shall be performed using OEOC Pressure Transducer
+
+       Tied in to a suitable Wellhead Annulus Connection - 2” Weco Fig 15-02 Thread Half (Male) is
+
+        required.
+
+7.6 Contingencies
+
+Fire on board:
+
+In case of any kind of uncontrolled fire on board, the stimulation will be stopped, using the following
+
+procedure:
+
+    Close the Wellhead master valve.
+
+    Proceed to extinguish fire with Fire truck
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 57 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Deterioration of weather condition:
+
+Due to deteriorating weather conditions or failure in the location, the stimulation operations must be
+
+stopped.
+In serious emergency situations:
+
+    Stop any Pumping or in Injection.
+
+    Close the master valve of the wellhead.
+
+In other situations:
+
+    Stop pumping the treatment.
+
+    Flush the lines with water.
+
+    Close the master valve of the wellhead.
+
+    Release the pumping coflex hose.
+
+Acid leak at surface while pumping:
+
+    Stop pumping
+
+    Close remote control master valve
+
+    Bleed off acid overboard through emergency bleed off line
+
+   Wash the acid on Location or CTU Surface
+
+    Repair leak
+
+    Pressure test line 15 minutes – 3500 psi
+
+   Open slowly remote control master valve.
+
+   Resume treatment.
+
+Seawater leak at surface while displacing:
+
+    Stop pumping
+
+    Close remote control master valve
+
+    Repair leak
+
+    Pressure test line 15 minutes – 3500 psi
+
+   Open slowly remote control master valve.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 58 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+   Resume treatment.
+
+Leak between annulus & tubing (pressure in annulus suddenly increasing):
+
+    Stop pumping.
+
+    Switch to water
+
+   Reduce the rate & squeeze slowly the acid to the formation of sea water
+
+H2S Alert:
+
+    Stop pumping.
+
+    Switch to water
+
+    Displace up to wellhead
+
+    Close the well
+
+    Disconnect the Stimulation Truck & quick disconnect the coflex hose.
+
+   Once the H2S alert is over, the treatment will be displaced with the cement unit.
+
+Safety & Organization Duties during the stimulation treatment
+
+Weather Limitations
+
+     The stimulation job, using the OEOC Stimulation Trucks, will be subject to safe operational
+
+       weather conditions permitting at the planned time of operations on the location.
+     The assessment & acceptance of the weather conditions to safely perform the stimulation
+
+       operations is the ultimate responsibility of the Stimulation Truck Supervisor.
+     The decision by the Stimulation Truck Supervisor as to whether to proceed with operations or
+
+        revert to stand-by until such time that weather conditions are deemed safe to proceed shall be
+
+      made in consultation with the OEOC Stimulation Truck Supervisor & PPL on location.
+Pre-Stimulation Safety Meting
+
+    A pre-job Stimulation safety meeting will be held with  all parties directly involved in the
+
+       operation
+      (Company & Contractors).
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 59 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+      It will be conducted by the PPL & the safety advisor.
+     As many people on the senior operation crew as possible are to participate in this meeting.
+      Reviewing of safety & firefighting equipment on board will be done during this meeting, stress
+
+        shall be put on the prohibition of any open flame or hot work outside the quarters during
+
+        stimulation.
+
+Items to be reviewed during a safety meeting are:
+     Stimulation program overall review.
+     Expected well conditions.
+     All decisions, will be taken by the PPL.
+     The evacuation of the well area will be decided by the PPL.
+     The PPL will be informed of any anomalies.
+     During Stimulation the following restrictions are to be observed:
+     Smoking is prohibited outside living quarters.
+     Welding, grinding & any use of open fire without written hot work permit from PPL & job
+
+       superintendent are prohibited.
+     No admittance to wellhead area during stimulation for personnel not directly involved with
+
+        test/Stim operations; this also applies when pressure testing prior to the test.
+     No admittance to separator area for unauthorized personnel.
+     No doors to the living quarters to be left opened during the test.
+     Escape ways to be kept clear & free.
+     Coordination is necessary between PPL, OEOC superintendent on this point.
+    PTW (Permit to Work) to be completed before commencement of the task.
+     Public announcement required prior to commencement of task & the end of the task.
+     Job Doctor to review MSDS (Material Safety Data Sheets) & treatment regime for Contact with
+
+      Acid
+     Locate & Emergency showers & eyewash stations in accessible areas & inform the personnel
+
+       involved at the pre-job meeting.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 60 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+     Eye wash bottle to be installed on pad by OEOC before the job commences.
+Communications:
+
+     Use phones for communication to the OEOC pump truck supervisor.
+     Communications to & from the all service Supervisors & client will be done with radios. The
+
+      Truck will keep the wellhead side updated at frequent intervals.
+Handling of Acid:
+
+     OEOC to wear PPE when handling acid; Rubber gloves, boots, apron & face shield.
+     OEOC supervisor to review the acid MSDS with the crew Location of Personnel
+     During Acid job only essential personnel are to be outside. Therefore, all non-essential personnel
+
+       are to remain inside the pad accommodation.
+     H2S specialist to be in the field checking for gas
+     Two personnel to standby on the pad to initiate ESD if necessary. These people should be the
+
+         driller & one of the PPL completion/Testing supervisor.
+     One OEOC man & Ass’t supervisor are to standby on pad to observe for leaks. They should be
+
+       equipped with a Breathing apparatus, personal H2S detector & radio. We will notice a drop in
+
+       pressure on the OEOC unit but we will still need two men for observation & early signal that
+
+        there is a leak.
+     Two more personnel are need to standby on the main deck to watch for leaks. One OEOC & one
+
+       roustabout.
+Leaking Acid:
+
+     Every leak is to be considered acid until proven otherwise.
+     PPL requires two fire hoses on the pad in case there are any leaks. Do not approach a leak; you
+
+      must confirm that the pumping has stopped. Then we will assess the situation, is  it acid or
+
+       seawater? First we will close the well, then we will go through the emergency bleed off line,
+
+       bleed off the acid overboard then wash down the contaminated area. Only then can we address
+
+       the leak & fix
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 61 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+      If you notice any leaks inform the stimulation eng immediately. When reporting a leak be
+
+        descriptive; dripping, streaming, big or small
+     Never approach a leak until the stimulation eng is notified. An Acid leak is not the end of the
+
+      world so do not panic & take your time to ensure proper PPE has been donned & applicable
+
+       procedure are in place to perform a cleanup
+     Need to inform the stimulation Engg, if there is a notable increase or decrease of pressures
+     Geoservices to notify the vessel if you notice a leak from the annulus to the tubing. Pressure in
+
+       the annulus will increase. In this case we will stop pumping acid & start to pump seawater & try
+
+        to squeeze the seawater into the formation for displacement.
+What to do if:
+
+      If fire on board well area or vessel; First we stop pumping & the well side is to close the well
+
+      head master valve, the same time the fire team will be fighting the fire. If fire on the vessel the
+
+       vessel crew will fight the fire.
+      In case of H2S; Stop pumping acid & we will try to displace of water, vessel will disconnect &
+
+       perform H2S response as per training. OEOC personnel on pad to wear breathing apparatus at all
+
+       times. Once the H2S situation is under control we will have to pump the treatment with the
+
+      cement unit, as the vessel will take time to re-connect to the co-flex.
+     When a leak is to be neutralized, use copious amounts of water. Do not use soda ash, as it is too
+
+       messy.
+     When a person is affected by acid spill or leak:-
+     Remain calm
+     Don’t rush in & become a casualty
+     Drench the person in copious amounts of water
+     During drenching remove clothing
+     Call for the medical team
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 62 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+7.7 Well Flow-Back General Guidelines
+
+The maximum initial choke size should not exceed 1/6th the inside diameter of the surface manifold or
+
+the tubing in the well.
+
+Examples:
+     3 1/2 tubing - 1/2 inch or number 32 choke
+     2 7/8 tubing - 13/32 inch or number 26 choke
+     2 3/8 tubing - 5/16 inch or number 20 choke
+
+During flow back as surface pressure decreases, larger chokes may be used to maintain flow. The
+
+manifold downstream of the choke should be as straight as possible to minimize erosion. Always open
+
+the upstream valve first, then the downstream valve.
+
+Always close the downstream valve first, then the upstream valve. Lo-Torc & other stop valves are not to
+
+be used as chokes. Always assume the presence of combustible hydrocarbons.
+
+  1.  On completion of the acid job, open well for flow back to choke manifold (Choke must be closed
+
+        at this stage for initial reading).
+
+  2.    Prior to opening well ensure downstream lines are open to flare boom
+
+  3.    Initial Opening – Open to flare gradually commencing on a 16/64 adjustable choke & increasing
+
+      choke as required. Continue flowing to burner boom until clean.
+     Ensure downstream pressure does not exceed pipe specifications (1,000psi as guideline)
+     Note: Record all parameters every 5 minutes during the cleanup & then every 15 minutes when
+
+       the well is stable on all choke settings.
+
+Criteria for stable flow:
+     Well head temp is changing at less than 2 deg per hour
+     Well head pressure is changing less than 5 psi per hour
+    BS&W at choke is less than 1%
+
+  4.   Record BS&W every 30 minutes at choke manifold, check for H2S, CO2, pH & Chlorides. (If
+
+       required take & document fluid samples)
+
+  5.   Once the cleanup has been established close the well at the tree & bleed down lines
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 63 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+  6.   Flush all lines with water (inhibitor if required) prior to rigging down.
+
+7.8 CT Acidizing Procedure
+
+    1. RIH CT to the maximum depth as per above procedure.
+
+    2.  Confirm the volume of stimulation fluids with Client representative to be mixed based on the
+
+       access interval in the perforations.
+
+    3.  Stop operations, & have a safety meeting prior to pumping:
+     Determine wind direction & nominate a safe assembly point in the event of an emergency
+     Discuss chemical & flammable hazards & state the location of the fire extinguishers, first aid kits,
+
+      eyewash stations, & other safety equipment.
+     Ensure that MSDS of all chemicals are available onsite.
+     Clearly identify maximum pressures for both coiled cubing & injection pressures. CT pump
+
+       pressure should not exceed 6,500 psi as per the line test
+     Ensure water hose is accessible in the event of an acid spill.
+
+    4.  Once CT reach to the maximum depth.
+
+    5.  Start mixing the volume of stimulation fluids as per the attached recipe.
+
+     Add Anti-Sludge Agent to the mixing solution & mix thoroughly
+
+     Add Non-Emulsifier Agent to the mixing solution & mix thoroughly
+
+     Add Iron Control Agent to fresh water & mix the solution thoroughly
+
+     Add Corrosion Inhibitor to the solution while continue mixing
+
+     Add H2S Scavenger Agent to the mixing solution & mix thoroughly
+
+      Finally, add raw HCl to the solution & continue mixing for 15 minutes
+
+    6.  Reset the volume counter & start pumping proposed acid treatment as per “Pumping Schedule”
+
+        section.
+
+    7.  Ensure good communication is kept between the pump operator & coiled tubing supervisor &
+
+        that regular check-ins are made regarding pump rate, total volume pumped etc. to ensure program
+
+         is being followed as per design.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 64 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+    8. When the CT is full of stimulation fluid & preflush is at the nozzle, close well return (CT
+
+       annulus), monitor & record the pumping rate & pressure.
+
+    9.  Start pumping proposed acid treatment as per “Pumping Schedule” section (Pump Rate, Volume
+
+     Pumped vs. POOH schedule).
+
+    10. Continue pump & squeeze a total volume of stimulation fluids while moving C.T at a controlled
+
+       speed in order to uniformly distribute acid throughout the hole.
+     During the treatment DO NOT exceed the coiled tubing circulating pressure of 6500psi as per the
+
+       pressure testing procedure & ensure frac limits are not exceeded.
+      Client Representative must confirm the maximum allowable surface treating pressure.
+
+    11. POOH CT while spot acid from TD to top of perforations.
+
+    12. Pump & spot 23 bbl. of overflush while CT RIH from top of open hole to TD. Displace CT by 25
+
+        bbl. Diesel. Finally, squeeze wellbore fluid by 28 bbl. Diesel through CT annulus.
+
+Note: If lock up is occurred, there are 3 scenarios: A) Pre-flush B) CT acidizing C) Over flush:
+
+    a)  Calculate needed volume of pre-flush from TD to lock up depth, & pump that volume in lock up
+
+       depth & after that continue pre-flush pumping according program while POOH CT.
+
+    b)  Calculate needed volume of main acid from TD to lock up depth. Pump that volume in lock up
+
+       depth & simultaneously pressurized CT annulus from surface by injecting diesel. After finishing
+
+       the required volume of main acid, continue main acid pumping according program while POOH
+
+      CT.
+
+    c)  Calculate needed volume of over flush from lock up depth to TD, & pump over flush until reach
+
+       luck up depth. Then start pumping remain volume of over flush while pressurized CT annulus.
+
+       After that POOH CT.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                    South Azadegan Oilfield Project
+
+                             AZNS-040 Acidizing Program                      Contract No:
+                                                  Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 65 of 79                    CCA/C/1401/27
+                                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+ 8.  Pumping Schedule of CT Acidizing Operation (Will Be Updated)
+
+                                Pump                                                                                                                         Avg. CT
+               Vol.            Vol.          Rate         Pumping @        Spotting ST fluids in Prod.                                                                     Speed
+   No.     (USG)        (BBL)        (BPM)             Surface                     Interval                                Comments                                    (ft/min)*
+
+                                                              Spacer, Wellbore displacement
+
+  1        CT RIH to bottom of open hole for LDC check (4,154 mMD, 13628.61 ft.MD) while pumping Diesel with minimum rate, Check the return               ---
+
+                                             Wellbore displacement, Injectivity test, & create injectivity
+
+  2      7980        190.0          1.0            Diesel                Diesel            Pumping while CT stopped @ LDC & well return is open          --
+                                                                                       Close the well return while POOH CT to a safe depth. Perform
+  3       630         15.0     Max Rate         Diesel                Diesel
+                                                                                                             injectivity test by bullheading 15 bbl. Diesel via CT annulus         --
+        If the well injectivity potential is within the acceptance criteria (injectivity rate ≥1 BPM), proceed to stage No.10 otherwise start over from stage No. 4
+                                                                       (optional as per client decision)
+
+  4       378          9.0               --         20%HCl               Diesel         RIH CT down to the BOP (4,112 mMD, 13490.81 ft.MD)
+                                                                                          while pumping9 bbl. 20%HCl followed by pumping 16 bbl.      60
+  5       672         16.0          0.8             Diesel                Diesel                       Diesel while the well return is open
+                                                                                          Stop at BOP, close the well return. Pump while CT is
+                                                           POOH from BOP (4,112 m MD, 13490.81 ft MD) to TOP
+  6       378          9.0           0.8             Diesel          20% HCl          (4039 m MD, 13,251.31 ft MD), spot 9 bbl of 20% HCl in       21.3
+                                                                                                        front of producing interval. In case of very low injectivity
+                                                                                                    open adj. choke.
+                                                                                Keep the well return close, squeeze 20% HCl by
+  7       840         20.0     Max Rate         Diesel                Diesel                                                                                                 --
+                                                                                                     bullheading 60 bbl Diesel via CT annulus
+
+If the well injectivity is improved (injectivity rate ≥1 BPM) proceed to acid wash operation (stage No. 8). If not, flow the well & check the flowing parameters while
+                                                       waiting for the client decision as the next step
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                   South Azadegan Oilfield Project
+
+                            AZNS-040 Acidizing Program                    Contract No:
+                                                 Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 66 of 79                   CCA/C/1401/27
+                               SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                                                           Acid Wash Operation
+
+ 8       966         23.0          0.9           Preflush
+                                                                    Pump while CT stopped at TOP (4039 m MD, 13,251.31 ft
+                                                                          Diesel                                                                                                 --                                                                      MD) & the well return is open
+ 9        84           2.0           0.9       15% HCl
+
+                                                                                      Close the well return, pump while CT RIH to BOP (4,112 m
+10       966         12           0.9       15% HCl              Preflush                                                                            9.0
+                                                                           MD, 13490.81 ft MD)
+                                                                    Pump while CT POOH from BOP (4,112 m MD, 13490.81
+11      1000        23.8          0.9       15% HCl         15% HCl                       ft MD) to TOP (4039 m MD, 13,251.31 ft MD)              -9.0
+
+12      2948.4        70.2          0.9       15% HCl         15% HCl
+13       966         23.0          0.9          Overflush         15% HCl        Pump while CT stopped at TOP (4039 m MD, 13,251.31 ft
+                                                                                                                                                                                                       --                                                                              MD)
+14       84           2.0           0.9            Diesel          15% HCl
+
+                                                                    Pump While CT RIH from TOP (4039 m MD, 13,251.31 ft
+15       966         23           0.9            Diesel              Overflush           MD) to BOP (4,112 m MD, 13490.81 ft MD)              9.0
+
+                                                                   Bullheading
+
+                                                           POOH CT to a safe depth. Perform bullheading 28 bbl
+16      1176        28      Max Rate         Diesel                Diesel             Diesel via CT annulus to squeeze stimulation fluids to the           --
+                                                                                                                formation
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 67 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+Note: It should be noted that well return should be closed while spotting stimulation fluids to achieve
+
+good squeezing to the formation & avoid circulation of stimulation fluids to the CT annulus.
+
+Note: In order to prevent corrosion on treating irons, equipment, & CT reel, all the equipment & CT
+
+reel must be flushed with SODA ASH aqueous solution (2 sacks in 20 bbl. fresh water) after the job &
+
+while POOH to surface.
+
+Note: In the CT speed, point of view is what exits from the nozzle of CT.
+
+Note: 1 ½” CT is supposed for the job with 25.0 bbl. as CT displacing volume.
+
+Note: While spotting 15% HCl, due to CT speed limitation, stop & spot procedure might be required.
+
+Note: Soaking time will be finalized  after real time data monitoring & production supervisor
+
+instruction. Normally zero soaking time is required upon completion of final bull-heading stage.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program   Contract No:
+                           Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 68 of 79  CCA/C/1401/27
+                  SAC      P      IIF40   DR     DE     PRG      0024      02
+
+9.  Total Consumable Requirements
+
+Total consumables for this operation are as below:
+
+     ITEM      Additive name         Code       Volume     Unit     Required       Unit
+
+         1             Diesel*                      ----          40320    USG       960            bbl.
+
+         2        HCL 32%                    ----          2486    USG       60             bbl.
+
+         3          Fresh Water*                  ----          14700    USG       350            bbl.
+
+         4        Mutual Solvent        WA-211        194     USG        4        Drum
+
+         5       Iron Reducing Agent   WA-iRED 457      162     USG        3        Drum
+
+         6        Iron Control Agent      WA-450N        54     USG        1        Drum
+
+         7     Corrosion Inhibitor Aid     WA-810        162     USG        3        Drum
+
+         8        Anti-sludge Agent     WA-711 FH       162     USG        3        Drum
+
+         9      Non-Emulsifier Agent    WA-340 FH       162     USG        3        Drum
+
+         10       Corrosion Inhibitor     WA-CI 120       166     USG        3        Drum
+
+         11       H2S Scavenger     WA-HS 1000D      162     USG        3        Drum
+
+         12       Asphaltene Solvent      ADR         2100    USG       50             bbl.
+
+         13          Caustic Soda                  ----          440          lb.         8          Sacks
+
+         14        Liquid nitrogen                 ----          7000*    USG           ----               ----
+
+         15          Anti-foam                    ----           55     USG        1        Drum
+* Based on the program 14,000 USG liquid nitrogen might be required. However, based on the history of
+previous acidizing operations on Fahliyan formations & the Client’s request, 7,000 USG liquid nitrogen
+seems sufficient enough to be considered.
+**Required diesel & fresh water are used for acidizing operation, wellbore displacements & CT
+RIH/POOH. Details are as below:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 69 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+                                                                Required      Required
+                              Stage/ Item
+                                                                          Diesel (bbl)    Water (bbl)
+
+                                    Pickling job                            0            28
+
+                 1st Wellbore Displacement (completion fluid displacement)        190            0
+
+              2nd Wellbore displacement after initial clean up (optional as
+                                                                  190            0
+                               per client decision)
+
+                     CT RIH & POOH                         70            0
+
+                              Injectivity test (Bull Heading)                    15            0
+
+                      Create injectivity by spotting 20% HCl
+                                                                   0             2
+                                               (if required)
+
+            Displace & Squeeze injectivity stimulation fluid (if required)        45            0
+
+                                Stimulation fluids                         42            45
+
+                            Post-acid reel Displacement                     25            0
+
+                   Squeeze (Bullheading) stimulation fluid                28            0
+
+                     Neutralization of flow back fluid & CT pipe               0            50
+
+                            3rd WB Displacement after flow back
+                                                                  285
+                         (Optional as per client decision)
+
+                     Displace CT with FW after pumping N2                 0            25
+
+                               Excess Volume                          70           200
+
+                            Total Volume                      960          350
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program     Contract No:
+                             Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 70 of 79    CCA/C/1401/27
+                   SAC      P      IIF40   DR     DE     PRG      0024      02
+
+10.  Appendix 1: Equipment Needed
+
+10.1 Stimulation Equipment
+
+         Equipment              Quantity                           Remarks
+
+   HP Twin Acidizing pump           2                              Equipped with DAS
+
+       Raw Acid Tank           1* 100 bbl.                             Acid Proof.
+
+          Mixing Tank             2*100 bbl.                              Acid Proof.
+
+            Diesel Tank             3*400 bbl.                Will be equipped with sight glasses for next pad
+
+                                                        Pre/over flush mixing tank. Will be equipped with sight glasses for
+          Mixing Tank             1*100 bbl.
+                                                                                   next pad
+
+         Fresh Water Tank           1*400 bbl.                Will be equipped with sight glasses for next pad
+
+     Centrifugal Pump (Delasco
+                                    2
+            pumps)
+
+     Chemical Transfer pumps
+                                        as needed
+         (Wilden Pumps)
+
+     Low pressure manifold           1 set                  Low pressure manifold for tanks
+
+       Lab Test equipment              1                   Hydrometers (ranged from 1.000 to 1.200 g/ml)
+
+             Crane                   1                                  20 Ton
+
+10.2 Coiled Tubing Equipment
+
+                 Equipment                      Quantity                    Remarks
+
+         CT truck with all accessories                1 set                    Equipped with DAS
+
+                     Crane                           1                          20 Ton
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program     Contract No:
+                             Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 71 of 79    CCA/C/1401/27
+                   SAC      P      IIF40   DR     DE     PRG      0024      02
+
+10.3 N2 Lifting Equipment
+
+                 Equipment                      Quantity                    Remarks
+
+                  N2 pump                        1 set                    Equipped with DAS
+
+                   L.N2 tanks                   As needed
+
+10.4 Well Testing Equipment
+
+                      Equipment                     Quantity               Remarks
+
+                    Choke Manifold                      1                                   ---
+
+                 TDA cabin                        1                                   ---
+
+             Emergency Shut Down (ESD) panel              1
+
+                   Surface Safety Valve (SSV)                 1
+
+             HP rigid pipes & connections            As needed
+
+                            Separator                         1                  Including accessories
+
+                                                                   100 bbl. Surge tank, equipped with
+                         Surge Tank                        1
+                                                                                                   sight glass
+
+                        Burner System                       1
+
+                   Burner water supply pump                  1
+
+                    Air compressor for burner                  2
+
+                             Flare line                   As needed
+
+                                                   ✓ pH Meter
+                                                ✓ Ranarex gravitometer
+                                                 ✓ API Hydrometer
+                    Lab test equipment               As needed       ✓ Dead Weight Tester
+                                             ✓ Centrifuge equipped with heater
+                                                ✓ Water Analysis Kit
+                                                 ✓ H2S & CO2 Tube
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program     Contract No:
+                             Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 72 of 79    CCA/C/1401/27
+                   SAC      P      IIF40   DR     DE     PRG      0024      02
+
+10.5 Slick Line Equipment
+
+                 Equipment                      Quantity                    Remarks
+
+                  Slick Line package                    1 set                    Equipped with DAS
+
+              Memory gauges                     2 set
+
+                                                                                           Profile: either 2.75" X for SSD or
+               Boom-hanger tools                    1 set
+                                                                                  2.442" XN for NGLN
+
+10.6 Oil Storage & Transfer Equipment
+
+                 Equipment                   Quantity                    Remarks
+
+                   Oil Storage tanks                 10 each                     10* 500 bbl.
+
+            Mobile Oil Transfer Truck       3 + 1 (if required) each
+
+               HP Pump                    1 Truck             Equipped with DAS & flowmeter
+
+                   Flowmeter                      1
+
+10.7 Miscellaneous
+
+                 Equipment                      Quantity                    Remarks
+
+                   Walkie-Talkie                  As needed
+
+                   Firefighting Truck                      1
+
+                  Ambulance                        1
+
+             Accommodation Conex              As required
+
+                   Diesel generator                      2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program     Contract No:
+                             Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 73 of 79    CCA/C/1401/27
+                   SAC      P      IIF40   DR     DE     PRG      0024      02
+
+11.  Appendix 2: Rig-up Layout, Coil Tubing String Details
+
+   & Speed Calculation
+
+11.1 Rig-up Layout for CT Operation
+
+ Below is the schematic rig up layout that is used for wellbore displacement, CT acidizing & N2 lifting.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                   AZNS-040 Acidizing Program     Contract No:
+                             Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 74 of 79    CCA/C/1401/27
+                   SAC      P      IIF40   DR     DE     PRG      0024      02
+
+11.2 CT Speed Calculation (Average Speed)
+
+ Note: CT speed is calculated based on the exposed interval & the treatment volume. Based on this
+
+ concept, CT speed while pumping Main Fluid is measured accordingly:
+
+ CT speed while Pumping out Preflush, Main Acid and/or Overflush is calculated as below equation:
+
+ Note: In the CT speed, point of view is what exits from the nozzle of CT.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                    South Azadegan Oilfield Project
+
+                             AZNS-040 Acidizing Program                       Contract No:
+                                                   Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 75 of 79                     CCA/C/1401/27
+                                 SAC      P      IIF40   DR     DE     PRG      0024      02
+
+11.3 Risk Analysis
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 76 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 77 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 78 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+                 AZNS-040 Acidizing Program Contract No:
+                        Project     P/T     Zone    Dep.       Disc.      Type    Sequence    Rev.       Page 79 of 79CCA/C/1401/27
+                SAC      P      IIF40   DR     DE     PRG      0024      02

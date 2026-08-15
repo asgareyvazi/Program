@@ -1,0 +1,838 @@
+# SOURCE: Clean-up and Well Test Operation Procedure.pdf
+
+📄 فایل 90 از 214  |  Clean-up and Well Test Operation Procedure.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           IPON Co.
+Clean-up and Surface Well Test Operation
+              Procedure
+
+                Doc No: IPON-WT-004
+
+ Rev       Date                   Description                    Prepared           Checked          Approved
+
+                         New Document  00      Dec-2022                                                A. A. Abbasi           Sh. Hajizadeh       Operation Mgr.
+                                       for Implementation
+
+         IF PRINTED THIS IS AN UNCONTROLLED COPY AND CURRENT STATUS MUST BE CONFIRMED
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+                       Distribution List
+
+      Management                      
+     HSEQ                          
+     HSE
+       Quality
+       Training
+     Human Recourse
+       Purchasing
+       Operation                        
+        Logistics
+       Sale and Contracts
+       Laboratory
+       Storage
+       IT
+        Project
+       Planning and Project Control
+       Kish Base                        
+
+                            Doc No: IPON-WT-004                    Page 2 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+                           INDEX
+
+1.   Objectives ........................................................................................................................... 4
+
+3.  Method ................................................................................................................................ 6
+
+  3.1.   Sequence of Events ..................................................................................................... 6
+
+  3.2.   Well(s) Properties:....................................................................................................... 6
+
+  3.3.  H2S Measurement ........................................................................................................ 7
+
+  3.4.   Sequence of Operation ................................................................................................ 8
+
+  3.5.   Clean Flow characteristics ........................................................................................ 10
+
+  3.6.  Emergency Shut Down System (ESD Panel) ............................................................ 10
+
+  3.7.   Required Data to be Gathered ................................................................................... 11
+
+  3.8.   Equipment Operational Condition ............................................................................ 11
+
+     3.8.1.   Technip Coflexip Flexible Hose ........................................................................ 11
+
+     3.8.2.   Sampling from Choke Manifold/ 3-Phase Separator ......................................... 14
+
+     3.8.3.   Velocity Limitation in Piping ............................................................................ 15
+
+     3.8.4.    Orifice Size Estimation ...................................................................................... 16
+
+     3.8.5.    Inserting Orifice Plate to Daniel Orifice Box under Pressure ............................ 17
+
+     3.8.6.   Raise Orifice Plate form Daniel Orifice Box ..................................................... 19
+
+4.  Appendices ....................................................................................................................... 20
+
+5.  Records ............................................................................................................................. 20
+
+6.  References ........................................................................................................................ 20
+
+                                         Doc No: IPON-WT-004                    Page 3 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+1. Objectives
+
+The objective of every clean-up and well test operation by WT department in IPON Co. on any
+hydrocarbon well(s) is to unload the drilling mud or any other undesired fluid such as
+completion fluid that has occupied the issued well(s) in any section till reservoir fluid represent
+in whole well sections before performing any test or being delivered to any production unit.
+This fluid is known as CLEAN flow. Clean flow criteria would be discussed in following pages.
+
+Further objective is to measure total H2S and CO2 concentration in the produced Hydrocarbons
+and to measure productivity of the reservoir to ensure how much hydrocarbon in Gas/ Oil or
+Condensate production rate will be achieved upon production start.
+
+The well clean-up/test data will also be used to evaluate the expected production performance
+of well(s) by client. In case of any acidizing operation performed on issued well(s), clean-up
+and well test operation could be used to analyze well(s) performance pre/post acidizing
+operation.
+
+2. Definitions
+
+  The following definitions are provided to help clarify and explain use of certain terms in
+
+this publication. Users should recognize that some of these terms could be used in other
+
+instances where the application or meaning may vary from the specific information provided
+
+herein.
+
+                    a.   Acidizing: The act of pumping an acidic solution into a wellbore to
+
+           remove materials from the perforations, pipe, and walls of the producing
+
+             formation or pumping the solution into formations to improve permeability.
+
+                  b.   ANSI: American National Standards Institute.
+
+                    c.   API: American Petroleum Institute.
+
+                  d.   Approved: Sanctioned, endorsed, accredited, certified, or accepted by a
+
+             duly constituted and recognized authority or agency.
+
+                    e.  ASTM: American Society for Testing and Materials.
+
+                        f.   Authorized person: A person assigned by an employer to perform or
+
+              supervise the performance of a specific type of duty or duties at the work site.
+
+                   g.   Bypass: Usually refers to a pipe connection around a valve or other
+
+              control mechanism. A bypass is installed in such cases to permit passage of fluid
+
+             through the bypass line while adjustments or repairs are made on the control that
+
+                 is bypassed.
+
+                                         Doc No: IPON-WT-004                    Page 4 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+     h.   Christmas tree: The valves and fittings assembled at the top of a
+
+ completed well to control flow of hydrocarbons and other fluids.
+
+       i.    Qualified person: A person who, by possession of a recognized degree,
+
+  certificate,  or  professional  standing,  or who by knowledge,  training,  or
+
+ experience, has successfully demonstrated the  ability to solve or resolve
+
+ problems relating to the subject matter or the work.
+
+       j.    Simultaneous operations: Two or more of the following activities:
+
+ production, drilling, completion, workover, wireline (except routine operations),
+
+ and major construction operations.
+
+     k.   Supervisor: Person who has been given the control,  direction, or
+
+ supervision of work performed by WT personnel.
+
+       l.   Emergency Shutdown Panel:  It is a pneumatically operated system,
+
+ high-pressure valve installed on the wellhead/ X-mass Tree and SSSV with
+
+ remote or automatic shutdowns. Its purpose is to provide a means to remotely
+
+ shut in the well in an emergency. An ESD is required on wells to be flowed
+
+ having H2S content greater than 100 ppm or release of one ton of sulfur per day.
+
+   m.   Service Company: Means a person, corporation or association who is
+
+ contracted to supply, sell, offer or expose for sale, lease, distribute or install a
+
+ product or service to another company, usually the owner of the worksite.
+
+     n.   Well Testing: Well Testing is an operation where a company supplies
+
+ equipment and the continuous presence of qualified test workers for the purpose
+
+ of measuring and handling wellbore effluents through production equipment.
+
+ Such operations include, but are not limited to:
+        Flowing a well to production equipment or tank
+        Flow measurement with chokes, or other devices
+         Initiating flow by swabbing coiled tubing or any such artificial lift
+
+          method.
+        Pressure testing involves applying stored energy to an assembly of
+
+            parts, in order to verify its strength, its integrity and/or its functionality.
+
+     o.   Effective choke size: The choke is called Effective, while Critical flow
+  is achieved through it. Critical flow: flow condition that occurs across the choke,
+  in which pressure fluctuations downstream of the choke cannot affect the
+ conditions upstream of the choke.  It  is good to flow under Critical flow
+
+                            Doc No: IPON-WT-004                    Page 5 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+              conditions, because any variations of pressure downstream the choke (at heater,
+               separator, oil manifold, tank, etc.), will not affect the pressure (& flow rate)
+            upstream the choke (downhole gauges recorder)
+
+3. Method
+
+   3.1.    Sequence of Events
+
+The sequence of events of every clean up and surface well test is generally as follows:
+
+Note: It must be noted that the document provided with considering that the completion
+and perforation of issued well(s) has been done already. This plan specify on clean up and
+surface well test program.
+
+     -  Rig up the High rate well test/ clean-up package.
+     -   Pressure test package as per safety regulation and rig up procedure.
+     -  Rig up the slickline/ coiled tubing. (client option)
+     -  RIH the slickline/ coiled tubing to perform desired operation. (client option)
+     -  POOH the slickline/ coiled tubing. (client option)
+     -  Open the well for initial clean up on effective choke sizes. (mandatory)
+     -   Divert through separator for measuring the rate with one effective chock size before
+       performing acid job. (client option)
+     -   Shut in the well. (client option)
+     -   Acidizing. (client option)
+     -  Open the well for post acidizing clean up on effective choke sizes. (mandatory if
+       acidizing has performed by client option)
+     -   Divert through separator for measuring the rate with several effective chock sizes.
+     -   Intermediate build up. (client option)
+     -  Perform flow after flow with several effective chock sizes. (client option)
+     -   Shut in the well.
+
+    3.2. Well(s) Properties:
+
+    Client is required to provide fluid properties of issued well(s). It will help IPON to optimize
+    the clean-up and well  test operation and reporting recorded data as well. Required
+   information is listed below;
+
+     -   Formation in-service layers
+     -   Estimated Gas Gravity
+     -   Estimated Oil/ Condensate API
+     -   Estimated Dew Point Pressure.
+     -   Estimated GOR/ CGR
+
+                                         Doc No: IPON-WT-004                    Page 6 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+     -   Estimated H2S, N2 and CO2 Concentration
+     -   Formation Water Salinity
+     -   Reservoir/ Wellhead Shut In Pressure
+     -   Estimated Reservoir/ Wellhead Temperature.
+     -  Completion Specification and Schematic.
+     -   Clean-up and well test operation time table and procedure.
+
+   3.3.   H2S Measurement
+
+H2S concentration should be carefully measured in certain periods specified by client. As it is
+one of the prime objectives of the test and would affect the Gas flow rate measuring directly.
+
+Since presence of H2S as a toxic gas required special precautions, in addition to what has been
+dictated in IPON WT operation safety regulation document, to cope with this eventuality, the
+following precautions are highlighted and should be taken.
+
+     -  A safety meeting should be held well in advance of testing when all personnel are to be
+       informed that H2S is present or likely to be present.
+     -   All testing equipment shall be certified and approved for H2S duty.
+     -  H2S and CO2 will be monitored by the H2S supervisor all the time or as the Test
+       Engineer requires for data.
+     -   Positive ignition sources will be provided for both oil and gas burners. Flare gun/
+      manual fire handling could be used to light burners if ignition system fails. (IPON Co.
+       doesn’t recommend hire manual fire handling at all)
+     -   All non–essential personnel should be taken off the rig before commencement of test.
+     -  No supply boats alongside, all vessels opposite to wind direction.
+     -    It is recommended but not mandatory that for the first 2 hrs. After opening the well all
+       personnel shall carry a 15 min BA set at all times. Thereafter personnel stationed at the
+        separator, choke and the rig floor may remove their BA sets as long as the sets are
+       positioned within 5 meters of their normal working position. (IPON WT supervisor is
+       authorized to exempt this precaution.)
+     -  A team of three persons are required when sampling. One person collects the sample
+       while another person stands upwind some distance away observing the first person,
+       ready to lend assistance should the sampler show signs of the effects of H2S gas. Third
+      guy should be H2S supervisor which mandatorily has to be present every sampling time.
+     -   Person who collect sample must wear BA when sampling and if necessary all other
+       personnel should do the same.
+     -  Rig H2S safety procedures are to be used throughout the test. If the H2S concentration
+      around the well test area exceeds 10 ppm, the test will be stopped. During testing
+       operations Two H2S supervisors should be on board to give 24 hrs. Supervision and
+       monitor levels of H2S and CO2.
+
+                                         Doc No: IPON-WT-004                    Page 7 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+   3.4.    Sequence of Operation
+
+Note: This part specifies only clean up and surface well test operation. Any simultaneous
+operation such as coiled tubing operation is not included and shall be sequenced by client.
+
+Note: client is responsible for all sequences which are not in IPON WT possession.
+
+     -  Perform final check of all the well testing equipment.
+     -   Function and pressure test burner booms check valves especially while Well Test
+       operation is going to be performed.
+     -   Attend Pre job safety meeting and issue hot work permit to commence well clean-up
+      and flaring operation.
+     -  Check all the radio and communication status.
+     -   Ensure choke manifold up stream valves are closed.
+     -  Open Manual Master Valve and manual wing valve.
+     -  Open hydraulic Master valve.
+     -  Open hydraulic wing valve.
+     -  Open IPON SSV.
+     -  Check prevailing wind direction and line up valves for flow to be directed to the
+       appropriate burner boom. The Gas manifold valve to the opposite side burner must be
+       lock closed and monitor wind speed and direction (highly recommended speed for safe
+       operation of IPON Assets and People onboard is 4 to 35 knots as per IPON WT safety
+       regulation document)
+
+Note: standby boat to stay upwind.
+
+     -   Light on propane pilots of the gas flare line on the appropriate burner boom. (According
+        to the wind direction)
+     -   Start diesel pilot system.
+     -   Start water curtain cooling system. (Note: Water screen system to be started after diesel
+        pilots confirmed to be on)Ensure correct valve line up and lock open the gas manifold
+        to downwind burner boom.
+
+Note: First flow should be started in the day light. (Safety issue)
+
+     -  Open the well at choke manifold on adjustable choke to burner boom.
+
+Note: The increment of the choke size will be advised by client respecting the equipment
+limitations. (Before increasing the chock size rate must be correlated)
+
+Note: Start of the methanol/ MEG injection if needed (The time and the value of injection
+will be advised by WT supervisor).
+
+     -  Monitor and record wellhead and downstream pressure continuously.
+     -  Measure BS&W and produced water salinity to monitor the clean-up progress. Ensure
+
+                                         Doc No: IPON-WT-004                    Page 8 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+        salinity measures by Mud Eng.
+     -  Record and monitor annulus pressure during the Clean-up period. (Max & Min of
+       annulus pressure needs to be instructed by company man)
+     -   Gradually increase adjustable choke to clean up well bore according the stability of
+    BS&W on each choke size and equipment limitation.
+     -   Gradually increase the choke size to obtain maximum safe gas flow rate.
+
+Note: perform gas rate estimation under critical condition continuously to confirm flow rate.
+
+Note: Perform the gas velocity estimation in order to respect the pipe limitation.
+
+Note: Increasing of the adjustable choke size should be done till the maximum safe choke
+size achieved.
+
+     -   Divert flow to selected fixed choke and continue flow the well to achieve BS&W less
+       than 0.5% sediment.
+     -  Once the well is clean divert flow to separator for measuring the rate. (client option)
+     -   Shut in the well. (Client option)
+     -   Acidizing. (Client option)
+     -   Clean up. (Above Sequences should be followed and any changes must be advised by
+     IPON WT Supervisor considering PH should be more than 5)
+     -   Shut in the well at the choke manifold and Monitor the well head pressure build up.
+        (Client option)
+     -  Open the well for flow after flow with several effective different choke sizes. (be
+       advised that one of choke sizes should be similar to the size before acidizing)
+     -   Shut the well for final build up.
+     -   Shut the burner boom pilot systems.
+     -   Close manual master valve.
+     -   After completion of the build-up period, start the pilot system as previous procedure in
+        this program following by all the safety precautions.
+     -  Open choke manifold to bleed off the pressure to 0 psi.
+     -   Close choke manifold.
+     -   Flush the upstream line through IPON gas flare line.
+     -   Stop flushing after confirming the gas flare is off.
+     -   Close HMV.
+     -   Close wing valve.
+
+   Note: Caused by the nature of IPON Well Test equipment for being used in WT
+    operation, any other assignment such as long term production which might put WT
+   equipment in danger of damage shall not be allowed. IPON WT supervisor is fully
+    responsible for respecting this matter.
+
+                                         Doc No: IPON-WT-004                    Page 9 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+   3.5.    Clean Flow characteristics
+
+Considering above Note and regular well test and clean-up operations practice, all issued wells
+shall be cleaned first, prior to start well test operation. As it is obvious, any undesired fluid in
+production lines to refineries or onshore production facilities is more undesired for IPON
+surface well test utilities. Drilling mud, completion fluid, pre/post flush fluid while acidizing
+or any other injection operation into a well is consider as undesired fluid.
+
+Thus the purpose of clean-up operation prior to perform well test operation or deliver issued
+well(s) to production line is to displace and evacuate undesired fluid as far as possible in
+wellbore and replace it with reservoir representative fluid.
+
+Accordingly clean-up operation shall take place in greater effective choke sizes than is decided
+to pass flow through separator to measure Gas and Oil/ Condensate production rate.
+
+Criteria for clean flow specified for IPON WT department as follow;
+
+                  BS&W at the choke manifold less than client specified amount.
+                   PH above 5 (after stimulation)
+                   Stable Flow.
+
+Following criteria shall be used to determine when stable flow has been achieved for clean-up
+phase and for each flow rate period. The period of stable flow can only commence when:
+
+                   Well head temperature changes less than 2 deg. F per hour.
+                   Well head pressure changes less than 5 psi per hour
+                  BS&W at choke should be less than client specified amount.
+
+WT supervisor onboard is not allowed to pass flow through separator while the flow is not
+clean according to what has been presented above and in rig up and run procedures, to protect
+WT equipment specially separator from any probable damage which might be occur by
+unknown undesired fluid in flow.
+
+   3.6.   Emergency Shut Down System (ESD Panel)
+
+The Emergency Shutdown (ESD) system is the primary safety system in the event of an
+uncontrolled escape of hydrocarbons at surface. The system consists of a hydraulically and
+pneumatically operated to manage three actuators simultaneously (wing valve, master valve
+and WT SSV). Panel should be equipped with number of remotely air operated pilot valves
+installed in designed areas. When a pilot or the main valve in the panel is actuated, it causes a
+loss of air pressure in turn dropping out the main hydraulic valve which releases the pressure
+from the flow head ESD valve actuator.
+
+Other pilots may be high or low pressure actuated pilots installed at critical points in the system
+
+                                         Doc No: IPON-WT-004                    Page 10 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+to protect equipment from over-pressure or under pressure which would indicate an upstream
+valve closure, blockage or leak etc. The system is also actuated if a hose is cut or melted by
+heat from a fire.
+
+   3.7.    Required Data to be Gathered
+
+The following is the procedure of data list gathering while clean-up and well test operation is
+in progress:
+
+     -  Monitor all data points with the electronic surface data acquisition system.
+     -  Take manual and manifold readings in specified timing requested by client during the
+       well test and as directed during clean-up. (in case of software failure)
+     -  Take manual H2S and CO2 Dragger readings in specified timing requested by client
+       during the cleanup.
+     -   Maintain detailed records on all well flow characteristics and operational changes with
+        description.
+     -  Take BS&W samples in specified timing requested by client.
+     -  Mud logger could be asked to perform laboratory analysis on water for chlorides and
+      any other ions such as Ca, Mg, sulphates, pH and density. (client option)
+     -  Record the specific gravity of the gas, oil and condensate while flow is passed through
+       separator before lowering the orifice plate.
+     -   Collect samples of true produced formation water in plastic or pressurized containers,
+          if instructed by Client for laboratory analysis. (client option)
+     -   Foreign or unidentified materials produced from the well should be kept in a marked
+      up plastic sample packet for onshore analysis.
+     -   All samples must be clearly identified and logged.
+
+   3.8.    Equipment Operational Condition
+
+       3.8.1. Technip Coflexip Flexible Hose
+
+     -  Note that crushing resistance of Coflexip flexible pipes is similar to API rigid pipe of
+       the same design pressure.
+
+                                         Doc No: IPON-WT-004                    Page 11 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+      IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+-  Make sure MBR (Minimum Bending Radius) is never exceed while rig up and during
+    operation.
+
+-  Check Coflexip competency by comparing fluid is going to pass through  it with
+   following table. Get Client Rep. onboard approve before opening the well.
+
+-   Inform Client Rep. onboard about flow rate limitation of in-service Coflexip. The
+   maximum continuous flow rate is allowed to pass by max 15 m/s (49 ft. /s) velocity.
+
+-  As per API 014E, Recommended Practice for Design and Installation of Offshore
+   Production Platform Piping Systems, Fluid velocity inside Coflexip can be calculated
+    as per below correlation;
+
+         60 Z QgT
+   Vg=
+                d12 P
+   Vg: Gas Velocity, (ft. /s)
+    d1: pipe Inside Diameter, inch
+   Qg: Gas Flow Rate, (MMSCFD @ 14.7 psi and 60°F
+   T: operating Temperature, (°R)
+    P: Operating Pressure, (psi)
+   Z: Gas Compressibility Factor
+
+-  Flow rate (Qg) could be estimated by Aramco Correlation presented in Section 3.8.3.1.
+
+                                     Doc No: IPON-WT-004                    Page 12 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+                            Doc No: IPON-WT-004                    Page 13 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+       3.8.2. Sampling from Choke Manifold/ 3-Phase Separator
+
+                3.8.2.1.  Sampling from Choke Manifold
+
+There are at least 3 sampling port from choke manifold. One is on Adj. path, another one is
+located on fix path and third one should be installed on outlet path of choke manifold which
+can cover Adj. or fix path in case of any non-conformity.
+
+To take sample as  it is cleared on IPON safety regulation regarding well test operation
+document and also mentioned in this document as well, no matter from which port on choke
+manifold or separator sampling has to be done, a team of three persons are required when
+sampling. One person collects the sample while another person stands upwind some distance
+away observing the first person, ready to lend assistance should the sampler show signs of the
+effects of H2S gas. Third guy should be H2S supervisor which mandatorily has to be present
+every sampling time. Person who collect sample must wear BA when sampling and if necessary
+all other personnel should do the same.
+
+To get sample from any port on choke manifold, note that 100 ml of produced liquid inside
+effluent shall be collected. Collected sample get analyze in lab cabin to determine BS&W
+(basic sediment and water) by applying centrifugal force in centrifuge apparatus to divide
+collected liquid to sediment, water and hydrocarbon liquid (oil or condensate).
+
+According to centrifugal force concept, solids would be sediment in bottom, water is a medium
+media and hydrocarbon liquid is an upper media.
+
+                3.8.2.2.  Sampling from 3-Phase Separator
+
+In test procedure while effluent is passed through separator, depends on what kind of sample
+is required, several sampling port are installed on separator lines.
+
+To get gas sample for analyzing gas specific gravity and H2S/ CO2 contents, gaspillow should
+be used. Prior to use, gaspillow must be checked visually for any tear or damage. After
+sampling, specific gravity will be measured by RANAREX apparatus. See Surface Well
+Testing Equipment Run Instruction, section 3.15.2.
+
+Also there are at least 2 sample points on oil and water outlet lines for sampling from
+hydrocarbon and water representative for measuring liquid API.
+
+For pressurized sampling from oil, gas and water representative, same ports could be used just
+by certified specialist.
+
+                                         Doc No: IPON-WT-004                    Page 14 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+       3.8.3. Velocity Limitation in Piping
+
+                3.8.3.1.  Technip Coflon Type Coflexip
+
+First WT supervisor or TDA specialist onboard has to inform Client Rep. onboard about
+limitation of in-service equipment like Coflexip, Separator and Burner Boom`s capacity to burn
+effluent safely. The limitation is highlighted in WT rig up procedure and WT equipment run
+procedure documents.
+
+For Coflexip you shall inform client that the maximum continuous flow rate is allowed to pass
+by max 15 m/s (49 ft. /s) velocity. As per API 014E, Recommended Practice for Design and
+Installation of Offshore Production Platform Piping Systems, Fluid velocity inside Coflexip
+can be calculated as per below correlation;
+
+         60 Z QgT
+   Vg=
+                d12 P
+   Vg: Gas Velocity, (ft. /s)
+    d1: pipe Inside Diameter, inch
+   Qg: Gas Flow Rate, (MMSCFD @ 14.7 psi and 60°F
+   T: operating Temperature, (°R)
+    P: Operating Pressure, (psi)
+   Z: Gas Compressibility Factor
+
+Estimate flow rate to make sure Coflexip velocity limitation never exceed is essential. We
+prepare to use Aramco correlation shown below.
+
+While;
+
+Qg: Gas Flow Rate, MMSCFD
+
+WHP: Well Head Pressure, psi
+
+WHT: Well Head Temperature, °F
+
+S.G: Gas Specific Gravity.
+
+And Wet Factor is a constant which would be provided by Client.
+
+                3.8.3.2.   Erosional Velocity Measurement in Downstream Pipe
+
+                      lines
+
+Another limitation regarding velocity is in downstream pipe lines. Velocity could be measured
+
+                                         Doc No: IPON-WT-004                    Page 15 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+using above correlation but one important parameter known as “Erosion Velocity” shall be
+consider as well.
+
+Erosion velocity is velocity limitation which by fluid velocity exceeding in pipe lines would
+cause erosion. As per API 014E erosion velocity might be measured as per below;
+
+   Ve= C/ √𝜌m
+   Ve: Fluid Erosion Velocity (ft. /s)
+   C: Empirical Constant
+   𝜌m: Gas/Liquid mixture destiny at flowing pressure and temperature (lb./ft3)
+
+Accordingly 𝜌m could be measured as;
+
+         12409 𝑆𝑙𝑃+2.7𝑅 𝑆𝑔 𝑃   𝜌m=             198.7 𝑃+𝑅𝑇𝑍
+    P: Operating Pressure, (psi)
+    Sl: liquid Specific Gravity @ standard condition
+   R: Gas/ Liquid Ratio, (ft3/bbl. @ standard condition)
+   T: Operating temperature, (°R)
+    Sg: Gas Specific Gravity (air=1 @ standard condition)
+   Z: Gas Compressibility Factor
+
+Regarding “C” Empirical Constant, industry experience indicates that for solid-free fluids
+valves of C=100 for continuous service and C=125 for intermittent service are conservative.
+For solid-free fluids where corrosion is not anticipated or when corrosion is controlled by
+inhibition or by employing corrosion resistant alloys, valves of C=150 to 200 may be used for
+continuous service; valves up to 250 have been used successfully intermittent service. If solid
+production is anticipated, fluid velocities should be significantly reduced.
+
+Where solids and/or corrosive contaminate is present or where C valves higher than 100 for
+continuous service are used, periodic survey to assess pipe wall thickness should be considered.
+
+Also note that according to Well Testing and Fluid Handling, an Industry Recommended
+Practice (IRP) for the Canadian Oil and Gas Industry Volume 4- 2012 section 4.0.13.18,
+Maximum gas velocity inside downstream piping on sweet gas and sour wells which contains
+less than 1% H2S, must not exceed 331.4 m/s (1087 ft./s). also gas velocity inside downstream
+piping on sour gas with H2S greater than 1% should not exceed 95.4 m/s (313 ft./s) or be less
+than 10.6 m/s (35 ft./s).
+
+       3.8.4. Orifice Size Estimation
+
+Estimate flow rate to make sure estimate correct orifice size to be inserted in Daniel orifice box
+is essential. We prepare to use Aramco correlation shown before. Also note that to determine
+orifice size for Daniel orifice box, a try-and-error procedure should be followed. Flow Rate has
+an essential role in orifice size determination. Recommended correlation to estimate flow rate
+
+                                         Doc No: IPON-WT-004                    Page 16 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+by Halliburton Co. is Aramco.
+
+By estimating flow rate, orifice size could be estimated considering actual situation onboard.
+It shall be reminded that differential range for Senior Daniel Orifice Box in IPON Co. separator
+is 400 inch H2O. Acceptable orifice size is the one who can provide differential pressure in 170
+to 260 inch H2O range. Use Daniel Orifice Flow Calculator to estimate orifice size more
+accurate. By filling temperature, operating pressure, Zf (if required), Gas specific gravity,
+nominal pipe size and estimated flow rate, recommended orifice size will be obtained.
+
+After choosing orifice, it would be inserted to Daniel orifice box to find out about real result
+and differential pressure which will be provided. If actual differential pressure is close to what
+was estimated already, the size is confirmed to remain in box and actual rate will be recorded.
+But if it`s not what expected, the procedure shall be re-done again.
+
+       3.8.5. Inserting Orifice Plate to Daniel Orifice Box under Pressure
+
+     -  Never place your hand directly above Daniel orifice box.
+     -   Equalize Barton instrumentation by opening Hi-Lo valves & drain both anti-moisture
+
+                                         Doc No: IPON-WT-004                    Page 17 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+      IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+     filters by opening drain valves before starting any work on Daniel orifice box to avoid
+   any damage to differential pressure cell.
+-  To avoid any damage to DP Cell by entering probable existing water from pressure test,
+    before opening manifold valves to DP Cell, open drain valves to fill it with gas.
+-  Then close drain valve on manifold and open valves toward DP Cell. Open both anti-
+   moisture filters till gas come out and then close both valves.
+-   Insert plate holder with orifice into upper chamber.
+-  Lower orifice plate holder below sealing bar gasket level by rotating upper plate carrier
+    shaft clockwise.
+-  Mount new sealing bar gasket, sealing and clamping bar and tighten clamping bar
+   screws methodically. Then close bleeder valve.
+-  Open equalizer valve and check for leakage.
+-  Open slide valve by turning valve shaft clockwise.
+-   Rotate upper plate carrier shaft clockwise and lower plate carrier till a rotation of lower
+    carrier shaft is seen.
+-   Continue lowering plate carrier by rotating lower plate shaft clockwise  till further
+    rotation is impossible.
+-   Close slide valve by rotating slide valve shaft counterclockwise.
+-   Close equalizing valve.
+-  Open bleeder valve to bleed off pressure in upper chamber and also check if slide valve
+    is holding.
+
+                                     Doc No: IPON-WT-004                    Page 18 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+      IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+-   Reclose bleeder valve.
+
+   3.8.6. Raise Orifice Plate form Daniel Orifice Box
+
+-  Never place your hand directly above the Daniel orifice box.
+-   Equalize Barton instrumentation before starting any work on Daniel orifice box to avoid
+   any damage to differential pressure cell.
+-  Make sure bleeder valve is closed.
+-  Open equalizer valve and check for leakage at sealing bar gasket.
+-  Open slide valve.
+-   Rotate lower plate carrier shaft counterclockwise till rotation of upper plate carrier of
+    shaft is observed.
+-   Continue raising plate carrier by rotating upper plate carrier shaft counterclockwise till
+    further rotation is impossible.
+-   Close slide valve.
+-   Close equalizer valve.
+-  Open bleeder valve and bleed off pressure and make sure slide valve is not leaking.
+-  Loosen clamping bar screws by about 2 turns but don’t remove clamp bar itself.
+-  Turn upper plate carrier shaft counterclockwise and lift sealing bar gasket off its seat to
+   make sure no pressure is trapped.
+-  Remove clamp bar, then sealing bar and bar gasket.
+-   Lift plate holder by turning upper plate carrier shaft counterclockwise and plate for
+   deformation and seal ring.
+
+                                     Doc No: IPON-WT-004                    Page 19 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+4. Appendices
+
+N/R
+
+5. Records
+
+                                                      Retention Time       Disposition
+ Record Title             Code       Resp.
+                                                     Current   Morgue   Method
+ ----------                                           -----                   -------             -------         --------         ----------
+
+6. References
+
+     -  IPON WT Equipment Inspection & Maintenance Manual
+     -  IPON WT Equipment Run Instruction
+     -  IPON WT Reporting Procedure
+     -  IPON WT safety regulation
+     -  IPON WT Rig Up Instruction
+     -   Coflexip- Flexible Steel Pipe for Drilling and Service Applications Catalog.
+     -   Coflexip- Flexible Steel Pipe for Drilling and Service Applications User Guide.
+     -  Data book for WME-12-EQ-01133 SSV _WOM.
+     -  Data book for WME-12-EQ-01133 Choke Manifold_ WOM.
+     -  MANUFACTURING DATA BOOK 1440 PSIG TEST SEPARATOR
+     -  MANUFACTURING DATA BOOK 150 PSI 100 BBL Surge Tank.
+     -  MANUFACTURING DATA BOOK SUPPLY OF WELL TEST ACCESSORIES.
+     -  MANUFACTURING DATA BOOK 6” FIG206, 1440  PSI, 2 VALVE GAS
+     MANIFOLD
+     -  MANUFACTURING DATA BOOK CRUDE TRANSFER PUMP SKID.
+     -  MANUFACTURING DATA BOOK 1440 PSI WP 5 Valve Oil Manifold Skid.
+     -  MANUFACTURING DATA BOOK of MIKODA Flanged Type Burner Boom.
+     -  MANUFACTURING DATA BOOK of SPARKLET union Type Burner Boom.
+     -   Standard Pneumatic Test Procedure Requirements for Piping Systems AB-522 Edition
+        2, Rev. 0
+     -  API Specification 6A Specification for Wellhead and Christmas Tree Equipment,
+       Eighteenth Edition, May 2002
+     -  API PR 54 for Occupational Safety for Oil and Gas Well Drilling and Servicing
+       Operations
+
+                                         Doc No: IPON-WT-004                    Page 20 of 21
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+      IPON Co. Clean-up and Surface Well Test Operation Procedure
+
+-  API RECOMMENDED PRACTICE 9B, Recommended Practice on Application, Care,
+   and Use of Wire Rope for Oilfield Service ELEVENTH EDITION, AUGUST 2002
+-  API RECOMMENDED PRACTICE 17B, Recommended Practice for Flexible Pipe
+  THIRD EDITION, MARCH 2002
+-  API-002D Operation and maintenance of offshore cranes
+-   API-012J__Specification for Oil and Gas Separators
+-   British pressure test safety instruction, HSE Executive, 1998
+-   British Safety requirements for pressure testing Guidance Note GS4 (Fourth edition)
+  HSE Executive
+-  WELL TESTING AND FLUID HANDLING AN INDUSTRY RECOMMENDED
+  PRACTICE (IRP) FOR THE CANADIAN OIL AND GAS INDUSTRY VOLUME 4
+   2012
+-  Well integrity in drilling and well operations NORSOK STANDARD D-010 Rev. 3,
+   August 2004
+-  IPON Pressure Test Instruction, WI-HQ-002-00
+
+                                     Doc No: IPON-WT-004                    Page 21 of 21

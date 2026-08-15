@@ -1,0 +1,1967 @@
+# SOURCE: Well Testing Program of Azar-8_3.pdf
+
+📄 فایل 213 از 214  |  Well Testing Program of Azar-8_3.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            W ell Testing Program of AZAR -08
+
+         Well Testing Program
+
+             AZAR-08
+
+         Perforation, Cleanup, Well Testing, PVT Sampling
+
+                                 Prepared for:
+
+    Sarvak Azar Engineering & Development (SAED) Company
+
+                                 Prepared by:
+
+           Overseas Technical Service Kish Co. (OTS)
+
+    Document             Prepared by       Reviewed by:        Approved by:
+
+Well Testing Program
+
+   Well AZAR-08
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+                     Table of Contents
+
+1 Basic Information ........................................................................................................................... 4
+2 Test Objectives and Requirements ................................................................................................. 5
+     2.1 Testing Objectives ............................................................................................................... 5
+     2.2 Testing Requirements .......................................................................................................... 6
+3 Well Test Procedure ....................................................................................................................... 6
+     3.1 Layout Surface Equipment and Pressure Test ..................................................................... 6
+     3.2 Flex Trip ............................................................................................................................... 8
+     3.3 WCP Requirements ............................................................................................................. 9
+     3.4 RIH Wireline for WCP Perforation ..................................................................................... 10
+     3.5 DST Tools Design ............................................................................................................... 11
+     3.6 Function Test and Pressure Test for DST Tools .................................................................. 11
+     3.7 Run DST Testing String ....................................................................................................... 12
+     3.8 Space out Test String and Set Packer................................................................................. 13
+     3.9 Pressure Test of Test Tree, High Pressure Pipe and Choke Manifold ................................. 13
+     3.10 Initial Clean up ................................................................................................................ 13
+     3.11 Initial Flow and Build-up ................................................................................................. 14
+     3.12 Matrix Acidizing (not confirmed, advised by Client’s Supervisor) ................................... 14
+     3.13 Post Acid Clean Up .......................................................................................................... 14
+     3.14 Main flow ........................................................................................................................ 15
+     3.15 Final build-up .................................................................................................................. 16
+     3.16 Take down-hole PVT samples .......................................................................................... 16
+     3.17 Kill Well, Unset and POOH ............................................................................................... 17
+     3.19 Set Bridge Plug (Done by Company)................................................................................ 17
+4 Hazard Analysis and Precaution Measures .................................................................................. 17
+5 Health, Safety and Environment (HSE) ......................................................................................... 19
+     5.1 Safety Equipment Requirement ........................................................................................ 19
+     5.2 Hydrogen Sulfide (H2S) ..................................................................................................... 20
+     5.3 OTS Well Testing H2S Emergency Plan .............................................................................. 21
+     5.4 OTS Emergency Response Plan ......................................................................................... 22
+6 WCP Program ............................................................................................................................... 23
+     6.1 Perforating Tools and Equipment Information .................................................................. 23
+          6.1.1 Perforating Guns Information (Recommended as plan A to B) .............................. 23
+          6.1.2 Firing head design .................................................................................................. 23
+          6.1.3 OTS well head pressure control equipment (WPCE) .............................................. 23
+     6.2 WCP Operation Procedure ................................................................................................ 23
+          6.2.1 WCP Pre-requisites and shop preparation ............................................................. 23
+     6.3 Mobilization to Well-site ................................................................................................... 24
+     6.4 Well-site job ...................................................................................................................... 25
+          6.4.1 Pre-job Preparation of WCP: .................................................................................. 25
+          6.4.2 Pre-job Safety meeting and requirements ............................................................. 25
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+          6.4.3 Loading Gun ........................................................................................................... 26
+          6.4.4 Installation and assembly of the firing head .......................................................... 27
+          6.4.5 RIG UP .................................................................................................................... 28
+          6.4.6 Depth control ......................................................................................................... 28
+          6.4.7 Gun Firing ............................................................................................................... 28
+          6.4.8 Gun Retrieval .......................................................................................................... 29
+          6.4.9 Rig down ................................................................................................................. 30
+     6.5 Job safety analysis ............................................................................................................. 30
+Appendix 1 SURFACE EQUIPMENT LAYOUT .................................................................................... 35
+Appendix 2 FLEX TRIP STRING ......................................................................................................... 36
+Appendix 3 APR TESTING STRING ................................................................................................... 37
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+1 Basic Information
+
+Azar oil field is located in west of Iran in Ilam province and Anaran block. This field is shared with
+
+Iraq’s Badra oil field. Azar structure was discovered by 2D seismic acquisition named ANAR‐600
+
+by NIOC in 1970’s. First exploration well was drilled in this field in 2003. By drilling the second
+
+well in 2004‐2005 as well as 3D seismic which was conducted in that area and Changuleh in
+
+2007, the Sarvak reservoir was found to be commercial for production. Development activities
+
+started in July 2013 by drilling well AZR‐003 followed by other delineation and development
+
+wells.
+
+                                Table 1 General Information
+
+                                E: 609,137 m
+      Well Location                                      Rig                O2
+                         N: 3,651, 694 m
+
+         RTE               7.8m                Total Depth            4672m
+
+ Method of Completion     Cased Hole        Reservoir Fluid (API)          33 API
+
+        BHT               N/A                SHT                 N/A
+
+       WHSIP              ~3000psi           WHFP            1000~2000 psi
+
+      H2S (ppm)          40000-50000         CO2 (ppm)             ~ 30000
+
+    Average Porosity           9 %          Average Permeability          1 md
+
+    Reservoir Pressure      6800-7350 psi       Exposed Reservoir        4104-4549 m
+
+    Res. rock break out     12000-14000psi        Res. Rock Type        Carbonate Type 2
+
+Note：BHT of Azar-11 is 248℉，but no confirmed BHT of Azar-8 is available.
+
+                                Table 2 Casing Information
+
+Casing size                   Depth(m)          ID     Weight    Burst   Collapse   Yield
+             Grade
+     "                   From       to         "         lb/ft       psi       psi      klbs
+
+  9 5/8        L-80          -2.5       33.7     8.535     53.5    7,927    6,620   1,244
+
+  9 5/8        L-80         33.7     1049.3    8.755     43.5    6,327    3,812   1,005
+
+  9 5/8        L-80       1049.3    1900.0    8.535     53.5    7,927    6,620   1,244
+
+  9 5/8      Q-125       1900.0    2467.4    8.535     53.5    12,386   9,037   1,943
+
+  9 5/8      Q-125       2467.4    3507.0    8.435     58.4    13,522   11,196   2,109
+
+    7        Q-125       3346.7    3729.8    6.184     29.0    12,750   9,110   1,056
+
+    7     13%Cr, 110ksi   3729.8    3934.0    6.184     29.0    11,220   9,300    929
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+                                Table 1 Perforation Interval
+
+ Per. No.    Start (m)      Stop (m)     Thickness (m)       DST No.         Total Perf Thick. (m)
+
+    1        4104        4107          3
+                                                         DST-6                7
+    2        4126        4130          4
+
+    3        4163        4187          24
+
+    4       4190.5       4195.5          5
+
+    5       4201.5       4204            2.5             DST-5                39.5
+
+    6        4213        4217          4
+
+    7       4234.5       4238.5          4
+
+    8        4386        4392.5           6.5
+                                                         DST-4                9
+    9        4406        4408.5           2.5
+
+   10       4418.5       4448           29.5              DST-3               29.5
+
+   11       4458        4466.5           8.5
+
+   12       4469.5       4474            4.5
+                                                         DST-2               16
+   13       4477        4480          3
+
+   14       4494        4498          4
+
+   15       4499        4502          3
+
+   16       4508        4511          3
+                                                         DST-1                26.5
+   17       4513        4520          7
+
+   18       4539.5       4549            9.5
+
+                  Total                     127.5
+
+2 Test Objectives and Requirements
+
+2.1 Testing Objectives
+
+Cased hole test program is important to confirm each reservoir’s productivity and evaluate its
+
+parameters. For the Well AZAR-08, the main objectives of testing are as follows:
+
+      Determination of reservoir’s fluid property,
+
+      Determination of reservoir’s productivity,
+
+      Detection of initial reservoir pressure and temperature,
+
+      Collection of down hole representative fluid samples for PVT analysis,
+
+      Collection of surface samples of separated oil, gas and water for analysis,
+
+      Calculation of the skin factor or formation damage ratio,
+
+      Evaluation of formation characteristics (permeability, fractures and layering).
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+2.2 Testing Requirements
+
+      Before running the DST String, require performance clean up hole, running scraper to
+          scraping 7” casing to 3870m by three times, and circulate to make well bore clean.
+
+      After perforation, an initial cleanup is conducted on 16/64” to 48/64” adj. choke, RIH CT
+        and displace fluid column by diesel if the well doesn’t flow, and perform injectivity test.
+
+     The initial flow test is conducted on 48/64” fixed choke and measure the oil & gas rate,
+        and then shut in the well from choke manifold for initial build up, surface sampling may
+        be needed during flow test. The duration of initial flow test and build up will be
+         decided on site.
+
+      Matrix acidizing will be required if necessary. CTU is recommended to be used for AC if
+         the operation of bullhead is unsuccessful, which will be followed by post acid clean up
+        on 16/64” - 48/64” adj. choke.
+
+     Main flow: Flowing the well on 3 choke size (32/64”、40/64” and 48/64”) and taking
+          surface dead oil sample and gas sample while flowing on 48/64” choke.
+
+      Shut in the well from down hole for final build up, the duration depends on the
+         requirement of client.
+
+     Down hole PVT sampling will be conducted after final build while flowing the well
+         through 16/64” choke.
+
+       Kill the well and POOH F.B. DST string.
+
+      Set bridge plug and prepare for the nest perforation zone.
+
+3 Well Test Procedure
+
+3.1 Layout Surface Equipment and Pressure Test
+
+  General points regarding rig-up of surface well test equipment are as follows:
+
+      Rig-up surface well test equipment package as per layout plan (Refer to Appendix 1
+        SURFCE EQUIPMENT LAYOUT).
+
+     Where pipe work crosses walkways, pipe should be made clearly visible (with danger
+         tape) and tripping hazards minimized. Pipe work should be close to the ground.
+
+      Tag the instrument air supply valve to the separator to ensure continuous supply so
+          that testing operations are not interrupted unintentional.
+
+      Erect barriers, display pressure test signs and make announcements to warn personnel
+       when pressure testing is about to commence.
+
+      Surface equipment should be tested pressure and record data.
+
+      During pressure testing check the following:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+         -The orifice meter sliding valve holds pressure
+
+         -The choke manifold isolation valves are tested independently to ensure choke changes
+        and inspections can be made.
+
+     The following should be included as part of pressure  testing surface well  test
+         equipment:
+
+             - Flush all surface lines and equipment from rig floor through burner heads and gas
+           lines
+
+             - P/T entire system to 1,000 psi against flare pit (if possible).
+
+             - P/T against oil and gas manifold to 1,000 psi.
+
+             - P/T separator gas outlet & bypass, oil outlet & bypass plus water outlet to 1,000 psi.
+
+             - P/T upstream of choke manifold & HP side of choke manifold to the 7,000 psi.
+
+             - P/T downstream of choke manifold to separator inlet and oil & gas bypass to 1,000
+           psi.
+
+At the end of pressure testing ensure all barriers and signs are removed. Also inform personnel by
+the PA system and sign off permits.
+
+  Choke Manifold
+
+Prepare the choke manifold as outlined below:
+
+      Pressure test the choke manifold as per procedures to 7,000 psi.
+
+      Pressure is to be bled-off between each test.
+
+     Check all unions and flange connections.
+
+      Prepare the necessary fixed choke and check condition.
+
+     On completion of pressure testing  all valves should be left open. Drift the choke
+         manifold to 3.00″.
+
+  Function Test for ESD System
+
+Requirements and points to note for the ESD system are as follows:
+
+     Remote shutdown points for the ESD system shall be installed on the rig floor, at the
+        choke manifold, at the test separator and outside the lab cabin.
+
+     The separator instrument air supply will be an integral component of the ESD system.
+          Air supply interruptions will activate the ESD system and shut-in the well at the flow
+            line.
+
+      Function test HP / LP pilots using a hand pump (if applicable).
+
+     The ESD system is to be function tested, and record in the Well Test Report.
+
+  Surface Sampling Equipment
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+      Prepare enough sample bottles.
+
+     Gas sample bottles need to be evacuated prior to commencing sampling operations.
+
+      Ensure all sampling equipment is fitted with earthed straps.
+
+      All sample containers are to be clearly labeled and a sample  list produced. Labels
+         should include client company name, well name, test interval, test number, flow period,
+        sample number, sampling date & time, sampling point and sample type/nature.
+Note:
+All sampling containers are to be earthed prior to and during the taking of hydrocarbon samples,
+pressurized or atmospheric.
+
+   Calibration and Check
+
+The following calibration checks of surface well test equipment should be carried out:
+
+      Calibrate differential pressure gauges using a manometer.
+
+      Surface pressure gauges shall be calibrated prior to mobilization using a dead weight
+           tester.
+
+     Check flow meter calibrations by pumping water through each meter. Obtain two
+          consistent results for each meter.
+
+     Check condition of measuring instruments, etc. thermometers, hydrometers etc.
+
+      Ensure all orifice plates & choke beans are in good condition and an adequate supply is
+        on hand.
+
+  Pressure Test for Surface Test Equipment
+
+Test all surface test equipment and surface test lines upstream of choke manifold to 7000psi step
+by step and hold 15 minutes for each step.
+
+  Connect Test Line to Test tree and pressure test lines.
+
+      Line up the surface test line to one producing wing of Test tree, line up production wing
+         to flange.
+
+     Check SSV (Actuator) open  if  still closed, Flush flow line as per Service Company’s
+         procedure.
+
+      Pressure test surface equipment and line according to service company’s testing
+         procedure, pressure test upstream 7,000psi for 15minutes (from Test tree to choke
+          manifold), downstream testing as per well testing company instruction.
+
+3.2 Flex Trip
+
+  Flex trip RIH Procedure (Refer to Appendix 2 FLEX TRIP STRING)
+
+      Safety meeting should be held on the rig prior to picking up the string.
+
+      Pick up TSTV and RD circulating valve along with mule shoe at bottom to avoid damage
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+         to tool pin connection.
+
+      Pick up 1 Joint of tubing and make it up to the X over on top of RD circulating valve.
+
+      Pressure test against TSTV to 8000 psi for 10 min. Follow TSTV pressure test procedure
+         below.
+
+      During BHA pressure test, string should be latched position in elevator.
+
+      Continue pick up tubing and RIH. Pressure test tubing while running in hole as required
+        by test engineer.
+
+     Once the total number of tubing has been run in hole and pressure test is over. Close
+         pipe rams (keep the TIW valve open to check for any returns) pressure up annulus to
+         designed rupture disc pressure (1000 psi) to activate RD safety circulating valve.
+
+     Commence circulation to condition brine (Do not exceed 3 BBL/min).
+Note:
+  To avoid tubing scale problems, it is recommended to reverse out tubing contents before any BHA
+pressure test
+
+  TSTV PRESSURE TEST PROCEDURE
+
+     Make sure that the rams are open during the pressure testing against TSTV.
+
+     The pressure test to be conducted after TSTV, RD circulating plus 1 Joint or 1 std of 3½”
+       PH6 tubing are RIH.
+
+     Make up circulating head and TIW valve onto the string.
+
+      Line up tubing to rig manifold for return during reversing out.
+
+      Close Hydril and Reverse out 3 to 4 BBLs or more through TSTV, maximum reverse
+           circulating pressure 300 psi and maximum pump rate 2 BPM
+
+      After string has been reversed out, bleed off annulus pressure to “0” psi, open the
+          Hydril and line up cement test pump to tubing.
+
+      Pressure test surface line against low torque valve to 8000 psi for 10 min
+
+       If the test is good, bleed off pressure to “0” psi.
+
+     Open low torque valve and pressure test against TSTV If the test OK, bleed of pressure.
+
+3.3 WCP Requirements
+
+      Clean the hole to perforation interval.
+
+     Make overbalanced pressure.
+
+      Shooting nipple tread type is required.
+
+     Max loading gun: 6.5M
+
+     Run1：Run Dummy to 4549m
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+     Run2:4546 – 4549 (3M)
+
+      Run3: 4539.5 – 4546 (6.5M)
+
+      Run4: 4517-4520 (3M)
+
+      Run5: 4513-4517 (4M)
+
+      Run6: 4508-4511 (3M)
+
+      Run7: 4499-4502 (3M)
+
+      Run8: 4494-4498 (4M)
+
+3.4 RIH Wireline for WCP Perforation
+
+     Wire line engineer will take full responsibility for explosive loading.
+
+      Perforation parameter.
+
+             - Perforation gun: 2-7/8″
+
+             - Explosive type: 692D-54R-173HMX
+             - SPM: 6 SPF (20 SPM).
+             - Phase angle: 60 Degree.
+
+     Communicate between perforation engineer and client, and confirm the job procedure.
+
+     Check for potential hazards.
+
+      Hold safety meeting including client and all other effected personnel.
+
+      Turn off radio, stop all welding and keep clear from fire.
+
+     Check for stray voltage from casing to rig to logging unit.
+
+     Connect BOP to shooting nipple, and pressure test for logging BOP for 1000psi/15min,
+          ok.
+
+     Load the perforation guns.
+
+      Rig up the logging equipment, and unnecessary personnel should be clear from the
+        work area.
+
+      RIH the perforation gun.
+
+      Log up to the perforation interval.
+
+      Fire the perforation guns.
+
+      After confirming shooting, POOH the perforation guns.
+
+     When the perforation gun arriving surface, the perforation guns should be checked
+          again.
+
+      Rig down logging equipment.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+Notes:
+If the gun misfires, we have no choice. We have to open the fire head, and find the reason. After it we
+do job again, and repeat above step.
+
+For detail operation information, refer to (6 WCP Program)
+
+3.5 DST Tools Design
+
+The well testing will be conducted using APR tool strings (Refer to Appendix 3 APR TESING
+STRING) comprising:
+
+      7” RTTS packer (inclusive of bypass, safety joint, jars).
+
+     Gauge carriers.
+
+      Annulus pressure operated circulating valve (RD valve, RDS valve).
+
+      Annulus pressure operated tester valve (LPR-N valve).
+
+      Drain valve.
+
+     The packer will be set above the zone of interest in the 7" casing.
+
+      Underbalanced pressure perforation.
+
+     The planned production testing commences with an initial clean-up and a initial flow
+         followed by an initial build-up.
+
+     The second planned production testing commences with an acidizing treatment which
+           will be used to increase reservoir permeability. After post-acid clean up flowing the well
+        on 3 choke sizes and shut-in to establish the reservoir pressure.
+
+3.6 Function Test and Pressure Test for DST Tools
+
+      Charge nitrogen for LPR-N tester valve according to Azar-08 bottom hole hydraulic
+         pressure and temperature, hold pressure 3 hours, No leakage is OK.
+
+      Pressurize and bleed off pressure from LPR-N valve annulus upper and lower port for
+         function test according to function testing procedure.
+
+      Pressure testing the LPR-N ball valve using the clean water. Pressure testing 5000psi
+        below the ball valve of the LPR- N tester valve and pressure testing 5000psi above the
+           ball valve (directed by the company supervisor), Hold pressure for 15 minutes, No
+         leakage is OK.
+
+      Function testing the hydraulic by-pass valve, BIG JOHN hydraulic jar according to
+         Function testing procedure.
+
+      Pressure testing for the other tools 5000psi (depend on the supervisor’s requirement of
+         the company or the condition of well site). Hold pressure for 15 minutes. No leakage is
+          ok, and pressure test RTTS packer and safety joint should be careful for the tension
+         sleeve of Safety Joint.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+3.7 Run DST Testing String
+
+      Install 4 pins onto LPR-N Testing Valve.
+
+      Adjust the Charging Pressure of LPR-N Tester Valve according to the Bottom Hole
+          Hydraulic Pressure, Bottom Hole Hydraulic Temperature and Surface Temperature.
+
+      Install rupture disc onto RD. Safety. Cir Valve and RD. Cir Valve, the option of the
+         rupture disc is based on the actual density of the mud in the wellbore. Record the
+         pressure value of the Rupture Disc installed on the RD Safety Cir Valve, RD Cir Valve.
+
+      Install the tension sleeve for RTTS Safety Joint.
+
+      Four gauges must be programmed before running strings on surface as required, then
+         put them into gauge carrier.
+
+     Run testing string from bottom up. Refer to schematic string would be provided by
+         Contract Well test Supervisor. Every thread must be smeared with greases.
+
+      Record the hang weight after the two slip joints run into hole, it is useful for unsetting
+         the packer.
+
+      Pressure testing DST String.
+
+              - Pressure test to 5000psi against closed LPR-N test valve after running in 1st stand 3-1/2"
+
+          tubing above two slip joints.
+
+              - Pressure testing 5500psi, 6000psi, 6500psi and 7000psi after every running 1000m 3-1/2"
+
+          tubing.
+
+      Control running speed about 8 stands 3-1/2" tubing per an hour.
+
+      Require running DST string very slowly when running into 7" casing and don’t turn right
+        DST string in order to ensure that packer is not set.
+
+     DST BHA was assembled on 3-1/2" tubing. Fill pipes every stands with water as the
+         cushion until surface.
+
+     The 3-1/2" tubing will need to be made up with accurate torque to prevent tubing from
+         damaging. Use API Drift to drift tubing
+Notes:
+Make-up torque is recommended as follows:
+
+                               Table 4 Make up Torque Table
+
+         Item                            Description                 Optimum (ft.lb)
+
+          1                 3-1/2“-9.2#,Vam Top(L80-1 Tubing)               2900
+
+          2                3-1/2"-IF Connect (4-3/4″Drilling Collar)             9986
+
+          3               4-1/2"-IF Connect (9-5/8″Packer ,test tree)            16000
+
+          4                   3-1/2"-HF Connect (Sieve Pipe)                 8800
+
+          5                    3-7/8″CAS(DST tools)                    2000
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+      Ensure that covers and mats are available and utilized during RIH. Avoid any objects
+         dropping in hole.
+Notes:
+Surface lines should be filled with water for pressure testing the string.
+
+Ensure that packer is not set and pipe rams are open before pressure testing.
+
+Special care MUST be taken when picking up and connecting gauge carrier. The gauges inside must
+     not be subjected to any shocks when handing. Contractor gauge engineer MUST be on the floor
+     ensuring this will not happen.
+
+Four memory gauges will be utilized. Gauge will be programmed on the surface.
+
+Run in hole with LPR-N tester valve in closed position.
+
+3.8 Space out Test String and Set Packer
+
+     Double check the DST string tally. Space out the tubing string as per the correlation
+           result.
+
+     Make up tubing and pup joints as requirement.
+
+      Pick-up test tree and make up to test string. Record up & down two times string
+          weights. Rotate 10 turns right hand to set packer.
+
+      Set RTTS packer as per instructions of Contractor's DST Engineer. Packer setting depth is
+       3850m MD BRT (mid of packer rubber elements).
+
+      Close 3-1/2" BOP pipe rams across last full tubing joint.
+
+      Rip up computerized data acquisition system and  start continuous recording of
+         wellhead and annulus data (sensor for annulus pressure should be installed at the rig
+        choke manifold).
+
+      Pressure test annulus to 500psi/15mintes for checking the integrity of the packer as per
+          instructions of DST Engineer. Bleed-off pressure.
+
+3.9 Pressure Test of Test Tree, High Pressure Pipe and Choke Manifold
+
+     Connect test tree to choke manifold with high pressure hose.
+
+     R/U flow & kill line and connect cement unit to kill wing valve of test tree.
+
+      Flush line from cement unit and close master, swab, flow wing and kill wing valve.
+         Pressure test kill line 7000psi/15mintes, then open flow wing and kill wing valve and
+         pressure test 7000psi/15mintes for test tree, high pressure pipe and choke manifold.
+
+     Open master valve to pressure test 7000psi/15mintes for test tree and DST string
+          against LPR-N ball valve, then bleed off pressure.
+
+3.10 Initial Clean up
+
+      Hold PJSM and H2S drill. Close 3-1/2"BOP pipe rams across last full tubing joint, pump
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+         pressure up to operation pressure of LPR-N Tester Valve and hold it on from annulus to
+        open LPR-N tester valve as per DST engineer’s instruction.
+
+      To back produce the completion fluid, the clean-up of well from small choke size to full
+        choke size 48/64" is conducted.
+
+     The pressure should be controlled according instruction supervisor and well test
+          engineer. Divert cushion water, below tester valve mud, and residual drilling mud into
+        waste pit.
+
+      RIH CT and displace fluid column by diesel  if the well doesn’t flow, and perform
+           injectivity test.（Advised by Client’s Supervisor）
+
+3.11 Initial Flow and Build-up
+
+     Once the first formation hydrocarbons reach surface, diverted flow to flare pit.
+
+      Collect sample from the needle valve of data head, CO2 and H2S dragger tube
+        measurements must be made immediately and repeated every 15 minutes until the
+          well is stabilized.
+
+      Divert flow to 48/64" fixed choke, monitor FTHP BS&W, PH and water salinity,  If
+        sediment below approx.0.5%, divert flow through the test separator.
+
+      Take surface dead  oil and gas samples from separator as requirement of Client’s
+          supervisor.
+
+      Shut in the well from choke manifold for initial build up, monitor the WHTP at choke
+         manifold. The duration of initial build up will be decided by client supervisor.
+
+3.12 Matrix Acidizing (not confirmed, advised by Client’s Supervisor)
+
+If acidizing is confirmed to perform before main flow testing, detailed acidizing program will be
+prepared for execution. Then perform flow test and build-up test as below procedure.
+
+For detail operation information (refer to 7 Acidizing Program)
+
+3.13 Post Acid Clean Up
+
+     Carry out H2S emergency drill and hold post-acid safety meeting.
+
+    Double check all valve status of choke manifold downstream by well test engineer and
+        operator.
+
+     To back produce the spent acid, the clean-up of well from small choke size to full choke
+         size 48/64"  is conducted. the pressure should be controlled according instruction
+        supervisor and well test engineer.
+
+    The  duration  of the clean-up flow period  will depend very much on the flow
+       performance of the well.
+
+    Once hydrocarbons reach surface, diverted flow to flare pit, collect reservoir fluids
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+       sample from the needle valve of data head, CO2 and H2S dragger tube measurements
+       must be made immediately and repeated every 5-10 minutes until the well is stabilized.
+
+    Any H2S level is to be immediately reported to the Well Test Engineer who will confirm
+       the information and then report to the Drilling/Completion Supervisor and the Rig
+       Manager.
+
+3.14 Main flow
+
+     Switch flow from 48/64" adjustable choke to fixed choke (32/64", subjected to wells
+       production ability). Monitor FTHP and BS&W. Measure salinity and pH of any produced
+       water if needed.
+
+     Establish stable separator conditions and continue to flow at this rate for approximately
+       10 hours (duration to be determined by the Well Test Supervisor depending on well
+        behavior).
+
+    Measure the stable flow rate of 32/64” choke size.
+
+     Switch from fixed choke to 32/64” adjustable choke. Gradually increase adjustable choke
+        to 40/64″.
+
+     Switch flow from 40/64" adjustable choke to 40/64" fixed choke. Monitor FTHP and
+      BS&W. Measure salinity and PH of any produced water if needed.
+
+     Establish stable separator conditions and continue to flow at this rate for approximately
+       10 hours (duration to be determined by the Well Test Supervisor depending on well
+        behavior).
+
+    Measure the stable flow rate of 40/64” choke size.
+
+     Switch from fixed choke to 40/64” adjustable choke. Gradually increase adjustable choke
+        to 48/64″.
+
+     Switch flow from 48/64" adjustable choke to 48/64" fixed choke. Monitor FTHP and
+      BS&W. Measure salinity and PH of any produced water if needed.
+
+     Establish stable separator conditions and continue to flow at this rate for approximately
+       10 hours (duration to be determined by the Well Test Supervisor depending on well
+        behavior.
+
+    Measure the stable flow rate of 48/64″choke size.
+Note:
+   This three choke size (determined by RE, PD engineer and well test supervisor) should be as per
+     clean up data calculate again in site by reservoir engineer.
+
+  The third choke size may be adjusted in terms of the well performance during the previous test with
+    two chokes.
+
+  One hour before the end of the main flow period, take a final set of separator PVT samples
+
+   & liquid samples (gas, oil and water) as per reservoir engineer requirement.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+    3 surface oil samples, every sample is 700CC.
+
+    3 surface gas samples, each sample is 20 liter.
+
+    3 water samples, each sample is 2 liter if formation produces water.
+  Throughout main flow, measure and record the following at regular intervals. Surface data
+
+     acquisition will be used to monitor some of these items simultaneously.
+
+     Flowing tubing pressure and temperature.
+
+     Separator pressure and temperature
+
+    BS&W
+
+    Water chlorides and concentrations of any tracers.
+
+     Oil and gas rates and calculated gas-oil ratio (verify orifice plate used).
+
+     Oil and gas gravities.
+
+    Gas CO2 and H2S.
+
+    As required, divert separator oil line output to surge tank for oil rate measurement
+Note:
+   Carefully monitor for evidence of sand at surfaces.
+
+   Utilize methanol injection as necessary to prevent hydrates at choke manifold.
+
+3.15 Final build-up
+
+      Bleed off the annulus pressure to zero and close the LPR-N Tester Valve for final
+          build-up.
+
+      Shut in the valve of the choke manifold, monitor the WHTP at choke manifold and
+         ensure the action successful.
+
+     The duration of initial build up will be decided by client supervisor.
+
+3.16 Take down-hole PVT samples
+
+      Prepare two PDS and DHMG as per OTS procedure.
+
+     R/U slickline wellhead PCE, and P/T as per supervisor required.
+
+      RIH PDS tool string to target depth to take PVT samples while flow well with 16/64”
+         choke.
+
+     Make sure well flow is stable and BS&W is below 1%.
+
+      Waiting for PDS trigger fired and take samples, POOH.
+
+     Check all PDS take sample and Prepare to transfer it from PDS to cylinder.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+3.17 Kill Well, Unset and POOH
+
+      Bullhead enough volume water or mud to well bore as calculation.
+
+      Establish the circulating path.
+
+         Prepare enough kill mud according to reservoir pressure and planed requirement. Close
+       BOP pipe rams, Pressure up to the designed operation pressure to broken up the
+         rupture disc of the RD safety circulation valve as per instructions of DST engineer. If RD
+          safety circulation valve fail to be open, pump annulus pressure to open circulation port
+          of RD circulation valve.
+
+      Reversed circulation to displace the water in tubing by mud.
+
+       Open testing choke manifold. Reverse out the water into waste pit by mud, as a result,
+         the density of the mud from both inlet and outlet is the same.
+
+      Unset Packer
+
+       Open BOP, Pick-up string to unset the RTTS packer and perform flowing check the well
+          for 30mintes. The pull will be 10t higher than string hang weight. If not succeed, then
+         the pull will be 22.5t higher than string hang weight to use the Big John JAR to unset
+         the packer. If it is still unsuccessful after multi- operation of Big John JAR, then use RTTS
+          safety joint to release the testing string below RTTS safety joint in the hole according to
+         the CSV.
+
+      Reversed Circulation
+
+After unset packer and check flow, reversely circulate the mud at least one cycle and flow check.
+Perform flow check hole using the trip tank. Ensure well  is static, flow check the well for
+30mintes. .
+
+     POOH Test String
+
+      POOH test string and observing normal tripping procedures, monitoring trip tank for
+          signs of loss/gain. Ensure the hole is filled. Perform regular flow checks.
+
+          Trip slowly to avoid swabbing, especially when the packer is in 7 inch Casing.
+
+         Break up and laying-down the DST tools under supervision of the DST engineer.
+
+3.18 Set Bridge Plug (Done by Company)
+
+      Set 5” plug above the perforated zone.
+
+      Repeat all activities from 3.3 to 3.15.
+
+4 Hazard Analysis and Precaution Measures
+
+                          Table 5 Hazard Analysis and Precautions
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+     ITEM/ACTIVIT                                                                            Additional/Recomme
+No                        Hazard/Issue   Consequence     Barriers/Controls     Comments/Reference
+    Y                                                                                                   ndation/Action
+
+                        Dropping                      Enforcement of
+                                 Damage to                                                     Refer to O.T.S
+      Equipment         Equipment                            lifting procedures    Only trained personnel
+ 1                                       people and                                          (CNLC) testing
+       Handling/Lifting  & moving                          close-off area, stay    to perform certain jobs
+                                       equipment                                                     procedure
+                             objects                               clear,
+
+                                                    Only use proper
+                            Slings        As above                             Stay clear              Check certificate
+                                                                  slings
+
+                                                                                                O.T.S (CNLC) to
+                                                          Proper procedures,
+                          Surface                                                                        perform; Yada test
+                                                             exclusion zones,
+                          equipment(i    Pressure                                                        engineer to witness,
+                                                          only absolutely       Refer to testing
+ 2     Pressure Testing     ncl. slickline    release                                                    Radio
+                                                            necessary staff in     program
+                        and wireline     projectile                                                  communication
+                                                                   area,
+                              lubricator)                                                                    provided by
+                                                      communication
+                                                                                        O.T.S(CNLC)
+
+                    Work at         Falling
+                                                    Only assigned                        No crane operation
+       Slickline and         height,         equipment,                          O.T.S (CNLC) policy
+                                                            personnel to work                              near line and walking
+ 3     wireline           dropped        malfunction                         and procedure;
+                                                    on rig floor. PPE,                             under line; mark line
+       operation          equipment     and injury                              supervision
+                                                           procedures                                    pass to rig floor
+                        and objects     from split wire
+
+                                                  Check of
+                                                                                   Good
+                                                                    firefighting
+                                                                                                communication
+                                                          procedure and
+                                                                                                 between all
+                                                          equipment, check
+                                                               Wind direction and       personnel is critical.
+                                           H2S system and
+                                                                                       strength to be           Chain of command
+                                                          equipment. Full
+                                              Potential                              monitored. If wind         to be discussed prior
+                   H2S fire,                               drills for both prior
+                                             serious injury                            strength gets too strong    to flow. Number of
+                            explosion,                           starting test
+      Flow                                or death.                              during testing, shut-in     people on rig site
+ 4                         sampling,                          operation. Ensure
+       well/Production                 damage to                               the well. Ensure all       should be limited to
+                          chemical                         doctor is fully
+                                        environment                             relevant personnel are     absolute minimum.
+                              injection                       aware of testing
+                                      and equipment                         conversant with the      The flare has to be
+                                                                operation, move
+                                                        ESD procedure and       monitored all the
+                                                                non-essential crew
+                                                                               equipment.                times. Information to
+                                                                 to camp. No
+                                                                                                                              local. Wear BA
+                                                      phones/No
+                                                                                                         during sampling
+                                                    smoking in testing
+                                                                                                               operations
+                                                              area
+
+                                          Explosion;
+                       Welding &     Dropping                                       No crane operation
+                                     PTW & signal        Refer to testing
+                           crane          equipment on                                            no hot works without
+                                                             giving              program
+                            operation       pressurized                                                     permission
+                                                lines
+
+                                                                                                         Prepare appropriate
+                                                                                                         buckets with cloths
+                             Ignition of
+                                         Malfunction     Check before test     Flare watch             and water to be put
+                                flare
+                                                                                                     under end of flare
+                                                                                                                         line
+
+                                                       Small spills to be                              Refer to testing
+                        Leakage /      Environmental                      P/T equipment prior to
+                                                                   dealt with by                                 program, especially
+                                 spills         damage                                       test
+                                                       rig/O.T.S(CNLC)                             with regard to H2S
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+                                                 Keep distance                        No flaring during
+                                             Injury or                         Watch wind direction
+                             Flaring                        from flare, no                                    night at high H2S
+                                                    fatality                  & fire
+                                                                   staring to flare                                     level
+
+                                                      Rig crew & all
+                                                                                    Number of people on
+                                                                 relevant personnel
+                                                                                                                           rig site should be
+                                                                  to familiarize
+                                          Uncontrolled                                                       limited to minimum;
+                                                           themselves with
+                                            pressure                      On short notice in        have kill procedure
+ 5     Shut-in well         Pressure                         pipe
+                                                 release,                            emergency case             at hand in order to be
+                                                            work/manifold/lay
+                                         blow-out                                                          able to act quickly in
+                                                                    out. Especially the
+                                                                                                          case of equipment
+                                                                control of valve &
+                                                                                                                            failure
+                                                        gauges
+
+                                           Personal injury
+                                                                                       Need to check fire
+                                      from fire and
+                                                                     Flow diesel to flare pit     extinguishers, place
+                                            skin contact,      Supervision &
+ 6    Handling diesel      Fire, spills                                                  for burning when well    powder fire
+                                             explosion,       communication
+                                                                                                    starts flowing             extinguisher near
+                                          environmental
+                                                                                                                         testing equipment
+                                    damage
+
+                                                    Only key
+                             Panic,                           personnel on rig      Ensure people are         Properly maintain
+       Escape &
+ 7                        blocked        Personal injury   during flow           trained and all exits are    T-card board at rig
+       evacuation
+                               exits                                  testing; training &     clear                          site entrance
+                                                                            drills
+
+5 Health, Safety and Environment (HSE)
+
+5.1 Safety Equipment Requirement
+
+      Safety around the surface equipment should be provided by an ESD system with 4
+        shut-down stations located on the rig floor, at the choke manifold and in front of the
+           office block.
+
+     H2S monitoring system and H2S gas detector of H2S control & services contractor will
+        be re-checked by H2S services engineer before firing gun and clean up.
+
+      Portable foam extinguishers will be available in the vicinity of the wellhead, choke
+         manifold, and designated safe area(s).
+
+      Well test team and operation personnel require equip with H2S personnel protection
+         equipment, include SCBA, Portable H2S gas detector, etc.
+
+      All appropriate fighting equipment should be checked and ready for emergency use.
+
+      All vent lines from stored produced fluid vessels must be vented to the flare pit. These
+           lines shall be checked and verified open.
+
+     The main flare pit shall be 300m away from well center and rigged up with the required
+       number and length of flare lines for testing. All flare lines shall be properly secured.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+5.2 Hydrogen Sulfide (H2S)
+
+     H2S levels will be monitored clean-up & well testing during. Low levels of H2S (<20ppm)
+       may be encountered.
+
+     BA systems will be available during testing in the following locations: wellhead, choke
+         manifold, and designated safe area(s). Samples should be taken and checked for H2S as
+        soon as gas & fluids are produced at surface and at regular intervals during the testing.
+
+     A H2S leakage, emergency muster and protection  drill with each crew  shall be
+        conducted prior to any testing.
+
+      All breathing apparatus shall be inspected and ready for emergency use. All concerned
+         personnel on location during testing shall have H2S and SCBA training with certification.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+5.3 OTS Well Testing H2S Emergency Plan
+
+Note: When the well blows out and is out of control, the rig emergency plan should be taken.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+5.4 OTS Emergency Response Plan
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+6 WCP Program
+
+6.1 Perforating Tools and Equipment Information
+
+6.1.1 Perforating Guns Information (Recommended as plan A to B)
+
+                           Table 6 Perforation Guns Information
+
+                            Shot            Max                Perforation
+ Gun Type      OD                 Phasing
+                              density             Pressure               charge
+
+  2” HSD     50.8mm(2in)     5SPF    72︒     20000psi      2”65T Zoobin shaped charge
+
+ 2 7/8” HSD  73mm (2 7/8”)    6SPF    60︒     20000psi   692D-54R-173HMX-2 7/8” Charge
+
+6.1.2 Firing head design
+
+The OTS’s WCP firing head uses one electrical detonator to activate the gun string. The electric
+power will be transmitted to the detonator through the wireline cable from the surface power
+system(logging unit); the detonator will be fully activated when the enough current is applied on
+the detonator.
+
+6.1.3 OTS well head pressure control equipment (WPCE)
+
+OTS Company can supply two sizes of WPCE for the job. One type ID is 3 1/8”, the other one type
+ID is 4 1/16”. The manufacture of both WPCE is ASEP-Elmar of NOV. Work Pressure grade for both
+WPCE is 10000psi, can work with H2S. Both have one dual-RAM 10000psi-H2S hydraulic-BOP.
+Both can work with the 7/32” and 15/32”wireline cable (the RAMs and flow tubes can be
+changed to fit the cable size).
+OTS WPCE component: API Standard flange, release/ pump-in sub, BOP, tool trap, lubricators,
+tool catcher, grease injector and stuffing box, grease pump.
+Lubricator number and length:
+3 1/8” ID WPCE: 6 pieces 8ft & 1 piece 4ft lubricators.
+4 1/16” ID WPCE: 6 pieces 10ft & 1 piece 4ft lubricators.
+
+6.2 WCP Operation Procedure
+
+Below are the outlines for the treatment procedure:
+
+     WCP Pre requisites and shop preparation.
+
+      Pre-job preparation
+
+      Pre-job meeting
+
+     WCP Runs procedure
+
+6.2.1 WCP Pre-requisites and shop preparation
+
+     Get all relevant information from the client with a job design questionnaire filled by the
+           client. The perforated intervals need to be in writing signed from the client.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+     Make the gun loading diagram and gun string BHA for each run as per the job design
+         questionnaire and cross check by different supervisor. Calculate the length and weight
+          of each run gun string.
+
+      Prepare the perforating guns, tandem sub, firing heads and all the related tools and
+        equipment which will be used and needed for this job following the BHA. All the tools
+        must be verified by the field engineer that all are in good condition and meet the job’s
+         requirement.
+
+      Select the proper type firing head.
+
+      Apply the right type and quantity explosive materials, such as, shaped charge, prima
+          cord, booster and transport to the wellsite for loading the guns.
+
+      Hold safety meeting and Load the guns at wellsite as per job design questionnaire and
+           final gun diagram and make sure to numbering and classifying properly.
+
+     The logging unit is checked and in good condition. CCL log is qualified. Test shooting,
+          Tension, depth and the other functions of the unit work properly.
+
+     Over balance perforating method is adopted only for WCP job.
+
+     The perforating interval should be filled with fluid (except the gas gun was used) and
+           fluid column pressure is enough for the safety sub working.
+
+      Arrange and identify each gun for easy identification during string make up at the
+           wellsite.
+
+      Ensure all the required equipment is available, checked and sufficient re-dress kits
+           available.
+
+      Mobilize the equipment to the well site.
+
+6.3 Mobilization to Well-site
+
+      All the detonators must be storage and transported in the separate safety box from the
+          perforating guns and charges. (This step may have done by security department)
+
+      Project manager, field engineer and operators shall identify the job risks, confirm the
+         route to well-site and brief the emergency response plan.《 Base Pre-job Safety Review》
+           shall be filled up.
+
+     The senior operator identifies the job risks, confirms the route to well-site and briefs
+         the emergency response plan.
+
+     The engineer is in charged to ensure the logging crew to reach the well-site safely.
+          Security guard is required to the local authority while the logging team is on the way to
+           well-site.
+The policy of OTS and journey management plan must be followed.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+6.4 Well-site job
+
+6.4.1 Pre-job Preparation of WCP:
+
+      Confirm with client and double check the job information, perforating interval, mud
+         information formation pressure, the right tool connection, shooting nipple size and
+          type, the BHA diagram and the overall operation sequences.
+
+     The Guns should be clearly marked in the order they will be assembled, and Gun
+         storage selected to mitigate heat or impact problems.
+
+      Locate all the units at right position, Check the logging unit and well control equipment.
+       Make sure all the functions of these units can work properly. Power on the logging
+         system and do the test logging and test shoot, the logging system can get the qualified
+          logging result: curves, depth, tension and shooting panel can apply the enough
+           electrical power for the detonator.
+
+     Check the thread of the well control equipment and can connect to the shooting nipple.
+        The pressure grade can meet the job requirement.
+
+6.4.2 Pre-job Safety meeting and requirements
+
+                                         Safety is first!
+Before carrying out any work, chief engineer must firstly inspect the well site and discuss with the
+client representative, all the hazards.
+A safety meeting is held to revise the main risks of operation, PPE requirement and emergency
+plan.
+All the job related parties shall attend this meeting. All should agree and fully understand the
+intended TTP job profile.
+Be sure that the following responsibilities are clearly understood.
+
+     OTS does not operate any equipment that is not owned by OTS. These include the
+         wellhead valves, SSSV, third party crane, etc. one pressure gauge should be provided by
+         the client to monitor the well head pressure and help the crew controlling the well.
+
+      All non-essential personnel must keep  far away from the well head during gun
+         assembly and handling.
+
+     Be sure that all OTS explosive safety procedures are understood and observed.
+          a)  As an electric potential could trigger the detonators, So Radio silence is necessary.
+                 All the cell phones, big power radios and etc. must be kept off during the
+             detonator assembling. After the detonator is installed to the gun string and till the
+             time which it reaches to depth of 200ft, or during POOH to surface after 200ft
+            keep radio silence. Welding and cutting operations is forbidden. During radio
+               silence safety switch must be put on safe condition and its key must be kept by the
+             personnel who connect/disconnect the detonator.
+          b)  Arming procedures must be suspended during an imminent threat of large static
+                electricity discharges such as lightning, storms or raining.
+           c)   The company’s policy required that all the explosive related jobs only can be
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+               started at daytime. It is seriously forbidden to start the jobs at night. So, it is
+               seriously recommending that all the explosive related jobs will be done at daytime
+            and good weather.
+          d)   All personnel not specifically required for gun loading, gun assembly and handling
+            must leave the area, as stated previously.
+          e)   All the units must have good ground connection.
+
+      Inspections shall be done to make sure that no electric field is generated between the
+          well and the logging unit (Maximum allowable potential difference is lower than 2.0
+       V-DC&AC before ground cable connecting to the wellhead and lower than 0.25
+       V-DC&AC after ground cable connecting to the well head, both should be satisfied). In
+         the event this voltage is exceeded, all sources of electrical energy must be switched off.
+              If this problem can’t be solved, OTS perforating crew can’t do the perforating job for
+           this well.
+
+     OTS’s specialized personnel shall only perform operations involving the use of
+          explosives. The number of persons involved shall be as low as possible. Only the OTS's
+         operator is allowed to control electric circuits, to load and unload guns.
+
+     The explosive  shall be stored in a designated locked container or safety simple
+         warehouse, marked with international recognized explosive signs, and keep in a safety
+         area on the wellsite.Should never be stored in the vicinity of other hazardous materials,
+           e.g. flammable or combustible liquids, compressed gases.
+
+     Gun loading should be done in a barricaded area using” explosive danger” or
+         equivalent warning tape, with at least 25.0m distance from the other crew working
+         area and non-responsible personnel entry to this area is forbidden.
+
+       It is seriously recommending to stop the jobs when there is storm &thunder or heavy
+        sand storm.
+
+6.4.3 Loading Gun
+
+GENERIC LOADING INSTRUCTIONS
+Field engineer should hold a safety meeting to agree on a safe loading area which must be clearly
+posted with"DANGER EXPLOSIVES" signs before loading begins at well site.
+
+      Select the appropriate gun kit, proper charges for job, and other needed parts and
+          supplies such as  O-rings, detonating cord and  tools needed to load gun. The
+         appropriate bull plug, tandem sub, and top fire sub must also be selected.
+
+     The following steps are suit for the HSD gun loading:
+
+         A.  Remove the set screws that hold the charge tube in place.
+
+          B.  Remove the charge tube from the gun body and place on an appropriate rack or
+              loading table for assembly.
+
+          C.   Inspect the gun kit to insure that it is complete with each of its resident parts. Do
+             not assemble these parts at this point.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+         D.   Select a roll of detonating cord for the application. The length of the detonating
+             cord must accommodate the length of gun plus the length that will be taken up
+              during charge installation and wrapping around tube plus approximately 12 inches
+           on both ends.
+
+                                CAUTION
+  NEVER USE A DETONATOR CRIMPER OR DIAGONAL CUTTERS TO CUT DETONATING CORD.
+
+      Insert end of Detonating Cord either through the tube or around the tube as required,
+          for the gun system being used; and through the center hole in the bottom end plate.
+
+      Install charges in the charge tube as required for gun from bottom up, making sure
+         detonating cord is in slot on each charge.
+
+      Using an approved method, make a good clean cut on end of detonating cord. Attach a
+          booster, to the detonating cord using an approved crimping method.
+
+      Ensure that the explosive components of both the booster and the detonating cord are
+           in intimate contact before crimping the booster in place.
+
+      Insert the assembled charge tube into the gun body. Visually inspect the alignment of
+         the charges, scallops and locking mechanism to insure that proper alignment of charges
+           will be achieved when the locking mechanism is engaged.
+
+     Engage alignment latch into slots and install set screws on each end of gun body.
+
+      Install proper O-rings on bull plug,  if this is to be the bottom gun, or the bottom
+        tandem sub, if this gun is to be an intermediate tandem, lubricate and screw on the
+        bottom of gun.
+
+     Push the charge tube from the top to the bottom with the approved tools.
+
+      Using an approved method to make a good clean cut on top end of detonating cord.
+
+     Crimp a booster on the detonating cord making sure that the end of the detonating
+         cord is in intimate contact with the booster powder.
+
+      Install proper O-rings on tandem sub, lubricate and screw on top of the gun. Insert
+         nylon booster centralizer in the end of the tandem sub.
+
+     Make sure that nylon spacer does not extend beyond the top of the tandem sub.
+
+     Mark the loaded sections on the gun for later reference.
+
+     Connect two guns or more together and ready for connecting to the fire head.
+Notice: enough fluid should fill the perforating interval to protect the HSD perforating guns and
+let the safety sub work.
+
+6.4.4 Installation and assembly of the firing head
+
+      Carry out the safety requirement and actions, such as radio silence and etc. set the
+          logging unit shooting panel to safe mode, lock the switch handle and remove the key of
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+         the handle.
+
+      Visually inspect all components of the blaster sub(fire head) to make sure they have
+         not been damaged during transport and that O-rings are installed.
+
+     Check the detonator by using special safety blaster meter and safety magazine, the
+          resistance of the detonator should be in the required range.
+
+     Make the fire head following the SOP of WCP.
+
+     Check the fire head again using blaster meter to make sure the fire head is OK..
+
+6.4.5 RIG UP
+
+      Center the truck in front of cat walk. Connecting the ground cable to cat walk.
+
+      Hold the safety with client and third part during the job.
+
+      Loading the BOP and connecting the BOP to shooting nipple.
+
+     BOP test 1000psi for 10 minutes, no leakage.
+
+      Checking shooting and system & CCL signal again at the surface.
+
+      Rig up top and ground sheave correctly for safety during job.
+
+      Connecting the fire head with the cable head then connect the gun
+
+      RIH the tools slowly when pass the shooting nipple
+Notice:Do not increase the winch speed more than 30m/min in open hole, perforation and
+production zones;
+Before reach the designed aim perforating depth, does the depth correlation follow the order of
+the witness.
+
+6.4.6 Depth control
+
+The WCP depth correlation uses a wireline CCL log run through the casing. The CCL curve allows
+identification of components in the casing.
+
+      After RIH the gun string, the CCL tool which locates at the end of the cable head will
+         present one CCL log curve on the logging software; the CCL will detect the casing collar
+        and present one peak on the log cure.
+
+     Compare the CCL log curve with the CBL or Full set log CCL curve, and then you can
+       know the difference between the perforating depths with the real log depth, and then
+        do the depth correlation.
+
+      After the depth correlation finished, go down the gun string and then log up to the
+         designed depth.
+
+     Now is ready for shooting.
+
+6.4.7 Gun Firing
+
+Caution: Only after getting the permission and under the supervision of the company man or
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+witness then firing the guns.
+
+     Once confirmed the guns are on the designed perforating depth spot after depth
+          correlation. Hold one safety meeting with company man, everyone involved in the
+          operation.
+
+      Apply enough power on the shooting panel of the logging unit. Check the current and
+          voltage gauge to judge if the gun fired or not. Change back to logging mode.
+
+     Observe the well control stack for possible indication of gun firing (shock or sound).
+
+     Once confirmed the guns fired, move the gun string up to avoid stuck following by the
+      WCP supervisor.
+
+       If there is no indication of firing. Do the firing procedure again.
+
+     Ready for POOH.
+
+6.4.8 Gun Retrieval
+
+The following safety procedures must be observed when retrieving guns.
+When guns are 200ft below surface, stop POOH. Holding safety meeting with all personnel
+involved in reverse deployment of guns.
+
+      All non-essential personnel must keep  far away from the well head during gun
+         assembly and handling.
+
+     Be sure that all OTS explosive safety procedures are understood and observed.
+            a.  As an electric potential could trigger the detonators, So Radio silence is necessary.
+                 All the cell phones, big power radios must be keep off.
+           b.  Arming procedures must be suspended during an imminent threat of large static
+                electricity discharges such as lightning or storms. It is seriously recommending that
+                   all the explosive related jobs will be done at daytime.
+
+      Again near Line Lap area decrease the speed to 10 m/min or less.
+
+     About 50 meter near the well head(shooting nipple) again decrease the speed to
+       5m/min and tell one operator to rig floor waiting for shake the wire line cable, in case
+          of stuck the cable shake the cable to release the stuck. .
+
+      Assign one person to observe the gun shoot or not when come out.
+
+       If misfired, run new guns for this interval.
+
+Note:In all cases, be aware that the firing adaptor and guns may contain trapping pressure.
+
+Therefore, wear protective goggles. Exercise care since there may be pressure trapped in the
+
+adaptor. Trapped fluids can escape and hurt the people.
+
+Note: Suspect that there may be trapped pressure in any connection that is inexplicably hard to
+
+undo. Never stand in line with a connection that is being loosened.
+
+Note: Prior to disconnecting a normally fired gun, make absolutely sure there is no pressure
+
+trapped inside. Using a bent rod, verify that perforation holes in the gun are not plugged. Wear
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+protective goggles, stand to one side of the hole being verified and clear the area of unnecessary
+
+personnel. Even though pressure has been bled off at the top of the gun string, guns further
+
+down the string may still contain trapped pressure. Proceed with disassembly only after the
+
+possibility of trapped pressure has been eliminated. (For HSD gun)
+
+Note: Be particularly careful when disconnecting misfired or unfired guns. Always assume that
+
+these contain high pressure from explosive gases or from down hole well pressure. Both of these
+
+are extremely dangerous.
+
+     Second run, third run, fourth run, repeat the above steps.
+
+6.4.9 Rig down
+
+      After all the intervals perforated, POOH to surface
+
+      Rig down all the tools and equipment.
+
+      Disconnect the BOP and lay down it to truck.
+
+      Clear the well site.
+
+      Deliver the data to the witness.
+
+6.5 Job safety analysis
+
+                                        Table 7 JSA
+
+1. GENERAL
+
+SAFETY
+
+ANALYSIS
+
+1.1  TRAFFIC AND TRANSPORTIONS
+
+JOB SAFETY       POTENTIAL
+                              RECOMMENDED ACTION OR PROCEDURE
+ANALYSIS        HAZARDS
+
+                                                Drivers must flow the OTS traffic safety regulations
+
+                                      Any over speed is not permitted
+
+Traffic hazard           Traffic accident        Check truck before mobilization
+
+                                      Check lubricators, diesel and cooler water before mobilization and once
+
+                                             per day
+
+1.2 ELECTRIC POWER
+
+JOB SAFETY       POTENTIAL
+                              RECOMMENDED ACTION OR PROCEDURE
+ANALYSIS        HAZARDS
+
+                                         To check all power line and transfer before moving and logging.
+                         Electric leak get man
+Electric hazard                           Ground cable should keep good connection during the logging.
+                         hurt and testing fail
+                                         To protect power cable from unexpected broken.
+
+1.3 Fire
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+JOB SAFETY       POTENTIAL
+                              RECOMMENDED ACTION OR PROCEDURE
+ANALYSIS        HAZARDS
+
+                                         To check all power line and the switch every day
+
+Logging                             No smoking in the logging unit
+                        Fire
+unit/well/living room                         check the vehicle carefully
+
+                                         To prepare the extinguisher and keep the good condition
+
+2. WL LOGGING OPERATION SAFETY ANALYSIS
+
+2.1  PREPARATION AT BASE
+
+JOB SAFETY       POTENTIAL
+                              RECOMMENDED ACTION OR PROCEDURE
+ANALYSIS        HAZARDS
+
+                                                 1)    Cable and collector (broken and safety force)                     Checked the
+
+                                                 2)   Weak point                                                                                                                           salm/fmt/dev;
+
+                                                 3)     All surface panels
+                            Quality                                                                                   Follow the
+                                                 4)    Hoist and generator
+To check all               Downtime                                                                                          checklist to
+                                                 5)    Logging truck chassis and engine
+equipment                 Road risk                                                                               prepare the
+                                                 6)    Measuring depth device .load cell cables .rig up equipment(sheave.
+                            Stick
+                                                       chain. pin.)                                                                  auxiliary stuff
+
+                                                 7)     All the spare parts for operation(grease paper silicon oil sample )
+
+                                                 8)     fishing tools
+
+To prepare the        Personal Injury,                                                                            Prepared three
+                                     Use complete PPE and use proper tools. Follow the SOP.
+cable head         damage of equipment                                                                           cable heads
+
+                     Personal Injury,        Use complete PPE and keep the area clean and tidy. Follow the SOP. Pay
+To check the tools
+                 damage of equipment    attention to the new operators.
+
+                                                                                                                   Fixed the tools
+To load tools to the    Tools fall can cause     Cooperation each other, Good communication and organization. Proper
+                                                                                                           by rope and
+truck                     injury                PPE.
+                                                                                                                     rubber rings
+
+2.2  MOBILIZATION/(ON ROAD)
+
+JOB SAFETY       POTENTIAL
+                              RECOMMENDED ACTION OR PROCEDURE
+ANALYSIS        HAZARDS
+
+                                               Limited speed and keep distance between the vehicles. Good training for
+                      Drive fast/bad driving
+Vehicles                                        the driver. The drivers keep good body and psychology condition. Check
+                        habit/by accident
+                                                the vehicle every hour on the road.
+
+                      Tools can fall down
+Tools                                           Fix the tools carefully and check every hour.
+                     from the truck
+
+Battle and terrorist
+                            Injury, Lost, Death      Emergency plan for the war is available. Everybody knows how to do.
+raid
+
+                                                                                                       Slow down or
+
+Sand and dust       Can cause accident     Follow the traffic rules.                                                    stop when two
+
+                                                                                                                            vehicles meet
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+2.3  RIG UP AND RIG DOWN
+
+JOB SAFETY       POTENTIAL
+                              RECOMMENDED ACTION OR PROCEDURE
+ANALYSIS        HAZARDS
+
+                                                    1.   Low hoist speed
+
+                                                    2.    Proper torque setting
+
+                                                    3.    Follow SOP.
+
+                  The tools/spanner fall                                                    4.     Skilled operator.
+
+Connect/disconnect   down. Damage of the    5.    Proper check.
+
+the logging tools       tools pin/connection      6.    Operating carefully.
+
+                                                    7.   Good illumination.                            site.
+
+                                                    8.    Proper the spanner.
+
+                                                    9.   Good body and psychology condition. Good communication
+
+                                             between the hoist driver and the operators.
+
+                     1.Measuring depth      1.Low hoist speed
+
+Spool cable           device damage           2. Proper torque setting.
+
+                          2.Injury              3.Remove the cable from Measuring device
+
+                                                1.Don’t touch using hands
+
+                                             Follow SOP.
+                         1.In jury
+                                                    2.Skilled operator.
+                          2.Fall
+Sheave                                      3.Proper fittings.
+                    down/broken/damage
+                                              4.Operating carefully.
+                         tools or cable
+                                          5.Check T-bar condition.
+
+                                        6.Good body and psychology condition.
+
+                                          1.Check it, if not good, replace it.
+
+                     Broken/improper        2.Experienced operator.
+Chain
+                          site/size               3.Locked it by U-clamp.
+
+                                         4.Enough long(fit to derrick).
+
+                          Hitting and pressing
+
+                            injury, Fracture,        Use the good U-clamp and the tools cap. Good illumination for everyone,
+Heavy tools
+                   Death/damage of the    especially for the hoist driver.  Good cooperation among everybody.
+
+                         tools
+
+                      Injury/damage of
+
+                       tools/leakage of the
+Check the tools                         Use complete PPE. Follow SOP. Do step by step. Skilled operators.
+                        source/lost of the
+
+                     source
+
+                                     Wear the proper PPE. Clean the tools adequately. Spray the oil to the
+Mud                   Skin, corrosion
+                                                 cable.
+
+2.4  OPERATIONS
+
+JOB SAFETY       POTENTIAL        RECOMMENDED ACTION OR PROCEDURE
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+ANALYSIS        HAZARDS
+
+                                  Do the BOP pressure test before the job. Make sure the control module is
+
+                                                       in good working condition. If well flow happen, close the BOP Immediately
+Well flow            Well flow/Tool Lost
+                                        and inform the Supervisor to conduct well control action. Cut the cable and
+
+                                              close the vulvae of the production tree in emergency if necessary.
+
+                                         Everyone in the well site wear the H2S detector. Prepare enough SCBA.
+
+                                      Check the H2S Detectors and SCBA to make sure they are in good
+
+                                                   condition. Training for using the H2S Detectors and SCBA properly should
+
+                                       be conducted before the job.
+
+                                     Use the Wind indicator to identify the wind direction. All the operation
+H2S             H2S Hurt/Dead
+                                            should be conducted in the upwind direction. Set 2 muster point for
+
+                                          emergency.
+
+                                            Before opening the well, make sure the pressure in the BOP pipe has
+
+                                          dropped to zero, the residue in the BOP pipe should be discharged in a
+
+                                                 special oil barrel.
+
+                                               Adjust the torque every 500m,especially near well head
+
+                                            Set the proper max tension and different tension on SDDP panel.
+
+                                         watch the tension all the time
+
+                                     See the curve or data all the time
+
+                                         To prevent sticking, the engineer must carefully plan his job, determining
+
+                                                the conditions of the well, choosing the right weakpoint and equipment,
+
+                                        and adapting his speed and technique to run in and pull out safely.
+
+                                                    After perforation,guns can get stuck at tubing shoe, control the speed near
+
+                                                tubing shoe, use the special cable head with a chamfer angle.
+
+                                                  Sticking can occur in damaged or collapsed casing. The casing shoe is the
+
+                                        most vulnerable part of the casing string and the part most liable to get
+                       Tools damage or
+                                       damaged.
+Bridge/Stuck             lost. Business
+                                         Cable that has become knotted, birdcages or has broken armor wires can
+                     problem. …..
+                                                  quite easily become stuck. The main cause of knotted or damaged cable is
+
+                                       a lack of tension while in the hole. If the cable is old or in bad condition
+
+                                             then the chance of breaking an armor wire is good, particularly if the cable
+
+                                                           is subjected to rough treatment.
+
+                                      The breaking strength and safe working load of new cables and used
+
+                                                cables.
+
+                                                                              It must be strong enough to normally carry the tools involved until we
+
+                                                desire to pull free, but we also must be able to break it normally within the
+
+                                 50% rating of the cable in use.
+
+                                              Maintain an accurate tension device, and calibrate the panel before each
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+                                                     job.
+
+                                                Train yourself and your crew to monitor and periodically record the tension
+
+                                             device readings going down and coming up (use the center-tension
+
+                                                     feature). This is the only meaningful way of determining what the normal
+
+                                               tension is; once you are stuck it is too late.
+
+                                      RIH with proper tension on the cable. Stop periodically to determine the
+
+                                                                ``static'' tension.
+
+                                         Always keep tension on the cable (i.e. do not put too much slack on
+
+                                                bottom.)
+
+                                    Be alert for bottom, and pick up quickly. If picking up from bottom tends to
+
+                                                      stick the tool, do not touch bottom again. Never stop longer than is
+
+                                                absolutely necessary.
+
+Logging Data         Data Lost             Backup the Data after logging ASAP.
+
+2.5  POST-JOB AND DEMOBILIZATION
+
+JOB SAFETY       POTENTIAL
+                              RECOMMENDED ACTION OR PROCEDURE
+ANALYSIS        HAZARDS
+
+                      Drive fast can cause
+Vehicles                               Speed in limit and keep distance between two vehicles.
+                        collusion
+
+                          Hitting injury,
+Hoisting tools                                Refer to emergency plan for hoisting working risk
+                       Fracture
+
+                     Environmental
+Fluid in the tools                              Environmental pollution control procedure during well logging.
+                         pollution
+
+Sand and dust        Cough, Dyspnoea      Wear earplug, respirator, gogglesetc.if it is necessary.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+Appendix 1 SURFACE EQUIPMENT LAYOUT
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+Appendix 2 FLEX TRIP STRING
+
+             APR TESTING STRING
+
+           CUSTOMER : SAED                 DATE : 2017.May.15
+
+           WELL NAME :Azar-8   Flex Trip        ZONE INTERVAL :
+
+          MUD WEIGHT : 74PCF-Water Base      FORMATION : Sarvak
+
+                                         TEMPERATURE : 248 F @4327 m;60 F
+            CUSHION WEIGHT :  Water- 62.4 PCF
+                                                 @Surface
+
+           SAED REPRESENTATIVE :            OTS ENGINEER :
+
+                      OD     ID     Length      Top       Bottom      Depth     Supplied
+             DESCRIPTION
+                                             (in)      (in)      (m)    Connection  Connection  Bottom(m)     by
+
+             TIW                     3-1/16"    0.50                     3-1/2"IF       -0.50    SAED
+
+           CROSSOVER    6.25    2.25     0.50      3-1/2"IF     3 1/2 PH-6      0.00     OTS
+
+                  3-1/2" PH-6
+
+            TUBING（385    5.00    2.88   3653.00   3 1/2 PH-6    3 1/2 PH-6    3653.00   SAED
+
+               Joints）
+
+           CROSSOVER    5.00    2.25     0.49     3 1/2 PH-6    3 1/2" IF     3653.49    OTS
+
+              4 3/4" Drill
+
+                  Collar (6         4.75    2.25    168.00    3 1/2" IF    3 1/2" IF     3821.49   SAED
+
+                 stands)
+
+           CROSSOVER    5.00    2.25     0.49     3 1/2" IF    3-7/8"CAS    3821.98    OTS
+
+           RD Circulating
+
+                Valve(8.0K
+
+                Operating        5.00    2.25     1.09    3-7/8"CAS   3-7/8"CAS    3823.07    OTS
+
+                pressure
+
+                1000psi)
+
+            TST VALVE      5.00    2.28     1.22    3-7/8"CAS   3-7/8"CAS    3824.29    OTS
+
+           CROSSOVER    5.00    2.25     0.51    3-7/8"CAS    3 1/2" IF     3824.80    OTS
+
+              Mule Shoe       2.88    2.44     1.80     3 1/2" IF                 3826.60    OTS
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           W ell Testing Program of AZAR -08
+
+Appendix 3 APR TESTING STRING

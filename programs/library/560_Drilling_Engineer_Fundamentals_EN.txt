@@ -1,0 +1,91 @@
+# ============================================================================
+# WHAT A DRILLING ENGINEER SHOULD KNOW — FUNDAMENTALS
+# Translated from Persian: "آنچه یک مهندس حفاری باید بداند"
+# Educational reference outline (generalized — formation names removed).
+# ============================================================================
+
+## 1. SEDIMENTARY LAYERS OF THE EARTH
+
+- The earth's surface (land and sea) is made of sedimentary layers from
+  ~5 km to ~20 km depth; deeper layers are older.
+- Layers are named with general international names (Precambrian,
+  Cambrian, Oligocene, Cretaceous, etc.) and locally with native names.
+
+## 2. IMPERMEABLE AND PERMEABLE LAYERS
+
+- Permeable layers: allow fluid movement (porosity & permeability).
+- Impermeable layers: act as seals (e.g. marl, anhydrite, salt beds).
+
+## 3. POROSITY & PERMEABILITY
+
+- Porosity: void space in rock; Permeability: ability to transmit fluids.
+- Layers containing salt water, oil and gas are trapped between
+  impermeable seals.
+
+## 4. FORMATIONS WITH DIFFERENT PRESSURES
+
+- Normal, abnormal (over-pressured) and sub-normal pressure regimes.
+- Hydrostatic pressure of a fluid column: P = 0.052 × MW × Depth (psi).
+
+## 5. BALANCING AND OVERBALANCING FORMATION PRESSURE
+
+- Balanced drilling: mud hydrostatic ≈ formation pressure.
+- Overbalance: mud hydrostatic > formation pressure (safe margin).
+- Underbalance: risk of influx / kick / blowout.
+
+## 6. ISOLATING DIFFERENT PRESSURE LAYERS
+
+- By running casing and liner strings and cementing them in place.
+
+## 7. CASING HEAD HOUSING & WELLHEAD
+
+- Wellhead system: casing head housing, casing spools, hangers, BOP
+  stack, X-mas tree.
+
+## 8. CEMENTING BEHIND CASING
+
+- Primary cementing, types of cement slurries, additives, displacement.
+
+## 9. CASING SELECTION — GRADE & WEIGHT
+
+- Grade defines yield strength (e.g. V-150 = 150,000 psi yield).
+- Wall thickness varies with weight per foot (e.g. 9-5/8" N-80 43.5 lb/ft
+  vs 58.4 lb/ft).
+- Wall thickness can be derived from weight-per-foot and OD.
+
+## 10. DRILLING PARAMETERS — RPM, WOB, PUMP RATE
+
+- Rotating speed (RPM), weight on bit (WOB), pump rate (SPM/GPM).
+
+## 11. PUMP OUTPUT & CIRCULATION CALCULATIONS
+
+- Strokes per pump, GPM, lag time of cuttings to the shaker.
+- Mud volume in square tanks; hole volume (pipe & annulus).
+- Mud weight adjustment by adding additives (and vice versa).
+
+## 12. PRESSURE & TEMPERATURE GRADIENTS
+
+- Pressure gradient and temperature concepts; downhole conditions.
+
+## 13. TORQUE CALCULATIONS
+
+- Torque of a string rotating free, milling, drilling in vertical wells.
+- Torque in deviated wells (higher drag/friction).
+
+## 14. LOSS, FLOW AND BLOWOUT
+
+- Lost circulation (loss), flow (influx) and blowout — the primary
+  warning signs and the importance of early detection.
+
+## 15. FUNCTIONS OF DRILLING FLUID (MUD)
+
+1. Transport cuttings out of the hole (suspension when circulating stops).
+2. Control formation pressures (hydrostatic column).
+3. Form a thin impermeable filter cake on permeable walls (fluid loss).
+4. Support the wellbore wall and prevent collapse.
+5. Control formation fluids and prevent flow into the well (blowout).
+6. Keep drilled solids suspended.
+7. Support part of the string weight (buoyancy).
+8. Carry geological information to surface via cuttings.
+9. Control corrosion of drill string in contact with the well.
+10. Assist drilling by jetting through the bit nozzles.

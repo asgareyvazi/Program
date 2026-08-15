@@ -1,0 +1,2574 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 55 ]
+────────────────────────────────────────────
+Petropars Ltd.
+
+
+
+
+
+     SOUTH PARS PHASES 6,7&8
+    MAIN COMPLETION PROGRAM
+
+      Doc.no.: SP-WELLS-2003-010
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 55 ]
+────────────────────────────────────────────
+           Petropars Ltd.
+
+
+
+
+Title:
+
+
+
+         South Pars Main Completion Program
+
+
+
+Document no.:                            Contract no./project no.:                           Filing no.:
+ SP-WELLS-2003-010
+
+
+Classification:                                                           Distribution:
+Restricted                                        Restricted- No distribution beyond distribution list
+
+
+Distribution date:               Rev. date:                    Rev. no.:                      Copy no.:
+
+October 2003                                0
+
+
+Author(s)/Source(s):
+
+Alv Sigve Teigen; Lead Completion Engineer
+
+Bjørn Jensen; South Pars Production Engineer
+
+
+
+
+Subjects:
+
+Introduction, Field, Platform, Reservoir, Geology, Completion Design, Outline South Pars, Down Hole
+Completion Equipment, Tubing, Fluid, Well Clean Up and Test Equipment, HSE.
+
+
+
+
+
+Remarks:
+
+
+
+Valid from:                                                Updated:
+
+Distribution date
+
+Responsible publisher:                                            Authority to approve deviations:
+
+South Pars Wells                                Recommended by TEK PE B&B, Approved by SP Wells B&B
+
+
+Prepared by:                        Name:                                    Date/Signature:
+
+Lead Completion Engineer                 Alv Sigve Teigen
+Production Engineer                      Bjørn Jensen
+
+Verified:                           Name:                                    Date/Signature:
+
+Well Engineering Leader                Brage Johannessen
+Subsurface Manager                      Geir Tungesvik
+Drilling Superintendent                     Kristen Wanvik/Trond Røsbak
+
+
+Recommended:                     Name:                                    Date/Signature:
+
+TEK PE Chief Engineer                    Terje Rognan
+
+
+Approved:                         Name:                                    Date/Signature:
+
+Drilling Manager                       Helge Gustav Håland
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 55 ]
+────────────────────────────────────────────
+            Petropars Ltd.
+
+Revisions
+
+This is the first edition of the South Pars Main Completion Program.
+
+The current valid revision of each of the chapters is given below. The date of each revision is also
+given.
+
+Chapter                         Title                         Rev. No.           Date
+    1      Introduction                                       0         October 2003
+    2       Field and Platform Information                        0         October 2003
+    3      Reservoir                                         0         October 2003
+    4      Completion Design and Outline                       0         October 2003
+    5    Down Hole Completion Equipment                    0         October 2003
+    6      Material Selection and Tubing Design                  0         October 2003
+    8      Fluid                                             0         October 2003
+    9      Well Clean-up and Production Test Equipment           0         October 2003
+   10      Health, Safety and Environment                       0         October 2003
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 55 ]
+────────────────────────────────────────────
+              Petropars Ltd.
+
+
+
+  Distribution List
+
+
+ No.                               Name                   No of copies
+  1-2  POGC                                   Per Haaland                       2
+  3-4    Petropars                                Per Haaland                       2
+  5    South Pars archive, Dubai                   Lalitha Jaiprakash                  1
+  6    South Pars archive, Stavanger              Greta Ulstein Drengstig              1
+  7-8    South Pars archive, Tehran                Per Haaland                       2
+  9     ”Operasjonsrom”, Forus                 Randi Lunde                       1
+  10    Wells Manager                           Per Haaland                       1
+  11    Deputy Wells Manager               M. Chamanifard                    1
+  12    South Pars Project Manager               John Adlam                       1
+  13    South Pars Drilling Manager              Helge Håland                      1
+  14    South Pars Subsurface Manager            Geir Tungesvik                    1
+  15     Drilling Superintendent Rani Woro         Kristen Wanvik                    1
+  16     Drilling Superintendent Sagadril-2         Trond Røsbak                      1
+  17    Well Engineering Leader                 Brage Johannessen                  1
+  18    Lead Drilling Engineer                      Jostein Vestvik                     1
+  19    Lead Completion Engineer              Alv Sigve Teigen                   1
+  20     Drilling Engineer                 Tommy Andersen                  1
+  21    Geologist                             Reidun Rovde                     1
+  22    Reservoir Engineer                      John-Helge Rasmussen              1
+  23    Production Engineer                      Bjørn Jensen                       1
+ 24-25   Drilling supervisor Rani Woro, offshore     Lalitha Jaiprakash                  2
+ 26-27  Rani Woro Toolpusher, offshore            Lalitha Jaiprakash                  2
+  28    RaniWoro rig superintendent               Pascal Ibanez                      1
+ 29-30   Drilling Supervisor Sagadril-2,offshore      Lalitha Jaiprakash                  2
+ 31-32   Sagadril-2 Toolpusher, offshore             Lalitha Jaiprakash                  2
+  33    Sagadril-2 Rig Superintendent           Nobuo Makabe                     1
+ 34-35  South Pars Logistics Kish Island         Odd Magne Mandelid               2
+Service Companies
+  36    Baker Eastern (BOT)                      Jørn Carlsen                       1
+  37    M-I                                     Geert Pieterson                     1
+  38    Halliburton                            Amrullah Hasyim                   1
+  39    Geosevices                            David S. W. Mitchell                1
+  40    Kvaerner Oilfield Products                Richard Bainbridge                 1
+  41    Schlumberger                            Geir Finnsrud                      1
+ 42-50   Additional Copies                           Lalitha Jaiprakash                  9
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                        Petropars Ltd
+
+
+Table of Contents
+
+
+1             Introduction........................................................................................................................................... 8
+1.1      General Information................................................................................................................................ 8
+1.2      Organization and Responsibilities........................................................................................................... 8
+1.3      Contractors for the SP Well Operations................................................................................................ 10
+1.4      Planning and Preparing Well Operations.............................................................................................. 11
+2        Field and Platform Information ........................................................................................................ 13
+2.1          Introduction........................................................................................................................................... 13
+2.2      Partnership ............................................................................................................................................ 14
+2.3      Appraisal wells...................................................................................................................................... 15
+3       Reservoir and Geology........................................................................................................................ 17
+3.1      Regional Geology ................................................................................................................................. 17
+3.2          Lithology............................................................................................................................................... 17
+3.3      Reservoir & Production Strategy .......................................................................................................... 23
+3.4      Reservoir Data....................................................................................................................................... 23
+3.5      Hydrates ................................................................................................................................................ 25
+4        Health, Safety and Environment (HSE)............................................................................................ 26
+4.1      Operational Conditions and Shutdown Criteria .................................................................................... 27
+5       Completion Design and Outline......................................................................................................... 28
+5.1          Introduction........................................................................................................................................... 28
+5.2     Well Configuration ............................................................................................................................... 28
+5.3      Completion Design ............................................................................................................................... 30
+5.4      Material quality..................................................................................................................................... 31
+5.5       Pre-drilled Liner Installation................................................................................................................. 31
+5.6     Well Backflowing ................................................................................................................................. 33
+5.7      Completion Program Outline................................................................................................................ 34
+5.8     Temporary abandonment ...................................................................................................................... 36
+6     Down Hole Completion Equipment................................................................................................... 36
+6.1          Introduction........................................................................................................................................... 36
+6.2      Christmas tree ....................................................................................................................................... 36
+6.3     7 “ tubing hanger................................................................................................................................... 36
+6.4      Safety Valve System ............................................................................................................................. 36
+6.5      Seal Assembly w/Snap in Snap out shear release anchor (SISOSR) .................................................... 40
+6.6      Packer System....................................................................................................................................... 40
+6.7      Liner Hanger Equipment....................................................................................................................... 41
+6.8      Requirements to Downhole Completion Assemblies and Preparations................................................ 42
+7       Material Selection and Tubing Design .............................................................................................. 45
+7.1     Tubing Design....................................................................................................................................... 45
+7.2     Tubing dope .......................................................................................................................................... 48
+7.3      Wellbore hydraulics .............................................................................................................................. 48
+8       Fluid ..................................................................................................................................................... 50
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                        Petropars Ltd
+
+
+8.1          Introduction........................................................................................................................................... 50
+8.2     Temporary Abandonment ..................................................................................................................... 50
+8.3       Drilling Fluid......................................................................................................................................... 50
+8.4     Well Cleaning ....................................................................................................................................... 50
+8.5      Packer Fluid .......................................................................................................................................... 50
+8.6     Work Fluids / Brines............................................................................................................................. 51
+8.7       Kill Fluids ............................................................................................................................................. 51
+9       Well Clean-up and Production Test Equipment.............................................................................. 52
+9.1          Introduction........................................................................................................................................... 52
+9.2     Well Testing / Clean-up of Wells.......................................................................................................... 52
+10           References............................................................................................................................................ 54
+10.1     References Statoil Governing and Advisory documentation ................................................................ 54
+11          ABREVIATIONS................................................................................................................................ 55
+
+
+
+Table of Figures
+Figure 1.1 South Pars Organization......................................................................................................... 9
+Figure 1-2 Rig Operation Reporting Lines…………………………………………………………….10
+Figure 2.1 South Pars Phases 6,7&8 Field Installations ........................................................................ 16
+Figure 3.1 South Pars - Regional Structural Setting.............................................................................. 20
+Figure 3.2 Geological Cross Section of the South Pars Field through phases  6,7&8........................... 21
+Figure 3.3 Generalized Lithostratigraphy of the Iranian Continental Shelf .......................................... 22
+Figure 3.5. Hydrate formation curve for South Pars gas - condensate…………………………...…… 25
+Figure 5.1 Typical well trajectory…………………………………………………………………… 29
+Figure 5.2 Well schematic……………………………………………………………………………..30
+Figure 5.3 Completion Schematic for a typical South Pars Well .......................................................... 32
+Figure 6.1 Kvearner South Pars wellhead and X-mas tree…………………………………………….37
+Figure 7.1 Upper section, 7”-26.00ppf CRA 110ksi Vam TOP HC…………………………………....47
+Figure 7.2 Middle section, 7”-23.00ppf CRA 110ksi Vam TOP……………………………………………… 47
+Figure 7.3 Lower section 7”-26.00ppf CRA 110ksi Vam TOP……………………………………….48
+Figure 7.4 Tubing Size Evaluation……………………………………………………………………..49
+Figure 9.1 Surface Well Test Equipment Layout……………………………………………………….53
+
+
+
+Table of Tables
+Table 1.1 Contractors ........................................................................................................................................... 11
+Table 2.1 SP Partnership ...................................................................................................................................... 14
+Table 2.2 South Pars 6-8, Exploration/Appraisal Wells....................................................................................... 15
+Table 2.3 South Pars 6-8, Appraisal Wells test……………………………………………………… 15
+Table 3.1 South Pars : Lithology and formation parameters in K1, K2, K3 and K4………………….19
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                        Petropars Ltd
+
+
+Table 3.2 Reservoir Formation Data...................................................................................................... 24
+Table 3.3 Reservoir Fluid Properties Data............................................................................................. 24
+Table 3.4 Estimated Well Data .............................................................................................................. 24
+Table 3.5 South Pars Gas condensate composition............................................................................... 25
+Table 5.1 Completion Program Outline................................................................................................. 35
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     8 of 55       Petropars Ltd.
+
+
+1      Introduction
+
+
+1.1     General Information
+
+       The "Main Completion Program" (MCP) covers the field specific topics for the well
+        completion and clean-up operations of the South Pars (SP) phases 6,7&8 wells.
+
+       The MCP gives an overview of the subjects related to the well completion including the
+        running of the pre-drilled liner, and the clean-up of the wells. The back-up completion solution
+           is to run and cement a 7” liner prior to perforation and possibly azidicing. Details regarding
+         selected equipment and special procedures will be found in the Contractors Operational
+        Procedures and/or in the individual Well Completion/Intervention programs. The MCP is
+         positioned between the controlling documents and the single well program. Individual Well
+        Completion/Intervention programs will in case of conflicts have priority over the MCP.
+
+       The MCP is a Technical Description (TD) in the Statoil Governing Document hierarchy.
+        However, any dispensations shall be verified by main office Drilling & Completion
+        Department and endorsed by the South Pars Drilling Manager.
+
+        All well completion operations will be performed in accordance with Statoil requirements and
+         regulations. TEK PE B&B has verified this MCP according to Statoil internal procedures.
+
+        Revisions of the MCP will be updated as required.
+
+
+1.2     Organization and Responsibilities
+
+       The SP Wells Manager has the overall responsibility for the drilling, completion and clean-up
+          activities in the South Pars field and reports to the Project Director. Figure 1.1 shows the South
+        Pars Wells Organization.
+
+
+1.2.1   Onshore
+
+       The South Pars Wells project team is an integrated sub-surface team consisting of a
+        Geology/Geophysics and Reservoir (2 G&R) group and a drilling/ completion (D&C)
+        engineering and operations group. The engineering and operations team for D&C is located in
+       Dubai (UAE), logistics/base at Kish Island (Persian Gulf) and 2 G&R group in Tehran (Iran)
+       and Stavanger (Norway). Wells Manager is located in Tehran.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     9 of 55       Petropars Ltd.
+
+
+
+
+
+         Figure 1-1 South Pars Organization
+
+        South Pars Wells Team (SP WT) is responsible for establishing technical and operational
+        requirements, the execution of well site supervision as well as maintenance of all drilling and
+        well control installations in the South Pars 6,7&8.
+
+
+1.2.2   Offshore
+
+       The Drilling Supervisor represents SP Wells Team at the offshore installations and is overall
+         responsible for the execution of the drilling and well activities on the rigs. The offshore
+         reporting line is displayed in figure 1.2.
+
+       The Drilling Contractor will have the operational responsibility for execution of the rig
+          activities.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     10 of 55      Petropars Ltd.
+
+
+
+
+
+                   RIG OPERATION REPORTING LINES
+
+
+
+
+                                South Pars
+                                Wells Manager
+                                  Per Haaland
+
+
+
+
+                                South Pars
+                                      Drilling Manager
+                                Helge G Håland
+
+
+                                      Drilling
+                                   Superintendent
+                           SP Wells Team
+    ONSHORE
+
+
+    OFFSHORE
+                                      Drilling
+                                   Supervisor
+
+               Rig                                         Engineer /
+             company                                        geologist
+
+
+
+
+                Service              Service              Service              Service
+             Company         Company         Company         Company
+
+
+
+         Figure 1.2 Rig operation reporting lines
+
+
+
+1.3      Contractors for the SP Well Operations
+
+       The Contractors will have the technical responsibility within their scope of work. The
+         Contractors’ responsibilities will be, but is not limited to:
+
+       Check out their relevant equipment when arriving onboard the rig.
+         Assist Operator in writing detailed operational procedures to be used on the rig.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     11 of 55      Petropars Ltd.
+
+        Provide general operational support during operations which involves Contractor supplied
+        equipment and procedures. Verify that all interfaces between Contractors provided items and
+         items provided by other contractors or Statoil are compatible.
+       Keep track of all the gained experiences (negative and positive) in order to improve the
+         operations at a later stage.
+        Supply the onshore organization with relevant data, experiences, observations and evaluations
+        done on the rig for implementation in future Individual Well Programs -Completion.
+           Fill in performance rating sheets and non- conformance reports.
+
+
+        Several different Contractors will perform the well completion work within the SP
+        development. As of September 2003 the various Contractors are shown in Table 1.1.
+
+
+
+                             Services                                    Contractor
+          Drilling / Completion Rig 1                                Apexindo (Rani Woro)
+          Drilling / Completion Rig 2                                 Pars Drilling Kish (Sagadril-2)
+         Tubing / Casing Services                                      Not decided
+      ROV Services                                               Not decided
+      MWD, Directional Drilling and Mud Logging                    Baker Eastern SA
+          Services
+         Laboratory Services                                          Not decided
+          Fluid Services (incl. drill-in fluid)                          MI Dubai
+        Downhole Tool Rental                                        Not decided
+          Stimulation Services                                             Halliburton Services
+         Cementing Services                                              Halliburton Services
+         Completion Equipment and Services                            Baker Eastern SA
+          Liner Hanger Equipment                                     Baker Eastern SA
+        Downhole Safety Valve (TRSCSSV)                           Baker Eastern SA
+       TCP Services                                               Baker Eastern SA
+         Mechanical Wireline Services                                    Schlumberger
+         Logging, el. line Services and Perforation                          Schlumberger
+         Well Test Equipment and Services                                  Geoservices
+      OCTG                                                      Tenaris/Sumitomo
+
+         Table 1.1 Contractors
+
+
+1.4     Planning and Preparing Well Operations
+
+     A SP Drilling/Completion Sequence Plan is updated weekly.
+
+      SP WT issues an Individual Well Program-Completion (IWP-C) for each new well. The SP
+        wells engineering team is responsible for the program projects. An IWP for a completion will
+         consist of an overview of the completion requirements and a completion outline.
+
+        For well interventions the Wells team will normally set up a technical recommendation.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     12 of 55      Petropars Ltd.
+
+       The preparations for the Individual Well Programs are a joint effort between SP personnel with
+        background from D&C, Subsurface, Topside Engineering Department and other relevant
+        departments and the SP Contractors. It is emphasized that the Contractors are expected to make
+        major contributions in the planning of the well operations.
+
+        Detailed operation procedure elements will be based on the previous wells. New or well
+         specific elements are stated in the IWP. Operations not previously performed are described in
+          detail in the IWP.
+
+        All planning of SP well operations will be done according to WR0442 "Detailed Planning
+        Requirements Drilling and Well Operations".
+
+
+1.4.1   Simultaneous Operations
+
+      No simultaneous drilling and completion operations are planned in the SP field during the
+           initial drilling and completion campaign. There might be Drilling/Completion simultaneously
+        during installation and hook-up of platform topsides modules.
+     A close evaluation of feasibility for such operations will be performed prior to start.
+
+
+
+1.4.2   Experience Transfer
+
+      SP 6,7 &8 is the first field development for Statoil as an operator offshore Iran. The project
+         will apply experience from other operators and contractors in the South Pars field where
+         applicable. For new upcoming Statoil field developments in the Region, it is very important
+         that SP-experience is captured and made available. The following tools/methods will be used to
+        capture necessary experiences in a systematic way:
+
+       Use of the Local Best Practice (LBP) database.
+          Statoil Daily Drilling reporting system.
+        Networking with other licences and D&C Statoil Main Office.
+         Contractors’ experiences.
+
+
+1.4.3   Dispensations from Statoil Governing Documentation
+
+        Dispensations, non-conformances and proposals for improvement to governing documents
+         shall be dealt with according to WR0011.Approval for all dispensations from Statoil
+        requirements shall be applied for in the organizational unit and at the organizational level
+       where the requirement initially was issued and approved.
+
+        All such dispensations will be listed in the separate Well Completion Programs.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     13 of 55      Petropars Ltd.
+
+
+
+2      Field and Platform Information
+
+
+2.1     Introduction
+
+        South Pars is a gas-condensate field located in the Persian Gulf. This field is named South Pars
+       on the Iranian side of the border and North Field on the Qatari side. The North Field has been
+       on production for some years.
+
+       The reservoir formation is the Triassic, Permian Khuff formation, which consists of shallow
+        water carbonate sediments. The Khuff formation is divided into four main units, K1, K2, K3
+       and K4. Top reservoir is at approximately 2680 m TVD MSL at the most shallow, Phase 6 .
+
+        South Pars 6, 7 & 8 will be developed with three wellhead platforms, normally unmanned
+        during the production phase. There will be 16 well slots on each platform, of which 10 are
+        planned utilized initially.
+
+      Two jack-up rigs equipped with cantilever, will be in operation to drill and complete a planned
+          total of 27 production wells and to tie back three predrilled appraisal wells (SP9, SP10 and
+        SP11). It should be noted that adjustments in total number of wells might take place.
+
+      As per present plan, the first jacket installation is planned for December 2003, with the last two
+         jackets installed back-to-back right after the first. The two jack-up drilling rigs will
+        immediately after the jacket installation be moved in place next to the jackets.
+         Drilling will continue until late 2004 when the topsides are planned to be installed. The two
+        jack-up rigs will then be moved between the three phases/jackets to enable topside installations
+        with minimum loss of rig time. The rest of the wells will then be drilled through the topside.
+       The drilling and completion program are planned completed by the end of 2006.
+
+       The wells are planned drilled with an inclination between 20-60 degrees. The typical gas
+        producer will be drilled to just above the gas-water-contact, which is at approximately 3130
+     mTVD MSL in K4. The casing program is planned to be 26” x 18 5/8” x 13 3/8” x 9 5/8”, and
+         the reservoir completed with a 7” 13% Cr non-cemented predrilled liner. The completion is
+        planned to consist of a 9 5/8” production packer and 7” tubing with a sub surface safety valve.
+       At present the preferred completion design is commingling of all for reservoir zones, K1, K2,
+      K3 and K4 by running a predrilled uncemented 7” liner across the reservoir section. This is
+        expected to provide sufficient productivity and optimized recovery. Perforation and acid
+         stimulation can be applied in case of unsatisfactory productivity. After completion the wells
+         will be cleaned up through the x-mas tree and a well testing package on the jack-ups. The wells
+         will then be shut in until production start up.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     14 of 55      Petropars Ltd.
+
+       The two first wells are planned used as a guide with respect to correct casing depths, and start
+        of a Best Practice process on South Pars. The rest of the wells on each platform are planned
+        batch drilled according to a "Main Drilling Program". First completion is planned installed
+        during first half of 2004.
+
+          Initial reservoir pressure and temperature is approximately 363 bar and 107 deg C respectively.
+       The formation fluids can be regarded as severely corrosive. H2S and CO2 are measured to 0.5
+    % (mol) and 2.0 % (mol) respectively. Formation water is not expected produced. However,
+        flow wetted components must be of a material composition able to handle small amounts of
+        formation water.
+
+        In case off unacceptable high H2S level in the produced gas, K1 will be isolated since the K1
+       H2S content has been found to be higher in some of the appraisal wells on South Pars.
+
+
+
+
+2.2     Partnership
+
+       The development rights for Phases 6, 7 & 8 of the South Pars field were awarded to Petropars
+       on July10, 2000.
+
+        Following negotiations through 2002, Statoil assumed a 40% share in the offshore elements of
+         the project. The agreement was signed on November 10, 2002. This share is equal to 11.3% of
+         the total CAPEX for the project. Statoil will manage the offshore elements of the
+        development.
+
+         Statoil and Petropars are partners for the offshore drilling and completion work. POGC, a
+         subsidiary of NIOC represents the Iranian authorities and will approve individual well
+        programs prior to start of operations.
+
+
+         Participation
+      Company                             (%)
+        Petropars Ltd                                88.70         *
+         Statoil                                       11.30
+        Total                                      100.00
+            * Operator
+
+
+         Table 2.1 SP Partnership
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     15 of 55      Petropars Ltd.
+
+2.3     Appraisal wells
+
+       The following appraisal wells have been drilled from July 2001 to July 2002 as shown in Table
+         2.2 in the Phases 6,7 & 8 by Petropars / Enterprise. A total number 12 appraisal wells have
+        been drilled on South Pars and the well SP-13 is currently being drilled.
+
+
+
+
+
+        Wellhead  South     UTM    UTM    Geographic       Geographic East
+         Platform   Pars         North       East    North
+                    Phases        (m)        (m)
+         SPD-7       6      2959050.00  620170.10  N 26 44 50.0141   E 52 12 30.2817
+         SPD-8       7      2952844.10  627989.50  N 26 41 25.8603   E 52 17 11.0286
+         SPD-9       8      2946500.10  634963.60  N 26 37 57.3657   E 52 21 20.8791
+
+         Table 2.2 South Pars 6-8, Exploration/Appraisal Wells
+
+
+
+
+2.3.1   Well test results
+
+        All the three appraisal wells were tested. Two DST’s were conducted in SP-9 while one was
+        performed in SP-10 and SP-11. The productivity in these wells proved so good that the
+        planned stimulation operations were cancelled.
+
+      Some test results are listed below:
+
+         Well, DST      Tested Zone    Max. prod. rate     CGR          Average
+                                        (MMscf/d)       (bbl/MMscf)     permeability     Skin
+                                                                   (mD)
+          SP-9, DST-1      K4              23                              24            -0.7
+          SP-9, DST-2      K2               25.3              40              14            -0.2
+         SP-10, DST-1    K2, K3, K4           54.2              30               24.8          8
+         SP-11, DST-1    K2, K3, K4           11.8              34               11.3          27.5
+
+         Table 2.3 South Pars 6-8, Appraisal Wells test
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     16 of 55      Petropars Ltd.
+
+
+
+
+
+         Figure 2-1 South Pars Phases 6,7&8 Field Installations
+
+
+2.3.2    Field Layout
+
+       The South Pars Phases 6,7 and 8 will consist of three wellhead platforms each with 16 well
+          slots. The wells will be produced through 3 separate 32” pipelines to an onshore gas plant.
+
+
+
+2.3.3   Wells
+
+         In the three phases a total of 30 production wells are planned, 27 new drills, and tie-back of the
+       3 appraisal wells. The total number of wells is subject to change based on test data obtained
+       from the first wells. The currently planned topside equipment will be designed for a maximum
+        gas production rate of 120 MMscf/d. However work is ongoing to increase it to 150 MMscf/d.
+        This change has yet not been approved.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     17 of 55      Petropars Ltd.
+
+
+3     Reservoir and Geology
+
+
+3.1     Regional Geology
+
+       The field is located on the Qatar-South Pars Arch, which is a north-south elongated, regional
+          flexure, considered to be the recent expression of movement on a major basement suture. The
+          field is shared by Iran and Qatar (where it is known as the North field). Gas in the field is
+          relatively sour and contains ca. 0.5% (5,000 ppm) hydrogen sulphide.
+
+
+       The eastward closure of the anticline cannot currently be defined on structure maps and, from
+         the initial appraisal results,  it appears that the field has a slightly tilted gas-water contact,
+        which is deepest towards north-east. The gas leg is believed underlain by an active aquifer,
+        which provides a natural water drive. This water drive seems to be strongest in the west. This
+        western bias to aquifer activity may explain the observed variation in fluid contact across the
+           field.
+
+       The primary gas producing reservoir units in the field are contained within the late Permian
+        and early Triassic Khuff formation. The reservoir sequence comprises limestones, dolomites
+        and anhydrite, which are characterised by poor to moderate (commonly 5-20 %) interparticle
+          porosity. The development of effective reservoir layers is mainly the result of development of
+        secondary porosity by dolomitisation.
+
+       The productive sequence comprises four primary reservoir layers, Khuff-1 to 4. Gross
+         reservoir thickness is between 400-500m.
+
+     A top K1 structural map is displayed in figure 3.1 and a NW – SE cross section is shown in
+         figure 3.2.
+
+
+
+
+3.2     Lithology
+
+       The summary given bellow describes the lithology for the South Pars field. The strathigraphy
+           is based on sample descriptions, logs, core descriptions and correlation between wells.
+
+       The reservoir lies between 2680 and 3180 m TVD MSL.
+
+        There is a section of shale right above the upper reservoir section, which is K1. The shale is the
+       Aghar shale.
+
+     A generalized lithostratgrafic column is displayed in figure 3.3.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     18 of 55      Petropars Ltd.
+
+
+      Aghar Shale Member (thickness 24-26 m)
+       The Aghar Shale is clearly marked on wireline logs by a sharp break as the lithology changes
+       from a thinly bedded sequence of anhydrite, dolomite and claystone to a more massively
+       bedded sequence of claystone.
+
+
+
+     KANGAN FORMATION
+
+      Upper Kangan (thickness 30 m)
+       The uppermost part of the Kangan consists of dolomites interbedded with claystone and
+         anhydrite. The claystones are clearly seen on the logs because of the high gamma ray values.
+
+     K1  (thickness 107-115 m)
+       The top K1 is picked below a high gamma ray spike. The topmost 23-37 m of the sequence
+         consists of dolomite with claystone and anhydrite stringers. This uppermost section is generally
+          tight although thin stringers with some better reservoir properties appears. Reservoir zone 2 or
+         the middle part of K1 consists predominantly of grainstone, mudstone and wackestone with
+        subordinate dolomite stringers. Anhydrite nodules appear in the uppermost and lowermost part
+        of the zone. Reservoir zone 2 is regarded as the productive part of K1.
+        Reservoir zone 3 or the lowermost part of K1 consists of dolomitised grainstone, wackestone
+       and mudstone. Anhydrite appears as isolated nodules and as stringers at the base of the section.
+
+     K2  (thickness 42-45 m)
+        This second reservoir interval, marking the base of the Triassic sequence, displays a
+         characteristic low flat gamma ray profile as well as a rather erratic sonic response. K2 is
+        divided into three reservoir zones (4,5 and 6) where the two uppermost are the better ones.
+        Reservoir zones four and five consist of porous dolomite and limestone with good reservoir
+         properties whilst the lowermost part of K2 consists of cemented limestone with very low
+         permeability.
+
+     PERMIAN
+
+     DALAN FORMATION
+
+     K3 (thickness 119-122)
+       The K3 Member marks the top of the Permian sequence in South Pars. K3 is divided into three
+         reservoir layers 7, 8 and 9. Layer 7 consists of porous grainstone, mainly dolomite, minor
+        limestone with a gradational base into tight rock. Layer 8 is about 80 meters thick and consists
+        of tight dolomite, some limestone at the base. Layer 9 consists of interbeded dolomite and
+        limestone, predominantly wackestone but also some packstone and grainstone. Some of these
+         layers have very good reservoir properties. Anhydrite occurs as stringers at the base of K3,
+       marking the K4 boundary.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     19 of 55      Petropars Ltd.
+
+
+     K4 (thickness 149-152 m)
+       The K4 is divided into three reservoir layers (K4U, K4M and K4L) and the two uppermost
+        zones persist the best reservoir properties. The zone K4U consists of dolomite and some
+        limestone and shows good reservoir properties. The upper parts of K4M consists of oolitic
+        limestone, predominantly grainstone but both the wackstone and mudstone layers becomes
+       more common closer to the base. The lower section of K4M is a major unit of porous
+         grainstone, interbedded with wackstone and mudstone. Towards the base, predominantly
+        dolomite and with a high proportion of grainstone are found, but transitional from very high to
+         porosity to poor rock properties below. K4L does also consist of grainstone, however
+        cementation by anhydrite increases downwards.
+
+
+             Ave.                                                        Ave.    Ave.
+     Zone                                 Lithology
+           Thick. (m)                                            Por.% Perm. mD
+
+         U      34        Anhydritic dolomite with streaks of shale, low or no porosity.                      6        10.3
+      K1 M       37      Main K1 porosity, mainly dolomite grainstone, partly limestone.                    13       15.2
+           L      39        Tight anhydritic dolomite.                                             9         1.1
+
+         U      10       Dolomite and limestone grainstone.                                       9        41.1
+      K2 M       24       Porous lime grainstone, thin tight zone in the middle.                           13       62.3
+           L      10        Tight limestone.                                                   6         0.1
+         U      22       Porous grainstone, mainly dolomite.                                      13       24.9
+      K3 M       85        Tight dolomite, despite section of grainstone. Tight limestone in the lower part.           7         8.1
+           L      13       Thin porous dolomite interbedded with tight dolomite, limestone and anhydrite.          14        4.6
+         U      16       Mainly porous dolomite. Locally limestone interbedded with minor tight layers.          14       32.8
+      K4 M       88       Ooide grainstone interbedded with tight mudstone. Mudstone more dominant in lower part.   20       84.5
+           L      45       Dolomite grainstone in upper part with moderate porosity, porosity decreasing toward base.   8        22.4
+
+         Table 3.1 South Pars : Lithology and formation parameters in K1, K2, K3 and K4.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     20 of 55      Petropars Ltd.
+
+
+
+
+
+         Figure 3-1: South Pars - Regional Structural Setting
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     21 of 55      Petropars Ltd.
+
+
+
+
+
+         Figure 3-2: Geological Cross Section of the South Pars Field through phases 6,7&8
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     22 of 55      Petropars Ltd.
+
+
+
+
+
+         Figure 3-3 Generalized Lithostratigraphy of the Iranian Continental Shelf
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     23 of 55      Petropars Ltd.
+
+3.3     Reservoir & Production Strategy
+
+       The production strategy for South Pars phases 6,7 and 8 is to commingle all the four reservoir
+        zones, K1, K2, K3 and K4 to produce and thereby deplete the reservoir pressure. Initial
+        production from K1 was not in the original plan (MDP issued by POGC), but reservoir studies
+        have shown that the current revised strategy will increase the reserves as well as the recovery.
+         In addition, completion of the wells will be easier.
+
+       The production wells will be drilled in a circular pattern around each of the three platforms
+        with a maximum deviation of up to 60O. The platform will be designed to produce 1,2 billion
+         scf/d from 10 wells with a planned production plateau at 1.0 billion scf/d. The planned
+        production is 100 MMscf/d from each well in average. The phases 6,7 and 8 are expected to
+        maintain the production plateau for approximately 20 years.
+
+      When the field development phase is finalized, National Iranian Gas Company will take over
+         the production operations.
+
+       The number of wells on each platform can be limited to eight or nine if the wells prove
+         sufficient productivity.
+
+       The wells will produce without cutting formation water since the wells will be terminated 40 to
+       60 meters above the gas-water-contact. However, a small fraction of water will condense in the
+        well stream due to pressure and temperature loss. The platforms are equipped with a Free-
+       Water-Knockout-Drum designed to operate at 126 bar. Each platform supplies the gas
+        including condensate through a 32” dedicated pipeline to the onshore gas processing facility.
+
+          Initial well-testing will be performed in conjunction with the clean up flow to the jack-up rig
+          after the completion operation. The platforms will have permanent test separators for
+         periodically well testing. No downhole instrumentation is planned for.
+
+
+
+
+
+3.4     Reservoir Data
+
+
+3.4.1    Reservoir Formation Data
+
+
+
+
+       The reservoir formation data for the South Pars wells is specified in Table 3.2 below.
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     24 of 55      Petropars Ltd.
+
+
+         Depth below MSL (m)                      2620 - 3180
+         Average Initial Res. Pressure 6/7/8 (bar)       367 @3100 m
+          Reservoir Temperature (oC)               107@3100 m
+          Reservoir fluid density (g/cc)                      0.25
+        Maximum shut in wellhead pressure (bar)         301
+         Average H2S content (ppm)                5000 (0.5 mol%)
+         Average CO2 content (mol % )                       2.0
+
+
+         Table 3.2 Reservoir Formation Data
+
+
+
+
+3.4.2    Reservoir Fluid Composition
+
+        South Pars gas condensate is a lean, saturated gas condensate with a light condensate fraction.
+
+       The reservoir fluid properties for the South Pars Field are specified in Table 3.3 below.
+
+
+
+       Dew point at res. temperature (bar)      308.8
+          Single flash CGR (stb/MMScf)          27,1
+          Single flash API                        55,7
+
+         Table 3.3 Reservoir Fluid Properties Data
+
+
+
+
+
+        Estimated well data is shown in Table 3.4 below.
+
+
+
+
+
+        Minimum Wellhead Pressure                                          126 bar
+        Maximum Shut-in Wellhead Pressure                                   301 bar
+              Initial Reservoir Pressure                                    367 bar @ 3100 m TVD MSL
+          Flowing Wellhead Temperature                                        85 oC
+           Reservoir Temperature                                      107 oC @ 3100 m TVD MSL
+        Maximum gas well production rate                                 5.3 x 106 Sm³/D (150 MMscf/d)
+
+         Table 3.4 Estimated Well Data
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     25 of 55      Petropars Ltd.
+
+
+
+
+
+                           L e a n     R ic h
+                         (m o l % )    (m o l % )   M W  (g /m o l)
+            N 2                3 .0 4 0       3 .3 8 0          2 8 .0
+            C O 2              1 .8 0 0       2 .0 0 0          4 4 .0
+            H 2 S               0 .4 9 0       0 .5 4 0          3 4 .1
+            C 1               8 3 .7 6 0     8 1 .9 5 0          1 6 .0
+            C 2                5 .2 9 0       5 .2 9 0          3 0 .1
+            C 3                1 .7 6 0       2 .1 6 0          4 4 .1
+                 iC 4                0 .3 8 0       0 .4 6 0          5 8 .1
+                n C 4               0 .6 4 0       0 .7 8 0          5 8 .1
+                 iC 5                0 .2 6 0       0 .3 2 0          7 2 .2
+                n C 5               0 .2 6 0       0 .3 2 0          7 2 .2
+                n C 6               0 .3 0 0       0 .3 6 0          8 6 .2
+          m -c -C 5           0 .0 3 0       0 .0 3 0          8 4 .2
+             B e n z e n e          0 .0 2 0       0 .0 2 0          7 8 .1
+                 c -C 6              0 .0 4 0       0 .0 4 0          8 4 .2
+                n C 7               0 .3 1 0       0 .3 8 0        1 0 0 .2
+                n C 8               0 .3 3 0       0 .4 1 0        1 1 4 .2
+                n C 9               0 .2 8 0       0 .3 4 0        1 2 8 .3
+                n C 1 0              0 .2 2 0       0 .2 7 0        1 4 2 .3
+          m -c -C 6           0 .0 8 0       0 .1 0 0          9 8 .2
+              T o lu e n e          0 .1 6 0       0 .1 8 0          9 2 .1
+          m -X yle n e         0 .0 4 0       0 .0 4 0        1 0 6 .2
+            C 1 1               0 .0 9 3       0 .1 1 5        1 4 7 .0
+            C 1 2               0 .0 7 6       0 .0 9 4        1 6 1 .0
+            C 1 3               0 .0 6 2       0 .0 7 7        1 7 5 .0
+            C 1 4 -C 1 5          0 .0 9 2       0 .1 1 4        1 9 7 .2
+            C 1 6               0 .0 3 4       0 .0 4 2        2 2 2 .0
+            C 1 7 -C 1 9          0 .0 6 9       0 .0 8 5        2 4 8 .6
+            C 2 0 -C 2 3          0 .0 4 6       0 .0 5 7        2 9 3 .7
+            C 2 4 -C 6 5          0 .0 3 7       0 .0 4 6        3 9 4 .1
+
+
+
+         Table 3.5 South Pars Gas condensate composition
+
+
+
+
+3.5     Hydrates
+
+       The occurrence of hydrates is a normal well design consideration for live hydrocarbon
+         production.  For this medium rich gas –condensate system the hydrate for formation curve is
+        displayed in figure 3.5. On South Pars formation of hydrates will be avoided by injection of
+        methanol from the platform after shut in of wells. This will protect the DHSV-area. The
+         setting depth for the DHSV will be approximately 70 m below seabed . Under normal
+        circumstances for wells, which have been shut in after a longer period of production, there will
+        be sufficient heat accumulated in the surrounding formation to prevent formation of hydrates
+         for up to two weeks. Together with the ability to inject methanol on the wellheads, this is an
+        adequate protection for the South Pars wells.
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     26 of 55      Petropars Ltd.
+
+
+
+
+             400
+
+             350
+
+             300
+
+                                      (bar) 250
+             200                                  Hydrate area
+                                                             Pressure 150
+
+             100
+                                                   Non Hydrate area
+              50
+
+               0
+                 0          5         10         15         20         25
+
+                                                        Temperature (C)
+
+
+           Figure 3.5. Hydrate formation curve for South Pars gas - condensate
+
+
+
+
+
+4      Health, Safety and Environment (HSE)
+
+
+        South Pars overall HSE goal is, as for Statoil in general;
+        • Zero damage to humans or environment
+        • Zero accidents or losses
+
+        During the drilling operations, all necessary steps will be taken to prevent pollution, blowouts,
+        explosions and other types of accidents harmful to personnel, the installation and/or the
+        environment.
+
+       The SP Wells Unit will establish project specific HSE programs for the duration of the drilling
+         operations. These will be coordinated with the Drilling Contractor's corresponding existing and
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     27 of 55      Petropars Ltd.
+
+         future HSE programs, in order to ensure common goals on topics that the programs have in
+       common.
+
+       The programs will cover topics as:
+        • Working environment
+        • Environment
+        • Discharge requirements
+        • Total Fluid Management (TFM)
+        • Safety
+
+       H2S services contract will be established and is currently being tendered.
+
+
+4.1     Operational Conditions and Shutdown Criteria
+
+
+        For operational conditions and shutdown criteria for the South Pars 6,7,8 jackets/ platforms,
+         please refer to WR0220:
+        “Simultaneous Drilling and Production Activities”. A South Pars specific sub-document will
+        be issued before start of production.
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     28 of 55      Petropars Ltd.
+
+
+
+5     Completion Design and Outline
+
+
+5.1     Introduction
+
+       The completion of the South Pars Phases 6,7 & 8 wells has mainly been designed based on the
+        following:
+
+        Optimised well production to supply gas at minimum cost.
+        Optimised recovery from each well path. Avoiding water influx throughout field life.
+         Simplicity and functionality.
+        Optimised use of reliable and proven equipment and completion techniques.
+         Lifetime of wells plan for 25 years.
+        Environmentally friendly fluids and chemicals.
+         Production casing primarily set into top of the reservoir.
+       Non formation damaging drilling fluid system.
+
+
+5.2     Well Configuration
+
+
+5.2.1   Well Trajectories
+
+       The well trajectories are designed to avoid problems by planning the wells with a moderate
+        well inclination. All wells are wire line accessible. With the current planned locations none of
+         the well profiles exceed 50 degrees. A typical well trajectory can be seen in figure 5.1. The
+        well schematic is displayed in figure 5.2.
+
+
+
+
+5.2.2    Drilling of Reservoir Section
+
+       The 8 1/2" reservoir section will be drilled using a KCL-based or a Salt Saturated Glycol mud
+        system.The fluid is designed to optimize fluid loss properties and minimize formation damage
+         in the reservoir. The reservoir section should not be exposed to the drilling fluids for extended
+        periods of time. Typically, completion and clean up operations will be conducted in
+        conjunction with the drilling of this section.
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     29 of 55      Petropars Ltd.
+
+
+
+
+
+               Figure 5.1 Typical well trajectory
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     30 of 55      Petropars Ltd.
+
+
+
+
+
+      Figure 5.2 Well schematic
+
+
+5.3     Completion Design
+
+
+5.3.1   Completion Configuration
+
+       The primary selected configuration is a 7" mono- bore completion with a pre-drilled 7” liner
+        through the reservoir and 7” Production tubing to surface:
+
+       The minimum inner diameter (ID) in the upper completion is 6.000" in the BOT down hole
+         safety valve (TRSCSSV)
+
+       The minimum ID in the lower completion is the Full Bore Isolation Valve (FBIV) with an ID
+         of 5,875”.
+
+       The tubing including the anchor latch assembly is stung into the production packer sealbore
+         assembly.
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     31 of 55      Petropars Ltd.
+
+
+       The South Pars gas producers’ completion string will normally consist of the following
+        equipment:
+
+      JMZX Double grip Liner to isolation Tieback Packer
+         S-Liner Setting Sleeve
+        Anchor latch seal assembly: SISOSR
+         Production tubing.
+        Tubing Retrievable Surface Controlled Subsurface Safety Valve
+         Production tubing.
+        Tubing hanger
+
+        All above mentioned sub-assemblies are run with 7" pup joints.
+
+
+5.4     Material quality
+
+       The minimum material quality for flow wetted completion components is 28% Cr or 925
+         Incolloy. The 7” liner and liner hanger material will be 13% Cr or equivalent.
+
+
+5.5     Pre-drilled Liner Installation
+
+
+5.5.1   General
+
+       The South Pars wells will be completed with a pre-drilled 7” liner installed in the 8 ½”open
+         hole. The 9 5/8” casing will be installed in the top of the reservoir section in Khuff-1, and the
+        remaining reservoir section will be drilled using a 8 ½” bit. The plan is to complete all the
+        wells throughout the entire reservoir section and produce the reservoirs Khuff 1-4 commingled.
+        Total openhole length will be approximately 400 meters.
+
+      No coring operations are planned for. Since all reservoir sections will be commingled in the
+        openhole / pre drilled liner section there is no need for wireline perforation or plugging for
+        zonal isolation purposes. Hence there is no need for depth correlation and only a minimum of
+         wireline logging will be run.
+
+      To mitigate potential the risk of not being able to open the FBIV, blank sections will be run
+       between the liner hanger and FBIV to allow for perforation. An NPR plug run on wireline will
+        serve as back up to the FBIV in case the FBIV should fail to serve as a barrier during running
+         of completion with “light fluid” in the well.
+
+
+5.5.2    Pre-drilled Liner Installation equipment
+
+       The primary selected liner hanger equipment:
+
+         Bull nose
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     32 of 55      Petropars Ltd.
+
+        Pre drilled liner
+         Full Bore Isolation Valve (FBIV)
+        Blank liner joint
+        Flex Lock Hydraulic liner hanger
+      ZXP Liner packer
+      PBR extension
+       Pup joints for depth correlation
+
+
+
+5.5.3   Well Completion Schematic
+
+     A typical South Pars well completion is shown in Figure 5.3.
+
+
+
+
+
+                               Tubing hanger
+                                       Planned
+                                   Completion Schematic
+                                   7" 26# tubing                     for
+                                   South Pars 6,7 and 8
+
+                                   7" TRSCSSV@ +/- 170m RKB
+
+                             9 5/8" x 10 3/4" Casing X-over
+
+
+
+
+
+                                   7" 26# tubing
+
+
+
+
+
+                            Snap in Snap out Anchor
+
+                                  "S" 15ft PBR
+
+
+                       JMZXP dual grip packer@ +/- 2640m RKB-TVD
+
+                                   Liner PBR
+
+
+                        ZXP Flex lock liner hanger@+/- 2650m RKB-TVD
+
+                             9 5/8" casing shoe@ +/- 2700m RKB-TVD
+
+                                   6" FBIV@ +/-2700m RKB-TVD
+
+
+
+
+
+                                    Pre-drilled Liner
+
+
+
+
+                                   Solid bullnose@ +/-3080m RKB-TVD
+
+
+         Figure 5.3 Completion Schematic for a typical South Pars Well
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     33 of 55      Petropars Ltd.
+
+5.5.4    Completion Equipment Leak Testing
+
+       The completion equipment shall normally be leak or pressure tested during installation as
+         follows:
+
+        Tubing Hanger (TH) to 345 bar.
+      TRSCSSV control line to 520 bar.
+         Production tubing 345 bar.
+        Inflow test of the TRSCSSV to 301 bar (inflow test is performed against the plug in the well
+          bore).
+         Production packer from above/tubing hanger from below (annulus side) to 301 bar.
+       X-mas tree to 345 bar.
+         In case of any high pressure pumping operations e.g. acid stimulation, additional pressure
+          testing will be conducted accordingly.
+
+
+5.6     Well Backflowing
+
+        Immediately after the installation of the upper completion the well will be cleaned-up by
+        flowing it to the test equipment on the rig. The wells will be “kick started” to the maximum
+         rate limited by the handling capacity of the testing equipment and specifications given by the
+          rig. The purpose of this "kick start" is to maximise the clean up effect by generating maximum
+       draw down instantly.
+
+         Kick-starting a well means having 1) a near incompressible fluid in wellbore, 2) sufficient
+        underbalance and 3) a non-burning fluid at top of wellbore. All these three conditions must be
+         available prior to opening a well.
+
+      When choke/valves are suddenly opened on surface and pressure completely brought down to
+         zero, the entire pressure drop is transferred down the wellbore and the entire formation will
+         "see" same pressure drop. This is because fluid in wellbore is incompressible or near
+         incompressible (pressure wave travels with speed of sound which is much higher for non
+        hydrocarbon liquids). Because fluid at top of well is non-burning (Nitrogen, water or similar),
+             it can be routed straight to burner with no obstruction or reduction in flowrate. Hence, well
+         pressure can be maintained at minimum to keep maximum underbalance for first few seconds
+        and minutes of flow.
+
+      By doing so, the entire exposed formation will, by experience, release its mud, mud filtrate or
+        mud-debris from pore systems adjacent to wellbore. Therefore the different quality from
+         varying layers will have less opportunity to make an uneven inflow causing less productive
+        zones to remain uncleaned or non productive.
+
+       From experience, by doing above, the entire or near the entire hole volume of mud will be
+        dragged out of well before hydrocarbon is produced.
+
+           Initial flow both in reservoir and at surface will be extremely high if sufficient underbalance is
+         achieved. However, as the light fluid is produced out of hole, and mud is flown into vertical
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     34 of 55      Petropars Ltd.
+
+          part of well (and conventional drawdown is established downhole), rate will be reduced again
+          after few seconds of flow. Furthermore, surface pressure will soon start to increase as light gas
+           is brought into wellbore and water, Nitrogen or mud is produced out of the well. Reducing the
+        flow rate is also necessary to prevent erosion of surface lines.
+
+     A mud column of approximately 1,35 SG from TD to top of 7" liner hanger area followed by
+        water to surface will create enough underbalance. However if the 9 5/8" casing is set too
+         shallow, the underbalance will be lower. At a certain point, or level, it has to be considered if a
+          lighter fluid like Nitrogen needs to be used at top of completion string to maintain sufficient
+         underbalance.
+
+       During this clean up flow sufficient data to establish the wells productivity will be collected.
+       Dowhhole data acquisition will be limited to a minimum. Memory gauges or production
+        logging might be run in some critical wells.
+
+       The wells will be left with reservoir fluid in the completion string ready for production once
+        land facilities are completed.
+
+
+
+5.7     Completion Program Outline
+
+       The first two wells in the South Pars Development will be batch drilled, down to the top of the
+         reservoir section. The 8 ½” section will then be drilled in the first well, and the well will be
+        completed and tested as per program. If expected production rate is achieved, this will form the
+         basis for the completion of the remaining wells. A back-up solution using cemented liner and
+         perforation has been prepared, should test results indicate need for isolation of K-1 reservoir.
+       The first two wells will be completed using 7” 28%Cr tubing.
+
+     A program for qualifying GRE coated tubing is currently being conducted. The final decision
+         to apply the tubing for any number of wells on South pars 6, 7 & 8 will be taken by POGC.
+
+          First completion is expected to be installed during Q-2, 2004. A minimum of 4 wells must be
+        completed to meet production target in March 2005.
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     35 of 55      Petropars Ltd.
+
+
+
+Well status after drilling the 12 1/4" section
+       9 5/8" x 10 3/4" casing cemented and pressure tested. X.xx S.G water based mud in hole
+ Drill 8 1/2" reservoir section
+     MU and RIH 8 1/2" drilling BHA.
+          Drill 9 5/8” shoetrack and rathole.
+          Drill 8 1/2" reservoir section to TD.
+         Circulate hole clean.
+      POOH and LD 8 1/2" BHA.
+Run 7” Pre-drilled liner and liner tie-back packer
+     MU 7” Liner Hanger with FBIV preinstalled
+       RIH 7” pre-drilled liner on 5 1/2" DP. Tag TD and space out string.
+         Set liner hanger and tie-back packer with FBIV valve installed. (Closed pos.)
+        Release setting tool.
+        Scrape JMZX-Production packer setting area.
+         Displace hole above FBIV to packer fluid (Inhibited water).
+         Pressure test/Inflow test liner hanger packer and FBIV.
+      POOH.
+ Install JMZX Production packer
+        Pick up JMZX packer w/seal stem.
+       RIH on 5,5” DP.
+         Sting into liner hanger PBR
+         Set packer.
+      POOH with DP.
+Install completion string
+         Retrieve wear bushing.
+       Run bottom completion assemblies and tubing.
+       Make up DHSV, function test.
+       Lower tubing into indicating collet in production packer.
+        Perform space out.
+       Make up tubing hanger.
+        RIH.  Sting into production packer. Latch string into Anchor latch. Verify latch.
+       Land tubing hanger in wellhead.
+       Lock tubing hanger and pressure test.
+         Test tubing and annulus.
+           Install BPV.
+       N/D BOP. N/U x-mas tree.
+Well backflow and abandonment
+         Retrieve BPV in tubing hanger.
+       Hook up flow lines from x-mas tree to test equipment.
+        Cycle open FBIV. Pressure up tubing.
+        Backflow well. Acquire well performance data (stabilized flow and pressure).
+        Close DHSV and HMV on X-mas tree.
+       R/D test equipment.
+        Skid rig to next slot.
+
+         Table 5.1 Completion Program Outline
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     36 of 55      Petropars Ltd.
+
+5.8    Temporary abandonment
+
+        After clean up, the wells will be left with hydrocarbon gas. The DHSV and Hydraulic Master
+       Valve will be closed.  Pressure in the X-mas tree will be monitored on a regular basis until
+        production operations have commenced.
+
+
+6    Down Hole Completion Equipment
+
+
+6.1     Introduction
+
+       The basis and logic for the completion string is to keep it as functional and as 'fit-for-purpose’
+         as possible. The South Pars 6,7 & 8 completion string is based on experiences from other
+         operators in the region. In addition, Statoil has introduced some improvements to this system.
+
+
+6.2     Christmas tree
+
+       The tree is a fully clad solid block assembly of Manual Master, Hydraulic Upper Master, with
+        wire shear capabilities and a Manual Swab with Otis profile XT cap. A 7” production wing
+        stubbed outlet is located above the UMV with a 3” kill outlet, VR plug and a valve on the
+        opposite side. A hydraulic Wing Valve is mounted on the production wing side.
+
+       The bottom of the block is with API 13 5/8” 5000WP (6500WP). Clamp Hub profile and
+        Metal seal Sleeve Pocket.
+
+        All valves are Kvaerner Type MS 100 Metal Seal type.
+
+       The wellhead system and x-mas tree is displayed in figure 6-1.
+
+
+6.3     7 “ tubing hanger
+
+       The 7” Tubing hanger is prepared with 7 “ Premium treads, type H internal BPV treads and
+         external LH ACME running treads. The hanger is ported with tree ¼” Control Line and
+        instrumentation ports.
+
+
+6.4     Safety Valve System
+
+
+6.4.1   Baker TSM-5 Series, Tubing Retrievable Safety Valve
+
+        Pressure rating: 345 bar (5.000 psi)
+       Valve Body OD: 9.20"
+      Minimum ID: 6.000"
+        Supplied by: Baker Oil Tools.
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     37 of 55      Petropars Ltd.
+
+       The TSM series Tubing Retrievable Safety Valve is run as an integrated part of the completion
+          string. The model 'TSM-5' Tubing Retrievable Safety Valve is a non self-equalising, flapper-
+         type, sub-surface tubing retrievable safety valve. It is controlled from surface via a 1/4" dual
+         control line, connecting the safety valve to the surface Emergency Shut Down (ESD) system.
+       The valve is normally open (fail-safe closed). When the applied control line pressure is bled
+          off, the valve automatically returns to the closed position, thus shutting in the well.
+
+
+
+
+
+         well.
+
+         Figure 6-1 Kvaerner South Pars wellhead and X-mas tree
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     38 of 55      Petropars Ltd.
+
+
+
+
+6.4.2   TRSCSSV Control Line
+
+         Specification:
+     A single encapsulated Control Line; One 1/4" OD x 0.49” wall thickness, alloy Seamless,
+        10.000 psi rating.
+        Encapsulation material: Rilsan TT200 Polyamide 11 suitable for 90 °C (200 °F).
+        Supplied by: Tube-Tec through Baker Oil Tools.
+
+
+6.4.3   Control Line Clamps
+
+       The control line clamps are designed to protect and secure the downhole hydraulic control line.
+        Supplied by: Tube-Tec through Baker Oil Tool
+
+
+6.4.4    Safety Valve Accessories
+
+
+6.4.4.1  Flapper Lock Open Tool (FLO)
+
+        Supplied by: Baker Oil Tools
+       The Flapper Lock Open Tool (FLO) is a wireline run tool which is used to permanently lock
+       open the TRSCSSV. The FLO tool is used in the event of DHSV malfunction. After the DHSV
+        has been permanently locked open, it may accept a Separation Sleeve or a Wireline Retrievable
+         Insert Safety Valve provided communication of the fluid in the interior of the valve has been
+        accomplished.
+
+      Two wireline runs are required to activate the FLO tool. On the first run the FLO is landed and
+        locked into the nipple lock profile of the DHSV. Withdrawal of the Wireline Running Tool,
+       which is attached to the Slide Assembly of the tool, allows a Lock Ring of spring steel to be
+         released into the Flapper Cavity of the DHSV, permanently holding the flapper in the open
+         position.
+
+     A second run retrieves the FLO tool from the locked open TRSCSSV. The tool is designed
+        such that the Lock Ring cannot be released into the flapper section of the TRSCSSV if the
+       Flow Tube is not in the fully closed position.
+
+
+6.4.4.2  Puncture Communication Tool (PCT)
+
+        Supplied by: Baker Oil Tools.
+       The Puncture Communication tool is used to establish control line communication into the
+      DHSV. The tool is run on wireline, which locates in the Top Sub. Upon locating downward
+         jarring will drive a pin into the Puncture Communication feature of the TRSCSSV.
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     39 of 55      Petropars Ltd.
+
+6.4.4.3  Wireline Insert Valve (WRDHSV)
+
+       Valve OD @ no-go of lock: 6.058" (to suit 6.000" Seal Bores)
+       Valve ID: 3.265".
+        Pressure rating: 5000 psi.
+        Supplied by: Baker Oil Tools.
+       The Baker Model 'TAOFVE' WRDHSV is a wireline run, surface controlled, subsurface,
+         flapper type, safety valve. The valve is controlled via a hydraulic control fluid flow path that
+        has been established through the TRSCSSV Puncture Communication system. The WRDHSV
+        has to be attached to a lock that locates and locks into the DHSV Top Sub. Spacer tubes are
+        used to space out the two seal units to fit the corresponding seal bores of the DHSV.
+
+
+6.4.4.4  Separation Sleeve
+
+        Separation Sleeve OD @ no-go of lock: 6.058" (to suit 6.000" Seal Bores)
+        Separation Sleeve ID: 3.265"
+        Pressure rating: 5000 psi.
+        Supplied by: Baker Oil Tools.
+       The Separation Sleeve is installed in the DHSV in order to mechanically protect and
+         hydraulically isolate the valve during interventions, such as through tubing work and well
+         treatment. The Separation Sleeve incorporates a Wireline lock, and is run on one trip. The
+        chevron stack below the lock and a chevron stack placed at the lower end of the to, provide the
+         sealing.
+
+
+6.4.4.5  Hold-Open Sleeve
+
+       Hold-Open Sleeve OD @ no-go of lock: 6.058" (to suit 6.000" Seal Bores)
+      Minimum ID 5".
+        Supplied by: Baker Oil Tools.
+       The Hold-Open Sleeve is installed in the DHSV to mechanically protect the seal bores against
+       wear and tear from any operations through the valve.
+
+
+6.4.4.6  Flow Tube Exercising Tool
+
+        Supplied by: Baker Oil Tools.
+       The Flow Tube Exercising tool is run to set inside the Flow Tube of the DHSV. Jarring action
+         will manipulate the DHSV Flow Tube either in the up or in the down direction depending on
+         the direction of the jarring. The tool is used in the event that the DHSV fails to close after the
+         control line pressure has been bled off.
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     40 of 55      Petropars Ltd.
+
+6.5     Seal Assembly w/Snap in Snap out shear release anchor (SISOSR)
+
+        Pressure rating: 345 bar (5.000 psi)
+      Minimum ID: 6.01"
+      Maximum OD: 8,30”
+        Stroke length: 15 ft
+       Anchor activating force: 50 000 lbs
+        Shear relax force: 200 000 lbs
+       Snap in force: 25-30 000 lbs*
+       Snap out force: 25-30 000 lbs*
+        *This is for the first snap in/snap out this value will become lower.
+        Supplied by: Baker Oil Tools.
+
+
+6.6     Packer System
+
+
+6.6.1   ”S” Liner setting sleeve.
+
+      Maximum OD: 8.430"
+        Extension ID: 7.375”
+      Minimum ID: 6.190”
+        Exstension length: 15 ft
+        Supplied by: Baker Oil Tools.
+
+
+6.6.2  JMZX Double grip liner top isolation tieback packer
+
+        Pressure rating: 7 700 Psi
+      Minimum ID: 6.184"
+      Maximum OD: 8,430”
+         Setting force required: 40 000 Lbs
+        Tensile Load Capacity: 625 000 lbs
+       Compressive Load capacity: 425 000 lbs
+        Elastomer type: Bonded Aflas
+       Running tool: Baker “HR” Running tool
+        Seal assembly: Consist of tree sets of bullet seal.
+        Supplied by: Baker Oil Tools.
+
+       The “JMZX” Production Packer is a weight set, double grip liner top packer that is set with the
+         application of the work string only.
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     41 of 55      Petropars Ltd.
+
+6.7     Liner Hanger Equipment
+
+
+6.7.1   “ZXP” Liner Packer with “HR” Setting Sleeve and 10 ft Tieback Extension
+
+        Pressure rating:
+             Tieback Ext. Burst: 8484 Psi
+             Tieback Ext. Collapse: 8034 Psi
+          ZXP Mandrel Burst: 7240 Psi
+          ZXP Mandrel Collapse: 5410 Psi
+         ZX Packing Element rating: 10 000 Psi
+      Minimum ID: 6.276"
+      Maximum OD: 8.312”
+        Extension ID: 7.375”
+        Extension OD: 8.250”
+         Setting force required: 40 000 Lbs
+        Elastomer type: Bonded Aflas
+       Running tool: Baker “HR” Running tool
+        Supplied by: Baker Oil Tools.
+
+       The Baker ZXP Liner Packer is a compression set liner packer. The annealed steel and
+        elastomer ZX element is actuated by applying set-down weight to the tieback extension via the
+         setting dogs on the liner setting tool.
+       Hold down slips are available to prevent upward movement of the liner.
+
+
+
+
+6.7.2   Flex Lock Hydraulic liner hanger
+
+      Minimum ID: 6.276"
+      Maximum OD: 8.312”
+        Supplied by: Baker Oil Tools.
+
+       The Hydraulic Set Flex Lock II Liner Hangers provide a method for suspending a liner off
+       bottom and in tension by anchoring, or hanging, the top of the liner in existing casing.
+              .
+
+
+6.7.3   Full Bore Isolation Valve (FBIV)
+
+      Minimum ID: 5.875”
+      Maximum OD: 8.385”
+       Working pressure above: 7500 Psi
+       Working pressure below: 3000 Psi
+        Tensile rating: 475 000 Lbs
+        Supplied by: Baker Oil Tools.
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     42 of 55      Petropars Ltd.
+
+       The Full Bore Isolation Valve (FBIV) is a normally closed disc valve, designed to hold
+         pressure from both above and below. The FBIV is cycled open to allow full-bore access
+        through the liner.
+
+
+
+6.7.4   Bull nose
+
+      Minimum ID: N/A
+      Maximum OD: 7.220”
+        Supplied by: Baker Oil Tools.
+
+
+
+6.8     Requirements to Downhole Completion Assemblies and Preparations
+
+      Due to the numbers of contractor personnel/equipment involved in the South Pars completions,
+         special emphasis shall be put on interfaces related to all equipment and detailed equipment
+        procedures.
+
+
+6.8.1   Onshore Preparations
+
+        All equipment received from the Contractors manufacturing yards shall be subject to
+         Contractors’ own Quality Control system (QA/QC) and be assembled and tested prior to
+        shipment to the South Pars field according to Contractors’ procedures. The Contractors’
+      QA/QC system shall be in accordance with the requirements specified in each individual
+         contract. The Contractors’ activities shall at the minimum include the following activities:
+
+        Provide an approved 'Offshore Operations Manual' prior to commencing the work.
+         Delivery of equipment including verification documentation.
+        Provide and handle back-up equipment as required.
+        Supply all running tools, retrieving tools and equipment required for the installation and
+         servicing the downhole completion.
+        Pack and transport equipment in accordance with regulations for shipment to offshore
+          installations.
+       Make-up of sub assemblies with torque/turn machine/computer as specified. Documentation
+          for all pressure testing and torque figures for completion equipment shall be available.
+        Equipment with Radioactive Markers installed shall be clearly marked on the tool and on the
+         relevant assembly drawing. The "Assembly Drawing and Check List" confirms that the
+        assembly has passed all checks and meets the specifications. This document shall contain all
+         relevant details and references to other documents for traceability, such as:
+           •  assembly number
+           •  primary/back up identification
+           •  work order number
+           •  dimensions
+           •  torque references
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     43 of 55      Petropars Ltd.
+
+           •  item description, serial number
+           •  thread details
+           •  pressure test details
+           •   drift information
+           •  shear ring rating and traceability information
+           •  number of shear pins/screws
+           •  packing element signatures
+
+       Copy of function tests and pressure test documentations, assembly drawings and checklists
+         shall be available offshore prior to and during the operations.
+
+        For applicable equipment the hydraulic fluid (to be determined) shall be used. This includes the
+      TRSCSSV assembly control system, the TRSCSSV control line and x-mas tree actuator control
+          lines.
+
+
+6.8.2   Offshore Preparations
+
+       The Contractors’ representative on the rig reports formally to the Drilling Supervisor.
+       Normally the contact person on the rig will be the Drilling Contractor (Toolpusher /
+        Tourpusher / Driller) or the Completion Engineer. The Contractors’ representatives shall
+        continuously update themselves on the operational status and be ready for operation whenever
+         the work is due. Contractors’ representatives shall contribute in establishing offshore
+        procedures and review these whenever necessary. Any conflicts regarding technical interfaces,
+        such as pressure rating, dimensions, etc., shall be reported to the Drilling Contractor's
+         representative and the Drilling Supervisor/Completion Engineer on the rig.
+
+         Further, the Contractors representatives shall as a minimum:
+
+      When arriving on the field location, the contractors’ representative(s) should define the name
+         of the person that is defined as 'Crew Leader'.
+           Fill out a non conformance HSE report, HSE; "Incident report” (RUH)) whenever applicable.
+         Prior to operation, review the planned operation in co-operation with the Drilling Contractor's
+          representative, the Drilling Supervisor, and the Completion Engineer.
+         Present technical evaluations concerning own equipment as needed. Fill out or add a comment
+          to a non conformance quality report and Performance Rating Sheet in due time prior to leaving
+         the rig.
+           Fill out the service report in due time prior to leaving the rig.
+       Keep the work area tidy and clean, under and after the job.
+        Give back-load details, prepare and tag own equipment for back-load.
+
+
+6.8.3   Offshore Equipment Check Out
+
+       These guidelines shall as a minimum be followed for equipment check out before the
+          installation operation starts:
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     44 of 55      Petropars Ltd.
+
+       Check on arrival that all the equipment to be installed has arrived on the rig in proper working
+         condition and that the required tools and back-up equipment are available on the rig. If not,
+         take necessary action towards responsible company.
+        Confirm that all handling and interface equipment is available and of the correct size.
+
+       The following shall as a minimum be visually checked by the Contractors’ representative:
+
+           •  OD's in general and specifically on tools which will be run through restrictions with
+                      'tight' tolerances
+           •   threads
+           •   seal surfaces
+           •   external damage
+           •   transportation screws are removed (if applicable).
+
+       Measure lengths and OD's for all down hole equipment. Prepare equipment drawings and
+         deliver it to the Company's Representative on the platform in due time prior to the operation.
+       The equipment shall be checked versus the "Assembly Drawing and Check List".
+
+        Special emphasis shall be made with respect to:
+
+           •  assembly length and dimensions in general
+           •   identification and traceability number
+           •   drift diameter/minimum ID
+           •  shear ring rating (where applicable)
+           •  shear pin/screw rating
+           •   functional test of the assembly (according to Contractors’ procedures).
+
+
+6.8.4   Onshore Reporting
+
+      As a minimum, it is a requirement that the Contractors keep records of all equipment installed
+         in the wells.
+        Follow up and report on all Non conformance reports, HSE & Q issues.
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     45 of 55      Petropars Ltd.
+
+
+7     Material Selection and Tubing Design
+
+
+7.1    Tubing Design
+
+       The tubing specified has been selected by Statoil to fulfil company requirements regarding
+        HSE-matters, costing, material grade, diameter, wall thickness and connection design.
+        Experience from other operators in the same field has to certain degree been included in the
+        design and selection process for the CRA-grade tubing.
+       The specified design(s) have been quality controlled and confirmed by Statoil internal tubing
+        design and well materials expertise.
+
+       The tubing designed discussed in this MCP is based on a 3-section 7”-CRA-110ksi design,
+         characterized by:
+            Sect.    Wall-thk             Start –
+          No:          / conn:            End:         Argument:
+                                                        •   26.00ppf needed to safely prevent Tubing collapse at
+                     26.00ppf/    WH – 195 mMD          load case “Tub leak below Shut DHSV”.
+           1
+            Vam TOP HC        (DHSV).         •  Vam TOP HC selected to match section 3 in order to
+                                                          minimize logistic risks.
+                     23.00ppf/     195 mMD (DHSV) –    •   23.00ppf is sufficient. Cost appr. 12% lower than           2
+              Vam TOP   2896mMD/2128mTVD.      26.00ppf based on reduction in weight.
+                                                        •   26.00ppf needed to safely prevent Tubing collapse at
+                                                                load case “Tub leak below Shut DHSV”, and to
+                                                               withstand compression loads.
+                         2896mMD/2128mTVD
+                                                        •  Vam TOP HC selected due to elevated compression                     26.00ppf/                    -
+           3                                                   loads in lower completion above packer.            Vam TOP HC     Bottom of tubing
+                                                        •   26.00ppf needed to safely prevent Tail Pipe collapse at                                                 tailpipe
+                                                                load cases causing Annulus Fluid Expansion between
+                                                             Packer and Liner Top Stinger if bi-directional seals are
+                                                                           installed.
+
+         Alternatively, as per October 2003 a program for qualifying a GRE-lined Carbon steel tubing is
+        being conducted. Designwise this alternative will most likely be available in 7”.
+
+        Pending acceptable results, final decision on whether to apply GRE-lined Carbon steel tubing
+         for any number of wells on South pars 6, 7 & 8 will taken by POGC.
+
+        Applicable Statoil requirements for the design(s) have been:
+
+      WR0444 The Tubing Design, Selection and Installation Process.
+       TD0021 Best Practice for Selection of Materials for Downhole Equipment.
+
+      No deviations from minimum requirements of above documents have been identified during
+         the design work.
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     46 of 55      Petropars Ltd.
+
+       The requirements of WR0444 a “WellCat” model of a typical well has been established where
+           all thermal and differential pressure induced loads on the tubing string itself has been
+        simulated, and compared to the minimum required Design Factors.
+
+       The following major inputs was used in the model:
+           •  Reservoir Pressure and Temperature: 365 Bar/107degC @ 3100 mMSL RKB.
+           •  Max production rate: 4,4 * 106 m3/day.
+           •  Long-term production rate: 4,0* 106 m3/day.
+           •  Max Shut-In Well Head Pressure: 300 Bar.
+           •  Max Flowing Well Head Pressure and Temperature: 272 Bar/87 degC.
+           •  Max inclination: 50degrees.
+           •  Bullhead/Kill data: 3 x Tubing volume, Displacement 1 m/sec. (1200 lpm), Seawater
+       @ 10degC.
+           •  Weight set packer: 40.000 lbf. set down weight.
+           •   Bi-axial seals in Liner Top Stinger.
+           •  Axial Load Minimum Safety Factor increased to cater for the CRA materials an-
+                 isotropic behaviour.
+
+
+       Recommendation and conclusion from design works:
+           •  Selected tubing design for the South Pars wells meets all requirements regarding
+                pressure integrity and structural strength.
+           •  However, for the “Pressure Test Packer from above, 345 Bar”-load case a tubing
+               pressure of minimum 125 Bar is required to safely avoid collapsing the 23ppf
+                section during testing.
+           •  Design wise Expansion Joint above Production Packer is not required.
+           •  Design wise Max Annulus Well Head Pressure during production limited to 300 Bar.
+
+        Simulated maximum forces at Anchor Latch:
+           •  Max Pull (Snap-out) force occurs during Bullhead/Kill-load case: 125.000 lbf. (Force
+                       required to “snap-out”: 200.000 lbf.).
+           •  Max Push-down force occurs during Tubing leak below shut DHSV-load case: 172.000
+                         lbf.
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     47 of 55      Petropars Ltd.
+
+       Design limit Plots:
+       Upper section, 7”-26.00ppf CRA 110ksi Vam TOP HC:
+
+
+
+
+
+         Figure 7.1 Upper section, 7”-26.00ppf CRA 110ksi Vam TOP HC.
+
+       Middle section, 7”-23.00ppf CRA 110ksi Vam TOP:
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     48 of 55      Petropars Ltd.
+
+          Figure 7.2 Middle section, 7”-23.00ppf CRA 110ksi Vam TOP.
+
+       Lower section, 7”-26.00ppf CRA 110ksi Vam TOP HC:
+
+
+
+
+
+         Figure 7.3 Lower section 7”-26.00ppf CRA 110ksi Vam TOP
+
+
+         "Special clearance 80" tubing has been used as input in the simulations.
+
+
+
+7.2    Tubing dope
+
+       The recommended pipe dope for the 28% Cr tubing is Shell HP type III. The same product
+       was chosen for South Pars phases 2, 3, 4 & 5.
+
+
+
+7.3     Wellbore hydraulics
+
+
+       The South Pars Field has an initial high production potential and a high well productivity. The
+       open hole completion is not expected to give a significant pressure drop.
+
+        In the reservoir simulations 7" tubing has been used.
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     49 of 55      Petropars Ltd.
+
+7.3.1    Sensitivity on Tubing Size
+
+      Two different production tubing OD sizes have been evaluated, 7" (29 lbs/ft) and 7 5/8" (29.7
+           lbs/ft). When using the 7 5/8" tubing it is assumed that the larger tubing is run below the
+       downhole safety valve (DHSV) down to the production packer. Above the DHSV 7" tubing
+         will be run.
+
+        Figure 7.4 shows the flowing wellhead pressure for both tubing sizes and for three reservoir
+         pressures. Both have high production potential, but for gas rates above 2 mill Sm3/d, the
+          friction pressure drop is higher for 7" tubing. For low gas rates the liquid hold up can be higher
+         for the 7 5/8" tubing and it has also a minimum influence on the stable production rate.
+
+
+                        Tubing size evaluation
+
+
+            300
+
+            250                                                                                 7" GRE, Pres = 364 bar                        (bar)
+                                                                                                          7" 26 ppf, Pres = 364 bar
+
+                                                                                     7 5/8" 29.7 ppf, Pres = 364 bar
+            200
+                                                                                                          7" GRE, Pres = 310 bar                                      pressure                                                                                                          7" 26 ppf, Pres = 310 bar
+            150
+                                                                                     7 5/8" 29.7 ppf, Pres = 310 bar
+
+                                                                                                          7" GRE, Pres = 250 bar
+            100                                      wellhead                                                                                       7" 26 ppf, Pres = 250 bar
+                                                                                     7 5/8" 29.7 ppf, Pres = 250 bar
+             50                                  Flowing
+               0
+                0            50           100           150
+                          Gas rate (MM scf/d)
+
+
+
+
+
+         Figure 7.4 Tubing Size Evaluation
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     50 of 55      Petropars Ltd.
+
+
+8      Fluid
+
+
+8.1     Introduction
+
+        Fluid operations under a normal well completion are related to well cleaning, displacement to
+        packer fluid and conditioning of the 8 ½” reservoir section drilling fluid.
+
+
+8.2    Temporary Abandonment
+
+       The SP wells will most likely be temporary abandoned after having drilled the 12 1/4" section
+       and set the 10 3/4" x 9 5/8" casing. The wells will be displaced to seawater, inflow-tested and
+        plugged back with a shallow set plug.
+
+       The cemented and tested casing together with the shallow plug will serve as barriers during
+       TA.
+
+
+8.3      Drilling Fluid
+
+       The 8 1/2" reservoir section will be drilled with a water based non-damaging KCL drill-in fluid
+         or a Sodium Chloride based Flo-pro system in order to minimize the formation damage. Final
+        decision will be made after testing both mud types on core samples.
+
+
+8.4     Well Cleaning
+
+       The drilling mud used in the reservoir section is Water Based Mud (WBM). In order to reduce
+         the amount of slop/waste it is recommended to pump the long way (down string - up annulus)
+        during well cleaning/displacement.
+
+       Well returns, during well cleaning, prior to running tubing, must have stabilized and preferably
+        reach a cleanliness less then 100 NTU turbidity.
+
+
+8.5     Packer Fluid
+
+        After well cleaning the well is displaced to packer fluid. The packer fluid will be inhibited sea
+         water.
+
+         In operations where packer fluid can be lost to the formation it is important that the actual
+        packer fluid has a low potential for formation damage. All fluids/brines that can be exposed to
+         the formation shall therefore be qualified through tests for formation damage potential.
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     51 of 55      Petropars Ltd.
+
+         Prior to well testing, the tubing is filled with packer fluid and there is mud in the open hole
+         section. Caution should be taken to avoid problems with emulsion by not routing interfaces
+        through the test separator.
+
+
+8.6    Work Fluids / Brines
+
+         In general, all fluids that can be exposed to the formation shall be qualified through tests.
+
+
+8.7      Kill Fluids
+
+       The KCL drilling mud (1,5 well volume) will be kept as kill fluid during running of the
+        completion.
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     52 of 55      Petropars Ltd.
+
+
+
+9     Well Clean-up and Production Test Equipment
+
+
+9.1     Introduction
+
+        This section gives a brief outline of the well clean up and production test equipment to be used
+        onboard the rig.
+
+
+9.2     Well Testing / Clean-up of Wells
+
+        Special considerations shall be taken when planning the well clean up and well production
+         testing programs. A general requirement for the South Pars development is that a pre-test
+        meeting is to be scheduled to discuss the proper routing and handling of well fluid interface /
+         slop that comes in return during the clean-up phase. Note that slop tank is available.
+
+         In the well completion period, the surface well testing equipment will be used when the well is
+        flowed to surface to collect produced hydrocarbons. The general routing of the well fluids
+        during the clean-up phase will be through the x-mas tree to the testing choke manifold, heater,
+         separator and directly to the burner boom. Alternatively a Multi Phase meter will be used.
+        Eliminating the need for heater and separator. When the well interfaces that do not burn are at
+         surface, the routing of these fluids will be through the testing choke manifold, separator, stock
+         tank, transfer over to slop tanks or through the rig system. At this point all slop can be treated
+       on the rig and dumped overboard if the oil content is less than 40 ppm.
+
+
+9.2.1   Surface Equipment
+
+        General Surface Equipment Layout is shown in Figure 9.1.
+
+      ESD systems are pneumatically operated.
+
+       The well clean-up and production equipment is not permanently installed on the rigs, hence an
+         area on the rigs will be dedicated for test equipment during well testing.
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     53 of 55      Petropars Ltd.
+
+
+
+
+
+           Figure 9.1 Surface Well Test Equipment Layout
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     54 of 55      Petropars Ltd.
+
+
+
+10    References
+
+
+
+
+10.1    References Statoil Governing and Advisory documentation
+
+
+    References
+   WR0436 “Requirements to drilling and completion operations”.
+   WR0011 “Dispensations, improvements and non-conformances”
+    WR0442, section 3.5 ”Detailed Planning Requirement Drilling and Well Operations”.
+   AR003 “Drilling, Well & Production Activities”.
+   SP-WELLS-2003-003 "South Pars Casing Design Manual",
+   WR0445 “Statoil Casing Design Manual”
+   WR0444"The Tubing Design, Selection and Installation Process"
+   WR0437 “Standard OCTG-program for Statoil operations on the Norwegian Continental
+     Shelf”
+   SP-WELLS-2003-003 “South Pars Blowout Contingency Plan”.
+   WR0532 "Drilling fluids",
+    www.BoB.statoil.com, Extranet, Best Practice, ”Drilling Fluids”.
+    SP-WELLS-2003-00x “Drilling Fluid Discharge Plan”
+   WR0533 “Cementing”,
+   WR0529 “Well construction”,
+    www.BoB.statoil.com, Extranet, Best Practice, “Cementing”
+   WR0436 "Drilling & Completion Operations"
+   AR021 HSE management
+    ”South Pars 5-6-7 HSE & Q Program 2003-2006”.
+   WR0220 Simultaneous Drilling and Production Activities
+
+
+────────────────────────────────────────────
+[ صفحه 55 از 55 ]
+────────────────────────────────────────────
+SOUTH PARS 6,7&8                      Doc. no.
+MAIN COMPLETION PROGRAM          SP-WELLS-2003-010
+
+                                           Date                   Rev. no.
+                                                 2003-10-30               0
+                                                                     55 of 55      Petropars Ltd.
+
+
+
+
+11   ABREVIATIONS
+
+
+MDP            - Main Drilling Program
+MCP            - Main Completion Program
+POGC          - Pars Oil and Gas Company
+SP               - South Pars
+TEK PE B&B - Statoil Main Drilling & Completion Department
+SP WT         - South Pars Wells Team
+IWP             - Individual Well Program
+D&C            - Drilling & Completion
+LBP             - Local Best practice
+TVD MSL     - Total Vertical Depth Mean Sea Level
+MMscf/d       - Million standard cubic feet per day
+TRSCSSV     - Tubing Retrievable Subsurface Controlled Subsurface Safety Valve,
+DHSV          - Downhole Safety Valve, same as TRSCSSV
+FBIV           - Full Bore Isolation Valve
+ID               - Inner diameter
+OD              - Outer diameter
+TH              - Tubing Hanger
+Cr               - Chrome
+S.G.             - Specific Gravity
+MU             - Make up
+RIH             - Run in hole
+POOH          - Pull out of hole
+TD              - Total depth
+PBR            - Polished Bore Receptacle
+N/U             - Nipple up
+N/D             - Nipple down
+BOP            - Blow Out Preventer
+BV              - Back Pressure Valve
+HMV           - Hydraulic Master Valve
+ESD            - Emergency Shut Down
+QA/QC         - Quality Assurance / Quality Control
+HSE            - Health & Safety Environment
+RUH            - Incident report
+WBM           - Water Based Mud
+
+

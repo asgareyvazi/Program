@@ -1,0 +1,297 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 8 ]
+────────────────────────────────────────────
+Date: 13-Dec-2010
+Rig: Amir Kabir SSDU
+Client: NIOC KEPCO
+Rig Operator: NDCO
+Subject: WMC Setup for Wireline Logging
+
+On the 13th of December 2010, a mock rig up for the wireline Wave Motion Compensator
+system was made on Amir Kabir SSDU. The attendants were as follows:
+
+    1-  Raja S. Hamady (Schlumberger Wireline Engineer)
+
+    2-  John Hunter (KEPCO Drilling Superintendent)
+
+    3-  Francois Nerriere (NDCO OIM on AK SSDU)
+
+The WMC setup was done using the following components:
+
+A - Provided by Schlumberger Wireline:
+
+    1-  11 Ton x 1in groove diameter Compensating Sheave (Qty:1)
+
+    2-  1.5 meter x 10 Ton Sling (Qty:1)
+
+    3-  5 meter x 10 Ton sling (Qty:1)
+
+    4-  1 meter x 10 Ton sling (Qty:1)
+
+    5-  8 Ton Weak Link (Qty:1)
+
+    6-  11 Ton SLB Shackle (Qty:3)
+
+    7-  12 Ton Shackle (Qty:6)
+
+    8-  10 Ton x 1in groove diameter Snatch Block (Qty:1)
+
+    9-   4ft x 14.5 Ton Synthetic Safety Sling (Qty:1)
+
+B – Provided by KEPCO:
+
+    1-  Temporary (and spliced) 1.25in x 10 Ton compensating line (Qty:1)
+
+    2-  10 Ton Shackle (Qty:3)
+
+The rig up was completed successfully with the following notes to be taken into account:
+
+    1-  Hydraulic elevator cannot be used as the T-bar on the compensating sheave will not be
+        set properly. The manual elevator (available on the rig) has to be used when rigging up
+       the WMC for wireline operations.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 8 ]
+────────────────────────────────────────────
+    2-  The pad eyes used for the WMC on the rig are not certified and need to be certified (to
+      10 Tons) before the logging operation. (refer to pictures for details)
+
+    3-  The rig needs to provide a certified compensating line (1in x 10 Ton x 80m) for the
+        logging operation. (Logging cannot be done with the compensating line used for the
+      mock rig up).
+
+    4- A second mock rig up is required to after the risers are installed to calculate the exact
+        length of the compensating line needed for the operation.
+
+    5-  The diameter of the compensating sheave is too small compared to the wireline sheave.
+        This will cause the wireline sheave to contact the compensating line in case the sheave
+        rotates. During the “Wireline Logging” operation, the sheave will not rotate and the
+       operation can be done safely. However, attention must be paid if attempting a different
+         rig up (eg. Coil tubing, lubricators, etc…) as the sheave may come in contact with the
+       compensating line.
+
+    6-  There is no pad eye on the slip joint to connect the other end of the compensating line
+      on the risers (after they are installed). A certified pad eye needs to be made.
+
+Below is a basic guideline on how to setup the WMC for wireline logging on Amir Kabir SSDU:
+
+A - Weak Link Assembly:
+
+             1.  SLB Shackle (Qty:1)
+
+             2.  1.5m x 10 Ton Sling (Qty:1)
+
+             3. 5m x 10 Ton Sling (Qty:1)
+
+             4.  8 Ton Weak Link (Qty:1)
+
+             5.  12 Ton Shackles (Qty:4)
+
+As shown in the picture below:
+
+               -   The SLB shackle at one end of the 1.5m sling should be connected to the pad
+             eye (needs certification) on the rig floor, and to the weak link on the other end
+
+               -   Connect the 5m safety sling on the weak link inner eyes (using a shorter sling is
+              not safe)
+
+               -   The whole assembly should be connected to the compensating line on the other
+             end using a 10 Ton shackle provided by the rig.
+
+         (Make sure you use safety pins on all the shackles and keep the whole assembly as it
+                 is, meaning do not disassemble it, after the job)
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 8 ]
+────────────────────────────────────────────
+                                               Weak link Assembly:
+                                                                                      -  1x weak link
+                                                                                      -  4x shackles
+
+
+
+
+
+       1.5m sling
+
+
+
+
+
+                                                5m sling
+Pad eye
+
+
+
+
+
+                           SLB Shackle
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 8 ]
+────────────────────────────────────────────
+                                                   Compensating Line
+
+
+
+Shackle provided by rig
+
+
+
+
+
+Weak Link Assy
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 8 ]
+────────────────────────────────────────────
+B – Snatch Block Assembly:
+
+        1-  Snatch Block (Qty:1)
+
+        2-  12 Ton Shackle (Qty:2)
+
+As shown in the picture below:
+
+               -   The snatch block should be positioned over the hatch on the other end of the rig
+                 floor
+
+               -   The snatch block should be connected to the pad eye using 2x 12 Ton shackles
+
+               -   The compensating line should be passed through the snatch block
+
+
+
+
+                                                  Snatch Block
+
+
+
+
+
+          2x 12Ton Shackles
+Pad eye
+
+
+                                       Hatch
+
+C – Compensating Sheave Assembly:
+
+            1-  Compensating Sheave (Qty:1)
+
+            2-   4ft Safety Sling (Qty:1)
+
+            3-  10 Ton Shackle (Qty:1)
+
+            4-  SLB Shackle (Qty:3)
+
+            5-  SLB Upper Sheave Wheel (Qty:1)
+
+            6- 1m x 10 Ton Sling (Qty:1)
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 8 ]
+────────────────────────────────────────────
+         As shown in the pictures below:
+
+                           -  Make sure you center the top drive above the well
+
+                           -   The compensating sheave should be lifted with the upper pad eye using an SLB
+                         shackle and placed in the manual elevator. After the elevator is closed, use rope
+                         to secure it.
+
+                           -   The cable-retaining pin should be removed so that the compensating line is
+                             installed. (and installed back after the compensating line  is passed in the
+                        sheave)
+                                                                       Upper Padeye
+Manual Elevator                       SLB Shackle
+
+
+
+
+
+          Retaining Pin                    Compensating Sheave
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 8 ]
+────────────────────────────────────────────
+     -   Safety Sling should be choked around the lower end of the T-bar and connected
+        to the bails from the outside (DO NOT use the upper pad eye and SLB shackle
+        to connect the safety sling to the bails as the upper pad eye is only rated to 4.5
+        Tons. DO NOT pass the safety sling inside the elevator as it will be pinched and
+       damaged)
+
+     -   Connect 1m x 10 Ton sling to the lower pad eye of the compensating sheave
+        using an SLB shackle. (The sling is used to space out the wireline sheave from
+       the compensating sheave to avoid contact between the wireline sheave and
+       compensating line and to allow more space for the upper sheave wheel to
+        rotate)
+
+     -   Connect wireline upper sheave wheel to the 1m sling using an SLB shackle
+
+
+Compensating Sheave                          Lower Pad eye
+
+
+
+      SLB Shackle
+
+
+                                                   Compensating Line
+       1m Sling
+
+
+
+
+
+      SLB Shackle
+
+
+
+
+
+  Wireline Sheave
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 8 ]
+────────────────────────────────────────────
+                                                  Rope
+Shackle Provided by Rig
+
+
+
+
+
+           Safety Sling
+
+
+
+
+
+         D– Lower Sheave Assembly:
+
+                         -       Wireline lower sheave wheel should be assembled as per normal wireline
+                          operation
+
+                         -     Make sure the wireline cable and WMC cable are not in contact after you rig up
+
+          E– Connection of compensating line to riser:
+
+                         -      The other end of the compensating line should be connected to the pad eye on
+                          the slip joint using a 10 Ton shackle provided by the rig
+
+
+
+
+           Note: During the job, the tension on the compensating line should be set at 2 to 2.5 Tons
+
+

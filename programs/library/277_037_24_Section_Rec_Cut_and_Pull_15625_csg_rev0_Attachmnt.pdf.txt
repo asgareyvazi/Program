@@ -1,0 +1,304 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 5 ]
+────────────────────────────────────────────
+[صفحه 1: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 5 ]
+────────────────────────────────────────────
+                Formation Tops SPD7-03
+                                          Prognosed Top                              Actual Top                            TVD thickness
+System      Formation and member                                            m +/-                         MD     m TVD RT    mTVD MSL     MD    m TVD RT   mTVD MSL                prognosed   actual
+                                   Sea Bed          87.0           87.0            61.6
+                                         U. FARS          87.0           87.0            61.6
+                FARS
+                                               L. FARS
+                ASMARI                                    479.4          454.0                                                            73
+                             JAHRUM                       552.4          527.0                                                            248        TERTIARY         JAHRUM
+                           SACHUN EQV.                      800.4          775.0                                                            163
+                ILAM/HALUL                                   963.4          938.0                                                            72
+              SURGAH                                  1035.4         1010.0                                                           31
+                LAFFAN                                   1066.4         1041.0                                                           14
+               SARVAK                                   1080.4         1055.0                                                           58
+               KAZHDUMI                                  1138.4         1113.0                                                           41
+                DARIYAN                                  1179.4         1154.0                                                           110          CRETACEOUS         GADVAN                                  1289.4         1264.0                                                           71
+                FAHLIYAN                                  1360.4         1335.0                                                           158
+                   HITH                                    1518.4         1493.0                                                           63
+                             ARAB                       1581.4         1556.0                                                           59
+                                U.DOLOM.                      1640.4         1615.0                                                           46
+                                    U.LIMEST.                      1686.4         1661.0                                                           83
+                             CHERTY Z.                      1769.4         1744.0                                                           70
+              SURMEH         M.LIMEST.                      1839.4         1814.0                                                           102
+                          MOND Mbr.                      1941.4         1916.0                                                           90        JURASSIC
+                                     L.LIMEST.                      2031.4         2006.0                                                           113
+                             L.SURMAH SH.                     2144.4         2119.0                                                           41
+                                   LITHIOTIS BED                     2185.4         2160.0                                                           29
+                NEYRIZ SH.                                  2214.4         2189.0                                                           13
+                              U.DASHTAK                      2227.4         2202.0                                                           76
+                              EVAPORITE B.                     2303.4         2278.0                                                           90
+                                 U.SHALE                      2393.4         2368.0                                                           45
+              DASHTAK
+                               MAS. ANHYD.                     2438.4         2413.0                                                           27
+                                SUDAIR 8                      2465.4         2440.0                                                           175
+                           AGHAR SH.                      2640.4         2615.0                                                           26        TRIASSIC
+                              U.KANGAN                      2666.4         2641.0                                                           31
+              KANGAN           K1                        2697.4         2672.0                                                           118
+                                  K2                        2815.4         2790.0                                                           44
+                                  K3                        2859.4         2834.0                                                           120
+                                  K4                        2979.4         2954.0                                                           56
+               DALAN
+                                TD                        3035.4         3010.0          PERMIAN
+                           GWC                                       3060.0
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 5 ]
+────────────────────────────────────────────
+                                Statoil
+                              Location:  Persian Gulf                            Slot:  Slot #03
+                                      Field:  South Pars - Phase 6, 7 & 8           Well:  SPD7-03 T2
+                                 Installation:  SPD-7                          Wellbore:  SPD7-03 T2 Opt1 (PWB)
+
+           Scale 1 cm = 150 m                 East (metres) ->
+
+           -2100   -1950   -1800   -1650   -1500   -1350   -1200   -1050    -900    -750    -600    -450    -300    -150     0     150
+
+
+
+                          T.D. & End of Turn - 3035.40 Tvd, 682.19 N 1873.51 W                                                     750
+                                                                                                                                                                SPD7-03 T2 Opt1 (PWB)   SPD7-03 TD (Rev-1.0)
+
+                                                                                                                                    600
+          SPD7-03 Top K1 (Rev-1.0)    End of Hold - 2697.40 Tvd, 538.61 N 1494.03 W
+
+                                                                                                                                    450
+                                                                                                                                                                                                                                                                                                      <-North
+                                                                                                                                    300
+
+
+                                     End of Turn - 1519.83 Tvd, 125.41 N 417.14 W                                        150                                                                                                                                                                                                                                                                                                                                                (metres)
+                                              End of Turn - 1075.00 Tvd, 32.80 N 171.61 W                      SPD7-03 (AWB)
+     -200                                            End of Turn - 800.00 Tvd, 11.40 N 106.53 W                       Slot #03  Surface     0m
+                                                                              Tie on - 476.72 Tvd, 12.64 N 40.68 W
+ 200                                                                                                                                                                                                                                                                                                                                                     Scale=   0                                                                                                                                           -150
+ cm                                                                   1cm
+1                                                                   =
+  Scale  200                                                                                                                                                                                                 150m
+
+     400
+                        Tie on - 12.60 Inc, 480.00 Md, 476.72 Tvd, 39.97 VS
+                       12.57
+     600
+                       11.41
+                      DLS: 0.64 deg/30m
+
+     800
+                         10.84
+                         13.37
+    1000                                                                           SPD7-03 (AWB) DLS: 0.85 deg/30m
+                     3DS Kick off Point - 18.00 Inc, 1120.03 Md, 1100.00 Tvd, 178.00 VS
+                           22.26(metres) 1200                             27.06
+
+                             DLS: 1.60 deg/30m
+    1400                         38.26Depth
+                               End of Build/Turn - 44.41 Inc, 1615.24 Md, 1519.83 Tvd, 432.28 VS
+
+    1600
+
+
+                                                                                       WELL PROFILE DATAVertical                                                                                                                                                         Point         MD      Inc     Azi    TVD    North    East    deg/30m   V. Sect
+    1800                                                                                                                                                           Tie on           480.00   12.60  273.74   476.72    12.64    -40.68      0.00      39.97
+                                                                                                                                  End of Build/Turn       510.00   13.21  255.97   505.97    12.02    -47.27      4.00      45.95
+                                                                                                                                  End of Drop/Turn       540.00   13.00  260.00   535.19    10.60    -53.92      0.94      51.71True                                                                                                                             End of Drop/Turn       810.10   10.00  285.00   800.00    11.40    -106.53     0.64     101.41
+    2000                                                                                                                     End of Build/Turn      1093.74  18.00  290.00   1075.00   32.80    -171.61     0.85     169.88
+<-                                                                                                             KOP           1120.03  18.00  290.00   1100.00   35.57    -179.24     0.00     178.00
+                                                                                                                                  End of Build/Turn      1615.24  44.41  290.99   1519.83   125.41   -417.14     1.60     432.28
+                                                                                                                                    End of Hold        3263.60  44.41  290.99   2697.40   538.61   -1494.03     0.00     1585.57
+    2200                                                                                                                                               T.D. & Target SPD7-03 T   3792.58  56.00  290.50   3035.40   682.19Created-1873.51by :  russgrel0.66     1991.27
+                                                                                                                                                                                                                                          Date plotted :  18-Aug-2004
+                                                                                                                                                                                                                                                                               Plot reference is SPD7-03 T2 Opt1 (PWB).
+                                                                                                                                                                                                                                  Ref wellpath is SPD7-03 T2 Option1.
+    2400                                                                                                                                                                                                                              CoordinatesTrue VerticalareDepthsin metresare referencereferenceRigInstallationDatum.  Centre.
+                                                                                                                                                                                                                   Measured Depths are reference Rig Datum.
+                                                                                                                                                                                                                                         Rig Datum: Rani Woro (Actual)
+                                                                                                                                                                                                                                         Rig Datum to Mean Sea Level: 25.40 m.
+    2600                                                                                                                                                                                                                                                           Plot North is aligned to GRID North.
+           End of Hold - 44.41 Inc, 3263.60 Md, 2697.40 Tvd, 1585.57 VS              SPD7-03 Top K1 (Rev-1.0)
+                                                                            46.52
+    2800
+                                                                               49.15
+                                                                            DLS: 0.66 deg/30m
+                                                                                    54.41
+    3000                       T.D. & End of Build/Turn - 3035.40 Tvd, 682.19 N 1873.51 W                               SPD7-03 T2 Opt1 (PWB) SPD7-03 TD (Rev-1.0)
+
+
+    3200
+
+           -200     0     200    400     600    800    1000    1200   1400    1600   1800    2000   2200    2400   2600    2800
+           Scale 1 cm = 200 m               Vertical Section (metres) ->
+                            Azimuth 290.04 with reference 0.29 S, 2.85 W from Installation Centre
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 5 ]
+────────────────────────────────────────────
+                               South Pars, Iran
+
+                           Bottom Hole Assembly
+INTEQ
+                                   Rani Woro
+
+                                                                                                                                                                                             24/7/2004
+   BHA
+                 Drill 24" Section. Sidetrack                                                                                         Well #     SPD7-03 T2
+  Objective
+
+
+ Gauge O.D.                 BHA Item                            Supplier     Body O.D.   Body I.D.   Upper Connection  Item Length   Total Length
+
+  24        Tricone bit                                               Statoil        24                        7 5/8" REG P           0.60        0.60
+
+  23  1/4   M1P, 2.0° AKO, w/ Float                      BHI          11  1/4                 7 5/8" REG          10.00       10.60
+
+          Pony NMDC                                BHI          9  1/2     3           7 5/8" REG           3.00       13.60
+
+       MWD (Dir only)                              BHI          9  1/2     3           7 5/8" REG          10.00       23.60
+
+        UBHO Sub                                 BHI          9  1/2     4           7 5/8" REG           1.50       25.10
+
+        NMDC                                     BHI          9  1/2     3           7 5/8" REG           9.00       34.10
+
+           6 x 9 1/2" Drill Collar                            Rig           9  1/2     3           7 5/8" REG          55.00       89.10
+
+          X/O Sub                                   BHI          9  1/2     3           6 5/8" REG           1.00       90.10
+
+           2 x 8" DC                                      Rig           8         3           6 5/8" REG          18.00      108.10
+
+           8 " Jars (Smith)                              BHI          8         3           6 5/8" REG          10.00      118.10
+
+           2 x 8" Drill Collar                                Rig           8         2  7/8       6 5/8" REG          18.00      136.10
+
+             Accelerator (Smith)                           BHI          8         3           6 5/8" REG          10.00      146.10
+
+           1 x 8" Drill Collar                                Rig           8         2  7/8       6 5/8" REG           9.00      155.10
+
+            Crossover Sub                                 Rig           8         2  7/8     DSTJ 5 1/2 FH          1.00      156.10
+
+           12 x HWDP                                    Rig           5  1/2     3  9/29    DSTJ 5 1/2 FH       115.00      271.10
+
+
+
+
+
+                                           All OD / ID / Lengths are proximates.                                           Total length    571.10 m
+
+                                                                   Drill Pipe details                                    O.D.               I.D.           Length
+
+   String #1                       5 1/2"  21.9 Lbs/ft  Drill Pipe                       5  1/2         4  7/9       300.00
+
+   String #2                          No Drill Pipe                             0             0
+
+   String #3                          No Drill Pipe                             0             0
+
+                                Recomended drilling parameters                                                 B.H.A. weight details ( K daN )
+
+   W.O.B.    5 - 23 Tonnes (As per DD's recommendation). DP buckling @ 47 Tonnes.                                                       Total      Below Jar
+
+  Flow rate
+            3000 - 4800 lpm.                                                                                                    In Air          50.8        31.8
+    motor
+  Flow rate
+            3220 - 5490 lpm (57mm Restrictor)                                                                                In Mud         44.1        27.6
+  (MWD)
+  Motor rpm  93 rpm @ 4000 lpm                                                             Mud Wt.         1.03         S.G.
+
+ Drilling RPM 0 - 50 (As per DD's recommendation).                                                                             Inclination        15          Deg.
+
+  Backream
+           Max 50 rpm.
+   RPM
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 5 ]
+────────────────────────────────────────────
+                               South Pars, Iran
+
+                           Bottom Hole Assembly
+INTEQ
+                                   Rani Woro
+
+                                                                                                                                                                                          24/07/2004
+   BHA
+            Hold inclination to section TD (Slight drop in Jahrum, slight build in Sachun)                                       Well #     SPD7-03 T2
+  Objective
+
+
+ Gauge O.D.                 BHA Item                            Supplier     Body O.D.   Body I.D.   Upper Connection  Item Length   Total Length
+
+  24          Insert Bit                                                 Statoil        24                        7 5/8" REG P           0.60        0.60
+
+  24      NB Stabiliser w/ Float                         BHI          9  1/2                  7 5/8" REG           2.50        3.10
+
+           Shock Tool                                     Weatherford    9  1/2     3           7 5/8" REG           3.20        6.30
+
+          Pony NMDC                                BHI          9  1/2     3           7 5/8" REG           3.50        9.80
+
+       MWD (Dir only)                              BHI          9  1/2     3           7 5/8" REG          10.00       19.80
+
+        NMDC                                     BHI          9  1/2     3           7 5/8" REG           9.00       28.80
+
+           6 x 9 1/2" Drill Collar                            Rig           9  1/2     3           7 5/8" REG          55.00       83.80
+
+          X/O Sub                                   BHI          9  1/2     3           6 5/8" REG           1.00       84.80
+
+           2 x 8" DC                                      Rig           8         3           6 5/8" REG          18.00      102.80
+
+           8 " Jars (Smith)                              BHI          8         3           6 5/8" REG          10.00      112.80
+
+           2 x 8" Drill Collar                                Rig           8         2  7/8       6 5/8" REG          18.00      130.80
+
+             Accelerator (Smith)                           BHI          8         3           6 5/8" REG          10.00      140.80
+
+           1 x 8" Drill Collar                                Rig           8         2  7/8       6 5/8" REG           9.00      149.80
+
+            Crossover Sub                                 Rig           8         2  7/8     DSTJ 5 1/2 FH          1.00      150.80
+
+           12 x HWDP                                    Rig           5  1/2     3  9/29    DSTJ 5 1/2 FH       115.00      265.80
+
+
+
+
+
+                                           All OD / ID / Lengths are proximates.                                           Total length    576.80 m
+
+                                                                   Drill Pipe details                                    O.D.               I.D.           Length
+
+   String #1                       5 1/2"  21.9 Lbs/ft  Drill Pipe                       5  1/2         4  7/9       311.00
+
+   String #2                          No Drill Pipe                             0             0
+
+   String #3                          No Drill Pipe                             0             0
+
+                                Recomended drilling parameters                                                 B.H.A. weight details ( K daN )
+
+   W.O.B.    5 - 22 Tonnes (As per DD's recommendation). DP buckling @ 43 Tonnes.                                                       Total      Below Jar
+
+  Flow rate
+            N/A                                                                                                                  In Air          49.7        30.7
+    motor
+  Flow rate
+            3220 - 5490 lpm (57mm Restrictor)                                                                                In Mud         43.2        26.7
+  (MWD)
+  Motor rpm  N/A                                                                        Mud Wt.         1.03         S.G.
+
+ Drilling RPM Max 100 RPM                                                                                                      Inclination        15          Deg.
+
+  Backream
+            30 - 50 RPM
+   RPM
+
+

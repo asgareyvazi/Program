@@ -1,0 +1,1147 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 21 ]
+────────────────────────────────────────────
+Chapter 11         THE PROBLEM OF
+DEVIATION AND DOGLEGGING IN ROTARY
+                      BOREHOLES
+
+INTRODUCTION
+
+Deviation in drilling operations is not a new problem. The diamond core drill was invented in
+1865 and widely used as a cable tool drill in mining operations. The first evidence of concern
+about hole deviation was the invention by Nolten in Germany in 1874 of the use of hydrofluoric
+acid to etch and predict hole deviation. The acid bottle, as it was called, with hydrofluoric acid
+was lowered to the bottom and allowed to set until the acid etched the glass. The angle of
+inclination was determined by the etched line.
+
+Later a South African miner named MacGeorge invented the clinostat to predict both deviation
+and direction. The clinostat consisting of a magnetic needle and a plumb immersed in gelatin
+was lowered into the hole and the gelatin was allowed to set. The instrument was then brought
+to the surface and deviation and direction were read directly. At a meeting of mining engineers
+in London in 1885 MacGeorge presented data illustrating deviations of 75 feet in 100 foot mine
+shafts.
+
+The Petroleum Industry did not become aware of the problem until the Seminole, Oklahoma,
+boom of the middle 1920s.  Town  lot spacing was the primary factor contributing to the
+experience of the industry. There are actual recorded incidents of offset wells drilling into each
+other, wells drilling into producing wells, two rigs drilling the same hole, and the wells in the
+geometric center of the structure coming in low or missing the field completely.
+
+It was common drilling practice at that time to use only large drill pipe with no drill collars and all
+available weight since weight indicators were not available.  Engineers and the industry in
+general made a concentrated effort to solve the crooked hole problem. As a result, most of the
+practices commonly used today in an effort to correct and control deviation were conceived,
+experimented with and adopted in the 1920's, 50 years ago.
+
+The most effective practices adopted and still used today were the use of drill collars for weight
+and rigidity, the use of stabilizers at various points in the string to control deviation and provide
+rigidity, and the practice of fanning bottom (drilling with very low bit weights) to reduce angle.
+The first two have made the industry millions of dollars; the practice of fanning bottom has cost
+the industry millions of dollars.
+
+For whatever reason, early researchers were successful in their efforts. Wells surveyed in the
+greater Seminole, Oklahoma area with and without straight hole practices produced the results
+in Table 11-1.
+
+The data in Table 11-1 would indicate that the engineers of the 1920's didn't solve the problem
+of deviation, but the practices introduced are fundamental to the practices today.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                   11-1
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+                              Table 11-1. Survey Results from Seminole Field
+
+
+                                   Without                   With
+                               Straight-Hole Practices    Straight-Hole Practices
+
+        Number of Wells              216                     58
+
+        Total Feet Surveyed           910,232                  233,341
+
+         Average Depth               4,214                     4,023
+
+         Average Angle               13° 19'                     5° 19'
+
+       Maximum Angle              46° 0'                     19° 0'
+
+
+Very little research was performed in the area of deviation until Arthur Lubinski performed his
+work in the early 1950's, and real interest resulted from the advent and popularity of directional
+drilling.   In the last few years considerable field experience has been reported which has
+contributed significantly to the  total knowledge of  this particular aspect of  oil well  drilling
+technology.
+
+The economic incentive to develop techniques to cope with deviation  is staggering.  One
+contractor estimated that the additional surveys alone cost $0.50/foot of hole drilled.  The
+AAODC once estimated that a more realistic approach to deviation could save the industry $40
+million per year, and these estimates did not extend to directional drilling. Field experience has
+proven that drilling time can be reduced by as much as 30 to 50 percent of current practices
+with a realistic approach to deviation.
+
+The sad thing about this deviation problem is that the available technology is not being applied.
+In many areas of the world, drilling contracts are written in the same manner as they were 15
+years or 50 years ago. That is, hole deviation is limited to 1°/1,000 feet. This is truly an area
+where most operators and drilling people merely do what has been done for the last 15 years
+thereby impeding progress by not doing anything. The potential for advanced thinking in this
+area is unlimited.  This problem has cost the drilling industry too much money for too many
+years.
+
+With drilling costs what they are today, a lackadaisical attitude toward any phase of Drilling
+Technology, and particularly one so costly, should not be tolerated.  In his early work Arthur
+Lubinski suggested it, recently in his series in World Oil Moak Rollins said it, and in this book I'm
+going to shout it around the world. Our industry can no longer afford to pay the prices that have
+been paid in the past for deviated holes. We can no longer afford to take twice as long to finish
+our work simply because we're afraid the hole might get crooked.
+
+In this discussion we will analyze all available technology in deviation and doglegging.  Field
+experience will be evaluated in the light of available technology, and we will ultimately determine
+the most sophisticated approach to the problem in view of the total technology and available
+field experience.
+
+
+
+
+
+11-2                                                      Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+THEORIES OF CAUSES OF DEVIATED HOLES
+
+The anisotropic formation theory is widely accepted.  Past theoretical studies have assumed
+that the  bit  drills in the direction of the resultant force on the  bit in uniform or isotropic
+formations.  This implies that the bit does not display a preferential direction of drilling, Figure
+11-1 (A).    Stratified or anisotropic formations are assumed to possess different  drillability
+parallel and normal to the bedding plane with the result that the bit does not drill in the direction
+of resultant force.
+
+Each formation  is characterized
+by  its anisotropic index and dip
+angle.   The  anisotropic  index
+does not depend upon  specific
+rock properties but is an empirical
+constant determined from drilling
+measurements.  This theory has
+been applied to the computation
+of the equilibrium hole inclination
+angle for straight inclined holes.
+
+The  formation  drillability  theory
+seeks  to  explain  hole  angle
+change in terms of the difference
+in drilling rates in hard and soft
+dipping  formations, Figure 11-1
+(B). Presumably angle in the hole
+changes because  the  bit  drills
+slower in that portion of the hole
+in the hard formation. Inherent in
+this  theory   is  the  underlying
+assumption that the bit weight is
+distributed  uniformly  over  the
+bottom of the hole.    It predicts
+updip deviation when drilling into
+softer  rock  and  downdip  into
+harder rock.
+
+The miniature whipstock theory is
+based  on   drilling  experiments
+made by Hughes Tool Company,
+Figure  11-1  (C),  in  which an
+artificial  formation composed  of                                                       Figure 11-1. Theories of Deviated Holes
+glass plates has been drilled with
+the   hole    inclined    to   the
+laminations.  In these tests the plates fractured perpendicular to the bedding plane, creating
+miniature  whipstocks.     If such  whipstocks  are  created when  laminated  rock  fractures
+perpendicular to bedding planes, this could cause updip drilling.  This theory offers a possible
+qualitative explanation to hole deviation in slightly dipping formations; however,  it does not
+explain the downdip which occurs in steeply dipping formations.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                   11-3
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+The drill collar moment theory, Figure 11-1 (D), suggests that when a bit drills from a soft to a
+hard formation, the weight on bit is not distributed evenly along the bottom of the hole. Since
+more of the weight on bit is taken by the hard formation, a moment is generated at the bit. Such
+a moment changes the pendulum length to the point of tangency as well as the side force at the
+bit. The variation of side force is not the same when drilling from soft to hard formations as
+when drilling from hard to soft and, therefore, can effect a change of hole inclination.
+
+Raymond Knapp, Figure 11-1 (E), suggests that deviation results in dipping formations which
+vary in hardness and is directly related to the inability of the bit to drill a full gauge hole.  All bits
+ream a small portion of the hole to gauge with the heal rows. Mr. Knapp contends that in going
+from a soft to a hard formation the bit would be unable to ream the hard formation to gauge as
+fast as  it could drill the soft formation; therefore, the bit would be deflected toward the softer
+formation. Random deviation would result.
+
+Experience has shown  that  deviation occurs more  often  in laminated beds than  thick,
+homogeneous deposits.  Deviation is almost always associated with areas of steeply dipping
+formations. Faulting or perhaps the stresses associated with faulting influence deviation.
+
+In the final analysis there is no one satisfactory explanation for deviation.   It appears to be
+related to geology.  Deviation is never greater than bed dip.  All theory and practice indicates
+that the maximum deviation  is perpendicular to or parallel to the formation dip.   In  fact,
+Lubinski's model which is the most widely accepted suggests that total deviation will always be
+less than formation dip. This is an interesting and significant point. Why be afraid of deviation if
+bed dips are not severe?
+
+CATEGORIZING CROOKED HOLES
+
+If we are to fight a problem, we must decide when the problem is a problem and when the
+problem is only a potential problem. When we talk of hole deviation, we cover a multitude of
+evils; therefore, it becomes necessary to dissect the agglomeration into its component parts and
+evaluate the problems associated with each and the techniques normally associated with
+coping with those problems.  First then, let's consider holes that deviate from vertical uniformly
+in one plane and the "doglegs" or changes in direction will be considered.
+
+A rotary borehole that is not vertical is deviated.  Probably 95 percent of the instruments
+commonly used in the industry today measure only deviation from vertical with no regard for
+direction or changes in direction. The assumption is made, then, that the borehole is planer as
+illustrated in Figure 11-2(A).
+
+With this type of deviation many reasons are given which brand this type of hole as undesirable
+and necessitate the expenditure of multitudes of money to eliminate the problem. The more
+common anticipated problems are:
+
+        1.  Inadequate and misleading subsurface information.
+
+        2.  Insignificance of surface location with respect to well spacing.
+
+        3.  Inadequate drainage of production sands.
+
+
+
+
+
+11-4                                                      Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+
+
+        4.  Crossing lease lines.
+
+        5.  Excessive production problems.
+
+        6.  Excessive drilling problems.
+
+With respect to the anticipated excessive  drilling
+problems, directional drilling experience has proven
+that drilling problems are virtually non-existent in a
+borehole  inclined  in  excess  of  50°.   As  for
+production problems, many years experience  at
+Long Beach, Huntington Beach, and other coastal
+fields has produced no severe production problems
+in holes deviated in excess of 45°. The reason that
+very few problems result from deviation alone  is
+best illustrated by Figure 11-3.
+
+As  illustrated,  relatively  insignificant forces result
+from  deviation  angle  only.    For  comparative
+purposes a tool joint force less than 2,000 pounds is
+not considered detrimental  in normal operations.
+Therefore,  it must be concluded from the available
+experience and technology  that  deviation alone
+causes no severe drilling or production problems.
+
+Lease  line,  spacing,  subsurface  information,  or
+drainage cannot be considered a major problem
+since offset data has for years been used to predict
+natural  drift.  As shown  in Figure 11-2 (D)  the
+surface location is simply moved to compensate for
+the anticipated  drift and the hole  is  drilled  in a                                                            Figure 11-2. Reaching Target Area-Deviated Holes
+normal fashion.
+
+
+
+
+
+            Figure 11-3. Comparison of Casing and Tubing Wear Forces. (R.S. Hoch, World Oil, 1962)
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                   11-5
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+The only conceivable conclusion, then, from this discussion is that there is no good reason why
+deviation alone should be considered a major obstacle.  Only in isolated instances should  it
+become necessary  to  correct  or  control  drift.   However, a discussion  of  deviation and
+doglegging would not be complete without a discussion of the techniques presently being used
+to correct and/or control drift.
+
+METHODS USED TO CONTROL DEVIATION
+
+Unquestionably, the most universally accepted practice for correcting drift is referred to as the
+Pendulum Assembly. The concept evolved from the early work with stabilizers in the 1920's.
+Fundamentally  illustrated  in Figure 11-4, the Pendulum Assembly  utilized a  stabilizer  to
+increase the restoring force by increasing the  drill collar length contributing to the restoring
+force.
+
+Arthur Lubinski applied technology to the
+concept and explored the problem in his
+paper titled "Factors Affecting the Angle
+of Inclination and Doglegging in Rotary
+Bore Holes" published  in 1953.  The
+purpose   of   the   paper  was   to
+mathematically describe the effects of bit
+weight, formation characteristics, collar
+to   hole   clearance,  and   stabilizer
+placement   on    deviation.       For
+mathematical simplicity  it was assumed
+that:
+
+        1. The drill string always lies to
+           the low side of the hole.
+
+        2. Dynamic  forces caused by
+            rotation are insignificant.
+
+        3. The drill string never helically
+                                                Figure 11-4. Fundamental Pendulum Assembly Increases the
+           buckles.                                                  Restoring Force by Increasing the Tangent Length with a
+                                                                        Stabilizer in the Proper Position
+        4.  In an anisotropic formation as
+           previously described, the bit travels in the direction of the resultant force including a
+           formation force.
+
+        5.  Equilibrium is necessary for approximately 100 feet  if the data is to be properly
+           applied.
+
+These assumptions are basically sound and contribute simplicity to the mathematical model.
+However, the drill string does not always lie to the low side of the hole, the rotational forces may
+be significant and the drill string does helically buckle on occasion.
+
+The conclusions reached by Lubinski were very significant to the industry and constituted a
+major contribution to drilling technology.  Unfortunately, our industry does not now, 20 years
+
+
+
+
+
+11-6                                                      Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+later, utilize the technology developed. The most important, overlooked conclusion concerns
+doglegs or changes in deviation which are to be discussed thoroughly later.
+
+It was concluded that doglegs normally result from a change in conditions such as a change in
+bit weight or a change in formation property.  Doglegs resulting from sudden changes in bit
+weight and sudden changes in formation dip were studied, and  it was concluded that drilling
+with more bit weight and allowing the inclination to build did not result in sharper doglegs!
+
+The Pendulum Assembly resulted from the conclusion that the only force available to restore a
+deviated hole to vertical is the weight of the drill collars between the point of tangency and the
+bit (refer to Figure 11-4 ). Further, the restoring force may be increased by increasing the length
+between the bit and the point of tangency by the proper use of stabilizers. The mathematical
+model described was used to determine the most effective stabilizer position under defined
+conditions.
+
+The stabilizer position data were presented in many forms with the most effective being a set of
+tables  available from  Drilco, Readers  Service Department, Box 3135,  Midland, Texas.
+Complete instructions accompany these tables; however, a brief discussion of these tables is in
+order in this text.  Let's assume that it has been determined that the formation dip is 20°, a 7⅞
+inch hole is being drilled with 5½ inch drill collars, bit weight is 13,000 pounds, and deviation
+from vertical is 4°.
+
+The tabular data developed by Lubinski et al. relating to their conditions appears as illustrated in
+Figure 11-5 (A).  In the tables the hole class indicates the severity of the condition, i.e. "A" is
+most severe and "U" is least severe. Using the assumed conditions, it is then determined from
+Figure 11-5 (A) that a class "Q" condition exists. This means that under the drilling conditions
+established, equilibrium has been established, the restoring force is equal to the deviating force,
+and the effects of increasing the restoring force or changing any of the drilling variables can be
+evaluated.
+
+For the purpose of familiarizing ourselves with the material,  let's look at some examples.
+Looking across the "Q" condition line, if a stabilizer is placed 60 to 67 feet above the bit, the bit
+weight can be increased to 18,110 pounds or 36.8 percent. Suppose we were brave and would
+run 7 inch drill collars with a stabilizer 60 feet above the bit.
+
+Looking under 7 inch collars and the "Q" condition  it is determined that bit weight could be
+increased to 30,600 pounds or 131 percent which would improve penetration rate 131 percent!
+Let's assume that we are near the bottom of the hole and we could live with a 10° deviation.
+Looking at Figure 11-5 (B) for the "Q" condition and the 5½ inch collars with a stabilizer 40 to 45
+feet from bottom, the bit weight could be increased to 44,800 pounds or 238 percent which
+represents an increase of 238 percent in penetration rate!  Obviously, intelligently applied, this
+information can result in improved performance through faster penetration rates with a minimum
+risk.
+
+What is the risk?  Let's look at what would happen if the formation dip was 45° instead of the
+20° assumed.  Further, let's assume that we had to put the stabilizer at 40 feet on the 5½ inch
+collars, run the 44,800 pounds and  let the hole  drift to 10°.  From Figure 11-5 (C),  it  is
+determined that the formation was probably a class "S". Under the conditions assumed, Figure
+11-5 (C) indicates that the equilibrium hole angle would be slightly over 10°. Depending upon
+the circumstances, a 125 percent error in formation dip may or may not constitute a risk at all. A
+radical change in formation classification would be critical.
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                   11-7
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+Let's assume that the bit weight has been increased to 44,800 pounds with the stabilizer at 40
+to 45 feet on the 5½ inch drill collars, and the formation suddenly changes from a type "Q" to a
+type "N", the deviation would drift to 15° from vertical before equilibrium was achieved.
+
+Studying these charts reveals that the obviously best solution to the problem of drift is to pack
+the hole with the largest acceptable collars and stabilizers from the very start. This realization
+led to the development of the square drill collar which is, unquestionably, the best tool available
+for controlling direction or drift.
+
+
+
+
+
+  Figure 11-5. Excerpt from Drilco Tables for Effects of Collar Size, Bit Weight, and Collar Stabilizers on Deviation
+
+Tools other than conventional directional tools available and used in the field to correct or
+control drift are the woodpecker drill collar, the hammer tool, two cone bit, and the DM bit.
+
+
+
+
+
+11-8                                                      Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+The woodpecker drill collar is an ordinary 30 foot drill collar with 1 inch holes drilled into it at 1
+foot intervals.  This causes the collar to rotate about a center other than its geometric center.
+Therefore,   in  an  inclined  hole,  the
+restoring force would be increased by the
+centrifugal  force  of  the  collar mass
+rotating  about   its  center   of  mass.
+However, the deviating force would be
+increased by the centrifugal force minus
+the collar weight.  Figure 11-6 illustrates
+the principles involved.   At equilibrium
+the Restoring Force, FR, is by definition
+equal to the Deviating Force, FD.   If the
+Woodpecker  Drill  Collar  is  introduced,
+both  the  Restoring  Forces  and  the
+Deviating Forces are increased by some
+Mass multiplied by its acceleration (Ma).
+The net effect  is that the Woodpecker
+Drill  Collar  has  no   effect  on  the
+equilibrium conditions.
+
+                                                          Figure 11-6. The Woodpecker Drill CollarWith the woodpecker drill collar:
+
+              Restoring Force =Drill Collar Weight + Ma
+
+              Deviating Force = Deviating Force + Ma
+
+At equilibrium without the woodpecker drill collar:
+
+           FR = FD
+
+Introducing the woodpecker drill collar:
+
+           FR = FR + Ma
+
+           FD = FD + Ma
+
+Or the equilibrium is altered as follows:
+
+           FR + Ma = FD + Ma
+
+           FR = FD
+
+Or the equilibrium condition is unaltered by the woodpecker drill collar
+
+The Two Cone Bit is widely used in attempting to reduce hole angle. The thought is that the bit
+weight per chisel is increased (if each tooth can be called a chisel), permitting faster penetration
+rates at lower bit weights. In other words, penetration rate can be maintained while lowering bit
+weight, thereby reducing hole angle at no sacrifice of drilling time.  Field data has never
+substantiated this position.  In addition, sufficient data has never been printed to permit the
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                   11-9
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+systematic application of the principle.  It is my conclusion that the tool as it is now being used is
+worthless.
+
+When  air  drilling was popular, the Hammer Tool was promoted as an aid  in preventing
+deviation.  The Hammer Tool adds the principle of cable tool drilling to rotary drilling.  The
+thought was that penetration rates could be maintained at lower bit weights. The researchers of
+the 1920's found that cable tool holes were as crooked as rotary holes.  Further, the position
+concerning the Hammer Tool has never been substantiated by field data.  In fact, field data
+examined by this author found no improvement in crooked hole conditions could be attributed to
+the use of the Hammer Tool. In my opinion, the Hammer Tool or percussion drill is worthless as
+a tool to correct deviation and that when sufficient collars are available for optimum bit weights,
+it is worthless as a tool to increase penetration rate.
+
+The DM Bit was designed by Mr. Raymond Knapp of Ardmore, Oklahoma. Mr. Knapp has many
+years experience in the oil field and is as fine a person as  I have ever had the pleasure of
+meeting.   His  crooked  hole  theory was
+previously discussed as being due  to the
+inability of an ordinary bit to drill the hole to
+gauge.  Therefore, Mr. Knapp designed a bit
+on a 39° pin angle to  drill a gauge hole.
+Further, he put a web completely around the
+heel of each cone to resist the lateral forces
+which he contended caused deviation ( Figure
+11-7 ).
+
+Again no consistent field results have been
+presented establishing the usefulness of the
+DM  bit  in  controlling  deviation.   To  the
+contrary informal investigation by this author
+found no correlation between  bit type and
+deviation.     It  is my conclusion based on
+extensive experience that the DM Bit is not
+useful as a tool in combating or controlling
+deviation.
+
+In summary, we have examined a problem
+that isn't really a problem. The solution to the
+problem  is  to  plan  the  well so  that  the
+problem can be ignored.    If  drift must be
+controlled,  the  only  sound  approach   is
+through the use of a packed hole assembly
+or  a  pendulum  assembly.      All  other
+techniques are a waste of time and money.
+Now   let's  talk  about  the  real  problem,                Figure 11-7. The Webb Bit
+doglegging.
+
+DOGLEGGING IN ROTARY BOREHOLES
+
+Doglegs or sudden changes in hole angle or hole direction were recognized as  a  major
+potential problem by the pioneers of the drilling business. When it was possible to determine
+
+
+
+11-10                                                     Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+that a rapid change in angle had occurred, their solution was automatically plugged back and
+started over. Perhaps it is well that detection procedures were not highly defined or else a hole
+may never have reached total depth.
+
+Modern surveying techniques indicate that no hole  is perfectly  vertical.  Any hole has a
+tendency to spiral.  In fact, some holes surveyed made three complete circles in 100 feet.
+Spiraling is reduced as the deviation from vertical increases. The maximum spiraling occurs at
+angles less than 3° from vertical. At angles greater than 5° from vertical, the hole may move in
+a wide arc, but spiraling is almost non-existent.
+
+Doglegs are a major factor  in many of our more
+severe  drilling  problems.   Doglegging  should be
+suspected  when   the   following  problems   are
+encountered:  (1) unable to log,  (2) unable to run
+pipe,  (3) key seating,  (4) excessive casing wear, (5)
+excessive  wear  on   drill  pipe  and  collars,    (6)
+excessive drag,  (7) fatigue failures of drill pipe and
+collars,  and/or  (8)  excessive wear on  production
+equipment.
+
+Re-examination of Figure 11-3 partially explains the
+potential hazards. With respect to the tool joint force
+against the casing, note that a hole with 8° deviation
+from vertical, the tool joint contact force is essentially
+negligible.   However,  under  100,000  pounds  of
+tension a dogleg of 8° in 100 feet produces a wear
+force exceeding 4,000 pounds.   It is obvious that the
+doglegging  is the most severe problem, and   it  is
+primarily a drilling problem.
+
+The major problem facing the industry was to define a
+severe dogleg within the industry's ability to survey
+doglegs.   Arthur Lubinski made the  first efforts to
+define  a  severe  dogleg   in  his  paper  entitled
+"Maximum Permissible Doglegs in Rotary Boreholes"
+published in 1961.  Lubinski recognized that severe
+doglegs created major drilling problems and proposed
+that a dogleg was too severe   if any one  of the
+following conditions existed (Figure 11-8):
+
+        1. The stress reversals when rotating in the
+          dogleg were sufficient to fatigue the  drill
+           pipe.
+
+        2. The contact force on the drill pipe tool joint
+             in the dogleg was sufficient to cause the           Figure 11-8. Dogleg Severity
+            tool  joint  to dig  into the formation and
+         cause a key seat or produce casing wear.
+
+        3. The stress reversals when rotating in the dogleg were sufficient to fatigue the drill
+            collars.
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 11-11
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+Lubinski concluded that these conditions should be avoided and each section of the hole should
+be evaluated in view of the limiting conditions in order to determine the maximum permissible
+dogleg at any given depth.
+
+First, let's consider drill pipe fatigue.  Figure 11-9 illustrates the maximum permissible doglegs
+to  avoid  drill  pipe  fatigue as a
+function of tension on the drill pipe
+or depth for 4½ inch Grade E drill
+pipe.   From  Figure  11-9,  for
+example, with 300,000 pounds of
+tension on the drill string which is
+comparable    to    approximately
+20,000 feet of pipe, a dogleg  in
+excess  of 1½º  in 100  feet  at/or
+near the surface exists.
+
+At a  point 3,000  feet from  the
+bottom of the 20,000 foot hole, the
+tension  would  be  only  45,000
+pounds, and a 7½° change in 100
+feet of hole would be required to
+produce  drill pipe fatigue.  Thus
+potential      drill    pipe    fatigue
+constitutes a  limiting condition  in
+determining     a    maximum
+permissible   dogleg,   and   the
+tension or load on the drill pipe is
+the major factor affecting fatigue.
+Obviously, a much larger change
+in angle can be tolerated at total
+depth, whereas  only  very  small
+changes can be tolerated at the
+surface in very deep holes.
+
+Another consideration is the force
+caused by  the  drill  string  at a
+dogleg in the hole or casing.   In
+                                            Figure 11-9. Gradual and Long Dogleg Curvature vs Tension for
+order to determine the maximum                                             4½ inch Grade E Pipe
+permissible  contact  force  (which
+Lubinski called thrust force), Lubinski assumed that a dogleg of 1½° in 100 feet never caused
+any trouble. The deepest holes of that time were 16,000 to 18,000 feet in depth.  At 17,000
+feet, the drill pipe load in a 1½° per 100 foot dogleg results in a 2000 pound contact force on the
+formation or casing in the dogleg. Based on this experience then, it was assumed that a 2000
+pound or less contact force would never create a drilling problem. The dashed curve in Figure
+11-9 represents the maximum permissible dogleg to prevent excessive contact forces as a
+function of tension on the drill string.  Obviously, casing wear and key seats associated with
+excessive contact forces are more critical near the surface in deep wells. Larger doglegs can
+be tolerated nearer total depth without danger to hole and casing.
+
+The final limiting condition, according to Lubinski, is drill collar fatigue. Lubinski studied various
+conditions for different collar sizes, and calculations were made of the abrupt dogleg angle for
+
+
+
+11-12                                                     Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+which the connections would be subjected to a bending moment sufficient to produce fatigue
+failure.   It was concluded that the critical angle is a function of collar to hole clearance, the
+amount of tension or compression to which the collars are subjected in the dogleg, hole
+inclination, and whether the inclination is increasing or decreasing.
+
+When using packed hole assemblies, the critical angle is independent of all factors except
+clearance.  For example, in Figure 11-10 (A), 6¼ inch collars in a 7 inch hole can tolerate a
+dogleg of 1.2° in 30 feet or 3.6° in 100 feet with fatigue failure. On the other extreme the
+behavior of 6¼ inch collars in a 12¼ inch hole is erratic as illustrated in Figure 11-10 (F). The
+more common combination of 6¼ inch collars in a 7⅞ inch hole (Figure 11-10 (B) will tolerate a
+more severe dogleg without failure than  will the packed hole assembly combination under
+normal operating conditions and is essentially a function of clearance. Conversely, it is obvious
+from Lubinski's work that reduced collar to wall clearance resists doglegging.
+
+Lubinski concluded that each section of the hole, every 1,000 feet, for example, should be
+evaluated with respect to these limiting conditions of pipe and collar fatigue, key seating, and
+casing wear.  The condition  permitting the smallest dogleg would  dictate the operating
+limitations imposed on that section of the hole. The normal result is that potential key seating
+and casing wear  will dictate the maximum permissible dogleg angle tolerable to moderate
+depths, and will be less than 1½°/100 feet only in ultra-deep holes.
+
+Potential drill pipe fatigue will normally dictate the maximum permissible dogleg in the middle of
+the string and to the top of the collars.  Potential drill collar failure will dictate the maximum
+permissible dogleg angle both at the bottom of the hole and from surface to total depth as well.
+Obviously, the collars must drill and pass through the entire hole.  For example, for 6¼ inch
+collars in a 7⅞ inch hole, the maximum permissible change in angle is approximately 3½° in
+100 feet; therefore, nowhere in the hole should a greater change be tolerated.
+
+In an effort to apply experience to Lubinski's work, the API Mid-Continent Study Committee on
+Straight-Hole Drilling published in 1963 a study of 1,094 doglegs in the Gulf Coast, Mid-
+Continent, and West Cost areas.  Elaborate efforts were made to associate problems with the
+dogleg and its severity. Doglegs up to 25°/100 feet were reported.
+
+The committee's study substantiated the minimum limitation of 1½°/100 feet.  This minimum
+limit should be re-evaluated when drilling ultra-deep holes. Further, the study substantiated the
+limitations with regard to  drill collar fatigue.  Essentially, the committee suggested that the
+bottom of the hole equal to the length of the collar string should be limited by collar fatigue (i.e.
+3½°/100 feet for 6¼ inch collars) at the bottom and limited to 1½°/100 feet over the remainder of
+the hole.
+
+The experience evaluated indicated  that no problems would be encountered under  this
+schedule regardless of the ultimate total deviation from vertical. However,  it should be noted
+that no dogleg was reported below 11,000 feet and that such a program should be re-evaluated
+when drilling deep tests.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 11-13
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+
+
+
+
+Figure 11-10. Maximum Difference of Angle over a 30 foot Interval to Avoid Drill Collar Connection Failures -   6¼
+              inch Drill Collars. Positive φ= Tension and Negative φ= Compression (From Lubinski)
+
+Two other significant conclusions were reached in these papers.  First, Lubinski concluded that
+dogleg severity was independent of the weight on the bit. That is, drilling with more weight on
+the bit would not result in sharper doglegs; conversely, drilling with very low bit weights or
+"fanning bottom" would not reduce dogleg severity.  In fact, "fanning bottom" is detrimental to
+
+
+
+
+11-14                                                     Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+the  drill string since low  bit weights result in increased string tension which increases the
+potential of casing wear, pipe fatigue, collar fatigue, and key seating as previously explained.
+
+Secondly, the API Study Committee divided the doglegs into "soft" and "hard" formations. The
+previous discussions applied to "soft" formations. Of the 140 "hard" formation doglegs reported,
+only one resulted in a serious problem; therefore,  it was concluded that fewer problems could
+be expected in hard formations as a result of changes in angle.
+
+Since dogleg severity is primarily a function of clearance, the only practical method available to
+reduce dogleg severity is to reduce the collar to wall clearance or pack the hole and to increase
+stiffness by increasing hole size (last resort).  Packed hole assemblies include all forms of
+reamers, integral blade stabilizers, spiral collars, and rotating stabilizers at almost any spacing
+combination.  However, the best tool available today is the square drill collar with corner to
+corner measuring 1/16th inch less than hole size.
+
+Numerous papers have reported successful experiences  all over the world including South
+America, Gulf Coast, Mid-Continent, Rocky Mountains, and Canada, and under all conceivable
+drilling conditions.  In all the literature reviewed, no dogleg severity greater than 3½°/100 feet
+was reported while using a square drill collar regardless of drilling conditions.
+
+Other practices designed to merely cope with severe doglegs are as follows:
+
+        1.  Increase frequency of drill collar inspection.
+
+        2. Use non-hard banded drill pipe through the dogleg to avoid excessive casing wear.
+
+        3. Reduce rotary speed while drilling through the dogleg to reduce the number of stress
+           reversals.
+
+        4.  Minimize off-bottom rotation to reduce unnecessary stress reversals with maximum
+            tensile stress.
+
+        5. Use packed hole assemblies to reduce dogleg severity.
+
+        6. Keep the kick-off point in a directional well as deep as practical.
+
+        7. Use heavier casing through working doglegs.
+
+        8.  String reamers will often reduce dogleg severity and prevent key seats.
+
+In summary, dogleg severity is a serious drilling problem. Dogleg severity is a function of collar
+clearance. The best tool available to control dogleg severity is the square drill collar. In reports
+from around the globe covering over one million feet of hole, the square drill collar has been
+credited with improving hole conditions, reducing fishing jobs, improving penetration rates,
+improving bit runs, decreasing survey frequency, and decreasing dogleg severity.  Fanning
+bottom is of no benefit in controlling dogleg severity. In fact, it is detrimental to the drill string.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 11-15
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+A UNIQUE APPROACH TO DEVIATION
+
+The purpose of this section is to describe this author's experience in deviation and doglegging.
+The fundamental premise was that the reduced penetration rates and high costs associated
+with severe deviation and doglegging would not be accepted; an acceptable solution would be
+found.
+
+Research was  difficult.  Data was confusing.   Correlating and evaluating  field data was
+extremely difficult. A particular bottomhole assembly would appear successful on one job and a
+dismal failure on the next.  Controlled drilling practices might appear successful and fail on an
+offset. The problem seemed to be that the variables were not being adequately isolated and
+evaluated.
+
+The approach adopted, then, was to include all conceivable variables over a broad application
+and find some variable or combination of variables common to all successful ventures. The
+area evaluated was the Arkoma Basin of Southeastern Oklahoma.  The  drilling practices
+common to the area comprised the variables and were as follows:
+
+        1.  Subsurface Geology - Detailed regional geology was prepared. In addition, specifics
+           studied at each location included faulting, bed dips, formation tops, and any other
+          anomalies.
+
+        2.  Bottomhole Assembly - Surely every conceivable bottomhole assembly was in use in
+           the Arkoma Basin. Common techniques included stiff stabilizer assemblies, square
+                drill collars, woodpecker drill collars, the hammer drill, and the pendulum assembly.
+
+        3.  Bit Type - All types of conventional bits were common including insert bits. Common
+            "straight hole" bits included the DM Bit, the Two Cone Bit, and various other webbed
+             bits (T and U teeth).
+
+        4.  Drilling Fluid - The Arkoma Basin offered a unique opportunity to study the variation
+             in drilling fluids from dry air or gas to various forms of mist drilling to aerated mud
+              drilling to mud drilling.  All phases were common to the area.
+
+        5.  Hole Size and Collar Size - Not much variation was noted in the area. Hole size was
+          almost always 7⅞ inches in diameter, and contractors generally furnished 6 inch
+            collars.
+
+        6.  Surveys and Survey Frequency - Only single shot data providing deviation without
+          regard for direction was available. Surveys were frequently run at 15 foot intervals;
+           the interval between surveys never exceeded 90 to 120 feet.
+
+        7.  Rotary rpm - The rotary speeds studied varied 60 to 120 rpm with speeds closer to
+         60 rpm being more common. No significant variation was noted.
+
+        8.  Penetration Rate - Penetration rates varied from as little as 10 feet/day to 1,500 feet
+          per day. A wide variation was available.
+
+        9.  Bit Weight - A wide variation was available for study.  In some air holes  it was
+          questionable whether or not the bit was on bottom; in some mud holes bit weight
+        was as high as 60,000 pounds on a 7⅞ inch bit.
+
+
+
+11-16                                                     Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+As discussed, the approach was to compile this data on as many wells as possible and evaluate
+the success at each location in controlling deviation and doglegging.
+
+This study resulted in a very startling conclusion--within the realm of the research and on the
+limited number of wells analyzed, as long as the subsurface geology was consistent, no
+variable, no group of variables reviewed, had a consistent and correlatable effect on the
+ultimate deviation.   (Since only single shot data was available, dogleg severity was not
+rigorously evaluated.) Now, that's a conclusion which challenges some time-honored concepts
+relating to deviation and doglegging and is not readily acceptable.  So,  let's examine the
+variables for consistency within the conclusion.
+
+It was conceded that the variation in rotary rpm and clearance was not sufficient to provide
+significant data. The data indicated no benefit in ultimate deviation resulted from bit type or
+bottomhole assembly.  (Again,  it must be emphasized that dogleg severity was not rigorously
+evaluated due to insufficient data. The literature is filled with competent field data stressing the
+relationship between clearance and dogleg severity and is not denied or ignored.) There was
+no correlation between the type of drilling fluid and the ultimate deviation.
+
+The conclusion that really sticks in the throat is that no correlation was found between bit weight
+and ultimate deviation. "Anyone who has been in the oil field overnight knows that a reduction
+in bit weight will reduce hole angle," asserted a very capable toolpusher and this statement
+adequately describes the position of the industry.   But, the conclusion  in  this area was
+inescapable.
+
+A comparable offset to an air hole was drilled with mud.  Bit weights on the air hole were from
+essentially zero to a high of 8,000 to 10,000 pounds; the bit weights on the mud hole would
+range from 20,000 to 60,000 pounds; and no significant variation in ultimate deviation was
+recorded. Even more dramatic was the comparison before and after an air hole was mudded
+up.  Bit weight while air drilling would typically be 8,000 to 10,000 pounds; immediately after
+mudding up, the bit weight would be routinely increased to 30,000 pounds. The results, you
+guessed it, no significant change in ultimate deviation.  It's still hard to swallow.
+
+The most interesting variable to evaluate was survey frequency. As mentioned, surveys were
+routinely run at 15 to 30 foot intervals which meant that routinely over half of any day was
+consumed running surveys describing only total deviation. (Since it was decided previously that
+doglegging was the problem and deviation offered no problem, this routine practice might be
+difficult to defend.)   It is logical that more surveys mean more data which would enable drilling
+personnel to make better decisions and ultimately drill straighter holes. But, the holes with high
+survey frequency were no straighter than those with fewer surveys.
+
+Two questions immediately follow: (1) What is accomplished by running surveys every 15 to 30
+feet?   Is  it exercise-something done routinely from habit?  (2)  If some formula, variable or
+combination of variables, consistently influenced deviation, then shouldn't that condition logically
+correspond with increased survey frequency and result in straighter holes? The fact that survey
+frequency could in no way be correlated with deviation further suggested that even though the
+rig personnel knew the condition, nothing done significantly affected the ultimate deviation.  It's
+bitter, isn't it?
+
+In summary,  it was concluded that the degree of deviation is a function only of subsurface
+geology and can be correlated and predicted and that no field practice common to the Arkoma
+Basin had a significant, consistent effect on the total deviation.
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 11-17
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+The obvious recommendations which followed were:
+
+        1.  Predict deviation from control wells chosen from subsurface geology.
+
+        2.  Spot the surface location so that the bottomhole location would be acceptable.
+
+        3. Run a square drill collar to control dogleg severity.
+
+        4. Run optimum bit weights and rotary speeds.
+
+        5.  Pick the best bit for drilling.
+
+        6. Run surveys every 500 feet as required by law.
+
+Nine wells were drilled under this philosophy.  All were development locations and anticipated
+total deviation was predicted from offset information.  Bit weights were increased to 20,000 to
+30,000 pounds (all available weight) in air holes and held constant. In no instance were surveys
+run more than every 500 feet.  The results were impressive.  The total deviation was as
+predicted from subsurface  correlations and no problems  associated  with doglegs were
+encountered.
+
+Drilling time was reduced to ⅓rd to ½ of that previously required and the number of bits required
+was reduced 50 percent. The nine wells were drilled for the price of three drilled conventionally.
+One well was drilled to approximately 7,000 feet and completed for less than $24,000. The
+drilling contractors total invoice on one well to 7,000 feet was less than $9,000. A typical
+comparison is offered as Figure 11-11.
+
+Wells "A", "B", and "C" in Figure 11-11 are offsets and geologically similar. Well "A" represents
+one of the nine previously described.  Well "B" represents an air hole drilled by the same
+operator using conventional practices, and Well "C" was drilled with mud by a major operator.
+As illustrated, Well "C" was drilled with mud in 30 days to 7,000 feet.  Bit weights were as high
+as 50,000 pounds. The maximum measured deviation was 6½° and 33 total bits were required.
+Well "B" was drilled to 7,000 feet in 22 days.  Bit weight was routinely 4,000 to 6,000 pounds.
+The maximum measured deviation was 5½° and 9 bits were required.  Well "A", representing
+one of the nine, was drilled to 7,000 feet in 10 days which represents a 70 percent improvement
+over the time required for Well "C" and a 55 percent improvement in the time required for Well
+"B". Total measured deviation at Well "A" was 9°. Well "A" required only five bits or 85 percent
+fewer than Well "C" and 44 percent fewer than Well "B".
+
+
+
+
+
+11-18                                                     Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+
+
+
+
+                                          Figure 11-11. Bit Record
+
+The tenth well in the series offered some interesting observations and presented the unique
+opportunity to drill a well twice. The tenth was a step-out and control was poor.  In addition, a
+known fault was not well defined at the location.  However, one mile offsets to the north and
+west were chosen for control wells and are illustrated as Figure 11-12.
+
+Deviation to 12° was recorded in the north offset; however, 12° is not critical in 640 acre
+spacing. The north offset in Figure 11-12 illustrates the inconsistent logic related to drilling fluid
+type.  Note that to 200 feet the bit weight was held from 5,000 to 15,000 pounds while gas
+drilling.  After mudding up, the weight was increased from 20,000 to 30,000 pounds while the
+inclination decreased from 1° to ½°.   After gas  drilling was resumed, the  bit weight was
+ultimately reduced to 2,000 to 4,000 pounds.
+
+Water below surface casing required 7 inch intermediate casing to 3,100 feet and a 6¼ inch
+hole was planned to total depth.  The bottomhole assembly consisted of a  bit, Circle "C"
+assembly above the bit (two integral blade stabilizers 10 feet apart), and a sleeve stabilizer at
+30 feet and 5 inch drill collars.  Bit weights were 10,000 to 12,000 pounds and surveys were run
+every 500 feet. Total deviation was 2° at 3,000 feet and 41° at 7,500 feet.
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 11-19
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 21 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+C h a p t e r 1 1
+
+
+
+
+
+                                        Figure 11-12. Offset Drilling
+
+Directional surveys indicated dogleg severity as high as 3°/100 feet. No drilling problems were
+encountered.  It was decided that the well had drifted in the wrong direction, crossed a fault, and
+missed the pay zone; therefore, the well was plugged back to 4,900 feet and whipstocked to 1°.
+No bottomhole assembly was used.   All field practices commonly associated with prudent
+practice in crooked hole country were employed.  Bit weight was reduced to 1,000 to 2,000
+pounds, straight hole bits were run, and surveys were run every 15 to 30 feet.
+
+
+
+
+
+11-20                                                     Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 21 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                    T h e P r o b l e m o f D e v i a t i o n a n d D o g l e g g i n g  i n R o t a r y B o r e h o l e s
+
+Deviation after whipstocking at 5,750 feet was 2°. The deviation at 6,950 feet was 37½° and
+dogleg severity was measured at 5°/100 feet. The original hole required eight days while the
+final effort required sixteen days or twice as long.  All the care, slow drilling, and "safe" practices
+common to the area used in the whipstocked hole did not drill a straighter hole.
+
+Experience with this approach is limited; however,  it may well have application in hard rock
+areas such as Mid-Continent region and Canada. Certainly the experience of directional drillers
+in the coastal regions indicates that this approach does not have application in the coastal
+areas. The recommendations for drilling in crooked hole country are as follows:
+
+        1.  Establish control wells from subsurface geology.
+
+        2.  Predict deviation from control wells.
+
+        3.  Locate surface to compensate for undesired drift.
+
+        4. Run a square drill collar above the bit to reduce dogleg severity.
+
+        5.  Drill with optimum weights and speeds.
+
+        6. Run surveys as required by law.
+
+        7. Run a directional survey at total depth if severe problems are encountered.
+
+        8. Have faith that all is being done that is within the realm of current technology.   If
+          excessive problems are encountered, go forward to new technology-not backward
+         50 years to fanning bottom.
+
+
+SUMMARY
+
+What's been said?   It is submitted that the drilling industry can no longer afford the luxury of
+crooked holes.  The industry will no longer tolerate the penalties imposed in the past.  Very
+simply, a solution must be found to any problem in any given area.  Let's not tolerate this
+problem.   In the Arkoma Basin the problem was ignored.  A pendulum assembly may be
+completely satisfactory elsewhere.  Let's change our thinking. Dogleg severity is the problem
+and square drill collars combat dogleg severity to the best of our ability.  Deviation is not the
+problem.
+
+Experience offshore has proven that operating problems are not severe in holes intentionally
+deviated to angles far in excess of naturally deviated angles anywhere in the world.  Let's quit
+routinely worrying about deviation.  Let's solve this problem or learn to live with  it and quit
+paying an unnecessary premium for drilling in crooked hole country.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 11-21
+
+

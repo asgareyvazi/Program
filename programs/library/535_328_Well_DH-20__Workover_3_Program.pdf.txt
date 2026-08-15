@@ -1,0 +1,1136 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 26 ]
+────────────────────────────────────────────
+                                        Dehluran-20 Loc. W076N
+
+
+                                   Workover Program
+
+
+                                 In the Name of God
+
+               Workover Program
+
+          « DEHLURAN-20 (W/O-3) »
+
+
+
+
+
+                                                           SIGNATURES & DATE
+
+                                     P.P.Z
+
+                P.Gitynejad      Drilling Engineer
+Prepared by  :
+
+                M.Alekasir     Head of Drilling Engineering Department
+Supervised by :
+
+Approved by  :  S.Eskandari    Head of Drilling Operation
+
+                                                   I. C. O. F. C
+
+Approved by :   T.Farhadian    Head of Drilling Chemicals Department
+
+Approved by :   S.Zarei        Head of Drilling Programming
+
+Approved by :   L.Eshghee      Head of Drilling Engineering Department
+
+Approved by :   G.Dowlatnia    Head of Drilling Operation
+
+
+
+       DISTRIBUTION LIST:
+
+          I.C.O.F.C.                                    4 Copies
+       NIDC                                       4 Copies
+          P.P.Z.                                       2 Copies
+        Rig Site                                      2 Copies
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 26 ]
+────────────────────────────────────────────
+                                        Dehluran-20 Loc. W076N
+
+
+                                   Workover Program
+
+
+
+                              Table of Contents
+
+
+
+1.          Introduction................................................................................................................... 1
+1.1     Program Introduction .........................................................................................................................1
+1.2      General Well Information ..................................................................................................................2
+1.3     Well Drilling History .........................................................................................................................3
+1.4     Workover & Production History........................................................................................................3
+1.5      Formation Tops / Well Sketch (Before Workover)............................................................................7
+1.6      Reservoir Data....................................................................................................................................8
+1.7      Casing in Hole....................................................................................................................................9
+1.8      Current completion string (Before Workover).................................................................................10
+
+2.     Workover Program..................................................................................................... 11
+2.1    Sequence of Workover Operation................................................................................. 11
+2.2   Mud program................................................................................................................. 14
+2.3   BHA Design.................................................................................................................. 15
+2.4     Hydraulic Program........................................................................................................ 16
+2.5    Time Break down of operation ..................................................................................... 17
+2.6    Time Vs. Depth Chart ................................................................................................... 18
+
+3.     Formation Tops / Well Sketch (After Workover).................................................... 19
+
+4.     Proposed Completion String (After Workover)....................................................... 20
+
+5.     Completion Fluid Formulation.................................................................................. 20
+
+6.     Wellhead Schematic (Before Workover) .................................................................. 21
+
+7.     Wellhead Schematic (After Workover)..................................................................... 22
+
+8.     Requirement ................................................................................................................ 23
+
+9.     Contact List.................................................................................................................. 24
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+1. Introduction
+
+
+     1.1    Program Introduction
+
+             This program covers workover of well No.20, of Dehluran oil field, I.R.Iran. The well is
+              intended to produce oil from Sarvak formation. The well is in closed position right now
+             with 1750 psi wellhead pressure.
+
+            Problem
+
+               Salt water production is the main problem of this well.
+
+             Note: This program has been written with respect to the available information of
+             workover request no. ٦٨ / ٣١/-٣ ٤٠٠ ,dated: ٦٨٣١ /٢٠ / ٤٠ and letter no. 14889 dated:
+           ٦٨٣١ / ٣٠ / ٦١ of petroleum engineering department.
+
+           The main head lines of this program are as follow:
+
+                1.    Move and R/U Workover rig.
+                2.     Record wellhead and annuluses pressures.
+                3.     Complete wellhead.
+                4.    Do flow the well and run PSP log.
+                5.     Displace hole with proper mud.
+                6.     Secure well, L/D wellhead, N/U BOP's.
+                7.      Pull out & L/D completion string.
+                8.    Check inside and clean well down to TD.
+                9.    Run GR log to evaluate top of formations and layers.
+              10.    Displace well by gas oil, flow the well and record flowing data.
+              11.   Run Completion string.
+              12.   L/D BOP's, N/U wellhead.
+              13.    Release Rig.
+
+              Attentions:
+
+                •  In case of impossible well flowing or producing high volume of water,
+                  complementary program will be offered in due time.
+
+                •  Considering the GR logging result, drilling into 4-1/8" hole-section down to
+                   deeper TD may be needed.
+
+                •  The detailed program is illustrated here after in this document under the
+                 head of "Workover Program".
+
+
+
+
+
+                                                                        - 1 -
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 26 ]
+────────────────────────────────────────────
+                                       Dehluran-20 Loc. W076N
+
+
+                                  Workover Program
+
+       1.2    General Well Information
+
+
+Country:                 Iran                       Client:          ICOFC
+
+Field:                   Dehluran                 Contractor:       NIDC
+
+Well Name:            DH-20 (ST#1)            Rig Name:        FA 80
+
+Well Type:             Workover # 3          RTE:            182m
+
+Present Status:          Producing Salt Water     GLE:            174m
+
+Lambert:               N: 1,172,447m       E: 1,698,627m      (W076N)
+
+Sarvak Entry Point:      3872m (-3688.5)
+
+Total Depth (ST#1):      4010m (-3826.5)
+
+
+
+
+
+                                                                             - 2 -
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+     1.3    Well Drilling History
+
+
+                                                  .ﻳﺪدﮔﺮ وعﺷﺮ 75 /9/ﻳﺦ1رﺗﺎ در نﺑﻨﮕﺴﺘﺎ ﻧﺪزﺳﺎ در ﻧﻔﺖ ﺗﻮﻟﻴﺪ ف ﻫﺪ ﺑﺎ ق ﻓﻮ هﭼﺎ ريﺣﻔﺎ - 1
+ن ﻴﻤﺎ ـ ﺳ و هﺪـﻧرا ر ﺎ ـ ﺣﻔ ﺮـﻣﺘ 2884 و 2157 ،153 يﺎـﻫ ﻖ ـ ﻋﻤ ﺎـﺗ ﺐـﺗﺮﺗﻴ ﻪ ـ ﺑ 9- 5/8" و 13- 3/8" ،18- 5/"8 اريﺟﺪ يﻫﺎ ﻟﻮﻟﻪ - 2
+
+                                                                                                                                                       .ﻳﺪدﮔﺮ
+ﺪ ـ ﺣ در "7 يﺘﺮـﺳآ ﻪ ـ ﻟﻮﻟ ،ﺎﻳﻲـﻣآز ﻻﻳﻪ م ﻧﺠﺎ ا و ن ﻣﺨﺰ ﻳﺎﺑﻲارز يﻫﺎدارﻧﻤﻮ نﻧﺪرا از ﭘﺲ و ﻣﻪادا ر ﺣﻔﺎ ﻣﺘﺮ ﻋﻤﻖ4185 ﺗﺎ ريﺣﻔﺎ - 3
+
+                                                                                              .ﻳﺪدﮔﺮ نﺳﻴﻤﺎ و هﻧﺪرا ر ﺣﻔﺎ ﻣﺘﺮ 2812- 4173 ﻓﺎﺻﻞ
+
+ﺮـﻣﺘ 4016- 4030 و 4000- ﻓﺎﺻﻞ4015 ﺣﺪ ن ﻣﺨﺰ ﻳﺎﺑﻲارز يﻫﺎدارﻧﻤﻮ ﻧﺘﺎﻳﺞ ﺑﻪ ﺗﻮﺟﻪ ﺑﺎ و ﺗﻤﻴﺰ ر ﺣﻔﺎ ﻣﺘﺮ ﻋﻤﻖ4160 ﺗﺎ هﭼﺎ - 4
+                                                                      .ﻳﺪدﮔﺮ ﻣﺸﺒﻚ HSD يﻫﺎﮔﻠﻮﻟﻪ ﺑﻮﺳﻴﻠﻪ وكﺳﺮ ﻧﺪزﺳﺎ –3 ﻻﻳﻪ رد ر ﺣﻔﺎ
+در ﻞ ـ ﻛ د آن ﻞـﺗﻜﻤﻴ و هﺎـﭼ جﺎـﺗ ﺎﻳﻲـﺑﺮﭘ از ﭘﺲ و هﻧﺪرا ر ﺣﻔﺎ ﻣﺘﺮ 2920 /ﻋﻤﻖ8 ﺗﺎ ﺗﻮﭘﻚ ﺑﺎ اهﻫﻤﺮ 7"×4 1/"2 ﺗﻜﻤﻴﻠﻲ ﺷﺘﻪ ر - 5
+
+                                                                                                                    .ﻳﺪدﮔﺮ ﺗﺮﺧﻴﺺ 75 /12 /26 ﻳﺦرﺗﺎ
+
+     1.4    Workover & Production History
+
+
+ﺎﻫﺶ ـ ﻛ ﻔﺮـﺻ ﻪ ـ ﺑ ﺎﻫﻲ ـ ﻛﻮﺗ ت ﺪ ـ ﻣ از ﭘﺲ ﺟﺮﻳﺎﻧﻲ رﻓﺸﺎ ﻛﻪ ﺷﺪ زﺑﺎ ﺳﻮﺧﺖ دالﮔﻮ ﺑﻪ 1/"2 هﻛﺎﻫﻨﺪ روي هﭼﺎ 76 /6/ﻳﺦ25رﺗﺎ در - 1
+
+                                                                                                                                                         .ﻳﺎﻓﺖ
+
+ﺲ ـ ﭘ ﻛﻪ ﻳﺪدﮔﺮ ازيﻧﺪا راه روز در ﺑﺸﻜﻪ ﺗﻮﻟﻴﺪ2000 ﺑﺎ هﭼﺎ ،79 دادﻣﺮ در ر ﺣﻔﺎ ﻣﺘﺮ 3949- ﺻﻞ3970اﻓﻮ ريﻛﺎ ﻣﺸﺒﻚ از ﭘﺲ - 2
+
+                                                             .ﺷﺪ ﺑﺴﺘﻪ هﭼﺎ نﺳﺘﻮ در ﻧﻤﻚ ب ﺳﻮ ر ﺗﺸﻜﻴﻞ و ﻧﻤﻚ آب ﺗﻮﻟﻴﺪ ﻟﻴﻞد ﺑﻪ ﻣﺪﺗﻲ از
+
+ر ﺬﻛﻮ ـ ﻣ ﻖ ـ ﻋﻤ در و ﺪ ـ ﺷ زيﺗﻤﻴﺰﺳﺎ ر ﺣﻔﺎ ﻣﺘﺮ ﻋﻤﻖ2280 ﺗﺎ آب ﺑﻮﺳﻴﻠﻪ هﭼﺎ نﺳﺘﻮ رﺳﻴﺎ يﻣﻐﺰ ﻟﻮﻟﻪ هﺳﺘﮕﺎد ﺑﺎ 81 /11 /7 ﻳﺦر ﺗﺎ در - 3
+
+                                 .ﺷﺪ ارشﮔﺰ 72 PCF وزن ﺑﺎ و ﻧﻤﻚ آب ﺟﻲوﺧﺮ لﺳﻴﺎ .ﻳﺪدﮔﺮ ه ﻣﺸﺎﻫﺪ رﻋﺒﻮ ﻗﺎﺑﻞ ﻏﻴﺮ و ﺳﺨﺖ ﻣﺎﻧﻊ
+ﻪ ـ ﺑ ﻫﻤﭽﻨﻴﻦ و ﻓﺖ ر ﻣﻲ آن در 9- 5/"8 اريﺟﺪ ﻟﻪﻟﻮ ﮕﻲﻣﭽﺎﻟ ل ﺣﺘﻤﺎ ا ﻛﻪ يﻣﺘﺮ 2280 در د ﻮ ﻣﻮﺟ ﺳﺨﺖ ﻣﺎﻧﻊ ﻓﻊ ر ف ﻫﺪ ﺑﺎ هﭼﺎ ﻳﻦا - 4
+
+ادﺪـﺑﺎﻣ ﻚـﻳ ﺎﻋﺖ ـ ﺳ و 82 /1/20 ﻳﺦرﺎـﺗ در ﻞ ـ ﻛ د .ﺖـﮔﺮﻓارﻗﺮ ﺗﻌﻤﻴﺮ ﺗﺤﺖ ر ﺣﻔﺎ ﻣﺘﺮ 4160 ﻋﻤﻖ ﺗﺎ هﭼﺎ نﺳﺘﻮ زيﺗﻤﻴﺰﺳﺎ ر ﻣﻨﻈﻮ
+
+                                                                                                                                                .ﻳﺪدﮔﺮ د ﺳﭙﺎ ا
+
+
+                                                                      :ﭘﺬﻳﺮﻓﺖ م ﻧﺠﺎ ا ﺳﺮﭼﺎﻫﻲ تﺧﺪﻣﺎ ﺗﻮﺳﻂ ﻳﺮ ز ح ﺑﺸﺮ ﻧﻲ ا ﺧﻮ ر ﻓﺸﺎ
+
+
+
+هﺰـﻳآو درون ﻪـﻃﺮﻓدو ﻴﺮـﺷ .ﺪ ـ ﺷ ﺸﺘﻪ ـ ﻛ و ﻫﺪ لﺑﺎ ﺑﻲ آ ﭘﺎﻳﻪ ي ﭘﻮﻧﺪ 137 ﮔﻞ ﺑﺎ هﭼﺎ  ،د ﺑﻮ م ﭘﺎ 3150 دو ﻫﺮ آن ﻟﻴﺰدا و يﻣﻐﺰ يﻫﺎ ﻟﻮﻟﻪ رﻓﺸﺎ
+
+در ﻌﻲ ـ ﺳ و ﺮـﮔﻴدر يﺰـﻣﻐ ﻪ ـ ﻟﻮﻟ هﺰـﻳآو ﺎـﺑ .ﻳﺪدﮔﺮ ﺑﺮﭘﺎ ﻧﮕﻴﺮﻫﺎراﻓﻮ و دهﭘﻴﺎ يﻣﻐﺰ ﺳﺮﻟﻮﻟﻪ روي ﺗﺎ هﭼﺎ جﺗﺎ .ﺷﺪ رﻓﺸﺎ ﻣﺎﻳﺶآز و ﻧﺼﺐ يﻣﻐﺰ
+،يﺮـﻣﺘ ﺎ2283ـﺗ 5- 7"8/ هﺪـﻛﻨﻨ ب ﻴﺎ ـ ﺳ آ ﺎـﺑ ﺎﻳﻴﻦـﭘ ﻪ ـ ﻟﻮﻟ .ﺪ ـ ﺷ رجﺎ ـ ﺧ ﻳﻤﻨﻲ ا ﺷﻴﺮ ﺟﺎﻳﮕﺰﻳﻦ .د ﺑﻮ هﺑﻴﻔﺎﻳﺪ ﻛﻪ ﺷﺪ يﻣﻐﺰ ﻟﻮﻟﻪ ن ﻛﺸﻴﺪ ونﺑﻴﺮ
+
+ﺪ ـ ﺻ در ﺪ ـ ﺻ ﻌﻴﺖـﺿو در ﻣﻴﻞ ه ﻣﺸﺎﻫﺪ  ،ﺑﺎﻻ ﻟﻮﻟﻪ  ،ﭘﻴﺸﺮﻓﺖ م ﻋﺪ ﺑﺪﻟﻴﻞ ي،ﻣﺘﺮ 2284- 2283 دنﻛﺮ ب ﺳﻴﺎ آ ،ﻣﺎﻧﻊ روي رﻛﺎ ،ﻣﺎﻧﻊ ﺑﺎ ردﺑﺮﺧﻮ
+
+  ﻣﺠﻤﻮﻋﺎ ) يﻣﻐﺰ يﻫﺎ ﻟﻮﻟﻪ ﻳﺨﺘﻦ ر ﭘﺎﻳﻴﻦ و دن آور ونﺑﻴﺮ  .ﻳﺪدﮔﺮ آزاد هﻳﺰآو رﺟﺎ ﺑﺎ  ،يﻣﻐﺰ ﻟﻮﻟﻪ هﻳﺰآو ﺑﺎ ن ﺷﺪ ﮔﻴﺮدر از ﭘﺲ .ه ﺷﺪ رده ﺧﻮ
+
+
+                                                                        - 3 -
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+در ﻪـﻟﺒ ﺛﺮا ﮔﺮﻓﺘﻦ و ﻳﻨﭻا ﻫﺸﺖ دارﺑﺮ ﺛﺮا نﻧﺪرا .ﻧﺸﺪ ﻣﻤﻜﻦ رﻋﺒﻮ آن از و ﻟﻤﺲ يﻣﺘﺮ 2240 در ﻣﺎﻧﻊ 8- 3/"8 ﻛﻮﻧﻮﻣﻴﻞ ا ﺑﺎ (.ﻣﺘﺮ 2275 /5
+
+.ﺪـﻧدﻛﺮ ﺮـﮔﻴ يﺮـﻣﺘ 2270 ر د ﺎـﻫ ﻪ ـ ﻟﻮﻟ ﻣﺮﺣﻠﻪ ﻳﻚ در و ﺷﺪﻳﺪ ورﮔﺸﺘﺎ ﺑﺎ اهﻫﻤﺮ يﻣﺘﺮ ﺗﺎ2313 2280 از ﻣﺎﻧﻊ دنﻛﺮ ب ﺳﻴﺎ آ .يﻣﺘﺮ 2247
+
+                                                                          .ﻧﺘﻴﺠﻪ ﺑﻲ ،يﻣﺘﺮ 2300 در ه ﻣﺎﻧﺪ ﻳﺎﻓﺖزﺑﺎ در ﺳﻌﻲ ﭘﻮﻧﺪ 145 ﺗﺎ ﮔﻞ وزن ﻳﺶ ا ﻓﺰ ا
+
+
+140 ﻪ ـ ﺑﻳﺠﺎ ر ﺪ ـ ﺗ ﮔﻞ وزن ،روي زﻫﺮ ﺑﻌﻠﺖ ) ي ﭘﻮﻧﺪ 145 ﮔﻞ ﺑﺎ يﻣﺘﺮ 2290- 2270 ﺣﺪﻓﺎﺻﻞ در 9- 5/"8اريﺟﺪ درون ﻳﭽﻪ در دنﻛﺮ زﺑﺎ
+
+ﺞـﻛ ﻪ ـ ﺑ ام ﺪ ـ ﻗ ا ﭼﺎﻫﻲ درون ر ﻣﻮﺗﻮ ﺑﺎ ﺳﭙﺲ و ﺷﺘﻪ ا ﮔﺬ ﻣﺮﺣﻠﻪ دو در يﻣﺘﺮ 2272- 2298 ﻓﺎﺻﻞ ﺣﺪ در ﺳﻴﻤﺎﻧﻲ گﭘﻼ (ﺷﺪ داده ﻛﺎﻫﺶ ﭘﻮﻧﺪ
+
+رهﺎـﺑدو هﺎـﭼ  ،ﺷﺪ ردﺑﺮﺧﻮ ه ﻣﺎﻧﺪ ﺑﺎ يﻣﺘﺮ 2300 در و ﻧﺪ د ﺑﻮ ن ﺳﻴﻤﺎ ه ﺷﺪ هﻛﻨﺪ يﻫﺎ ﻧﻤﻮﻧﻪ يﻣﺘﺮ 2291 در ﻛﻪ ﺷﺪ يﻣﺘﺮ 2279 از هﭼﺎ دنﻛﺮ
+
+                                                                                                                                                 .ﻳﺪدﮔﺮ ﺳﻴﻤﺎﻧﻲ گﭘﻼ
+
+و هﺪـﻛﻨﻨارﭘﺎﻳﺪ روي ﺰـﻓﻠ ﺑﺎ ردﺑﺮﺧﻮ رﺛﺎآ ه ﻣﺸﺎﻫﺪ و ﺑﺎﻻ ﻟﻮﻟﻪ ،ﻧﺮﻓﺖ ﺗﺮ ﭘﺎﻳﻴﻦ يﻣﺘﺮ 2248 از هﻛﻨﻨﺪ ارﭘﺎﻳﺪ ﻛﻪ هﭼﺎ د ﻣﺠﺪ دنﻛﺮ ﻛﺞ در ﺳﻌﻲ
+
+                                                                                                  .ﻳﺪدﮔﺮ فﺑﺮﻃﺮ و ه ﺷﺪ ب ﺳﻴﺎ آ ﻣﺎﻧﻊ ،ﻣﺮﺣﻠﻪ ﭼﻨﺪ از ﭘﺲ .ﻣﺘﻪ
+
+ﺎـﺑ اهﺮـﻫﻤ يﺮـﻣﺘ ﺎ2442ـﺗ 2380 از ري ﺎ ـ ﺣﻔ ﻪـﻣادا .يﺮـﻣﺘ ﺗﺎ2380 ي ﭘﻮﻧﺪ ﮔﻞ142 و هﻛﻨﻨﺪ ارﭘﺎﻳﺪ و PDC ﻣﺘﻪ ﺑﺎ ﻓﻲ ا ﻧﺤﺮ ا ريﺣﻔﺎ ﻣﻪادا
+
+                                                                                                       .ﻛﻠﺴﻴﻢ ن ﻳﻮ ﻳﺶ ا ﻓﺰ ا ﺑﻌﻠﺖ ﭘﻮﻧﺪ 143 ﺎﺗ ﮔﻞ وزن ودن ﻓﺰ ا
+
+ﻞ ـ ﮔ ﺑﺎ يﻣﺘﺮ 2741 ﺗﺎ ﻓﻲ ا ﻧﺤﺮ ا ريﺣﻔﺎ ﻣﻪادا و س /ب 4- 2 روي زﻫﺮ و ي ﭘﻮﻧﺪ ﮔﻞ148 ﺑﺎ يﻣﺘﺮ ﺗﺎ2683 2442 از ﻓﻲ ا ﻧﺤﺮ ا ريﺣﻔﺎ ﻣﻪادا
+
+و ي ﺪ ـ ﭘﻮﻧ 146 ﻞ ـ ﮔ ﺎـﺑ (اريﮔﺬ هﺳﺘﺮآ ﻧﻘﻄﻪ ) يﻣﺘﺮ 2879 ﻋﻤﻖ ﺗﺎ ريﺣﻔﺎ ﻣﻪادا .د ﻓﺘﺎ ا ﻛﺎﻣﻞ روي زﻫﺮ ﺑﻪ هﭼﺎ ﻋﻤﻖ ﻳﻦا در ﻛﻪ ي ﭘﻮﻧﺪ 146
+
+                                                                                                                                    .ﺳﺎﻋﺖ در ﺑﺸﻜﻪ 12- 2 زرويﻫﺮ
+
+
+. يﺮـﻣﺘ ﺗﺎ2878 2133 ﺣﺪﻓﺎﺻﻞ در آن ريﺳﻴﻤﺎﻧﻜﺎ و يﺳﺘﺮآ ﻧﺼﺐ  .يﻣﺘﺮ ﺗﺎ2879 80 ال – ﭘﻮﻧﺪ 35 – ﻳﻨﭻا 7 يﺳﺘﺮآ ﺷﺎﺧﻪ 62 نﻧﺪرا
+
+ﻪ ـ ﻃﻮﻗ ) يﺮـﻣﺘ 2753 ﺎـﺗ ﺎﻳﻴﻦـﭘ ﻟﻮﻟﻪ .يﻣﺘﺮ ﺗﺎ2134 2133 از يﺳﺘﺮآ ﺧﻞدا ن ﺳﻴﻤﺎ ريﺣﻔﺎ و (ﻟﺒﻪ ) يﻣﺘﺮ ﺗﺎ2133 2002 از ن ﺳﻴﻤﺎ ريﺣﻔﺎ
+
+ﺎـﭘﻼﮔﻬ و ن ﻴﻤﺎ ـ ﺳ ريﺣﻔﺎ  .د ﺑﻮ ﺳﺎﻛﻦ ،هﭼﺎ ﺳﻲرﺑﺮ و يﻣﺘﺮ 2853 از آب ﺑﺎ هﭼﺎ درون ﮔﻞ ﺟﺎﻳﮕﺰﻳﻨﻲ .د ﺑﻮ ب ﺧﻮ ﻟﺒﻪ رﻓﺸﺎ ﻣﺎﻳﺶآز (ﺳﻴﻤﺎﻧﻲ
+
+ﺸﻜﻪ ـ ﺑ ﺎ2ـﺗ 1 زرويﺮـﻫ ﺎـﺑ يﺮـﻣﺘ 3832 ﺎـﺗ ري ﺎ ـ ﺣﻔ ﻪـﻣادا .ي ﺪ ـ ﭘﻮﻧ 70 ﻏﻨﻲرو ﮔﻞ ﺑﺎ هﭼﺎ ﺧﻞدا آب ﺟﺎﻳﮕﺰﻳﻨﻲ  .يﻣﺘﺮ 2890 ﺗﺎ ﻧﺪزﺳﺎ و
+
+ﻳﺶاﺰـﻓا و هﺎـﭼ نﺎـﺟﺮﻳ ه ﻣﺸﺎﻫﺪ .يﻣﺘﺮ ﺗﺎ3985 ريﺣﻔﺎ ﻣﻪادا و ﭘﻮﻧﺪ 73 ﺑﻪ ﮔﻞ وزن ﻳﺶ ا ﻓﺰ ا ،ﻣﺮﺣﻠﻪ ﭼﻨﺪ در ﻫﺎ ﻟﻮﻟﻪ ﮔﻴﺮ ﺑﺎ اهﺮﻫﻤ ﺳﺎﻋﺖدر
+
+3341 در ﻫﺎ ﻟﻮﻟﻪ ﮔﻴﺮ ﺑﺎ اهﻫﻤﺮ ﻣﺮﺣﻠﻪ ﭼﻨﺪﻳﻦ در ﻛﻪ هﭼﺎ ﭘﻴﻤﺎﻳﺶ از ﭘﺲ نﻫﻤﺰﻣﺎ ر ﻃﻮ ﺑﻪ نﺟﺮﻳﺎ و زرويﻫﺮ ه ﻣﺸﺎﻫﺪ  .ﭘﻮﻧﺪ 103 ﺑﻪ ﮔﻞ وزن
+
+و ﺼﺐ ـ ﻧ يﺮـﻣﺘ ﺎ3984ـﺗ 2762 ﻞ ـ ﺣﺪﻓﺎﺻ در و (يﺮـﻣﺘ )3985 هﺪـﻧرا TRC95 ،ي ﺪ ـ ﭘﻮﻧ 18 ،ﻨﭻـﻳا 5 يﺘﺮـﺳآ .د ﺑﻮ اهﻫﻤﺮ يﻣﺘﺮ 3865 و
+
+                                          .ﻧﺸﺪ هﻳﺪد ﺳﻴﻤﺎﻧﻲ ﻧﻴﺰ يﻣﺘﺮ 2900 ﺗﺎ يﺳﺘﺮآ درون ،ﻧﺸﺪ ه ﻣﺸﺎﻫﺪ ﻟﺒﻪ يﺑﺎﻻ در ﺳﻴﻤﺎﻧﻲ .ﻳﺪدﮔﺮ ريﺳﻴﻤﺎﻧﻜﺎ
+
+
+ﻪـﻟﺒ ﻞـﺧدا از ﺮـﻣﺘ ﻴﻢـﻧ وداًﺣﺪ و ﻟﺒﻪ يﺑﺎﻻ ﺨﺖ ﺳ ن ﺳﻴﻤﺎ ريﺣﻔﺎ و ﻳﻨﭻا 5 يﺳﺘﺮآ ﻟﺒﻪ يﻣﺘﺮ 150 در RTTS ﻧﺼﺐ ﺑﺎ ﻟﺒﻪ رونﺑﺪ ن ﺳﻴﻤﺎ ﻳﻖرﺗﺰ
+
+ل ﻮ ـ ﻃ در ﻞ ـ ﮔ وزن ) .د ﻮ ـ ﺑ ب ﻮ ـ ﺧ ،ﻟﺒﻪ رﻓﺸﺎ ﺧﺸﻚ ﻣﺎﻳﺶآز ،د ﺑﻮ ب ﺧﻮ ﻟﺒﻪ رﻓﺸﺎ ﻣﺎﻳﺶآز (ن ﺳﻴﻤﺎ ون ﺑﺪ ) يﻣﺘﺮ 2900 ﺗﺎ ﭘﺎﻳﻴﻦ ﻟﻮﻟﻪ .يﺳﺘﺮآ
+
+.ﻲـﻏﻨرو ي ﺪ ـ ﭘﻮﻧ 67 ﮔﻞ ﺑﺎ هﭼﺎ درون ﮔﻞ ﺟﺎﻳﮕﺰﻳﻨﻲ ،يﻣﺘﺮ ﺗﺎ3980 3959 از نﺳﻴﻤﺎ و ﻛﺎﻟﺮ و ﻫﺎ گﭘﻼ ريﺣﻔﺎ  .(ﭘﻮﻧﺪ 103 ق ﻓﻮ ت ﻋﻤﻠﻴﺎ
+
+            .ﺑﺎﻻ ﻟﻮﻟﻪ ﺣﻴﻦ )2(س /ب   هﭼﺎ نﺟﺮﻳﺎ ﺑﺪﻟﻴﻞ ﭘﻮﻧﺪ 68 ﺑﻪ ﮔﻞ وزن ﻳﺶ ا ﻓﺰ ا ﺑﺎ اهﻫﻤﺮ (ﻧﻬﺎﻳﻲ ﻋﻤﻖ ) يﻣﺘﺮ 4010 ﻋﻤﻖ ﺗﺎ ﻧﺪزﺳﺎ ريﺣﻔﺎ
+
+
+
+
+                                                                        - 4 -
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+(يﺮـﻣﺘ 2178 در يﺰـﻣﻐ ﻪ ـ ﻟﻮﻟ يﺎـﻧﺘﻬا ) ﺖ ـ ﭘﻴﻮﺳ اولﺪـﺟ ح ﺑﺸﺮ 7"×4- 1/"2 ﺗﻜﻤﻴﻠﻲ ﺷﺘﻪ ر ﻳﻨﭻا 7 يﺳﺘﺮآ ﺧﻠﻲدا ارهﺟﺪ نﺷﻴﺪاﺧﺮ از ﭘﺲ
+
+ﻞ ـ ﮔ و ﺎـﺑﺮﭘ ﺖ ـ ﭘﻴﻮﺳ ي ﺷﻤﺎ ﻃﺒﻖ هﭼﺎ جﺗﺎ ،يﻣﻐﺰ ﻟﻮﻟﻪ هﻳﺰآو درون ﻃﺮﻓﻪ دو ﺷﻴﺮ ﻧﺼﺐ از ﭘﺲ .د ﺑﻮ ب ﺧﻮ ﻛﻪ ﻳﺪدﮔﺮ رﻓﺸﺎ ﻳﺶ ﻣﺎآز و هﻧﺪرا
+
+ﺎـﺑ هﺎـﭼ درون ﻞ ـ ﮔ ﺎﻳﻲـﺟﺎﺑﺠ و (ﺮـﻣﺘ )4010 هﭼﺎ ﺗﻪ ﺗﺎ رﺳﻴﺎ يﻣﻐﺰ ﻟﻮﻟﻪ نﻧﺪرا .ﻳﺪدﮔﺮ ﺟﺎﺑﺠﺎ ﻛﺸﻮﻳﻲ ﻳﭽﻪ در ﻃﺮﻳﻖ از ﺋﻴﻞزوﮔﺎ ﺑﺎ هﭼﺎ درون
+
+ﻪ ـ ﻛ ﻴﺪ ـ ﺳ ا ﻖـﻳرﺗﺰ در ﻌﻲ ـ ﺳ و رﻴﺎـﺳ يﻣﻐﺰ ﻟﻮﻟﻪ  ﺑﺎ زﺑﺎ ه ﺣﻔﺮ ريﻛﺎ ﺳﻴﺪ ا  .ﻧﺘﻴﺠﻪ ون ﺑﺪ ﺋﻴﻞزوﮔﺎ ﻳﻖرﺰ ﺗ در ﺳﻌﻲ .د ﺑﻮ ﺳﺎﻛﻦ هﭼﺎ ﻛﻪ ﺋﻴﻞزوﮔﺎ
+
+، ﻧﺼﺐ ﻣﻴﻨﻲز ﻳﺮز ﻳﻤﻨﻲ ا ﺷﻴﺮ ﺟﺎﻳﮕﺰﻳﻦ .ﺷﺪ ﺷﺘﻪ ا ﮔﺬ رﻛﻨﺎ و ه ﻛﺸﻴﺪ ونﺑﻴﺮ رﺳﻴﺎ يﻣﻐﺰ ﻟﻮﻟﻪ .ﺪ ﺷ ﻳﺨﺘﻪ ر ونﺑﻴﺮ هﭼﺎ درون از ﺳﻴﺪ ا .د ﺑﻮ ﻧﺎﻣﻮﻓﻖ
+
+                                                                                                        .ﺷﺪ ﺗﺮﺧﻴﺺ 1382 /6/22 ﺧﻪ ر ﻣﻮ در ﻛﻞ د و ﻳﻤﻦ ا هﭼﺎ
+
+
+1/"4 هﺪـﻛﺎﻫﻨ ﺎـﺑ هﭼﺎ و ﻳﺪدﮔﺮ ريﻛﺎ ﻣﺸﺒﻚ 2- 1/"8 يﻫﺎ ﮔﻠﻮﻟﻪ ﺑﺎ ر ﺣﻔﺎ ﻣﺘﺮ 3954 /8- 3977 /ﺻﻞ5اﻓﻮ 82 /12 /ﻳﺦ23رﺗﺎ در - 5
+
+                           .ﻳﺎﻓﺖ ﻛﺎﻫﺶ ﺻﻔﺮ ﺑﻪ م ﭘﺎ 1650 از ﺟﺮﻳﺎﻧﻲ رﻓﺸﺎ ﺳﺎﻋﺖ ﭼﻨﺪ از ﭘﺲ ﻛﻪ ﺷﺪ داده نﺟﺮﻳﺎ ز ﺳﻮ ﺋﺪزا دالﮔﻮ ﺑﻪ
+
+
+ﻞـﺋﻴزوﮔﺎ ﻖـﻳرﺗﺰ ﺎـﺑ هﻛﺎﻫﻨﺪ ون ﺑﺪ ، ﺳﻮﺧﺖ دالﮔﻮ ﺑﻪ هﭼﺎ دن ﺑﻮ زﺑﺎ ﺑﺎ و ارﺳﺘﻘﺮا هﭼﺎ روي ﺑﺮ رﺳﻴﺎ يﻣﻐﺰ ﻟﻮﻟﻪ 83 /1/ﻳﺦ18رﺗﺎ در - 6
+
+ﻞ ـ ﮔ ت ﻮﺑﺎ ـ ﺳ ر و ﻟﺠﻦ ويﺣﺎ هﭼﺎ ﺗﻪ ه ﺑﺎﻗﻴﻤﺎﻧﺪ ﻣﺘﺮ ده ر،ﺣﻔﺎ ﻣﺘﺮ 4000 ﻋﻤﻖ ) هﭼﺎ ﺗﻪ ﺑﻪ ن ﺳﻴﺪ ر از ﭘﺲ ﻛﻪ ﻳﺪدﮔﺮ وعﺷﺮ ﭘﺎﺋﻴﻦ ﻟﻮﻟﻪ
+
+ﻫﺎ ﺷﺒﻜﻪ ﻣﻘﺎﺑﻞ در ﺗﻮﻗﻒ و ﺑﺎﻻ ﻟﻮﻟﻪ ﺑﻪ ام ﻗﺪ ا (ﺷﺪ ﻣﺘﻮﻗﻒ ﭘﺎﻳﻴﻦ ﻟﻮﻟﻪ ه،ﭼﺎ ﺗﻪ ت ﺳﻮﺑﺎ ر در ﻟﻮﻟﻪ دنﻛﺮ ﮔﻴﺮ ل ﺣﺘﻤﺎ ا ﺑﺎ ﻛﻪ د ﺑﻮ ريﺣﻔﺎ
+
+)0.2 انﺰـﻣﻴ ﻪ ـ ﺑ يﺰـﻣﻐ ﻪ ـ ﻟﻮﻟ ﻖـﻃﺮﻳ از ﺋﻴﻞزوﮔﺎ ﺑﺎ ﻟﻴﻪاو يﭘﺬﻳﺮ ﻳﻖرﺗﺰ و ﺑﺴﺘﻪ ﺣﺎﻟﺖ ﺑﻪ هﭼﺎ .ﺷﺪ ﻟﻴﻪاو يﭘﺬﻳﺮ ﻳﻖرﺗﺰ ﺧﺬ ا ر ﺑﻤﻨﻈﻮ
+
+                                                                                                          .ﻣﺪ آ (ﺑﺪﺳﺖ3000 psi رﻓﺸﺎ ﺑﺎ bbl/min
+
+
+ﺎـﺑ و م ﭘﺎ 4000 رﻓﺸﺎ ﺑﺎ ﺳﻄﺢ از ﺋﻴﻞزوﮔﺎ از ده ﺳﺘﻔﺎ ا ﺑﺎ و Spot ﻫﺎﺷﺒﻜﻪ ﻣﻘﺎﺑﻞ در %ﺳﻴﺪ28 ا ﺑﺸﻜﻪ 20 اﺑﺘﺪا ،ﺿﻌﻴﻒ يﭘﺬﻳﺮ ﻳﻖرﺗﺰ ﺑﻪ ﺗﻮﺟﻪ ﺑﺎ
+Psi رﺸﺎـﻓ ﺎـﺑ يﺰـﻣﻐ ﻪ ـ ﻟﻮﻟ از ده ﺘﻔﺎ ـ ﺳ ا ﺎـﺑ %ﺳﻴﺪ15 ا ﮔﺎﻟﻦ 3000 و %28 ﺳﻴﺪ ا ه ﺑﺎﻗﻴﻤﺎﻧﺪ و هﻧﺪرا ﻫﺎﺷﺒﻜﻪ رونﺑﺪ 2.3 bbl/min ﻳﻖرﺗﺰ انﻣﻴﺰ
+
+                                                                                                .ﻳﺪدﮔﺮ ﻳﻖرﺗﺰ ﻫﺎﺷﺒﻜﻪ رونﺑﺪ 0/8 ﺑﻲbbl/min د ﺑﺎ و 3500
+
+
+
+      .دﺑﻮ هﺷﺪ ﭘﺮ ﺟﺎﻣﺪ ﻧﻤﻚ ازًﻛﺎﻣﻼ ﻟﻮﻟﻪ از ﻣﺘﺮ ﻧﻴﻢ ودﺣﺪ و زلﻧﺎ ه،ﭼﺎ از يﻣﻐﺰ ﻟﻮﻟﻪ نﻣﺪآ ﺑﺎﻻ مﮕﺎﻫﻨ ﻳﻨﻜﻪا ﺗﻮﺟﻪ ﻗﺎﺑﻞ ﻧﻜﺘﻪ -
+
+ﺪ ـ ﺷ ﺳﻄﺢ از ﺋﻴﻞزوﮔﺎ ﺑﺸﻜﻪ 300 ﻳﻖرﺗﺰ ﺑﺎ يﭘﺬﻳﺮ ﻳﻖرﺗﺰ ﺧﺬ ا ﺑﻪ ام ﻗﺪ ا ي،ﻣﻐﺰ ﻟﻮﻟﻪ هﺳﺘﮕﺎد يﺑﺎﻻ ﻟﻮﻟﻪ ﺑﺎ نﻫﻤﺰﻣﺎ ﺳﻴﺪ ا ﻳﻖرﺗﺰ ت ﻋﻤﻠﻴﺎ از ﭘﺲ
+
+.ﺪـﻣآ ﺖ ـ ﺑﺪﺳ (4200 Psi رﺸﺎـﻓ ﺎـﺑ 4 bbl/min )ﺎﻳﻲـﻧﻬ يﺬﻳﺮـﭘ ﻖـﻳرﺗﺰ و د ﺑﻮ ( 2000 Psi رﻓﺸﺎ ﺑﺎ )4bbl/min  ﻟﻴﻪاو يﭘﺬﻳﺮ ﻳﻖرﺗﺰ ﻛﻪ
+
+                                                  .ﺷﺖدا ديﺻﻌﻮ ﻧﺪرو رﻓﺸﺎ ،ﻳﻖرﺗﺰ ﺑﻲد ﺷﺘﻦدا ﻧﮕﻪ ﺛﺎﺑﺖ رﺑﻤﻨﻈﻮ
+
+
+ﻚـﻳ از ﺲ ـ ﭘ ﻪ ـ ﻛ ﺪ ـ ﺷ داده نﺟﺮﻳﺎ دالﮔﻮ ﺑﻪ ، ﺳﻮﺧﺖ دالﺷﻴﺮﮔﻮ لﻛﻨﺘﺮ ﺑﺎ (ﺳﻄﺢ از ﻳﻖرﺗﺰ از ﻧﺎﺷﻲ رﻓﺸﺎ ) 4500 Psi ﺳﺮﭼﺎﻫﻲ رﻓﺸﺎ ﺑﺎ هﭼﺎ
+رﺸﺎـﻓ ﺎﻫﺶ ـ ﻛ ﻛﻪ ﻳﺪدﮔﺮ ﻧﺼﺐ 3/"4 هﻛﺎﻫﻨﺪ ، Choke Flange روي ﺑﺮ و ﻳﺪدﮔﺮ ﺑﺴﺘﻪ هﭼﺎ ﻛﻪ ﻳﺎﻓﺖ ﻛﺎﻫﺶ 1000 Psi ﺑﻪ رﻓﺸﺎ ،ﺳﺎﻋﺖ
+
+ﺎﻋﺖ ـ ﺳ 12 ت ﺪ ـ ﺑﻤ ﺪ ـ ﺑﻌ روز ﺒﺢـﺻ ﺗﺎ هﭼﺎ نﺟﺮﻳﺎ .ﺷﺖدا نﺟﺮﻳﺎ ﺳﻮﺧﺖ دالﮔﻮ ﺑﻪ ن ﻛﻤﺎﻛﺎ هﭼﺎ ﻟﻲو ﺻﻔﺮ رﻓﺸﺎ ﻳﻨﻜﻪا ﺗﺎ ﻳﺎﻓﺖ ﻣﻪادا ن ﻫﻤﭽﻨﺎ
+وزن ﻪ ـ ﺑ ﻲـﺟوﺧﺮ لﺳﻴﺎ ﻛﻪ ﮔﺮﻓﺘﻪ ارﻗﺮ ﻣﺎﻳﺶآز رد ﻣﻮ ﻧﻴﺰ هﻛﺎﻫﻨﺪ ون ﺑﺪ و 1/"4 هﻛﺎﻫﻨﺪ ﺑﺎ هﭼﺎ .ﺷﺪ ﻗﻄﻊﻛﺎﻣﻼ نﺟﺮﻳﺎ ﻳﻨﻜﻪا ﺗﺎ ﺷﺖدا ﻣﻪادا
+                                                                                                                                                          .د ﺑﻮ 70 Pcf
+
+
+
+                                                                        - 5 -
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+
+از ده ﺘﻔﺎ ـ ﺳ ا  ﺎـﺑ هﺎـﭼ ن ﺘﻮ ـ ﺳ ﺎﻳﻲـﺟﺎﺑﺠ ﺑﻪ ﺗﺼﻤﻴﻢ ﻫﺎ ﺷﺒﻜﻪ ﻣﻘﺎﺑﻞ لﺳﻴﺎ ﺳﻲرﺑﺮ ﺟﻬﺖ ه،ﭼﺎ ﺳﻨﮕﻴﻦ نﺳﺘﻮ و ﺟﻲوﺧﺮ لﺳﻴﺎ يﺑﺎﻻ وزن ﺑﻪ ﺗﻮﺟﻪ ﺑﺎ
+
+ﻳﺦرﺎـﺗ در د ﻮ ـ ﻣﻮﺟ ﻞـﺋﻴزوﮔﺎ ﺸﻜﻪ ـ ﺑ 600 از ده ﺘﻔﺎ ـ ﺳ ا ﺎـﺑ (Displacement) ت ﺎ ـ ﻋﻤﻠﻴ ﻪ ـ ﻛ ﺪ ـ ﺷ ﻪـﮔﺮﻓﺘ هﭼﺎ ﺗﻪ لﺳﻴﺎ آوردن ﺑﺎﻻ و ﺋﻴﻞزوﮔﺎ
+
+     ﻟﻮﻟﻪ ﺑﻪ وعﺷﺮ ﺳﻮﺧﺖ دالﮔﻮ ﺑﻪ هﭼﺎ دن ﺑﻮ زﺑﺎ و ﺋﻴﻞزوﮔﺎ ﻳﻖرﺗﺰ ﺑﺎ و ارﺳﺘﻘﺮا هﭼﺎ روي ﺑﺮ يﻣﻐﺰ ﻟﻮﻟﻪ هﺳﺘﮕﺎد .ﻳﺪدﮔﺮ وعﺷﺮ 83 /1/11
+نﻫﻤﺰﻣﺎ ﻛﻪ ﺷﺪ وعﺷﺮ 2500 Psi رﻓﺸﺎ ﺑﺎ 0.7 bbl/min ژﺑﺎﭘﻤﭙﺎ نﺳﺘﻮ ﺟﺎﺑﺠﺎﺋﻲ (ر ﺣﻔﺎ ﻣﺘﺮ )4000 هﭼﺎ ﺗﻪ ﺑﻪ ن ﺳﻴﺪ ر از ﭘﺲ ﻛﻪ د ﻧﻤﻮ ﭘﺎﻳﻴﻦ
+
+آب ﺖـﻣﺎﻫﻴ ﺎـﺑ وﻪ76pcf ـﺑًﻧﻬﺎﻳﺘﺎ ﻛﻪ دﺑﻮ 70 pcf اﺑﺘﺪا ﻫﺎﻧﻤﻮﻧﻪ وزن .ﺷﺪ ﮔﺮﻓﺘﻪ ﻧﻤﻮﻧﻪ آن از رﻳﻜﺒﺎ ﺳﺎﻋﺖ ﻧﻴﻢ ﻫﺮ هﺳﺮﭼﺎ از لﺳﻴﺎ وجﺧﺮ ﺑﺎ
+.ﺪـﺷ ﻪـﮔﺮﻓﺘ 76 pcf وزن ﺎـﺑ ﻲﻴﺎﻟـﺳ ﺰـﻧﻴ هﭼﺎ ﺗﻪ ازو ﺪﻳدﮔﺮ ﺟﺎﺑﺠﺎ ﺋﻴﻞزوﮔﺎ ﺑﺸﻜﻪ 450 از دهﺳﺘﻔﺎا ﺑﺎ نﺳﺘﻮ ﻛﻞ–ﺳﻴﺪر لﻻز و ﺷﻦرو رﺑﺴﻴﺎ
+                                     .ﺳﻴﺪر (ﺧﺎﻟﺺ ﺋﻴﻞزوﮔﺎ وزن) 52 pcf ﺑﻪ ﻳﻨﻜﻪا ﺗﺎ ﻳﺎﻓﺖ ﻛﺎﻫﺶ ﻳﺞرﺑﺘﺪ ﻫﺎﻧﻤﻮﻧﻪ وزن
+
+
+
+ر ﻮ ـ ﺑﻤﻨﻈ د،ﻮـﻧﺒ دنﺮـﻛ ﺷﻦرو ﻗﺎﺑﻞ ﺳﻮﺧﺖ دالﮔﻮ ﻛﻪ د ﺑﻮ دﻳﺎز ي ﺣﺪ ﺑﻪ نﺳﺘﻮ ﺟﺎﺑﺠﺎﻳﻲ ت ﻋﻤﻠﻴﺎ مﻫﻨﮕﺎ در هﭼﺎ ﺟﻲوﺧﺮ آب ﺣﺠﻢ  -
+دن ﻮ ـ ﻧﻤ ﻳﺖاﺪـﻫ ﺖ ـ ﺟﻬ ﺮـﻣﺘ دو ل ﻮ ـ ﻃ ﻪ ﺑ "6 ﻟﻮﻟﻪ ﺗﻜﻪ ﻳﻚ و ﺷﻜﺎﻓﺘﻪ ر ﻣﺬﻛﻮ ﻗﺴﻤﺖ ،ﺳﻮﺧﺖ دالﮔﻮ ﺷﺮﻗﻲ ارهﻳﻮد ن ﻧﺸﺪ ﺷﻜﺴﺘﻪ
+
+                                                                                                 .ﻳﺪدﮔﺮ ﻧﺼﺐ آن در ورﻣﺠﺎ دره ﺑﻪ ﺿﺎﻓﻲ ا يﻫﺎ آب
+
+
+
+ﻪ ـ ﻛ ﺪ ـ ﺷ ﺴﺘﻪ ـ ﺑ هﺎـﭼ ن،ﺳﺘﻮ در آب د ﻣﺠﺪ نﻧﻴﺎﻣﺪ ﺑﺎﻻ و ﺗﻲ آ يﻫﺎ ت ﻋﻤﻠﻴﺎ ايﺑﺮ ﺋﻴﻞزوﮔﺎ نﺳﺘﻮ ﺷﺘﻦدا ﻧﮕﻪ ر ﺑﻤﻨﻈﻮ ﺋﻴﻞزوﮔﺎ نﻣﺪآ ﺑﺎﻻ از ﭘﺲ
+
+ﺎﺋﻲـﺟﺎﺑﺠ ت ﺎ ـ ﻋﻤﻠﻴ از ﺪ ـ ﺑﻌ روز )4 د ﻮ ـ ﺑ ه ﺳﻴﺪ ر م ﭘﺎ ﺑﻪ800 83 /1/15 ﻳﺦرﺗﺎ در هﭼﺎ ﺑﺴﺘﻪ رﻓﺸﺎ .ﺳﻴﺪ ر م ﭘﺎ 350 ﺑﻪ ﺘﻪﺑﺴ رﻓﺸﺎ ﺳﺎﻋﺖ 5 از ﭘﺲ
+
+هﺸﮕﺎـﻫوﭘﮋ ﺮـﻓﺘد ﻪ ـ ﺑ ﻫﺎ ﻧﻤﻮﻧﻪ از ﻳﻜﻲ و ﺧﺬ ا ﻧﺪزﺳﺎ ي ﺗﻮﻟﻴﺪ آب ت ﻣﺸﺨﺼﺎ ﺑﺎ ﻣﻄﺎﺑﻘﺖ و ﺗﺠﺰﻳﻪ ﺟﻬﺖ هﭼﺎ ﺟﻲوﺧﺮ آب از ﻧﻤﻮﻧﻪ دو .(نﺳﺘﻮ
+
+                                                                                        .ﺷﺪ داده ﺗﺤﻮﻳﻞ ري ﺷﻮ انﻣﻴﺰ ﺗﻌﻴﻴﻦ ﺟﻬﺖ هﻛﺮﻣﺎﻧﺸﺎ در ﻧﻔﺖ ﺻﻨﻌﺖ
+
+
+
+ودﺪـﻣﺤ دﻮـﻣﻮﺟ يﺎـﻫﺷﺒﻜﻪ ﻳﻘﻴﻴﻦ ﺑﻪ ﻗﺮﻳﺐ لﺣﺘﻤﺎا ﺑﻪ ﻫﺎﻧﻤﻮﻧﻪ وزن و ﺟﻲوﺧﺮ لﺳﻴﺎ يﻇﺎﻫﺮ ﺿﻌﻴﺖو ،ﭼﺎﻫﻲ ﺳﺮ ﺳﺮﻳﻊ رﻓﺸﺎ ﻓﺖا ﺑﻪ ﺗﻮﺟﻪ ﺑﺎ
+
+ﻲـﻣ ﺎﻻﺗﺮـﺑ ﻞـﺻاﻓﻮ در هﺎـﭼ شﺰـﻧﮕﻴا و ريﺎـﻛ ﻣﺸﺒﻚ و ﻫﺎﺷﺒﻜﻪ زيﺳﺎ ودﻣﺴﺪ هﭼﺎ دنﻧﻤﻮ يﺗﻮﻟﻴﺪ رﺑﻤﻨﻈﻮ ﻛﻪ ﺑﺎﺷﻨﺪﻣﻲ ﻧﻤﻚ آب ﺗﻮﻟﻴﺪ ﺑﻪ
+
+                                                                            .دﮔﻴﺮ ارﻗﺮ ﻧﻈﺮ ﻣﺪ ﻧﺪاﺗﻮ
+
+
+
+
+
+                                                                        - 6 -
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 26 ]
+────────────────────────────────────────────
+                               Dehluran-20 Loc. W076N
+
+
+                            Workover Program
+
+1.5    Formation Tops / Well Sketch (Before Workover)
+
+
+
+
+
+                                                                - 7 -
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+
+     1.6    Reservoir Data
+
+Sarvak
+
+               Item                     Measure                     Unit
+
+
+Oil / Water Contact                        4000-4050                     m.s.s.d
+
+
+Datum Depth                               3965                        m.s.s.d
+
+
+Datum pressure                             6175                          Psi
+
+
+Oil Gradient                                   0.28-0.30                          Psi/ft
+
+
+H2S content                                40000              PPM
+
+
+Temperature @ 3965 m.s.s.d                    247                    ºFahrenheit
+
+
+
+
+
+                                                                        - 8 -
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+
+    1.7    Casing in Hole
+
+
+                                                                             Colla
+             Casing shoe                                                   pse      Burst
+Casing/Liner
+                depth       Casing Specification            Interval           resist    resistance
+     size
+                 (m)                                                    ance       (psi)
+                                                                                             (psi)
+
+   18-5/8"        153           87.5#, J-55, BTC              0-153          630      2250
+
+
+   13-3/8”        2157           68#, J-55, BTC              0-2157         1950     3450
+
+
+                                   43.5#, L-80, BTS             0-203.65
+                                                                      3810     6330
+                                   43.5#, L-80, BDS          203.65-984.75
+
+
+                                  47#, L-80, VAM          984.75-1071.16
+                                                                      4750     6870
+                                  47#, L-80, BDS          1071.16-1175.42
+
+
+   9-5/8"        2270          53.5#, L-80, VAM         1175.42-1408.77
+
+
+                                   53.5#, L-80, BTS         1408.77-1640.91     6620     7930
+
+
+                                   53.5#, L-80, BDS         1640.91-1864.62
+
+
+                                  53.5#, P-110, BTS         1864.62-2236.8      7950     10900
+
+                                                          2236.8-2270
+                                  53.5#, V-150, BTS                          11570    16230
+                                                  (Top of Window)
+
+  7" liner       2878              35#, L-80              2878-2133       10180     9960
+
+
+  5" liner       3984            18#, TRC-95             3984-2762       12030    12040
+
+
+
+
+
+                                                                        - 9 -
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 26 ]
+────────────────────────────────────────────
+                               Dehluran-20 Loc. W076N
+
+
+                            Workover Program
+
+1.8    Current completion string (Before Workover)
+
+
+
+
+
+                                                               - 10 -
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+2. Workover Program
+
+
+   2.1  Sequence of Workover Operation
+
+
+         1 Move workover rig to the well site of DH20, R/U and make it ready for operation. Record
+               rotary table and tubing head spool elevations from sea level. All depths are recorded
+            based on GLE=174m & RTE=182m. Do correct depths if necessary.
+
+         2  The well head spools, valves & P-Seals and x-mas tree must be checked and serviced
+            by well head specialist and be repaired if needed.
+
+         3  Complete the well head as per after workover-well head sketch. Test same to
+              4500psi.
+
+         4  Connect killing & flowing lines to 7-1/16"-5000 dipping valve and swept bend outlet
+               respectively. Connect return line to 2-1/16" -5000 side valves of tubing head spool. Test
+                    all to 4500 psi pressure.
+
+         5  Record the wellhead pressures; those of tubing, 7" x 9-5/8" annulus, 9-5/8" x 13-3/8"
+             annulus and 13-3/8" x 18-5/8" annulus.  If necessary, release  / bleed off pressures,
+              monitor their build up and investigate for the probable relations.
+
+             Note: Take enough care to consider the collapse and burst pressures of pipes
+             while relation investigation.
+
+         6  Rig up wireline equipment. Perform a TD check operation using wireline facilities.
+
+         7  Open SSD, displace inside tubing by gasoil  if necessary (already the well column
+            should be full of gasoil and the well head pressure is 1500psi), excepted the last
+          100m which should be displaced by fresh water, close SSD and test inside tubing to
+              4500psi.
+
+             Note: Considering existence of a column of 72pcf salt water under SSD to The
+            TD; the 2143m column of gasoil creates ±453psi under pressure to the reservoir
+       @ top perforations.
+
+         8  Do flow the well and run PSP log (GR + CCL included) simultaneously against the
+              perforated interval and into open hole-section to determine the water producing layer
+                 for accurate future decision.
+
+             Note: Catch sample for analysis.
+
+         9  Shall the well be static, follow Item No.9; otherwise, bullhead the well by pumping 70pcf
+                 salt water which its full column imposes 218psi over pressure to the reservoir @ top
+               perforations (3954.8m). Shall could not able to bullhead, lubricate the well and make
+             sure about well condition.
+
+             Note: Monitor the pressure behaviour of annuluses all the time.
+
+                                                                       - 11 -
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 26 ]
+────────────────────────────────────────────
+                          Dehluran-20 Loc. W076N
+
+
+                       Workover Program
+
+
+10 Rig up wireline equipment; test same and lubricators to max 4500psi pressure. Install
+   no-go plug «2.562", AF». Test same and tubing to max 4500psi. Monitor tubing's
+   annulus pressure behaviour while testing inside tubing. Open SSD, circulate 90pcf mud
+   which imposes 198psi over pressure to the reservoir @ SSD depth (2143m) (Oil of 0.3
+    psi/ft gradient is supposed to be under SSD), and balance in/out mud weight.
+   Observe well for any mud loss/flow.
+
+11 While Circulating cross well head, install «6-5/16"» two way back pressure valve into
+   11" x 9-5/8" neck x 7" VAM "FBB CAMERON" tubing hanger and test to 4500psi
+    pressure.
+
+   Note: Shall B.P.V fail against pressure test or could not be installed in its position
+    in tubing hanger, it is recommended to install plug into dummy of 3SV landing
+   nipple or to install 3SV in closed position prior to L/D well head.
+
+12 While circulating cross tubing head spool, N/D well head to top of 13-5/8"-3000 x 11" -
+   5000 tubing head spool. N/U 13-5/8" BOP's stack; test same to 4500psi against two-
+   way. Retrieve 6-5/16" two way back pressure valve from tubing hanger.
+
+   Note: Take care to provide 11"x13-5/8"-5000 adaptor tie down flange to connect
+   BOP's to tubing head spool.
+
+13 Connect to tubing hanger, unscrew tie down screws, sting out anchor seal unit model
+   «KC22» from « SAB-3 » packer and circulate 90pcf salt water to be balanced in/out
+   mud weight. Observe well for any kick or mud losses.
+
+14 Install 2.750" plug into SSD and test same to 4500psi pressure. While circulating cross
+    tubing head spool, pull out completion string; check all components for any damage to
+   be fixed or replaced by new one on time.
+
+15 RIH with 8-1/2" E-mill to liner lap @ 2133m.
+
+16 RIH with 5-7/8"E-mill to top of packer @ 2158.4m. Mill out same and push it down to
+    5"Liner Lap @ 2762m (Take care about mill out extension, one joint 5" tubing & 5"
+   x 3-1/2" x/over under packer). Pull out of hole. L/D mill.
+
+   Note: Adjust mud weight in accordance to well condition.
+
+17 RIH with 6" x 3" taper tap to top of the felt down packer. Work on taper tap to engage
+    with packer. Pull out same and its tail. L/D them all.
+
+18 RIH with 5-7/8" E.mill to top of 5" liner lap @ 2762m. POOH, L/D mill.
+
+19 RIH with 4-1/8" E.mill to 4000m. Clean hole-section down to TD @ 4010m using 70pcf
+   mud.
+
+   Attention: It maybe necessary to plug the probable water producing intervals by
+   cement injection or to cover it by 3-1/2" liner which should be decided for in due
+   time prior to cleaning down to TD and/or drilling a new interval.
+
+20 Run GR log to confirm the top of layer 3-2 of Sarvak formation.
+
+
+                                                       - 12 -
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 26 ]
+────────────────────────────────────────────
+                          Dehluran-20 Loc. W076N
+
+
+                       Workover Program
+
+
+21  Drill formation f/4010m to 4030m; the new TD. Clean hole, L/D drilling BHA.
+
+   Note: The TD maybe changed according to the GR log result.
+
+22 Scrap inside 9-5/8" casing f/2100 to 2160m.
+
+23 R/U and run completion string as per attached tally sheet. Set packer @ ±2147m.
+   Perform all required pressure tests. The detailed completion program will be issued in
+   due time.
+
+24 Install 6-5/16" back pressure valve. Pressurize same to 1000psi. Tighten  tie down
+   screws, test same and BPV to 4500psi.
+
+25  L/D BOP's, N/U well head and pressure test all components to 4500psi. (Retrieve 6-
+    5/16" BPV in due time).
+
+26 Retrieve plug and prong and dummy from 3SV L/N, flush control line. Open SSD,
+    displace tubing annulus by corrosion inhibited fresh water and inside tubing by gasoil,
+   excepted the last 100m which should be displaced by fresh water, close SSD and test
+    inside tubing to 4500psi and tubing annulus to 2000psi. Install dummy into L/N. Let the
+    well flow. Record the flowing pressures on desired choke sizes. Monitor tubing & tubing
+   annulus pressures all the time.
+
+27 Pull out Dummy, Install 3SV into L/N, Close 3SV and check its action against the well
+   pressure by releasing well head pressure.  Fill up above 3SV by completion  fluid.
+   Secure the well.
+
+28 Clean cellar and well location.
+
+29 Release the rig.
+
+
+
+
+
+                                                       - 13 -
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 26 ]
+────────────────────────────────────────────
+                                 Dehluran-20 Loc. W076N
+
+
+                             Workover Program
+
+
+2.2 Mud program
+
+         70 pcf MW imposes 218psi over pressure to the Sarvak reservoir on top perforations @
+          3954.8m.
+
+
+           Total Vertical Depth                       4030m
+                         Surface                         700
+                    Open Hole                        3
+                       C.Hole                          838
+                 Mud Losses                      100
+                    W/Out                           0
+           Volume
+                 Mud Treatment                   0                (bbls)
+                     Volume Safety Factor             1500
+                         Less Volume Retained              0
+                         Total New Volume               3141
+
+                 Mud Type                Water Base Mud
+                 Mud Weight (pcf)            70         90
+                 PV (CP)                              ---         20-25
+                 YP (Lbs/100ft²)                     ----        12-14
+                        Gels                                   ---           3/5                                        System    PH                        11        10-10.5
+                    Mud       Viscosity (Sec.)                     ---         40-45
+                  W.L (CC)                           ---          4-6
+                           Alkalinity (ppb)                    ---              ---
+                HPHT (CC)                         ---              ---
+                        Oil/Water                           ---              ---
+
+                               Item         Unit          Quantity
+                        Water                  As Required
+                              Salt             Ton           400
+                       Soda Ash            sxs            150
+                      Lime                sxs            200                                                            Materials
+                           Nat. Gum           sxs            400
+                    Mud       Dodicor             Dr.       2          2
+                         Limeston powder   Ton          ---         300
+                       XC-Polymer       Sx          ---         200
+
+
+
+
+
+                                                                  - 14 -
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+   2.3 BHA Design
+
+
+
+
+
+Note-1: 3-1/8" down hole straight motor is recommended.
+
+Note-2: Use hi-vis pill to clean hole.
+
+
+
+
+
+                                                                       - 15 -
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 26 ]
+────────────────────────────────────────────
+                                    Dehluran-20 Loc. W076N
+
+
+                                Workover Program
+
+
+   2.4  Hydraulic Program
+
+
+
+            Well Data
+
+KOP:       4030   Meter
+Hole Size     4.13    Inches
+MW        70       Lbs/ft³
+Plas. Visc.   5     Cp
+Yield Point   2       Lbs/100ft²
+
+       Recommended Hydraulics
+
+Nozzles           Open
+TFA               0.9204                In²
+Pump Pressure      1820                 Psi
+Flow Rate          150           Gpm
+Bit HSI             0.149
+
+                         Hydraulic Details
+Flow Rate / Hole diameter                         36.4        Gpm/in
+System Pressure loss                           1798         Psi
+Bit Nozzle Pressure drop                           22.9          Psi
+Annular Pressure loss                          504           Psi
+Nozzle Pressure drop (% of available pressure)      1.257    %
+Pump output Hydraulic Power                   159        Hhp
+Bit Hydraulic Power                           2         Hhp
+Nozzle Velocity                                  15.94        m/sec
+Jet Impact Force                              38          Lbs
+Impact Force / Hole area                           2.84          Psi
+Hydrostatic Head                             6426         Psi
+Equivalent circulating density                      75.5           Lbs/ft³
+Cutting Slip Velocity (chip size=.30 inch)           16.51       m/min
+
+                                    Drill String and Annular Velocity Data
+
+                                    Hole   AV       Est. Chip
+   Depth    OD    ID    Length                                    Crit Vel      Flow Type
+                                          Size   (m/min)      Vel
+  0    2037    5     4.28    2037     8.53      23.5         7          30.8       LAM
+ 2037   2133   3.5    2.76     96      8.53     18.49        2          29.9       LAM
+ 2133   2665   3.5    2.76     532      4.13     235        218         49.4       TURB
+ 2665   3785   2.88    2.15    1120     4.13     128        112         37.5       TURB
+ 3785   4030   3.13    1.5     245      4.13     155        138         40.2       TURB
+
+Surface equipment length                      150 ft * 3.0 in
+Available Buoyant Collar Weight                10000   Lbs
+
+
+
+                                                                       - 16 -
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 26 ]
+────────────────────────────────────────────
+W076NLoc.           Program                                        -
+                                                                                        17
+
+                                            -
+                    WorkoverDehluran-20
+
+                                      operation
+        of
+                 down
+                     Break
+                 Time
+
+             2.5
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 26 ]
+────────────────────────────────────────────
+                                                                                                           30
+
+
+
+
+
+                                                                                                           25
+
+
+
+
+
+                                                                                                           20
+
+
+
+
+                                         `
+
+
+W076N                                                                                                        15
+
+
+
+
+                                            -Loc.           Program                                                                                                                                                                                                       Days
+                                                                                        18
+
+                                            -
+                    WorkoverDehluran-20
+
+
+                                                                                                           10
+
+
+
+
+
+                                                      5                        Chart
+                        Depth
+               Vs.
+                   Time                                         0
+                                                               4000                                 4010                                 4020                                4030                                 4040
+               2.6
+                                                                 (m) Depth
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 26 ]
+────────────────────────────────────────────
+                                 Dehluran-20 Loc. W076N
+
+
+                             Workover Program
+
+
+3. Formation Tops / Well Sketch (After Workover)
+
+
+
+
+
+                                                                   - 19 -
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 26 ]
+────────────────────────────────────────────
+                                 Dehluran-20 Loc. W076N
+
+
+                             Workover Program
+
+
+4. Proposed Completion String (After Workover)
+
+
+Note: This offer maybe changed depends on I.C.O.F.C. stock in due time.
+
+
+
+
+
+5. Completion Fluid Formulation
+
+Use fresh water with corrosion inhibitor as completion fluid (0.1gal inhibitor/ bbl fresh water).
+
+
+                                                                   - 20 -
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 26 ]
+────────────────────────────────────────────
+                                 Dehluran-20 Loc. W076N
+
+
+                             Workover Program
+
+
+6. Wellhead Schematic (Before Workover)
+
+
+
+
+
+                                                                   - 21 -
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 26 ]
+────────────────────────────────────────────
+                                 Dehluran-20 Loc. W076N
+
+
+                             Workover Program
+
+
+7. Wellhead Schematic (After Workover)
+
+
+
+
+
+                                                                   - 22 -
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 26 ]
+────────────────────────────────────────────
+                                 Dehluran-20 Loc. W076N
+
+
+                             Workover Program
+
+
+
+8. Requirement
+
+
+
+
+
+                                                                   - 23 -
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 26 ]
+────────────────────────────────────────────
+                                 Dehluran-20 Loc. W076N
+
+
+                             Workover Program
+
+
+
+9. Contact List
+
+
+
+                                        I.C.O.F.C.
+
+
+    Contact             Position          Phone            Ext.          Mobile          Fax
+
+
+                                                                                   88650099
+                 Head of Drilling
+Mr. G.Dowlatnia                        88650100         2534       0912-200-8142   88650158-1008
+                       Operation
+                                                                                  88650159-1008
+
+                 Head of Drilling
+Mr. L.Eshghiee        Engineering        88650100         2516       0912-378 34 57     88650140
+                     Department
+
+                 Head of Drilling
+Mr. S.Zarei                             88650100         2519       0912-324 2709     88650140
+                   Programming
+
+                  Head off
+Mr. T.Farhadian       Chemical         88650100         2522       0912-350 1208     88650140
+                    Engineering
+
+                                          P.P.Z.
+
+
+Mr. M.R.Amiri       Project Manager      88703979          116       0917 313 0989     88703978
+
+
+                                                                                   88650099
+                 Head of Drilling
+Mr. S.Eskandari                         88650100         2535       0912 260 2766   88650158-1008
+                       Operation
+                                                                                  88650159-1008
+
+                 Head of Drilling
+Mr. M.Alekasir        Engineering        88650100         2533       0912 210 2985     88650099
+                     Department
+
+
+Mr. P.Gitynejad      Drilling Engineer      88650100         2536               --------        88650099
+
+
+
+
+
+                                                                   - 24 -
+
+

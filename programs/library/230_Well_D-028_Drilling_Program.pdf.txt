@@ -1,0 +1,4305 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 115 ]
+────────────────────────────────────────────
+             I.O.O.C.
+      IranianOffshoreOilCompany
+Engineering & Operation Management
+       Services for IOOC Rigs
+             Contract No.: ق ف - 1 - 92 - 4717
+
+        Project Code: IOOC-EOMS- ( ق ف - 1 - 92- 4717 )
+
+        Dorood Field
+         Drilling Program
+            D-028
+   Yamama Oil Production
+
+
+
+
+  Report Code: IOOC-EOMS- ( ق ف -1 - 92 - 4717 )-DR-093/125
+
+               Prepared by:
+
+
+
+              Pars Petro Zagros Engg. & Services Co
+             #5 Dodangeh (No.29) St., Jahan Ara Ave., Yousef Abad
+                                 Tehran, Iran
+                                 14389- 73814
+                    November 2016
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 115 ]
+────────────────────────────────────────────
+                                    Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+
+
+          WellName:                D-028
+
+          WellType:                Development
+
+            Field:                    Dorood
+
+           Date:                  November2016
+
+
+
+                                  P.P.Z
+
+Prepared by  :    S. Khani          Drilling Engineer
+
+Supervised by :   E. Bongah        Sr. Drilling Engineer
+
+Approved by  :   S. Bahraini     Head of Cement & Mud Engineering
+
+Approved by  :   S.Khajevand    Head of Drilling Engineering Department
+
+Approved by  :   A. Ghasempour   Head of Drilling Operation
+
+Approved by  :  M. Amini        Project Manager
+
+                                 I.O.O.C
+
+Approved by :    S. Mohammadi   Project Manager
+
+Approved by :   N. Khatibi      Head of Drilling Engineering
+
+Approved by :    P. Pornoori     Head of Drilling & Workover Dep.
+
+Approved by :   M. Tahmasebi   Head of Mud and Cement Engineering
+
+
+
+
+
+                                            1
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+
+                         TABLE OF CONTENTS
+
+A. GENERAL INFORMATION ............................................................................................................................. 4
+1  INTRODUCTION ............................................................................................................................................... 5
+  Program Introduction ..................................................................................................................................... 5
+  Dorood Structure ............................................................................................................................................. 5
+2  WELL MONTAGE ............................................................................................................................................. 7
+3  WELL GENERAL INFORMATION ................................................................................................................ 8
+4  WELL OBJECTIVES ......................................................................................................................................... 9
+5  RESERVOIR DATA ......................................................................................................................................... 10
+6  TIME BREAKDOWN ....................................................................................................................................... 11
+  Time vs. Depth Chart .................................................................................................................................... 15
+B.  GEOLOGICAL INFORMATION ................................................................................................................... 16
+1  GEOLOGICAL OVERVIEW .......................................................................................................................... 17
+  H2S .................................................................................................................................................................. 23
+C. NEARBY WELLS ............................................................................................................................................. 24
+   1.  D-009 ....................................................................................................................................................... 25
+   2.  D-024 ....................................................................................................................................................... 26
+   3.  D-025 ....................................................................................................................................................... 27
+   4.  KG-17 ...................................................................................................................................................... 28
+D.  SEQUENCE OF DRILLING OPERATION ................................................................................................... 29
+1   36” HOLE SECTION / 30” CODUCTOR PIPE............................................................................................. 30
+  1.1    General ............................................................................................................................................... 30
+  1.2   Formation Sampling .......................................................................................................................... 30
+  1.3   Sequence of Operations ..................................................................................................................... 30
+  1.4   Logging Program ............................................................................................................................... 31
+  1.5   Hole Deviation .................................................................................................................................... 32
+2   26” HOLE SECTION / 20” CASING .............................................................................................................. 33
+  2.1    General ............................................................................................................................................... 33
+  2.2   Formation Sampling .......................................................................................................................... 33
+  2.3   Sequence of Operations ..................................................................................................................... 33
+  2.4   Logging Program ............................................................................................................................... 35
+  2.5   Hole Deviation .................................................................................................................................... 35
+3   17-½” HOLE SECTION / 13-⅜” & 13-⅝” CASING ...................................................................................... 36
+  3.1    General ............................................................................................................................................... 36
+  3.2   Formation Sampling .......................................................................................................................... 36
+  3.3   Sequence of Operations ..................................................................................................................... 36
+  3.4   Logging Program ............................................................................................................................... 39
+  3.5   Hole Deviation .................................................................................................................................... 39
+4   12-¼” HOLE SECTIONS / 9-⅝” CASING ..................................................................................................... 40
+  4.1    General ............................................................................................................................................... 40
+  4.2   Formation Sampling .......................................................................................................................... 40
+  4.3   Sequence of Operations ..................................................................................................................... 40
+  4.4   Logging Program ............................................................................................................................... 43
+  4.5   Hole Deviation .................................................................................................................................... 43
+5   8-1/2” HOLE SECTIONS / 7” LINER............................................................................................................. 44
+  5.1    General ............................................................................................................................................... 44
+  5.2   Formation Sampling .......................................................................................................................... 44
+  5.3   Sequence of Operations ..................................................................................................................... 44
+  5.4    Directional Plan ................................................................................................................................. 47
+  5.5   Logging Program ............................................................................................................................... 47
+E.  DIRECTIONAL DRILLING PROGRAM ...................................................................................................... 48
+F. MUD PROGRAM .............................................................................................................................................. 59
+                                        2
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+
+G.  BIT & HYDRAULIC DESIGN ........................................................................................................................ 63
+  1.1   26” Hole Section ................................................................................................................................. 64
+  1.2   17 ½” Hole Sections ........................................................................................................................... 66
+  1.3   12 ¼” Hole Section ............................................................................................................................. 73
+  1.4   8 1-2” Hole Section ............................................................................................................................. 79
+H.  CASING PROGRAM & DESIGN ................................................................................................................... 81
+I.  CEMENT PROGRAM ...................................................................................................................................... 92
+J.  REQUIREMENTS ............................................................................................................................................ 94
+K. COMPLETION PROGRAM.......................................................................................................................... 109
+L. WELLHEAD SCHEMATIC .......................................................................................................................... 111
+M. CONTACT LIST ............................................................................................................................................. 113
+CONTACT LIST ..................................................................................................................................................... 114
+
+
+
+
+
+                                        3
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 115 ]
+────────────────────────────────────────────
+                       Dorood Oil Field
+
+             D-028 Drilling Program
+
+      DrillingProgram
+        D-028
+
+
+
+
+A. General Information
+
+
+
+
+
+    Pars Petro Zagros Engineering and Services Co.
+                   Drilling Department
+                November 2016
+
+                               4
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+1  Introduction
+
+
+Program Introduction
+
+This program covers the information and procedures required to drill new well D-028 from a new
+
+slot on the D-009 platform in Dorood oil field, Persian Gulf, Iran. The well is intended to produce oil
+
+in Yamama Reservoir by drilling an approximately 620m deviated 8-1/2" hole in pay zone.
+
+The 30” Conductor pipe and the 20” casing is to be set and cemented at 110mMD and 600mMD
+
+respectively, the 13-⅜” casing is to be set at 1867mMD inside Asmari Cap rock, the 9-⅝” casing is
+
+to be set at 3840mMD in the Khami formation. Well is going to be nudged at 650mMD and KOP is
+
+at 1870mMD.
+
+The 8-1/2” hole section is going to be drilled initially deviated and continued about 577m inside
+
+Yamama Reservoir to total depth of 4521.41mMD. Well is to be completed 7” liner and perforated.
+
+Dorood Structure
+
+
+The Dorood offshore oil field has been located in the northern part of the Persian Gulf and partly
+
+underlying the Kharg Island. The structure is an anticline elongated NNE-SSW with 25 km length
+
+and 5 km width.
+
+This field was discovered in 1961 with exploration well IPAC-D-1 (Darius 1).The southern sector of
+
+the field, called Darius, consists of 10 platforms/clusters including wells Darius -1 to Darius-21
+
+which were operated by Iran Pan American Oil Company (IPAC) between 1961 and 1978.
+
+The northern sector of the field, called Kharg, consisting of 18 platforms/clusters with wells of
+
+Kharg-1 through 10) and 1 on-shore single well of Kharg-11 which was operated until 1979 by the
+
+Oil Service Company (OSCO). Finally both sectors came under the operator-ship of the Iranian
+
+Offshore Oil Company (IOOC) and after interruption of production due to Iran-Iraq war(1980 to
+
+1988), Drilling operation was started in both the Darius/IPAC area(Dorood -22H to Dorood -25) and
+
+Kharg/OSCO area (Kharg-12 to Kharg-47) By IOOC.
+
+The Dorood Field was the subject of an Enhanced Oil Recovery program that carried out by Elf
+
+Petroleum Iran, under the conditions of the Dorood Project buy-back contract from 1999 to 2006.
+
+The operation of Elf Petroleum Company was drilling of 30 wells (D-101P to D-130P) from 4
+
+platforms/clusters that three of them are located in the On-shore Kharg Island called North West,
+
+North East and South clusters and one of them has been located in the off-shore the area called PTF-G cluster.
+
+                                           5
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+The Lower Cretaceous Fahliyan reservoir contains the main proven pay zones of the Dorood
+
+structure which resulted from deposits on a carbonated platform.
+
+The main Fahliyan reservoir layering is as follows:
+
+- Lower Ratawi and Khami as the seal of the reservoir zone
+
+- Upper Yamama as poor reservoir
+
+- Middle Yamama as main reservoir
+
+- Manifa member (Lower Yamama) as main reservoir but mostly is water-bearing.
+
+The secondary known pay zone in the Dorood structure is the Asmari Formation (Oligo-Miocene),
+
+which shows some oil bearing sandstone reservoir layers near the top, capped by the overlaying
+
+anhydrite beds of the Gachsaran Formation.
+
+
+
+
+
+                                           6
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                             7
+                 DrillingDorood
+          D-028
+
+
+
+                                  Montage
+                    Well
+
+
+      2
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+3  Well General Information
+
+    Rig Name:                            Aban-6
+
+     Client:                                   I.O.O.C.
+
+     Consultant:             ParsPetroZagrosEngineering&ServicesCo.
+
+     Contractor:                    GPTK
+
+    Country / Area                        Iran/PersianGulf
+
+     Field:                              Dorood
+
+    Well Name:                           D-028
+
+    Well Type:                            Development
+
+    Purpose:                           OilProduction
+
+    Rotary Table Elevation:                     31.4m
+
+    Water Depth:                      48m.
+
+                  UTM: E:2008957.18m.
+     Surface Coordinates:
+                        N:808229.8m.
+                  UTM: E:2009918m.
+     L. P. Coordinates:
+                        N:808769m.
+                  UTM: E:2010184m.
+    T.D. Coordinates:
+                       N:809302m.
+
+   Yamama Entry Point:     3944.33mMD
+
+                         4521.41m /About577mdeviatedinYamama
+     Total Depth:
+                                            Reservoir
+
+
+
+
+
+                                            8
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+4  Well Objectives
+
+       The main purpose of drilling this well is to effectively produce oil from Yamama reservoir.
+
+Note: This program is planed with respect to the letter عمم -83075 Dated: 03/07/1395 (IOOC
+
+Reservoir Eng. Department) & most available data from this well. Any amendment program will be
+
+issued upon receipt of new data from IOOC.
+
+
+
+
+
+                                            9
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+5  Reservoir Data
+
+
+
+
+
+Attentions:
+    All depths are referred to RKB-MSL: 31.4m which should be corrected with new RKB-
+
+   MSL measurement of active rig at time.
+   H2S equipment and H2S service should be available on the Rig site at the start of
+
+     Operation.
+
+
+
+
+
+                                           10
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                                                                            11
+                 DrillingDorood
+          D-028
+
+
+                                               Breakdown
+                     Time
+
+
+      6
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                                                                            12
+                 DrillingDorood
+          D-028
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                                                                            13
+                 DrillingDorood
+          D-028
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                                                                            14
+                 DrillingDorood
+          D-028
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                                                                            15
+                 DrillingDorood
+          D-028
+
+
+
+                       Chart
+                       Depth
+              vs.
+                  Time
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 115 ]
+────────────────────────────────────────────
+                          Dorood Oil Field
+
+                D-028 Drilling Program
+
+         D-028
+
+
+
+
+B. Geological Information
+
+
+
+
+
+       Pars Petro Zagros Engineering and Services Co.
+                       Drilling Department
+                   November 2016
+
+
+                                  16
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+1  Geological Overview
+The stratigraphic succession in D-028 is expected to be nearly normal (except Upper Ahmadi Mbr.)
+
+from surface to total depth of 4521.4mMD.
+
+
+Aghajari Fm.
+
+From 79mMD (-47.6mTVDss) to 1363mMD (-1330mTVDss)
+
+The Aghajari Formation consists of Marl: tan to light brown, partly light greenish grey, reddish
+
+brown to greenish grey, partly light beige and light olive grey, soft, sticky, washable, sub-blocky,
+
+slightly   silty,  traces  of  pyrite,  traces  of  microfossils,  grading  to  Calcareous  Claystone,
+
+Sand/Sandstone: glassy, tan, white, off white, cream, light brown, translucent, transparent, medium
+
+hard to hard, rounded, angular, Shale: dark grey to black, soft, calcareous, Claystone: green, light
+
+green, some light gray, gray, soft, medium hard, calcareous and Limestone: cream, off white, I, II,
+
+soft-medium, A, chalky, some argillaceous.
+
+
+Mishan Fm.
+
+From 1363mMD (-1330mTVDss) to 1570mMD (-1537mTVDss)
+
+The Mishan Formation consists of Limestone: light grey, grayish-white to white, cream, soft to firm,
+
+locally moderately hard, generally argillaceous, locally microcrystalline to very finely crystalline,
+
+traces microfossils and fossils relics, Marl: commonly brown to light brown, reddish-brown, soft to
+
+firm, slightly sticky, sub-blocky to blocky,  silty in part, traces of microfossils and Sandstone:
+
+translucent, brownish, light grey, very fine to fine grained, sub-angular to sub-rounded, poorly sorted,
+
+brittle, friable, grain mainly quartz, litho fragments, aggregates with calcareous cement, locally
+
+becoming sandy Limestone, poor porosity.
+
+
+Gachsaran Fm.
+
+From 1570mMD (-1537mTVDss) to 1872mMD (-1839mTVDss)
+
+The Gachsaran Formation consists of Anhydrite: transparent, white to off white, brittle, locally milky
+
+white, hard, microcrystalline, putty, soft, some crystalline, hard, glassy, Limestone: grayish-white to
+
+off-white, light grey, moderately hard to hard, microcrystalline to locally very finely crystalline,
+
+traces microfossils and fossils relics, argillaceous in part and locally marly, Shale: light grey to
+
+greenish, grey, firm to compact, occasionally reddish-brown, brown, blocky, sub-flaky, Marl: light
+
+brown to reddish brown, light grey, pale grayish brown, soft to firm, slightly sticky, sub-blocky to
+
+blocky, shaly. Traces of microfossils, slightly calcareous, trace of pyrite, Dolomite: off white to
+
+
+                                           17
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+beige, cream in part, firm to moderately hard, microcline to sucrosic, slightly argillaceous, vuggy
+
+porosity in part, Claystone: gray, light gray, bluish grey to garish blue, soft, gummy, slightly
+
+calcareous to non-calcareous, Loose Sand: translucent, brownish, very fine to fine grained, sub-
+
+angular to sub-rounded, well sorted, free quartz crystals, with magnetite crystal debris and Salt:
+
+translucent, colorless, glassy, hyaline, crystalline.
+
+The Cap-Rock of U.Asmari consists of Anhydrite: white to off white, microcrystalline, putty, soft,
+
+Shale: dark green, bluish green, grey to greenish gray, firm to compact, occasionally reddish-brown,
+
+blocky, sub-flaky, Argillaceous Limestone: light grey to grey, off white, soft to medium hard, some
+
+black spotted and Claystone: light grey, green, soft, gummy, non calcareous, slightly calcareous.
+
+
+Asmari Fm.
+
+From 1872mMD (-1839mTVDss) to 1973mMD (-1939.6mTVDss)
+
+The Asmari Formation consists of Loose Sand: colorless, sub-angular to sub rounded, well sorted,
+
+hyaline Quartz grain, in slightly argillaceous, grading to very fine grain Sandstone, moderate
+
+calcareous cement, spotty brown oil stains, Limestone: cream to light beige, hard, micro to cryptoxln,
+
+locally sucrosic, dolomitic in general and Dolomitic Limestone: light grey, occasionally light brown,
+
+hard to very hard, micro to microcrystalline, occasionally sucrosic, rarely finely sandy.
+
+Base on last studies, Asmari Formation in this field divided to 10 zone and sub zones as: A1, A2, B1,
+
+B2, C, D, E, F, G and H
+
+
+Jahrum Fm.:
+
+From 1973mMD (-1939.6mTVDss) to 2616mMD (-2518.7mTVDss)
+
+The Jahrum Formation consists of Dolomite: off white, buff, light grey, moderately hard, hard, partly
+
+sucrosic, visible porosity in part, with dead oil in some places, Limestone: off white, light cream, soft
+
+to moderately hard, hard, I, II, chalky, pure, in some part argillaceous, Shale: green to greenish, grey,
+
+platy,   fissile,  non-calcareous,  Anhydrite:  transparent  to  white,  soft  to  moderately  hard,
+
+microcrystalline, putty and Dolomitic Limestone: light cream, brown, occasionally light brown, hard,
+
+microcrystalline.
+
+
+Gurpi Fm.
+
+From 2616mMD (-2518.7mTVDss) to 2728mMD (-2612.2mTVDss)
+
+The Gurpi Formation consists of Dolomite: cream to tan, light grey to gray, microcrystalline to
+
+locally grainy, sucrosic texture, rare dead oil stains and Limestone: white to light grey, indurate to
+
+
+                                           18
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+hard, micro to crypto crystalline, slightly argillaceous, locally grading to medium grey Marl.
+
+
+Ilam Fm.
+
+From 2728mMD (-2612.2mTVDss) to 2748mMD (-2628.7mTVDss)
+
+The Ilam Formation consists of Limestone: tan, off-white, light grey, hard, cryptocrystalline, locally
+
+microcrystalline, and chalky in part, traces of pyrite, rare black dead oil stains and Dolomite: cream,
+
+brown to dark brown, microcrystalline, locally sucrosic texture, intergranular brownish oil stains.
+
+
+U.Sarvak Mbr.
+
+From 2748mMD (-2628.7mTVDss) to 2772mMD (-2648.4mTVDss)
+
+The Upper Sarvak Consists of Limestone: light brown, off white, moderately hard, dense, micro to
+
+cryptocrystalline, chalky in part.
+
+
+U.Ahmadi Mbr. (Faulted)
+
+From 2772mMD (-2648.4mTVDss) (Faulted) to 2931mMD (-2776.5mTVDss)
+
+The Upper Ahmadi consists of Limestone: white to off white, cream, light brown to dark brown,
+
+medium  hard  to  hard,  some  crystalline,  some  dolomitic.  Dolomite:  brown,  dark  brown,
+
+microcrystalline, sucrosic texture in part.
+
+
+L.Ahmadi Mbr.
+
+From 2931mMD (-2776.5mTVDss) to 2945mMD (-2787.6mTVDss)
+
+The L.Ahmadi  consists  of  Shale:  greenish  gray  to  dark  gray,  soft, some  pyritic,  fissile.
+
+Claystone: light gray to dark gray, soft, pyritic, sticky.
+
+
+Mauddud Mbr.
+
+From 2945mMD (-2787.6mTVDss) to 3115mMD (-2921.7mTVDss)
+
+The Mauddud consists of Limestone: off-white, light grey, hard to dense, cryptocrystalline, slightly
+
+chalky, stylolithic, slightly argillaceous. Dolomite: buff to light brown, microcrystalline, sucrosic
+
+texture in part, traces of black dead oil and interbeds of Shale: greenish gray to dark gray, bluish
+
+green, soft to medium hard, fissile.
+
+
+Kazhdumi Fm.
+
+From 3115mMD (-2921.7mTVDss) to 3355mMD (-3111.1mTVDss)
+
+The Kazhdumi Formation consists of Claystone: gray to dark gray, dark greenish gray, soft to
+
+medium hard, some silty, some sandy, none calcareous. Shale: dark gray to gray, greenish gray,
+
+                                           19
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+grayish brown, medium hard, some fissile, some pyritic, flaky. Limestone: off white, light cream,
+
+light gray, medium hard, some argillaceous. Argillaceous Limestone: gray to greenish gray, black
+
+spotted, chalky, medium hard, dead oil bearing. At the basal part Sandstone: colorless, off white to
+
+cream, fine to medium grain, hard to very hard.
+
+
+Dariyan Fm.
+
+From 3355mMD (-3111.1mTVDss) to 3537mMD (-3249.3mTVDss)
+
+Dariyan Formation mainly consists of Limestone: cream to light cream, light gray, medium hard to
+
+hard, iron oxide bearing, some black spotted. Argillaceous Limestone: gray to greenish gray, light
+
+brown, medium hard, iron oxide bearing, some black spotted. Claystone: dark gray to gray, greenish
+
+gray, brown to dark brown, soft to medium hard, blocky, some sticky, silty, calcareous. Marl: light
+
+brown, light gray, grayish brown, soft, sticky, some silty.
+
+
+Gadvan Fm.
+
+From 3537mMD (-3249.3mTVDss) to 3702mMD (-3337.9mTVDss)
+
+
+Upper Gadvan
+From 3537mMD (-3249.3mTVDss) to 3572mMD (-3271.7mTVDss)
+
+The Upper Gadvan consists of Argillaceous Limestone: gray to greenish gray, light gray to light
+
+greenish gray, medium hard, iron oxide bearing. Claystone: gray to greenish gray, soft, some silty,
+
+some sticky, calcareous. Shale: and greenish gray, medium hard, silty, some fissile.
+
+
+Khalij Mbr. (Dictyoconus Member)
+From 3572mMD (-3271.7mTVDss) to 3599mMD (-3287.5mTVDss)
+
+Khalij Member consists of Limestone: light brown, dark cream to cream, hard to dense, crypto to
+
+microcrystalline, slightly argillaceous, with trace of pyrite.
+
+
+Lower Gadvan
+From 3599mMD (-3287.5mTVDss) to 3702mMD (-3337.9mTVDss)
+
+Top of Lower Gadvan consists of Claystone: gray, greenish gray, dark greenish gray, soft, sticky,
+
+some silty, some calcareous. Shale: greenish gray, medium hard to hard, fissile, some calcareous,
+
+Limestone: light brown, light gray, cream to dark cream, hard, black spotted, some cherty. Marl:
+
+greenish gray, bluish gray, very soft to soft, sticky. Argillaceous Limestone: greenish gray, grayish
+
+brown, soft to hard.
+
+
+
+
+                                           20
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+
+
+Lower Ratawi
+
+From 3702mMD (-3337.9mTVDss) to 3801mMD (-3383.3mTVDss)
+
+Lower Ratawi mostly consisted of Limestone: cream, light brown, light gray, cream, medium hard to
+
+hard, some black spotted. Argillaceous Limestone: gray to greenish gray, soft to hard, some black
+
+spotted and interbeds of Marl: light gray, light bluish gray, very soft, sticky and Shale: greenish gray,
+
+medium hard to hard, some silty, some fissile, calcareous.
+
+
+Khami Limestone
+
+From 3801mMD (-3383.3mTVDss) to 3944mMD (-3437.1mTVDss)
+
+Khami Limestone mainly composed of Limestone: cream to light cream, light gray, light brown,
+
+medium hard and oil stained. Argillaceous Limestone: and gray to light gray, greenish gray, soft to
+
+medium hard, oil stained.
+
+
+Upper Yamama
+
+From 3944mMD (-3437.1mTVDss) to 4158mMD (-3515.4mTVDss)
+
+Upper Yamama which is divided to C, D, E, F zones and consisted of Limestone: light brown to dark
+
+brown, medium hard to hard, crystalline, some argillaceous, some cherty, oil stained.
+
+
+Middel Yamama
+
+From 4158mMD (-3515.4mTVDss) to total depth of 4521.4mMD (-3648.2mTVDss)
+
+Middle Yamama which is divided to G, H, I, J & K mostly composed of Limestone: light brown to
+
+dark brown, off white, cream, light gray, medium hard to hard, some oolitic (in upper part), some
+
+crystalline, some chalky, some pyritic, oil stained.
+
+
+
+
+
+                                           21
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+
+                                                           Drill    TVD                   Top (m)
+  Litho.                                         Thick.    Thick.                Lithology Description
+  units     MD      TVD      TVDSS      (m)      (m)
+                                                                                     Marl: tan to light brown, partly light greenish grey, reddish
+                                                                      brown to greenish grey, partly light beige and light olive grey,
+                                                                                                       soft, sticky, washable, sub‐blocky, slightly silty, traces of pyrite,
+                                                                                          traces of microfossils, grading to Calcareous Claystone,
+                                                                                 Sand/Sandstone: glassy, tan, white, off white, cream, light
+ Aghajari      79.0      79.0       ‐47.6     1284.0   1282.4                                                                             brown, translucent, transparent, medium hard to hard,
+                                                                                rounded, angular, Shale: dark grey to black, soft, calcareous,
+                                                                                        Claystone: green, light green, some light gray, gray, soft,
+                                                                  medium hard, calcareous and Limestone: cream, off white, I, II,
+                                                                                 soft‐medium, A, chalky, some argillaceous.
+                                                                                   Limestone: light grey, grayish‐white to white, cream, soft to
+                                                                                                firm, locally moderately hard, generally argillaceous, locally
+                                                                                            microcrystalline to very finely crystalline, Marl: brown to light
+                                                                             brown, reddish‐brown, soft to firm, slightly sticky, sub‐blocky to
+ Mishan     1363.0    1361.4    ‐1330.0    207.0    207.0     blocky, silty in part and Sandstone: translucent, brownish, light
+                                                                                            grey, very fine to fine grained, sub‐angular to sub‐rounded,
+                                                                                      poorly sorted, brittle, friable, grain mainly quartz, litho
+                                                                                    fragments, aggregates with calcareous cement, locally
+                                                                          becoming sandy Limestone, poor porosity.
+                                                                                       Anhydrite: white to off white, brittle, locally milky white, hard,
+                                                                                              microcrystalline, putty, soft, some crystalline, hard, glassy,
+                                                                                   Limestone: grayish‐white to off‐white, light grey, moderately
+                                                                               hard to hard, microcrystalline to locally very finely crystalline,
+                                                                                            argillaceous in part and locally marly, Shale: light grey to
+                                                                                         greenish, grey, firm to compact, occasionally reddish‐brown to
+                                                                             brown, blocky, sub‐flaky, Marl: light brown, reddish brown, light
+                                                                                            grey, pale grayish brown, soft to firm, slightly sticky, sub‐blocky
+Gachsaran   1570.0    1568.4    ‐1537.0    302.0    302.0                                                                                      to blocky, trace of pyrite, Dolomite: off white to beige, cream in
+                                                                                                part, firm to moderately hard, microcline to sucrosic, slightly
+                                                                                               argillaceous, vuggy porosity in part, Claystone: gray, light gray,
+                                                                                            bluish grey to graish blue, soft, gummy, slightly calcareous to
+                                                                                      non‐calcareous, Loose Sand: translucent, brownish, very fine to
+                                                                                               fine grained, sub‐angular to sub‐rounded, well sorted, free
+                                                                                     quartz crystals, with magnetite crystal debris and Salt:
+                                                                                            translucent, colorless, glassy, hyaline, crystalline.
+                                                                               Loose Sand: colorless, sub‐angular to subrounded, well sorted
+                                                                                           hyalin Quartz grain, in slightly argillaceous, grading to very fine
+                                                                                          grain Sandstone, moderate calcareous cement, spotty brown oil
+                                                                                                    stains, Limestone: cream to light beige, hard, micro to
+ Asmari     1872.0    1870.4    ‐1839.0    101.0    100.6                                                                                            cryptoxln, locally sucrosic, dolomitic in general and Dolomitic
+                                                                                   Limestone: light grey, occasionally light brown, hard to very
+                                                                                       hard, micro to microcrystalline, occasionally sucrosic, rarely
+                                                                                                    finely sandy.
+                                                                                   Dolomite: off white, buff, light grey, moderately hard, hard,
+                                                                                              partly sucrosic, visible porosity in part, with dead oil in some
+                                                                                             places, Limestone: off white, light cream, soft to moderately
+                                                                                       hard, hard, I, II, chalky, pure, in some part argillaceous, Shale:
+ Jahrum     1973.0    1971.0    ‐1939.6    643.0    579.1                                                                                green to greenish, grey, platy, fissile, non‐calcareous,
+                                                                                       Anhydrite: transparent to white, soft to moderately hard,
+                                                                                              microcrystalline, putty and Dolomitic Limestone: light cream,
+                                                                             brown, occasionally light brown, hard, microcrystalline.
+                                                                                   Dolomite: cream to tan, light grey to gray, microcrystalline to
+                                                                                                     locally grainy, sucrosic texture, rare dead oil stains and
+  Gurpi     2616.0    2550.1    ‐2518.7    112.0     93.6     Limestone: white to light grey, indurate to hard, micro to crypto
+                                                                                                      crystalline, slightly argillaceous, locally grading to medium grey
+                                                                                      Marl.
+                                                                                   Limestone: tan, off‐white, light grey, hard, cryptocrystalline,
+                                                                                                     locally microcrystalline, and chalky in part, traces of pyrite, rare
+   Ilam      2728.0    2643.6    ‐2612.2     20.0     16.5                                                                                        black dead oil stains and Dolomite: cream, brown to dark
+                                                                             brown, microcrystalline.
+
+                                                                                   Limestone: light brown, off white, moderately hard, dense,
+ U.Sarvak    2748.0    2660.1    ‐2628.7     24.0     19.7                                                                                micro to cryptocrystalline, chalky in part.
+
+                                                                                   Limestone: white to off white, cream, light brown to dark
+U.Ahmadi                                                                   brown, medium hard to hard, some crystalline, some dolomitic.
+            2772.0    2679.8    ‐2648.4    159.0    128.1
+ (Faulted)                                                                        Dolomite: brown, dark brown, microcrystalline, sucrosic texture
+                                                                                                  in part.
+
+
+                                         22
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+
+                                                           Drill    TVD
+  Litho.             Top (m)
+                                                 Thick.    Thick.                Lithology Description
+   units
+         MD      TVD      TVDSS      (m)      (m)
+
+                                                                                           Shale: greenish gray to dark gray, soft, some pyritic, fissile.
+ L.Ahmadi    2931.0    2807.9    ‐2776.5     14.0     11.1                                                                                        Claystone: light gray to dark gray, soft, pyritic, sticky.
+
+                                                                                   Limestone: off‐white, light grey, hard to dense,
+                                                                                                cryptocrystalline, slightly chalky, stylolithic, slightly argillaceous.
+ Mauddud    2945.0    2819.0    ‐2787.6    170.0    134.2    Dolomite: buff to light brown, microcrystalline, sucrosic texture
+                                                                                                   in part, traces of black dead oil and interbeds of Shale: greenish
+                                                                                     gray to dark gray, bluish green, soft to medium hard, fissile.
+                                                                                        Claystone: gray to dark gray, dark greenish gray, soft to medium
+                                                                                        hard, some silty, some sandy, none calcareous. Shale: dark gray
+                                                                                       to gray, greenish gray, grayish brown, medium hard, some
+                                                                                                                       fissile, some pyritic, flaky. Limestone: off white, light cream,
+ Kazhdumi    3115.0    2953.1    ‐2921.7    240.0    189.4      light gray, medium hard, some argillaceous. Argillaceous
+                                                                                   Limestone: gray to greenish gray, black spotted, chalky,
+                                                                  medium hard, dead oil bearing. At the basal part Sandstone:
+                                                                                                  colorless, off white to cream, fine to medium grain, hard to very
+                                                                                        hard.
+                                                                                   Limestone: cream to light cream, light gray, medium hard to
+                                                                                        hard, iron oxide bearing, some black spotted. Argillaceous
+                                                                                   Limestone: gray to greenish gray, light brown, medium hard,
+  Dariyan     3355.0    3142.5    ‐3111.1    182.0    138.1     iron oxide bearing, some black spotted. Claystone: dark gray to
+                                                                                             gray, greenish gray, brown to dark brown, soft to medium hard,
+                                                                                           blocky, some sticky, silty, calcareous. Marl: light brown, light
+                                                                                             gray, grayish brown, soft, sticky, some silty.
+                                                                                           Argillaceous Limestone: gray to greenish gray, light gray to light
+                                                                                      greenish gray, medium hard, iron oxide bearing. Claystone: gray
+ U.Gadvan    3537.0    3280.7    ‐3249.3     35.0     22.4                                                                                       to greenish gray, soft, some silty, some sticky, calcareous.
+                                                                                           Shale: and greenish gray, medium hard, silty, some fissile.
+
+                                                                                   Limestone: light brown, dark cream to cream, hard to dense,
+Khalij Mbr.   2572.0    3303.1    ‐3271.7     27.0     15.9                                                                                      crypto to microcrystalline, slightly argillaceous, trace of pyrite.
+
+                                                                                        Claystone: gray, greenish gray, dark greenish gray, soft, sticky,
+                                                                    some silty, some calcareous. Shale: greenish gray, medium hard
+                                                                                       to hard, fissile, some calcareous, Limestone: light brown, light
+ L.Gadvan    3599.0    3318.9    ‐3287.5    103.0     50.3      gray, cream to dark cream, hard, black spotted, some cherty.
+                                                                                      Marl: greenish gray, bluish gray, very soft to soft, sticky.
+                                                                                           Argillaceous Limestone: greenish gray, grayish brown, soft to
+                                                                                        hard.
+                                                                                   Limestone: cream, light brown, light gray, cream, medium hard
+                                                                                       to hard, some black spotted. Argillaceous Limestone: gray to
+                                                                                      greenish gray, soft to hard, some black spotted and interbeds of
+ L.Ratawi    3702.0    3369.3    ‐3337.9     99.0     45.4                                                                                      Marl: light gray, light bluish gray, very soft, sticky and Shale:
+                                                                                      greenish gray, medium hard to hard, some silty, some fissile,
+                                                                                          calcareous.
+                                                                                   Limestone: cream to light cream, light gray, light brown,
+Khami Lst.   3801.0    3414.7    ‐3383.3    143.0     53.8    medium hard, oil stained. Argillaceous Limestone: and gray to
+                                                                                                        light gray, greenish gray, soft to medium hard, oil stained.
+
+                                                                                   Limestone: light brown to dark brown, medium hard to hard,
+U.Yamama   3944.0    3468.5    ‐3437.1    214.0     78.3                                                                                                      crystalline, some argillaceous, some cherty, oil stained.
+
+                                                                                   Limestone: light brown to dark brown, off white, cream, light
+M.Yamama   4158.0    3546.8    ‐3515.4    363.4+   132.9+    gray, medium hard to hard, some oolitic (in upper part), some
+                                                                                                      crystalline, some chalky, some pyritic, oil stained
+
+    T.D.      4521.4    3679.6    ‐3648.2         ‐            ‐           ‐
+
+                                  Stratigraphical Column
+
+       H2S
+        Yamama Reservoir fluid contains H2S.
+
+
+
+
+
+                                          23
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 115 ]
+────────────────────────────────────────────
+                  Dorood Oil Field
+
+         D-028 Drilling Program
+
+      D-028
+
+
+
+
+  C. Nearby Wells
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             November 2016
+
+                         24
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 115 ]
+────────────────────────────────────────────
+                                                                                          25
+
+
+
+
+
+D-009
+
+1.
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 115 ]
+────────────────────────────────────────────
+                                                                                            26
+
+
+
+
+
+D-024
+
+2.
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 115 ]
+────────────────────────────────────────────
+                                                                                            27
+
+
+
+
+
+D-025
+
+3.
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 115 ]
+────────────────────────────────────────────
+                                                                                            28
+
+
+
+
+
+KG-17
+
+4.
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 115 ]
+────────────────────────────────────────────
+                      Dorood Oil Field
+
+             D-028 Drilling Program
+
+        D-028
+
+
+
+
+D. Sequence of Drilling
+      Operation
+
+
+
+
+
+    Pars Petro Zagros Engineering and Services Co.
+                   Drilling Department
+                November 2016
+
+
+                             29
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+1  36” Hole Section / 30” Coductor Pipe
+
+   1.1  General
+
+
+          Casing Point                30” CP @ 110m «Inside Aghajari formation»
+          Formation                  Aghajari
+           Risks & Hole problems       Hole wash out
+           Deviation control           Gyro
+          Logging                No
+                                   Type    Sea Water- Xhantham Gum pill
+                    MW     64.5 - 65 pcf
+                                      F.L    N.C
+            Drilling Fluid                     Vis.    70 Sec
+                             PV     5 - 7
+                             YP     30± Lbs/100ft²
+                            PH      9.5 - 10
+                        GPM    900 - 1000
+            Drilling Parameters       WOB   Low WOB to drill hole vertically
+                         RPM    30-60
+
+
+   1.2  Formation Sampling
+
+           NIL
+
+   1.3  Sequence of Operations
+
+                  Take Gyro survey from the well D-009.
+
+                  Skid rig and center over the well D-028.
+
+                  P/U & Run Magnet to seabed. Clean seabed from any junk. POOH & L/D
+                   Magnet.
+
+                   Drilling with 26” bit to CP point @ 110m. Circulate hole clean. Spot Hi Vis
+                            pill. POOH to surface.
+      Note:
+                           - Take gyro survey every 10m drilled intervals.
+
+                           - If observed any indication of drag, run back to bottom. Wash and ream
+                      to make sure that the hole condition is good.
+                           - Divers should confirm the position of bit on seabed at the time of spud.
+
+                  Make up 36” hole enlargement BHA, comprising of 26” bit, 36” hole opener
+                   and RIH to Sea bed.
+
+
+
+                                           30
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+               Enlarge the hole up to 36” down to 110m.
+
+               CBU, Condition the hole prior to run casing. Spot hi vis pill. POOH to surface
+                and L/D 36” hole opener and 26” bit.
+   Note:
+                       -  Check if the stinger is compatible with the shoe. Check the shoe to be
+                    stab in  type.
+
+               R/U 30” casing running gear. Perform Safety meeting.
+
+               Run 30” shoe followed by 30” conductor pipes to bottom @ +/-110m. TD
+                 should be adjusted in such a way to have 2 meters of rat hole and enough stick
+               up (1.5 m) on rig floor.
+
+               Run Stinger on 5” DP using the “C” Plate. Sting in. M/U cementing line. Fill
+               up 5" x 30" annulus with water and check level of water. Circulate for one
+                 annulus volume. While circulating, check inside 30” C.P for any return. Use all
+                 weight on the string, if observing any minor leakage through annulus.
+
+               Cement Conductor Pipe as per program. Any minor adjustment regarding the
+                  corrected depth will be done in due time. Sting out. Break circulation to flush
+                  the DPs. POOH and L/D stinger.
+   Note:
+                       -   Divers should check cement return on sea bed.
+                       -  Based on the results obtained from cementing, the decision will be
+               made to perform top job.
+
+               Rest the 30” Conductor pipe on elevator (Hang Up) until cement surface
+                samples get hard.
+
+               Whenever cement get hard, slack off 30” C.P. weight step by step. Cut 30”
+                Conductor pipe at appropriate height above, Weld support on 30” C.P. Weld
+                flow line on it. N/U 30” Diverter.
+
+               P/U next BHA and 26" bit and RIH down to tag cement above shoe. Start to
+                      drill out shoe. Watch for any torque. Displace hole with 64.5pcf Sea Water.
+
+                Fill up the following forms and send to town:
+
+         30” Conductor rally
+         30” Conductor report
+         30” Cementing report
+         Gyro survey report
+
+1.4  Logging Program
+
+       No logging program is considered for this hole section.
+
+
+                                        31
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+1.5  Hole Deviation
+          This well is assumed to be drilled vertically. Taking a Gyro survey every 10m
+           drilled interval is going to give a good indication of the hole profile and hole
+          deviation control.
+
+
+
+
+
+                                        32
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+2  26” Hole Section / 20” Casing
+
+   2.1  General
+
+
+          Casing Point                20” Casing @ 600m « inside Aghajari Formation»
+          Formation                  Aghajari
+           Risks & Hole problems       Moderate Mud Losses, Tight Hole.
+           Deviation control           Gyro
+          Logging                No
+                                   Type    Sea Water - Xhantham Gum pill
+                    MW    65 - 67 pcf
+                                      F.L    N.C - 10
+            Drilling Fluid
+                                               Vis.     50-70 Sec
+                             PV     5 - 10
+                             YP     25 - 30 lbs/100ft²
+                            PH      9.5 - 10
+                        GPM    900 - 1000
+            Drilling Parameters
+                       WOB   Low WOB to drill hole vertically
+                         RPM    70-100
+
+
+   2.2  Formation Sampling
+
+           NIL
+
+   2.3  Sequence of Operations
+
+                  Drill ahead 26” hole section down to +/-135m.
+
+                 POOH to surface, P/U 26" Stabilizer & RIH down to bottom.
+
+                 Continue Drilling 26" hole down to 20" CSG point @ +/-600m.
+     Note:
+
+                    - Run gyro every 10m to 310m and every stand to 600m (CSG point).
+                    - In case of any indication of abnormal torque, check surface samples for any
+              probable cement or metal to investigate risk of collision with the well D-009.
+                    - TD should be adjusted in such a way to have 2 meters of rat hole for probable
+                   fillings.
+
+                 At section TD, circulate, clean hole. Spot hi-vis pill @ bottom. POOH to surface.
+
+                 Run 26” bit and 26” reamer and condition the hole prior to run 20” casing and
+                    spot hi-vis pill. POOH to surface.
+
+
+
+                                           33
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 115 ]
+────────────────────────────────────────────
+                             Dorood Oil Field
+
+                  D-028 Drilling Program
+
+
+          R/U 20” casing running gear. Perform safety meeting.
+
+          Run ±600m (Approx. 55Jts) 20” casing to bottom as per casing program. Casing
+           shoe should be adjusted in such a way to have 2 meters of rat hole and enough
+              stick up (1.5m) on rig floor. Fill casing by non LCM fresh mud each joints.
+             (Float shoe stab in type should be used).
+
+Note:
+                -  Take care when running casing not to set down excessive weight if tight
+               hole or ledges are encountered.
+                -   Controlled ROP for vertical drilling for anti-collision.
+                -  Check the stinger is compatible with the shoe. Check the shoe to be stab
+                in  type.
+
+          Run stinger on 5” DP’s using the “C” Plate & 5” × 20” centralizer. Sting in. M/U
+       &  test cementing  lines.  Circulate  for one  casing annulus volume. While
+              circulating, check the DPs annulus for any return. Use all DP’s weight on the
+               string, if observing any minor leakage through DP’s annulus.
+
+          Cement casing as per program. Displace cement with sea water. Check for
+            backflow. Sting out. Break circulation to flush the DPs. POOH and L/D stinger.
+
+          Rest the 20” casing on the elevator until cement surface samples get hard. Check
+             for casing  to be center  inside conductor. In case of any problem,  report
+            immediately.
+
+Note:
+                -  Based on the results obtained from cementing, the decision will be made
+                to perform top job.
+
+          Slack off the 20” casing. Cut and remove the 30” conductor to have access to the
+           20” casing. Lift up Diverter. Rough cut the 20” casing. L/D the 20” cut off joint
+            Nipple down 30” Diverter.
+
+          Dress the 20” casing neck, weld casing head housing 20 3/4” – 3000 and test the
+             sealing of welded casing to 400 psi.
+
+Note:
+                -  Before installing the casing head housing, open all the test ports and
+               clean inside it with water and air.
+                -  Do not forget to check the wear bushing to be compatible with CHH and
+                   tie down flange before N/U annular preventer.
+
+                                     34
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+                    -  Pass test plug through all risers before N/U risers and BOP.
+                    -  Perform BOP Test each 14 days.
+
+             N/U 20 ¾” – 3000psi BOP and Hydrill (Diverter) and related lines. Test BOP’s
+                as per IOOC policy.
+
+             P/U, M/U 17 ½” BHA (Included Junk Sub) & Bit. RIH & D/O cement & shoe.
+
+              Fill up the following forms and send to main office:
+
+         20” Casing tally
+         20” Casing Report
+         20” Cement Report
+         26” Hole Section Summary
+         Wellhead diagram with dimensions and serial numbers.
+         Gyro survey report.
+
+
+
+2.4  Logging Program
+
+       No logging program is considered for this hole section.
+
+
+2.5  Hole Deviation
+          This well is assumed to be drilled vertically. Run gyro each 10m to 310m and
+         each stand to 600m (casing point) is going to give a good indication of the hole
+           profile and hole deviation control.
+
+
+
+
+
+                                        35
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+3  17-½” Hole Section / 13-⅜” & 13-⅝” Casing
+
+
+   3.1  General
+
+
+          Casing Point                 13-3/8” & 13-5/8” CSG @ 1867m «Inside Asmari Cap Rock»
+          Formation                   Aghajari, Mishan, Gachsaran
+           Risks & Hole problems       Marl Zone in Mishan, Tight hole, Gachsaran flow
+           Deviation control         MWD/GR/ROP, Gyro
+          Logging                 DSI (Dipole Sonic Imager)/ UBI/ Density
+                                   Type                    Salt Polymer Mud
+                    MW          72 - 75 pcf                101pcf
+                                      F.L           10 – 30cc                  2cc
+            Drilling Fluid
+                                               Vis.            45±                  60±
+                             PV            8 - 10                 35 - 40
+                             YP        15 - 20 lbs/100ft²        15 - 20 lbs/100ft²
+                            PH                9.5                        9.5
+                        GPM    700 - 900
+            Drilling Parameters
+                       WOB   Low WOB to drill hole vertically
+                         RPM    80 - 120
+
+
+   3.2  Formation Sampling
+
+           As per well site Geologist request.
+
+
+   3.3  Sequence of Operations
+
+                  Drilling 17-1/2" Hole vertically to 650mMD.
+
+                  Circulate clean hole. POOH. P/U Directional drilling BHA w/ UBHO sub & R.
+                      Bit. RIH to bottom. R/U gyro and set toolface to start nudge.
+
+                 Cont. Dir. Drilling 17-1/2" hole as nudge down to 1030mMD.
+
+                  Circulate clean hole. POOH to surface. P/U drilling BHA & PDC bit, RIH to
+                   bottom.
+
+                 Cont. drilling the 17 ½” hole vertically to 1330mMD
+
+                  Circulate and clean hole, perform wiper trip to condition the hole.
+
+
+
+
+
+                                           36
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 115 ]
+────────────────────────────────────────────
+                              Dorood Oil Field
+
+                   D-028 Drilling Program
+
+
+           Cont.  Drilling  17-1/2"  Hole  vertically  to 1570mMD  (top  of  Gachsaran
+             Formation) , (bit #5). Increase mud weight up to 101pcf from 1470mMD to top
+              of the Gachsaran formation.
+            Circulate clean hole. Perform wiper trip to condition the hole and circulate to
+             balance mud weight.
+
+           Cont. drilling 17 ½” hole section vertically down to ±1767mMD
+            Circulate clean hole. Flow check, spot hi vis pill, POOH to surface. Perform
+         BOP test. P/U drilling BHA, MWD/GR/ROP & PDC bit, RIH to bottom.
+
+           Resume drilling 17-1/2" hole down to ±1867mMD vertically (13-3/8" casing
+               point).
+
+            Circulate and clean hole. R/U and run gyro survey. Condition hole prior to run
+             logging tools. Spot hi-vis pill. Flow check. POOH & L/D BHA.
+Note:
+
+                 -  Due to Gachsaran formation flow zone, it is necessary to increase mud
+               weight up to 101pcf (based on mud weight in the D-009 well).
+
+                 -  LCM material & Cement must be available for cure probable loss.
+
+                 -  TD should be adjusted in such a way to have 2 meters of a rat hole for
+               probable filings.
+
+                 -  The Section TD maybe changed based on formation tops detected by the
+                 well site geologist.
+
+                 -  Perform BOP Test each 14 days.
+
+           R/U and run DSI (Dipole Sonic Imager)/ UBI/ Density log to bottom. Pull out &
+          R/D wire line logging tools.
+
+           P/U 17-1/2" B. bit and perform condition trip prior to run casing. Spot hi-vis pill.
+           Flow check. POOH & L/D 17-1/2” Bit.
+
+           R/U casing running gear. Perform safety meeting.
+
+           Run 13-3/8” & 13-5/8” casing to bottom as per casing program. Casing shoe
+             should be adjusted in such a way to have 2 meters of rat hole and enough stick
+           up (1.5 m) on rig floor and fill casing by non LCM fresh mud each 10 joints.
+
+
+
+                                      37
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 115 ]
+────────────────────────────────────────────
+                              Dorood Oil Field
+
+                   D-028 Drilling Program
+
+
+           M/U cementing head. Load the plugs. WSS is witness while loading the plugs.
+             Test the lines to 3000 psi for 10 minutes.
+
+           Cement casing as per program. Displace with mud. Monitor for pressures.
+            Record and report final pressure before bump the plug. Bump the plug with 500
+               psi over the final circulating pressure or max 2000psi. Bleed off pressure. Check
+               for back flow.
+
+
+Note:
+
+                - If any back flow observed, hold the pressure inside for the cement to thick.
+
+                - In case of cement loss during displace in annulus, decrease GPM to reduce
+              losses.
+
+                - Based on the results obtained from cementing, the decision will be made to
+           perform top job.
+
+           Hang up 20-3/4” -3K BOP, Set 20-3/4” × 13-5/8” casing slip. Set back BOP and
+            P/T casing slips (Open base flange side outlet valves while testing). Hang up 20-
+             3/4” -3K BOP. Rough cut 13 5/8” landing joint. L/D same and BOP’s. Dress and
+             bevel 13-5/8” casing neck.
+
+            Install 20-3/4”-3000 × 13-5/8” -5000 psi casing head spool. Pack & Test p-seals
+             with 1500 psi.
+ Note:
+
+                 -  Do not forget to check the wear bushing and test plug to be compatible
+               with CHS and tie down flange before N/U BOP.
+
+                 -  Pass test plug through all risers before N/U risers and BOP.
+
+           N/U 13-5/8" 5K BOP stack. Fill up 13-3/8" & 13-5/8” Ann w/ CMT if needed.
+            Perform BOP Test. (CHS side outlet should be open during BOP Test)
+
+
+           L/D 17-1/2" Hole BHA. P/U next BHA & 12-1/4" bit (Junk sub included), RIH
+               to BTM.
+
+           D/O shoe track and 3m above Shoe. Displace mud in hole with 72pcf salt-
+            polymer mud. D/O shoe. Work on junk sub.
+Note:
+
+
+                                      38
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+              -  watch carefully for any indication of abnormal torque, since there might be a
+               possibility of shoe being backed off. In case, report immediately.
+              -   It’s necessary to keep 101pcf mud in case of observing Gachsaran flow after
+          D/O 13-5/8” shoe.
+
+              -   Fill up the following forms and send them to main office:
+         13-3/8”& 13-5/8” Casing Tally
+         13-3/8”& 13-5/8” Casing Report
+         13-3/8”& 13-5/8” Cement Report
+         Wellhead diagram with dimensions and serial numbers BOP’s Schematics with
+                      all related dimensions
+          Section Summary.
+          Directional & Gyro surveys
+
+3.4  Logging Program
+        DSI (Dipole Sonic Imager)/ UBI/ Density log
+
+3.5  Hole Deviation
+     MWD & gyro is to be used for this section.
+
+
+
+
+
+                                        39
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+4  12-¼” Hole Sections / 9-⅝” Casing
+
+
+
+   4.1  General
+
+
+          Casing Point                  9-5/8” Casing @ 3840m MD « inside the Khami formation»
+                                     Asmari, Jahrum, Gurpi, Ilam, Sarvak, Ahmadi, Mauddud,
+          Formation
+                                  Kazhdumi, Dariyan, Gadvan, Ratawi, Khami
+                                       Chert, shale caving, Severe mud Loss, Probable flow,
+           Risks & Hole problems
+                                Kazhdumi Shale, Tight hole, Hole pack off, stuck
+           Deviation control       MWD
+          Logging                 DSI (Dipole Sonic Imager)/ UBI/ Density
+                                   Type         Salt Polymer Mud       OBM
+                    MW             72 pcf                 72 pcf
+                                      F.L                5cc           HPHT 2 - 3
+            Drilling Fluid                     Vis.             35 - 40                 50±
+                             PV               10                    30
+                             YP           20 lbs/100ft²            20 lbs/100ft²
+                            PH                  9.5           ALKA 3.5
+                                   Type         Salt Polymer Mud       Pure Bore WBM
+                    MW             72 pcf               72 - 77 pcf
+                                      F.L                5cc                  4 – 5cc
+            Drilling Fluid                     Vis.             35 - 40                55 - 60
+                             PV               10                    17
+                             YP           20 lbs/100ft²            26 lbs/100ft²
+                            PH                  9.5                        9.5
+                        GPM   As per DD instruction
+            Drilling Parameters       WOB   As per DD instruction
+                         RPM   As per DD instruction
+
+
+   4.2  Formation Sampling
+
+             Note: As per well site Geologist request.
+
+
+   4.3  Sequence of Operations
+
+                  Drilling 1m below shoe to 1868mMD (bit#8). Circulate clean hole, observe well
+                     for one hours. Perform leak off test.
+     Note:
+
+                         -  In case of observing Gachsaran flow, after drilling 1m below 13-3/8”
+                       shoe, a desiscion will be made to perfrom remedial cement job and it is
+                     nessecary to keep 101pcf mud in case of observing Gachsaran flow.
+                 Continue drlg formation down to 1872mMD.
+
+                                           40
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 115 ]
+────────────────────────────────────────────
+                              Dorood Oil Field
+
+                   D-028 Drilling Program
+
+
+
+           Work on junk sub, Circulate clean hole with Hi-Vis pill. POOH to surface. L/D
+             junk sub.
+
+           P/U Directional drilling BHA (MWD/GR/ROP) & new bottom  bit. RIH to
+             bottom. Cont. directional drilling down to 2172mMD.
+
+            Circulate and clean hole, POOH, L/D b.  bit, P/U new PDC  bit, RIH with
+              Directional drilling equipment (MWD/GR/ROP) down to bottom.
+
+           Continue Directional Drilling down to 3016mMD (10m above the Kazhdumi
+              formation).
+
+            Circulate and clean hole, observe well, POOH, L/D directional BHA and PDC
+                  bit.
+Note:
+
+                 -  Adjust mud weight with respect to the hole condition.
+                 -  Moderate mud loss & probable flow may be occured in the Jahrum
+                formation, it should be cured by LCM materials. If the loss zone is not to
+              be controlled, cement plug will be set to cure loss zone.
+                 -  Probable heavy loss zones in Ahmadi & Mauddud as per experienced in
+             some of Dorood wells.
+                 -  In case of no success to cure losses in the Ahmadi and Mauddud
+                formations, cure heavy losses CMT plugs.
+                 -  Based on interpreted maps and faults of PPZ geophysical section, a fault
+                   will affect the Mauddud Formation. The mentioned fault crosses the well
+                 trajectory may cause some mud loss problems during drilling of the 12-
+                1/4" hole section.
+                 -  Based on Reservoir pressure data, 72pcf mud impose ±180 psi over
+                pressure to Asmari Reservoir@ ±1865m, TVD (13-5/8” casing point).
+                 -   Circulate and clean with Hi-Vis pill each stand.
+                 -  Perform BOP Test each 14 days.
+
+           RIH W/Center cut bit to base of Mauddud, circulate & BTM up. Assumed to
+             cure losses by setting two cement plugs at Ahmadi & Maddud loss zones.
+        POOH 10 STDs above top of cement plug. RIH & tag top of CMT. POOH to
+               surface. P/U and RIH w/ directional BHA and b.bit, tag top of CMT, D/O CMT,
+               circulate clean hole, observe well, Perform FIT test (equal MW= 77pcf), POOH
+               to surface, L/D b. bit and directional BHA.
+
+           P/U new m. motor, directional BHA and new PDC bit and RIH down to bottom.
+             Prepare & Displace hole w/ 72pcf oil based mud.
+
+                                      41
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 115 ]
+────────────────────────────────────────────
+                              Dorood Oil Field
+
+                   D-028 Drilling Program
+
+
+
+           Resume directional drilling down to +/- 3840m, MD (9-5/8" CSG Point@ inside
+              the Khami formation).
+Note:
+
+                 -  Perform wiper trip every 300m drilled.
+                 -  Pure Bore WBM with 72-77pcf weight is another option which can be
+               used instead of OBM.
+                 -  The Section TD maybe changed based on formation tops detected by the
+                 well site geologist.
+
+            Circulate and clean hole, observe well. Condition the hole prior to run logging
+                tools. spot hi-vis pill. POOH to surface & L/D 12-1/4" Bit.
+
+           R/U and run TLC DSI (Dipole Sonic Imager)/ UBI/ Density log. R/D logging
+                tools.
+Note:
+
+                 -   If the hole condition is not suitable for running logging tools, log is to be
+               taken after 9-5/8" casing ruuning.
+
+           Perform condition trip prior to run 9-5/8" casing. CBU, spot hi-vis pill, observe
+               well. POOH to surface, L/D bit and directional BHA.
+
+            Retrieve wear bushing & change upper ram to 9 5/8". Perform Function Test & P/T same.
+
+           R/U & run 9 5/8” casing to BTM as per program. Circulate one cap when casing
+            9 5/8” shoe is at 13 3/8” shoe and another one at BTM. Casing shoe should be
+              adjusted in such a way to have 0.5 meter of rat hole and enough stick up (1.5 m)
+           on rig floor.
+
+           M/U cementing head. Load the plugs. WSS is to witness the loading. Test the
+               lines to 3000 psi for 10 minutes. Make sure that the cementing head is capable of
+             holding pressure while displacing and testing cement (Visually).
+
+           Cement casing as per program. Any minor adjustment regarding the corrected
+             depth will be done in due time. Displace with mud. Monitor for pressures.
+            Record and report the final pressure before bump the plug. Bump the plug with
+           500 psi over the final circulating pressure or max. 2000psi. Bleed off pressure.
+           Check for back flow. If any back flow observed, hold the pressure inside for
+           cement to thick.
+
+
+
+
+                                      42
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+  Note:
+
+                    -  Perform top-jop cement jobs as per program to  fill the annulus  if
+                 occured lost return while cementing.
+
+             Hang up 13-5/8" 5K BOP stack & Set 13-5/8" * 9-5/8" CSG Slips & Slack off.
+                   Install back BOP and P/T casing slips (Open casing head spool side outlet valves
+               while testing).
+
+             P/U BOP’s. Rough cut 9 ⅝” landing joint. L/D Landing joint & BOP’s. Dress
+              and bevel 9 ⅝” casing neck.
+
+              Install 13 ⅝” – 5k × 11” – 5k THS. Pack & Test p-seals.
+
+             N/U 13 ⅝” BOP Stack. N/U bell nipple. Test BOP’s and related lines using plug
+                    tester. (Open casing head spool side outlet valves while testing).
+  Note:
+
+                    -  Do not forget to change top rams to 5”.
+                    -  watch carefully for any indication of abnormal torque, since there might
+                 be a possibility of shoe being backed off. In case, report immediately.
+
+             L/D 12 ¼” hole BHA and P/U and M/U 8 1/2” BHA, RIH to BTM .
+
+              Drill out shoe track to 3m above shoe. Displace hole with 56pcf oil based mud.
+              Observe well for one hour carefully. Continue D/O shoe track and shoe.
+
+              Fill up the following forms and send them to main office:
+          9-5/8” Casing Tally
+          9-5/8” Casing Report
+          9-5/8” Cement Report
+         Wellhead diagram with dimensions and serial numbers BOP’s Schematics with
+                      all related dimensions
+         Logging report
+          Section Summary.
+          Directional & Gyro surveys
+
+4.4  Logging Program
+
+       TLC DSI (Dipole Sonic Imager)/ UBI/ Density log. SBT log form 13-3/8”CSG is to be
+          run in this section.
+
+4.5  Hole Deviation
+     MWD is to be used for this hole section.
+
+
+
+                                        43
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+5  8-1/2” Hole Sections / 7” Liner
+
+
+   5.1  General
+
+
+           Liner point             3740mMD – 4521.41mMD. (TD)
+          Formation                Khami, Yamama
+           Risks & Hole problems       Tight hole, loss, Stuck
+           Deviation control      MWD
+          Logging                      Full set (GR/Res./Neutron/Density/UBI/FMI/DSI), SBT Log
+                                   Type              OBM
+                    MW     56 pcf
+                                      F.L   HPHT 3 – 4cc
+            Drilling Fluid                     Vis.     35±
+                             PV     10±
+                             YP     15 - 20 lbs/100ft²
+                            PH      9.5
+                         GPM    As per DD engineer instruction
+            Drilling Parameters       WOB    As per DD engineer instruction
+                         RPM    As per DD engineer instruction
+
+
+   5.2  Formation Sampling
+
+            As per well site Geologist request.
+
+   5.3  Sequence of Operations
+
+                 Cont. Drill out cement & shoe to 5m bellow shoe. Circulate Hi-Vis Pill and clean
+                     hole. Watch carefully for any indication of abnormal torque, since there might be
+                    the risk of shoe back off. In case, report immediately. Observe and make sure
+                   well is static. POOH to surface.
+
+                 R/U & Run TLC SBT log to check 9-5/8" CSG cement quality, R/D logging
+                       tools.
+
+                 P/U 8 1/2" PDC bit and directional BHA and RIH to bottom.
+
+                  Directional drilling as per directional trajectory down to +/-4521.41mMD (TD)
+                   with 56pcf oil based mud.
+     Note:
+
+                         -  Adjust mud weight with respect to the hole condition.
+                         -  Based on Reservoir pressure data, 56pcf mud impose ±1296psi over
+                     pressure to the Yamama @ 9 5/8” casing point (±3430.5m, TVD).
+                         -  Perform wiper trip after drilling every 300m interval.
+
+
+                                           44
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 115 ]
+────────────────────────────────────────────
+                              Dorood Oil Field
+
+                   D-028 Drilling Program
+
+
+                 -  The Section TD maybe changed based on formation tops detected by the
+                 well site geologist.
+                 -  Perform BOP Test each 14 days.
+
+            Circulate and clean hole, observe well. Condition the hole prior to run TLC
+                fullset log. spot hi-vis pill. POOH to surface & L/D 8-1/2" Bit.
+
+           R/U and run TLC fullset log. R/D logging tools.
+
+           P/U & M/U directional BHA and 8-1/2" B. bit. Perform condition trip prior to
+         TLC FMI log. CBU, spot hi-vis pill, observe well. POOH to surface, L/D bit and
+               directional BHA.
+
+           R/U and run TLC FMI log. R/D logging tools.
+
+           P/U & M/U directional BHA and 8-1/2" B. bit. Perform condition trip prior to
+             run DSI/ UBI/ Density log. CBU, spot hi-vis  pill, observe well. POOH to
+               surface, L/D bit and directional BHA.
+
+           R/U and run TLC DSI (Dipole Sonic Imager)/ UBI/ Density log. R/D logging
+                tools.
+
+           Perform condition trip prior to run 7" liner. CBU, spot hi-vis pill, observe well.
+        POOH to surface, L/D bit and directional BHA.
+
+           Retrieve wear bushing, Change top ram to 7".
+
+           R/U 7" liner running gear, perform safety meeting.
+
+           Run 7” liner as per program. P/U and run liner hanger and accessories, record
+                liner weight & run 7” liners with 5” DPs 9-5/8" casing shoe, circulate one
+            volume of liner capacity to balance MW in and out.
+
+           Continue running the 7” liner to bottom (3740 – 4521.41mMD).
+
+Notes:
+
+                 -  Run drift dummy inside 5” D.P & perform SLM while RIH with liner.
+
+                 -  100m overlap of liner and casing should be considered.
+
+                 -   9-5/8” RTTS should be available as contingency.
+
+
+            Circulate equal to 120% volume of liner string and DP capacity at 9-5/8" casing
+             shoe depth and on bottom.
+
+           M/U cementing line. Set the liner as per program. (3740 – 4521.41mMD)
+
+
+                                      45
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 115 ]
+────────────────────────────────────────────
+                              Dorood Oil Field
+
+                   D-028 Drilling Program
+
+
+           Release setting tool. Cement 7" liner as per program.
+
+            Pull out setting tools 10STDs, flush string. POOH 5STDs more, CBU, POOH to
+               surface. L/D liner setting tools.
+
+           Change top ram to variable 2-7/8” – 5” & test same to 2500 psi, install wear
+             bushing.
+
+           RIH with 8-1/2" used Bit and clean (D/O probable cement above liner lap) well
+               to 7" liner lap @3740mMD. Pump H.V Pill, CBU clean hole. Flow check.
+        POOH to surface. L/D 8-1/2" Bit.
+
+           P/U & M/U 6-1/8" BHA containing 3-1/2" HWDP. RIH with 6-1/8" R. bit, D/O
+             P.O.B. and clean out inside 7" liner to top of LDC @ +/- 4497mMD. CBU clean
+              the hole. POOH to +/-3740mMD. Close top ram, P/T 7" liner to 1500 psi/30min.
+        POOH to surface, L/D 6-1/8" bit.
+
+           RIH with 7"& 9-5/8" tandem scraper and scrape 7" liner and packer setting
+              depth. Displace 7" liner with diesel. POOH to surface. L/D 7"& 9-5/8" tandem
+               scraper.
+
+           R/U & Run TLC SBT log to check 7" liner cement quality, R/D logging tools.
+
+           Load explosive as required, Run gun with TCP to target interval.  Correlate
+              depth. Space out the TCP string as per correlation result. Fire the gun. Take
+                injectivity test by maximum 1500 psi, POOH and L/D DPs and gun.
+
+Notes:
+
+                 -   Perforation interval is to be issued by Reservoir Department in due time.
+
+           Retrieve wear bushing, R/U and run completion string. Displace above packer
+             with non solid inhibited sea water.
+
+           N/D BOP, N/U X-Mass tree 4-1/16" 5K, P/T Same.
+
+           Perform Stimulation job as per PPZ production department instruction, flow the
+               well, and let the well be cleaned.
+
+           Secure the well, Release the rig.
+
+            Fill up the following forms and send them to main office:
+        7” Liner Tally
+        7” Liner Report
+        7” Liner Report
+       Wellhead diagram with dimensions and serial numbers BOP’s Schematics with
+                   all related dimensions
+
+
+                                      46
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+         Logging report
+          Section Summary.
+          Directional & Gyro surveys
+
+
+5.4  Directional Plan
+          Refer to directional section
+
+5.5  Logging Program
+
+       TLC Full set (GR/Res./Neutron), TLC FMI, TLC Density/ UBI/ DSI, SBT from 9-5/8”
+       CSG and 7” liner is to be run in this section.
+
+
+
+
+
+                                        47
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 115 ]
+────────────────────────────────────────────
+                     Dorood Oil Field
+
+            D-028 Drilling Program
+
+        D-028
+
+
+
+
+
+E. Directional Drilling
+      Program
+
+
+
+
+
+   Pars Petro Zagros Engineering and Services Co.
+                  Drilling Department
+               November 2016
+
+                            48
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Directional Drilling Program
+
+
+
+
+
+                                           49
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             50
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             51
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             52
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             53
+
+
+────────────────────────────────────────────
+[ صفحه 55 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+  Anticollision
+
+
+
+
+
+                                                                                                                                                                         
+                                                                                     
+
+     Note:
+
+     Based on anticollision report, the center to center distances between the well D-009 and new
+
+      well D-028 are as follows:
+
+                         -  From surface to 650mMD: 2.86m
+                         -  From 650mMD to 1030mMD (end of Nudge): 2.86m to 30.96m.
+                         -  From 1100mMD to 4521mMD: > 30.96m.
+
+
+
+
+
+                                           54
+
+
+────────────────────────────────────────────
+[ صفحه 56 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+                                                                                                              
+
+
+             55
+
+
+────────────────────────────────────────────
+[ صفحه 57 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+                                                                                                              
+
+
+             56
+
+
+────────────────────────────────────────────
+[ صفحه 58 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+                                                                                                              
+
+
+             57
+
+
+────────────────────────────────────────────
+[ صفحه 59 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             58
+
+
+────────────────────────────────────────────
+[ صفحه 60 از 115 ]
+────────────────────────────────────────────
+                  Dorood Oil Field
+
+         D-028 Drilling Program
+
+      D-028
+
+
+
+
+
+ F. Mud Program
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             November 2016
+
+                         59
+
+
+────────────────────────────────────────────
+[ صفحه 61 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                                                                            60
+                 DrillingDorood
+          D-028
+
+
+
+
+
+         1:
+                           Option
+
+
+────────────────────────────────────────────
+[ صفحه 62 از 115 ]
+────────────────────────────────────────────
+               ProgramField
+Oil                                                                                            61
+                 DrillingDorood
+          D-028
+
+
+
+
+
+         2:
+                           Option
+
+
+────────────────────────────────────────────
+[ صفحه 63 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Note:
+     Mud  program  represented  above  should  be  considered  as  a  guideline  plan.
+
+      Comprehensive mud program will be issued by service company in due time.
+     Adequate mud materials should be available.
+     Pure Bore WBM with 72-77pcf weight is another option which can be used instead of
+
+    OBM in the 12-1/4” section.
+
+
+
+
+
+                                           62
+
+
+────────────────────────────────────────────
+[ صفحه 64 از 115 ]
+────────────────────────────────────────────
+                           Dorood Oil Field
+
+                D-028 Drilling Program
+
+          D-028
+
+
+
+
+
+G. Bit & Hydraulic Design
+
+
+
+
+
+       Pars Petro Zagros Engineering and Services Co.
+                       Drilling Department
+                   November 2016
+
+
+
+
+                                  63
+
+
+────────────────────────────────────────────
+[ صفحه 65 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+1.1 26” Hole Section
+
+
+
+
+
+                                        64
+
+
+────────────────────────────────────────────
+[ صفحه 66 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             65
+
+
+────────────────────────────────────────────
+[ صفحه 67 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+   1.2 17 ½” Hole Sections
+Primary Proposed Bit:
+
+
+
+
+
+                                           66
+
+
+────────────────────────────────────────────
+[ صفحه 68 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             67
+
+
+────────────────────────────────────────────
+[ صفحه 69 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             68
+
+
+────────────────────────────────────────────
+[ صفحه 70 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Secondary Proposed Bit:
+
+
+
+
+
+                                           69
+
+
+────────────────────────────────────────────
+[ صفحه 71 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             70
+
+
+────────────────────────────────────────────
+[ صفحه 72 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             71
+
+
+────────────────────────────────────────────
+[ صفحه 73 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             72
+
+
+────────────────────────────────────────────
+[ صفحه 74 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+   1.3 12 ¼” Hole Section
+Primary Proposed Bit:
+
+
+
+
+
+                                           73
+
+
+────────────────────────────────────────────
+[ صفحه 75 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             74
+
+
+────────────────────────────────────────────
+[ صفحه 76 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             75
+
+
+────────────────────────────────────────────
+[ صفحه 77 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Secondary Proposed Bit:
+
+
+
+
+
+                                           76
+
+
+────────────────────────────────────────────
+[ صفحه 78 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             77
+
+
+────────────────────────────────────────────
+[ صفحه 79 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             78
+
+
+────────────────────────────────────────────
+[ صفحه 80 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+   1.4 8 1-2” Hole Section
+Primary Proposed Bit:
+
+
+
+
+
+                                           79
+
+
+────────────────────────────────────────────
+[ صفحه 81 از 115 ]
+────────────────────────────────────────────
+      Dorood Oil Field
+
+D-028 Drilling Program
+
+
+
+
+
+             80
+
+
+────────────────────────────────────────────
+[ صفحه 82 از 115 ]
+────────────────────────────────────────────
+                              Dorood Oil Field
+
+                   D-028 Drilling Program
+
+           D-028
+
+
+
+
+H. Casing Program & Design
+
+
+
+
+
+           Pars Petro Zagros Engineering and Services Co.
+                          Drilling Department
+                      November 2016
+
+
+                                      81
+
+
+────────────────────────────────────────────
+[ صفحه 83 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Casing Program
+
+    1.1  30” Conductor Pipe Program
+               30” Conductor pipe 234# will be run to +/-110m.
+
+
+            1-1.A Preparation
+
+               Visually and mechanically check the stab in guide shoe for proper operation.
+               Ensure all connections are thoroughly cleaned using steam or a grease solvent.
+               Ensure that all casing running equipment are available and in good operation
+
+                   condition.
+               Ensure the correct casing drifts are supplied to the rig (12” Long).
+               Ensure that all casing joints have been drifted.
+               Company man to check stab in adaptor matches stab in shoe.
+               Ensure spare seals for stab in adaptor are available.
+               Ensure all cement bulk lines have been checked for blockage with bulk tanks
+
+                   fluffed and pressurised to the required transfer pressure.
+                Inspect and pressure test cement manifold.
+
+
+
+            1-1.B Sequence Of Operations
+
+               Conduct safety meeting with all crews involved.
+               Rig up casing handling and running equipment.
+               M/U 30”, 234 ppf, X-52, RL-4, "Stab in" type guide shoe on first joint.
+               Run 30” conductor & centralisers according to tally.
+                Fill up each casing joint with mud whilst running in the hole.
+               Work on tight spots gently. Circulate, if needed.
+
+
+
+
+
+                                           82
+
+
+────────────────────────────────────────────
+[ صفحه 84 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+1.2  20” Casing Program
+         1-2.A Preparation
+
+            Visually and mechanically check proper functioning of the float shoe.
+            Ensure all connections are thoroughly cleaned using steam or a grease solvent.
+            Ensure that all casing running equipment are available and in good operation
+
+               condition.
+            Ensure the correct casing drifts are supplied to the rig (12” Long).
+            Ensure that all casing joints have been drifted.
+            Company man to check "stab in" adaptor matches stab in collar.
+            Ensure there is back up redressing kit for "stab in" adaptor.
+            Ensure all cement bulk lines have been checked for blockage with bulk tanks
+
+               fluffed and pressurised to the required transfer pressure.
+             Inspect and pressure test cement manifold.
+
+
+          1-2.B Sequence of Operations
+
+            Conduct safety meeting with all crew involved.
+            Rig up casing handling and running equipment.
+            M/U 20”, 133 ppf, K-55, BTC, differential "stab in" float shoe on the shoe joint. If
+
+              they are not already made up on joint, soft make up on first joint, P/U and make up
+
+               to the optimum make up torque based on triangle using casing tong. Do not engage
+
+               the tong close to bottom of shoe. Repeat the same for collar.
+            Use thread locking compound for shoe and shoe track connections.
+            Run 20” casing, 133 & 94 ppf, K-55, BTC & centralizers according to tally.
+            Casing running speed will be specified as per company man consideration.
+             Fill every 5 joints casing while running in hole.
+            Precautionary wash the last joint.
+            When landed the casing on slip. Run stinger on 5” drill pipe and cement casing as
+
+              per program.
+
+
+
+
+
+                                        83
+
+
+────────────────────────────────────────────
+[ صفحه 85 از 115 ]
+────────────────────────────────────────────
+                                    Dorood Oil Field
+
+                        D-028 Drilling Program
+
+
+     1.3  20" Casing Design
+
+                                                                                                 Psi       Psi                       #/ft                                                                                           Shoe                Yield                                                MD                            in Size                          CSF      BSF      TSF                                                                                    Lbm                            Burst      ID               Grade                                                                                                                 Thread        m,                                                                                                                                                                                                                                                         Collapse                                   Weight                                                                                                                                        Casing                       Tensile                                  Pressure                   Pressure
+
+                                                     Surf –
+20”  K-55   94    1     1.2    2     BTC            1480000    520   2110   19.124
+                                               340
+
+                                              340 -
+20”  K-55  133    1.6    1.7    3.6    BTC            2125000   1500   3060   18.730
+                                               600
+
+
+
+            Notice:
+                CSF, calculation is made, assuming as full evacuate inside 20" casing & 64.5pcf
+
+           SW in annulus.
+                BSF, Calculation is made, assuming plugged stinger while performing cement job
+                by stinger suddenly 20" shoe become plug. (No mud in annulus assumed).
+
+                TSF, calculation is made, assuming cement inside DP  till stinger suddenly 20"
+
+                  shoe become plug. (No mud in annulus assumed).
+                Casing design is changed with respect to IOOC stock availibility.
+
+
+
+
+
+                                            84
+
+
+────────────────────────────────────────────
+[ صفحه 86 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+1.4  13 3/8" & 13 5/8" Casing Program
+         1-4.A Preparation
+
+            Visually and mechanically check the differential fill up float shoe and collar for
+
+              proper operation.
+            Ensure all connections are thoroughly cleaned using steam or a grease solvent.
+            Ensure that all casing running equipment are available and in good condition.
+            Ensure the correct casing drifts are supplied to the rig (12” Long).
+            Check the plugs fins not to be squeezed or damaged.
+            Ensure that  all casing joints have been  drifted, including 13 3/8”swedge  (If
+
+              required to wash casing down).
+            Ensure all cement bulk lines have been checked for blockage with bulk tanks
+
+               fluffed and pressurized to the required transfer pressure. Ensure that the air supply
+
+               for cement is functioning properly.
+             Inspect and pressure test cement manifold.
+
+
+          1-4.B Sequence Of Operations
+
+            Rig up casing handling and running equipment.
+            M/U 13 5/8”, 88.2 ppf, R-95, BTC, differential fill up float shoe. If it is not already
+
+           made up on joint, soft make up on first joint, P/U and make up the optimum make
+
+            up torque based on triangle using casing tong.
+            Do not engage the tong close to bottom of shoe. Repeat the same for collar.
+            Use  thread  locking compound  for  shoe  track  plus two  joints on  top  of
+
+                differential fill up float collar.
+            Run two joints of 13 5/8”, 88.2 ppf, R-95, BTC casings. (Approx ±24m)
+            Make up 13 5/8”, 88.2 ppf, R-95, BTC, differential fill up float collar.
+            Run Approx ±683m of 13 5/8”, 88.2 ppf, R-95, BTC casing.
+
+          Note: Circulate through casing after running of totally 5 jts for one Casing capacity.
+            Run Approx ±178m of 13 3/8” Casing, 72 ppf, N-80, BTC casing.
+            Run Approx ±949m of 13 3/8” Casing, 68 ppf, N 80, BTC casing.
+            Run 3 joints of 13 5/8”, 88.2 ppf, R-95, BTC casings.
+
+
+
+
+                                        85
+
+
+────────────────────────────────────────────
+[ صفحه 87 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+               Manage to have two meters of  rat hole and 1.5 meters of casing  stick up
+
+               on rig floor.
+               Pump one and half the casing volume @ 20” shoe and TD.
+               Casing running speed will be specified as per company man consideration.
+               Work on tight spots gently. Circulate, if needed.
+                Fill every 5 joints casing while running in hole.
+               Precautionary wash the last joint.
+               M/U cement head. Load the plugs accordingly.
+
+
+    1.5  13 3/8" & 13 5/8" Casing Design
+
+                                                                                                    Psi      Psi                              #/ft                                                                                             Shoe                   Yield                                                 MD                            in   Size                               CSF      BSF      TSF                                                                                        Lbm                         Burst      ID                     Grade                                                                                                                     Thread        m,                                                                                                                                                                                                                                                                  Collapse                                            Weight                                                                                                                                            Casing                           Tensile                                 Pressure                Pressure
+
+13-5/8"   R-95   88.2                BTC      33     2,425,000  4260  7630  12.375
+
+13-3/8"  N-80   68    1    1.38   1.30  BTC    33-982   1,556,000  2260  5020  12.415
+
+                                                    982-
+13-3/8"  N-80   72    1    1.30   1.69  BTC              1,661,000  2670  5380  12.347
+                                                1160
+
+                                                   1160-
+13-5/8"   R-95   88.2   0.99   1.27   2.58  BTC              2,425,000  4260  7630  12.375
+                                                1867
+
+
+
+
+          Notice:
+               CSF, calculation is made, assuming as full evacuate inside 13-3/8" & 13-5/8”
+
+                  casings & 101pcf W.B.M in annulus.
+               BSF, Calculation is made, assuming 105pcf cement slurry as lead, 118pcf cement
+
+                    slurry as tail inside casing and 13 5/8" shoe become plugged with 1000 psi pumping
+
+                   pressure. (No mud in annulus)
+               TSF calculation is made, assuming cement inside casing with 1000psi pumping
+
+                  pressure suddenly 13 5/8" shoe become plug. (No mud in annulus assumed).
+               Casing design is changed with respect to IOOC stock availibility.
+
+
+                                           86
+
+
+────────────────────────────────────────────
+[ صفحه 88 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+1.6  9 5/8" Casing Program
+         1-6.A Preparation
+
+            Visually and mechanically check the differential fill up float shoe & differential
+
+                     fill up Float Collar for proper operation.
+            Ensure all connections are thoroughly cleaned using steam or a grease solvent.
+            Ensure that all casing running equipment is available and in good condition.
+            Ensure the correct casing drifts are supplied to the rig (12” Long).
+            Check the plugs fins not to be squeezed or damaged.
+            Ensure that all casing joints have been drifted, including 9 5/8”swedge (If required
+
+               to wash casing down).
+            Ensure all cement bulk lines have been checked for blockage with bulk tanks
+
+               fluffed and pressurized to the required transfer pressure. Ensure that the air supply
+
+             system for cement is functioning properly.
+             Inspect and pressure test cement manifold.
+
+
+          1-6.B Sequence of Operations
+
+            Rig up casing handling and running equipment.
+            M/U 9 5/8”, 53.5 ppf, L-80, N.Vam, differential fill up float shoe. M/U to the
+
+            optimum make up torque. Do not engage the tong close to bottom of shoe.
+            Use thread locking compound for shoe track plus two joints on top of collar.
+            Run two joints of 9 5/8”, 53.5 ppf, L-80, N.Vam casing.
+            Make up 9 5/8”, 53.5 ppf, L-80, N.Vam differential fill up float collar.
+            Run Approx. ±1368m of 9 5/8” 53.5 ppf, L-80, N.Vam Casing,
+
+          Note: Circulate through casing after running of totally 10 jts for one Casing capacity.
+
+            Run Approx. ±517m of 9 5/8” 47 ppf, L-80, N.Vam Casing.
+            Run Approx. ±1898m of 9 5/8” 43.5 ppf, L-80, N.Vam Casing.
+            Run 3 joints of 9 5/8”, 53.5 ppf, L-80, N.Vam casing.
+            Manage to have 0.5m of rat hole and 1.5 meters of casing stick up on rig floor.
+            Pump a complete casing volume @ shoe and on section TD.
+            Casing running speed will be specified as per company man consideration.
+            Work on tight spots gently. Circulate, if needed.
+
+
+                                        87
+
+
+────────────────────────────────────────────
+[ صفحه 89 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+               Precautionary wash the last joint.
+               M/U cement head. Load the plugs accordingly. Check the flag to operate properly.
+
+
+   1.7  9 5/8" Casing Design
+
+                                               m,                          Psi      Psi                           #/ft                                                                                                                                           Yield
+                                                 MD  Size                                                                           in                            CSF      BSF      TSF                                                                                       Lbm                          Burst     ID                  Grade                                                                                                                   Thread              Casing                                                                                                                                                                                                                                                                Collapse                                         Weight                                                                                                                             interval                                                                                                                                                                                                   Tensile                                  Pressure                 Pressure
+
+9 ⅝"   L-80   53.5                  N.Vam    0-33     1,244,000   6620  7930  8.535
+
+9 ⅝"   L-80   43.5   1.12   1.35   1.27           33-1931   1,005,000   3810  6330  8.755                                N.Vam
+                                                  1931-
+9 ⅝"   L-80   47    1.12    1.2   2.11                       1,086,000   4750  6870  8.681                                N.Vam
+                                               2448
+
+                                                  2448-
+9 ⅝"   L-80   53.5    1.1    1    2.86                       1,244,000   6620  7930  8.535                                N.Vam
+                                               3840
+
+
+
+
+
+          Notice:
+               CSF calculation is made, assuming as full evacuate inside 9 5/8" casing & mud
+
+                  (77pcf) in annulus.
+               BSF, Calculation is made, assuming 9-5/8” full of 95pcf cement slurry as lead,
+
+                118pcf cement slurry as tail and during cement job 9 5/8" shoe become plugged
+
+                 with 450psi pumping pressure.
+
+               TSF calculation  is made, assuming cement & mud inside casing with 450psi
+
+               pumping pressure suddenly 9 5/8" shoe become plug. (No mud  in annulus
+
+                 assumed).
+               Casing design is changed with respect to IOOC stock availibility.
+
+
+
+
+
+                                           88
+
+
+────────────────────────────────────────────
+[ صفحه 90 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+1.8  7" Liner Program
+         1-8.A Sequence of Operations
+
+            WSS is to supervise the loading of liner wiper plug in liner running tool, and
+
+              loading of drill pipe wiper dart in cementing head.
+            The liner hanger engineer is to be on the rig floor at all times that the liner is being
+
+              run in open hole.
+            Hold pre-job safety meeting. When running-in, apply thread lock to all connections
+
+              of the shoe track.
+            Rig up liner running equipment. Run 7” liner string considering the following
+
+              arrangements:
+
+                         a.  7" float shoe, 29 ppf, L-80, N.vam
+                       b. Two joints of 7", 29 ppf, L -80, N.vam
+                         c.  Latch down collar 7", 29 ppf, L -80, N.vam
+                       d.  Liner 7", 29 ppf, L -80, N.vam from LDC to liner hanger.
+                         e.  7" hydraulic set liner hanger 29 ppf, L -80, N.vam
+                             f.  Running Tools.
+            After making up the shoe track, lower through rotary table and check that the floats
+
+               are holding. Fill up with mud and pick up to check float functionality. Circulate for
+
+            10 min.
+            Run liner in at controlled speed to minimize pressure surges & Check returns
+
+               continusely.
+             Fill up liner completely every 10 joints run.
+            When the required numbers of liner joints have been made up, make up the liner
+
+             hanger & running tool as per liner hanger engineer’s instructions.
+             Circulate 120% of the liner capacity. (Record Liner weight)
+            Run the liner with 5” drill pipe to the 9-5/8” casing shoe. Circulate a minimum of
+
+            one string capacity before running into open hole, RIH in the open hole at 6
+
+               Std/Hrs. Liner hanger engineer should be on rig floor while running liner into open
+
+               hole. SLM & drift the drill pipe while RIH the liner.
+            M/U combination plug dropping head to the last joint. Use pup joint, if necessary.
+
+            Check flag sub for proper functioning.
+            The hanger will be set 100m above the 9-5/8” casing shoe. Try to avoid setting
+
+             hanger on casing coupling. Set the Hanger as per hanger engineer procedures.
+
+
+
+
+                                        89
+
+
+────────────────────────────────────────────
+[ صفحه 91 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+               Ensure that the running tool is free of the liner (work string 0.5m up and down –
+
+                record loss of weight as the hanger sets) before starting to cement.
+               Circulate 120% of the string contents.
+              Cement 7" liner as per cementing program.
+              Displace the cement with the cementing pump to the liner wiper plug. Shear out
+
+                   liner wiper plug (Record the volume pumped and shearing pressure). Displace
+
+              combined wiper plugs to latch down collar.
+              Bump the plug with 500 psi over final displacement pressure (Record and report
+
+                   final displacement pressure prior to bump the plug). If there is no bump, do not
+
+                 displace more than 50% of the shoe-track volume.
+              Hold bumping pressure for 5 minutes. If the plugs bumped.
+              Bleed off pressure slowly and check for back-flow.
+              N/D cementing head. Pull out setting tools 10 STD’s. Flush pipes. POOH more 5
+
+                  stands. CBU. Continue POOH to surface.
+              Clean well to liner lap @ ±3740m with 8 1/2” bit. POOH to surface.
+              P/U & M/U 6-1/8" bit & RIH w/ 3-1/2 & 5” drill pipes, Clean and drill out cement
+
+                      (if any) to top of LDC.
+               Circulate and POOH to 3740m, pressure test liner lap to 1500 psi for 30 min.
+
+          POOH to surface.
+
+
+  1.9  7" Liner Design
+
+                                              m,                          Psi      Psi                         #/ft                                                                                                                                         Yield
+                                                MDSize                                                                           in                          CSF      BSF      TSF                                                                                     Lbm                          Burst     ID                Grade                                                                                                                Thread              Casing                                                                                                                                                                                                                                                             Collapse                                      Weight                                                                                                                             interval                                                                                                                                                                                               Tensile                                  Pressure                 Pressure
+
+                                                 3740-
+7"    L-80   29    1.49   1.07   2.22  N.Vam              676,000   7030  8160  6.184
+                                                4521.41
+
+
+         Notice:
+              CSF calculation is made, assuming as full evacuate inside 7" liner & mud (56pcf)
+
+                  in annulus.
+
+
+
+
+                                          90
+
+
+────────────────────────────────────────────
+[ صفحه 92 از 115 ]
+────────────────────────────────────────────
+                       Dorood Oil Field
+
+             D-028 Drilling Program
+
+
+  BSF, Calculation is made, assuming 7” full of 118pcf cement slurry and during
+
+   cement job 7" shoe become plugged with 1000psi pumping pressure.
+
+  TSF calculation is made, assuming cement & mud inside casing with 1000psi
+
+   pumping pressure suddenly 7" shoe become plug. (No mud in annulus assumed).
+  Casing design is changed with respect to IOOC stock availibility.
+
+
+
+
+
+                              91
+
+
+────────────────────────────────────────────
+[ صفحه 93 از 115 ]
+────────────────────────────────────────────
+                  Dorood Oil Field
+
+          D-028 Drilling Program
+
+       D-028
+
+
+
+
+I. Cement Program
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+               Drilling Department
+             November 2016
+
+
+                         92
+
+
+────────────────────────────────────────────
+[ صفحه 94 از 115 ]
+────────────────────────────────────────────
+                          Dorood Oil Field
+
+                D-028 Drilling Program
+
+
+
+
+Note: Cement Program will be issued by Service Co. in due time.
+
+
+
+
+
+                                  93
+
+
+────────────────────────────────────────────
+[ صفحه 95 از 115 ]
+────────────────────────────────────────────
+                  Dorood Oil Field
+
+         D-028 Drilling Program
+
+      D-028
+
+
+
+
+  J. Requirements
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             November 2016
+
+
+                         94
+
+
+────────────────────────────────────────────
+[ صفحه 96 از 115 ]
+────────────────────────────────────────────
+                                 Dorood Oil Field
+
+                     D-028 Drilling Program
+
+
+ 1.1  36” Hole Section
+
+        Item                                                             Quanti
+Item            Supplier                       Description
+        No.                                                                            ty
+
+         1      I.O.O.C    26" Bit (1.1.1), 26” Bit breaker                       1 No.
+
+                                                                   As
+         2      I.O.O.C    26” Bit Nozzles
+                                                                       Needed
+
+         3      I.O.O.C    26” Ring Gauge                                  1 No.
+
+         4      I.O.O.C    36" Hole Opener                                  1 No.
+
+         3     Contractor   Bit Sub 11” OD W/7-5/8” Reg Box By Box            1 No.
+
+         4     Contractor   Float Valve 5F-6R                                1 No.
+
+                                                                   As
+         5     Contractor   9-¾” Drill Collar W/ 7-5/8” Reg Conn.
+                                                                       Needed
+
+         6     Contractor  X/O 7-5/8” Reg Pin ~ 6-5/8” Reg Box                 1 No.  Equipment
+
+         7     Contractor  X/O 6-5/8” Reg Pin ~ 4-½” IF Box                   1 No.
+
+                                                                   As
+         8     Contractor   5” HWDP
+                                                                       Needed
+                                                                   As
+         9     Contractor   5” Drill Pipe
+                                                                             needed
+
+         10     Contractor   4-½” IF Safty Valve                               1 No
+
+         11     Contractor   9 ¾” or 8 ½” jar                                   7 No
+
+
+
+
+
+                                         95
+
+
+────────────────────────────────────────────
+[ صفحه 97 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+   1.2  30” Conductor Pipe &Accessories
+
+         12       I.O.O.C    30” Casing Shoe (Welded Type) (Stab-In Type)            1 No.
+
+         13       I.O.O.C     Stinger F/Above Shoe                                 1 No.
+
+                                                                            ±12
+         14       I.O.O.C    30” Casing (Conductor Pipe), RL-4, X-52
+                                                                                                                         Jts.
+
+         15       I.O.O.C     Centralizer 5”×28” for Stinger cement job                 2 No.
+
+         16       I.O.O.C    5” × 30” C-Plate                                     1 No.
+
+         17      Contractor   30” Slips Spider                                     1 No.
+
+         18      Contractor   30” Casing Elevator                                  1 No.
+
+         19       I.O.O.C    30” Bow Type Centralizer                           ±5 No.
+
+         20       I.O.O.C    30” Stop Collar W/Spiral Nails                         10 No.Equipment
+         21      Contractor   30” Cement Head                                    1 No.
+
+         22      Contractor   30” Casing Swage + 2” Lo-Torque Valve                 1 No.
+
+         23      Contractor   28” Drift for 30” Casing                               1 No.
+
+         24       I.O.O.C    Thread Sealing Compound                            2 Can.
+
+         25       I.O.O.C    Thread Locking Compound                            3 Pail.
+
+         26      Contractor   Casing Tongs Dressed W/30” Jaws                      1 Set
+
+         27      Contactor   30” False rotary table                                 1 No.
+
+
+
+
+
+                                           96
+
+
+────────────────────────────────────────────
+[ صفحه 98 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.3  26” Hole Section
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         1      I.O.O.C    26” BIT (1.1.5) W/7-5/8” Reg                         2
+
+         2      Contractor    Bit Sub 11” OD W/7-5/8” Reg Box~7-5/8” Reg Box     1No
+
+         3      Contractor   Float Valve 5F-6R                                1 No.
+
+         4      Contractor   9-¾” Drill Collar                            As needed
+
+         5      Contractor   8-½” Drill Collar                                  9 Jts
+
+         6      Contractor   X/O 7-5/8” Reg Pin~ 6-5/8” Reg Box                 1 No
+
+         7      Contractor   X/O 6-5/8” Reg Pin~ 4-1/2” IF Box                   1 No
+
+         8      Contractor   5” HWDP                                 As needed
+
+         9      Contractor   26” Reamer                                     1 No.
+
+         10     Contractor   8-1/2” Drilling Jar                                1 No.
+
+         11     Contractor   5” Drill Pipe                               As needed
+
+         12     Contractor   26” St. Stablizer                                  1 No.
+
+         13     Contractor  Comp Set Of Fishing Tools                         1 Set  Equipment
+         14      I.O.O.C    20” Float Shoe (Stab-In Type)                       2 No.
+
+         15      I.O.O.C     Stinger (Stab-In Type) F/Above Shoe                 1 No.
+
+                           20” Casing 94lbs/ft , BTC, K-55 34 Jts & 20”
+         16      I.O.O.C                                                 ±60 Jts
+                            Casing 133# ,BTC,K-55 26 Jts
+
+         17      I.O.O.C    20” Bow Type Centralizers                        ±20 No
+
+         18      I.O.O.C    20” Rigid Type Centralizers                      ± 4 No
+
+         19      I.O.O.C    5” × 20” C-Plate                                  1 No.
+
+         20      I.O.O.C    20” Stop Collar W/Spiral Nails                   ±45No
+
+         21      I.O.O.C    5” × 20” Centralizer                               2 No.
+
+         22     Contractor   20” Slips Spider                                  1 No.
+
+         23     Contractor   20” Casing Elevator                               1 No.
+
+
+
+
+
+                                          97
+
+
+────────────────────────────────────────────
+[ صفحه 99 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.4  20” Casing & Accessories
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         25     Contractor   20” Cement Head                                 1 No.
+
+         26     Contractor   4-½” IF Pin Circulating Head                       1 No.
+
+         27     Contractor   20” Casing Drift                                  1 No.
+
+         28     Contractor   20” Casing Swage × 4-½” IF Box × 2”               1 No.
+
+         29     Contractor   2” Lo-Torque Valve                               1 No.
+
+         30     Contractor   Casing Tongs Dressed W/20” Jaws                   1 Set
+
+         31     Contractor   20” Single Joint Elevator                           1 No.
+
+         32     Contractor   20” Back Up Slips                                1 No.
+
+         33      I.O.O.C    Thread Sealing Compound                         1 Drs.
+
+         34      I.O.O.C    Thread Locking Compound                        2 Tins.
+
+         35      I.O.O.C    20-3/4-3000” Casing Head Housing W/Access          1 Set
+
+         36      I.O.O.C    RX-74                                          2 No.
+
+         37      I.O.O.C    2-1/16”-2000 Gate Valve                           2 No.  Equipment         38      I.O.O.C     2-1/16” -2000 Companion Flange                    2 No.
+
+         39      I.O.O.C    2” Bull Plug                                     2 No.
+
+         40      I.O.O.C    20-3/4”-3000 Tie down Flange                      1 No.
+
+         41      I.O.O.C    RX-23                                          4 No.
+
+         42      I.O.O.C     20-3/4” Wear Bushing                             1 Set
+
+         43      I.O.O.C     20-3/4” Combination Setting& Running Tools          1No.
+
+         44      I.O.O.C    Packing “Ring for above                           2 Set
+
+         45      I.O.O.C     20-3/4” - 3000 Spacer Spool                          1
+
+         46     Contractor   20-3/4”- 3000 Diverter & BOP                      1 SET
+
+         47      I.O.O.C    Ring Gasket RX-57                               4 No
+
+         48      I.O.O.C    VR-Plug                                        1 No.
+
+
+
+
+
+                                          98
+
+
+────────────────────────────────────────────
+[ صفحه 100 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.5 17-½” Hole Section
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         1      I.O.O.C    17-½” BIT (1.1.5 - 1.3.5 – 4.1.5), PDC              2 Of Each
+
+         2      I.O.O.C     Bit Nozzles                                As Needed
+
+         3      Contractor   17-½” Bit Breaker                                1 No.
+
+         4      Contractor   17-½” Bit Gauge                                 1 No.
+
+         5      Contractor    Bit Sub 11” OD W/7-5/8” Reg Conn.                 1 No.
+
+         6      Contractor   Float Valve 5F-6R                                2 No.
+
+         8      Contractor   17-½” String Stabilizer                            1 No.
+
+         9      Contractor   9-¾” Drill Collar W/7-5/8” Reg Conn.                6 Jts.
+
+         10     Contractor   X/O 7-5/8” Reg Pin ~ 6-5/8” Reg Box                1 No.  Equipment
+         11     Contractor   8-½” Drill Collar W/6-5/8” Reg Conn.                6 Jts.
+
+                          8-½” Drilling Jar (Hyd-Mechanical) W/6-5/8” Reg
+         12     Contractor                                                  1 Set
+                           Conn.
+
+         13     Contractor   X/O 6-5/8” Reg Pin ~ 4-½” IF Box                   1 No.
+
+         14     Contractor   5” HWDP W/4-½” IF Conn.                        9 Jts.
+
+         15     Contractor   5” Drill Pipe Grade “S”                       As Needed
+
+         16                Complete Set Of Fishing Tools F/This Section          1 Set
+
+
+
+
+
+                                          99
+
+
+────────────────────────────────────────────
+[ صفحه 101 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.6  13-3/8” Casing & Accossories
+
+        Item
+Item             Supplier                     Description                    Quantity
+        No.
+
+         1      I.O.O.C     13-5/8” 88.2# , R-95, Float Shoe                    2 No.
+
+         2      I.O.O.C     13-5/8” 88.2# , R-95, Float Collar                   2 No.
+
+         3      I.O.O.C     13-3/8” Casing 68#, N-80, BTC                        ±95Jts
+
+         4      I.O.O.C     13-3/8” Casing 72#, N-80 , BTC                       ±18Jts
+
+         5      I.O.O.C     13-5/8” Casing 88.2#, R-95, BTC                      ±74Jts
+
+         6      I.O.O.C     13-3/8” Centralizers Bow Type                    ±20 No
+
+         7      I.O.O.C     13-3/8” Rigid Centralizers                        ±20 No
+
+         8      I.O.O.C     13-3/8” Stop Collars w/ Spiral Nails                ±80 No
+
+         9      I.O.O.C     13-5/8” Centralizers Bow Type                    ±35 No
+
+         10      I.O.O.C     13-5/8” Stop Collars w/ Spiral Nails                ±70 No
+
+         11     Contractor    Circulating Head Conn. F/Pump. Fill up Tools.         1 No.
+
+                            13-3/8”& 13-5/8” Casing Drift F/Mentioned
+         12     Contractor                                             1+1+1 No.
+                             Csgs(68#, 72#, 88.2#)
+
+         13     Contractor   13-3/8”& 13-5/8” Safety Clamps Complete            1 Set
+
+         14     Contractor   13-3/8”& 13-5/8” Casing Swage                     1 No.  Equipment
+
+         15      I.O.O.C     13-3/8” & 13-5/8” XOS                           2 No.
+
+         16     Contractor   2” Lo-Torque Valve                              1 No.
+
+         17     Contractor   Casing Tongs Dressed                             1 Set
+
+         18     Contractor   13-3/8”& 13-5/8” Side Door Elevator                 1 Set
+
+         19     Contractor   13-3/8”& 13-5/8” Slips spider                       1 Set
+
+         20     Contractor   13-3/8”& 13-5/8” Manual Slips                   1+1 No.
+
+         21     Contractor   13-3/8”& 13-5/8” Single Joint Elevator             1+1 No.
+
+         22      I.O.O.C    Thread Sealing Compound                         2 Pails
+
+         23      I.O.O.C    Thread Locking Compound                        2 Cans.
+
+         24      I.O.O.C     13-5/8” Top & Bottom Plug                      1+1 No.
+
+         25      I.O.O.C    RX-74 Ring Gasket                               2 No.
+
+
+
+                                         100
+
+
+────────────────────────────────────────────
+[ صفحه 102 از 115 ]
+────────────────────────────────────────────
+                                 Dorood Oil Field
+
+                     D-028 Drilling Program
+
+
+
+        26      I.O.O.C    BX-160                                        2 No.
+
+        27      I.O.O.C     2-1/16” – 3000 Gate Valve                         4 No.
+
+        28      I.O.O.C     2-1/16” – 3000 Companion Flange                   2 No.
+
+        29      I.O.O.C    2” Bull Plug                                     2 No.
+
+        30      I.O.O.C    RX-24 Ring Gasket                               6 No.
+
+        31      I.O.O.C     Pressure Gauge 0 – 3000 PSI                       1 No.
+
+        32      I.O.O.C   ½” Needle Valve                                 2 No.
+
+        34      I.O.O.C     1-5/8” Bolt & Nut                                20 No.
+
+        35      I.O.O.C    Casing Head Spool 20-3/4” – 3000 ~ 13-5/8” -5000     1 Set
+
+        36      I.O.O.C    Csg Hanger Automatic 20-3/4” by 13-5/8”            1 No.Equipment
+        37      I.O.O.C    Csg Hanger Non Automatic 20-3/4” by 13-5/8”         1No.
+
+                                                                                     1 CompleteHead     38     Contractor   13-5/8” – 5000 BOP Stack                                                                                                   Set w/Access
+
+        39      I.O.O.C    1-½” VR-Plug                                   1 No.Well
+        40      I.O.O.C     13-5/8” Cup & Plug Tester                       1+1 No.
+
+        41      I.O.O.C     13-5/8” Wear Bushing                             1 No.
+
+        42      I.O.O.C    Packing Ring for above                            2 Set
+
+
+
+
+
+                                        101
+
+
+────────────────────────────────────────────
+[ صفحه 103 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.7 12-¼” Hole Section
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         1      I.O.O.C    12-¼” BIT (4.1.5 – 5.1.7) / 12-¼” PDC BIT         1+2+3 No.
+
+         2      I.O.O.C    BIT Nozzles                               As Needed
+
+         3      I.O.O.C    12-¼” BIT Breaker                               1 No.
+
+         4      I.O.O.C    12-¼” Ring Gauge                                1 No.
+
+         5      Contractor    Bit Sub 8-½” OD W/ 6-5/8” Reg Box By Box          1 No.
+
+         6      Contractor   Float Valve 5F-6R                                2 No.
+
+         7      Contractor   12-¼” Stabilizer W/ 6-5/8” Reg Conn.                1 No.
+
+         8      Contractor   8-½” Drill Collar W/ 6-5/8” Reg Conn.               19 Jts.
+
+         9      Contractor   8-½” Drilling Jar (Hyd. Mechanical)                  1 No.
+
+         10     Contractor   8-½” Junk Sub W/ 6-5/8” Reg Conn.                 1 No.  Equipment
+         11     Contractor   X/O  6-5/8” Reg Pin ~ 4-½” IF Box                  1 No.
+
+         12     Contractor   5” HWDP                                 As needed
+
+         13     Contractor   5” Drill Pipe Grade “S” & “G”                  As needed
+
+         14     Contractor   Complete Set Of Fishing Tools                      1 Set
+
+         15     Contractor   4-½” IF Safety Valve                              1 No.
+
+         16     Contractor   9-5/8” Casing Swage ~ 4-½” IF Box By 2”             1 No.
+
+         17     Contractor    Fill up Tools                                     1 No.
+
+
+
+
+
+                                         102
+
+
+────────────────────────────────────────────
+[ صفحه 104 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.8  9-5/8” Casing & Accessories
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         18      I.O.O.C     9-5/8” Differential Fill up Shoe L-80 53.5 #            2 No.
+
+                               9-5/8” Differential Fill up Collar L-80 53.5 #,
+         19      I.O.O.C                                                   1 No.
+                        N.vam
+
+         20      I.O.O.C     9-5/8” Top & Bottom Plug                       1+1 No.
+
+         21      I.O.O.C    9-5/8”Casing43.5 # L-80,HSM1(N.Vam)             ±189 Jts
+
+         22      I.O.O.C    9-5/8”Casing47# L-80,HSM1(N.Vam)               ±49 Jts
+
+         23      I.O.O.C    9-5/8”Casing53.5 # L-80,HSM1(N.Vam)             ±140 Jts
+
+         24      I.O.O.C     9-5/8” Centralizers Bow Type W/ Nails             ±197 Nos
+
+         25      I.O.O.C     9-5/8” Rigid Centralizers W/ Nails                 ±62Nos
+
+         26      I.O.O.C     9-5/8” Stop Collars W/ Spiral Nails                ±570 Nos
+
+         27     Contractor   9-5/8” Casing Drift F/Mentioned Casing 43.5#          1 No.  Equipment
+         28     Contractor   9-5/8” Safety Clamps                              1 Set
+
+         29      I.O.O.C     9-5/8” × 13-5/8” Casing Slip & Seal                  1 No.
+
+         30      I.O.O.C    Tubing Head Spool 13-5/8”-5000 ~11”-5000           1 No.
+
+         31      I.O.O.C    11” Plug Tester F/Mentioned Spool                  1 No.
+
+         32      I.O.O.C    11” Running tools/ Wear Bushing                  1+1 No.
+
+         33      I.O.O.C    11”-5000~13-5/8” -5000 Tie Down Flange             1 No.
+
+         34      I.O.O.C    BX-160 / RX-54 / RX-24 Ring Gaskets             1+2+2 No.
+
+         35      I.O.O.C     1-7/8” Bolt & Nut                                15 No.
+
+         36      I.O.O.C    Needle Valve ½”                                 2 No.
+
+         37      I.O.O.C     Pressure Gauge 0 - 5000 PSI                        1 No.
+
+         38      I.O.O.C    VR-Plug F/T.H.S                                 1 No.  Equipment         39     Contractor   Casing Power Pack                                1 Set
+
+
+
+
+
+                                         103
+
+
+────────────────────────────────────────────
+[ صفحه 105 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.9  8-1/2” Hole Section
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         1      I.O.O.C     8-1/2” BIT (2.1.4 - 5.1.7) + 8-1/2” PDC Bit         1+1+2 No.
+
+                                                                   As
+         2      I.O.O.C     Bit Nozzles
+                                                                               Request
+
+         3      I.O.O.C     8-1/2 BIT Breaker                                1 No.
+
+         4      I.O.O.C     8-1/2 Ring gauge                                 1 No.
+
+         5      Contractor   BIT Sub 6-½” OD W/4-½” Reg Box By Box           1 No.
+
+         6      I.O.O.C     Float Valve 4R                                   1 No.
+
+         7      Contractor   6-½” OD Drill Collar W/4-½” Reg Conn.          As Needed       Equipment                         8-1/2” OD Full Gauge String Stabilizer W/4-½” Reg
+         8      Contractor                                                  1 No.
+                           Conn.
+
+         9      Contractor   6-½” Drilling Jar W/4-½” Reg Conn.                 1 No.
+
+         10     Contractor   X/O - 4-½” Reg Pin~ 4-½” IF Box                   1 No.
+
+         11     Contractor   5” Drill Pipe Grade “E” & “S” & “G”             As Needed
+
+         12      I.O.O.C     9-5/8” & 7” Casing Scraper                         1 No.
+
+         13     Contractor   Safety clamp                                     1 No.
+
+         14     Contractor   6-½” OD Junk Sub                               1 No.
+
+
+
+
+
+                                         104
+
+
+────────────────────────────────────────────
+[ صفحه 106 از 115 ]
+────────────────────────────────────────────
+                                  Dorood Oil Field
+
+                      D-028 Drilling Program
+
+
+  1.10 7” Liner Accessories
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         1      I.O.O.C     7”-Liner N.Vam, N-80, 29#                      ± 78Jts
+
+                  I.O.O.C/
+         3                 7”-29# N. VAM N-80 Float Shoe                    1 No.
+                 Service Co.
+                  I.O.O.C/
+         4                   7”- 29# N. VAM N-80 Float Collar                   1 No.
+                 Service Co.
+                  I.O.O.C/
+         5                   7”- 29# N. VAM N-80 Float LDC                    1 No.
+                 Service Co.
+
+         6      Contractor   6-1/8” Drift F/Above Liner                         1 No.
+
+                  I.O.O.C/
+         7                   Ball Catcher Sub                                 1 No.
+                 Service Co.
+                  I.O.O.C/    7”- 29# N. VAM N-80 Liner Hanger W/Balls (Hyd-
+         8                                                             1+2
+                 Service Co.   Set)
+
+         9      I.O.O.C     7”-Tie Back Sleeve w/LG-Collar                    1+1
+
+         10      I.O.O.C    Dressing Mill F/Tie Back                           1 No.
+
+         11      I.O.O.C    X-Over 7” N. Vam Pin~4-1/2” If Box                 1 No.
+
+         12     Contractor   4-1/2” IF Safety Valve                             1 No.
+
+                  I.O.O.C/
+         13                 7” Cement Manifold                               1 Set
+                 Service Co.  Equipment                                                                           1
+                  I.O.O.C/
+         14                 7” Running/Setting Tool W/Shear Sub               Complete
+                 Service Co.
+                                                                                       Set
+                  I.O.O.C/
+         15                 7” Wiper Plug                                    1 No.
+                 Service Co.
+
+         16     Contractor   3-1/2” - 5” Pump Down Plug                        1 No.
+
+                  I.O.O.C/
+         17                   Centralizers 7” Bow Type W/Nails                   9 No.
+                 Service Co.
+
+         18      I.O.O.C    Rigid Centralizers w/Nails                         20 No.
+
+         19      I.O.O.C     7’ Spirolizer                                    70 No.
+
+         20      I.O.O.C    7” Stop Collar W/Spiral Nails                       18 No.
+
+         21    Service Co.   7” Side Door Elevator                             1 No.
+
+         22    Service Co.   7” Rotary Slips                                   1 No.
+
+         23    Service Co.   7” Single Joint Elevator                            1 No.
+
+
+
+                                         105
+
+
+────────────────────────────────────────────
+[ صفحه 107 از 115 ]
+────────────────────────────────────────────
+                         Dorood Oil Field
+
+               D-028 Drilling Program
+
+
+
+24    Service Co.   7” Safety Clamp                                  1 Set
+
+25    Service Co.  Hyd. Tongs & Dressed W/7” JAW & ACC.            1 Set
+
+26    Service Co.   7” Back Up Tongs                                1 Set
+
+27     Contractor   7” Pipe Rams                                    1 Set
+
+28      I.O.O.C    Thread Sealing Compound                          1 DR
+
+29      I.O.O.C    Thread Locking Compound                        1 CAN
+
+30      I.O.O.C    7” CSG Scraper                                  1 No.
+
+31      I.O.O.C     4-1/16” - 5000 Gate Valve                          1 No.
+
+32      I.O.O.C     4-1/16” - 5000 Companion Flange                   1 No.
+
+33      I.O.O.C     4-1/16” - 5000 Gate Valve                          2 No.
+
+34      I.O.O.C    2” Bull Plug                                     2 No.
+
+
+
+
+
+                                106
+
+
+────────────────────────────────────────────
+[ صفحه 108 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+2 Drilling Serives
+2.1  36” Hole Section
+
+        Item
+ Item           Supplier                   Description                  Quantity
+         No.
+           1     Service Co.    Drilling fluid Services & Material                     1
+           2     Service Co.   30" CSG Running Services & Crew                   1
+           3     Service Co.   Cement Pump Truck & Crew for 30” CSG              1           Services
+           4     Service Co.   Fishing Services                             As Req.
+     Well     5     Service Co.   Gyro Service                                      1
+           6     Service Co.  H2S Service                                      1
+
+
+2.2  26” Hole Section
+
+        Item
+ Item           Supplier                   Description                  Quantity
+         No.
+           1     Service Co.    Drilling fluid Services & Material                     1
+           2     Service Co.   20" CSG Running Services & Crew                   1
+           3     Service Co.   Cement Pump Truck & Crew for 20” CSG              1           Services     4     Service Co.   Fishing Services                             As Req.
+     Well     5     Service Co.   Wellhead service.                                  1
+           6     Service Co.   Gyro Service                                      1
+
+           7     Service Co.  H2S Service                                      1
+
+
+2.3  17-1/2” Hole Section
+
+        Item
+ Item           Supplier                   Description                  Quantity
+         No.
+                                 17-1/2" hole Directional drilling equipment
+           1     Service Co.                                                   1
+                                  Services w/ MWD/GR/ROP
+           2     Service Co.    Drilling fluid Services & Material                     1
+
+           3     Service Co.    Wilreline logging DSI/ UBI/ Density                  1
+           4     Service Co.   13-3/8" CSG Running Services & Crew                1
+           5     Service Co.   Cement Pump Truck & Crew for 13-3/8” CSG           1           Services
+     Well     6     Service Co.   13-3/8" RTTS for emergency                    As Req.           7     Service Co.   Fishing Services                             As Req.
+
+           8     Service Co.   Wellhead service.                                  1
+
+           9     Service Co.   Gyro Service                                      1
+
+          10     Service Co.  H2S Service                                      1
+
+
+
+                                       107
+
+
+────────────────────────────────────────────
+[ صفحه 109 از 115 ]
+────────────────────────────────────────────
+                                Dorood Oil Field
+
+                    D-028 Drilling Program
+
+
+2.4  12-1/4” Hole Section
+
+        Item
+ Item           Supplier                   Description                  Quantity
+         No.
+                                 12-1/4" hole Directional drilling equipment
+           1     Service Co.                                                   1
+                                  Services w/ MWD/GR/ROP
+           2     Service Co.    Drilling fluid Services & Material                     1
+
+           3     Service Co.   TLC logging DSI/ UBI/ Density                      1
+           4     Service Co.   9-5/8" CSG Running Services & Crew                 1           Services           5     Service Co.   Cement Pump Truck & Crew for 9-5/8” CSG            1
+
+           6     Service Co.   13-3/8" RTTS for emergency                    As Req.     Well
+           7     Service Co.   Fishing Services                             As Req.
+
+           8     Service Co.   Wellhead service.                                  1
+
+           9     Service Co.  H2S Service                                      1
+
+
+
+2.5  8-1/2” Hole Section
+
+        Item
+ Item           Supplier                   Description                  Quantity
+         No.
+                                  8-1/2" hole Directional drilling equipment Services
+           1     Service Co.                                                   1
+                             w/ MWD/GR/ROP
+           2     Service Co.    Drilling fluid Services & Material                     1
+
+           3     Service Co.    Fullset TLC & SBT logging equipments.               1
+           4     Service Co.   7" Liner Running Services & Crew                    1
+           5     Service Co.   Cement Pump Truck & Crew for 7" S. Liner            1
+
+           6     Service Co.   9-5/8" RTTS for emergency                           1ea
+
+           7     Service Co.   Fishing Services                             As Req.
+
+           8     Service Co.   7” Liner Hanger service                             1           Services     9     Service Co.   Wellhead service.                                  1
+     Well     10     Service Co.   Tubular running service for completion                 1
+          11     Service Co.   Coil Tubing service                                1
+                                  Stimulation service include acidizing and Nitrogen
+          12     Service Co.                                                   1
+                                                 lift
+          13     Service Co.  TCP perforation service                             1
+
+          14     Service Co.   Burner boom service                               1
+
+          15     Service Co.   Clean up package and surface well test equipment        1
+
+          16     Service Co.   Completion Crew                                  1
+
+          17     Service Co.  H2S Service                                      1
+
+
+
+
+                                       108
+
+
+────────────────────────────────────────────
+[ صفحه 110 از 115 ]
+────────────────────────────────────────────
+                       Dorood Oil Field
+
+              D-028 Drilling Program
+
+        D-028
+
+
+
+
+K. Completion Program
+
+
+
+
+
+     Pars Petro Zagros Engineering and Services Co.
+                    Drilling Department
+                 November 2016
+
+
+                              109
+
+
+────────────────────────────────────────────
+[ صفحه 111 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Note:
+
+Final Completion string program will be issued by IOOC completion Dep. in due time.
+
+
+
+
+
+                                          110
+
+
+────────────────────────────────────────────
+[ صفحه 112 از 115 ]
+────────────────────────────────────────────
+                      Dorood Oil Field
+
+             D-028 Drilling Program
+
+        D-028
+
+
+
+
+L. Wellhead Schematic
+
+
+
+
+
+    Pars Petro Zagros Engineering and Services Co.
+                  Drilling Department
+                November 2016
+
+
+                             111
+
+
+────────────────────────────────────────────
+[ صفحه 113 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Wellhead Sketch:
+
+
+
+
+
+                            X-Mass Tree 4-1/16” 5K
+
+                         THS: 13-5/8” 5K x 11” 5K
+
+                       CHS: 20-3/4” 3K x 13-5/8” 5K
+
+                         CHH: 20-3/4” 3K
+
+
+
+
+
+                                          112
+
+
+────────────────────────────────────────────
+[ صفحه 114 از 115 ]
+────────────────────────────────────────────
+                  Dorood Oil Field
+
+         D-028 Drilling Program
+
+      D-028
+
+
+
+
+  M. Contact List
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             November 2016
+
+
+
+                        113
+
+
+────────────────────────────────────────────
+[ صفحه 115 از 115 ]
+────────────────────────────────────────────
+                                   Dorood Oil Field
+
+                       D-028 Drilling Program
+
+
+Contact List
+
+
+                                         I.O.O.C
+
+
+        Contact                 Position             Phone        Ext.      Mobile        Fax
+
+
+
+     P.Pornoori        Head of Drilling Department     22664334            09122067160    22664353
+
+
+                   Head of Drilling Engineering
+     N.Khatibi                                     22664335            09300930817
+                             Department
+
+
+    S.Mohammadi            Project Manager          22664333            09128234933
+
+
+    G.Zamani /
+                        Khark Area Manager       07733822475           09300930274
+    Valavi
+
+
+    A.Molaee         Deputy of Drilling Operation                          09124486627
+
+
+                     Head of Mud and Cement
+   M. Tahmasebi                                  23383284            09131081965
+                               Engineering
+
+                                             P.P.Z.
+
+
+    M.Amini                  Project Manager          22039785-8     110    09127103782    22041735
+
+
+                    Head of Drilling Operration
+    A.Ghasempour                                 22039785-8     107    09133055804    22041735
+                             Department
+
+                   Head of Drilling Engineering
+    S.Khajevand                                   22039785-8     114    09121838101    22041735
+                             Department
+
+
+     E. Bongah           Senior Drilling Engineer      22039785-8     119    09122230369    22041735
+
+
+
+     S. Khani                  Drilling Engineer         22039785-8     108    09126137478    22041735
+
+
+                     Head of Cement & Mud
+     S.Bahraini                                     22039785-8     118    09166156215    22041735
+                               Engineering
+
+
+
+
+
+                                          114
+
+

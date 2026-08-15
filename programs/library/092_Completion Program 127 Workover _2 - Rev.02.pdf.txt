@@ -1,0 +1,1969 @@
+# SOURCE: Completion Program 127 Workover #2 - Rev.02.pdf
+
+📄 فایل 92 از 214  |  Completion Program 127 Workover #2 - Rev.02.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 1 of 45
+CCA/C/1401/27              Completion Program
+
+       COMPLETION PROGRAM
+
+       AZADEGAN OIL FIELD
+
+         COMPLETION PROGRAM
+
+       AZNS – 127 WORKOVER #2 (PAD
+
+                    #54), TYPE: IIF
+
+                         Drilling Department
+
+                      DECEMBER 2025
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:          AZNS – 127 Workover #2
+                                                                                             Page 2 of 45
+  CCA/C/1401/27              Completion Program
+
+                      MSA/OEOC
+
+                              Position               Name         Date & Signature
+
+Prepared by          Drilling Engineering Department                 MH. Hajitaleb
+
+                      Project Head of Drilling Engineering               Behnam Parvaresh
+
+Approved by         Project Head of Drilling Operation                       Piran Farzaneh
+
+                      Project Manager                                      Rashid Ansari
+
+                     PPL/PEDEC
+
+                              Position               Name         Date & Signature
+
+                PPL/PEDEC Subsurface Engineering Department
+     Check
+
+    &
+
+  Approved by
+                PPL/PEDEC Subsurface Project Manager
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 3 of 45
+ CCA/C/1401/27              Completion Program
+
+Table of Contents
+
+1.      Well Information Summary ................................................................................................................................... 4
+
+   1.1  Casing design ............................................................................................................................................................ 5
+
+  1.2   WELL SCHEMATIC ............................................................................................................................................. 6
+
+   1.3   Well Completion Strategy .......................................................................................................................................... 7
+      1.3.1   Well Completion Procedure ............................................................................................................................. 7
+      1.3.2   Well Completion Schematic & Summary Completion Tally ..................................................................... 8
+
+   1.4  Wellhead .................................................................................................................................................................... 9
+
+2.      Tubular Specifications .......................................................................................................................................... 10
+
+3.     7″ Scraper Run ...................................................................................................................................................... 11
+
+   3.1   Risk Evaluation........................................................................................................................................................ 11
+
+   3.2  HSE Focus Points .................................................................................................................................................... 11
+
+   3.3   Well Status ............................................................................................................................................................... 12
+
+   3.4   Operation Sequence ................................................................................................................................................ 12
+
+4.      Completion Installation......................................................................................................................................... 13
+
+   4.1   Objectives ................................................................................................................................................................ 13
+
+   4.2   Risk and Quality ...................................................................................................................................................... 13
+
+   4.3  Main Concerns ........................................................................................................................................................ 13
+
+   4.4  HSE ......................................................................................................................................................................... 14
+
+   4.5  Thread cleaning, compound application and make up ............................................................................................ 15
+
+   4.6  Completion Installation Operational Sequence ....................................................................................................... 16
+
+5.      Clean up procedure ............................................................................................................................................... 32
+
+6.      Displacement Design ............................................................................................................................................. 33
+
+7.      Completion Fluid ................................................................................................................................................... 35
+
+   7.1   interval Description ................................................................................................................................................. 35
+      7.1.1    Solid – Free CaBr2 System ............................................................................................................................ 35
+
+8.     X-Mass Tree body pressure test before installation ........................................................................................... 39
+
+9.      Revision Corrections ............................................................................................................................................. 41
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+   Contract No:          AZNS – 127 Workover #2
+                                                                                              Page 4 of 45
+  CCA/C/1401/27              Completion Program
+
+ 1.  Well Information Summary
+
+                       Well information Summary
+
+Country / Area                   Iran / Khuzestan
+
+Client:                   PPL / PEDEC
+
+Field:                        South Azadegan Oilfield
+
+Well Name:             AZNS – 127 Workover #2
+
+Location:               PAD – 54 (Area: II)
+
+Well Type:                       IIF Vertical Well
+
+Well Objective:            De – complete & Re – complete the well
+
+Rotary Table Elevation:         12.95m
+
+Ground Level Elevation:        3.95m
+
+Rig Name:              OEOC 201
+
+Contractor:             MSA / OEOC
+
+                           Other Information
+
+Total Depth:            4139.5 mMD
+
+Reservoir Top:          Fahliyan
+
+                         Perforated in 4 – 1/2" liner
+Perforation
+Interval:
+                      4124.7 – 4117.7 | 4092 – 4088.2 | 4080.2 – 4071.2 | 4064.4 – 4060.7 |
+                       4056.9 – 4048 | 4026.8 – 4023.4 | 4006 – 3983.3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 5 of 45
+ CCA/C/1401/27              Completion Program
+
+1.1 Casing design
+
+Casing design of this is planned and executed as below table
+
+                  Depth                                                                                       Tensile
+                                                          Collapse
+  Casing Size                 PPF      Grade                    Burst (Psi)    strength
+                                                                     (Psi)
+                                                                                       (Klb)
+             From    To
+
+      20"       Surface    146      94   K – 55 BTC      520          2110        1480
+
+   13 – 3/8"     Surface    1441      68   N – 80 BTC      2260         5020        1556
+
+                                   T – 95
+    9 – 5/8"     Surface    1163      53.5                    7340         9680        1477
+                                 TSH Blue
+
+                                   T – 95
+    9 – 5/8"      1163     3909      53.5                    7340         9680        1477
+                                  TPCQ
+
+                                           110 SS
+    7" Liner     3147    3890.5     29                    8530         11220        929
+                                  TPCQ
+
+    4 – 1/2                                  110 S
+                 3780.4    4139.5     13.5                   10680        12410        422
+      Liner                            TPG2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 6 of 45
+ CCA/C/1401/27              Completion Program
+
+1.2 WELL SCHEMATIC
+
+                                           Formation Tops
+
+                Formation                                                    Well Sketch & Completion
+                                         Depth (mMD)
+
+                        0                     Aghajari
+
+                                                                                                                                                                                             20"
+                                                                                                                                                                                             CSG
+                                                               @
+                                                                                                                                                                                             146
+                        500 m                                                                                                                                   mMD
+
+                    1000 m                                                                                              13
+                                                  Gachsaran          1105 m                                                                                                           3/8"
+                                                                                                                                                                                            mMD CSG
+                                                               @
+                                                                                                                                                                                                                                                              1441
+
+                                                   Asmari             1448.84 m
+                       1500 m
+
+                                               Pabdeh            1740.68 m
+                                                                                                                                                                    mMD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Completion
+                                                                                                                                                                                                                                                                                 @3304                    2000 m                                                                                                                                                                                                                               4-1/2"*
+                                                                                                                                                                                                                                                                                                                                        String                                                                                                                                                                                                                                                                                                                                   3-1/2"
+                                                  U.Gurpi            2182.49 m
+
+                                                       Tarbur            2310.38 m
+                                                    L.Gurpi           2390.33 m
+                          2500 m          Ilam              2516.7 m
+                                                             Laffan             2618.34 m
+                                                      Sarvak             2624.7 m                                                                                                                                Packer
+                                                                                                                                                                                                                                                                                                      @3290
+                                                                                                                                                                                mMD
+                     3000 m                                                                                                   K.O.P @3338.6 mMD
+
+                                                                                                          New 7" LNR f/ 3147 to
+                                                                                                                                                             3890.5 mMD
+                                              Kazhdumi          3273.82 m                                        mMD
+                                                                                                                                                                                                           3909                                                           Perforation Area (mMD):
+                                                   Dariyan            3479.14 m             @                                                           4026.84006 - -3983.34023.4
+                         3500 m                                                                                             CSG   T.O.C @ 3337 mMD                                      4056.9 - 4048
+                                                                                                                                                                                        4064.4                                                                                                                                                                                                                                                                      -                                                                                                                                                                                                4060.7
+                                                                                                                                                                                                           5/8"                                                                                                                                                                                        4080.2                                                                                                                                                                                                                                                                     -                                                                                                                                                                                                4071.2
+                                                   9                                              Gadvan            3667 m                                                                                                                                                                         4092 -                                                                                                                                                                                               4088.2
+                                                                                                                                                                                        4124.7 - 4117.7
+                                                                                                                                                mMD
+                                                                                                                                                    mMD                                                      Fahliyan           3938.87 m                                          4226
+                                                                                                to                     4000 m                                                                                                                                                                @3777                                                      3780.41New 4-1/2"to 4139.5LNRmMDf/                                                                                                                                                                                                3826
+                                                                                                f/
+                                                                                                                                                LNR Tie-Back
+                                                                                                7" 7"                                  T.O.C @ 4134 mMD
+                                                                                                                                                Old        T.O.CT.O.C @@ 41734173 mMDmMD
+
+                         4500 m
+
+                    Total Depth @ 4139.5 mMD
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 7 of 45
+ CCA/C/1401/27              Completion Program
+
+1.3 Well Completion Strategy
+
+      1.3.1 Well Completion Procedure
+
+After scraping the wellbore, the well column is to be replaced by CaBr2 Completion Fluid of 104 –
+106pcf. This is followed by running a 4 ½ * 3 ½ “completion string.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 8 of 45
+ CCA/C/1401/27              Completion Program
+
+     1.3.2 Well Completion Schematic & Summary Completion Tally
+
+                            AZNS-127 Workover #2 Completion Sketch
+
+Contractor                                                                      Liner & Tubing Data                                 Client
+Field                AZADEGAN            Description                  7" Liner    4 1/2" Liner    3 1/2"      4 1/2"   7" ST #01 Liner Lap      3147
+                                                                                                        Tubing      Tubing
+Well Number:              AZNS-127             OD[in]                            7.00          4.50          3.50         4.50      7'' ST #01 Liner shoe     3890.5
+
+Rig :                   OEOC-201            Nominal weight [lb/ft]              29.00         13.50        10.20       18.90    4 1/2" Liner lap          3780.4
+
+RTE-GLE                    12.95                 Grade                         110 SS       110SS        L-80        L-80    4 1/2" Liner Shoe         4139.5
+
+RTE-THF                    3.95                 Thread                  TPCQ      TP-G2     HSM3    HSM3   Total Depth:             4139.5
+Rig Spudded Date :           1404. 10. 08             Inside diameter [in]               6.184         3.92          2.92        3.640   X-mass Tree:           MSP-TTYPE
+End of Operation         TBA               API Drift Diameter                6.059         3.80          2.80        3.515    Size & Rating:          4 1/16"-10K
+
+     Schematic                                                 Description                           Max OD    Min ID   Length(m)  BTM(m)  TOP(m)
+
+                       1    Elevation ( floor - TBG Head Flange)                                                                       11.788     11.788     0.000
+                       2     TBG HANGER 11" * 4 1/2'' PSL:ACME3GBoxPR:up2, 4"* 4Type1/2'' ''H''TPCQ-EXTwo WayBox Down , M/C: FF-0.5 T/C: U    5.118     3.64        0.52      12.308     11.788
+                       3     4-1/2" FLUTED SWAGE ADAPTER D/P,SUPER18.9#13CR-110KSITPCQ-EX PIN ON TOP * HSM3 PIN ON DOWN,      6.1       3.64       0.964      13.272     12.308
+                       4                    5 JOINTS TUBING 4 1/2",HSM3 ,18.9#, L-80, Type-1                 5.118     3.64        47.5      60.772     13.272
+                       5                    PUP JOINT 4 1/2",HSM3 ,18.9#, L-80, Type-1                   5.118     3.64       1.624      62.396     60.772
+
+                       6                  4-1/2" FLOW COUPLING,18.9#,SUPER 13CR-110KSI,HSM3 , 6 FT               5.5       3.64       1.726      64.122     62.396
+                       7    TRSSV-10 Tubing Retrievable13CR-110KSI,Saftey10KValve,WP With4 1/2",AF Profile,18.9# W/Flapper3.437"Type,Seal bore,HSM3 , SUPER     7.5      3.437      1.783      65.905     64.122
+                       8                  4-1/2" FLOW COUPLING, 18.9#,SUPER 13CR-110KSI,HSM3 , 4' FT               5.5       3.64       1.117      67.022     65.905
+                       9                    PUP JOINT 4 1/2",HSM3 ,18.9#, L-80, Type-1                   5.118     3.64       1.624      68.646     67.022
+                      10                        315 JOINTs TUBING 4-1/2"HSM3 18.9#, L-80                   5.118     3.64      2992.5    3061.146    68.646
+                      11                   X-over 4-1/2"HSM3, 18.9# BOX * 3-1/2"HSM3 , 10.2# PIN,                 5.5      2.922      1.119     3062.265  3061.146
+                      12                    17 JOINTs TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                  4.25     2.922      161.5     3223.765  3062.265
+                      13                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922       1.56     3225.325  3223.765
+                      14    3 1/2" CIV TUBING110KSIRETRIEVABLEW/CHECKCHEMICALVALVE, DUALINJECTIONTYPE MANDRELHSM3& RUPTURE DISC10.2#,SUPER 13CR-     5       2.922       0.73     3226.055  3225.325
+                      15                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922       1.82     3227.875  3226.055
+                      16                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922        9.5      3237.375  3227.875
+                      17                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922       1.82     3239.195  3237.375
+
+                                            RETRIEVABLE                                                   CHEMICAL                                                                  INJECTION                                                            MANDRELHSM3                      18   3 1/2" CIV TUBING                                                                                                                                                                      , 10.2#,SUPER 13CR-     5       2.922       0.73     3239.925  3239.195                                                110KSI                                           W/CHECK                                                           VALVE,                                                       DUAL TYPE                                                    & RUPTURE DISC
+                      19                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922        1.8      3241.725  3239.925
+                      20                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922        9.5      3251.225  3241.725
+                      21                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922       1.82     3253.045  3251.225
+                      22     3-1/2" EXP. JOINT,HSM3System, SUPERAny13CR-110KSI,Position, Shear10'STKPin Set(Half20,000Closed)LBS,Splind Rotational Lock    5.135     2.922      5.755     3258.800  3253.045
+
+                      23                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.822     3260.622  3258.800
+                      24                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922        9.5      3270.122  3260.622
+                      25                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.625     3271.747  3270.122
+                      26       3-1/2" SLIDING SIDE DOOR,(PROFILE:SUPER2.750"13CR-110KSI,X, DOWNWARDHSM3 WithOPEN)Type X Selective Profile      4.551     2.75        1.19     3272.937  3271.747
+
+                      27                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922        1.7      3274.637  3272.937
+                      28                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922       9.27     3283.907  3274.637
+                      29                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.725     3285.632  3283.907
+                      30        3-1/2" ANCHOR SEAL ASSEMBLY,HSM3, 10.2#,SUPER 13CR-110KSI, 4" PACKING OD      4.000     2.922       0.23     3285.862  3285.632
+
+                      31      7" 26-29 PPF7.00"CASING26-29HYDRAULICPPF CASING,SETSUPERRERMANENT13CR-110KSI,PRODUCTIONID: 2.922",PACKEROD: 5.910"TO BE RUN IN     5.910     2.922       4.44     3290.302  3285.862
+
+                      33                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                   4.250     2.922      1.822     3292.124  3290.302
+                      34                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922        9.5      3301.624  3292.124
+                      35                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.825     3303.449  3301.624
+                                                                                                                        , 10.2#,                                                               SUPER                      36     3-1/2" BOTTOM NO-GO LANDING,HSM3                                                                                 13CR-110KSI W/ Seal Bore 2.562"      4.5      2.442       0.37     3303.819  3303.449                                                     TYPE XN (NO-GO                                                                                         ID:                                                                                              2.442'')
+                      38     RE-ENTERYY MULE SHOE, HSM3 BOX, 10.2#, SUPER 13CR-110KSI, ID: 2.922", OD: 4.250"      4.25     2.922       0.37     3304.189  3303.819
+                                END OF COMPLETION STRING                                                                         3304.189
+
+Tubing Retrievable Saftey Valve                                                                                                                    65.905     64.122
+
+Traveling Joint                                                                                                                              3258.800  3253.045
+
+CIV 1                                                                                                                                       3226.055  3225.325
+
+CIV 2                                                                                                                                       3239.925  3239.195
+
+SSD                                                                                                                                        3272.937  3271.747
+
+ 7'' HYDRAULIC SET PERMANENT PRODUCTION PACKER                                                                                  3290.302  3285.862
+
+NO-GO Landing Nipple                                                                                                                       3303.819  3303.449
+
+Entry Guide                                                                                                                                 3304.189  3303.819
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 9 of 45
+ CCA/C/1401/27              Completion Program
+
+1.4 Wellhead
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+      Contract No:          AZNS – 127 Workover #2
+                                                                                                Page 10 of 45
+     CCA/C/1401/27              Completion Program
+
+  2.  Tubular Specifications
+
+                                  Description                                Make Up Torque (Ft-lb)
+                                                                         ID(in)  Drift Size                          Ultimate      Collpase       Burst
+      PPF  Grade  Conn.                                                             (in)    Min.    Opti.    Max.
+                              Strenths (klbs) pressure (psi) pressure (psi)
+
+             L80-
+ 3 ½”   10.2      HSM3     233         12120       11560    2.922  2.797   3200    3550    3900            Type 1
+
+             L80-
+4 1/2”  18.9      HSM3     440         13820       13380    3.640  3.515   7920    8800    9680            Type 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 11 of 45
+ CCA/C/1401/27              Completion Program
+
+3.  7″ Scraper Run
+
+3.1 Risk Evaluation
+
+     Junk falls in hole
+     Debris on top of Liner hanger
+    BHA stuck in the hole in perforation interval
+     Fish scraper parts in well.
+
+3.2 HSE Focus Points
+
+     Well has to be stable before running the BHA.
+     Monitor well for loss/gain over the trip tank.
+     Good communication among all parties responsible for well control.
+     Pre-job meeting will focus on well control, contingency procedures to be understood by all
+
+       involved parties.
+     Volume and well control shall be focused upon throughout running/pulling. Fill out kick sheet
+
+        prior to run in hole.
+     On a positive indication of a kick, unexpected pit gains or flow return rate increase, well shall be
+
+       shut in without performing flow check
+    A kick stand shall be readily available at all times
+     Kick assembly with proper cross over to 3 1/2" and 4 1/2" shall be prepared before starting
+
+       operation.
+
+Note: 7” scraper shall be suitable for 29ppf liner.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 12 of 45
+ CCA/C/1401/27              Completion Program
+
+                                                   It.     7" first Tie- Back Liner 110ksi 29# VAM
+
+                                            ID:6.184’’                                Spec.
+                                                Drift Diameter: 6.059”
+
+                                                   It.         4 1/2" Liner 110S, 13.5# TPG2
+
+                                         ID:3.920”                                Spec.
+                                                Drift Diameter: 3.795”
+
+3.3 Well Status
+
+         • 7” liner lap @3147m, 4 – ½” liner lap @3780.5m.
+         • Well stabilized by104 – 105pcf S.KCL.POLY.LCT mud.
+
+         • 11” wear bushing installed in wellhead
+
+3.4 Operation Sequence
+
+    1. P/U & M/U 5 7/8” Bit + 7” Scrapper + 4 ¾” DC or 3 ½” HWDP + enough length of 3 ½” & 5”
+
+     DP
+    2.  Scrape packer depth interval 3230m to 3320m Several times while pumping.
+
+    3.  Displace well with completion fluid as displacement procedure below perforation intervals.
+
+    4. POOH to surface while observe the well to make sure well is static. L/D all DPs & DCs.
+
+    5.  Retrieve wear bushing, M/U jet sub and flush BOP stack & wellhead with fresh water.
+
+    6.  Hold a pre – Job safety meeting on rig floor to instruct running speed and other critical
+
+        installation procedures.
+
+    7.  Lift all emergency well control subs on the rig floor and make up to cock valve.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 13 of 45
+ CCA/C/1401/27              Completion Program
+
+4.  Completion Installation
+
+4.1 Objectives
+
+The objective is to install the upper completion, landing nipple, 4 1/2” & 3 ½” production tubing, tubing
+
+hanger and X-mas tree.
+
+4.2 Risk and Quality
+
+Quantitative Risk Assessment, QRA, has been carried out on all main issues in the planning phase. The
+
+purpose was to guide the work according to identified risks for the operations, as well as to reduce the
+
+probability for incidents with potential HSE or commercial exposure. In the detailed planning phase,
+
+QRA has been an integral part of the work. All potential risks identified have been evaluated and
+
+mitigating actions have been implemented to reduce the risks to acceptable levels.
+
+4.3 Main Concerns
+
+     Junk falls in the well before or during running completions string.
+     Well/completion fluid not cleaned prior to running completion string.
+     Over-torque tubing connections.
+     Missing to tight all stud bolts on X-Tree bottom section
+     Tubing head wear/damage while RIH equipment, due to off centered derrick.
+     Taking kick/inflow during completions operation (when well is perforated)
+     Damaging Tubing Hanger while running through riser/BOP.
+     Unnecessary personnel on rig floor while running completion string.
+     Use excess amount of dope on each connection, Use of Improper Tong & elevators.
+     Damaging DHSV control line with manual.
+     Damage to injection lines while running in hole.
+     Loosing pressure on DHSV control line while RIH.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 14 of 45
+ CCA/C/1401/27              Completion Program
+
+     H2S detection during operation
+     Packer fails to pressure test
+     Poor make up graphs due to poor supervision
+      Slick line operation failure
+     Tie down screws function problem
+
+4.4 HSE
+
+HSE focus points are:
+
+     Well shall be in stable condition prior to running completions string.
+     Monitor well for loss/gain over the trip tank while RIH completions string.
+     Good communication among all parties responsible for well control is essential.
+     Perform kick drill with focus on the use of kickstand (Kick string assembly) prior to RIH
+
+       completions string.
+     Kick assembly with proper cross over to 3 1/2 and 4 1/2 shall be prepared before starting
+
+       operation
+     Pre-job meeting will focus on well control & contingency procedures to be understood by all
+
+       involved parties.
+     Perform pre-job meeting with all involved personnel at critical stages of the operation.
+     Volumes and well control shall be focused throughout running completions string.
+      Fill out kick sheet prior to RIH.
+     On a positive indication of a kick such as unexpected pit-gain or flow return rate increase, well
+
+        shall be shut-in without performing flow check.
+    A kick stand shall be readily available at all time on rig floor.
+     Maintain good housekeeping on the rig floor at all times.
+     Special care must be taken in running scraper and polish mill to make sure considered intervals
+
+       are clear to run and Set production packer.
+      Sufficient lighting on Wellhead/ Well cellar is essential.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 15 of 45
+ CCA/C/1401/27              Completion Program
+
+     The power tong and jam unit prior to starting the job should have supplied a recent calibration
+
+        certificate
+     Scaffolding shall be installed on wellhead for ease of operation during X-Tree installation and
+
+         tests.
+     All personnel working on rig floor, BOP & X-Tree shall be wearing safety harness.
+
+4.5 Thread cleaning, compound application and make up
+
+Storage compounds are not suitable as running compounds, so they must be removed and the
+
+connections cleaned prior to application of thread running compound for make-up.
+
+     Never use barite or wire brush to clean connections as damage can occur.
+     Never use diesel to clean the connections as this will leave a film that can cause make up
+
+      problems or affect the performance.
+
+Use steam cleaner or water jet to clean the threads.
+
+Rack one row of tubular on pipe rack, open the protectors, clean the box and pin connections out of
+
+storage dope, hand tight the clean protectors and rack another row of tubular on top. Continue the above
+
+procedure till all connections are cleaned and racked consecutively.
+
+Rack the tubular in staggered configuration with drill-tech wraps (plastic spacers) in between.
+
+Connections should be completely dry before application of thread compound.
+
+All compounds conforming to API 5A2 and API5A3 are acceptable as running compounds.
+
+These API modified thread compounds are harmful to the environment and can cause skin problems.
+
+Do not use expired running thread compounds. If excess thread compound has been left from a previous
+
+job and it has been stored properly, then it is acceptable to use. Ensure that the compound is free of
+
+foreign particles.
+
+Never use drill pipe compounds for tubing and casing and vice-versa.
+
+Thread compounds are all required to be regularly mixed during use.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 16 of 45
+ CCA/C/1401/27              Completion Program
+
+Evenly apply the correct quantity of compound (as per below table) to all the thread seal and shoulder
+
+areas with fine brush. The compound must reach the bottom of the thread. Thread compound must not
+
+extrude from the connections during make up as this indicates extra dope applied.
+
+Use steam cleaner or water jet to clean the threads.
+
+Rack one row of tubular on pipe rack, open the protectors, clean the box and pin connections out of
+
+storage dope, hand tight the clean protectors and rack another row of tubular on top. Continue the above
+
+procedure till all connections are cleaned and racked consecutively.
+
+Rack the tubular in staggered configuration with drill-tech wraps (plastic spacers) in between.
+
+      Evenly Nominal OD (in.)/Type       Dope Volume (cm3)      Dope Volume (in.3)
+
+        4 1/2'' HSM3 18.9#L80                   8                          0.5
+
+        3 1/2'' HSM3 10.2#L80                   4                          0.2
+
+4.6 Completion Installation Operational Sequence
+
+Note: Perform pre-job safety meeting with special  instruction  to crew regarding correct dope
+
+application, make up torque and tubing handling.
+
+Note: Flush tubing head spool as per Wellhead Service Engineer instruction. Do perfect wash and check
+
+the return form side outlet to make sure it's free of debris.
+
+Note: Measure accurate distance from tubing landing shoulder to rotary table (Measurement of RT to
+
+THS shoulder must be done by completion engineer or W.S.S)
+
+Note: A single joint elevator same as tubing size will be used as backup to secure the assemblies in the
+
+beginning when there is low weight hanging in the side door. This will be installed directly on TOP of
+
+the compact spider frame.
+
+Note: Rigging up of the assembly should take place with extra care while using the air hoist and the
+
+Crane at the same time.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 17 of 45
+ CCA/C/1401/27              Completion Program
+
+Note: all the completion equipment is already made up with 1 pup jt. above and 1 pup jt. below, torque
+
+up and pressure tested, all valves of X-mas tree already tested in work shop.
+
+Note: Lift all emergency well control subs to rig floor and make up to cock valve.
+
+Note: Tubing Hanger Running Tool must be drifted before starting the job.
+
+Note: Test Power Tongue Using Two 3 1/2 Tubing Joint Before M/U No-Go Assembly
+
+Note: casing running company shall provide proper fix and moving jaws to grip 3 1/2 and 4 1/2 coupling
+
+size.
+
+Note: C/L & CIL test: Flush & Apply 500psi pressure in C/L – CIL for 5min. Then gradually increase
+pressure to 8,000psi & test for 15min.
+
+Note: Offline Function test Of DHSV including Opening and Closing Safety valve, increase pressure to
+7500psi gradually for 15min.
+
+Apply 500psi pressure in C/L for 5min. Then gradually increase pressure to 7,500psi & test for 15min.
+
+Offline hydro body pressure test of X-mass tree and bottom section record by chart recorder.
+
+Note: Offline test of SSD to 7500psi (open/ close/ set and retrieve plug, prong, check valve/ body pressure
+
+test/ pressure test against plug)
+
+Note: Offline test of NO – GO Landing Nipples to 7500psi (set and retrieve plug, prong, check valve/
+
+pressure test)
+
+Note: Offline body test of Expansion joint in full open position of stroke to 7500psi. (stroke will be open
+with 500psi).
+
+Note: Open all the tubing protectors in the rack, wash and clean all the threads.
+
+Note: Back up for tubing hanger running tools must be provided
+
+Note: pump-in sub (kill sub) must be provided for slickline operations and lubricator pressure tests.
+
+Note: Haskel pump must be provided for offline tests.
+
+     1.  Drift all tubing with proper API drift gauge (rabbit).
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 18 of 45
+CCA/C/1401/27              Completion Program
+
+    2. R/U completion running tools.
+
+    3. P/U completion NO-GO Landing Nipple Pre – assy. as per below table,
+
+     Run No.        Name                           Description                Remark
+
+                                     MATERIAL: SUPER 13CR – 110KSI
+                                WORKING PRESSURE: 10,000psi
+                                  TEMPERATURE: 300 DEG F
+                        3-1/2"
+        1                        TOP CONNECTION: 3 – 1/2" 10.20 PPF HSM3 BOX
+               Re – Entry Guide Shoe
+                               BOTTOM CONNECTION: HALF MULE SHOE GUIDE
+                                                ID: 2.922” – OD: 4.250”
+                                  COMPANY: WEIQIXIN
+
+                                   3 – 1/2" 2.562" XN BOTTOM NO – GO LANDING
+                                     NIPPLE
+                                     MAX.OD: 4.50"
+                                    SEAL BORE ID: 2.562"
+                              NO – GO ID: 2.442"              3 – 1/2" 2.75" XN BOTTOM
+                                  TEMPERATURE: 300 DEG F
+        2      NO-GO LANDING NIPPLE
+                                WORKING PRESSURE: 10,000 psi
+                                     PROFILE : XN
+                                    MATERIAL: S13CR – 110KSI
+                                 TOP CONNECTION: 3 – 1/2" 10.20 PPF HSM3 BOX
+                               BOTTOM CONNECTION: 3 – 1/2" 10.20 PPF HSM3
+                                      PIN
+
+        3            Pup joint        3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+                                      2.750" WPXN BYPASS BLANKING PLUG WITH LOCK MANDREL MATCHED
+                                      2.750" XN NO – GO LANDING NIPPLE
+
+                                2.750" WX – LINE RUNNING TOOL FOR 2.750" WPXN BYPASS BLANKING
+                               PLUG
+
+                                3.00" GS PULLING TOOL FOR 2.750" TYPE WPXN BLANKING PLUG
+
+                              WPXN EQUALIZING PRONG FOR 2.750" BLANKING PLUG
+
+                                2.00" SB RUNNING & PULLING TOOL FOR 2.750" EQUALIZING PRONG
+
+                                2.750" WRB – 2 EQUALIZING CHECK VALVE, MATCHED 2.750" XN NO – GO
+                               LANDING NIPPLE
+
+                                3.00" SB RUNNING & PULLING TOOL FOR 2.750" CHECK VALVE
+
+    4. M/U 1 joint TBG 3 – 1/2", 10.2#, HSM3 Connection, L – 80 Type – 1
+   5. P/U and M/U Packer Pre – assy. as following:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 19 of 45
+ CCA/C/1401/27              Completion Program
+
+         1          Pup joint     3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+                                   TYPE: PERMANENT & SINGLE TRIP
+                                 MAX. OD: 5.910" (150mm)
+                              UPPER SEAL BORE ID: 4.000"
+                                    MIN. BODY ID & LOWER SEAL BORE ID: 2.922"
+                                      INITIAL SETTING PRESSURE: 1,800 psi
+                                MAX. SETTING PRESSURE : 3,500 psi
+                      7", 26 – 29 PPF CASING WORKING PRESSURE : 10,000 psi
+                HYDRAULIC SET                               TEMPERATURE: 300 DEG F
+                RERMANENT                                 MATERIAL: S13CR – 110KSI
+         2    PRODUCTION PACKER ELEMENT MATERIAL : AFLAS
+              TO BE RUN IN 7.00"
+                          O – RING MATERIAL: AFLAS                  29 PPF LINER
+                              TOP CONNECTION: LEFT HAND SUIT WITH THE ANCHOR SEAL
+                            BOTTOM CONNECTION: 3 – 1/2“, 10.2 PPF HSM3 PIN
+                                 DESIGN VALIDATION GRADE: V3
+                                QUALITY CONTROL GRADE: Q1
+                                WIITH MILL OUT EXTENSION
+                          MOE ID: 2.922”
+                               COMPANY: WEIQIXIN
+
+                            WORKING PRESSURE: 10,000 psi
+                               TEMPERATURE: 300 DEG F
+                      4.0” ANCHOR SEAL  MATERIAL: SUPER 13CR-110KSI
+              ASSEMBLY SUIT WITH MAX OD (PACKING): 4.00”
+                   7" HYDRAULIC SET
+         3                     MIN ID: 2.922”
+             PERMANENT PACKER
+               SUITABLE FOR 3-1/2”, TOP CONNECTION: 3 – 1/2" 10.20 PPF HSM3 BOX
+                   10.2PPF TUBING  BOTTOM CONNECTION: MULE SHOE GUIDE
+                                   TYPE: RATCH LATCH
+                               COMPANY: WEIQIXIN
+
+         4          Pup joint     3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+Check Packer element/slips for any visual damages.
+
+     Use strap sling to lift packer assembly to Rig floor.
+    A tag line is required to assist lifting.
+     Slowly pick up tubing and observe hook load to confirm Ratch – A – Latch is fully stabbed and
+
+       then open slips.
+     Slack off packer assembly, double check shear pins quantity, remove the tape on the element,
+
+      and check for any visual damages on the element.
+     Care shall be taken while packer is passing through BOP and tubing head spool.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 20 of 45
+CCA/C/1401/27              Completion Program
+
+    Record pick – up and slack – off weight on the string.
+    Don’t rotate tubing string after packer is in hole.
+
+    6. M/U 1 Joint TBG 3 – 1/2", 10.2#, HSM3 Connection, L – 80 Type – 1
+    R/U Slick Line & RIH with 3.00" SB running/pulling tools to top of NO – GO Landing Nipple
+
+       (as a drift string).
+
+    7. P/U and M/U SSD assembly, SSD in close position (Compatibility of size of SSD plug with
+
+    TBG 3 – 1/2”, 10.2# to be confirmed). As following:
+
+    NOTE: 2.750” Check Valve is already installed in SSD.
+
+       Run
+              Name                       Description                Remark
+        No.
+
+         1        Pup joint     3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+                               MAX.OD: 4.551"
+                                 MIN. ID: 2.750"
+                              SEAL BORE ID: 2.750"
+                3 – 1/2" * 2.75"  TEMPERATURE: 300 DEG F
+                  SLIDING SIDE                          WORKING PRESSURE: 10,000 psi
+               DOOR, WITH TYPE
+         2                     PROFILE: X                X SELECTIVE
+                              MATERIAL: S13CR – 110KSI                   PROFILE
+                                SHIFTING DIRECTION: DOWNWARD OPEN
+                           TOP CONNECTION: 3 – 1/2" 10.20 PPF HSM3 BOX
+                          BOTTOM CONNECTION : 3 – 1/2" 10.20 PPF HSM3 PIN
+                            COMPANY: WEIQIXIN
+
+         3        Pup joint     3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+                             2.750" WPX BYPASS BLANKING PLUG WITH LOCK MANDREL
+
+                             2.750" WX – LINE RUNNING TOOL FOR 2.750" WPX BYPASS BLANKING PLUG
+
+                             3.00" GS PULLING TOOL FOR 2.750" TYPE WPX BLANKING PLUG
+
+                            EQUALIZING PRONG MATERIAL 13CR
+
+                             2.00" SB RUNNING & PULLING TOOL FOR 2.750" WPX EQUALIZING PRONG
+
+                             2.750" WFB – 2 EQUALIZING CHECK VALVE, MATCHED 2.750" X SSD
+
+                             2.750" B NON – SELECTIVE SHIFTING TOOL
+
+                             3.00" SB RUNNING & PULLING TOOL FOR 2.75" CHECK VALVE
+
+    8. M/U 1 Joint TBG 3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+    9. P/U and M/U Expansion joint assy. In full open position.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 21 of 45
+CCA/C/1401/27              Completion Program
+
+     Run No.    Name                           Description                   Remark
+
+        1       Pup joint    3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+                                    SIZE: 3 – 1/2"
+                          STROKE LENGTH: 10 ft.
+                             SHEARING: BY TUBING WEIGHT 15,000 lbs (WELL SITE
+                            ADJUSTABLE)
+                        WORKING PRESSURE: 10,000 psi
+                          TEMPERATURE: 300 DEG F
+                         BODY MATERIAL: SUPER 13CR – 110KSI
+                       MAX OD: 5.315”
+                               MIN. ID : 2.922”
+                  SIZE 3 – 1/2" *
+                      10ft. SPLINED  SEAL MATERIAL: AFLAS
+              TRAVEL JOINT ELASTOMER:AFLAS
+        2              ROTATIONAL  O – RING MATERIAL: AFLASS
+              LOCK SYSTEM
+                         TOP CONNECTION: 3 – 1/2" 10.20 PPF HSM3 BOX
+                        BOTTOM CONNECTION: 3 – 1/2" 10.20 PPF HSM3 PIN
+                           LOCKING POSITION: FULL OPEN, FULL CLOSE AND MIDDLE
+                             POSITION
+                              TYPE: SPLINED
+                           LOCKING POSITION: FULL OPEN
+                          SHEAR PINS PORTS: 8 No.
+                         TORQUE TRANSFER FEATURE: YES
+                            DESIGN VALIDATION GRADE: V3
+                          COMPANY: WEIQIXIN
+
+        3       Pup joint    3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+     NOTE: ALL WIRELINE TOOLS SHOULD BE COMPATIBLE WITH DRIFT DIAMETER OF TRAVELING JOINT &
+     PASS THROUGH IT EASILY & SMOOTHLY. CONFIRMATION OF THE SAME IS REQUIRED
+
+    Use 3 No. of shear pins. (Total value: 15 kips)
+    Double check Expansion joint & verify number of shear pins prior to RIH.
+    Record pick – up and slack – off weight on the string.
+
+   10. M/U 1 Joint TBG 3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+   11. P/U and M/U 1st Chemical Injection Valve (CIV) assy.
+
+   12. Continue with test the string as per program.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 22 of 45
+CCA/C/1401/27              Completion Program
+
+      Run No.    Name                           Description                   Remark
+
+         1       Pup joint   3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+                             SUITABLE TO BE RUN IN 7” 26 - 29 PPF LINER
+                            RETRIEVE TYPE: TUBING RETRIEVABLE
+                       NON PROFILE & NON WELDED
+                       MAX OD: 5.00”
+                          MIN ID: 2.922”
+                         WORKING PRESSURE: 15,000 psi
+                               CIV CONNECTION: 3/8" NPT BOX FOR CIV
+                            MATERIAL: S13CR – 110KSI
+                            CONNECTION: 3 – 1/2” 10.2 PPF, HSM3 PIN * BOX
+                 3 – 1/2"    CIV CONNECTION: NPT 3/8” BOX FOR CIV
+                CHEMICAL
+         2
+                  INJECTION   1.00” 'CIV' TUBING RETRIEVABLE CHEMICAL INJECTION
+             MANDREL & CIV DUAL CHECK VALVE TYPE, WITH RUPTURE DISC
+                        WORKING PRESSURE CIM: 15,000 psi
+                            SPRING OPENING PRESSURE 500 psi
+                          TEMPERATURE: 300 DEG F
+                            MATERIAL: S13CR – 110KSI
+                         TOP CONNECTION: 3/8” AUTOCLAVE
+                        BOTTOM CONNECTION : 3/8” NPT
+                         RUPTURE DISC BURST PRESSURE: 6,000 psi
+                              TYPE: DUAL CHECK VALVE
+                          COMPANY: WEIQIXIN
+
+                                3/8" INJECTION LINE FOR CIV
+                               OD:3/8”
+                        WALL THICKNESS: 0.065"
+                      WORK PRESSURE:15,000 psi
+                           TEMPERATURE: 300 DEG F
+                CHEMICAL
+         3                   LENGTH:4,000 METER/ROLL                INJECTION LINE
+                            MATERIAL: SAF 2507
+                              TYPE: SEAMLESS, WOODEN DRUM
+                            FEATURE: EMPTY FLUID & DUST CAPS FITTED, INCLUDING
+                             SUITABLE CONNECTORS AND ADAPTORS
+                          COMPANY: WEIQIXIN
+
+         4       Pup joint   3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+   13. Connect 3/8” CIL to CIV.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 23 of 45
+CCA/C/1401/27              Completion Program
+
+   Note: "Lower and upper CIV must be recognizable during and after completion (Marked on spool
+
+   on surface for each CIV)"
+
+   14. M/U 3 – 1/2” cross – coupling on each 3 – 1/2” tubing joints.
+
+   15. P/U and M/U 1 Joint TBG 3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+   16. P/U and M/U 2nd Chemical Injection Valve Assy.
+
+      Run No.    Name                          Description                   Remark
+
+         1       Pup joint   3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1
+
+                            SUITABLE TO BE RUN IN 7” 26 – 29 PPF LINER
+                            RETRIEVE TYPE: TUBING RETRIEVABLE
+                       NON PROFILE & NON WELDED
+                       MAX OD: 5.00”
+                          MIN ID: 2.922”
+                         WORKING PRESSURE: 15,000psi
+                            MATERIAL: S13CR – 110KSI
+                            CONNECTION: 3 – 1/2” 10.2 PPF, HSM3 PIN * BOX
+                               CIV CONNECTION: NPT 3/8”BOX FOR CIV
+                 3 – 1/2"
+                CHEMICAL
+         2                      1.00” 'CIV' TUBING RETRIEVABLE CHEMICAL INJECTION                  INJECTION
+                         DUAL CHECK VALVE TYPE, WITH RUPTURE DISC             MANDREL & CIV
+                         WORKING PRESSURE CIM: 15,000 psi
+                             SPRING OPENING PRESSURE 500 psi
+                          TEMPERATURE: 300 DEG F
+                            MATERIAL: S13CR – 110KSI
+                          TOP CONNECTION: 3/8” AUTOCLAVE
+                        BOTTOM CONNECTION : 3/8” NPT
+                         RUPTURE DISC BURST PRESSURE: 6,000 psi
+                              TYPE: DUAL CHECK VALVE
+                          COMPANY: WEIQIXIN
+
+                                3/8" INJECTION LINE FOR CIV
+                              OD: 3/8”
+                        WALL THICKNESS: 0.065"
+                CHEMICAL  WORK PRESSURE:15,000 psi
+         3
+                INJECTION LINE TEMPERATURE: 300 DEG F
+                            LENGTH: 4,000 METER/ROLL
+                            MATERIAL: SAF 2507
+                              TYPE: SEAMLESS, WOODEN DRUM
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+      Contract No:          AZNS – 127 Workover #2
+                                                                                                Page 24 of 45
+     CCA/C/1401/27              Completion Program
+
+                                 FEATURE: EMPTY FLUID & DUST CAPS FITTED, INCLUDING
+                                 SUITABLE CONNECTORS AND ADAPTORS
+                               COMPANY: WEIQIXIN
+
+             4       Pup joint   3 – 1/2", 10.2 #, HSM3 Connection, L – 80, Type – 1
+
+        17. Connect 3/8” CIL to CIV & test. (CIV and CIL connections shall be pressure tested after M/U
+
+             to CIM to 2,000 psi)
+
+        18. P/U and M/U 1 Joint TBG 3 – 1/2", 10.2 #, HSM3 Connection, L – 80, Type – 1
+        19. Pressure test fitting connection to 2,000psi for 15min.
+         Hold 500 – 1000psi in CIL. Monitor pressure changes while RIH.
+         Care must be taken to avoid damaging CILs with slips.
+         Double check and make sure derrick is centered.
+
+   Note: Do not close BOP once the chemical injection lines are RIH unless absolutely necessary.
+
+        20. Use 3 – 1/2” cross coupling clamp on each joint.
+
+        21. RIH 17 joints TBG 3 – 1/2", 10.2 #, HSM3 Connection, L – 80 Type – 1. (totally: 22 joints)
+
+           (Using of jam unit system is mandatory to have torque turn graph. Any connection with
+
+           improper torque turn graph shall be rejected.)
+
+        22. P/U and M/U X-Over 3 – 1/2” 10.2# HSM3 Connection Pin * 4 – 1/2” 18.9# HSM3 Connection
+
+          Box.
+
+        23. P/U and M/U 1 joint TBG 4 – 1/2”, L – 80, 18.9#, HSM3 Connection.
+
+        24. R/U Slick line and RIH with or 2.8" gauge ring to top of SSD (drift string)
+        25. Perform pressure test completion string w/7,000psi for 15min.
+        26. RIH 315 joint TBG 4 – 1/2”, L – 80, 18.9#, HSM3 Connection. (AVERAGE 9.5m EACH
+
+         JOINT)
+
+   Note: To make sure the 2.750” plug will be passed through 3 – 1/2” tubing after M/U first joint of 4 –
+
+    1/2" tubing, Run 2.8” Gauge ring by slick line:
+
+a)  Run 2.75" gauge ring or 3.00" SB to top of NO – GO after M/U Packer.
+
+b) Run 2.8" gauge ring to top of SSD after M/U first 4 – 1/2” tubing.
+c)  Perform pressure test string (3 – 1/2 & 4 – 1/2” tubing) with 7,000psi for each 100 joints.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 25 of 45
+ CCA/C/1401/27              Completion Program
+
+Note: Use 4 – 1/2” Cross coupling clamp on each joint.
+
+     27. Exact number of joints will be determined when TBG. Tally finalized.
+
+     28. P/U and M/U DHSV assy. (Pre – Assembled)
+
+   Run No.       Name                             Description                   Remark
+
+      1           Pup joint       4 – 1/2", 18.9 #, HSM3 Connection, L – 80, Type – 1
+
+                           MAX OD: 5.50”
+                              MIN ID: 3.64”
+                                 CONNECTION: 4 – 1/2” 18.9 PPF, HSM3 CONNECTION
+                              BOX * PIN
+      2    SHORT FLOW COUPLING
+                                 MATERIAL: SUPER 13CR – 110KSI
+                                 LENGTH: 4 ft.
+                              RATED WORKING PRESSURE: 10,000 psi
+                               COMPANY: WEIQIXIN
+
+                           MAX SETTING DEPTH: 1,300 ft.
+                           MAX OD: 7.50”
+                              MIN ID: 3.437”
+                                    PROFILE: AF
+                                 SETTING DEPTH: 1300 ft.
+                              RATED WORKING PRESSURE: 10,000 psi
+                              RATED WORKING TEMPERATURE: 325 °F
+                              MIN OPENING PRESSURE: 1,750 psi + SHUT IN
+                              MIN CLOSING PRESSURE: 800 psi
+               4 – 1/2” TUBING    BODY MATERIAL: SUPER 13CR – 110KSI
+      3      RETRIEVABLE SAFETY  FLAPPER & SEAL MATERIAL: INCONEL 718
+                  VALVE
+                                  SPRING MATERIAL: INCONEL X – 750
+                              TOP CONNECTION : 4 – 1/2” 18.9 PPF, HSM3
+                               CONNECTION BOX
+                           BTM CONNECTION : 4 – 1/2” 18.9 PPF, HSM3
+                               CONNECTION PIN
+                              CONTROL LINE CONNECTION: 1/4” AUTOCLAVE
+                                 DESIGN VALIDATION GRADE: V3
+                                  SELF EQUALIZING FEATURE: YES
+                                  EXERCISE PROFILE: YES
+                               COMPANY: WEIQIXIN
+
+                              MIN ID: 2.90”
+           PROTECTION SLEEVE FOR PROFILE: AF        3.1
+                    3.437" TRSSV      MATERIAL: SUPER 13CR – 110KSI
+                             WORKING PRESSURE: 10,000 psi
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 26 of 45
+ CCA/C/1401/27              Completion Program
+
+                             WORKING TEMPRATURE: 325 DEG F
+                               COMPANY: WEIQIXIN
+                                      SIZE 3.50" GS PULLING TOOL FOR PROTECTION SLEEVE
+                                      SIZE 2.62" TYPE AF RUNNING TOOL FOR PROTECTION
+                                 SLEEVE
+
+                           MAX OD: 5.500”
+                              MIN ID: 3.64”
+                                 CONNECTION: 4 – 1/2” 18.9 PPF, HSM3 CONNECTION
+                              BOX * PIN
+      4     LONG FLOW COUPLING
+                                 MATERIAL: SUPER 13CR – 110KSI
+                                 LENGTH: 6 ft.
+                              RATED WORKING PRESSURE: 10,000 psi
+                               COMPANY: WEIQIXIN
+
+      5           Pup joint       4 – 1/2", 18.9 #, HSM3 Connection, L – 80, Type – 1
+
+                                   OD: 1/4"
+                            WALL THICKNESS: 0.065"
+                          WORK PRESSURE: 15,000 psi
+                               TEMPERATURE: 325 DEG F            SEAMLESS CONTROL LINE
+      6                FOR TRSSSV      LENGTH: 120 M/ROLL
+                                 MATERIAL: INC 825
+
+                                    TYPE: SEAMLESS, WOODEN DRUM
+
+                          WOODEN DRUM. EMPTY FLUID & DUST CAPS FITTED
+
+     29. Apply 500psi pressure in C/L for 5min. Then gradually increase pressure to 7,500psi & test for
+
+       15min.
+     Keep 5,000psi pressure in C/L while RIH.
+     Keep control line in position (attached to tubing) with control line protector.
+     Monitor DHSV control line and CIL pressure while RIH.
+
+     30. Perform TRSCSSV inflow test as following:
+
+Perform 7,000psi string pressure test for 15min.
+
+Close TRSCSSV by releasing C/L pressure slowly.
+
+     Release string pressure through to 1,000psi.
+     Observe string pressure for 15min.
+      If OK, apply pressure in CL to check and test equalizing function of SSSV. Disconnect test line
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 27 of 45
+CCA/C/1401/27              Completion Program
+
+     on Landing joint.
+     If NOT, equalize pressure by Pump Truck and open SSSV release string pressure and repeat
+
+     above procedure.
+    Keep 5,000psi pressure in C/L while RIH.
+
+   31. M/U 5 joints 4 – 1/2" TBG HSM3 Connection (Use cross coupling for CL and CIL)
+
+   32. P/U and M/U Fluted Swage + tubing hanger.
+
+   33. Pass CL & CILs through Fluted Swage sluts.
+
+   34. P/U and M/U tubing hanger.
+
+      Run No.    Name                          Description                   Remark
+
+                   MAX OD: 5.50"
+                       MIN ID: 3.64”
+                        PRESSURE RATE: 10,000 psi
+                4 – 1/2” Fluted MATERIAL: SUPER 13CR – 110KSI         1
+               Swage Adapter SLOTS: 6 * 1 INCH WIDTH
+                        CONNECTION: 4 – 1/2" 18.90 PPF HSM3 PIN
+                        CONNECTION: 4 – 1/2" 18.90 PPF TPCQ – EX PIN
+                        COMPANY: WEIQIXIN
+
+                                11" BOWL * 4 – 1/2” 18.9 PPF BOX TPCQ – EX (ID:
+                                    3.68") CONNECTION BOTTOM & 4 – 1/2” 4-2G ACME
+                     BOX TOP WITH 4 – 1/2” EXTENDED NECK, WITH
+                      ONE CONTINUOUS 1/4" NPT C.LINE EXIT FOR SSSV,
+                      ONE 1/4" LINE EXIT FOR DHPG, INSTALLATION
+                      COMPLETE WITH RELATED FITTINGS AND PLUGS,
+         2      Tubing Hanger WITH TWO CHANNEL FOR 3/8” CHEMICAL. BPV: 4"
+                        TYPE H THREAD PREPARATION, THREE FS SEAL TO
+                      PACK OFF THE UPPER NECK AND TWO S SEAL TO
+                      PACK OFF THE BODY OF HANGER, MATERIAL:
+                               410SS.
+                             M.C: FF-0.5 T.C: U PSL:3G PR:2
+                        COMPANY: MSP
+
+         3      Running Tools  5” ACME pin * 4 – 1/2” TPCQ EX Connection Box
+
+                            SIZE 4 – 1/2" 18.90 PPF HSM3 TUBING CROSS
+                    4 – /2”    COUPLING CONTROL LINE PROTECTOR.
+         4     COUPLING  INCLUDING 4 SLOTS, TWO FOR 0.25" OD CONTROL
+             PROTECTOR  LINE, TWO FOR 3/8" OD INJECTION LINE WITH
+                         COAT. LOCATED INSIDE 9-5/8" 47 – 53.5 PPF CSG
+
+                   3 – 1/2”    SIZE 3 – 1/2" 10.20 PPF HSM3 TUBING CROSS
+         5     COUPLING  COUPLING CONTROL LINE PROTECTOR.
+             PROTECTOR INCLUDING 4 SLOTS, TWO FOR 0.25" OD CONTROL
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 28 of 45
+ CCA/C/1401/27              Completion Program
+
+                               LINE, TWO FOR 3/8" OD INJECTION LINE WITH
+                          COAT. LOCATED INSIDE 7.00" 29-35 PPF CSG.
+
+     Do not Torque with rig tongue.
+     Check the seals on the hanger body.
+     Clean threads on feed through Control and Chemical Injection Lines prior to RIH
+
+     35. Apply light oil on the seals body of tubing hanger.
+
+     36. Check pressure in 3/8” CILs and 1/4” C/L, pressure up CILs to rupture CIV rupture disk (about
+        6,000 – 8,000psi) bleed – off pressures to zero. Cut CILs roughly 1 – 1.5m above Tubing Hanger.
+     37. Cut CL approx. 10 – 15m or enough to reach to rig floor on spool and 8 turns around fluted
+
+       swage below tubing hanger.
+
+     38. Feed all lines through Tubing Hanger, install 1/4" and 3/8" fitting on CL and CILs.
+
+     39. Install 3/8" Plug on CILs.
+     40. Identify 1st (bottom) & 2nd (above) CILs by using tags.
+     Secure control line on landing joint body in straight shape.
+     Mark control line position and orientation on landing joint.
+     Make sure Tubing Hanger orientation matches with X-Tree orientation.
+     Mark depth on landing joint to indicate Tubing Hanger has landed on the load shoulder. Mark
+
+      below TH if decided to double check its landing through TBG. Spool side valve.
+     Make sure tubing spool is cleaned prior to setting TH. Open THS side outlet valves to drain and
+
+      make sure all Tie – Down screw is open.
+     Land tubing hanger inside tubing head spool body with special care.
+     Wellhead specialist shall confirm landing of Tubing hanger in Tubing Head spool.
+     Wellhead personnel are in charge and their instructions shall be followed.
+
+     41. M/U 4 – 1/2” Landing joint and connect to Hanger. Touch with hanger inside the bowl of TBG
+     HD Spool, pull & 1.5m space out, Mark String. (Traveling joint should have 10 ft. up and down
+
+         stroke)
+
+     42. M/U Golpa. Flange to secure in case on any back flow or out of control situation.
+
+     43. R/U and RIH with slick line.
+
+Apply 5,000psi in CL and observe flow tube movement and DHSV opening.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 29 of 45
+ CCA/C/1401/27              Completion Program
+
+Run#1: Install 3.437" protection Sleeve of TRSSSV,
+
+Run#2: Retrieve 2.75" WFB – 2 Check Valve from SSD,
+
+Run#3: Set 2.75" plug and prong in Landing Nipple,
+
+Run#4: Run with shifting tool to confirm SSD is full close.
+
+NOTE: Monitor control line pressure during slick line operation and report any pressure drop to slick
+
+line operator, completion supervisor and rig company man.
+
+     44. R/U surface pressure line, connect to circulating head and set packer as per following procedure
+      Fill up Surface Lines and make sure air has been purged.
+     All Surface lines shall be checked for any possible leak.
+     During packer setting operation, THS side valves shall be opened while pressurizing the tubing.
+
+     Some backflow will be observed through side outlet valves due to ballooning effect.
+
+     45. R/U pump unit, flush the surface line to ensure there is not any trash inside. Pressure tests the
+         line with 500psi for 5 – 10min. Connect the surface line to tubing. Pressurize inside tubing to
+       300 – 500psi to ensure Traveling joint  is full open. Increase Pressure gradually to SET
+     PACKER. (500psi 5min, 2,000psi 5min, 3,000psi 10min, 3,500psi 10min) Increase pressure to
+         7,000psi to test string.
+
+     46. Over Pull string (Max. 15 kips) to test packer.
+
+     47. Slack off tubing weight to shear expansion joint. (3 No. Pins, Approx. 15 – 20 kips)
+
+     48. Land tubing hanger in Tubing Head Spool by following below Procedure:
+     Check Tubing Head Spool side valve and connect line to BOP side valve. Circulate fresh water
+
+        to wash inside tubing head spool.
+     Check all tie down screws shall be in open position.
+     Drain BOP stack through Tubing head spool gate valves. (Keep Open)
+     Keep Tubing Hanger centered by Air hoists wire slings, pass gently thru BOP stacks as per Well
+
+      Head Specialist instructions.
+     As the Tubing Hanger reaches load shoulder, weight indicator will descend to minimum weight.
+     Landing joint mark must be in line with the rotary table. This ensures that Tubing hanger has
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 30 of 45
+CCA/C/1401/27              Completion Program
+
+      landed fully in T.H.S load shoulder.
+
+   49. Tighten all Tie – Down screws.
+    Close Hydrill on L. Joint test Tubing Hanger with 2,000psi from top.
+   50. N/U surface pressure line and perform pressure test (final completion string test) w/5,000psi for
+
+      15min, N/D Same.
+
+   51. Test Packer and Hanger seals as per below procedure:
+     Protection sleeve is already installed,
+    Retrieve prong & plug from No – GO Landing Nipple in 2 separate runs.
+    Switch surface line to 9 – 5/8” TBG annulus. Pressure up to 2,000psi for 15min to test hanger
+
+       seals from bottom and packer element from top.
+
+   52. Retrieve 3.437" protection Sleeve of TRSSSV,
+
+   53. Back off landing joint on TH and lay down same.
+
+   54. Run 2way check valve (2WCV). 2WCV Running string shall be prepared prior to start of
+
+       operation.
+   55. Test same against shear Ram (7,000psi for 15min)
+
+      Note: Because this test will be done against of 2way in tubing hanger - Tubing HGR FS seal
+
+      and RIG BOP stuck so some pressure drop can be neglected and visual check is sufficient
+
+   56. N/D BOP.
+
+   57. N/U bottom section of wellhead including bottom master valve pass CILs.
+     Install companion flange on top of bottom section and pressure test metal seal with 8,000/1,000psi
+
+      15/5min, vent port should be open, visual check is sufficient.
+    Connect Control line to CL Exit Cap, pressure test CL connection to bottom section to 8,000psi
+
+       for 15min.
+    Pressure test CILs to 2,000psi for 15min after N/U X-tree, bleed off pressure.
+     Install plug on all injections and C/L ports to prevent getting debris inside.
+    All injections should be marked and specified.
+    Pressure test between lower S – seal and cavity through test port with 8,000psi for 15 min.
+    Pressure test between neck of hanger S – seal and cavity through test port with 8,000psi for 15min.
+
+   58. Assemble Solid Block and Tree Cap package (from bottom to top: Top Master valve, SSV,
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 31 of 45
+ CCA/C/1401/27              Completion Program
+
+       Cross w/production & kill wing & Swab valve + tree cap), Re – Check & Ensure all bolts are
+         tightened. Offline pressure test (8,000psi for 15 min) of Xmas tree shall be performed on test
+
+       stamp before starting completion operation as bellow:
+     M/U Companion flange below top master valve & L/U pumping unit,
+     Close wing valve and kill valve and open top master valve, swab valve and 2sv,
+     Pressure test X – Mas tree body, wing valve and kill valve in flow test to 1,000/8,000psi for 5/15
+
+       min, Bleed off pressure.
+     Close swab valve, Pressure test X – Mas tree body, wing valve, kill valve and swab valve inflow
+         test to 1,000/8,000psi for 5/15 min, Bleed off pressure.
+     Open all valves, Close SSV, inflow Pressure test SSV to 1,000/8,000psi for 5/15 min.
+     Bleed off pressure.
+     Open SSV, Pressure test SSV actuator to 1,500psi for 15min.
+     Close top master valve, inflow Pressure test top master valve to 1,000/8,000psi for 5/15 min.
+     Bleed of pressure.
+
+     59. N/U Solid Block and Tree Cap on top of Bottom master valve pack off
+     Open all valves of XM, connect pumping unit to kill valve comp. Flange & Pressure test X-Mas
+
+        tree body, bottom master valve and connection between X-Mas Tree and bottom section flange
+        to 8,000psi for 15 min.
+     Open X-Mas Tree cap and Retrieve 2WCV,
+      Install Xmas tree cap and close all valves except bottom master valve.
+     Check and record the pressure of all annuluses.
+
+Note: After Run Completion and install X-mas tree:
+
+   Flowing the well for 96hr as per detailed program.
+
+    Set protection sleeve in TRSSSV
+
+    Set plug & prong in NO-GO landing nipple.
+
+    Displace above the plug with diesel by coiled tubing.
+
+    Retrieve DHSV protection sleeve.
+
+    Set BPV.
+
+    Close XMT valves except BMV
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 32 of 45
+ CCA/C/1401/27              Completion Program
+
+5.  Clean up procedure
+
+This program describes the procedure to clean up and displace the cased hole from water based mud
+
+brine as safely and effectively as possible prior to running the completion equipment. Clean working
+
+practices and good housekeeping as always are important. All rig pits, ditches, and lines (including gun
+
+lines) should be cleaned using solvents and detergents. If it is practical, lines should be opened to check
+
+for any mud solids that might have settled in them. All the pits, sand traps, and under the shale shakers
+
+should be cleaned out and washed down using high pressure cleaning equipment. In the pit room, all
+
+gratings should be cleaned, all the lights and beams should be washed down. All cleaning should be
+
+done well in advance wherever possible. To clean pits and lines, 15 m3 of water containing 1 to 2 drums
+
+of CLEAN SURF should be mixed up and circulated through all lines, gun lines, mixing lines etc. This
+
+can also be used to clean the tank system initially.
+
+     Pump should be worked at the maximum safe rate.
+     The below check list should be filled by the supervisor in the site.
+      It should be noted that all dump valves should seal with grease to ensure they are in good order.
+     All ditch gates should be sealed with silicon on each side of the gate. This will need to be replaced
+
+          if the gate is opened.
+     Under no circumstances should barite, bentonite or polymers be used to seal anything.
+     All pump packing should be examined before starting the cleaning
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 33 of 45
+ CCA/C/1401/27              Completion Program
+
+6.  Displacement Design
+
+To ensure effective mud displacement and water wetting of the casing, the displacement pill needs to be
+
+designed carefully. The use of a weighted push pills with a viscosity greater than that of the mud, will
+
+minimize channeling and ensure good cleaning of the low side of the well bore.
+
+The best fluid for thinning the mud is the continuous phase of the mud. In addition, SPERSEEN CFL
+
+could be used to reduce the yield point and gel strengths. The yield point should be between 8 to10 Pa
+
+and the 10-minute gel to <10 Pa. The actual quantity of material required to do this must be determined
+
+by the pilot testing performed by the mud engineer to determine the most cost-effective treatment.
+
+Throughout the drilling fluid conditioning process, the flow rate used should be the maximum practical
+
+rate.
+
+The drill string should be reciprocated and rotated during the operation. The combined effect of scrapers
+
+being run in the hole, the high flow rate and the reciprocation/rotation will help to remove/disperse large
+
+quantities of mud solids and general debris. The reciprocation stroke should be +/- 10 m. and the rotation
+
+speed should be +/- 60 RPM
+
+During this operation, as much of the surface volume of mud as possible should be removed from the
+
+pits to accommodate the inhibited water and the well clean up pills. Once the mud has been back-loaded,
+
+surface preparation can be done.
+
+At least 150 m of pill/spacer coverage or 3 min contact time at the highest pump rates should be
+
+considered.
+
+Pit levels should be monitor throughout the displacement operation to catch and prevent an influx
+
+entering the well contributing to an incident.
+
+Mix & pump 40bbl fresh Hi-Vis 104pcf CaCO3 Poly-mud followed by 10bbl Hi-Vis 74pcf NaCl Brine, then
+
+start displacing the well with completion fluid.
+
+Displace the well with completion fluid:
+
+First stage – RIH with 2-7/8” C/O BHA to the bottom & spot non-solid filtrated completion fluid to 50m
+
+above 4-1/2” liner lap. POOH to surface.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 34 of 45
+ CCA/C/1401/27              Completion Program
+
+Second stage – RIH with 5-7/8” mill & 7” scraper BHA to 4-1/2” liner lap, displace the well from 4-
+
+1/2” liner lap by non-solid filtrated completion fluid. POOH to surface.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 35 of 45
+ CCA/C/1401/27              Completion Program
+
+7.  Completion Fluid
+
+ 7.1 interval Description
+
+      Completion
+
+      The completion fluid for this section will be Calcium Bromide with a scavenger, inhibitor.
+
+7.1.1 Solid – Free CaBr2 System
+
+      Calcium bromide A clear brine fluid, Calcium Bromide (CaBr2) solution is used as single salt
+       brine in densities ranging from 11.7 lbs/gal to 15.1 lbs/gal. It is used as a completion, work over,
+       gravel pack, and packer fluid. It can also be used as a spike fluid to increase density in fluids up
+        to 14.2 lb/gal. Due to its inhibitive properties, CaBr2 can help reduce formation damage induced
+      by clay swelling and dispersion.
+
+      Corrosion Control:
+
+      The corrosion rate of this type of fluid (CR) is less tha 5 MPY.
+
+        Pit management will be a key in the successful completion of this interval and sufficient time for
+       planning and preparation should be allowed.
+
+       All valves should be checked for leakage beforehand and defects identified to be reported and
+        rectified by drilling contractor.
+
+      The mud pits which are to be used to mix the completion brine, should emptied and cleaned
+       adequately and associated lines flushed with water.
+
+       Filtration Process:
+
+      There is no need to focus on Filtration.
+
+      Displacement Process:
+
+          It is recommended to circulate and condition the mud prior to displacement and to spot the open
+       hole section to conditioned mud or a solids-free fluid loss pill. Circulate and condition the mud
+       as needed prior to pumping the clean out pills to optimum displacement properties).
+
+       After opening the circulating sub, the pumping sequence is as follows:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 36 of 45
+CCA/C/1401/27              Completion Program
+
+     No.            Description       Volume Bbl           Comment
+
+       1                     Displace to CaBr₂ at 103 to 106 pcf at highest rate available
+
+           Continue pumping Completion Fluid until cleanliness specification has been
+     2
+           met. Dump return at surface
+
+     Completion Fluid Making Procedure & Consumption:
+
+     Fill up fresh tank as require Calcium Bromide
+    Cyr-Corrosion: Corrosion inhibitor Packer fluid design at rate of 1 % V/V.
+    Oxygen scavenger (to eliminate dissolved oxygen as source of corrosion) at rate of 0.5 % V/V.
+    H2S Scavenger at rate of 0.5 % V/V.
+
+     Rig Clean – Up Checklist:
+
+  A. Areas to clean:
+
+    Surface pits
+    Clean the suction, return, settling & reserve pits
+    Clean the sand traps
+    Clean the ditches & troughs
+    Clean the shakers area including all solids equipment & lines
+    Clean the mixing hoppers
+    Clean the cement unit
+    Clean any other pits or equipment that the completion fluid may contact
+    Cycle all valves in mixing system
+
+  B. Items to flush out:
+
+    All mud pumps & suction lines
+    All centrifuges & lines
+    Chemical & weighting mixing lines in contact with the completion fluid
+    Lines from the pit room to the trip tank
+    Lines from the rig floor to the trip tank
+    Choke, choke manifold & kill line
+    Standpipes
+    Degassing & solid control equipment
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 37 of 45
+CCA/C/1401/27              Completion Program
+
+    Lines to the cement unit and/or other pumping equipment
+    Casing fill – up lines
+    Lines to & from the filtration line
+    Any other lines that the completion fluid may contact
+
+  Displacement Procedure:
+
+   1. Run bit and dual or tandem scrapers.2. Circulate and condition mud. Reduce funnel viscosity as
+     much as possible while maintaining adequate rheological properties to clean hole and prevent
+       settling of solids. Maintain critical annular velocity to assure that liner tops are thoroughly
+      cleaned prior to displacement.
+
+   2.  Rig up equipment for displacement of completion fluid. All tanks, circulating lines, and pumps
+       to be used in the displacement should be cleared of residual mud.
+
+   3.  Insure sufficient space is available to store displaced mud.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 38 of 45
+CCA/C/1401/27              Completion Program
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+  Contract No:          AZNS – 127 Workover #2
+                                                                                            Page 39 of 45
+ CCA/C/1401/27              Completion Program
+
+8.  X-Mass Tree body pressure test before installation
+
+X-Mass Tree body pressure test shall be performed direction flow at well site and before installation.
+
+Refer to item no.59
+
+NOTE
+
+     All steps shall be done with considering all safety issues and under HSE officer presence.
+     Check if pressure gauges have validated calibration certification.
+     Connect cross-over test flange to the pump truck.
+     Turn all inner valves to half open
+
+       1)  Pressure test for tubing hanger
+
+Pressure test the annular space between S seal of tubing hanger body & the annular space between the
+S seal of the tubing hanger neck & gasket ring for 6,000psi. Hold and monitor the pressure for 15
+
+minutes. In the event of leakage, remove the tubing hanger and replace the seals as required.
+
+Pressure test the annular space between the upper and down S seal of the tubing hanger upper neck for
+
+8000 psi. Hold and monitor the pressure for 15 minutes. In the event of leakage, remove the wellhead
+
+and replace the spare parts as required.
+
+       2)  Pressure test for X-Mas Tree
+
+After flowing the well, perform all X-MAS Tree valve inflow test with formation fluid and reservoir
+
+pressure as below:
+     Close top master valve, Bleed off pressure from choke manifold to 500psi, perform top master
+
+       valve inflow test & monitor the pressure for 15min. Maximum allowable increasing pressure
+
+       1psi/min. If inflow test is acceptable equalize pressure with pump unit & open top master
+
+       valve.
+     Close SSV, Bleed off pressure from choke manifold to 500psi, Perform SSV inflow test &
+
+       monitor the pressure for 15min. Maximum allowable increasing pressure 1psi/min. If inflow
+
+         test is acceptable equalize pressure with pump unit & open SSV.
+     Close Wing/Kill/Swab valve, Bleed off pressure from choke manifold to 500psi, Bleed off
+       pressure from Xmass tree cap to 500psi & apply 500psi pressure by pumping unit, Perform
+
+      Wing/Kill/Swab valve inflow test & monitor the pressure for 15min. Maximum allowable
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+ Contract No:          AZNS – 127 Workover #2
+                                                                                           Page 40 of 45
+CCA/C/1401/27              Completion Program
+
+      increasing pressure 1psi/min. If inflow test is acceptable equalize pressure with pump unit &
+
+     open Wing/Kill/Swab valve.
+    Close DHSV, Bleed off pressure from choke manifold to 500psi, Perform DHSV inflow test &
+
+      monitor the pressure for 15min. Maximum allowable increasing pressure 1psi/min. Bleed off
+
+      pressure to Zero & secure the well by closing top master valve, SSV, Wing valve & Kill Valve.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                       South Azadegan Oilfield Project
+
+                             Contract No:          AZNS – 127 Workover #2
+                                                                                                                       Page 41 of 45
+                           CCA/C/1401/27              Completion Program
+
+       9.  Revision Corrections
+
+                                                                Drilling Engineering
+
+   RTE must be corrected based on Rig 201-
+1  OEOC                                 4   CM               Corrected                                        AP
+
+     Perforation  interval must be corrected
+    based on client DDR.
+2                                        4   CM               Corrected                                        AP
+    4124.7-3983.3 m
+
+                                                                                                                        1.2 WELL SCHEMATIC
+    Casing and liner specification must be                                                             Casing and liner specification must be                                                                         Corrected
+3   corrected based on client’s DDR.            5,6   CM                                                corrected based on client’s DDR.         6   CM                                                                         Corrected                                                                                                                                                                    It also must be corrected in completion
+                                                                                                                      sketch in page 9.
+                                                    The offline pressures considered in                                                                                                               رشته اقالم کارگاهی تست استاندارد طبق
+                                                                    the program for the completion                                                                                          می انجام کاری فشار درصد 100 با تکمیلی                                                                        string test are based on previous
+     Offline test of completion tools must be                     procedure for Fahliyan wells.                                                                                       . گردد
+4   performed by appropriate pressure.          CM       از پس تجهیزات کارگاهی تست ، استاندار طبق                           AN
+                                                        شرکت توسط کاری فشار % 150 با تولید
+                                                                                 - تست لذا گیردمی صورت کارخانه در و سازنده
+                                                                                                                                               با تجهیزات M/U از پس کارگاهی های
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                       South Azadegan Oilfield Project
+
+                             Contract No:          AZNS – 127 Workover #2
+                                                                                                                       Page 42 of 45
+                           CCA/C/1401/27              Completion Program
+
+                                                                          خواهد صورت کاری فشار % 80 حداکثر
+                                                                                                                                                                                                         . پذیرفت
+    3 – 1/2" 2.75" XN BOTTOM NO-GO                                                                                                              رشته اقالم شماتیک به مربوط مشخصات با                                                                         Corrected   LANDINGNIPPLE specification must be5                                        18   CM                                                                                                                                     . گردد سازی یکسان تکمیلی       AN
+    reviewed.                                                                                                                                                                    . شد انجام
+
+                                                               Considering the check valve
+                                                             placement inside the SSD & in
+   SSD must be run in open position.                           accordance with the completion6                              CM                                                AN
+                                                                         string running procedure in this
+                                                                               field, SSD remains closed during
+                                                                              the run in.
+     3.3 Well status:
+
+7   Well status must be corrected based on       CM              Done                                CM
+     client DDR.
+
+                                                                                                                                                                                                                     با مطابق دقیق بصورت مشخصات میبایست    Packer and SSD specification must be                               Corrected
+8   corrected for running in Fahliyan wells.        CM                                                          و برنامه به شود رانده است قرار چه آن      CM                                                                                                                                                                                                       . شد انجام
+                                                                                                                                                                                                                                                                                    .گردد اضافه تکمیلی رشته شماتیک
+      It is recommended to perform completion                  The pressures considered in the
+     string  pressure   test  by  appropriate                  program for the completion string9                              CM                                                       AP
+                                                                                   test are based on previous     pressure for Fahliyan wells.
+                                                               procedure for Fahliyan wells.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                       South Azadegan Oilfield Project
+
+                              Contract No:          AZNS – 127 Workover #2
+                                                                                                                        Page 43 of 45
+                            CCA/C/1401/27              Completion Program
+
+       It must be mentioned:
+
+10   Offline    test   of   expansion    joint       CM             Done                                        AP
+     (open/close/ body pressure test)
+
+      final  completion  string  test  must  be
+     performed by appropriate pressure due to                    Will be performed in accordance
+     the acid injection pressure in Fahliyan                      to previous procedure for Fahliyan11                              CM                                             CM
+                                                                  wells and the responsibilities are     Formation wells is approximately 6,500
+                                                               on Contractor.      psi.
+
+     Annulus pressure test must be performed                  Page 30, row 51, items 2 (retrieve
+      after retrieve plug and prong from NO-                   prong & plug from NO-GO) & 312                              CM                                                       AP
+                                                                 (connect to annulus & test) have    GO.
+                                                             been included accordingly.
+     Test TWCV against shear Ram must be
+13  performed by 7000 psi.                   30   CM              Done                                        AP
+
+     Offline pressure test of X-mass tree must
+14  be performed by 8000 psi for 15 min.       32   CM              Done                                        AP
+
+    The below sentence must be:
+
+    The highlighted items must be corrected.
+15                                       32   CM              Done                                        AP
+     Pressure test X – Mas tree body, wing
+     valve  and  kill  valve  inflow  test  to
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                       South Azadegan Oilfield Project
+
+                              Contract No:          AZNS – 127 Workover #2
+                                                                                                                        Page 44 of 45
+                            CCA/C/1401/27              Completion Program
+
+     1,000/6,000psi for 5/15 min, Bleed off
+     pressure.
+
+    The below sentence must be corrected:
+
+    The highlighted items must be corrected.
+16                                       32   CM              Done                                        AP    Open  all  valves,  Close SSV,  inflow
+     Pressure test SSV to 1,000/6,000psi for
+     5/15 min
+
+     inflow Pressure test top master valve must       CM
+17  be performed to 8000 psi.                 32                     Done                                        AP
+
+    The below sentence must be corrected:        CM
+
+    NOTE: It is not acceptable to close BMV.
+
+    Open all valves of XMT, Close bottom
+     master valve, connect pumping unit to kill
+18                                       32                        Corrected                                       AP     valve comp. Flange & Pressure test X-
+    Mas tree body, bottom master valve and
+     connection  between X-Mas  Tree and
+     bottom section flange to 6,000psi for 15
+    min against bottom master valve.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                       South Azadegan Oilfield Project
+
+                              Contract No:          AZNS – 127 Workover #2
+                                                                                                                        Page 45 of 45
+                            CCA/C/1401/27              Completion Program
+
+     Completion  fluid  must  be  displaced
+19  below the perforated interval.             CM              Done                                            14   CM
+
+     Mill out extension specification must be
+20  added to the program.                 CM              Done                                CM
+
+                                                             Done                 رشته اقالم شماتیک به مربوط مشخصات با
+    Tubing  hanger  specification  must  be                                                                                                                 .گردد سازی همسان تکمیلی                                                                                                                                            با مطابق برنامه در شده لحاظ فنی مشخصات
+21   compatible with completion schematic.        CM                                                AN                                                                                  سازنده شرکت سوی از اعالمی فنی مشخصات
+                                                                                                                                                                                                         . بالشد می
+                                                                  Fluid Engineering
+         تمیزسازی هت ج Hi-vis pill ساخت دستورالعمل
+1                              CM                                        . گردید اضافه                                       AP                       . گردد لحاظ تکمیلی سیال پمپاژ شروع از قبل چاه
+
+         در و عملیات شروع از قبل O2 Scavenger افزایه                                                                                            انجام ساخت حین در و عملیات شروع از قبل2                              CM                                                       AP
+                                . شود افزوده بایست می خاموش میکسر حالت                                                                                                                                                                                                          . گرددمی

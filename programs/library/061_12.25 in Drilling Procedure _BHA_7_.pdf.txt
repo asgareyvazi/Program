@@ -1,0 +1,326 @@
+# SOURCE: 12.25 in Drilling Procedure (BHA#7).pdf
+
+📄 فایل 61 از 214  |  12.25 in Drilling Procedure (BHA#7).pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  12 1/4”            Rig: FATH 93                   Date:  March-2021
+
+Objective: 12 1/4” Drilling Procedure (2677-3313 m)
+
+DISTRIBUTION:
+PECO WSS               CSG Crew                    H2S Supervisor                Geologist
+NISOC WSS               Mud Logging               HSE                       Waste management
+Tool Pusher               Mud Engineer                Cement Engineer
+      .
+ITEM                            PRE-DRILLING CHECKLIST                             VERIFIED
+  1      Drilling Program of the 12 1/4” Section, Reviewed Before Start of Drilling.                
+  2      Justify Everyone That HSE Issues Are Superior to Any Other Issues. Hold PJSM Before Each Job.       
+  3    Ensure All Personnel Involved in The Job Have Proper PPE.                     
+  4    Mud Logging System is In Service and Tested Against Rig System.                  
+  5      Sufficient Volume of Salt Saturated Mud (Starting MW: 130 PCF) Is Available Prior To Start Drilling.      
+  6    Enough Volume of Hi-Vis Pills Are Available for The Drilling Operation.                 
+  7     Valid inspection reports for drill pipes & all BHA component should be available on rig-site.          
+  8   BHA Details Are Prepared and Sent to WSS by Rig. BHA Component Check List Signed.          
+  9       Drill String, BHA And XO Drifted.                               
+  10     Float Valve of Bit Sub Installed Correctly.                            
+  11    Pre-Made BHA Checked & Documented M/U Torque, ID and OD (Taken from Rig Manager).         
+  12    Check and Gauge Bit, Nozzles, Type and Serial No. According to Plan.                 
+  13    Correct Bit Breaker and Bit Gauges Are Available.                         
+  14    Prepare/ Measure 9 5/8” Casings and Accessories with Centralizer.                  
+  15   Mud Pumps Liners/ Wash Pipe Checked/ Standpipe Tested.                     
+  16    Back-Up Equipment Checked Out and Function Tested.                       
+  17     Pit System and Relevant Lines and Valves Checked for Leakage.                   
+  18    Fishing Tools Relevant to This Hole Section Are Available on Rig and in Good Condition.          
+  19    12 1/4” Drilling Bits are Available on Rig Site (2* PDC M323)                     
+  20    Check 13 5/8” Wear Bushing and test plug to be available.                      
+  21    Contingency Plans Reviewed.                                
+  22    12 1/4” Hole Section Equipment Check List Reviewed.                       
+       Choke line and choke manifold must be lined up for SOFT SHUT-IN. Soft Shut-in procedure should be  23                                             
+        reviewed and rig crew to be trained and updated about the shut-in actions and procedures.
+  24   Be aware of Logging equipment required for this hole Section (CDR/GR and SBT logs)           
+         PRE-DRILLING CHECK LIST SHOULD BE CHECKED AND FILLED BY PECO WELLSITE SUPERVISOR.
+
+                                                                     PECO INTERNAL ©   P | 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  12 1/4”            Rig: FATH 93                   Date:  March-2021
+
+ A) Preparation
+1.  Stand Back DP's as Needed for 12 1/4” Hole Section (3313 m). Regarding the rig Condition, WSS Should decide to Stand DPs
+    Joint by Joint When Running in Hole or Stand Back Drill Pipe Before Start of Drilling.
+2.  Ensure that all Drilling Tools and equipment, as per Section equipment listings, are on board, checked out and in a serviceable
+    condition prior to 13 5/8” casing shoe drill out.
+3.  Prepare 9 5/8” Casings Tally after preparation and measurement of casing joints length.
+4.  Set 13 5/8” Wear Bushing in Place.
+5.   Kill sheet and Trip sheet should be regularly updated during this hole section.
+6.  Well Control Drill should be conducted prior to drilling this hole section.
+
+ B) Drilling Procedure
+
+                                        BHA #7
+1.  P/U & M/U 12 1/4" Drilling BHA as following:
+
+         a)  BHA #7 Configuration:
+                                       12 1/4” BHA No.7 (2677-3313 m)
+              Description              Size            Connection                        No.
+         PDC Bit (M323)          12 1/4”        6 5/8" Reg. Pin Up                    Nozzle: 9*16
+             Bit Sub (Float in)          8 1/2”         6 5/8" Reg B x B
+             DC                8 1/2”         6 5/8" Reg P x B                     2 Jts
+             String Stabilizer          12 1/4”         6 5/8" Reg P x B
+             DC                8 1/2”         6 5/8" Reg P x B                     10 Jts
+                 Drilling Jar            8 1/2”         6 5/8" Reg P x B
+             DC                8 1/2”         6 5/8" Reg P x B                     3 Jts
+             XOS               8 1/2”      6 5/8" Reg P x 4 1/2" IF B
+            DP 'G'                    5”            4 1/2" IF P x B                    As Req.
+
+         b)  Use new 12 1/4” PDC Bit and Drill down to the depth which ROP drops below the acceptable ROP determined by
+                office. If ROP dropped Make a trip to change the Bit to new Bit and RIH with Same BHA Configuration.
+          c)  Use safety clamp and proper slip for all DCs & 5” DPs.
+
+2.   RIH W/ 12 ¼” Drilling BHA#7 to ±2682 m.
+         a)  Take extra care, FIRST TRIP INSIDE CSG.
+         b)  Calibrate & adjust mud logging depth sensor 3 stand before reach to bottom.
+          c)  Pass BOP stack gently.
+         d)  F/U & break circulation after RIH BHA.
+         e)  Record BHA weight below jar
+             f)   After RIH drilling jar Circ to check for any probable wash out in Jar mandrel.
+
+3.   Drill Ahead 12 ¼” hole section to ±3002 m.
+         a)   Drilling Parameters:
+         WOB: 20-40 Kips, GPM: 600-800, RPM: 110-180
+
+            Note: Perform Drill-Off test to Optimize the drilling Parameters according to Procedure.
+
+                                                                     PECO INTERNAL ©   P | 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  12 1/4”            Rig: FATH 93                   Date:  March-2021
+
+         b)  Warm Up and Profile the Bit and continue drilling first 10 m with low parameters to avoid bit damage.
+          c)  After drilling each stand, BR/RD last joint and make sure to clear slips area.
+         d) MW would be gradually increased based on hole Condition to max weight of 137 PCF.
+         e)    It is recommended not to drill Gachsaran Formation With NL-NG condition. Ensure drilling overbalance.
+             f)  Do not make a trip in tight Hole Condition. Clear tight hole before tripping in & Out. Gachsaran Formation is highly
+              sensitive to Swabbing.
+         g)   Drilling parameters & BHA design may be modified to Keep the hole vertical.
+         h)  Record PU/SO HL regularly & off-BTM TQ & monitor the trend.
+              i)    Driller should consider any abnormal behavior of drill string due to probable bit whirl, bit bouncing & etc. in case of
+           such indications immediately inform WSS to adjust drilling parameters.
+              j)   Shakers must be checked for amount & shape of cuttings.
+          k)  BR/RD each drilled STD prior to connection. Do not forget to take P/U, S/O weight & rotation weight prior to M/U next
+             Std.
+              l)   Never go for connection if hi-TQ/hi-pressure observed, keep circulating and reaming till normal situation.
+       m)   If over pull  / pack-off occur when reaming upwards, move pipe down and reduce pump rate immediately to avoid
+             formation breakdown.
+         n)  Perform 13 5/8” BOP tests according to plan.
+         o)   In case of observing bit balling indication, Take necessary prompt action.
+
+4.  Pump 50 bbl Hi-Vis pill, Circ till Shaker Clean.
+5.  Perform Wiper Trip to 13 5/8” CSG Shoe. (if the Bit Performance was OK, RIH to BTM to Continue Drilling. Whether
+    else, RIH to BTM, Circulation BTMs Up till shaker clean, POOH to change the bit to new bit and RIH to BTM with Same
+   BHA Configuration- BHA#8)
+         a)  During Tripping out of the hole, Observe the well at shoe and also when tripping out the BHA.
+6.  RIH to BTM, Continue Drilling to 3313 m (Section TD).
+                Drilling Parameters:
+         WOB: 20-40 Kips, GPM: 600-800, RPM: 110-180
+
+7.  At TD, Pump 50-70 bbl Hi-Vis pill, Circulate till Shaker Clean.
+8.  Perform Wiper Trip to ±2950 m. RIH to BTM. Perform Condition Trip Prior to 9 5/8” Casing Running. RIH to BTM.
+    Circulate BTMs Up till shaker Clean. Spot 100 bbl Hi-Vis Pill @ bottom.
+9.  POOH to surface. Observe the well at Shoe.
+         a)  While Pulling out of hole,  if observed less than 10-15 kips Drag, reciprocate string & try to pass the point.  If not
+           succeed try to pass w/ pump out. If observed more than 10-15 kips drag establish Circ & Rotation, W&R to clear tight
+              spot.
+
+10. Test BOP Stack and all Related Lines as NIOC POLICY.
+11. R/U Wireline logging equipment. Hold PJSM.
+12. Run CDR/GR Log. POOH Logging Equipment.
+13. Change Top Rams to 9 5/8”.
+14. Prepare and R/U Casing Running Equipment.
+15. Run and Cement 9 5/8” Casing String According to related Procedures.
+
+                                                                     PECO INTERNAL ©   P | 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  12 1/4”            Rig: FATH 93                   Date:  March-2021
+
+ C) Contingency / First Action Plans
+Loss Strategy:
+
+       Losses less than 10 bbl/hr:
+       ➢ No action to be taken, but close monitoring of the loss shall be made
+       Losses 10 - 30 bbl/hr:
+       ➢ Load Kwik-Seal F in system up to 10 ppb
+                     If no success, then:
+         ➢   Pump 50 bbl LCM pill containing:
+                     ▪  5 ppb Mica Medium
+                     ▪  10 ppb Walnut Shells Fine
+                     ▪  10 ppb Kwik-Seal Fine
+                     ▪  5 ppb CaCO3-M
+                     ▪  5 ppb CaCO3-C
+                     Note: System is loaded gradually from low concentration to maximum mentioned ranges.
+       Losses 30 – 100 bbl/hr:
+       ➢ Load CaCO3 Medium & Coarse in active system up to 5 ppb of each
+       ➢ Load Kwik-Seal F in system up to 10 ppb
+         If needed / required; shaker-man should be ready for managing a part of the return flow toward the mud pits
+                   by-pass the shakers to avoid screens get blinded and LCM get wasted. However, this is a matter of
+                      operation-dictated decision.
+                     If no success, then:
+      ➢ Stop Drilling
+      ➢ Pull out string above the loss zone
+      ➢ Spot 60-90 bbl pill containing:
+                ▪ Pre-Hydrated Bentonite 5-10 ppb
+                ▪ 6-10 lb/bbl Kwik-Seal F
+                ▪ 6-10 lb/bbl Kwik-Seal M
+                ▪ 6-10 lb/bbl Walnut-Shells F
+                ▪ 6-10 lb/bbl Mica M
+                ▪ 20-30 lb/bbl CaCO3-F, M
+                ▪ Repeat this pill for two times
+    ➢  If LCM pill at above concentration cannot pass through the string (bit nuzzles, etc.), we need to pump the pill through a
+          Mule-Shoe while following the procedure of the next state.
+       Losses more than 100 bbl/hr to Total Losses:
+          In the event of severe losses, Squeeze Pills, Barite or CaCO3 or Cement Plugs, Silicate Pill or Cross-Linking Pills should be
+         pumped to minimize losses.
+
+ LCM Pill Application Procedure
+  1.  After spotting LCM pill over thief zone, pull the bit above the calculated top of the pill. Wait 30 minutes and monitor the annulus.
+      After 30 minutes, attempt to fill the annulus, if not already full.
+
+                                                                     PECO INTERNAL ©   P | 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  12 1/4”            Rig: FATH 93                   Date:  March-2021
+
+  2.   If the hole can be filled, close the BOP and squeeze 10 bbl of LCM pill into the formation without exceeding 200 psi.
+  3.   If the hole remains stable, continue to drill ahead.
+  4.   If the LCM pill failed to reduce the losses or the hole cannot be filled, then mix and spot another 50 bbl of LCM pill.
+  5.  Attempt to fill the annulus. If successful, close the BOP and squeeze 20 bbl of LCM pill into the formation without exceeding 200
+       psi.
+  6.   If a squeeze pressure develops, hold pressure for 1 hour before running the string to bottom.
+
+  First Actions (Best practice):
+
+  Pipe stuck
+     ▪  In case of Pack off reduce FR or bleed off press & make sure to keep SPP below 500 psi, TQ. Up string and work
+     downward till get normal rotation and circulation.
+     ▪  In case of differential stuck If String is Off-BTM, Torque up string and work downward between.
+     ▪  Always rotate, reciprocate with pump on whenever operations are stopped.
+
+  Loss
+     ▪  P/U string off-BTM, Reduce flow rate.
+     ▪  Check all pit levels for any valve leakage.
+     ▪   If Downhole Loss confirmed follow the Loss strategy.
+
+  Drilling Break (fast drilling) or Gain
+     ▪   If ROP Suddenly increased significantly or Pit Levels Increasing, P/U String off BTM.
+     ▪  Slow Circ & Monitor Active Pit Level. If Levels was static, Resume DRLG. If Pit Levels was increasing, Perform Positive
+     Flow Check.
+     ▪   If well Flowing, Shut in the diverter & Circ out the kick.
+
+  Stand pipe pressure Drop
+     ▪  Continuously Monitor Off BTM & On BTM Press.
+     ▪  In case of press drop, P/U String off BTM, stop rotation, Decrease Circulation to minimum.
+     ▪  Check all surf Lines & Equip. Check Pit room for any Mud transferring or adding any Mud material to Active. Take MW & F.
+      Vis in/out. Check Pit Level.
+     ▪  Close IBOP & Press test Surf Lines.
+     ▪   If Surf OK, Take SCR & Compare same with Last SCR.
+
+  Bit balling
+     ▪  P/U String 2-3 ft off bottom.
+     ▪  Apply High RPM to bit for 2 min;
+     ▪  Jerk the string up and down for 1 min
+     ▪  Stop for 1 minute.
+     ▪  Repeat above sequence for another 15 min
+     ▪ Tag bottom with maximum bit RPM and apply high FR before tagging bottom
+     ▪ Resume drilling with lower WOB.
+     ▪   If previous actions not succeed, prepare to pump Balled Up Remover pills, leave to soak and try to dissolve balled material.
+
+                                                                     PECO INTERNAL ©   P | 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  12 1/4”            Rig: FATH 93                   Date:  March-2021
+
+ D) Section Notes:
+•   During drilling be aware of saltwater flow, Cut MW, Mud properties variation, especially hardness.
+•    Kill sheet and Trip sheet should be regularly updated during this hole section.
+•   Consider BHA component & surface drilling system abrasion due to high solid content of heavy mud, visually inspection for
+    corrosion or wear on each connection / trip.
+•   Centrifuge should be used mostly in Barite Recovery mode to control excess drill solid/MBT in this section.
+•   Conduct SCR on each shift or every 100 m drilled or whenever mud weight or rheology properties changed.
+•   Before ending 12 ¼” Hole section and reaching Asmari formation, H2S services equipment should be available on rig and ready
+     to operate.
+•  Mud engineer is responsible to monitor shaker condition & maintaining enough high-vis pill & mud, mud material, Drill water &
+    inform company man any intense changes.
+•   For Timing of Each Operation, Refer to Drilling Program (section 1.9.1 Detail Time Breakdown).
+•  Mud Logger Should Closely Monitor and Report Drilling Parameters.
+•  Mud Engineer Shall Report Volume of Over Flow in Different Flow Rate to Company Man.
+•     If frequent tight holes are encountered, care should be given to clear the tight holes with regular Wash & Ream. If tight holes
+    not cured, Adjustment of Mud weight and Mud rheological properties should be considered (Based on Office Decision).
+•  H2S Service should be Rigged Up at the end of 12 ¼” Hole Section, Before Drill out of 9 5/8” Casing Shoe.
+
+▶  Offset Wells Problems in Gachsaran Formation:
+    ▪   Well Flow in GS FM Cured by MW Increase: SI-004, SI-005
+    ▪   Tight hole in GS FM cured by W&R and MW increase: SI-004, SI-005
+    ▪  Mud Losses (20-80 bbl/hr w/133-135 PCF) at base of GS FM cured by Cement: SI-001, SI-003
+    ▪   Swabbing Followed by Well Flow is highly probable in GS FM due to A) tight hole frequency B) Bit Balling Probability
+
+ E) Safety Recommendation:
+ WORK SAFE; ALWAYS ASK YOURSELF HOW CAN I GET HURT IF I DO THIS TASK.
+•  Safety Standards and Policy of PECO Should Be Followed During Drilling Operation.
+•    It is Not Expected to Encounter Shallow Gas, Since No Shallow Gas Has been Observed in Offset Wells of the Field.
+•  In Case of Any Deviation or Advise for This Instruction Call Co. Man ASAP.
+•   All Rig Crew Should Follow and Cooperate with Job Specialists as Per This Instruction.
+•  Mud Eng. Is Responsible for Monitoring & Report Pit Levels During Operation.
+•  Choke line and choke manifold must be lined up for SOFT SHUT-IN.
+
+  F) Section Summary:
+
+The 12 ¼’’ Hole Section is Drilled through high pressure zones of Gachsaran Formation From 2677 m to 3313 m and 9 5/8’’
+Casing will be set at ± 3313 m in Cap Rock and cemented in one stage. Salt Saturated Polymer Mud (130-137 pcf) is used for
+drilling the section. According to previous wells, there are risks of well flow from Gachsaran high pressure zone, tight holes and
+swabbing. CDR/GR and SBT logs are performed to evaluate the well path and cement quality behind the 9  5/8’’ casing,
+respectively. 13 5/8"-3K * 11''-5K T.H.S and 13 5/8’’-5K BOP Stack are nipple up at the end of the section.
+
+                                                                     PECO INTERNAL ©   P | 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  12 1/4”            Rig: FATH 93                   Date:  March-2021
+
+    G) Predicted lithological Sequence of 12 ¼” Hole Section
+
+                                                                     PECO INTERNAL ©   P | 7

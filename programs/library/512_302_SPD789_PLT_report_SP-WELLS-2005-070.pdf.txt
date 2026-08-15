@@ -1,0 +1,2611 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 74 ]
+────────────────────────────────────────────
+Title:
+
+                                   SP678 PLT’s
+
+                                   Phases 6, 7 & 8
+                                      South Pars
+
+
+Document no.:                            Contract no./project no.:                           Filing no.:
+
+SP-WELLS-2005-070
+
+
+Classification:                                                           Distribution:
+Restricted                                       Restricted
+
+
+Distribution date:               Rev. date:                    Rev. no.:                      Copy no.:
+
+December 2005                              0
+
+
+Author(s)/Source(s):
+
+Jon Helge Rasmussen
+
+Gunnar Halvorsen
+
+Leif Larsen
+
+Subjects:
+
+PLT, South Pars
+
+
+
+
+
+Remarks:
+
+
+
+Valid from:                                                Updated:
+
+
+
+Responsible publisher:                                            Authority to approve deviations:
+
+
+
+Technical responsible:                Name:                                    Date/Signature:
+                                    Jon Helge RasmussenPetroleum Engineers
+                                   Gunnar Halvorsen
+                                                Leif Larsen
+Recommended:                     Name:                                    Date/Signature:
+
+Subsurface Manager                   Reidun Rovde
+
+Approved:                         Name:                                    Date/Signature:
+
+Wells Manager                         Per Haaland
+
+
+
+
+
+                                                                   Page 1 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+Table of contents
+
+
+1       Introduction and Background ............................................................................................................. 4
+2             Summary................................................................................................................................................ 4
+3     PLT in SPD7-09..................................................................................................................................... 5
+3.1     Summary and Conclusions...................................................................................................................... 5
+3.2      Data quality............................................................................................................................................. 5
+3.3          Interpretation........................................................................................................................................... 6
+3.3.1       General.................................................................................................................................................... 6
+3.3.2    Flowing ................................................................................................................................................... 8
+3.3.3    Shut in ..................................................................................................................................................... 9
+4       Pressure Buildup in SPD7-09............................................................................................................. 28
+5     PLT in SPD9-15................................................................................................................................... 34
+5.1     Summary and conclusions..................................................................................................................... 34
+5.2      Data quality........................................................................................................................................... 34
+5.3          Interpretation......................................................................................................................................... 36
+5.3.1       General.................................................................................................................................................. 36
+5.3.2    Flowing ................................................................................................................................................. 37
+5.3.3    Shut in ................................................................................................................................................... 38
+6       Pressure Buildup in SPD9-15............................................................................................................. 56
+7             Appendix.............................................................................................................................................. 61
+7.1      Calibration Plot well SPD7-09.............................................................................................................. 61
+7.2      Calibration Plot well SPD9-15.............................................................................................................. 65
+7.3      Probes - holdup and bubble count raw data - well SPD7-09 ................................................................ 67
+7.4      Probes - holdup and bubble count raw data - well SPD9-15 ................................................................ 71
+
+
+
+
+
+                                                                   Page 2 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+
+
+Distribution list
+
+
+ No.                           Name                No of
+                                                                       copies
+  1-4   POGC                                Per Haaland                     4
+  5-6    Petropars                             Per Haaland                     2
+  7    South Pars archive, Dubai              Joy de Leon                      1
+  8     South Pars archive, Stavanger           Greta Ulstein Drengstig            1
+ 9-10   South Pars archive, Tehran              Per Haaland                     2
+  11    Wells Manager                        Per Haaland                     1
+  12    Deputy Wells Manager                Morteza Chamanifard              1
+  13    South Pars Project Manager            Harald Håland                    1
+  14     Drilling Manager South Pars           Helge Håland                    1
+  15    Subsurface Manager South Pars        Reidun Rovde                    1
+  16     Drilling Superintendent Rani Woro      Kristen Wanvik                   1
+  17     Drilling Superintendent SagaDril 2      Trond Røsbak                    1
+  18    Well Engineering Leader              Brage Johannessen                1
+  19    Lead Drilling Engineer                   Jostein Vestvik                   1
+  20    Lead Completion Engineer            Alv Sigve Teigen                 1
+  21    Reservoir Engineer                    Jon-Helge Rasmussen              1
+  22    Production Engineer                   Bjørn Jensen                     1
+  23     Specialist well testing                   Leif Larsen                      1
+  24    Advisor Production Technology        Gunnar Halvorsen                 1
+
+
+
+
+
+                                                                   Page 3 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+1  Introduction and Background
+
+      Upon request from POGC and in agreement with Statoil/Petropars, two PLT
+        survey were run on SouthPars phases 6,7 & 8. One in well SPD7-09 and one
+         in well SPD9-15. They were carried out immediately after completion and
+        clean-up in October (SPD7-09 on Sagadril-2) and November (SPD9-15 on
+       RaniWoro.
+
+       Both wells were logged with Sclumberger MPSP (Memory Production
+        Service Platform). Log interpretations and analysis was done using the
+        Emeraude-software by Statoil in Norway.
+
+2 Summary
+
+       Rig operations and data acquisition were carried out successfully on slick-
+         line for both PLT-logged wells. To minimize risk of surface wash-out,
+      maximum flow rates were limited to 85 MM Scf/d.
+
+         Productivity in PLT-logged wells are excellent – same as all other open hole
+        completion in phase 6,7 & 8. Gas rates of approximately 85 MMScf/d
+        produced with 11-14 bar (180 psi) drawdown.
+
+        For both wells logged productivity is surprisingly high in upper part of the
+       pay zone (K1 and K2). In well (SPD7-09) flow contribution from K1 is
+        approximately 80 % out total flow. In well SPD9-15 K2 has around 80 %
+        flow contribution.
+
+          Initial PLT’s give no or marginal flow contribution from lower levels of
+        wellpath (K3 and K4). This is caused by liquid-overbalance against lower
+         levels during logging with relative moderate production rates (85/86 MM
+         Scf/d).
+
+        After some weeks/months of high and stable production, wellbore and
+         reservoir contribution will go into equilibrium. I.e. according to the KH-
+         relationship, flow history and boundaries in the different layers of the
+         reservoir.
+
+     A four hours build-up was carried out right after flowing for both wells.
+        Information from the buildup tests are discussed in the report. They both
+        prove high KH-relationship.
+
+
+
+
+
+                                                                   Page 4 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+3 PLT in SPD7-09
+
+3.1 Summary and Conclusions
+
+Well SPD 7-09 was logged with a production logging tool string from Schlumberger
+(PSP), with memory on slikcline. The operation was performed after initial clean up
+and consisted of logging at 3 different rates and at shut in conditions. Logging data
+were acquired during 3 up and 3 down passes at each rate and shut in. Stationary data
+were recorded for transient buildup test analysis at shut in conditions.
+
+Logging in flowing well gave the following principal flow contributions:
+
+       - More than 80% from upper K1 formation
+       - Approx 20% from K2 and upper K3 formation
+
+The flow profiles are shown in figures 4.1 and 4.2. Tabulated profiles at each rate is
+shown in Chapter 4.2 ‘Interpretation’.
+
+Maximum production depth during production logging was approximately 3635
+mMD RT, determined from temperature data. The reason why lower parts of the well
+are not contributing to flow is because of overbalance against formation at logged
+rates. This is due to 1) drilling mud that has not yet been lifted out of the well and/or
+2) because rate (and drawdown) is relatively low.
+
+At maximum drawdown/rate there is overbalance almost up to 3670 mMD RT in the
+K3 formation. Pressure versus vertical and measured depth is shown in figures 4.3 and
+4.4 respectively.
+
+Logging at shut in conditions indicated no cross-flow activity in the well.
+
+3.2 Data quality
+
+The production logging data acquired have overall good quality and can be used for
+conclusive analysis. Raw data is shown in figures 4.9 through 4.16.
+
+Spinner data
+Quality of the fullbore spinner data is good. However, the fluid and flowing
+conditions in the well complicate the interpretation in parts of the interval. The
+spinner response and characteristics (slopes and thresholds) vary with depth,
+depending on the fluid phases present. Also, recirculation effects are evident from
+comparison of spinner data with other data in the transition zone of gas and
+mud/condensate at different rates.
+
+
+
+
+                                                                   Page 5 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+Quality of the inline spinner data is bad. Spinner is completely or partly blocked in
+most of the logging passes. Inline spinner was completely blocked in shut in well.
+This does not compromise the interpretation, since fullbore spinner data are used for
+analysis.
+
+Caliper data
+Quality of data is satisfactory. Measured data are reasonably consistent with
+completion dimensions.
+
+Holdup data
+Quality of data is reasonably good. Down passes are best. The data indicate the levels
+of different fluid phases in the well; gas, transition zone and mud zone in the well.
+The probes will be missing the hydrocarbon (gas) phase where gas is flowing on the
+high side of the well, in the annulus.
+
+Pressure data
+Quality of the data is good, and they repeat well. Data have been used to derive fluid
+density. Derived gas density is in accordance with expected downhole density of gas.
+
+Temperature
+Quality of the temperature data is good in gas phase and repeat well. Data are
+reasonably good in the transition zone of gas and mud/condensate. Where mud is
+dominating the wellbore in the lower part of the well, there is a large discrepancy
+between the passes, depending on logging direction and logging speed. This is
+probably caused by viscous and high density mud being too viscous to keep the
+temperature sensor clean and exposed to ‘fresh’ fluid while logging. This is seen
+when comparing temperature data from different log passes, up/down and at different
+logging speeds. Also, segregated flow effects and recirculation effects may together
+with varying temperature sensor positioning have an effect on the temperature
+measurements. Temperature from fast down passes seem to be the most representative
+of fluid temperatures at allocated depths. See fig 4.18 and 4.19 for temperature plots.
+
+Auxiliary data
+Gamma ray data show good quality and all the PL data are easily correlated on depth.
+CCL (casing collar locator) also show good data quality and indicate the positions of
+the liner joints.
+
+3.3 Interpretation
+
+
+3.3.1  General
+
+The well is completed with a predrilled liner in open hole. In addition to tubular flow,
+flow occur in the annulus on the outside of the predrilled liner. This is seen from
+spinner raw data and from interpreted velocity. Flow merges into the liner from the
+top section of predrilled liner, above top reservoir. The schematic rate data and
+
+
+
+                                                                   Page 6 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+tabulated results have been corrected for this by multiplying with a factor equal to the
+ratio of velocity above top section of predrilled liner divided by the velocity below.
+The average match factor of 1,17 was used for each logging rate.
+
+There is a transition zone in flowing well, with a mix of gas and mud. Spinner data in
+the transition zone are not reliable for quantitative interpretation due to segregation of
+fluid phases in the wellbore and recirculation heavy phase, causing complex spinner
+responses.
+
+Top of the transition zone at end of logging passes at each rate:
+(max depth of pure gas, detected from pressure and pressure derived density)
+
+Max rate: 3380 mMD RT (moving slightly up during logging period)
+Med rate: 3380 mMD RT (constant)
+Min rate: 3345 mMD RT (constant)
+Shut in:  3500 mMD RT (constant)
+
+In the mud column below the transition phase, the spinner response characteristics are
+varying with the properties of the mud, with decreasing slope and increasing threshold
+with mud density. Mud density, and probably viscosity, is increasing with depth.
+Fullbore spinner data from lower part of the well are shown in fig 4.17.
+
+For rate interpretation, single phase gas is assumed in flowing well. Both gas and
+liquid (condensate/mud) are present in the well, but the flowing phase above top of
+the transition zone is pure gas. Gas holdup is close to 100% where spinner data have
+been used for rate interpretation. Gas production below top of the transition zone is
+taken as gas rate estimated immediately above top of transition zone.
+
+Spinner and temperature data indicate production down to at least 3635 mMD RT at
+maximum and medium production rate.
+
+Plot of pressure versus vertical and measured depth respectively is shown for each
+flow rate and at shut in conditions in fig 4.3 and fig 4.4. Extrapolation of the shut in
+pressure curve in gas phase indicate the effective drawdown (or overbalance) at each
+rate versus depth, assuming uniform pressures. At the intersection, there is pressure
+balance between formation and well and hence no drawdown. Below this point, there
+is overbalance and no possibility of flow (except segregation and phase change out).
+Above the intersection there is drawdown and possibility of flow.
+
+Depths of the intersection, i.e. the balance point of zero drawdown is approximately
+the following at each rate:
+
+Max rate:    3670 mMD RT (K3 formation)
+Med rate:    3655 mMD RT (K3 formation)
+Min rate:     3605 mMD RT (K3 formation)
+
+
+
+
+                                                                   Page 7 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+3.3.2  Flowing
+
+
+High rate
+The pressure plot indicate drawdown down to approximately 3670 mMD RT. Logged
+data indicate inflow from formation down to at least 3635 mMD RT.
+
+Spinner data in transition zone approx. 3385-3550 mMD RT, are not reliable for fluid
+velocity interpretation due to segregated flow and recirculation effects. Data below
+3550 mMD RT are interpretable with respect to velocity, but must be interpreted with
+variable spinner slopes and threshold. Also, these data do not reflect average fluid
+velocity. Interpreted velocity is partly negative, which indicate ‘apparent downflow’;
+i.e. recirculation effects due to gas flowing on the high side of the wellbore.
+
+From 3550 to bottom logging interval, velocity is calculated from all passes, with a
+variable spinner calibration but fixed ratio of positive slope versus negative slope.
+Velocity data have been interpolated through the transition zone.
+
+Main flow entry is in formation K1 down to approx 3380 mMD RT. Inflow below this
+point is probably limited to immediately beneath and from the interval approximately
+3625-3635 mMD RT, based on temperature profile.
+
+ Inflow zone  Formation    From      To      dQres    dQsc    Contribution
+     #           mMD RT  mMD RT     cf/d    MMscf/d   % sc
+     1-2    K1          3267.8     3385    277268    75.2      81.8 %
+     3     K1+K2+K3   3385     3635    62049     16.8      18.2 %
+     4     K3          3635     3742      0        0.0        0.0 %
+     5     K4          3754     3858      0        0.0        0.0 %
+    Total                                  339317    92.0     100.0 %
+
+Medium rate
+Medium rate is close to maximum logging rate and the logging data and results do not
+differ much from maximum rate. The pressure plot indicate drawdown to
+approximately 3655 mMD RT. Logged data indicate inflow from formation down to
+at least 3635 mMD RT.
+
+Top of the transition zone with a mixture of gas and mud has moved 10 meters up,
+starting at approximately 3370 mMD RT. Spinner data between this depth and 3550
+mMD RT are again non-interpretable. Also, the data show apparent downflow down
+to 3625 mMD RT. Furthermore, the same trends apply to density and temperature as
+for maximum rate.
+
+The resulting flow profile from medium rate is quite similar to maximum rate.
+
+ Inflow zone  Formation    From      To      dQres    dQsc    Contribution
+     #           mMD RT  mMD RT     cf/d    MMscf/d   % sc
+     1-2    K1          3267.8     3385    267092    72.5      82.8 %
+
+
+
+                                                                   Page 8 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+     3     K1+K2+K3   3385     3635    55643     15.1      17.2 %
+     4     K3          3635     3742      0        0.0        0.0 %
+     5     K4          3754     3858      0        0.0        0.0 %
+    Total                                  322736    87.6     100.0 %
+
+Low rate
+The pressure plot indicate drawdown down to approx. 3600 mMD RT. Logged data
+indicate inflow from formation down to at least 3570 mMD RT.
+
+Top of the transition zone from gas to gas/mud has moved down to approximately
+3450 mMD RT. Reason for this is that the lifting capacity of the gas flow is reduced
+compared to the previous rates.
+
+As for high and medium rates, recirculating effects and low velocity of gas through
+the mud column cause the fullbore spinner to become unreliable with respect to rate
+interpretation in the interval approx. 3445-3500 (3560) mMD RT.
+
+ Inflow zone  Formation    From      To      dQres    dQsc    Contribution
+     #           mMD RT  mMD RT     cf/d    MMscf/d   % sc
+    1-2-3    K1          3267.8     3445    163299    44.6      94.9 %
+     4     K1+K2+K3   3445     3635     8766      2.4        5.1 %
+     5     K3          3635     3742      0        0.0        0.0 %
+     6     K4          3754     3858      0        0.0        0.0 %
+    Total                                  172066    47.0     100.0 %
+
+
+
+3.3.3  Shut in
+
+Raw data and velocity calculated from fullbore spinner do not indicate any flow
+activity in shut in well.
+
+Due to varying fluid properties, spinner characteristics and quality of data in the liquid
+zone below 3520 mMD RT, velocity has been calculated schematically within the
+liquid zone in intervals with good spinner data, from two fastest up and down passes
+with variable spinner calibration and fixed ratio of positive/negative slope. In the gas
+phase, conventional spinner analysis with fixed slopes and thresholds were used.
+Maximum calculated velocity is less than 6 m/min and is within the uncertainty of the
+calculations.
+
+Based on pressure and pressure derived density, the well has segregated phases of
+fluids, with gas (density 0,25 g/cc) down to 3498 mMD RT, condensate (0,67 g/cc)
+down to 3515 mMD RT and mud below this depth. Density of the mud increases
+successively with depth to a maximum of 2,3 g/cc at 3830 mMD RT (maximum
+logging depth).
+
+
+
+
+
+                                                                   Page 9 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of
+                                                                           10
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                              well
+                                                                                                                                                                                                                                                                                                                                producing
+                                                                                                           and
+ no.                                                                     in Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                               shut
+                                                                       in
+                                                                                                                                                                                                                                                                                             profilesreport
+                                                                                                                                              rate
+PLT
+
+
+  8
+  &
+  7                                                                                                                                                                                                                                                                                             downholeSPD9-15)  6,
+&      Phases                                                                                                                                                                                                                                                                                                         Schematic(SPD7-09        Pars
+                                                                                                                                              4.1:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                 well
+                                                                                                                                                                                                                                                                                                                                       producing
+                                                                                                             and
+                                                                         in
+                                                                                                                                                 shut
+                                                                         in
+                                                                                                                                                                                                                                                              density 74
+                                                                                                             and of                                                                           11
+                                                                                                                                                      Page       no.                                                                                                                                                                                                                                                                           pressure
+
+
+    0
+          Rev.                                                                                                                                                                                                                                                                                                                                                                                                                temperature,
+                                                                                                                                                                                                                                                                                                                                       profiles, no.
+                                                                                                                                                 rate Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                                  downhole
+report
+PLT  8                                                                                                                                                                                                                                                                                                               schematic
+  &  7                                                                                                     andSPD9-15)  6,
+&      Phases                                                                                                                                                                                                                                                                                                                                                                           Continuous(SPD7-09        Pars
+                                                                                                                                                 4.2:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of
+                                                                           12
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.
+                                                                                                                                               well
+                                                                                                                                                                                                                                                          flowing
+                                                                                                           and no.
+                                                                       in Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                               shut
+                                                                                                           for
+                                                                                                                                                                                   depthreport
+PLT  8                                                                                                                                                                                                                                                                         vertical
+  &
+  7SPD9-15)  6,                                                                                                                                                                                                                      versus
+&      Phases                                                                                                                                                                                                                                                                                              Pressure(SPD7-09        Pars
+                                                                                                                                               4.3:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of
+                                                                           13
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.
+                                                                                                                                                 well
+                                                                                                                                                                                                                                                              flowing
+                                                                                                             and
+ no.                                                                       in Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                  shut
+                                                                                                             for
+                                                                                                                                                                                     depth
+report
+PLT  8                                                                                                                                                                                                                                                                              measured
+  &
+  7SPD9-15)  6,                                                                                                                                                                                                                          versus
+&      Phases                                                                                                                                                                                                                                                                                                  Pressure(SPD7-09        Pars
+                                                                                                                                                 4.4:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                  profiles
+                                                                                                                                                 flow
+                                                                                                                                                                                                                                                                                                                                                                           continuous
+                                                                                                             and
+                                                                           74
+                                                                           of
+                                                                           14                                                                                                                                                                                                                                                                                                                                                                                                               incremental Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                           schematic,
+                                                                         as
+                                                                                                                                                                                     shown
+ no.                                                                                                                                                                                rates Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                                  downhole
+report
+PLT  8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          interpretation,
+  &
+  7                                                                                                                                                 rateSPD9-15)  6,
+&      Phases                                                                                                                                                                                                                                                              Maximum(SPD7-09        Pars
+                                                                                                                                                 4.5:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                  profiles
+                                                                                                                                                 flow
+                                                                                                                                                                                                                                                                                                                                                                           continuous
+                                                                                                             and 74
+                                                                           of
+                                                                           15
+                                                                                                                                                      Page                                                                                                                                                                                                                                                                                                                                                                                                               incremental       no.
+
+
+
+    0          Rev.
+                                                                                                                                                                                                                                                                                                                                                                           schematic,
+                                                                         as
+                                                                                                                                                                                     shown
+ no.                                                                                                                                                                                rates Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                                  downhole
+report
+PLT
+
+
+  8  &                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          interpretation,
+  7SPD9-15)  6,                                                                                                                                                 rate
+&      Phases                                                                                                                                                                                                                          Medium(SPD7-09        Pars
+                                                                                                                                                 4.6:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                  profiles
+                                                                                                                                                 flow
+                                                                                                                                                                                                                                                                                                                                                                           continuous
+                                                                                                             and
+                                                                           74
+                                                                           of
+                                                                           16                                                                                                                                                                                                                                                                                                                                                                                                               incremental Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                           schematic,
+                                                                         as
+                                                                                                                                                                                     shown
+ no.                                                                                                                                                                                rates Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                                  downhole
+report
+PLT
+
+
+  8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                interpretation,
+  &
+  7SPD9-15)  6,                                                                                                                                       rate
+&      Phases                                                                                                                                                                                                                                            Minimum(SPD7-09        Pars
+                                                                                                                                                 4.7:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                  profiles
+                                                                                                                                                 flow 74of
+                                                                           17
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                                                                                                                                               incremental
+
+    0          Rev.                                                                                                             and
+                                                                                                                                                                                                                                                                                                                                       schematic
+                                                                         as
+
+ no.                                                                                                                                                                                     shown Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                     rates
+report                                                                                                                                                                                                                                                                                            downhole
+PLT
+
+
+  8
+  &
+  7SPD9-15)  6,&                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    interpretation,
+                                                                         in            Phases
+                                                                                                                                                 Shut(SPD7-09        Pars
+                                                                                                                                                 4.8:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                    corrected)
+                                                                                                                                                                                                                                                                                                                                deviation
+                                                                                                                                              (not
+                                                                                                                                                                                                                                                         density
+                                                                                                                                                                                                                     pseudo
+                                                                                                                                                                                                                                                         derived
+                                                                           74
+                                                                           of
+                                                                           18                                                                                                                                                                                                                                                                                                                                pressure,
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                                                                                           temperature,
+                                                                                                                                                                                                                                                                                             spinner,
+
+
+ no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      fullbore&inline
+                                                                                                                                                                                                                     speed,report
+                                                                                                                                                                                  cablePLT
+
+
+  8  &                                                                                                                                                                     data;
+  7SPD9-15)  6,                                                                                                   raw
+&      Phases                                                                                                                                    rate
+                                                                                                           Max(SPD7-09        Pars
+                                                                                                                                              4.9:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                              bearing
+                                                                           19
+                                                                                                                                                 tool
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                                  relative
+
+    0          Rev.
+                                                                                                                                                                                                                                                                                                                                       calipers,
+                                                                                                                                                 GR),
+
+
+ no.                                                                                                                                                                                                                                                                                                                                       open-hole Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                     (incl
+
+report                                                                                                                                                                                                                                                                                                  gammaray
+PLT
+  8                                                                                                                                                                         data;
+  &
+  7                                                                                                             rawSPD9-15)  6,
+&      Phases                                                                                                                                       rate                                                                                                             Max(SPD7-09        Pars                                                                                                                                                                                     4.10:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                           corrected)
+                                                                                                                                                                                                                                                                                                                                       deviation
+                                                                                                                                                 (not
+                                                                                                                                                                                                                                                              density
+                                                                                                                                                                                                                          pseudo
+                                                                                                                                                                                                                                                              derived
+
+
+                                                                           74                                                                                                                                                                                                                                                                                                                                       pressure, of
+                                                                           20
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                                                                                                                                                                                   temperature,
+
+    0          Rev.
+                                                                                                                                                                                                                                                                                                  spinner,
+
+
+
+
+ no.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                fullbore&inline Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                          speed,
+                                                                                                                                                                                     cablereport
+PLT                                                                                                                                                                                 data;
+
+
+  8                                                                                                             raw
+  &
+  7SPD9-15)  6,                                                                                                                                       rate
+&      Phases                                                                                                                                                                                                          Medium(SPD7-09        Pars                                                                                                                                                                                     4.11:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                              bearing                                                                           74
+                                                                           of                                                                                                                                                 tool
+                                                                           21
+                                                                                                                                                      Page                                                                                                                                                                                                                                                                                                  relative
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                       calipers,
+                                                                                                                                                 GR),
+                                                                                                                                                                                                                                                                                                                                       open-hole no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                  (incl
+                                                                                                                                                                                                                                                                                                  gammarayreport
+PLT                                                                                                                                                                                 data;
+
+
+  8                                                                                                             raw
+  &
+  7SPD9-15)  6,                                                                                                                                       rate
+&      Phases                                                                                                                                                                                                          Medium(SPD7-09        Pars                                                                                                                                                                                     4.12:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                           corrected)
+                                                                                                                                                                                                                                                                                                                                       deviation
+                                                                                                                                                 (not
+                                                                                                                                                                                                                                                              density
+                                                                                                                                                                                                                          pseudo
+                                                                                                                                                                                                                                                              derived
+
+                                                                           74
+                                                                           of
+                                                                           22                                                                                                                                                                                                                                                                                                                                       pressure,
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                                                                                                   temperature,
+                                                                                                                                                                                                                                                                                                  spinner,
+
+
+ no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                fullbore&inline
+                                                                                                                                                                                                                          speed,
+report                                                                                                                                                                                     cablePLT
+
+
+  8                                                                                                                                                                                     data;
+  &
+  7SPD9-15)  6,                                                                                                     raw
+&      Phases                                                                                                                                       rate                                                                                                             Min(SPD7-09        Pars                                                                                                                                                                                     4.13:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                         bearing
+                                                                           23
+                                                                                                                                              tool
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                             relative
+    0          Rev.
+                                                                                                                                                                                                                                                                                                                                calipers,
+                                                                                                                                              GR),
+
+ no.                                                                                                                                                                                                                                                                                                                                open-hole Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                  (incl
+
+report                                                                                                                                                                                                                                                                                             gammarayPLT
+
+
+  8                                                                                                                                                                                  data;
+  &
+  7SPD9-15)  6,                                                                                                   raw
+&      Phases                                                                                                                                    rate                                                                                                           Min(SPD7-09        Pars                                                                                                                                                                                  4.14:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                           corrected)
+                                                                                                                                                                                                                                                                                                                                       deviation
+                                                                                                                                                 (not
+                                                                                                                                                                                                                                                              density
+                                                                                                                                                                                                                          pseudo
+                                                                                                                                                                                                                                                              derived
+                                                                           74
+                                                                           of
+                                                                           24                                                                                                                                                                                                                                                                                                                                       pressure,
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                                                                                                   temperature,
+                                                                                                                                                                                                                                                                                                  spinner,
+
+
+ no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                fullbore&inline
+                                                                                                                                                                                                                          speed,report
+PLT                                                                                                                                                                                 cable
+
+
+  8  &                                                                                                                                                                         data;
+  7SPD9-15)  6,                                                                                                             raw
+&
+                                                                         in
+            Phases                                                                                                                                                 Shut(SPD7-09        Pars                                                                                                                                                                                     4.15:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                              bearing 25
+                                                                                                                                                 tool Page
+       no.
+    0                                                                                                                                                                                                                                                                    relative          Rev.
+                                                                                                                                                                                                                                                                                                                                       calipers,
+                                                                                                                                                 GR),
+
+ no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                                                                       open-hole
+                                                                                                                                                                                     (incl
+reportPLT                                                                                                                                                                                                                                                                                            gammaray
+
+
+  8  &                                                                                                                                                                         data;
+  7SPD9-15)  6,                                                                                                             raw
+&
+                                                                         in
+            Phases                                                                                                                                                 Shut(SPD7-09        Pars                                                                                                                                                                                     4.16:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of
+                                                                           26                                                                       in
+                                                                                                                                               shut   Page
+                                    –       no.
+    0                                                                                                                               rate          Rev.
+                                                                                                           min
+                                    –
+                                                                                                                                               rate
+                                                                                                           med
+ no.                                   –
+                                                                                                                                               rate Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                           max
+                                                                                                                                               com;
+report                                                                                                                                           data
+PLT                                                                                                        raw
+
+  8
+  &
+  7SPD9-15)  6,                                                                                                                                                                                                                                        spinner
+&      Phases                                                                                                                                                                                                                                                                         Fullbore(SPD7-09        Pars                                                                                                                                                                                  4.17:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+
+
+
+Fig 4.18: Temperature down passes (left), temperature up passes (right)
+
+
+
+
+
+Fig 4.19: Temperature pr rate; max rate – med rate – min rate - shut in
+
+
+
+                                                                  Page 27 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+4  Pressure Buildup in SPD7-09
+
+    More than four hours of pressure buildup data were collected after the low-rate
+     logging run. Tool was stationed at 3459 m MD RT, at the base of K1. This data
+      set has been used to determine flow properties and the skin effect.
+
+     With mud in the lower part of the well, the thickness contributing to flow is
+      uncertain, especially in view of the production files shown in Chapter 4. The
+      challenge is that only K1 appeared to contribute during the low-rate flow period
+       (just prior to the shut-in period), although flow from K1, K2 and K3 is evident
+      for both of the high-rate flow periods.
+
+        It is therefore unclear if the flow capacity (kh product) obtained from the
+      analysis only represents K1, or if all three of the upper formations, K1, K2 and
+     K3, should be included.
+
+      Fig. 5.1 shows an overview of the downhole pressure and temperature data
+      collected from the PLT shut-in period, with about two minutes of data from the
+     preceding low-rate flow period also included.
+
+
+
+
+
+      Fig. 5.1 – Downhole pressure and temperature data from the PLT shut-in period.
+
+
+
+
+
+                                                                  Page 28 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+         Fig. 5.2 shows the downhole pressures from the previous figure together
+        with pressures taken from the logging runs at the depth 3459.5 m and, at the
+        lower part of the plot, the wellhead pressures.
+
+         Pressures from the logging runs were included in an effort to obtain an
+        extended data set that could be used to determine rate-dependent skin
+          effects. That turns out not to be possible because the added pressure points
+         clearly cannot be used directly to determine the drawdown during the
+         periods the data were taken from. This is seen more clearly in Fig. 5.3,
+        where the pressures taken from the low-rate and shut-in logging runs are
+        seen to be significantly lower than those recorded by the stationed tool at
+         similar flow and shut-in conditions.
+
+
+
+
+
+                                                      Pressure data from
+                                                   passes at 3459.5 m
+
+
+
+
+
+         Fig. 5.2 – Downhole and wellhead pressures from the test.
+
+       With good pressure data from only one flow period in addition to the
+         buildup, the rate-dependent part of the total skin cannot be estimated. Only a
+          total skin value can therefore be obtained from the test data. This skin value
+         will be affected by damage, limited flow entry, well deviation and high-rate
+        flow effects.
+
+         Direct analysis of the wellhead data from Fig. 5.2 were also tried to see if an
+         estimate of the flow capacity could be obtained. For this data set this turned
+         out to be difficult. However, a stable flow performance is evident from a
+          direct comparison of downhole and wellhead data prior to shut-in. This
+       shows that the flow performance of the well can be obtained from the
+        wellhead data for this well.
+
+
+
+                                                                  Page 29 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+         Fig. 5.3 shows the extended downhole data set together with the rate history.
+        This plot shows clearly that the extended data set with pressure points added
+        from the logging runs cannot be used directly in analyses since the added
+         pressures are seen to be too low for the low-rate and shut-in runs with known
+         pressure level. Hence also likely to be incorrect for the other periods as well.
+
+
+
+
+
+           Fig. 5.3 – Downhole pressures and rate history used in analyses of the SPD7-09 test.
+
+
+         Fig. 5.4 shows a loglog diagnostic plot with a match of the buildup data with
+        a partially penetrating slanted well. This match is based on the assumption
+          that the buildup data are adversely affected by segregation effects in the
+         wellbore, with emphasis therefore placed on trends seen in early and late
+          data, with the transition period ignored..
+
+       The semilog match shown in Fig. 5. further supports this interpretation of
+         the data, were early data are seen to match the same model with skin value
+        13.9 (not listed on the plot).
+
+       The main challenge with an analysis based on partially penetrating slanted
+         well in a layered reservoir is that the bulk properties are not properly
+        honoured. Even so, the analysis should yield a good estimate of the total
+        flow capacity, i.e., the total kh product contributing to flow. In the model
+        used in this analysis, the total thickness of the layers has been set equal to
+       150 m, essentially implying that the total net thickness of K1, K2 and K3
+         contributes, with the upper 75% of this package flowing directly to the
+         wellbore. The assumption is that the lower part of K3 contributes with
+
+
+
+                                                                  Page 30 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+          vertical flow even if flow directly into the wellbore is restricted from mud
+        overbalance or some other cause.
+
+       Key parameters of the slanted well model are listed in Table 5.1. In
+          particular, note that the parameters ZWDT and ZWDB denote the fractional
+         distance from the formation top to the top and bottom of the open interval.
+       The parameter RKZR is the ratio of vertical to horizontal permeability, set
+        equal to 0.36 for this analysis. IBDY = 1 implies that the upper boundary of
+         the model is a no-flow boundary.
+
+        Table 5.1 – Parameters of the SPD7-09 slanted well model.
+         Horizontal permeability         =       64.5 md
+         Vertical permeability           =        23 md
+         Total thickness               =       150 m          (net sand)
+         Total flow capacity            =      9675  md·m      (horizontal)
+        Wellbore radius              =      0.108 m
+         Porosity                    =       0.15
+        Well deviation               =        50  deg
+        Well penetration (fraction)      =       0.75            (from the top)
+        Skin (on the open interval)       =      14.37
+       Gas viscosity                =     0.0257  cp
+       Gas volume factor             =    0.00374  Rm3/Sm3
+           Initial Z factor               =       1.03
+         Total compressibility           =     1.8E-3  1/bar
+        Formation pressure (from model)  =     358.58  bar       (gauge depth)
+        Radius of investigation         =       210 m         (end of buildup)
+
+
+
+
+
+                                                                  Page 31 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+           Fig. 5.4 – Loglog match of the buildup data with a partial-penetration slanted well.
+
+
+
+
+
+          Fig. 5.5 – Semilog match of the buildup data with the partially-penetrating slanted
+          well model and two skin values (13.92 and 14.37).
+
+
+
+
+                                                                  Page 32 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+       The final analysis plot of SPD7-09 shows a match of the slanted well model
+        with the entire data set from SPD7-09 in Fig. 5.6. This figure shows that
+          significant corrections must be used before the added pressures points from
+         the logging runs can be used in analysis. Since the added points from the
+         low-rate and shut-in periods must be lifted and the others lowered, the
+         uncertainty introduced in the data would be too large for any valid
+         conclusions to be drawn afterwards. Further analyses have therefore not
+        been attempted.
+
+       The major uncertainty with the analysis above, is that they are based on the
+         observation from the flow profiles where only K1 seems to contribute during
+         the low-rate flow period prior to shut-in. The buildup data might therefore
+        only be affected by a pressure buildup in K1. This possibility cannot be
+        completely ruled out. In this case one would get a higher horizontal
+         permeability and as light reduction in skin value. Otherwise the results will
+        remain essentially the same.
+
+
+
+
+
+          Fig. 5.6 – Match of the entire data set from SPD7-09 with the partially-
+         penetrating slanted well model.
+
+
+
+
+
+                                                                  Page 33 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+5 PLT in SPD9-15
+
+5.1 Summary and conclusions
+
+
+Well SPD 9-15 was logged with a production logging tool string from Schlumberger
+(PSP), with memory on slikcline. The operation was performed after initial cleanup
+and consisted of logging at 3 different rates and at shut in conditions. Logging data
+were acquired during 3 up and 3 down passes at each rate and shut in. Stationary data
+were recorded for transient buildup test analysis at shut in conditions.
+
+Logging in flowing well gave the following principal flow contributions:
+
+- 20-25% from K1 formation
+- 60-70% from upper half of K2 formations
+- 10-11% from lower K2 and possibly top of K3
+- Insignificant production from lower K3 and K4 formation.
+
+The flow profiles are shown in Figures 6.1 and 6.2.
+
+The reason why lower parts of the well is hardly contributing to flow is that
+drawdown on the deep formations is only marginal during cleanup and test. This is
+again due to high density drilling mud that has not yet been lifted out of the well. At
+maximum drawdown/rate there is overbalance almost up to top of K4 formation.
+
+Density and temperature data indicate that there is flow contribution from lower K3
+and top of K4 at highest logged rate, but this is not quantitatively interpreted. Pressure
+versus vertical and measured depth is shown in Figures 6.3 and 6.4 respectively.
+
+Logging at shut in conditions indicated no cross-flow activity in the well.
+
+
+5.2 Data quality
+
+
+The production logging data acquired have overall good quality and can be used for
+conclusive analysis. Raw data is shown in Figures 6.9 through 6.16.
+
+Spinner data
+Quality of the fullbore spinner data is good. However, the fluid and flowing
+conditions in the well complicate the interpretation in parts of the interval. The
+spinner response and characteristics (slopes and thresholds) vary with depth,
+depending on the fluid phases present. Also, recirculation effects are evident from
+
+
+
+                                                                  Page 34 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+comparison of spinner data with other data in the transition zone of gas and
+mud/condensate at different rates.
+
+Quality of the inline spinner data is bad. Spinner is wholly or partly blocked in most
+of the logging passes. Inline spinner was completely blocked in shut in well. This
+does not compromise the interpretation, however, since fullbore spinner data are used
+for analysis.
+
+Caliper data
+Quality of data is satisfactory. Measured data are consistent with completion
+dimensions.
+
+Holdup data
+Quality of data is reasonably good. Down passes are best. The data indicate the levels
+of different fluid phases in the well; gas, transition zone and mud zone in the well.
+The probes will be missing hydrocarbon (gas) phase where gas is flowing on the high
+side of the well, in the annulus.
+
+Pressure data
+Quality of the data is good, and they repeat well. Data have been used to derive fluid
+density. Derived gas density is in accordance with expected downhole density of gas.
+
+Temperature
+Quality of the temperature data is good in gas phase and repeat well there. Data are
+reasonably good in the transition zone of gas and mud/condensate. Where mud is
+dominating the wellbore in the lower part of the well, there is a large discrepancy
+between the passes, depending on logging direction and logging speed. This is
+probably caused by viscous and high density mud being too viscous to keep the
+temperature sensor clean and exposed to ‘fresh’ fluid while logging. This is seen
+when comparing temperature data from different log passes, up/down and at different
+logging speeds. Temperature from fast down passes seem to be the most
+representative of fluid temperatures at allocated depths.
+
+Auxillary data
+Gammaray data show good quality and all the PL data are easily correlated on depth.
+CCL (casing collar locator) also show good data quality and indicate the positions of
+the liner joints.
+
+
+
+
+
+                                                                  Page 35 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+5.3 Interpretation
+
+
+5.3.1  General
+
+The well is completed with a predrilled liner in open hole. In addition to tubular flow,
+flow occur in the annulus on the outside of the predrilled liner. This is seen from
+spinner raw data and from interpreted velocity. Flow merges into the liner from the
+top section of predrilled liner, above top reservoir. The schematic rate data and
+tabulated results have been corrected for this by multiplying with a factor equal to the
+ratio of velocity above top section of predrilled liner divided by the velocity below.
+Match factors were found to be 1.15, 1.13 and 1.17 for maximum, medium and
+minimum logging rates respectively. The average factor of 1.15 was used for each
+logging rate.
+
+For rate interpretation, single phase gas has been assumed in flowing well. Both gas
+and liquid (mud/condensate) are present in the well, but for interpretation purposes
+liquid phase can be neglected. Gas holdup is close to 100% where spinner data have
+been used for rate interpretation.
+
+At medium and minimum flow rate, depth of the transition zone from gas to mud was
+stable. At maximum rate, however, the max depth of pure gas was moving slightly
+upwards during logging (8 meters during the logging passes). This was caused by the
+decreasing well pressure and thereby increasing drawdown on the lower zones, such
+that these zones were activated.
+
+Comparison of density and temperature from the different passes indicate that there
+was flow activity down to formation K4 at maximum logging rate. There was a
+density and a temperature drop, down to approx. 3773 mMD RT. This could be
+caused by inflow of gas, thus reducing the average fluid density and cooling down the
+formation/fluid.
+
+Top of the transition zone at end of logging passes at each rate:
+(max depth of pure gas, detected from pressure and pressure derived density)
+
+Max rate:    3552 -> 3544 mMD RT (moving up during logging period)
+Med rate:    3569 mMD RT (constant)
+Min rate:     3571 mMD RT (constant)
+Shut in:      3567 mMD RT (constant)
+
+Spinner data from the transition zone are not reliable for quantitative interpretation
+due to segregation of fluid phases in the wellbore and recirculation of heavy phase.
+
+Plot of pressure versus total vertical depth and versus measured depth is shown for
+each flow rate and shut in conditions in Figures 6.3 an 6.4 respectively. Extrapolation
+of the shut in pressure curve in gas phase indicate the effective drawdown (or
+overbalance) at each rate versus depth. At the intersection, there is pressure balance
+
+
+                                                                  Page 36 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+between formation and well and hence no drawdown. Below this point, there is
+overbalance and no possibility of flow (except segregation and phasal changeout).
+Above the intersection there is drawdown and possibility of flow.
+
+Depths of the intersection, i.e. the balance point of zero drawdown, is approximately
+the following at each rate:
+
+Max rate:    3088 mTVD RT / 37550 mMD RT (middle K3 formation)
+Med rate:    3063 mTVD RT / 3720 mMD RT (lower K3 formation)
+Min rate:     3029 mTVD RT / 3670 mMD RT (bottom K3 formation, close to K4)
+
+
+5.3.2  Flowing
+
+
+High rate
+Spinner data in transition zone, approx. 3550-3595 mMD RT, are not reliable for fluid
+velocity interpretation. The spinner data indicate ‘apparent downflow’, caused by
+recirculation of heavy phase when light phase (gas) is moving through the high side of
+the wellbore. This is seen from a left-shift in the spinner data.
+
+The spinner shows normal responses in the gas phase above and in the mud column
+below the transition zone, but the spinner response characteristics vary in the different
+phases. Velocity down to 3550 mMD RT is estimated from down passes and fixed
+slopes and thresholds as shown in calibration plots. From 3592 m to bottom logging
+interval, velocity is calculated from all passes and a variable spinner calibration.
+Velocity data have been interpolated through the transition zone.
+
+Temperature and density data indicate production activity down to approx 3765 mMD
+RT in the upper K4 formation. However, it is not possible to make quantitative
+estimates of the small contribution from formations K4 and K3.
+
+ Inflow zone  Formation   From      To      dQres    dQsc    Contribution
+     #             0 mMD RT  mMD RT      cf/d       scf/d    % sc
+    1-2-3    K1          3359.3    3497.4   74498.82 19898450    23.9 %
+     4     K2          3508.8    3548.2   198260  53636000    64.3 %
+     5     K2+K3      3550.4     3593    33472.82  9053950    10.9 %
+     6-7    K3+K4      3597     3798.1   3012.77   817650      1.0 %
+    Total                                   309244.4 83406050   100.0 %
+
+
+
+
+
+                                                                  Page 37 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+Medium rate
+Temperature data indicate (gas) production activity down to approx. 3720 mMD RT,
+in the bottom of the K3 formation. As for high rate, recirculation effects and low
+velocity of gas through the mud column cause the fullbore spinner to become non-
+interpretable in the interval approx. 3557-3585 mMD RT. Production below this depth
+is allocated to bottom of K2 formation and to formation K3 (down to 3720 mMD RT).
+
+ Inflow zone  Formation   From     To     dQres    dQsc    Contribution
+     #             0 mMD RT mMD RT     cf/d       scf/d    % sc
+    1-2-3    K1         3359.3   3497.4  53507.63 14369250    21.5 %
+     4-5    K2         3508.8   3560.6  167368.8 45511250    68.0 %
+     6     K2+K3     3561.9    3593   25214.33  6862050    10.3 %
+     7     K3         3597    3740.3  585.9595  159735      0.2 %
+     8     K4         3751.8   3798.1     0        0         0.0 %
+    Total                                 246676.7 66902285   100.0 %
+
+
+Low rate
+The pressure plot indicate drawdown down to approx. 3670 mMD RT. Temperature
+data indicate gas production activity down to approx. this depth, in the lower K3
+formation. As for high and medium rates, recirculation effects and low velocity of gas
+through the mud column cause the fullbore spinner to become non-interpretable in the
+interval approx. 3561-3585 mMD RT. Production below this depth is allocated to
+bottom of K2 formation and to K3.
+
+ Inflow zone  Formation   From     To     dQres    dQsc    Contribution
+     #             0 mMD RT mMD RT     cf/d       scf/d    % sc
+    1-2-3    K1         3359.3   3497.4  40667.48 11023900    24.8 %
+     4-5    K2         3508.8   3560.6  105139.8 28771850    64.6 %
+     6     K2+K3     3561.9    3593   16663.27  4563200    10.2 %
+     7     K3         3597    3740.3  600.6795  164680      0.4 %
+     8     K4         3751.8   3798.1     0        0         0.0 %
+    Total                                 163071.2 44523630   100.0 %
+
+
+5.3.3  Shut in
+
+Raw data and velocity calculated from fullbore spinner does not indicate any flow
+activity in shut in well. While logging the passes, there might have been a small
+degree of segregation going on in the well, with accumulation of condensate settled
+out from the gas higher in the well.
+
+Due to varying fluid properties, spinner characteristics and quality of data, velocity
+has been calculated schematically in intervals with good spinner data between the
+principal reservoir zones. Maximum calculated velocity is less than 1,5 m/min and is
+within the uncertainty of the calculations.
+
+
+
+
+                                                                  Page 38 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-070
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+Based on pressure and pressure derived density, the well has segregated phases of
+fluids, with gas (density 0,25 g/cc) down to 3566 mMD RT, condensate (0,67 g/cc)
+down to 3583 mMD RT and mud below this depth. Density of the mud is 1,22-1,37
+g/cc down to 3700 mMD RT, gradually increasing to 2,2 g/cc at 3775 mMD RT.
+
+
+
+
+
+                                                                  Page 39 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of
+                                                                           40
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                well
+                                                                                                                                                                                                                                                                                                                                   producing
+                                                                                                            and
+ no.                                                                      in Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                 shut
+                                                                        in
+                                                                                                                                                                                                                                                                                               profilesreport
+                                                                                                                                                rate
+PLT
+
+
+  8
+  &
+  7                                                                                                                                                                                                                                                                                               downholeSPD9-15)  6,
+&      Phases                                                                                                                                                                                                                                                                                                            Schematic(SPD7-09        Pars
+                                                                                                                                                6.1:
+SP678     South                                                                                                    Fig
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                             well
+                                                                                                                                                                                                                                                                                                                              producing
+                                                                                                          and
+                                                                       in
+                                                                                                                                             shut
+                                                                       in
+                                                                                                                                                                                                                                                       density  74
+                                                                                                          and  of                                                                           41
+                                                                                                                                                      Page       no.                                                                                                                                                                                                                                                                   pressure
+
+
+
+    0
+          Rev.                                                                                                                                                                                                                                                                                                                                                                                                     temperature,
+                                                                                                                                                                                                                                                                                                                              profiles, no.
+                                                                                                                                             rate Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                           downhole
+report
+PLT  8                                                                                                                                                                                                                                                                                                       schematic
+  &  7                                                                                                  andSPD9-15)  6,
+&      Phases                                                                                                                                                                                                                                                                                                                                                                 Continuous(SPD7-09        Pars
+                                                                                                                                             6.2:
+SP678     South                                                                                                  Fig
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of
+                                                                           42
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.
+                                                                                                                                                well
+                                                                                                                                                                                                                                                           flowing
+                                                                                                            and no.
+                                                                        in Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                shut
+                                                                                                            for
+                                                                                                                                                                                    depthreport
+PLT  8                                                                                                                                                                                                                                                                           vertical
+  &
+  7SPD9-15)  6,                                                                                                                                                                                                                        versus
+&      Phases                                                                                                                                                                                                                                                                                               Pressure(SPD7-09        Pars
+                                                                                                                                                6.3:
+SP678     South                                                                                                    Fig
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of
+                                                                           43
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.
+                                                                                                                                                well
+                                                                                                                                                                                                                                                            flowing
+                                                                                                            and
+ no.                                                                      in Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                 shut
+                                                                                                            for
+                                                                                                                                                                                    depth
+report
+PLT  8                                                                                                                                                                                                                                                                            measured
+  &
+  7SPD9-15)  6,                                                                                                                                                                                                                        versus
+&      Phases                                                                                                                                                                                                                                                                                                Pressure(SPD7-09        Pars
+                                                                                                                                                6.4:
+SP678     South                                                                                                    Fig
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                profiles
+                                                                                                                                                flow
+                                                                                                                                                                                                                                                                                                                                                                        continuous
+                                                                                                            and
+                                                                           74
+                                                                           of
+                                                                           44                                                                                                                                                                                                                                                                                                                                                                                                            incremental  Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                        schematic,
+                                                                        as
+                                                                                                                                                                                    shown
+ no.                                                                                                                                                                               rates Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                                downhole
+report
+PLT  8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     interpretation,
+  &
+  7                                                                                                                                                rateSPD9-15)  6,
+&      Phases                                                                                                                                                                                                                                                            Maximum(SPD7-09        Pars
+                                                                                                                                                6.5:
+SP678     South                                                                                                    Fig
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                             profiles
+                                                                                                                                               flow
+                                                                                                                                                                                                                                                                                                                                                                     continuous
+                                                                                                           and  74
+                                                                           of
+                                                                           45
+                                                                                                                                                      Page                                                                                                                                                                                                                                                                                                                                                                                                        incremental       no.
+
+
+
+    0          Rev.
+                                                                                                                                                                                                                                                                                                                                                                     schematic,
+                                                                       as
+                                                                                                                                                                                  shown
+ no.                                                                                                                                                                             rates Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                             downhole
+report
+PLT
+
+
+  8  &                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                interpretation,
+  7SPD9-15)  6,                                                                                                                                               rate
+&      Phases                                                                                                                                                                                                                      Medium(SPD7-09        Pars
+                                                                                                                                               6.6:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                profiles
+                                                                                                                                                flow
+                                                                                                                                                                                                                                                                                                                                                                        continuous
+                                                                                                            and
+                                                                           74
+                                                                           of
+                                                                           46                                                                                                                                                                                                                                                                                                                                                                                                            incremental  Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                        schematic,
+                                                                        as
+                                                                                                                                                                                    shown
+ no.                                                                                                                                                                               rates Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                                                                                                downhole
+report
+PLT
+
+
+  8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            interpretation,
+  &
+  7SPD9-15)  6,                                                                                                                                      rate
+&      Phases                                                                                                                                                                                                                                          Minimum(SPD7-09        Pars
+                                                                                                                                                6.7:
+SP678     South                                                                                                    Fig
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                             profiles
+                                                                                                                                              flow  74of
+                                                                           47
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                                                                                                                                       incremental
+
+    0          Rev.                                                                                                           and
+                                                                                                                                                                                                                                                                                                                                schematic
+                                                                       as
+
+ no.                                                                                                                                                                                  shown Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                  rates
+report                                                                                                                                                                                                                                                                                      downhole
+PLT
+
+
+  8
+  &
+  7SPD9-15)  6,&                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         interpretation,
+                                                                       in            Phases
+                                                                                                                                              Shut(SPD7-09        Pars
+                                                                                                                                              6.8:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                 corrected)
+                                                                                                                                                                                                                                                                                                                              deviation
+                                                                                                                                             (not
+                                                                                                                                                                                                                                                       density
+                                                                                                                                                                                                                    pseudo
+                                                                                                                                                                                                                                                       derived
+
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                                                                                              pressure,  48
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                                                                                        temperature,
+                                                                                                                                                                                                                                                                                           spinner,
+                                                                                                                                                                                                                    inline
+ no.                                  & Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                           fullbore
+                                                                                                                                                                                                                    speed,report
+                                                                                                                                                                                 cablePLT
+
+
+  8  &                                                                                                                                                                    data;
+  7SPD9-15)  6,                                                                                                  raw
+&      Phases                                                                                                                                   rate
+                                                                                                          Max(SPD7-09        Pars
+                                                                                                                                             6.9:
+SP678     South                                                                                                  Fig
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                             bearing
+                                                                           49
+                                                                                                                                                 tool
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                                 relative
+
+    0          Rev.
+                                                                                                                                                                                                                                                                                                                                     calipers,
+                                                                                                                                                 GR),
+
+
+ no.                                                                                                                                                                                                                                                                                                                                     open-hole Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                     (incl
+
+report                                                                                                                                                                                                                                                                                                 gammaray
+PLT
+  8                                                                                                                                                                        data;
+  &
+  7                                                                                                            rawSPD9-15)  6,
+&                                                                                                                                                 rate
+            Phases                                                                                                            Max(SPD7-09        Pars                                                                                                                                                                                     6.10:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                     corrected)
+                                                                                                                                                                                                                                                                                                                                 deviation
+                                                                                                                                               (not
+                                                                                                                                                                                                                                                          density
+                                                                                                                                                                                                                      pseudo
+                                                                                                                                                                                                                                                          derived
+
+
+                                                                           74                                                                                                                                                                                                                                                                                                                                 pressure,  of
+                                                                           50
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                                                                                                                                                                            temperature,
+
+    0          Rev.
+                                                                                                                                                                                                                                                                                             spinner,
+
+
+
+
+ no.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       fullbore&inline Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                                                      speed,
+                                                                                                                                                                                  cablereport
+PLT                                                                                                                                                                              data;
+
+
+  8                                                                                                           raw
+  &
+  7SPD9-15)  6,                                                                                                                                    rate
+&      Phases                                                                                                                                                                                                       Medium(SPD7-09        Pars                                                                                                                                                                                  6.11:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                             bearing                                                                           74
+                                                                           of                                                                                                                                                tool
+                                                                           51
+                                                                                                                                                      Page                                                                                                                                                                                                                                                                                                 relative
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                     calipers,
+                                                                                                                                                GR),
+                                                                                                                                                                                                                                                                                                                                     open-hole no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                  (incl
+                                                                                                                                                                                                                                                                                                 gammarayreport
+PLT                                                                                                                                                                                data;
+
+
+  8                                                                                                            raw
+  &
+  7SPD9-15)  6,                                                                                                                                      rate
+&      Phases                                                                                                                                                                                                         Medium(SPD7-09        Pars                                                                                                                                                                                     6.12:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                           corrected)
+                                                                                                                                                                                                                                                                                                                                       deviation
+                                                                                                                                                 (not
+                                                                                                                                                                                                                                                              density
+                                                                                                                                                                                                                          pseudo
+                                                                                                                                                                                                                                                              derived
+
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                                                                                                       pressure, 52
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                                                                temperature,
+                                                                                                                                                                                                                                                                                                  spinner,
+                                                                                                                                                                                                                          inline
+ no.                                   & Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                                  fullbore
+                                                                                                                                                                                                                          speed,
+report                                                                                                                                                                                     cablePLT
+
+
+  8                                                                                                                                                                                     data;
+  &
+  7SPD9-15)  6,                                                                                                     raw
+&      Phases                                                                                                                                       rate                                                                                                             Min(SPD7-09        Pars                                                                                                                                                                                     6.13:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                            bearing
+                                                                           53
+                                                                                                                                                tool
+                                                                                                                                                      Page
+       no.                                                                                                                                                                                                                                                                                                relative
+    0          Rev.
+                                                                                                                                                                                                                                                                                                                                    calipers,
+                                                                                                                                                GR),
+
+ no.                                                                                                                                                                                                                                                                                                                                    open-hole Doc. SP-WELLS-2005-070 Date 20.12.2005
+                                                                                                                                                                                    (incl
+
+report                                                                                                                                                                                                                                                                                                gammarayPLT
+
+
+  8                                                                                                                                                                                    data;
+  &
+  7SPD9-15)  6,                                                                                                    raw
+&      Phases                                                                                                                                      rate                                                                                                            Min(SPD7-09        Pars                                                                                                                                                                                    6.14:
+SP678     South                                                                                                    Fig
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 74 ]
+────────────────────────────────────────────
+                                                                                                                                                                                                                                                                                                                                                                    corrected)
+                                                                                                                                                                                                                                                                                                                                deviation
+                                                                                                                                              (not
+                                                                                                                                                                                                                                                         density
+                                                                                                                                                                                                                     pseudo
+                                                                                                                                                                                                                                                         derived
+                                                                           74
+                                                                           of
+                                                                           54                                                                                                                                                                                                                                                                                                                                pressure,
+                                                                                                                                                      Page
+       no.
+
+
+
+    0          Rev.                                                                                                                                                                                                                                                                                                                                                                                                                                           temperature,
+                                                                                                                                                                                                                                                                                             spinner,
+
+
+ no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      fullbore&inline
+                                                                                                                                                                                                                     speed,report
+PLT                                                                                                                                                                              cable
+
+
+  8  &                                                                                                                                                                     data;
+  7SPD9-15)  6,                                                                                                           raw
+&
+                                                                       in
+            Phases                                                                                                                                              Shut(SPD7-09        Pars                                                                                                                                                                                  6.15:
+SP678     South                                                                                                   Fig
+
+
+────────────────────────────────────────────
+[ صفحه 55 از 74 ]
+────────────────────────────────────────────
+                                                                           74
+                                                                           of                                                                                                                                                                                                                                                              bearing 55
+                                                                                                                                                 tool Page
+       no.
+    0                                                                                                                                                                                                                                                                    relative          Rev.
+                                                                                                                                                                                                                                                                                                                                       calipers,
+                                                                                                                                                 GR),
+
+ no. Doc. SP-WELLS-2005-070 Date 20.12.2005                                                                                                                                                                                                                                                                                                                                       open-hole
+                                                                                                                                                                                     (incl
+reportPLT                                                                                                                                                                                                                                                                                            gammaray
+
+
+  8  &                                                                                                                                                                         data;
+  7SPD9-15)  6,                                                                                                             raw
+&
+                                                                         in
+            Phases                                                                                                                                                 Shut(SPD7-09        Pars                                                                                                                                                                                     6.16:
+SP678     South                                                                                                     Fig
+
+
+────────────────────────────────────────────
+[ صفحه 56 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+  6   Pressure Buildup in SPD9-15
+
+       More than four hours of pressure buildup data were collected after the low-rate logging run, with the
+         tool stationed at 3577 m MD RT, between K2 and K3. This data set has been used to determine flow
+         properties and the skin effect.
+
+       With mud in the lower part of the well, the thickness contributing to flow is uncertain, especially in
+        view of the production files shown in Chapter 6. The challenge is that only K1 and K2 appeared to
+         contribute to the flow, with most the inflow coming from K2. It is therefore likely that the flow
+         capacity (kh product) obtained from the analysis only represents K1 and K2.
+
+         Fig. 7.1 shows an overview of the downhole pressure and temperature data collected from the PLT
+         shut-in period, with about two minutes of data from the preceding low-rate flow period also
+         included.
+
+
+
+
+
+         Fig. 7.1 – Downhole pressure and temperature data from the PLT shut-in period.
+
+
+         Fig. 7.2 shows the downhole pressures from the previous figure together with wellhead pressures.
+        For this test the quality of the wellhead data is of better quality, mainly because formation properties
+         for this well is lower compared to SPD7-09. Even so, it is still difficult to obtain a good estimate of
+        flow properties from wellhead data, but an error less than 50% might be obtained if both reduction
+         periods and the shut-in period are used.
+
+
+
+
+
+                                                                  Page 56 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 57 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+       From Fig. 7.2 it is also clear that the stabilization of wellhead data is good, such well performance
+        based on these data can be obtained (i.e., rate vs. drawdown).
+
+
+
+
+
+         Fig. 7.2 – Downhole and wellhead pressures from the test.
+
+
+       With good pressure data from only one flow period in addition to the buildup, the rate-dependent
+         part of the total skin cannot be estimated. Only a total skin value can therefore be obtained from the
+       downhole data. This skin value will be affected by damage, limited flow entry, well deviation and
+         high-rate flow effects.
+
+         Fig. 7.3 shows a loglog diagnostic plot with a match of the buildup data with a partially penetrating
+         slanted well. This match is based on the assumption that the last part of the buildup data are
+         adversely affected by segregation effects in the wellbore.
+
+       The semilog match shown in Fig. 7.4 further supports this interpretation of the data, although it is
+         also possible that only the last part of the data is valid for use in direct analyses, suggesting that the
+         permeability should be reduced and skin value adjusted. Still, since the properties would not change
+          that much, only the model from the loglog match will be used, with skin values from early and late
+         data presented.
+
+       Key parameters of the slanted well model are listed in Table 7.1. In particular, note that the
+        parameters ZWDT and ZWDB denote the fractional distance from the formation top to the top and
+        bottom of the open interval. The parameter RKZR is the ratio of vertical to horizontal permeability,
+          set equal to 1 for this analysis. IBDY = 1 implies that the upper boundary of the model is a no-flow
+        boundary.
+
+
+                                                                  Page 57 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 58 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+           Table 7.1 – Parameters of the SPD9-15 slanted well model.
+            Horizontal permeability         =        29 md
+             Vertical permeability           =        29 md
+            Total thickness               =        75 m          (net sand K1 + K2)
+            Total flow capacity            =      2175  md·m
+           Wellbore radius              =      0.108 m
+             Porosity                    =       0.15
+           Well deviation               =        50  deg
+           Well penetration (fraction)      =         1               (fully penetrating)
+           Skin (on the open interval)       =       0.94              (1.8 from late data)
+          Gas viscosity                =     0.0257  cp
+          Gas volume factor             =    0.00374  Rm3/Sm3
+               Initial Z factor               =       1.03
+            Total compressibility           =     1.8E-3  1/bar
+           Formation pressure (from model)  =     365.62  bar       (gauge depth)
+           Radius of investigation         =       140 m         (end of buildup)
+
+
+
+
+
+         Fig. 7.3 – Loglog match of the buildup data with a partial-penetration slanted well.
+
+
+
+
+
+                                                                  Page 58 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 59 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+         Fig. 7.4 – Semilog match of the buildup data with the partially-penetrating slanted well model
+       and two skin values (0.94 and 1.8).
+
+
+       The final analysis plot of SPD9-15 shows a match of the slanted well model with the entire data set
+        from this well. The two matches are based on the same model with skin value 0.94 for the first part
+        and 1.8 for the last part of the data. The same skin values were also used in the semilog matches in
+         Fig. 7.4.
+
+
+
+
+
+                                                                  Page 59 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 60 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+         Fig. 7.5 – Match of the entire data set from SPD9-15 with the partially-penetrating slanted well
+       model with two skin values (0.94 and 1.8).
+
+
+         Fig. 7.6 shows the final match from Fig. 7.5 with skin 1.8 extended to the entire rate history.
+
+
+
+
+
+         Fig. 7.6 – The match with skin value 1.6 extended to the entire rate history.
+
+
+
+                                                                  Page 60 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 61 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+7  Appendix
+
+7.1  Calibration Plot well SPD7-09
+
+       The following calibration was used for medium and high rate velocity interpretation
+          in gas zone, from fullbore spinner:
+
+         Positive slope:      0,29 rps/(m/min)            Negative slope:      0,29 rps/(m/min)
+         Positive threshold:  10 m/min                  Negative threshold:   -10 m/min
+
+      Maximum rate; down pass 15 m/min used. Medium rate; down passes 25 and 35 m/min used.
+
+         Calibration in shut in well above top reservoir, prior to production, showed segregation effects
+        (10 m/min down/up excluded):
+
+
+
+
+
+        Thresholds (+/-10 m/min) assumed based on evaluation of fullbore spinner at various depths and
+          rates.
+
+
+
+
+                                                                  Page 61 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 62 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+         Calibration plot from minimum rate, gas phase:
+
+
+
+
+
+         Calibration characteristics as shown used for minimum rate only, velocity estimated from down
+        passes 25 and 35 m/min.
+
+
+
+
+
+                                                                  Page 62 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 63 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+        Calibration plot from gas phase in shut in well:
+
+
+
+
+
+        Velocity calculated from all down passes in gas down to 3497 mMD RT. In mud zone below,
+       down/up passes 25 m/min and 35 m/min was used.
+
+
+
+
+
+                                                                  Page 63 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 64 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+         Calibration plot from mud phase in shut in well:
+
+
+
+
+
+        Variable spinner characteristics due to varying density/viscosity of mud. Down and up passes at 25
+       and 35 m/min used for velocity interpretation below 3497 mMD RT.
+
+
+
+
+
+                                                                  Page 64 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 65 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+7.2  Calibration Plot well SPD9-15
+
+        Fullbore spinner characteristics used for velocity interpretation in gas phase at maximum, medium
+       and minimum rate:
+
+         Positive slope:      0,31 rps/(m/min)            Negative slope:      0,33 rps/(m/min)
+         Positive threshold:  5 m/min                   Negative threshold:   -11 m/min
+
+         Calibration plot from shut in well:
+
+
+
+
+
+       Logging passes used for velocity interpretation in gas phase:
+
+      Maximum rate:     All down passes (15, 25, 35 m/min)
+      Medium rate:       All down passes (15, 25, 35 m/min)
+      Minimum rate:      All down passes (15, 25, 35 m/min)
+
+
+                                                                  Page 65 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 66 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+        Velocity in shut in well calculated schematically from up and down passes, with variable spinner
+        slopes and fixed threshold ratios according to calibration plot:
+
+
+
+
+
+                                                                  Page 66 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 67 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+7.3 Probes - holdup and bubble count raw data - well SPD7-09
+
+
+
+
+
+                           Maximum rate – down passes
+
+
+
+
+
+                           Maximum rate – down passes
+
+
+
+                                                                  Page 67 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 68 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+                                Medium rate – down passes
+
+
+
+
+
+                              Medium rate – up passes
+
+
+
+
+                                                                  Page 68 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 69 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+                            Minimum rate – down passes
+
+
+
+
+
+                             Minimum rate – up passes
+
+
+
+
+
+                                                                  Page 69 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 70 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+                                       Shut in – down passes
+
+
+
+
+
+                                        Shut in – up passes
+
+
+
+
+
+                                                                  Page 70 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 71 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                   20.12.2005                0
+
+
+7.4 Probes - holdup and bubble count raw data - well SPD9-15
+
+
+
+
+
+                           Maximum rate – down passes
+
+
+
+
+
+                            Maximum rate – up passes
+
+
+                                                                  Page 71 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 72 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+                             Medium rate - down passes
+
+
+
+
+
+                              Medium rate – up passes
+
+
+
+
+
+                                                                  Page 72 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 73 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+                            Minimum rate – down passes
+
+
+
+
+
+                             Minimum rate – up passes
+
+
+
+
+
+                                                                  Page 73 of 74
+
+
+────────────────────────────────────────────
+[ صفحه 74 از 74 ]
+────────────────────────────────────────────
+SP678 (SPD7-09 & SPD9-15) PLT report       Doc. no.
+                                          SP-WELLS-2005-00x
+South Pars Phases 6, 7 & 8                                           Date                   Rev. no.
+                                                  20.12.2005                0
+
+
+
+
+
+                                       Shut in – down passes
+
+
+
+
+
+                                        Shut in- up passes
+
+
+
+
+
+                                                                  Page 74 of 74
+
+

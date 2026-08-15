@@ -1,0 +1,3638 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 59 ]
+────────────────────────────────────────────
+CNPC International Ltd (Iran) North Azadegan Project
+
+           CNPCI Contract No.: NA-OD-010-001
+
+
+
+
+
+  APPRAISAL WELL N111E
+
+   DRILLING PROGRAM
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 59 ]
+────────────────────────────────────────────
+   CNPC International Ltd (Iran) North Azadegan Project
+
+                CNPCI Contract No.: NA-OD-010-001
+
+
+
+
+
+             PROGRAM APPROVALS
+
+
+
+
+      Prepared by                     Signature:
+
+       Designer
+
+                                     Date:
+
+
+      Prepared by                     Signature:
+
+       Designer
+
+                                     Date:
+
+
+     Reviewed by                    Signature:
+
+Operation Dept. Manager
+
+                                     Date:
+
+
+     Reviewed by                    Signature:
+
+  R&P Dept. Manager
+
+                                     Date:
+
+
+     Endorsed by                     Signature:
+
+  Vice Project Director
+
+                                     Date:
+
+
+     Approved by                    Signature:
+
+     Project Director
+
+                                     Date:
+
+
+     Approved by                    Signature:
+
+     Project Director
+
+                                     Date:
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 59 ]
+────────────────────────────────────────────
+         CNPC International Ltd (Iran) North Azadegan Project
+
+                        CNPCI Contract No.: NA-OD-010-001
+
+
+                       TABLE OF CONTENTS
+
+1. DESIGN BASIS ....................................................................................................................................... 1
+
+  1.1 FORMATION TOPS AND DESCRIPTION .................................................................................................... 2
+
+   1.2. STRUCTURE ......................................................................................................................................... 4
+
+   1.3. POTENTIAL DRILLING RISKS ................................................................................................................ 6
+
+   1.4. GEOLOGICAL REQUIREMENTS ............................................................................................................. 7
+
+   1.5. FORMATION PRESSURE AND TEMPERATURE ......................................................................................... 9
+
+2. QUALITY REQUIREMENTS ............................................................................................................. 11
+
+  2.1 WELLBORE QUALITY ......................................................................................................................... 11
+
+  2.2 CEMENTING QUALITY ........................................................................................................................ 12
+
+3. DRILLING ENGINEERING DESIGN ............................................................................................... 13
+
+   3.1. GENERAL DATA ................................................................................................................................. 13
+
+   3.2. WELL PROFILE ................................................................................................................................... 14
+
+   3.3. CASING DESIGN ................................................................................................................................ 15
+
+     3.3.1 Loads and safety factor selection ............................................................................................... 15
+
+     3.3.2. Casing program ......................................................................................................................... 16
+
+   3.4. DRILLING OPERATION PROCEDURE .................................................................................................... 20
+
+     3.4.1. Pre-spud preparation ................................................................................................................. 20
+
+     3.4.2. 26″ Surface Hole with 20″Surface Casing ................................................................................. 21
+
+     3.4.3. 17 1/2″Hole with 13 3/8″Inter Casing ....................................................................................... 22
+
+     3.4.4.12 1/4″Hole with 9 5/8″Inter Casing .......................................................................................... 23
+
+     3.4.5. 8 1/2″ Hole with 7″Production Liner ......................................................................................... 25
+
+     3.4.6. 6″ Hole with 5″Production Liner ............................................................................................... 27
+
+  3.5 CORING PROGRAM ............................................................................................................................. 29
+
+     3.5.1. Coring Equipment ..................................................................................................................... 29
+
+     3.5.2. Preparations of Pre-Coring ....................................................................................................... 29
+
+     3.5.3. Coring Operation Procedure ..................................................................................................... 30
+
+   3.6. DRILLING FLUID PROGRAM ............................................................................................................... 33
+
+     3.6.1 Summary of mud properties ........................................................................................................ 33
+
+     3.6.2 Mud properties by interval ......................................................................................................... 33
+
+     3.6.3 Lost circulation while drilling .................................................................................................... 38
+
+   3.7. CEMENTING PROGRAM ...................................................................................................................... 41
+
+     3.7.1. 20″Cementing ............................................................................................................................ 41
+     3.7.2 13 3/8Cementing ...................................................................................................................... 41
+     3.7.3.9 5/8Cementing ........................................................................................................................ 43
+                                                                         I
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 59 ]
+────────────────────────────────────────────
+         CNPC International Ltd (Iran) North Azadegan Project
+
+                        CNPCI Contract No.: NA-OD-010-001
+     3.7.4. 7Liner cementing .................................................................................................................... 43
+     3.7.5. 5Liner cementing .................................................................................................................... 44
+
+   3.8. WELL CONTROL DESIGN .................................................................................................................... 46
+
+     3.8.1 BOP Stack Configuration ........................................................................................................... 46
+
+     3.8.2 Kill and Choke Manifold ............................................................................................................ 49
+
+   3.9. WELLHEAD AND X-TREE CONFIGURATION ........................................................................................ 51
+
+   3.10. HEALTH, SAFE AND ENVIRONMENT ................................................................................................ 52
+
+4. DRILLING SCHEDULE ...................................................................................................................... 53
+
+
+
+
+
+                                                                         II
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+1. Design Basis
+
+N111E is proposed as a vertical appraisal well to appraise the petrophysical characters of Sarvak,
+
+Kazhdumi and Gadvan formation in the south-east of North Azadegan Field. N111E drilling program is
+
+based on:
+
+1)  Drilling Geological Design of N111E.
+
+2) FEED Drilling and Completion in North Azadegan Field.
+
+3)  The Iranian Petroleum Standards (IPS) and Iranian Laws and Regulations.
+
+4)  International Standards of Drilling Program.
+
+5) SY 5333-1996, “Drilling Engineering Design Standard”.
+
+6)  Exploration history of AZN3, AZN5 and AZN7 etc. adjacent wells.
+
+N111E will be a vertical hole to proposed total depth of 4200m (TVD), with the basic information as
+
+below.
+
+                               Table 1.1-1 Basic Information
+
+      Well Name.       N111E
+
+   Well Classification      Appraisal well
+
+       Well Type           Vertical Well
+
+   Rig Requirements     ZJ70D (2000hp)
+
+                               1.  Study and describe the structure in more detail.
+
+                               2.  Confirm the production of Sarvak, Kazhdumi and Gadvan.
+
+     Well Objective         3.  Confirm the spread of OWC in North Azadegan area.
+
+                               4.  Acquiring both dynamic and static data to study the reservoir of
+
+                               Sarvak, Kazhdumi and Gadvan.
+
+                           Coordinates (UTM):UTM39N,WGS84
+
+                         Wellhead Coordinates    X: 197220           Y: 3478613
+
+     Well Location        Geographical Position: 19.94degree SSE and 8976.4m away from
+                     AZN3, 50.76degree NNE and 6385.6m away from AZN5
+
+                              Structural Position: Eastern flank of Anticline in North Azadegan.
+
+                          Location on Seismic Lines: INLine 4736 and XLine 5504.
+
+                     4200m TVD
+
+     Designed TD        (Confirm penetrate into the top of Fahliyan Formation and no fair
+
+                          grade oil shows in the bottom.)
+
+   Target Formation      Sarvak, Kazhdumi, Gadvan
+
+
+    Well Completion       Perforation
+
+
+
+
+
+Drilling Program Page                                                                       1  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+1.1 Formation Tops and Description
+
+The North Azadegan field is completely covered by the alluvium of Holocene age. The penetrated
+
+formation from top to bottom is Aghajari, Gachsaran, Asmari, Pabdeh, Gurpi, Ilam, Laffan, Sarvak,
+
+Kazhdumi, Dariyan, Gadvan, Fahliyan. The formation tops are taken from a typical field formation
+
+prognosis. The strata prognostication is as below.
+
+                               Table1.1-1 Strata Prognostication
+
+
+            Stratified Formation                                  Strata
+
+
+
+                                                                            Lithology
+  Era                                                     Top            Top             (from nearby              Period                       Epoch                                                                     MD(m)                                                                                                                                   Formation                                                Formation                                   Formation        exploration well)                                                                                                                                             SSTVD（m）                                                                                                            Thickness（m）
+                                                                         Sandstone, clay stone &
+
+            Miocene- Plicene     Aghajari       6          7     1326 marl, thin limestone,
+
+                                                            gypsum and anhydrite
+
+                                                                          Anhydrite, clay stone,
+           M. Miocene      Gachsaran    -1320       1333    496
+                                                                             marl, limestone and salt
+
+                                                                         Sandstone, limestone,
+
+                                                                           dolomitic limestone,    Cenozoic      Tertiary   OligoceneMi-ocene    Asmari     -1816       1829    309
+                                                                                argillaceous limestone
+
+                                                                  and marl
+
+                                                                          Light brown & light
+
+        U.Paleocene-L.Oligocene  Pabdeh     -2125       2138    174 gray limestone, shale
+
+                                                                  and marl
+
+                                                                             Buff, brown, gray
+                                 Gurpi      -2299       2312    312
+                                                                              limestone, marl
+
+                                                                             Buff, brown, gray
+                                  Ilam      -2611       2624     86
+                                                                          limestone
+               Upper
+                                                                 Green gray clay stone
+                                  Laffan      -2697       2710     6
+                                                                  and shale, limestone
+
+                                                                         Off-white to gray,    Mesozoic       Cretaceous                         Sarvak     -2703       2716    707
+                                                              brown limestone
+
+                                                                        Limestone, sandstone,
+                            Kazhdumi    -3410       3423    202
+                                                                              shale and clay stone
+               Lower
+                                                                        Limestone, argillaceous
+                                Dariyan     -3612       3625    201
+                                                                              limestone, shale
+
+
+
+
+
+Drilling Program Page                                                                       2  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+                                                                    Clay stone, limestone,
+                             Gadvan     -3813       3826    361
+                                                                             marl, sandstone
+
+                                U.Fahliyan    -4174       4187   ▽  Limestone, marl
+
+Notes：
+
+1) ▽No Penetration.
+
+2) Formation tops forecasted may be errors due to subsurface uncertainty.
+
+
+
+
+
+Drilling Program Page                                                                       3  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+1.2. Structure
+
+The Azadegan Field is located approximately 80 km west of Ahwaz city, in the west - south west Dezful
+
+Embayment, parallel to the border of Iran-Iraq. It is situated in the northwest of the Yadavaran Field
+
+(Kushk & Hossainiyeh) and in the west of Jufeyr Field.
+
+
+
+
+
+                            Fig 1.2-1 Geographical Location Map
+
+The Azadegan Field  is located on a large long-axis anticline trending in N-S direction with an
+
+approximate length of 60km and width of 20km, based on OWC intersection with 2D-Seismic depth
+
+map closed to the top Sarvak. Taking the line of 2km north to AZN7 as northern boundary, the trap area
+
+of the North Azadegan is limited to 11×16km2.
+
+
+
+
+
+Drilling Program Page                                                                       4  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+
+
+                      Fig.1.2-2  Structural Map of Top of Sarvak Formation
+
+
+
+
+
+Drilling Program Page                                                                       5  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+1.3. Potential Drilling Risks
+
+Up to now, only 2 wells (AZN3, AZN7) have been drilled in North Azadegan Field, AZN3 is located in
+
+the centre and AZN7 in the north of this field. But there is an adjacent well AZN5 in the south of North
+
+Azadegan Field, which is located in the western flank of anticline. Since no well has been drilled in
+
+eastern flank of the anticline in this field, it is hard to describe the structure of Sarvak, Kazhdumi and
+
+Gadvan formation in more detail, and drilling risks of N111E are based on the AZN3, AZN5 and AZN7
+
+etc. adjacent wells.
+
+1)  Some minor or middle fractures exist in sandstone and limestone, partial or total lost circulation
+
+    was encountered from offsets mainly below top of Asmari, max was 139m3/d, average was
+
+    10-15m3/d. Total loss for AZN6 well is about 1590m3.
+
+2)  High pressure aquifers exist in Gachsaran and Gadvan formations to cause kicks and high salinity
+
+      salt water cut.
+
+3)  Anhydrite/gypsum or salt exists in Gachsaran formation mainly cause tight hole and stuck drill
+
+      string.
+
+4)  High concentration H2S /CO2 sour gas and  salinity  exist  in Sarvak (H2S:0.03mol%, CO2:
+
+    1.65mol%), Kazhdumi and Gadvan formations mainly to cause drill string and casing corrosion
+
+    and drilling crew harmed or poisoned.
+
+5)  Abnormal high pressures exist in Gachsaran or Dariyan/Gadavan formation, so high quality well
+
+    head and well control equipment and management will be requested.
+
+6)   Formation consists mainly of limestone below top of Pabdeh to produce low ROP in drilling
+
+     operation.
+
+Moreover, the combination of H2S and CO2 is more aggressive than H2S alone, since casing corrosion
+
+and rig personnel risks are frequently found in oilfield environments. So problems about corrosion and
+
+rig personnel safety are big challenges for drilling in North Azedagan Field.
+
+The contractor should be familiar with the drilling history (incl. experienced drilling hazards) of existing
+
+exploration wells. Appropriate contingency planning needs to be developed to adequately deal with
+
+potential similar hazards in this well.
+
+
+
+
+
+Drilling Program Page                                                                       6  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+1.4. Geological Requirements
+
+1.  Coring
+
+               Table 1.4-1 Parameters Table of Coring in North Azadegan Field
+
+                     Coring Interval     Coring penetration          Adjacent Well
+ Coring Formation
+                          (m)                 (m)              sub-formation(MD)
+
+                        2743-2851              108               2860-2968 (AZN5)
+      Sarvak
+                        2879-2906              27               2996-3023(AZN5)
+
+    Kazhdumi           3600-3609               9                3602-3611(AZN5)
+
+     Gadvan            3945-3954               9                3930-3939(AZN5)
+
+Note: Coring program may be changed at the request of the geologist or operation manager.
+
+2.  Geological Sampling Program
+
+                  Table 1.4-2 Interval Sampling and Preservation of Cuttings
+
+              Prognosed Depth                  Sampling   Number of    Distribution
+ Formation                    Sample Type
+                     Interval                          Interval         Sets            List
+
+                         No samples to
+                  0-13m
+                                  be collected
+
+                               Unwashed
+                                         10m         1 sets
+                                   Samples
+  Aghajari-                                                   CNPCI & NIOC
+               13m-1829m      Washed &
+  Gachsaran                                 10m
+                                      Dried                      2 sets
+
+                                   Samples
+
+                               Unwashed
+                                      5m         1 sets
+                                   Samples
+   Asmari-                                                    CNPCI & NIOC
+              1829m-2716m     Washed &
+    Laffan                                5m
+                                      Dried                      2 sets
+
+                                   Samples
+
+                               Unwashed      2m
+                                                             1 sets
+                                   Samples
+
+                               Washed &
+   Sarvak-                               2m                CNPCI & NIOC
+               2716m-TD          Dried                      2 sets
+   Gadvan
+                                   Samples
+
+                                      2m
+                                Sample Files                   2 sets
+
+Note: The detail requirement of sampling and coring shall be followed the instruction of geological
+
+supervisor which is appointed by the company on the well site.
+
+
+
+Drilling Program Page                                                                       7  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+3.  Logging Program
+
+                             Table 1.4-3 Petrophysical Logging
+
+                              Approximate
+       Content    Bore Hole
+                               Measuring          Logging Item       Scale  RemarksName                     Size(inch)
+                                Interval(m) (MD)
+
+                                      No Logging Item
+ Conductor Hole      30”            0-13
+                                                   performed
+
+                                      No Logging Item
+   Surface Hole        26”           13-100
+                                                   performed
+
+                                        CGR, SP, DLL, MSFL,
+
+Intermediate Hole                              BCS, SED,
+                   17 1/2”        100-1333                               1:200
+    Logging                                CBL/VDL, CCL,
+
+                                               3-Componet VSP
+
+                                        CGR, SP, DLL, MSFL,
+
+                                            BCS, LDT, CNL,
+Intermediate Hole                           CSNG,SED
+                   12 1/4”        1333-1829                               1:200
+    Logging
+                                         CBL/VDL, CCL,
+
+                                               3-Componet VSP
+
+                                        CGR, SP, DLL, MSFL,
+
+                                            BCS, LDT, CNL,
+
+   Main Hole                              CSNG, EMI, WSTT,          MRIL is
+                   8 1/2”        1829-3625                               1:200
+    Logging                                 CAST,SFTT,                     Option
+
+                                         CBL/VDL, CCL,
+
+                                               3-Componet VSP
+
+                                        CGR, SP, DLL, MSFL,
+
+                                             BCS, LDT, CNL,
+
+   Main Hole                               CSNG, WSTT, CAST,        MRIL is
+    Logging          6”          3625-TD       SFTT,                 1:200    Option
+
+                                         CBL/VDL, CCL,
+
+                                                3-Componet VSP
+
+
+Note: More details refer to “Drilling Geological Design of N111E”.
+
+4.  Testing Program
+
+The testing formations are Sarvak, Kazhdumi and Gadvan. The intervals will be chosen Based on Mud
+
+logging, Wireline logging interpretation after consideration of borehole conditions.
+
+Testing intervals as below are forecasted (specific interval data TBD by log interpretation result. Each
+
+interval should be tested separately.):
+
+
+Drilling Program Page                                                                       8  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+    Zone1: 3946-3968; Gadvan; 5” casing; perforating-well test-acidizing.
+
+    Zone2: 3893-3903; Khalij; 5” casing; perforating-well test-acidizing.
+
+    Zone3: 3591-3611; Kazhdumi; 7”casing; perforating-well test-acidizing.
+
+    Zone4: 2893-2924; Sarvak 6; 7”casing; perforating-well test-acidizing.
+
+    Zone5: 2870-2879; Sarvak 6; 7”casing; perforating-well test-acidizing.
+
+    Zone6: 2826-2863; Sarvak 5; 7”casing; perforating-well test-acidizing.
+
+    Zone7: 2784-2819; Sarvak 3&4; 7”casing; perforating-well test-acidizing.
+
+    Zone8: 2751-2774; Sarvak 2; 7”casing; perforating-well test-acidizing.
+
+    Zone9: 2716-2743; Sarvak 1; 7”casing; perforating-well test-acidizing.
+
+
+                        Table 1.4-4 Requirement of Data Acquisition
+
+
+
+                                                 Requirment for data
+                                                                acquisition
+
+              Interval
+                      Thickness
+  Zone       (m)                          FM                               PVT
+                         (m)           (TVD)                                                                                                            Pressure                   oil                                                                                                                                                                                                                              surface                                                                                                                                                                                        sample                                                                                                           build                                                                                                                                                                                                                                                                     Temperature                Productivity                       fluid                                                                                                                                                                           sample                                           up
+
+   1     3946-3968     22       Gadvan   √  √  √  √  √
+   2     3893-3903     10           Khalij   √  √  √  √  √
+   3     3591-3611     20      Kazhidumi  √  √  √  √  √
+   4     2893-2924     31       Sarvak 6   √  √  √     √
+   5     2870-2879      9       Sarvak 6   √  √  √  √  √
+   6     2826-2863     37       Sarvak 5   √  √  √     √
+   7     2784-2819     35      Sarvak 3-4  √  √  √     √
+   8     2751-2774     23       Sarvak 2   √  √  √  √  √
+   9     2716-2743     27       Sarvak 1   √  √  √     √
+Note:"√"means this data need to acquire
+
+
+
+
+
+Drilling Program Page                                                                       9  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+1.5. Formation Pressure and Temperature
+
+According to the statistic data of 7 wells drilled in the Azadegan field, formation pressure forecast is
+
+done mainly based on the off-set wells testing in this field, especially based on the DST testing result
+
+and RFT data in Sarvak, Kazhdumi and Gadvan formation. The proposed mud weight is mainly based
+
+on the drilling process of AZN5.
+
+The forecast may be not accurate due to the lack of necessary data. Therefore, the drilling engineer
+
+should decide the mud density to be used during drilling with a good consideration of drilling safety and
+
+the reservoir protection.
+
+1.  Formation Pressure Forecast
+
+
+                                                  Graph of Pressure-Depth
+                                                                         According AZN5
+
+
+     70000
+
+
+     65000
+
+
+     60000
+
+
+     55000
+                                              y = 18.1x - 118.76      (Kpa)
+          Pressure 50000     45000
+
+
+     40000
+
+
+     35000
+
+
+     30000
+          1500                 2000                 2500                 3000                 3500                 4000
+                                                            Depth (m)
+
+                                Fig. 1.5-1 Predicted Pressure Profile
+
+Note: The predicted pressure coefficient is gotten from the RFT data of unique adjacent well
+
+AZN5, which is 6.4km away from this well.
+
+2.  Estimated Formation Temperature
+
+                             Table 1.5-1 Predicted Temperature
+
+                                                    Interval              Temperature
+   No.             Formation
+                                         (m)(MD)                 (℃)
+
+   1             Sarvak1- Sarvak7              2716-2924                 88-100
+
+   2              Kazhdumi                  3591-3625                 118-120
+
+   3               Gadvan                   3893-4187                 124-135
+
+
+
+
+
+Drilling Program Page                                                                       10  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+2. Quality Requirements
+
+
+
+
+2.1 Wellbore Quality
+
+
+1)  The average ratio of washout section (vs. hole size) in the pay zone interval of Sarvak, Kazhdumi,
+
+    and Gadavan should be less than 10%;
+
+2)    Full hole without sand bridge, no fill in bottom hole;
+
+3)   The dogleg should be less than 3 °/30m.
+
+                Table 2.1-1 Maximum Hole Angle and Horizontal Displacement
+
+
+
+      Depth（m)      Deviation (°)     Bottom Hole Shift (m)      DLS（°/30m）
+
+
+         ≤2000               ≤3°                ≤50                      ≤2.25°
+
+       2000~3000            ≤5°                ≤80                      ≤2.50°
+
+       3000~4000            ≤7°                ≤120                     ≤2.75°
+
+       4000~5000            ≤9°                ≤160                     ≤3°
+
+Note:
+
+(1) Single shot survey should be carried out every 100－150m or Drilling Program’s requirements.
+
+(2) This is standard of China petroleum industry—Q/CNPC52-2001 and SY/T 5088-2008 Specification
+
+    for well bore quality.
+
+(3) The quality requirements of wellbore shall be determined by company’s geologist or company’s
+
+    representative on location.
+
+
+
+
+
+Drilling Program Page                                                                           11  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+2.2 Cementing Quality
+
+
+                       Table 2.2-1 Quality requirements of Cementing
+
+
+
+            Size of            Size of   Cementing                  Quality
+                    Interval                      Cement
+  Section     Bit            Casing     Interval              Requirement of   Remark
+                   (m)                          Logging
+                (in)                 (in)        (m)                 Cementing
+
+
+                                                                       Cement to
+  Surface     26    0-100     20        0-98       N/A        Qualified
+                                                                                           surface
+
+                                                                       Cement to
+   Inter.1    17 1/2   -1333    13 3/8     0-1331    CBL/VDL     Qualified
+                                                                                           surface
+
+                                                                       Cement to
+   Inter.2    12 1/4   -1829    9 5/8      0-1827    CBL/VDL     Qualified
+                                                                                           surface
+
+ Production
+            8 1/2   -3625      7      1700-3623   CBL/VDL     Qualified    Cement to TOL
+   Liner1
+
+ Production
+             6     -4200      5      3500-4198   CBL/VDL     Qualified    Cement to TOL
+   Liner2
+
+
+
+1)  Good zonal isolation is required to avoid water channeling into the objective pay zones from
+
+     over-lying or under-lying water bearing formations. An excellent cement bond from TD to 50m
+
+    above the top of pay zone is critical to avoid water channeling behind.
+
+2)     If the cement bond logging indicates poor cementing quality, should take action to improve the
+
+    cementing process for future producers. In addition, a cement-squeeze job maybe performed on the
+
+     poorly cementing interval in this well, which be made by necessary conditions although chances of
+
+     success will probably be low.
+
+
+
+
+
+Drilling Program Page                                                                       12  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+3. Drilling Engineering Design
+
+
+3.1. General Data
+
+
+The proposed well plan in this program calls for:
+
+a) The depth for 30″conductor is about +/- 15m.
+
+b)The setting depth of 20″casing is +/- 98m, cemented up to the surface.
+
+c)The 13 3/8″casing will be set at +/- 1331m and cemented up to the surface.
+
+(Confirmation of the top of Gachsaran abnormal pressure formation by geologist is essential for running
+
+13-3/8” casing, highly recommend to drill 2m into Gachsaran to confirm the formation.)
+
+d)The 9 5/8″casing will be set at +/- 1827m and cemented up to the surface.
+
+e)The 7″liner will be hanged from1700m to +/- 3623m and cemented to the hanger point.
+
+(Confirmation of the top of Dariyan by geologist is essential for running 7” casing)
+
+f)The 5″ liner will be hanged from 3500m to TD(about 4200m).
+
+
+
+
+
+Drilling Program Page                                                                       13  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+3.2. Well Profile
+
+
+
+
+
+                                        Fig. 3.2-1 Well Profile
+
+Note:
+
+1. This casing program could be subjected to further changes based on actual drilling operations and
+
+TD adjustments.
+
+2. Because of the high possibility of abnormal pressure in Gachsaran formation, 13-3/8” casing must be
+
+set at the top of Gachsaran formation. When Gachsaran formation is conformed by geology engineer,
+
+13-3/8” casing will be run.
+
+3. 7” liner should isolate Sarvak and Kazhdumi formation when good oil show is detected in those
+
+formations according to geological condition. But there is possible abnormal high pressure in Dariyan
+
+formation, 7” liner should be set at the top of Dariyan.
+
+4. 6’’ should be drilled to the TD (about 4200m).
+
+
+
+
+
+Drilling Program Page                                                                       14  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+3.3. Casing Design
+
+
+3.3.1 Loads and Safety Factor Selection
+
+The stress analysis was prepared using conventional working stress design procedures, where stresses
+
+due to various load conditions are calculated and compared to the API minimum yield strength of the
+
+tubular evaluated. Minimum safety design criteria as below:
+
+                         Table 3.3-1 Working Stress Design Criteria
+
+                 Name of factors    Minimum Safety Factors
+
+                              Burst                       1.25
+
+                            Collapse                       1.0
+
+                        Axial – Tension                  1.80
+
+The casing is designed based on the following policies and standards.
+
+
+                           Table 3.3-2 Casing Selection Standards
+
+API BULLETIN 5C3     Bulletin on Formulas and Calculations for Casing, Drill Pipe, and Line Pipe
+
+                          Properties
+
+API        5CT/ISO   Specification for Casing and Tubing
+
+11960:2004
+
+API SPECIFICATION  Threading, Gauging, and Thread Inspection of Casing, Tubing, and Line Pipe
+
+5B                     Threads
+
+SY/T 5322-2000        Design method of casing string strength
+
+SY/T-0599               Sulfide stress cracking resistant metallic material requirements for gas surface
+
+                        equipment.
+
+SY/T-6194              Petroleum and natural gas industries-steel pipes for use as casingor tubing for
+
+                           wells.
+
+
+                      Table 3.3-3 Casing Design Condition Assumptions
+
+        Items                                Condition assumptions
+
+                     The tensile strength of the casing is the smaller yield strength for the casing
+
+Tension                  wall or the joint.
+
+                   RIH speed is 0.4m /s.
+
+External pressure stress   1/3 evacuated for surface and intermediate casing, completely evacuated for
+
+
+
+Drilling Program Page                                                                       15  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+(Collapse)               production casing and liner.
+
+                     The effect of axial stresses on collapse resistance shall be taken into account.
+
+                      “Cementing” and “Drill ahead” are considered as the collapse loads of 20",
+
+                     13 3/8" and 9 5/8" casing and 7" liner.
+
+                         “Pressure test” at wellhead with 1450psi and “Drill ahead” are considered as
+Internal pressure stress
+                          the burst loads to 20", 13 3/8" and 9 5/8" casing and 7" liner. “Gas kick” for
+(Burst)
+                         production casing and liner.
+
+
+3.3.2. Casing Program
+
+                              Table 3.3-4 Casing Specification
+
+                                                   Measure
+                            Wall
+  Casing   OD   Weight                   Thread    Depth
+                           Thickness  Grade                       Burst Collapse  Axial
+    No.        (In)   (PPF)                     Type       (m)
+                        (mm)
+                                                    Top  Base
+
+  Surface
+             20“     94      11.13     K-55    BTC     0    98   1.32    4.38    9.49
+   casing
+
+Intermediate
+             13-3/8“   68      12.19     N-80    BTC     0   1331 2.19L   1.51    2.63
+  Casing1
+
+Intermediate                           BTC or
+              9-5/8“    43.5      11.5      L-80              0   1827  1.31    1.2      1.8
+  Casing2                                  Gas tight
+
+ Production                           BTC or
+              7“     32      11.51     L-80            1700  3623  2.03    1.25    3.90
+   Liner1                                         gas tight
+
+ Production                                      Without
+
+   Liner2     5“ or                                 coupling,
+                     18/15.1  9.19/8.56   L-80            3500  4198  2.56   1.01*     4.1
+              4-1/2”                      BTC or
+
+                                          Gas tight
+
+Figures of Casing Strength Check
+
+
+
+
+
+Drilling Program Page                                                                       16  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+
+
+                         Fig. 3.3-1 508mm Surface Casing Strength Check
+
+
+
+
+
+                          Fig. 3.3-2 339.7mm Inter Casing Strength Check
+
+
+
+
+
+Drilling Program Page                                                                       17  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+
+
+                          Fig. 3.3-3 244.5mm Inter Casing Strength Check
+
+
+
+
+
+                       Fig. 3.3-4 177.8mm Production Liner Strength Check
+
+
+
+
+
+Drilling Program Page                                                                       18  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+
+
+                        Fig. 3.3-5 127mm Production Liner Strength Check
+
+
+
+
+
+Drilling Program Page                                                                       19  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+3.4. Drilling Operation Procedure
+
+
+3.4.1. Pre-spud Preparation
+
+Ensure that the following has been completed prior to spud:
+
+  (1)  Have safety / operational meeting with all personnel before moving on equipment.
+
+  (2)  Rig completely is rigged up and all major components function is tested. Equipment shall be
+
+        installed smoothly, positively, consistently, completely, firmly, effectively and jointly according
+
+       to the installation standards. Crown block, rotary table and wellhead shall be calibrated to make
+
+       sure that they are aligned, and the error shall be less than 10mm.
+
+  (3)  Monitoring equipment functional and calibrated:
+
+     a)   Weight indicator, etc.
+
+     b)  Pump stroke indicators installed on all pumps
+
+     c)   Pressure gauges (pump, stand pipe, manifold) with backups available
+
+  (4) Mud system filled, fluid can be diverted and tanks emptied without leaks.
+
+  (5) Low pressure mud system tested.
+
+  (6)  Shakers work correctly and
+
+     a)   Decanting angles are correct.
+
+     b)   Screens are checked for proper sizing and spares.
+
+     c)   Ensure screens for different sections are on location.
+
+  (7)  Rig is supplied solids control equipment.
+
+  (8)  Adequate supply of mud products on location for surface hole (lost circulation).
+
+  (9)  Drill string is drifted on the racks.
+
+  (10) Drill collars are inspected on location.
+
+  (11) Record joint count of all drill pipe and collars on location (to be maintained throughout the well).
+
+  (12) Surface casing threads are cleaned.
+
+  (13) Check all wellhead equipment (including flange, washer, test plug, O ring, wear bushing, bolt,
+
+       nut, valves etc.)
+
+  (14) Effective volume of the reserve tank shall be no less than 320m3. Enough water shall be in place
+
+       for lost circulation.
+
+  (15) Weighting materials such as ferrum powder etc shall be available at well site all time during the
+
+       operation.
+
+  (16) Communication facilities: 3 telephone lines on site (one each for supervisor and contractor, one
+
+       fax line shared by both), walkie-talkie for special operations, and HUB, Modem, LAN line etc
+
+      should be prepared for internet connection.
+
+  (17) Flare pit and blow out pit shall be at least 150m away from well site.
+
+  (18) 30” conductor pipe shall be set about 15m below bottom of cellar and cement.
+
+  (19) Install bell nipple, flow line and mud charge line.
+
+
+Drilling Program Page                                                                       20  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+3.4.2. 26″ Surface Hole with 20″Surface Casing
+
+Drilling Procedure for 26” Hole
+
+  (1)  E-mail or phone spud notification to Drilling Superintendent 24 hrs before expected spud time.
+
+  (2)  Pre-spud, shall hold the tool box talk. Every body on duty should well know objective of the job,
+
+      method – step to the job, responsibility, hazards related to the job and the worksite, hazards check
+
+          list, hazards control method.
+
+  (3) Make drilling fluid for 660.4mm hole according to drilling fluid program.
+
+  (4) M/U STB and BHA, RIH.
+
+  (5)  Drill 660.4mm surface hole to +/-100m, bit change and drilling parameter as per the drilling
+
+       condition encountered.
+
+  (6)  Periodically circulate as necessary to clean hole of cuttings, pump Hi-Vis as required.
+
+  (7)  Increase viscosity to prior to casing point. Make wiper trip and if there is no fill, then circulate to
+
+       clean well bore, pump Hi-Vis to spot the bottom & POOH for logging and casing.
+
+  (8)  Logging as per geological program.
+
+  (9) Run 20” casing string to bottom. Install centralizers on the casing as cementing program. Use
+
+        float shoe, and install float collar on top of the second joint of casing. Tack weld and thread lock
+
+         first 3 joints.
+
+  (10) Install the wellhead. Pressure test to 80% of casing collapse strength.
+
+  (11) Nipple up 20” BOP and test as BOP testing procedure.
+
+  (12) Mud should be prepared in pits for 17-1/2”section.
+
+  Note:
+
+  Report hole conditions in detail on daily drilling report, noting depth and severity of any hole
+
+  problems (tight hole or mud losses) and a description of any sloughing (size, shape and quantity).
+
+  This information will assist in optimizing future locations in this area since spudding.
+
+Potential Surface Hole Problems
+
+Caving and lost circulation are possible. Ensure an adequate supply of LCM and water.
+
+Survey Requirements
+
+Run Totco or multi surveys with slick line unit every 150m or bit trips.
+
+Recommended BHA
+
+                 1     26" Tri-cone bit
+
+                 2      Bit sub(Totco Ring)
+
+                 3      9-1/2” Shock sub
+
+                 4      9-1/2” DC×2 joints
+
+                 5     Stab×1
+
+                 6     8” spiral DC×6 joints
+
+                 7     5” DP（as required）
+
+Drilling Parameters
+
+
+
+
+Drilling Program Page                                                                       21  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 59 ]
+────────────────────────────────────────────
+        CNPC International Ltd (Iran) North Azadegan Project
+
+                       CNPCI Contract No.: NA-OD-010-001
+   DEPTH (m)    STRATUM    WOB (KN)    RPM  (r/min)      Flow rate  (L/s)
+
+
+       0-100       AGHAJARI      100～250         80～150          55～65
+
+ Hydraulic Parameters
+
+
+       Bit type                                             Hydraulics
+
+     (IADC                                      Bit   Annulus            Jet         Up
+Spud          Nozzle  Size MW   Pump                        Bit              Bit
+        No.)                                 Pressure Pressure          Velocity        Hole
+ No.           (mm)     (g/cm3) Pressure                  Impact      HHP
+      And                             Drop    Drop             (m/s)          Velocity
+                               (MPa)                  (KN)        (KW)
+     Number                            (Mpa)   (KPa)                            (m/s)
+
+Spud                           1.04-
+      111  1  11+12+14+14          10-15     10.4      0.86     8.34    129    573    0.18
+  1                            1.07
+
+
+
+  3.4.3. 17 1/2″Hole with 13 3/8″Inter Casing
+
+  Drilling Procedure
+
+    (1)  Install 20” wear busing, screw in the retaining screw.
+
+    (2)  Drill 50m out of shoe track with slick BHA, low rotary speed and minimum weight on bit.
+
+    (3) POOH, M/U STB and BHA, RIH with Rotary Pendulum Assembly with bit.
+
+    (4)  Drill 444.5mm hole ahead to approximately 1333m (top of Gachsaran formation), bit change and
+
+        parameter as per the drilling condition encountered.
+
+    (5)  Circulate bottoms up and wiper trip to last casing shoe.
+
+    (6)  Circulate and condition mud/hole to log. POOH & L/D STB
+
+    (7)  Log as per logging program.
+
+    (8) Make a clean out trip. Condition mud/hole for casing.
+
+    (9) POOH, retrieve the wear bushing.
+
+    (10) Run 13-3/8” casing to bottom as cementing program. Use float shoe, and install float collar on
+
+        top of second full joint of casing. Thread locks first 3 joints.
+
+    (11) Cement as per cement program. Displace with mud. Bump the plug with right pressure.
+
+    (12) WOC.
+
+    (13) Pick up BOP stack. Set casing slips with 13-3/8” casing weight. Make a rough cut on casing.
+
+        Nipple down the BOP and make a final cut on casing. Install the wellhead. Pressure test to 80%
+
+        of casing collapse strength.
+
+    (14) Nipple up 13-3/8” BOP and test as procedure.
+
+    (15) Saturated NaCl Polymer Mud should be prepared in pits for 12-1/4” section.
+
+  Note: Make regular wiper trips every 24 to 36 hours or 150m footage.
+
+  Potential 17-1/2” Hole Problems
+
+ Caving and lost circulation are possible. Ensure an adequate supply of LCM and drilling water.
+
+
+
+  Drilling Program Page                                                                       22  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+Survey Requirements
+
+Run Totco wire line surveys every 50-100 m or on bit trips.
+
+Recommended BHA
+
+
+                  1     17-1/2” bit
+
+                  2     Bit sub(Totco Ring)
+
+                  3     9-1/2” Shock Sub
+
+                  4    9-1/2”DC×2 joints
+
+                  5    Stab×1
+
+                  6    9-1/2”DC
+
+                  7    8”DC×12 joints
+
+                  8    8” Drilling jar ×1
+
+                  9    8” Spiral DC×2 joints
+
+                  10    5” HWDP ×15 joints
+
+                   11   5”DP（as required）
+
+Note：After drill out cement plug 50m new formation or to the bit life with slick BHA, POOH then RIH
+
+with stabilizers as above.
+
+Drilling Parameters
+
+  DEPTH (m)    STRATUM    WOB (KN)    RPM  (r/min)      Flow rate  (L/s)
+
+
+     1333       AGHAJARI      100～200         80～150          50～60
+
+Hydraulic Parameters
+
+
+       Bit type                                          Hydraulics
+
+     (IADC   Nozzle                        Bit   Annulus            Jet         Up
+Spud          MW   Pump                        Bit              Bit
+        No.)      Size                     Pressure Pressure          Velocity        Hole
+ No.                      (g/cm3) Pressure                  Impact      HHP
+      And    (mm)                  Drop    Drop             (m/s)          Velocity
+                             (MPa)                  (KN)        (KW)
+     Number                         (Mpa)   (KPa)                            (m/s)
+
+                             1.07-
+Spud 115  1  16+16+18          15-20      5.6      8.86     6.39     99.5   336.3   0.42
+                            1.41
+  2
+      134  2                                        Ignore
+
+Note: Bit may be changed based on actual situation, such as an option to choose S423 .
+
+
+3.4.4.12 1/4″Hole with 9 5/8″Inter Casing
+
+  (1)  Install 13 3/8” wear busing, screw in the retaining screw.
+
+  (2)  Make up and RIH with Rotary Pendulum Assembly with recommended bit.
+
+  (3)  Drill 30 m out of shoe track with low rotary speed and minimum weight on bit.
+
+
+
+Drilling Program Page                                                                       23  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+  (4)  Drill 311.1 mm hole ahead to approximately +-1829 m (bottom of Gachsaran), bit change and
+
+       parameter as per the drilling condition encountered.
+
+  (5)  Circulate bottoms up and wiper trip to last casing shoe.
+
+  (6)  Circulate and condition mud/hole to log. POOH & L/D STB
+
+  (7)  Log as per logging program.
+
+  (8)  Make a clean out trip. Condition mud/hole for casing.
+
+  (9) POOH.
+
+  (10) Retrieve the wear bushing.
+
+  (11) Run 9-5/8”casing. Use float shoe, and install float collar on top of second full joint of casing.
+
+      Thread locks first 3 joints.
+
+  (12) Cement as cement program. Displace with mud. Bump the plug with right pressure.
+
+  (13) WOC.
+
+  (14) Install well head section C- Tubing head spool 13-5/8” 5K x 11” 10K.
+
+  (15) N/U 13-5/8” 10K BOP stack, pressure test same.
+
+  (16) KCl Polymer Mud should be prepared in pits for 8-1/2” section.
+
+Potential 12-1/4” Hole Problems
+
+1) Anhydrite/gypsum or salt exists in Gachsaran formation mainly cause tight hole and stuck drill string.
+
+2) Abnormal high pressures exist in Gachsaran, so ensure an adequate supply of weighting mud
+
+materials.
+
+Survey Requirements
+
+Run Totco wire line surveys every 50-100 m or on bit trips.
+
+Recommended BHA
+
+                  1     12-1/4” bit
+
+                  2     Bit sub with float valve
+
+                  3    8”DC×2 joints
+
+                  4    Stab×1
+
+                  5    8”DC×15 joints
+
+                  6    8” Drilling jar ×1
+
+                  7    8” Spiral DC×2 joints
+
+                  8    5” HWDP ×15 joints
+
+                  9    5”DP（as required）
+
+Note：After drill out cement plug 50m new formation or to the bit life with slick BHA, POOH then RIH
+
+with stabilizers as above.
+
+Drilling Parameters
+
+  DEPTH (m)    STRATUM    WOB (KN)    RPM  (r/min)      Flow rate  (L/s)
+
+
+     1829     GACHSARAN     150～200         80～150          50～60
+
+
+
+Drilling Program Page                                                                       24  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+Hydraulic parameters
+
+
+       Bit type                                          Hydraulics
+
+      (IADC    Nozzle                        Bit   Annulus            Jet         Up
+Spud          MW   Pump                        Bit              Bit
+        No.)      Size                     Pressure Pressure          Velocity        Hole
+ No.                       (g/cm3) Pressure                  Impact      HHP
+      And    (mm)                  Drop    Drop             (m/s)          Velocity
+                             (MPa)                  (KN)        (KW)
+     Number                         (MPa)   (KPa)                            (m/s)
+
+                            1.60
+Spud  517  1 16+16+16          20-25     7.46     17.53    9.16     82.9    373    0.79
+                              -2.21
+  3
+     M423  1                             PDC, ignore
+
+Note: Bit may be changed based on actual situation..
+
+
+3.4.5. 8 1/2″ Hole with 7″Production Liner
+
+Drilling Procedure
+
+  (1)  Install wear bushing and screw in the retaining screw.
+
+  (2)  Drill 50m out of shoe track with slick BHA, low rotary speed and minimum weight on bit.
+
+  (3) POOH, M/U and RIH with Rotary Pendulum Assembly with 215.9 mm bit.
+
+  (4)  Drill 215.9 mm hole ahead to 3625m, coring as per geo-required, bit change and drilling
+
+       parameter as per the drilling condition encountered.
+
+  (5)  Circulate bottoms up and wiper trip to last casing shoe.
+
+  (6)  Circulate and condition mud/hole. Run desander and shale shaker with the smallest size screens
+
+       possibly without causing excessive mud losses, mud dilution and circulation may be necessary to
+
+       prevent loading the annular and flow line with cuttings and to prevent possible lost circulation.
+
+  (7) POOH & L/D STB.
+
+  (8)  Log as per logging program.
+
+  (9) Make a clean out trip as required
+
+  (10) POOH, retrieve the wear bushing.
+
+  (11) Make up liner hanger with setting tools and continue running liner using 5” drill pipes.
+
+  (12) Run 7” liner to bottom as cementing program. Install centralizer 1 each per 2 joints at pay zone
+
+      and one for every 3 joints at other formation as required. Use float shoe, and install float collar
+
+      on top of second full joint of casing. Thread lock first 3 joints.
+
+  (13) Cement as per cement program. Displace with mud. Bump the plug with right pressure.
+
+  (14) Polymer mud should be prepared in pits for 6” section.
+
+Potential 8-1/2” Hole Problems
+
+1) Lost circulation is a main risk. Ensure an adequate supply of LCM and drilling water.
+
+2) Formation damage. Some measure should be taken to avoid formation damage in Sarvak and
+
+Kazhdumi pay zone as below:
+
+✓  The temporary sealing material to protect the reservoirs;
+
+
+
+Drilling Program Page                                                                       25  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+✓   Control the drilling fluid filtration to ensure minimal damage to the reservoir.
+
+✓   Control harmful solids contents as low as possible.
+
+
+Survey Requirements
+
+Run Totco wire line surveys every 50-100 m or on bit trips. If well deviation is higher than required well
+
+bore quality, the survey would be every 30m.
+
+Recommended BHA (Option 1)
+
+                   1     8-1/2” bit
+
+                   2    6-1/2”PDM×1
+
+                   3   C/W float valve
+
+                   4     6-1/2” DC×2 joints
+
+                   5     Stabilizer×1
+
+                   6     6-1/2” DC ×18 joints
+
+                   7    Jar×1
+
+                   8     6-1/2” DC ×2 joints
+
+                   9   5”HWDP ×15 joints
+
+                   10   5”DP（as required）
+
+Recommended BHA (Option 2)
+
+                   1     8-1/2” bit
+
+                   2     Bit sub with float valve
+
+                   3     6-1/2” DC×21 joints
+
+                   4     Jar ×1
+
+                   5     6-1/2” DC ×2 joints
+
+                   6   5”HWDP ×15 joints
+
+                   7   5”DP（as required）
+
+Note：After drill out cement plug 50m new formation or to the bit life with slick BHA, POOH then RIH
+
+with stabilizers as above. If the deviation is larger than quality requirements, change BHA for correcting
+
+deviation.
+
+Drilling Parameters
+
+  DEPTH  (m)   STRATUM     WOB  (KN)     RPM          Flow rate (L/s)
+
+                                                             (r/min)
+
+                ASMARI-
+     3625                        100～200         80～100         25～30
+              KAZDUMI
+
+Hydraulic Parameters
+
+
+Spud  Bit type   Nozzle  MW                         Hydraulics
+
+
+
+
+
+Drilling Program Page                                                                       26  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+ No.  (IADC     Size    (g/cm3)              Bit   Annulus            Jet         Up
+                         Pump                        Bit              Bit
+        No.)    (mm)                    Pressure Pressure          Velocity        Hole
+                                 Pressure                  Impact      HHP
+      And                           Drop    Drop             (m/s)          Velocity
+                             (MPa)                  (KN)        (KW)
+     Number                          (Mpa)   (KPa)                            (m/s)
+
+                             1.28-
+      517  3 14+14+14          20-25     2.99      9.44     2.61     83.6    65     1.25
+                            1.34
+
+    M423  2                            PDC, IgnoreSpud
+  4  M432  4                            PDC, Ignore
+
+      527  5                                    Option
+
+    M433  4                                   Coring bit
+
+Note: Bit may be changed based on actual situation.
+
+
+3.4.6. 6″ Hole with 5″Production Liner
+
+Drilling Procedure
+
+  (1)  Install wear bushing and screw in the retaining screw.
+
+  (2)  Drill 50m out of shoe track with slick BHA, low rotary speed and minimum weight on bit.
+
+  (3) POOH, M/U and RIH BHA with 152.4 mm bit.
+
+  (4)  Drill 152.4 mm hole ahead to TD, bit change and drilling parameter as per the drilling condition
+
+       encountered.
+
+  (5)  Circulate bottoms up and wiper trip to last casing shoe.
+
+  (6)  Circulate and condition mud/hole to log. POOH & L/D STB.
+
+  (7)  Log as per logging program.
+
+  (8) Make a clean out trip as required
+
+  (9) POOH, retrieve the wear bushing.
+
+  (10) Make up liner hanger with setting tools and continue running liner using 3-1/2” drill pipes.
+
+  (11) Run 5” liner to bottom as cementing program. Install centralizer 1 each per 2 joints at pay zone
+
+      and one for every 3 joints at other formation as required. Use float shoe, and install float collar
+
+      on top of second full joint of casing. Thread lock first 3 joints.
+
+  (12) Cement as per cement program. Displace with mud. Bump the plug with right pressure.
+
+  (13) WOC.
+
+  (14)  L/D BOP’s stack, install X-tree.
+
+  (15) L/D drill pipe and rig release.
+
+Potential 6” Hole Problems
+
+1) Lost circulation is a possible risk. Ensure an adequate supply of LCM and drilling water.
+
+2) Abnormal high pressure may occur in Dariyan and Gadvan formation, so enough weighting mud
+
+materials and enough reserved mud should be prepared.
+
+3) Some measure should be taken to avoid formation damage in Gadvan pay zone as below:
+
+✓  The temporary sealing material to protect the reservoirs;
+
+
+Drilling Program Page                                                                       27  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+✓   Control the drilling fluid filtration to ensure minimal damage to the reservoir;
+
+✓   Control harmful solids contents as low as possible.
+
+
+Survey Requirements
+
+Run Totco wire line surveys every 50-100 m or on bit trips. If well deviation is higher than required well
+
+bore quality, the survey would be every 30m.
+
+Recommended BHA
+
+                   1    6” bit
+
+                   2   C/W float valve
+
+                   3     4-3/4” DC ×2 joints
+
+                   4    Stab × 1
+
+                   5    4-3/4”DC× 16 joints
+
+                   6     4-3/4” Jar ×1
+
+                   7     4-3/4” DC × 2 joints
+
+                   8    3 1/2” HWDP × 15 joints
+
+                   9    3 1/2”DP（as required）
+
+                   10    5” DP (as required)
+
+Note: PDC can increase ROP and decrease casing wear of 7’’ liner.
+
+Drilling Parameters
+
+  DEPTH  (m)   STRATUM     WOB  (KN)     RPM          Flow rate (L/s)
+
+                                                             (r/min)
+
+                DARIYAN-
+     4200                        80～120         60～80         10～20
+              GADVAN
+
+Hydraulic Parameters
+
+
+       Bit type                                          Hydraulics
+
+      (IADC    Nozzle                        Bit   Annulus            Jet         Up
+Spud          MW   Pump                        Bit              Bit
+        No.)      Size                     Pressure Pressure          Velocity        Hole
+ No.                       (g/cm3) Pressure                  Impact      HHP
+      And    (mm)                  Drop    Drop             (m/s)          Velocity
+                             (MPa)                  (KN)        (KW)
+     Number                          (Mpa)   KPa                             (m/s)
+
+                              1.34-
+      537  2 14+14+14          20-25     0.78     24.25    1.66     43.3    15.6    1.66
+                            1.92Spud
+  5  M443  2                            PDC, Ignore
+
+     M443  1                                   Coring bit
+
+Note: Bit may be changed based on actual situation.
+
+
+
+
+
+Drilling Program Page                                                                       28  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+3.5 Coring Program
+
+
+3.5.1. Coring Equipment
+
+                               Table 3.5-1 Coring equipment
+
+ NO.      Description            Specification         Qty           Remark
+
+
+                              8-1/2"Well Size ,6-3/4"OD               Inner tube 30ft,
+1      CQZ172-101/A                             4 sets
+                           Conventional Coring                   Extensible to 90ft, Aluminium
+
+                           6"Well Size ,5-1/4"OD                  Inner tube 30ft,
+2      CQZ133-66/A                              2 sets
+                           Conventional Coring                   Extensible to 60ft, Aluminum
+
+                              8-1/2"Well Size, 63-/4"OD               Inner tube 30ft,
+3     CQZ1721-101YM                           2 sets
+                             Sealing Coring                        Extensible to 60ft, Steel or Al
+
+                           6"Well Size ,5-1/4"OD
+4     CQZ133-66YM                             2 set     Inner tube 30ft,Steel or Al
+                             Sealing Coring
+
+       Core      Support
+5                             60ft core Each Cradle       1 set     Supporting inner tube
+        Cradle
+
+6     Box Mounted Saw    Electrical power-220 V.     1 set     Core cutting
+
+
+
+                       Table 3.4-2 Coring Tool Types and Parameters
+
+      Item              Conventional  Coring                    Sealing Coring
+
+Type             CQZ172-101/A   CQZ133-66/A    CQZ172-101YM     CQZ133-66YM
+
+Breaking Way      Core breaking by Self-locked
+
+Outer Barrel(OD)           6-3/4″                5-1/4 "                   6-3/4″                   5-1/4 "
+
+Inner Barrel (OD)         4-3/4″ Al             3-1/4" Al               4-3/4″Al                3-1/4" Al
+
+Core Head Size             8-1/2″              6"                     8-1/2″                6"
+
+Core Size                 4″             2 5/8"                 4″               2 5/8"
+
+Max Core
+                            90′             30~60′              30~60′                 30′
+Capacity
+
+Top Thread            4-1/2″API IF        3-1/2″API IF          4-1/2″API IF         3-1/2″API IF
+
+Make Up Torque     12.5~13.3kN.m    8.5~10.3kN.m       11.5~12.8kN.m      8.5~10.3kN.m
+
+
+3.5.2. Preparations of Pre-Coring
+
+Pre-coring, the coring engineer must master the content and requirements related to the drilling coring
+
+given in the geological and drilling design, such as the coring interval, formation and lithology.
+
+Tools Preparation
+
+
+Drilling Program Page                                                                       29  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+1)  The well checked coring tool no less two sets, the spare parts are adequate.
+
+2)  The adjustable drill pipe (3~5m length), the 48″chain wrenches shall be prepared by drilling crew.
+
+    For sealing coring, the sealing fluid should be heated if need.
+
+Bore Hole Preparation
+
+1)  The water injection wells around coring well must be shut down ahead of three days.
+
+2)  The hole must be clean, no fish or debris. The instruments are sensible and accurate, mud flow rate
+
+and rotary speed can satisfy the need of coring operation.
+
+3)  Ensure no lost circulation＆no kick during drilling. No touch sticking during tripping.
+
+4)  The drilling fluid property is stable and the specification conforms to the design.
+
+Core Bit Selection
+
+The selection of core bit bases on the lithology of formation and practical situation, 8-1/2″ low invasion
+
+core head for soft to medium hard limestone will be used; in sand, soft limestone formation PDC is
+
+recommended, for hard formation the Diamond impregnated core bit is reserved recommended.
+
+
+3.5.3. Coring Operation Procedure
+
+81/2″ Coring BHA:
+
+Core Bit +Conventional Core Barrel+ DC + HWDP+DP
+
+Core Bit +Sealing Core Barrel+ DC+HWDP+DP
+
+6″Coring BHA:
+
+Core Bit + Conventional Core Barrel + DC+ HWDP+DP
+
+Core Bit +Sealing Core Barrel+ DC+HWDP+DP
+
+Coring Tool Inspection and Assembly
+
+1)  The external barrel is eye-checked no bending. the axial clearance between the bit internal shoulder
+
+    and the end of inner barrel shoe of conventional and oriented coring tool is 6-12mm, if not, turn the
+
+     adjustable axle to rectify the length of inner barrel.
+
+2)  The assembly of Aluminum inner tube should be finished on spare ground fastens the threads with
+
+     pipe wrench or chain tong.
+
+3)   Lift the coring tool up and down the rig floor with the guy-derrick; Collision  is forbidden
+
+     especially the core bit and sealing piston.
+
+4)  Use bite breaker to make up and break core bite.
+
+5)  For sealing coring, fixes the sealing pins on core bit and check the sealing quality.
+
+6)   Inject the sealing fluid into inner tube and stop for 5 minutes after the liquid surface up to the
+
+     swivel sub, make sure the inner tube is full of sealing fluid.
+
+Tripping In
+
+1)   Tripping operation must be steady, no sudden braking, sudden slack off, and preventing drilling
+
+     tools from violent vibrations.
+
+2)   Sticking should not exceed 80KN, otherwise the pump should be started, move and rotate the
+
+     drilling string gently. If severe resistance encountered, full-hole bit should be run into ream.
+
+
+
+Drilling Program Page                                                                       30  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+3)  Reaming with coring tool is forbidden.
+
+4)   After tripping in hole circulate mud completely to flush inner barrel and clean up well bottom, then
+
+     calibrate sensing instruments or meters.
+
+5)  For sealing coring, after the Circulation is ok, inject the tracer agent according to requirement, the
+
+     fluid circulation time no less than one cycle period until the content of tracer agent is up to
+
+    1±0.2kg/m3.
+
+Core Drilling
+
+1)   Start the pump to clean the well hole with bit untouched the bottom, when the inner tube and
+
+    bottom of hole is clean, drop a small ball to seal the mud channel of inner tube (only suitable for
+
+     conventional coring).
+
+2)  Lay down the drill string slowly to touch the bottom till WOB up to 100kN for shearing the sealing
+
+     pins on core bit. Then pull up the drilling string again for core shaping, after the penetration is over
+
+    0.3m, gradually adjust coring parameters to recommended values.
+
+                         Table 3.4-3 Drilling Parameters for Coring
+
+                      Rotation Rate         WOB               Flow Rate
+
+               （rpm）         （KN）            （L/s）Coring Phase
+
+                      8-1/2″ hole    6″ hole     8-1/2″hole    6″ hole      8-1/2″ hole    6″ hole
+
+Core Shaping        40~50       40~50      20~30      15~20       18~24       12~16
+
+Core Drilling        60~70       60~70      60~90      50~70       18~24       12~16
+
+Core Milling        60~70       60~70      90~30      70~20       18~24       12~16
+
+Core Breaking        /                       30~10      20~10          /
+
+Core Breaking
+
+1)  The cutting formation shall be selected at well consolidated and homogeneous formation.
+
+2)  The core milling: brake the drum and keep the rotary table running until the WOB decreased to
+
+    20-30KN, record the time.
+
+3)   Breaking: stop rotation, measure the Kelly down, then  lift drill string slowly and observe the
+
+    weight indicator. Commonly, the core is broken when the weight increases by 50-150kN. If the
+
+     core is not pulled off, keep the core in pulled state, Start the pump and rotary table to throw off.
+
+Tripping Out
+
+Tripping out operation must be steady. Sudden braking and disassembling thread with rotary table are
+
+forbidden. During the process, Keep the hole full of mud, avoid swabbing.
+
+Pulling Out of the Core
+
+1)   Put the outer barrel on the wellhole with safety clamp and slips; lift the inner barrel with lifting sub.
+
+2)  The aluminum inner tube should be protected by special carriage when it moved to ground.
+
+3)   Fore sealing coring, the core can’t be taken out of the inner barrel in rainy day, and avoid
+
+     contacting with water.
+
+Core Handling
+
+
+Drilling Program Page                                                                       31  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+Cutting and packing
+
+1)  Carry the inner tube and disassemble the inner barrel shoe on well space area for cutting.
+
+2)  Cut the aluminum tube with electric saw on the requirement of geologist.
+
+3)  For sealing coring, the wasted sealing fluid should be recycled.
+
+4)   Inject foamed polyurethane into aluminum tube; pack the core with caps.
+
+Note:
+
+Coring engineer should perform the operation principle strictly; besides the operation principle, the
+
+coring engineer have right to decide and take other technique measures to solve the complicated
+
+situation based on actual condition.
+
+
+
+
+
+Drilling Program Page                                                                       32  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+3.6. Drilling Fluid Program
+
+
+3.6.1 Summary of Mud Properties
+
+The mud property hereunder is a guide line only, a detailed drilling fluid program will be issued by the
+
+contractor and approved by company before spud in.
+
+                       Table 3.6-1 Drilling fluid System and Properties
+
+                    26”          17½”         12¼”         8½”          6”
+
+                   Fresh Water
+                            KCl Polymer    Saturated NaCl  KCl Polymer  KCl Polymer
+ Mud system     Bentonite Spud
+                           Mud       Polymer Mud     Mud       Mud
+                Mud
+
+    Mud
+                    1.04 – 1.07       1.07-1.41        1.60-2.21        1.28-1.34      1.34-1.92
+ weight(g/cm3)
+
+    pH            8 – 9          9 – 10           10-11          10-11          9-11
+
+
+  MBT(g/L)                         20-30           20-30          20-30         20-30
+
+Funnel viscosity
+                   60 – 80.          40-60           50-80          40-60         40-70
+      (sec)
+Plastic viscosity
+                                     12-30           35-70          15-30         30-55
+    (mPa.s)
+Yield point（Pa）                      4-15           10-20           5-15          8-20
+
+    Gels(Pa)                            0.5-2/2-8       2-5 / 10-20        1-2/2-7       2-4 / 8-15
+
+ API FL (mL)                         6-10          < 5            <5.0         <5
+
+HTHP FL (mL)                                   <15           <15         <15
+
+   Sand (%)                           <0.5            <0.5         ＜0.5          <0.5
+
+
+
+
+3.6.2 Mud Properties by Interval
+
+Interval      0-100m    26” (660.4mm) Hole            20” (508mm) Casing
+
+Mud system: Fresh Water Bentonite Spud Mud
+
+Mud Weight: 1.04-1.07 g/cm3
+
+Viscosity:60 - 80 FV(S)
+
+Fluid Loss:  No Control
+
+                       Table 3.6-2 Drilling Fluid Formula and Volume
+
+                         Mud Formulation
+
+
+
+Drilling Program Page                                                                       33  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+                         Bentonite                           60-80 kg/m3
+                        Caustic Soda                            2-3 kg/m3
+                      Soda Ash                              3-4 kg/m3
+                 XC                                 2-3 kg/m3
+                                 Estimated Volume (m3)
+                       Active surface                           100
+                     Casing (upper)                            0
+            Open hole (with 25% washout)                     53
+               Dilution (3 times hole volume）                    160
+                         Total volume                           314
+Preparation and Maintenance
+
+➢   Pretreat drill water, with 2-3 kg/m3 Caustic Soda and 3-4 kg/m3 Soda Ash.
+
+➢   Pre-hydrate 60-80 kg/m3 of Bentonite in treated drill water and allow sufficient time to fully yield.
+
+➢    It is necessary to clean out the hole with Fresh Water Bentonite Spud Mud and High Viscosity
+
+    sweeps as follows.
+
+1)  A 5m3 Pre-Hydrated Bentonite should be pumped prior start cleaning.
+
+2)  A 5m3 high viscosity sweeps should be pumped every three singles to clean hole with maximum
+
+flow rate possible.
+
+3)  At 100m, another high viscosity sweeps should be pumped and sweep to ensure no cuttings
+
+accumulation remains in the wellbore.
+
+4)  The high viscosity mud (depending on open hole volume) should be spotted in the open hole for
+
+stabilization purposes before running 20” casing to setting depth.
+
+Note: To avoid solids accumulation in the active mud system, shale shakers, desander, and desilter
+
+should be used in this section.
+
+
+Interval     100-1333m   17-1/2” (444.5mm) Hole          13-3/8” (339.7mm) Casing
+
+
+Mud system: KCl Polymer Mud
+
+Mud Weight: 1.07-1.41 g/cm3
+
+Viscosity:40 - 60 FV(S)
+
+Fluid Loss:  <5mL (API)
+
+                       Table 3.6-3 Drilling Fluid Formula and Volume
+
+                         Mud Formulation
+                         Bentonite                           20-30 kg/m3
+                      Soda Ash                              2-3 kg/m3
+                        Caustic Soda                            3-4 kg/m3
+                         K-inhib                               5-8 kg/m3
+                   PAC-LV                              5-7 kg/m3
+                     PAN-2                               5-7 kg/m3
+
+
+
+Drilling Program Page                                                                       34  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+                   PAN                              5-10 kg/m3
+                  KCL                             60-80 kg/m3
+                 XC                                2-3 kg/m3
+                                 Estimated Volume (m3)
+                      Active surface                           120
+                     Casing (upper)                           20
+            Open hole (with 15% washout )                    254
+               Dilution ( 2.5 times hole volume)                   634
+                 Volume transferred                          0
+                         Total volume                           1028
+Preparation and Maintenance
+
+➢  Soda Ash should be added to treat out the calcium contamination from the mud while drilling
+
+    cement. Alkalinity control can be done by adding Caustic Soda.
+
+➢   Maintain high flow rates for added hole cleaning.
+
+➢  Run all applicable solids control equipment (including centrifuge if available).
+
+➢   Monitoring the shakers for the size, shape, and dryness of the shale, is a good indication of the
+
+    system inhibitive ability. This will indicate the need to adjust some of the inhibitors such as KCl.
+
+➢   Prior to cementing the 13 3/8” casing, circulate and condition the mud, reducing the YP to 4–10
+
+     lb/100 ft2 to enhance cement displacement.
+
+
+Interval      1333-1829    12-1/4” (311.1mm) Hole           9-5/8” (244.5mm) Casing
+
+Mud system: Saturated NaCl Polymer Mud
+
+Mud Weight: 1.6-2.21g/cm3
+
+Viscosity:50 - 80 FV(S)
+
+Fluid Loss:  <5mL (API)
+
+                       Table 3.6-4 Drilling Fluid Formula and Volume
+
+                         Mud Formulation
+                         Bentonite                           20-30 kg/m3
+                      Soda Ash                              2-3 kg/m3
+                        Caustic Soda                            3-4 kg/m3
+                         K-inhib                               5-8 kg/m3
+                   PAC-LV                              5-7 kg/m3
+                     PAN-2                               5-7 kg/m3
+                   PAN                                5-7 kg/m3
+                  KCL                             60-80 kg/m3
+                         Super-4                            20-30 kg/m3
+                       SPF-2                             20-30 kg/m3
+                       Sm-thn                               2-3 kg/m3
+                 XC                                  0.5-1 kg/m3
+
+
+
+Drilling Program Page                                                                       35  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+                   NaCL                           250-270 kg/m3
+                                 Estimated Volume (m3)
+                      Active surface                           120
+                     Casing (upper)                           121
+            Open hole: (with 15% washout )                    50
+               Dilution ( 2.5 times hole volume)                   125
+                 Volume transferred                         120
+                         Total volume                           295
+Preparation and Maintenance
+
+➢  Soda Ash should be added to treat out the calcium contamination from the mud while drilling
+
+    cement. Alkalinity control can be done by adding Caustic Soda.
+
+➢   Monitor hole conditions for evidence of sufficient mud weight and rheologies, for well bore
+
+      stability and cleaning, to optimize well control.
+
+➢  The mud weight should be maintained based on mud design till section TD.
+
+➢   Proper solids control will assist in maintaining appropriate rheologies.
+
+➢   Monitoring the shakers for the size, shape, and dryness of the shale, is a good indication of the
+
+    system inhibitive ability. This will indicate the need to adjust some of the inhibitors such as KCL.
+
+➢  As a contingency for possible bit balling, maintain a supply of cleaning agent.
+
+Interval     1829-3625m   8-1/2” (215.9mm) Hole          7” (177.8mm) Liner
+
+Mud system: KCl Polymer Mud
+
+Weight:      1.28-1.34g/cm3
+
+Viscosity:40 - 60 FV(S)
+
+Fluid Loss:  <5mL (API)
+
+                       Table 3.6-5 Drilling Fluid Formula and Volume
+
+                         Mud Formulation
+                         Bentonite                           20-30 kg/m3
+                      Soda Ash                              2-3 kg/m3
+                        Caustic Soda                            3-4 kg/m3
+                         K-inhib                               5-8 kg/m3
+                   PAC-LV                              5-7 kg/m3
+                     PAN-2                               5-7 kg/m3
+                   PAN                                5-7 kg/m3
+                  KCL                             60-80 kg/m3
+                         Super-4                            20-30 kg/m3
+                       SPF-2                             20-30 kg/m3
+                      QS-2                             20-30 kg/m3
+                 XC                                 1-2 kg/m3
+                          Polycol                            30-50 kg/m3
+                     SM-911                            10-20kg/m3
+
+
+
+Drilling Program Page                                                                       36  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+                                 Estimated Volume (m3)
+                      Active surface                           120
+                     Casing (upper)                           86
+            Open hole: (with 10% washout )                    80
+               Dilution ( 2.5 times hole volume)                   199
+                 Volume transferred                          50
+           Additional Volume (for loss) circulation)                100
+                         Total volume                           535
+Preparation and Maintenance:
+
+➢   Monitor hole conditions for evidence of sufficient mud weight and rheologies, for borehole
+
+      stability and cleaning, to optimize well control and minimize lost circulation and differential
+
+     sticking possibilities.
+
+➢   Materials for preventing formation damage should be added and maintenance.
+
+➢   Proper solids control will assist in maintaining appropriate rheologies and proper mud weight. Run
+
+      all applicable solids control equipment.
+
+➢  Check frequently amount and shape of cuttings at the shaker screens and be always up-date with
+
+     the drilling crew if any over-pull or drag is monitored.
+
+Interval     3625-4200m  6” (152.4mm) Hole             5” (127mm) Liner
+
+Mud system: KCl Polymer Mud
+
+Weight:      1.34-1.92g/cm3
+
+Viscosity:40 - 70 FV(S)
+
+Fluid Loss:  <5mL (API)
+
+                       Table 3.6-6 Drilling Fluid Formula and Volume
+
+                         Mud Formulation
+                         Bentonite                           20-30 kg/m3
+                      Soda Ash                              2-3 kg/m3
+                        Caustic Soda                            4-5 kg/m3
+                         K-inhib                               3-5 kg/m3
+                   PAC-LV                              5-7 kg/m3
+                     PAN-2                               5-7 kg/m3
+                   PAN                                5-7 kg/m3
+                  KCL                             60-80kg/m3
+                         Super-4                            15-20 kg/m3
+                       SPF-2                             20-30kg/m3
+                      QS-2                             20-30 kg/m3
+                       Sm-thn                               2-3 kg/m3
+                 XC                                  0.5-1 kg/m3
+                          Polyol                            30-50 kg/m3
+                     SM-911                            10-20 kg/m3
+
+
+
+
+Drilling Program Page                                                                       37  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+                                 Estimated Volume (m3)
+                      Active surface                           120
+                     Casing (upper)                           90
+            Open hole: (with 10% washout)                    13
+                Dilution ( 2 times hole volume)                     25
+                 Volume transferred                         120
+           Additional Volume(for Lost circulation)                 100
+                         Total volume                           228
+Preparation and Maintenance:
+
+➢   Monitor hole conditions for evidence of sufficient mud weight and rheologies, for borehole
+
+      stability and cleaning, to optimize well control and minimize lost circulation and differential
+
+     sticking possibilities.
+
+➢  Pay more attention to abnormal high pressure and pay zone protection.
+
+➢  The mud weight should be maintained till section TD.
+
+➢   Proper solids control will assist in maintaining appropriate rheologies and proper mud weight. Run
+
+      all applicable solids control equipment if necessary.
+
+
+3.6.3 Lost Circulation while Drilling
+
+Lost Circulation is a big challenge for this N111E well, which is generally meant to some degree of
+
+whole fluid losses. The situations through which whole fluid losses may occur are wide in both scope
+
+and number.  Whole mud losses may occur into open granular porosity, vugular porosity, rubble or
+
+transitional weathered porosity, or static or dynamic fracture porosity.   Further, losses may be induced
+
+into normally competent matrices through pressure increases brought about through poor drilling
+
+practices, excessive ECD, high surge pressures, annular “pack-off”, annular cuttings loading, or well
+
+control situations.
+
+With the exceptions of dynamic fractures (those that vary in size or propagate dependent upon the
+
+pressure applied to them), most static loss situations can eventually be addressed through the principle
+
+of geometric bridging.  That is, the placing of a particle or semi-solid agent of sufficient size to become
+
+“caught” in the loss network.  Other smaller particles then become caught upon the original large
+
+particle, and so on, until the original loss scenario has again become one of addressing “seepage” losses
+
+through the newly deposited bridging network.
+
+ The primary function of the fluid is to allow the pay zone to be drilled with a minimum of formation
+
+damage.  That is, maximum productivity must continue to be the main focus of operations, even while
+
+combating losses.
+
+As a result of the above, remedial treatments for losses must be chosen based upon their compatibility
+
+with the concept of undamaged return permeability.
+
+In the event  that the  lost  circulation material has the  potential  to cause impediment of return
+
+permeability, either through a direct effect upon the formation face, OR through an effect upon the
+
+completion treatment or equipment, the availability of a secondary recourse is desirable; in this case,
+
+
+Drilling Program Page                                                                       38  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+Acid Solubility.
+
+Therefore, some measures for reservoir losses can be drawn as below figure.
+
+
+
+
+
+Drilling Program Page                                                                       39  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 59 ]
+────────────────────────────────────────────
+         CNPC International Ltd (Iran) North Azadegan Project
+
+                         CNPCI Contract No.: NA-OD-010-001
+
+
+
+
+                                          Losses While Drilling
+
+
+
+                                             Stop Drilling
+
+
+                          No            Well Overflows               Yes
+
+
+
+                     Establish Severity of                                                     Shut-In&Record
+                         Losses                                                                      Pressure
+
+
+                                                                No                           Yes
+                                                                                                       Pressure
+
+
+
+                                                                                                      Circulate Bottoms                   On Bottom Kill
+                                                                    Up Through Choke                           Procedure
+
+
+
+                                    MOTOR/MWD IN HOLE
+
+
+
+
+                  Complete Losses                                            Partial Losses                              Seepage Losses
+                     >10.0 m3/h                                          1.0 – 10.0 m3/h                            ≤ 1.0 m3/h
+
+
+
+            Pump Pill#1 through Bit                      Add 3%Walnut(M),                         Add 3%UL ,3%
+                               Pill #1                               2%Mica(F), 3%MS,3%R                          Seal-YT, 5%QS-2, 3%R
+             5%Mica(C), 5%Walnut(M),
+                  1%SDS-606,                                         Successful                                      Successful
+                                                    No          Yes                   No            Yes
+
+                      Successful
+               No          Yes                                                       Add 5%UL ,5%
+                                                                Spot 5%Walnut(C),             Drill Ahead                 Seal-YT,            Drill Ahead
+                                                         3%Mica(C), 5%MS,3%R                            10%QS-2, 5%R
+          Spot
+                                      Drill Ahead
+            Pill #2                                                   Successful                                   Successful
+7%Mica(C), 0%Walnut(C),
+     2%SDS-606                                                               No               Yes
+                                         No               Yes
+
+
+           Successful
+       No               Yes
+
+
+
+      Discuss with Key Personnel for           Ultra-low permeable material=UL    Resin=R       Mixed Seal=MS
+                futher Action
+
+
+
+                           Fig 3.6-1 Measures for Reservoir Losses
+
+
+
+
+
+     Drilling Program Page                                                                       40  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+3.7. Cementing Program
+
+
+The cementing program hereunder is a guide line only, a detailed program will be issued by the
+
+contractor and approved by company before spud in.
+
+
+3.7.1. 20″Cementing
+
+Bit Size：26, Depth: 100m.
+
+a. Cementing Method: Stab-in cementing method.
+
+b. Casing String Structure
+
+Outer string：Φ508mm stab-in float shoe＋Φ508 mm casing string
+
+Inner string：Φ508mm stinger＋127mm drill pipe
+
+c. Slurry System Design：
+
+  Slurry  Density     API Fluid Loss       Thickening Time     Comprehensive Strength
+
+       (g/cm3)             (mL)                 (min)             (MPa/24 hours)
+
+                                            143min
+   Tail slurry: 1.88         N/A                                    >14 MPa
+                                                  (25°C)
+
+d. Slurry Composition
+
+Class G cement + 2.5% Accelerator + 0.2% Dispersant CF40S + 0.05% Defoamer G603
+
+e. Cementing Procedure
+
+(1) M/U Cement Stinger C/W spring bow 5” centralizer and RIH to 98m.
+
+(2) Circulate 10 m3 of mud and wash down to flush the top of the stab in shoe from any debris.
+
+(3) Flush and fill surface lines with water and pressure test to 3,000psi for 5 minutes prior to start of the
+
+   cement job.
+
+(4) Stab in to the shoe. Set down string weight
+
+(5) Circulate the annular volume, until clean water returns are observed. Pump LCM pill directly ahead
+
+    of cement, if the losses are high.
+
+(6) Mix and pump spacer and cement as per program. If cement returns are observed before pumping
+
+    the excess cement, immediately start displacing.
+
+(7) All samples of mix water and slurry should be stored until the success of the cement job has been
+
+    verified, then they may be discarded.
+
+(8) Displace cement with water. Short displace for 0.5m3.
+
+(9) Pull stinger out of the shoe (One stand) and allow the cement to slump onto the shoe.
+
+(10) Circulate water at high rate to clean the stinger string.
+
+(11) N/D cementing head and POOH stinger.
+
+(12) After cementing, if there is any slurry sinkage, a top job required.
+
+3.7.2 13 3/8 Cementing
+
+Bit Size：17 1/2, Depth: 1333m.
+
+
+Drilling Program Page                                                                       41  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+a. Cementing Method：Primary double plug cementing technology
+
+b. Casing String Structure
+
+1) Φ339.7mm float shoe＋Φ339.7mm Csg × 2＋Φ339.7mm float collar＋Φ339.7mm csg string.
+
+2) Centralizer: 3(ea) centralizers in the first three joints, then 1 (ea) centralizer for every four casing.
+
+c. Slurry System Design：
+
+    Slurry  Density     API Fluid Loss     Thickening Time     Comprehensive Strength
+
+        (g/cm3)             (mL)               (min)             (MPa/24 hours)
+
+                                            Lead:453min
+     0-800m: 1.45          Lead:  46                                >14 MPa
+                                                 (48°C)
+
+                                                Tail:281min
+    800-1332m: 1.90           Tail:  42                                >14 MPa
+                                                 (48°C)
+
+d. Slurry Composition
+
+Lead slurry: Class G cement + 44% Gilsonite + 0.1% Retarder BXR-200L + 6.88% Fluid loss additive
+
+BXF-200L + 0.1% Defoamer G603＋86％fresh water
+
+Tail slurry: Class G cement + 0.35% Retarder BXR-200L+ 3.28% Fluid loss additive BXF-200L +
+
+0.05% Defoamer G603
+
+e. Cementing Procedure
+
+(1) A minimum of 2 kg Dry blend and 2 kg of neat cement, additives and water sample should be
+
+    transferred to town and QC tested prior to the job.
+
+(2) Safety meeting.
+
+(3) Preload the bottom plug and top plug.
+
+(4) Flush all the lines with water.Test the lines to 3000 psi for 5 minutes.
+
+(5) Mix and pump spacer and cement as per program.
+
+(6) Use rig pumps to displace the cement with mud at +/-300-1500 Lpm.
+
+(7) Slow down pumping displacement at remaining 5 cubic meter of whole displacement volume to
+
+    prepare to bump the plug.
+
+(8) Bump the plug with 500 psi over the final pumping pressure. Hold pressure for 5 minutes for casing
+
+     test. If plug does not bump, do not over-displace by more than half the shoe track volume. If the
+
+    plug still does not bump, the casing pressure test must be done before drilling the float shoe.
+
+(9) Bleed pressure back (bleed down pressure) to displacement tank and check for returns, to see if float
+
+     is holding. If float is OK, shut in valve at cement head. If any back flow observed, hold the pressure
+
+    inside for the cement to thick. And wait for instructions to rig down lines.
+
+(10) If there is heavy lost circulation during cementing, a top-up job is necessary to fill the annulus with
+
+    the cement.
+
+(11) All samples should be stored until the success of the cement job has been verified, then they may
+
+   be discarded
+
+ (12) WOC.
+
+
+
+
+Drilling Program Page                                                                       42  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+3.7.3.9 5/8 Cementing
+
+Bit Size：12 1/4, Depth: 1829m.
+
+a. Cementing Method：Primary Cementing Method.
+
+b. Casing String Structure
+1).Casing string structure：9 5/8 float shoe+2 joints 9 5/8 casing+9 5/8 float collar+ 9 5/8Casing
+
+string+9 5/8cement head.
+2).Centralizer placement（12 1/49 5/8）：1 centralizer per 1 joint on the bottom 5 joints, one for every
+
+3 joints casing in open hole and 1 per 4 joints casing in cased hole.
+
+c. Slurry System Design
+
+    Slurry  Density     API Fluid Loss     Thickening Time     Comprehensive Strength
+
+        (g/cm3)             (mL)               (min)             (MPa/24 hours)
+
+                                            Lead:299min
+   0-1200m: 2.0-2.2         Lead:46                                >14 MPa
+                                                 (58°C)
+
+                                                Tail:201min
+    1200-1828m: 2.2            Tail:46                                 >14 MPa
+                                                 (58°C)
+
+d. Slurry Composition
+
+Lead slurry: Class G cement + 35% Hematite + 0.5% Dispersant CF40S + 0.2% Retarder BXR-200L
+
++3.5% Fluid loss additive BXF-200L + 7.02% Salt NaCl + 0.1% Defoamer G603
+
+Tail slurry: Class G cement + 35% Hematite + 0.5% Dispersant CF40S + 0.1% Retarder BXR-200L +
+
+3.5% Fluid loss additive BXF-200L + 7.02% Salt NaCl + 0.1% Defoamer G603
+
+
+e. Cementing Procedure
+
+a)  Tool box shall be held to make every one know the operation schedule.
+
+b)  Drift casing on racks, wash threads.
+
+c)  Dress casing on racks as cementing program
+
+d)  Run casing as program. Thread lock the float shoe and collar. Final centralizer placement as per the
+
+    cementing program provided by cementing contractors.
+
+e)  Avoid excessive surge pressures by limiting casing running speed.
+
+f)  Tag bottom to confirm casing setting depth, and reconfirm casing joint count left out of the hole
+
+g)  Record casing weight prior to cementing, note the maximum allowable pull on casing.
+
+3.7.4. 7 Liner Cementing
+
+Bit Size：8 1/2, Depth: 3625m.
+
+a. Cementing Method：Liner Cementing Method
+
+b. Casing String Structure
+1).Casing string structure：7Float shoe+2 joints+7 landing collar + 7casing +7ball seat +7Casing
+
+string+9 5/87liner hanger+ 7liner running tools+5 drill pipe to rotary table.
+
+
+
+Drilling Program Page                                                                       43  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+2).Centralizer placement（8 1/2×7）：1 each(8 1/2×7,spring type) per 2 joints at pay zone and one for
+
+every 3 joints at other formation.
+3) 1 each(8 1/2×7, rigid type), per 5 joints at overlap interval of the casing and two for 2 joints under
+
+liner hanger.
+
+c. Slurry System Design
+
+    Slurry  Density     API Fluid Loss     Thickening Time     Comprehensive Strength
+
+        (g/cm3)             (mL)               (min)             (MPa/24 hours)
+
+                                            Lead:320min
+   1328-3300m: 1.45         Lead:49                                >14 MPa
+                                                 (90°C)
+
+                                                Tail:202min
+   3300-3624m: 1.85           Tail:48                                 >14 MPa
+                                                 (97°C)
+
+d. Slurry Composition
+
+Lead slurry: Class G cement + 70% Lightened strength mixture + 1.1% Retarder BXR-200L +6.8%
+
+Fluid loss additive BXF-200L + 0.1% Defoamer G603+76%freshwater
+
+Tail slurry: Class G cement + 35% Silica flour + 0.9% Retarder BXR-200L + 4.6% Fluid loss additive
+
+BXF-200L + 0.1% Defoamer G603+51%freshwater
+
+
+e. Cementing Procedure
+
+a)   Condition mud and hole for cementing. Reciprocate casing while conditioning mud. Circulate a
+
+minimum volume prior to cementing as program.
+
+b)   Install a cement head with wiper and displacement plugs loaded. Witness loading of plugs in
+
+cement head.
+
+c)   Pressure test cement lines to 200psi (low) and 3000psi (high) for 10 minutes.
+
+d)  Pump chemical wash consisting of 4m3 and drop wiper plug.
+
+e)  Mix and pump the required tonnage of cement.
+
+f)   Release top plug and displace using displacing mud. Reciprocate casing while mixing and during
+
+displacement.
+
+g)  Bump plug with 500Psi over displacement pressure and hold for two minutes. If floats fail, bump
+
+plug again and bleed off excess pressure.
+
+h)  CBL logging as required.
+
+3.7.5. 5 Liner Cementing
+
+Bit Size：6, Total Depth: 4200m.
+
+a. Cementing Method：Liner Cementing Method
+
+b. Casing String Structure
+1).Casing string structure：5Float shoe+2 joints+5 landing collar + 5casing +5ball seat +5Casing
+
+string+75liner hanger+ 5liner running tools+ drill pipe to rotary table.
+2).Centralizer placement（6×5）：1 each(6×5,spring type) per 2 joints at pay zone and one for every
+
+
+Drilling Program Page                                                                       44  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+3 joints at other formation.
+3) 1 each(6×5, rigid type), per 5 joints at overlap interval of the casing and two for 2 joints under liner
+
+hanger.
+
+c. Slurry System Design
+
+    Slurry  Density     API Fluid Loss     Thickening Time     Comprehensive Strength
+
+        (g/cm3)             (mL)               (min)             (MPa/24 hours)
+
+                                            272min
+         2.0-2.3               48                                   >14 MPa
+                                                (109°C)
+
+d. Slurry Composition
+
+Class G cement + 35%  silica flour+100%Hematite + 0.4% Dispersant CF40S + 1.4% Retarder
+
+BXR-200L +4% Fluid loss additive BXF-200L + 0.1% Defoamer G603
+
+e. Cementing Procedure
+
+The cementing procedure is the same as the 7” liner cementing.
+
+Note:
+
+(1) WSS (Work Site Supervisor) is to supervise the loading of liner wiper plug in liner running tool, and
+
+    loading of drill pipe wiper dart in cementing head.
+
+(2) The Liner Engineer is to be on the rig floor at all times that the liner is being run in open hole.
+
+(3) Hold pre-job safety meeting. When running-in, apply thread lock to ALL connections of the shoe
+
+    track.
+
+
+
+
+
+Drilling Program Page                                                                       45  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+3.8. Well Control Design
+
+For the N111E Appraisal Well, the calculated MASP < 10,000 psi, so the BOP stack configurations for
+
+drilling each section are recommended as below.
+
+
+3.8.1 BOP Stack Configuration
+
+
+
+1st spud - 26” hole
+
+
+
+
+
+                     Fig 3.8-1 The BOP Stack Configurations for 1st Spud
+
+
+
+
+
+Drilling Program Page                                                                       46  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+2nd spud - 17-1/2” Hole         20-3/4” 3,000 psi rating BOP Stack
+
+
+
+
+
+                       Fig.3.8-2 The BOP Stack Configurations for 2nd Spud
+
+
+
+
+
+Note:
+
+20-3/4” Annular can be used 3K or 2K based on the relative standards.
+
+
+
+
+
+Drilling Program Page                                                                       47  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+3rd Spud - 12-1/4” Hole         13-5/8” 10,000 psi rating BOP Stack
+
+
+
+
+
+                        Fig.3.8-3 The BOP Stack Configuration for 3rd Spud
+
+Note:
+
+1)  Shear rams is recommended according to SY-T6616-2005 and SY-T5087-2005.
+
+2)  One adapter is required for the BOP stack installation.
+
+
+
+
+
+Drilling Program Page                                                                       48  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+4th Spud- 8-1/2” Hole and 5th Spud - 6” Hole      13-5/8” 10,000 psi rating BOP Stack
+
+
+
+
+
+                   Fig.3.8-4 BOP Stack Configuration for 4th Spud and 5th Spud
+
+Note:
+
+1)  The same BOP stack as previously hole section.
+
+2)  Shear rams is recommended according to SY-T6616-2005 and SYT5087-2005.
+
+3)  While drilling 6” hole with the taper drilling string (5” DP + 3-1/2” DP), then the 5” pipe rams
+
+     shall be changed out to 3-1/2” pipe rams, in spite of safety (white) stand kept at V-door.
+
+
+3.8.2 Kill and Choke Manifold
+
+The outlets of relief lines shall be in a safe area which is at least 75m from well head according to
+
+SY5876-93 “Safety inspection regulation for petroleum drilling crew” and SY/T5964-2006 “Matching,
+
+
+Drilling Program Page                                                                       49  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+Installation adjustment and maintenance for well-control equipments”. Moreover it is a swamp around
+
+well site location, 150m relief lines are enough to be installed based on possible abnormal high pore
+
+pressure in Dariyan and Gadvan.
+
+
+
+
+
+                                 Fig.3.8-5 Kill and Choke Manifold
+
+Some technical requirements as below:
+
+1)  The dimension of waste pit is 75×15×2m,and which will be designed to collect area, filter area and
+
+    water recycle area by dam, the waste pit should be built with a concrete slope bottom ,also need
+
+    build a simple path for vehicle entry;
+
+2)  The dimension of water pit is 28×20×2m,and put penetration-proof liner (or concrete) on the
+
+    bottom;
+
+3)  Burning pit is 10×10×1m,and at least 150m far away wellhead, simple path(3m wide)will be set to
+
+     fix burning line;
+
+4)  The specification of septic pit is 10×10×2m, and at least 70m far away wellhead.
+
+
+
+
+
+Drilling Program Page                                                                       50  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 55 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+3.9. Wellhead and X-tree Configuration
+
+According to API 6A 19th edition and NACE standard, Wellhead & X-mas tree configuration for
+
+appraisal well is as below:
+
+
+
+
+
+                 Fig. 3.9-1 The wellhead & X-mas tree for production wells layout
+
+                   20-3/4”×3k +13-5/8”×5k + 11”×10k + 3-1/8”X- tree x 5k
+
+Note:
+
+1)  Casing head spool assembly: DD0.5;
+
+2)   Production head including tubing head spool and Christmas tree: EE0.5;
+
+3)  Tubing hanger: FF0.5;
+
+4)  More details in FEED.
+
+
+
+
+
+Drilling Program Page                                                                       51  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 56 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+
+
+3.10. Health, Safe and Environment
+
+HSE is an important part on location and must be obeyed by contractor as below:
+
+(1) Contractors must adherence to the standards and regulations of Health, Safe and Environment
+
+constituted by the local government and international standards.
+
+(2) Contractors’ execution regulations must adherence to the HSE standards, report these execution
+
+regulations to management then execute.
+
+Because of H2S in North Azadegan, some measures for H2S prevention as below:
+
+Measures for H2S prevention
+
+1) Windsocks shall be set on the drill floor and in the monsoon direction off well site. In emergency,
+
+employees can evacuate upwind.
+
+2) Explosion-proof blowers shall be installed around the rig, shale shaker, and drilling fluid tanks to blow
+
+away toxic and flammable gas at the well site.
+
+3) The rig crew in the H2S area shall be furnished with H2S monitors and protective apparatus in accordance
+
+with SY/T 5087. Everybody shall be able to use, maintain, and check the apparatus.
+
+4) The technicians of rig crew are responsible for H2S proof training and the tool pusher is in charge of the
+
+supervision and examination.
+
+5) The pH value of drilling fluid in the H2S area shall be kept over 9.5. Pay attention to measurement of H2S
+concentration in drilling fluid. The H2S concentration shall be kept at less than 50mg/cm3 by using sulfur
+
+removal agents and degassers.
+
+6) Personnel safety and protection shall be carried out according to SY/T5087 during operations in polluted
+
+areas where H2S content exceeds the critical concentration.
+
+7) When the rig crew makes decision to bleed and fire because well control cannot be performed due to well
+
+site conditions, operations shall be performed according to procedures in SY/T5087.
+
+8) Once blowout occurs, the incident shall be reported to the higher level department as soon as possible and
+
+firefighting trucks, ambulances, medical care personnel and technicians shall be on duty at the well site.
+
+9) After the blowout is controlled, H2S concentration should be measured in the places where H2S is possible
+
+to gather. The personnel are not allowed to access until the H2S concentration  is below the  critical
+
+concentration.
+
+
+Note: More details refer to the relative standards.
+
+
+
+
+
+Drilling Program Page                                                                       52  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 57 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+
+4. Drilling Schedule
+
+Estimated drilling operation progress of N111E well.
+
+26”×20” Section
+
+                                  Operation                                  Days
+
+Drilling 26” section from 0 to 100m (Interval=100m)                                     1
+
+Prepare for logging                                                                       0.25
+
+Logging                                                                                 0.25
+
+Prepare and run 20” casing 98m and circulation                                                 0.5
+
+Prepare and Cement the 20” casing                                                            0.5
+
+WOC and prepare drilling fluid for next section hole                                            0.5
+
+Rig up casing head and nipple up BOP                                                1
+
+Pressure test, drill plug                                                             1
+
+Total                                                                           5
+
+
+17-1/2”×13-3/8” Section
+
+                                  Operation                                  Days
+
+Drilling 17-1/2” section from 100 to 1333m (Interval=1233m)                             15
+
+Prepare for logging                                                                            0.5
+
+Logging                                                                                      0.5
+
+Prepare and run 13-3/8” casing 1331m and circulation                                    2
+
+Prepare and Cement 13-3/8” casing                                                   1
+
+WOC and prepare drilling fluid for next section hole                                     1
+
+Rig up casing head and nipple up BOP                                                1
+
+CBL/VDL                                                                       1
+
+Pressure test, drill plug                                                             1
+
+Total                                                                           23
+
+
+12-1/4”×9-5/8” Section
+
+                                  Operation                                  Days
+
+Drilling 12-1/4” section from 1333 to 1829m (Interval=496m)                             10
+
+Prepare for logging                                                                1
+
+Logging                                                                        1
+
+Condition hole for running casing                                                    1
+
+Prepare and run 9-5/8” casing 1550m and circulation                                     1
+
+Prepare and Cement 9-5/8” casing                                                    1
+
+WOC and prepare drilling fluid for next section hole                                     1
+
+Drilling Program Page                                                                       53  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 58 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+Rig up casing head and nipple up BOP                                                2
+
+CBL/VDL                                                                       1
+
+Pressure test, drill plug                                                             1
+
+Total                                                                           20
+
+
+8-1/2”×7” Section
+
+                                  Operation                                  Days
+
+Drilling 8-1/2” section from 1829 to 3625m (Interval=1796m)                             22
+
+Coring, 144m                                                                    18
+
+Circulation for trip gas and geological requirement                                       1
+
+Condition hole for logging                                                          1
+
+Logging                                                                        1
+
+Condition hole for run casing                                                        1
+
+Prepare and run 7”liner 1923m(from 1700 to 3623m)and circulation                         2
+
+Prepare and Cement 7” liner                                                        1
+
+WOC and prepare drilling fluid for next section hole                                     1
+
+CBL/VDL                                                                       1
+
+Pressure test, drill plug                                                             1
+
+Total                                                                           50
+
+
+6”×5” Section
+
+                                  Operation                                  Days
+
+Drilling 6” section from 3625 to 4200m (Interval=575m)                                 19
+
+Coring, one run, 9m                                                               1
+
+Circulation for trip gas and geological requirement                                       1
+
+Condition hole for logging                                                          1
+
+Logging                                                                        1
+
+Condition hole for run casing                                                        1
+
+Prepare and run 5”liner 698m(from 3500 to 4198m)and circulation                              1.5
+
+Prepare and Cement 5” liner                                                                   1.5
+
+WOC and prepare drilling fluid for next section hole                                     1
+
+CBL/VDL                                                                       1
+
+Completion well                                                                  1
+
+Total                                                                           30
+
+
+DST
+
+
+Drilling Program Page                                                                       54  / 55
+
+
+────────────────────────────────────────────
+[ صفحه 59 از 59 ]
+────────────────────────────────────────────
+       CNPC International Ltd (Iran) North Azadegan Project
+
+                      CNPCI Contract No.: NA-OD-010-001
+                                  Operation                                  Days
+
+Testing for Sarvak Kazhdumi and Gadvan formation                                     30
+
+Rig up/Lay down equipment and tool for service company and contractor                     2
+
+Total                                                                           32
+
+
+Summary
+
+                                  Operation                                  Days
+
+26” hole-20” casing                                                               5
+
+17-1/2” hole-13-3/8” casing                                                        23
+
+12-1/4” hole-9-5/8” casing                                                         20
+
+8-1/2” hole-7” liner (Include coring)                                                  50
+
+6” hole-5”liner(Include coring)                                                      30
+
+Testing (9 DST)                                                                  32
+
+Total                                                                          160
+
+
+
+
+
+                         Fig.4.1-1 Drilling Time Curve (Days From Spud)
+
+
+
+
+
+Drilling Program Page                                                                       55  / 55
+
+

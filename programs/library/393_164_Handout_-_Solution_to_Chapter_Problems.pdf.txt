@@ -1,0 +1,844 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 17 ]
+────────────────────────────────────────────
+SOLUTION TO CHAPTER PROBLEMS
+
+CHAPTER 2
+
+
+1.     Given the following survey data, calculate the ΔTVD, ΔNorth and ΔEast using the
+average angle and radius of curvature methods.
+
+      MD1 = 1000 feet           MD2 = 2000 feet
+            I1 = 0º                                     I2 = 40º
+       A1 = S42W                   A2 = S42W
+
+Solution:
+
+Average angle method:
+
+Δ MD = MD 2 − MD1
+ΔMD = 2000 − 1000 = 1000 feet
+
+Azimuth = 180 + 42 = 222º
+
+                       ⎛ I 1 + I 2 ⎞ΔTVD = ΔMD × Cos ⎜        ⎟
+                       ⎝  2   ⎠
+                       ⎛ 0 + 40 ⎞
+ΔTVD = 1000 × Cos ⎜        ⎟ = 939 . 69 feet
+                       ⎝  2   ⎠
+
+                       ⎛ I 1 + I 2 ⎞       ⎛ A1 + A2 ⎞ΔNorth = ΔMD × Sin ⎜        ⎟ × Cos ⎜          ⎟
+                       ⎝  2   ⎠       ⎝   2    ⎠
+                       ⎛ 0 + 40 ⎞       ⎛ 222 + 222 ⎞
+ΔNorth = 1000 × Sin ⎜        ⎟ × Cos ⎜            ⎟ = −254 . 17 feet
+                       ⎝  2   ⎠       ⎝    2     ⎠
+
+                      ⎛ I 1 + I 2 ⎞      ⎛ A1 + A2 ⎞ΔEast = ΔMD × Sin ⎜        ⎟ × Sin ⎜          ⎟
+                      ⎝  2   ⎠      ⎝   2    ⎠
+                      ⎛ 0 + 40 ⎞      ⎛ 222 + 222 ⎞
+ΔEast = 1000 × Sin ⎜        ⎟ × Sin ⎜            ⎟ = − 228 . 86 feet
+                      ⎝  2   ⎠      ⎝    2     ⎠
+
+Radius of Curvature:
+
+If the azimuths or inclinations are equal, you must add a small amount to one of the azimuths or
+inclinations so that the radius of curvature equations will work.  Otherwise, the eqation will be
+divided by zero.
+
+A2 = A1 + 0 . 001
+A2 = 222 + 0 . 001 = 222 . 001o
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 1
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+            (180 )(ΔMD )(Sin I 2 − Sin I 1 )ΔTVD =
+              π(I 2 − I 1 )
+            (180 )(1000 )(Sin 40 − Sin 0 )ΔTVD =                      = 920 . 73 feet
+              π(40 − 0 )
+
+              (180 )2 (ΔMD )(Cos I 1 − Cos I 2 )(Sin A2 − Sin A1 )ΔNorth =
+                  π 2 (I 2 − I 1 )( A2 − A1 )
+              (180 )2 (1000 )(Cos 0 − Cos 40 )(Sin 222 . 001 − Sin 222 )ΔNorth =                                          = −249 .04 feet
+                  π 2 (40 − 0 )(222 .001 − 222 )
+
+       180 2 (Δ MD )(Cos I 1 − Cos I 2 )(Cos A1 − Cos A 2 )ΔEast =
+                  π 2 (I 2 − I 1 )( A2 − A1 )
+       180 2 (1000 )(Cos 0 − Cos 40 )(Cos 222 − Cos 222 . 001)ΔEast =                                           = −224 . 24 feet
+                  π 2 (40 − 0 )(222 . 001 − 222 )
+
+The answers are not the same both methods because the distance between surveys is too
+great for the average angle method.  That is why radius of curvature is generally used to
+calculate the position of the wellbore when planning a directional well.
+
+
+
+
+
+2                                                         Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+2.     Given the following rectangular coordinates, calculate the vertical section of the survey
+point if the vertical section azimuth is 215º.
+
+       North = -1643.82 feet and East = -822.16 feet
+
+Solution:
+
+                           −1 ⎛ East ⎞Closure Direction = Tan   ⎜       ⎟
+                              ⎝ North ⎠
+                           −1 ⎛ − 822 . 16 ⎞             oClosure Direction = Tan   ⎜            ⎟ = 26 . 57
+                              ⎝ − 1643 . 82 ⎠
+
+Since the well is in the southwest (both the north and east are negative), 180º must be added to
+the Closure Direction.
+
+Closure Direction = 26.57º +180º = 206.57º
+
+Closure Distance =   (North )2 + (East )2
+Closure Distance =   (− 1643 . 82 )2 + (− 822 . 16 )2 = 1837 . 96 feet
+
+VS = Cos ( Az vs − Az cl ) × (Closure Distance )
+VS = Cos (215 − 206 . 57 ) × (1837 . 96 ) = 1818 . 10 feet
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 3
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+3     Given the following survey data, calculate the ΔTVD, ΔNorth and ΔEast using the
+average angle, radius of curvature and minimum curvature methods.
+
+      MD1 = 100 feet            MD2 = 200 feet
+            I1 = 1º                                     I2 = 1º
+       A1 = 0º                      A2 = 180º
+
+Solution:
+
+Average angle method:
+
+ΔMD = MD 2 − MD1
+Δ MD = 200 − 100 = 100 feet
+
+                       ⎛ I 1 + I 2 ⎞ΔTVD = ΔMD × Cos ⎜        ⎟
+                       ⎝  2   ⎠
+          ⎛+1 1 ⎞
+ΔTVD = 100 × Cos ⎜     ⎟ = 99 . 98 feet
+                     ⎝ 2  ⎠
+
+                       ⎛ I 1 + I 2 ⎞       ⎛ A1 + A 2 ⎞ΔNorth = ΔMD × Sin ⎜       ⎟ × Cos ⎜          ⎟
+                       ⎝  2   ⎠       ⎝   2    ⎠
+          ⎛+1 1 ⎞       ⎛ 0 + 180 ⎞
+ΔNorth = 100 × Sin ⎜     ⎟ × Cos ⎜         ⎟ = 0 . 00 feet
+                      ⎝ 2  ⎠       ⎝   2    ⎠
+
+                      ⎛ I 1 + I 2 ⎞      ⎛ A1 + A 2 ⎞ΔEast = Δ MD × Sin ⎜       ⎟ × Sin ⎜          ⎟
+                      ⎝  2   ⎠      ⎝   2    ⎠
+         ⎛+1 1 ⎞      ⎛ 0 + 180 ⎞
+ΔEast = 100 × Sin ⎜     ⎟ × Sin ⎜         ⎟ = 1 . 75 feet
+                     ⎝ 2  ⎠      ⎝   2    ⎠
+
+Radius of Curvature:
+
+If the azimuths or inclinations are equal, you must add a small amount to one of the azimuths or
+inclinations so that the radius of curvature equations will work.  Otherwise, the eqation will be
+divided by zero.
+
+I 2 = I 1 + 0 . 001
+I 2 = 1 + 0 .001 = 1 . 001o
+            (180 )(ΔMD )(Sin I 2 − Sin I 1 )ΔTVD =
+              π(I 2 − I 1 )
+            (180 )(100 )(Sin 1 . 001 − Sin 1)ΔTVD =                       = 99 . 98 feet
+              π(1 . 001 − 1)
+
+
+
+
+
+4                                                         Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+              (180 )2 (ΔMD )(Cos I 1 − Cos I 2 )(Sin A2 − Sin A1 )ΔNorth =
+                  π 2 (I 2 − I 1 )( A2 − A1 )
+              (180 )2 (100 )(Cos 1 − Cos 1 .001)(Sin 180 − Sin 0 )ΔNorth =                                     = 0 . 00 feet
+                  π 2 (1 . 001 − 1)(180 − 0 )
+
+       180 2 (ΔMD )(Cos I 1 − Cos I 2 )(Cos A1 − Cos A2 )ΔEast =
+                  π 2 (I 2 − I 1 )( A2 − A1 )
+       180 2 (100 )(Cos 1 − Cos 1 . 001)(Cos 0 − Cos 180 )ΔEast =                                       = 1 . 11 feet
+                  π 2 (1 . 001 − 1)(180 − 0 )
+
+Minimum Curvature:
+D1 = Cos (I 2 − I 1 ) − {Sin I 2 × Sin I 1 × [1 − Cos ( A2 − A1 )]}
+D1 = Cos (1 − 1) − {Sin 1 × Sin 1 × [1 − Cos (180 − 0 )]} = 0 .999391
+
+           −1  ⎛ 1  ⎞D 2 = Tan    ⎜     ⎟ − 1
+               ⎝ D12 ⎠
+           −1  ⎛    1      ⎞D 2 = Tan    ⎜             ⎟ − 1 = 0 .034907
+               ⎝ 0 . 9993912 ⎠
+
+      2        ⎛ D 2 ⎞FC =   × Tan ⎜    ⎟
+    D 2       ⎝ 2 ⎠
+        2            ⎛ 0 . 034907 ⎞FC =         × Tan ⎜            ⎟ = 1 . 000102
+     0 . 034907       ⎝    2     ⎠
+
+       ⎛Δ MD ⎞Δ TVD = ⎜       ⎟ (Cos I 1 + Cos I 2 )(FC )
+          ⎝  2   ⎠
+          ⎛ 100 ⎞Δ TVD = ⎜     ⎟ (Cos 1 + Cos 1)(1 . 000102 ) = 100 . 00 feet
+          ⎝ 2  ⎠
+
+       ⎛ΔMD ⎞ΔNorth = ⎜       ⎟[(Sin I 2 × Cos A 2 ) + (Sin I 1 × Cos A1 )](FC )
+           ⎝  2   ⎠
+           ⎛ 100 ⎞ΔNorth = ⎜     ⎟[(Sin 1 × Cos 180 ) + (Sin 1 × Cos 0 )](1 . 000102 ) = 0 . 00 feet
+           ⎝ 2  ⎠
+
+       ⎛Δ MD ⎞Δ East = ⎜       ⎟[(Sin I 2 × Sin A 2 ) + (Sin I 1 × Sin A1 )](FC )
+           ⎝  2   ⎠
+           ⎛ 100 ⎞Δ East = ⎜     ⎟[(Sin 1 × Sin 180 ) + (Sin 1 × Sin 0 )](1 . 000102 ) = 0 . 00 feet
+           ⎝ 2  ⎠
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 5
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+Chapter 3
+
+
+1     Given the following survey data, calculate the dogleg severity.
+
+      MD1 = 100 feet            MD2 = 200 feet
+            I1 = 1º                                     I2 = 1º
+       A1 = 0º                      A2 = 180º
+
+
+Solution:
+
+Using Equation 3-1
+
+ΔMD = MD 2 − MD1
+ΔMD = 200 − 100 = 100 feet
+
+      100      −1DLS =     Cos  {(SinI 1 × Sin I 2 )([ Sin A1 × Sin A2 ) + (Cos A1 × Cos A2 )] + (CosI 1 × CosI 2 )}     ΔMD
+      100     −1                                                                                                           oDLS =    Cos  {(Sin 1 × Sin 1)([ Sin 0 × Sin 180 ) + (Cos 0 × Cos 180 )] + (Cos 1 × Cos 1)} = 2.00 /100'
+      100
+
+Using Equation 3-2
+
+          (2 )(100 )    −1                 ⎡    ⎛ A2 − A1 ⎞ ⎤ 2   ⎡    ⎛ I 2 − I 1 ⎞ ⎤ 2DLS =        Sin     (SinI 1 )(SinI 2 )⎢Sin ⎜          ⎟ ⎥  + ⎢Sin ⎜        ⎟ ⎥      ΔMD                                        ⎣    ⎝   2    ⎠ ⎦    ⎣    ⎝  2   ⎠ ⎦
+          (2 )(100 )    −1               ⎡    ⎛ 180 − 0 ⎞ ⎤ 2   ⎡  ⎛−1 1 ⎞ ⎤ 2            oDLS =        Sin     (Sin 1)(Sin 1) Sin ⎜         ⎟  + Sin ⎜     ⎟   = 2 . 00 /100'       100                                               ⎢⎣    ⎝   2    ⎠ ⎥⎦         ⎢⎣    ⎝ 2  ⎠ ⎥⎦
+
+Using Equation 3-3
+
+
+                                                    2
+      100           2   ⎡    ⎛ I 2 + I 1 ⎞          ⎤DLS =           (I 2 − I 1 ) + ⎢Sin ⎜        ⎟ ( A2 − A1 )⎥     ΔMD                             ⎣    ⎝  2   ⎠          ⎦
+
+                                              2
+      100        2   ⎡  ⎛+1 1 ⎞          ⎤             oDLS =         (1 − 1) + Sin ⎜     ⎟ (180 − 0 )  = 3 . 14 /100'      100                         ⎢⎣    ⎝ 2  ⎠                   ⎥⎦
+
+Equation 3-3 does not work because the inclination is too low.  It assumes that the azimuth was
+changed 180º while maintaining an inclination of 1º.  Equation 3-1 and 3-2 assume that the
+inclination dropped from 1º to zero in the first 50 feet while the azimuth remained constant.
+Then the inclination increased to 1º in the next 50 feet at an azimuth of 180º, which is the
+minimum curvature.
+
+
+
+
+
+6                                                         Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+2     Given the following survey data, calculate the dogleg severity.
+
+      MD1 = 1200 feet           MD2 = 1264 feet
+            I1 = 10º                                    I2 = 11.5º
+       A1 = S48ºW                  A2 = S56ºW
+
+
+Solution:
+
+Change the direction to azimuth
+
+S48ºW = 180 + 48 = 228º
+
+S56ºW = 180 + 56 = 236º
+
+ΔMD = MD 2 − MD1
+ΔMD = 1264 − 1200 = 64 feet
+
+Using Equation 3-2
+
+          (2 )(100 )    −1                 ⎡    ⎛ A2 − A1 ⎞ ⎤ 2   ⎡    ⎛ I 2 − I 1 ⎞ ⎤ 2DLS =        Sin     (SinI 1 )(SinI 2 )⎢Sin ⎜          ⎟ ⎥  + ⎢Sin ⎜        ⎟ ⎥      ΔMD                                        ⎣    ⎝   2    ⎠ ⎦    ⎣    ⎝  2   ⎠ ⎦
+          (2 )(100 )    −1                     ⎡    ⎛ 236 − 228 ⎞ ⎤ 2   ⎡    ⎛ 11 .5 − 10 ⎞ ⎤ 2           oDLS =        Sin     (Sin 10 )(Sin 11 . 5 ) Sin ⎜            ⎟  + Sin ⎜           ⎟   = 3 .30 /100'        64                                                            ⎢⎣    ⎝    2     ⎠ ⎥⎦         ⎢⎣    ⎝   2     ⎠ ⎥⎦
+
+Using Equation 3-3
+
+
+                                                    2
+      100           2   ⎡    ⎛ I 2 + I 1 ⎞          ⎤DLS =           (I 2 − I 1 ) + ⎢Sin ⎜        ⎟ ( A2 − A1 )⎥     ΔMD                             ⎣    ⎝  2   ⎠          ⎦
+
+                                                            2
+      100             2   ⎡    ⎛ 10 + 11 .5 ⎞             ⎤             oDLS =         (11 . 5 − 10 ) + Sin ⎜           ⎟ (236 − 228 )  = 3 . 31 /100'      64                                      ⎢⎣    ⎝   2     ⎠                          ⎥⎦
+
+Equation 3-3 works here because the inclination exceeds 5º and the azimuth does not change
+too much.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 7
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+Chapter 4
+
+1.     Calculate the kickoff point for a well with the following target data:
+
+       Target TVD is 9800 feet
+       Target DEP is 2926 feet
+       Build rate is 2º/100 feet
+      Hold Inclination is 35º
+
+Solution:
+
+Draw a picture to determine what information you have, what can be calculated and what is
+needed. You can calculate the change in ΔTVD and ΔDEP for the build curve.
+
+
+
+
+                   ΔTVD of build section
+
+
+                  ΔDEP of build section
+
+
+                                      Inclination = 35º
+      9800’
+
+                         ΔTVD of hold section
+
+
+                            ΔDEP of hold section
+
+
+
+
+
+                        2926’
+
+
+             I 2 − I 1Δ MD =
+      B r
+       35 − 0
+Δ MD =       = 1750 feet
+      2 / 100
+            (180 )(ΔMD )(Sin I 2 − Sin I 1 )ΔTVD =
+              π (I 2 − I 1 )
+            (180 )(1750 )(Sin 35 − Sin 0 )ΔTVD =                      = 1643 . 18 feet
+              π (35 − 0 )
+
+
+
+
+
+8                                                         Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+       180 (Δ MD )(CosI 1 − CosI 2 )Δ DEP =
+              π (I 2 − I 1 )
+       180 (1750 )(Cos 0 − Cos 35 )Δ DEP =                      = 518 . 09 feet
+               π (35 − 0 )
+
+You have the departure of the build section and the total departure, so you can calculate the
+departure of the hold section.
+
+DEPHold = 2926 – 518.09 = 2407.91 feet
+
+From the right triangle in the hold section, the TVD of the hold section can be calculated.
+
+     DEPHoldTan I =
+     TVDHold
+         2407 . 91
+TVD Hold =        = 3438 . 85 feet
+           tan 35
+
+The kickoff point can be calculated from the target TVD less the hold TVD and the build TVD.
+
+KOP = 9800 – 3438.85 – 1643.18 = 4717.97 feet
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                 9
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+2.     Calculate the hold angle required to hit the following target with a Type II wellbore profile
+(build, hold and drop):
+
+       Target TVD is 2850 meters
+       Target DEP is 800 meters
+       Build rate is 1.5º/30 meters
+      Drop rate is 1.5º/30 meters
+        Kickoff point is 626 meters
+
+Draw a picture with the know information.
+
+
+
+
+
+                 626m
+
+
+                                         r1 1.5º/30m
+
+                                                                 I
+               TVD2
+    Depth
+
+                                      Find Hold Inclination
+      Vertical                                               I
+
+            TVD3   True
+
+
+
+
+
+        2850m
+
+
+                                                                     I        r2 1.5º/30m
+
+                        DEP2
+                                    DEP3
+                                         800m
+
+                        Departure
+
+
+Calculate r1 and r2.
+
+
+
+
+
+10                                                        Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+    180
+r1 =
+    πB r
+      180
+r1 =         = 1145 . 92 m    π (1 . 5 / 30 )
+
+    180
+r 2 =
+    πB r
+      180
+r 2 =         = 1145 . 92 m    π (1 . 5 / 30 )
+
+Calculate R with equation 4-3.
+
+R = r1 + r 2
+R = 1145 . 92 + 1145 . 92 = 2291 . 84
+
+Calculate TVD with equation 4-4.
+
+TVD = TVD 4 − TVD1
+TVD = 2850 − 626 = 2224 m
+
+Calculate DEP with equation 4-5.
+
+X = DEP4 − R
+X = 800 − 2291 . 84 = − 1491 . 84
+
+Calculate L with equation 4-6.
+
+
+                        1 / 2L = [TVD          2 + X 2 − R 2 ]
+                                         1 / 2L = [2224           2 + (− 1491 .84 )2 − 2291 . 84 2 ]   = 1385 . 36 m
+
+Calculate the hold angle with equation 4-7.
+       −1 ⎡ (TVD )R + XL ⎤I = sin
+                    ⎢⎣  R               2 + L2       ⎥⎦
+       −1 ⎡ (2224 )(2291 . 84 ) + (− 1491 . 83 )(1385 . 36 ) ⎤             oI = sin                                   = 24 . 99
+                    ⎢⎣       2291 . 84                             2 + 1385 . 36 2                     ⎥⎦
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                11
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+3.     Calculate the inclination of the hold section and the kickoff point for a horizontal well with
+the following information:
+
+      Apparent dip of the formation in the plane of the horizontal is 5º and the well is to drill up
+            dip
+       Build rate is 14º/100 feet
+      Bed thickness is 50 feet
+     TVD of the target directly below the surface location is 4,000 feet
+      Want to drill from the top of the formation to the bottom of the formation in 2000 feet of
+            horizontal section
+
+Draw a picture of what the well will look like.
+
+
+
+
+
+                                                     B
+
+
+                                                 C  4000
+         D
+                 A
+         E
+
+
+
+
+
+Calculate angle A in Triangle ABC.
+
+        −1 ⎛ BC ⎞A = sin  ⎜     ⎟
+           ⎝ AC ⎠
+        −1 ⎛ 50  ⎞          oA = sin  ⎜       ⎟ = 1 .43
+           ⎝ 2000 ⎠
+
+The inclination of the horizontal would be 90º plus the bed dip minus the angle A.
+
+I = 90 + 5 – 1.43 = 93.57º
+
+Calculate the ΔDEP to reach the inclination of 93.57º.
+
+
+
+
+12                                                        Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+             I 2 − I 1Δ MD =
+      B r
+      93 . 57 − 0
+Δ MD =         = 668 . 36 feet
+       14 / 100
+       180 (Δ MD )(CosI 1 − CosI 2 )Δ DEP =
+               π (I 2 − I 1 )
+       180 (668 . 36 )(Cos 0 − Cos 93 . 57 )Δ DEP =                           = 434 . 74 feet
+               π (93 . 57 − 0 )
+
+Calculate the length of the side DE in the triangle ADE.
+
+     DE
+tan A =
+     AD
+DE = tan A × AD
+DE = tan(5 ) × 434 . 74 = 38 . 04 feet
+
+The formation will be encountered 38.04 feet shallower at a departure of 434.74 feet. Calculate
+the ΔTVD for the build section.
+            (180 )(ΔMD )(Sin I 2 − Sin I 1 )ΔTVD =
+              π (I 2 − I 1 )
+            (180 )(668 . 36 )(Sin 93 . 57 − Sin 0 )ΔTVD =                          = 408 . 46 feet
+               π(93 . 57 − 0 )
+
+Calculate the kickoff point.
+
+KOP = 4000 – 38.04 – 408.46 = 3553.50 feet
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                13
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+Chapter 5
+
+1      At the bottom of the hole, the measured depth, inclination and azimuth are as follows:
+
+     MD1 = 3000 feet
+          I1 = 18°
+      A1 = 309°
+
+      The desired inclination and azimuth at the end of the run is:
+
+          I2 = 30°
+      A2 = 288°
+
+      The dogleg severity of the motor is 2º/100 feet. What is the toolface angle required to hit
+the inclination and azimuth with one toolface setting? How many feet of hole will have to be
+drilled?
+
+Solution:
+
+Use equation 5-1 to calculate the toolface angle
+
+          ⎧              ⎫
+          −1 ⎪⎪  π ( A2 − A1 )     ⎪⎪TF = tan  ⎨              ⎬                 tan(I 2 / 2 ) ⎪          ⎪ 180 ln
+          ⎪          ⎩      tan(                                   I 1 / 2 ) ⎪⎭
+          ⎧               ⎫
+          −1 ⎪⎪  π (288 − 309 )   ⎪⎪          oTF = tan  ⎨               ⎬ = −35                 tan (30 / 2 )          ⎪ 180 ln         ⎪
+          ⎪                         ⎪          ⎩      tan(18 / 2 )                         ⎭
+
+The toolface should be set to -35º or 35º Left.  If the dogleg severity of the motor is known, the
+dogleg severity equation 3-2 can be used to determine the change in measured depth required
+to achieve the change.
+
+          (2 )(100 )    −1                 ⎡   ⎛ A2 − A1 ⎞ ⎤ 2   ⎡   ⎛ i 2 − I 1 ⎞ ⎤ 2DLS =         sin     (sin I 1 )(sin I 2 )⎢ sin⎜          ⎟ ⎥  + ⎢ sin⎜        ⎟ ⎥      ΔMD                                        ⎣   ⎝   2    ⎠ ⎦    ⎣   ⎝  2   ⎠ ⎦
+      (2 )(100 )    −1                  ⎡   ⎛ 288 − 309 ⎞ ⎤ 2   ⎡   ⎛ 30 − 18 ⎞ ⎤ 22 =         sin     (sin 18 )(sin 30 ) sin⎜            ⎟  +  sin⎜         ⎟    ΔMD                                                   ⎢⎣   ⎝    2     ⎠ ⎥⎦         ⎢⎣   ⎝   2    ⎠ ⎥⎦
+      200    −1ΔMD =     sin   (0 . 1267 ) = 728 feet
+       2
+
+At a constant dogleg severity of 2º/100 feet,  it would take 728 feet of hole to accomplish the
+change in inclination and azimuth. However, this is only approximate. The dogleg severity will
+not be constant and the toolface angle cannot be kept exactly constant.
+
+
+
+
+
+14                                                        Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+2.    The motor dogleg severity is 12.5°/100 feet and the toolface setting was 35° left. The
+survey tool is 51 feet off bottom. What is the estimated inclination and azimuth at the bit?
+
+      The last survey (51 feet off bottom) is:
+
+            I = 45.2º
+     A = 127.3º
+
+Solution:
+
+Equation 5-2 can be used to estimate the inclination at the bit.
+Δ I = cos (TF ) × DLS × ΔMD
+             12 . 5                                               oΔ I = cos (− 35 ) ×    × 51 = 5 . 2
+             100
+
+The inclination at the bottom of the hole should be:
+
+I 2 = I 1 + ΔI
+I 2 = 45 . 2 + 5 .2 = 50 .4 o
+
+Equation 5-3 can be used to estimate the azimuth at the bit.
+      sin(TF ) × DLS × ΔMDΔA =
+               ⎛ I 1 + I 2 ⎞           sin⎜        ⎟
+               ⎝  2   ⎠
+             12 . 5      sin(− 35 ) ×    × 51
+             100                  oΔA =                 = −4 . 9
+            ⎛ 45 . 2 + 50 . 4 ⎞
+        sin⎜              ⎟
+            ⎝    2      ⎠
+
+The azimuth at the bottom of the hole should be:
+
+A2 = A1 + ΔA
+                                          oA2 = 127 . 3 + (− 4 .9 ) = 122 .4
+
+Remember, these values are estimates and the actual values will be slightly different.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                15
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 17 ]
+────────────────────────────────────────────
+H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+Chapter 9
+
+1      Calculate the critical buckling load for 1.5” coiled tubing in an 8 ½” hole with the following
+conditions
+
+        1.5” OD by 1.31” ID
+       1.42 lbs per foot
+        Fluid is water at 8.34 ppg
+        Inclination is 90º
+
+Solution:
+
+Equation 9-9 can be used to determine the critical buckling load.  First calculate the buoyancy
+factor with equation 9-15.
+B = [1 − (0 .015 )(MW )]
+B = [1 − (0 .015 )(8 .34 )] = 0 . 87
+
+       9 . 82 × 10 5 (OD 4 − ID 4 )(W f )B sin IFcrit =
+                          ( D h − OD )
+       9 . 82 × 10 5 (1 .5                        4 − 1 .314 )(1 .42 )(0 . 87 ) sin(90 )Fcrit =                                    = 607 lbs                    8 .5 − 1 . 5
+
+Coiled tubing actually buckles easier than the calculated value. That is why it is difficult to push
+open hole logs with a coiled tubing unit.  Smaller, production logs can be pushed with coiled
+tubing. In 4 1/2” casing, the critical buckling load would be 1012 lbs. In 2 7/8” tubing, the critical
+buckling load would be 1652 lbs.
+
+
+
+
+
+16                                                        Copyright © 2007 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 17 ]
+────────────────────────────────────────────
+                                          H o r i z o n t a l a n d D i r e c t i o n a l D r i l l i n g
+                                                S o l u t i o n s T o C h a p t e r P r o b l e m s
+
+2.    The buoyant weight of a pipe segment is -2000 lbs (100 foot long) and there is 100,000
+lbs tension at the bottom of the segment. The average inclination for the pipe segment is 20º
+and the friction coefficient is 0.30. Calculate the tension at the top of the pipe segment for Case
+1 and Case 2.
+
+     CASE 1  CASE 2
+         ΔI = 0º    ΔI = 0º
+      ΔA = 0º  ΔA = 18º
+
+Calculate the normal force for Case 1 with equation 9-5 where there is no dogleg severity.
+
+
+                                   2                           2
+       ⎧    ⎛ΔI ⎞           ⎫   ⎧    ⎛ΔA ⎞       ⎫
+FN =  ⎨2T sin⎜    ⎟ + W sin I (avg ) ⎬ + ⎨2T sin⎜    ⎟ sin I (avg ) ⎬
+       ⎩       ⎝ 2 ⎠           ⎭   ⎩       ⎝ 2 ⎠       ⎭
+
+                                                2                                 2
+       ⎧                ⎛ 0 ⎞               ⎫   ⎧                 ⎛ 0 ⎞      ⎫FN =  ⎨(2 )(100000 )sin⎜  ⎟ + (− 2000 )sin(20 )⎬ + ⎨(2 )(100000 ) sin⎜  ⎟ sin(20 )⎬  = 684 lbs
+       ⎩                ⎝ 2 ⎠               ⎭   ⎩                 ⎝ 2 ⎠      ⎭
+
+Calculate the tension at the top of the segment while tripping out using equation 9-6
+
+T 2 = T1 − W cos I (avg ) + μFN
+T 2 = 100000 − (− 2000 ) cos (20 ) + (0 .30 )(684 ) = 102,085 lbs
+
+Calculate the normal force for Case 2 with equation 9-5 where the dogleg severity is 6.15º/100
+feet.
+
+
+                                   2                           2
+       ⎧    ⎛ΔI ⎞           ⎫   ⎧    ⎛ΔA ⎞       ⎫
+FN =  ⎨2T sin⎜    ⎟ + W sin I (avg ) ⎬ + ⎨2T sin⎜    ⎟ sin I (avg ) ⎬
+       ⎩       ⎝ 2 ⎠           ⎭   ⎩       ⎝ 2 ⎠       ⎭
+
+                                                2                                  2
+       ⎧                ⎛ 0 ⎞               ⎫   ⎧                 ⎛ 18 ⎞      ⎫FN =  ⎨(2 )(100000 )sin⎜  ⎟ + (− 2000 )sin(20 )⎬ + ⎨(2 )(100000 ) sin⎜    ⎟ sin(20 )⎬  = 10,723 lbs
+       ⎩                ⎝ 2 ⎠               ⎭   ⎩                 ⎝ 2 ⎠      ⎭
+
+Calculate the tension at the top of the segment while tripping out using equation 9-6
+
+T 2 = T1 − W cos I (avg ) + μFN
+T 2 = 100000 − (− 2000 ) cos(20 ) + (0 . 30 )(10723 ) = 105,096 lbs
+
+With a dogleg, the drag is significantly higher.
+
+
+
+
+
+Copyright © 2007 OGCI/PetroSkills. All rights reserved.                                                17
+
+

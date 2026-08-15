@@ -1,0 +1,65 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 1 ]
+────────────────────────────────────────────
+            Drilling Department
+
+     CLIENT   :                                        RIG  :                                                 Depth In  :           -
+
+     BHA No.           16         BIT No.                  BIT RUN No.             WELL
+
+        BOTTOM HOLE ASSEMBLY TYPE                    PACKER ASSY.
+
+        OBJECTIVE.                                                                                                                  LAST CASING SET DEPTH
+                                                                         Set Packer
+                                                                                                                                         7 Liner @"   3228.00m
+
+                        ELEMENT     CUMM        SERIAL       OD             ID        MAX. OD       TOP         BOTTOM       FN    FN. OD
+       DESCRIPTION                                                                                                                  VENDOR
+                       LENGTH (m)   LENGTH (m)    NUMBER         (inch)           (inch)          (inch)        Connection        Connection     m      inch
+
+PACKER                       11.95          11.95                      8 3/8                    9 5/8"                4 1/2" Reg
+
+CROSS OVER                   1.08           13.03                             7"             3"                     4 1/2" IF         XT 57                          RIG
+
+3 STDs_ DC                    85.16          98.19                             7"        2 13/16"                   4 1/2" IF         4 1/2" IF                         RIG
+
+CROSS OVER                   0.76           98.95                             7"        2 13/16"                 XT 57          4 1/2" IF                         RIG
+
+7 STDs_HWDP                 195.00         293.95                     5 7/8"           4"                    XT 57          XT 57                          RIG
+
+
+
+
+
+                                                                                              -
+
+
+
+
+
+                                 7" Shoe @ 3228 m          L D C @ 3163 m              7" Liner Lap @ 2571 m
+
+
+                  SENSOR OFF SETS                          HYDRAULICS DATA with                         MWD* DATA
+Bit to APWD Sensor                                                    Press Drop across BIT                            FLOW RANGE                 N/A
+Bit to RESISTIVITY Sensor                                             HSI of BIT Diameter                        hhp/in²                   LWD1* DATA
+Bit to GAMMA RAY Sensor                                   HHP at BIT                         hhp          FLOW RANGE                 N/A
+Bit to D & I Sensor                                                            Jet Impact Force                           lbs                      LWD2* DATA
+Bit to NEUTRON Sensor                                                      Jet Velocity                         m/min        FLOW RANGE                 N/A
+
+                         BHA DATA                                                  BIT DATA                               Motor* DATA
+MUD WEIGHT                                             10.50 ppg           BIT TYPE                          MOTOR TYPE
+
+BUOYANCY FACTOR                                                                  BIT MAKE                           LOBE / STAGE
+TOTAL BHA LENGTH (without DP)                    m                I.A.D.C.                           WEAR PAD
+BHA WEIGHT BELOW JAR (in mud)                                       lbs         BLADES                                  REV/UNIT VOL
+BHA WEIGHT ABOVE JAR (in mud)                                       lbs          JETS                               BENT SET
+TOTAL BHA WEIGHT (in mud)                                            lbs          TFA                             MOTOR STAB
+DRILL PIPE GRADE                  5 7/8"                 XT           GRADE IN                          FLOW RANGE
+        DATE                                                                   TF Correction                    SHT with
+
+Directional Engineers :
+
+

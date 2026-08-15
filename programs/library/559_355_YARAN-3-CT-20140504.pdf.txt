@@ -1,0 +1,706 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 14 ]
+────────────────────────────────────────────
+ WELL YAD-03 STIMULATION PROGRAM
+
+
+
+
+
+Operator  : OVERSEAS TECHNICAL SERVICE KISH CO.
+
+Well         : YAD-03
+
+Field        : Yaran Oilfield
+
+Formation: Sarvak
+
+ Interval    : 3930-4030m
+
+
+
+
+
+ Well Location: North Yaran
+
+City              : Ahwaz
+
+Country        : Iran
+
+
+
+
+
+  OVERSEAS TECHNICAL SERVICE KISH CO.
+
+
+                   2014-05-02
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 14 ]
+────────────────────────────────────────────
+                         Contents
+1.  GENERAL INFORMATION .............................................................................................. 3
+1.1 BASIC INFORMATION OF THE WELL ................................................................................................ 3
+1.2 BASIC DATA OF THE CASING AND TUBING STRING ............................................................................. 3
+1.3 RESERVOIR PROPERTIES ............................................................................................................... 3
+1.4 WELL TEST HORIZONTAL INTERVAL ................................................................................................ 4
+1.5 STIMULATION OBJECTIVES ............................................................................................................ 4
+1.6 CHALLENGE AND STRATEGY .......................................................................................................... 5
+2.  ACID FLUID AND OTHER MATERIALS PREPARATION ...................................................... 5
+2.1 ACIDIZING DESIGN PRINCIPLE........................................................................................................ 5
+2.2 ACID RECIPE AND VOLUME ........................................................................................................... 5
+2.3 PERFORMANCE OF ACID FLUID ...................................................................................................... 6
+2.4 CHEMICAL PREPARATION AND MIXING ACID FLUID ........................................................................... 6
+2.5 OTHER MATERIAL REQUIREMENT .................................................................................................. 7
+3.  EQUIPMENT REQUIREMENT ......................................................................................... 7
+4.  OPERATION PROCEDURES ............................................................................................ 8
+4.1 GENERAL REQUIREMENTS ............................................................................................................ 8
+4.2 PREPARATION WORK BEFORE OPERATION ........................................................................................ 8
+4.3 MATRIX ACIDIZING PUMPING PROCEDURE ....................................................................................... 9
+5.  FLOWBACK REQUIREMENT ........................................................................................... 9
+6.  REQUIREMENTS OF DATA COLLECTION ......................................................................... 9
+7.  JOB RISK ANALYSIS ..................................................................................................... 10
+7.1 HYDROCHLORIC ACID (HCL) ....................................................................................................... 10
+7.2 HIGH PRESSURE ........................................................................................................................ 10
+7.3 H2S ....................................................................................................................................... 10
+8.  QHSE REQUIREMENTS ................................................................................................ 10
+8.1 QHSE REQUESTS ...................................................................................................................... 10
+8.2 PPE ....................................................................................................................................... 11
+8.3 REQUIREMENTS FOR SAFE OPERATION .......................................................................................... 11
+8.4 JOB PLANNING ......................................................................................................................... 12
+9.  ATTACHMENTS ........................................................................................................... 13
+9.1 EQUIPMENTS LAYOUT ............................................................................................................... 13
+9.2 DIAGRAM OF THE STRING FOR ACID STIMULATION TREATMENT ......................................................... 13
+9.3 WELL HEAD & CHRISTMAS TREE SCHEMATIC ...................................... ERROR! BOOKMARK NOT DEFINED.
+9.4 LAB TEST DATA ......................................................................................................................... 14
+9.5 PUMP PRESSURE CALCULATION ......................................................... ERROR! BOOKMARK NOT DEFINED.
+9.6 CT RIH SIMULATION .................................................................. ERROR! BOOKMARK NOT DEFINED.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 14 ]
+────────────────────────────────────────────
+1. General Information
+
+The well yaran-3 is a horizontal Evaluation well of Sarvak formation. The well located in the
+
+North part of Yaran accumulation.
+
+1.1  Basic Information of the Well
+
+                            Table 1-1 Basic information for well
+
+
+            Company/State     POGID                  Field          Yaran
+
+                                                       Rig name/
+                               Latitude：                         TDDC/onshore
+                                                 Type
+             Well Location
+                              Longitude：          Spud Date     2013.11.10
+
+
+          KB Elevation      14m                 Water Depth   3.5m
+
+              Total Depth                                   Total Depth
+                             2806.74m                          2820.74m
+           (TVDSS)                             (TVDRT)
+
+                              Depth     2484m     Azimuth(°)          /
+              Deviation Angle                                                   Bottom hole
+                                   Angle(°)    11                                          /
+                                                      Displacement
+
+             Target Interval                       3930-4030m
+
+
+1.2  Basic Data of the Casing and Tubing String
+
+                           Table 1-2  Basic data for casing string
+
+
+                                                                                         depth
+              Size (in)      PPF     Grade           Conn.     MW (pcf)
+
+                                                                             From        To
+
+
+          18 5/8       87.5     J-55    BTC or premium      67       Surface     200
+
+
+                      68      J-55    BTC or premium      78       Surface     1000
+            13-3/8
+                      72     N-80    BTC or premium      78       1000      1250
+
+
+                        43.5    N-80    BTC or premium      120      Surface     1340
+           9 5/8
+                      47     N-80    BTC or premium      120       1340      1550
+
+
+                                    HFJ/N.VAM or
+            7         29     L-80                         80       1450     3243.5
+                                           premium
+
+1.3  Reservoir Properties
+1.3.1  Reservoir Lithology
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 14 ]
+────────────────────────────────────────────
+Regionally, the late Cretaceous Sarvak Formation mainly with a gross hydrocarbon bearing
+zone consists of shallow-marine massive carbonates. The limestone commonly shows oil
+traces and staining (main reservoir interval).
+
+1.3.2  Reservoir Temperature and Pressure
+
+  ⚫  Reservoir Temperature: 186 °F@2787m
+
+  ⚫  Reservoir Pressure: 4500psi@2800m
+
+  ⚫ Bubble Point Pressure:
+
+1.4  Well test Horizontal Interval
+
+The target: Sarvak formation and test interval as follows：
+
+
+                                 Table 1-4  formation data
+
+
+                                       Interval       Gross Thickness    Permeability    Porosity
+     No      Formation
+                                   (m)                (m)             (md)         (%)
+
+      1         Sarvak                                             N/A         N/A
+
+                        Total
+
+
+
+
+
+1.5  Stimulation Objectives
+
+
+1.5.1  Stimulation of reservoir by raising formation permeability and relieving formation
+     damage.
+
+1.5.2  Focusing on obtaining commercial production rate.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 14 ]
+────────────────────────────────────────────
+1.5.3  Learning of Acid Stimulation experience for other horizontal well’s job.
+
+1.6  Challenge and Strategy
+
+
+Because  of the  peculiar formation and  well  conditions, the Challenges  of Acidizing
+Stimulation are presented as following:
+   •  Micro-fractures and wormholes are the mainly oil storage space in the carbonate
+       reservoir. The reservoir is strong heterogeneity along the horizontal and vertical
+       direction and how to stimulate the zone with lower permeability is a huge challenge.
+      compsite diverting technologies will be tempered
+
+   •  Open hole section pose RIH CT  a huge challenge.
+
+   •   If CT cannot RIH target interval, bullhead to around 1000m long horizontal section
+     make acid placement and diversion be a real challenge.The section of pump rates
+     and volumes required to achieve a reasonable penetration in these thick treatment
+       intervals is a real challenge. Low-friction and retarded acid required to reduce well
+     head pressure and protect string and other equipment and the low corrosion for acid
+       to iron are real challenges.
+
+
+
+2. Acid Fluid and Other Materials Preparation
+
+2.1   Acidizing Design Principle
+
+
+Following measures can be adopted  in order to enhance the success rate, efficiency of
+acidizing and achieve a good effect on increasing productivity.
+
+❖    Matrix acidizing can satisfy the requirement, 15% HCl can be selected.
+
+❖    Select appropriate acid formula. The formula contains corrosion inhibitor, high efficient
+      iron control agent, good multi-function surfactant and good anti-sludge agent.
+
+❖      If CT can reach the target zone,25gal/ft acid will be recommended.
+
+❖      If CT can not RIH to target interval, bullheading around 1000m length horizontal section
+       will be recommmended, self diverting visco-elastic surfactant (SDVES) will be used as a
+      diverting agent in order to make acid distribution evenly.
+
+2.2  Acid Recipe and Volume
+
+
+                              Table 2-1  Treatment acid Fluid Recipe
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 14 ]
+────────────────────────────────────────────
+                                                                                                   condition
+    Acid type                            Acid formula                     Volume (bbl)
+
+               15%HCl+ 1%Corrosion inhibitor +1% Iron control                   CT reach to
+    Main acid     Agent+1% De-Emulsifier+1% Surfactant+1%Anti-sludge+        30
+                                                                                                          target
+                0.5% H2S scavenger+0.5%gelling agent
+               15%HCl+ 1%Corrosion inhibitor +1% Iron control                                                                 CT can not
+    Main acid     Agent+1% De-Emulsifier+1% Surfactant+1%Anti-sludge+       2000
+                0.5% H2S scavenger+0.5%gelling agent                                   reach to
+                20%HCl+ 1%Corrosion inhibitor for VES +1% Iron control                                                                     500            targetSelf -Diverting Acid
+                              Agent+8%Self-divert surfactant
+
+  Diverting slurry     4000 lbs Oil soluble resin suspended in main acid
+
+  2.3  Performance of Acid Fluid
+
+     ⚫      It has excellent compatibility to reservoir fluid;
+
+     ⚫    Static  corrosion  rate  at 90 ℃of main  acid  is  4.25g/(m2.h),of  Self-Diverting  Acid  is
+
+         7.88g/(m2.h);
+
+     ⚫   Has low surface tension and interfacial tension, less than 30.0mN/m and 1.0mN/m
+
+          respectively;
+
+     ⚫    Stabilizing Fe3+ power is 720mg/l;
+
+     ⚫   Main acid Viscosity 8mPas @170/s.
+
+  2.4  Chemical Preparation and Mixing Acid Fluid
+
+             Table 2-3 Requirement of chemical and additives for 30bbls main acid fluid
+
+         Item        Chemical / additives        Concentration      Quantity        Comments
+                                                 (%)
+
+          1             HCl(28%)               15         638 gals       Provided by OTS
+
+          2      Corrosion inhibitor (BH602)         1          13 gals       Provided by OTS
+
+          3       Iron control agent(YD-27)         1          13 gals       Provided by OTS
+
+          4         Anti-sludge(YDS-19)           1          13 gals       Provided by OTS
+
+          5        De-emulsifier(YDP-22)          1          13 gals       Provided by OTS
+
+          6         Surfactant(YD-30)            1          13 gals       Provided by OTS
+
+          7     H2S scavenger(Hscav-60)          0.5          6 gals        Provided by OTS
+
+          8         Gelling agent(YD-29)            0.5          6 gals        Provided by OTS
+
+          9            Fresh water                          13 bbls      Provided by POGID
+  Acid fluid (15% HCl) mixing Procedure for each 30 bbls
+
+    ⚫  Add 13 bbls fresh water into acid tank.
+
+    ⚫  Add 13 gals Corrosion inhibitor (ZX01) and continue mixing for 15mins.
+
+    ⚫  Add 15 bbls raw acid (28% HCl) into system and circulate.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 14 ]
+────────────────────────────────────────────
+   ⚫  Add and circulate13 gals iron control agent(YD-27), 13 gals De-emulsifier(YDP-22), 13
+
+        gals Anti-sludge(YDS-19) , 13gals Surfactant(YD-30) , 6 gals gelling agent(YD-29) and
+
+        6gals H2S scavenger(Hscav-60)， continue circulating at 7-14bbls/min for 90 minutes.
+
+2.5  Other Material Requirement
+
+Table 2-5 other material requirement
+
+     Item          Material                     Quantity                 Comment
+
+
+      1             Diesel               30 bbls for equipments            Provided by POGID
+
+
+      2           Drilling water           200 bbls for flush / displace          Provided by POGID
+
+      3         Benzoic acid                   200 lbs                    Provided by OTS
+
+3. Equipment Requirement
+
+                   Table 3-1 Equipment Requirement (Provided by OTS)
+
+    No.         Equipment         Qty                       Note
+
+     1         Pump unit            1     For annulus back pressure
+     2       CTU equipments         1set    With downhole tools (side jetting nozzle, 45 or 90°)
+     3             Acid tank            1     Volume :200 bbl/each
+     4         Water(Diesel) tank         1     Volume :400bbl/ each
+     5           Batch Mixing           1     About 17bbl/min
+     6      Data acquisition system      1
+     7             Crane             1     50t
+           Miscellaneous (low and high
+     8        pressure pipe, hose,        1    Enough for operation,3” figue 1502
+            manifold, cross, valve, etc.)
+     9       Adjustable relief valve       1
+     10         H2S detector           6
+     11           gas mask            6
+     12        Camp skid            2
+     13                 Trailer             15     For equipments transportation
+     14         Passenger car          2
+
+Note:
+
+ a.  Coiled tubing unit should be checked and any problem should be repaired before mobilization.
+
+ b.   Coiled tubing, BOP, stripper and downhole tools should be function tested and ensure all components
+     are ready for operation.
+
+ c.  Data acquisition devices should be calibrated with accuracy before bring them to well site.
+
+ d.   All the pump units must have isolation valves.
+
+ e.  Each pump should be individually equipped with pressure sensors.
+
+ f.  Prepare minimum 1 pressure sensors (10,000psi) for high pressure line.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 14 ]
+────────────────────────────────────────────
+ g.  3 inch high pressure line, tee, elbow bents and valves will be used for bleed off line and for injecting
+    pumps.
+
+ h. A suction manifold with isolation valves to accommodate acid tanks is recommended to use for fluid
+     level control in the acid tanks.
+
+4. Operation Procedures
+
+4.1  General Requirements
+
+    1) Provide a coordinator to integrate  all activities such as CT operation, acidizing and
+
+       engineering.
+
+    2) The well site access road must be suitable for acid stimulation treatment equipment
+
+       entry and exit.
+
+    3) The well site must be level and smooth, can stand with the weight of all equipment.
+
+    4) Check all equipment on arrival at the wellsite to make sure no damage/missing items.
+
+     Pay special attention to the crossovers to ensure the threads are compatible.
+
+    5) Pay more attention to and check the ID and crossover of the completion string to make
+
+      sure that CTU RIH and POOH freely and safely, if CT operation is required.
+
+    6)  All the tubing should be cleaned.
+
+    7) Prepare enough fresh water in well site for mixing acid fluid and brine.
+
+    8) Prepare adequate chemicals for mixing of brine and acid fluid.
+
+4.2  Preparation work before operation
+
+    1)  Move all the equipments and accessories to wellsite and set them in place according to
+
+       attached equipments layout.
+
+    2) Hold safety meeting with all personnel involved.
+
+    3) Cordon off all high-pressure area with signal tape and forbid anyone but operators in
+
+       high-pressure area.
+
+    4) Check that all wellhead valves are closed.
+
+    5) Rig up all equipments with accessories to X-mas tree according to attached equipments
+
+       layout. All the high pressure equipments should connected isolation valve. Connect one
+
+     pump truck to THS wing valve for balance pressure.
+
+    6) Pressure test injection line up to 5000psi for 10minutes to make sure it is qualified; bleed
+
+         off directly to waster pit.
+
+    7) Pressure test balance pressure line up to 3000psi; bleed off directly to waster pit.
+
+    8) Carry out acid job as below.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 14 ]
+────────────────────────────────────────────
+4.3  Matrix acidizing pumping procedure
+
+Rig up CTU, connect pump trucks to CTU, pressure test flow line and coiled tubing (including
+
+BOP and Staffing Box) to 6500psi/15mins; OK, bleed off directly to waste pit.
+
+Carry out acidizing job as following.
+
+                        Table4-1 Pumping schedule for CT reach target
+
+                                                        Fluid     acid      Est.
+    No.     Procedure description     Fluid name   Volume  Accum   Time         Remark
+                                                               (bbl)      (bbl)     (min)
+
+     1    RIH CT to 4030mnote 1         Water      30 note 2             150      Displace, Min pump rate
+
+           Hold on CT @4030m with                                                       Displace, adjustable
+     2                              Main Acid      30       30      30
+          pumping                                                                   choke
+
+             Pull CT to 3930m with
+     3                                      Diesel       35               40         Close flow valve
+           pumping, squeeze
+
+                                                                                            Displace, adjustable
+     4   POOH CT to surface          Drilling water     30              150
+                                                                                    choke
+
+     5    Flow back                                                 0                 Till BS&W<1%
+
+                   Total                             260              670
+
+   Note: 1. If CT can reach 4200m,hold on CT at 4200m and displace diesel 25bbl,then POOH CT to 4030m.
+            2.Mini pump rate，as less volume as possible.
+            3. Surface pressure limitation is 6500psi.
+
+
+5. Flowback Requirement
+
+Flow back the wellbore and formation without well shut-in. If the well can’t flow out ，CTU
+
+will be used as follows.
+
+                        Table5-1 Displacing for flowing well schedule
+
+                                                     Stage fluid
+  No.     Procedure description         Fluid name        Volume             Remark
+                                                                      (gals)
+
+   1         RIH CT to 3300m             LN2             2800           Normal Pumping rate
+
+   2       Hold on CT with Pumping          LN2             1000
+
+                                                                       based as flow back to decide to
+   3      POOH CT to surface            LN2              200                                                                                             carry out next step
+
+
+6. Requirements of Data Collection
+
+During operation need to record parameters as follows:
+
+    1)  Pumping rate
+
+    2)  Pump pressure
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 14 ]
+────────────────────────────────────────────
+    3)  types and volume of pumped liquid
+
+
+7. Job Risk Analysis
+
+7.1  Hydrochloric Acid (HCl)
+
+1) Fresh water and bottled neutralizer shall be available at the worksite.
+
+2)  In the event of acid contact with the eyes, immediately flushes eyes gently with fresh water
+
+   and consult a doctor as soon as practicable.
+
+3) Acid contacts the skin, wash the area thoroughly with fresh water.
+
+4) Remove clothing contaminated with acid solutions or additive solutions.
+
+5) This clothing should not be re-worn until thoroughly washed.
+
+7.2   High pressure
+
+1)  Enclose the high pressure area with warning line;
+
+2)  Plot the dangerous area with warning plate;
+
+3) Keep all personnel but operators far away from high pressure area while operation;
+
+4) Use safety rope between the pipe line connections in case of disconnection;
+
+5) The pump should be shut down immediately once the pipe line bursts.
+
+7.3   H2S
+
+•  Portable H2S detector must be inspected annually.
+
+•   All Air respirators must be inspected function.
+
+•  Everyone on location should use H2S detector.
+
+•  For the places where H2S may concentrate must have ventilation equipments.
+
+•  Wind-vane must be obvious and showed to all personnel before entering well site.
+
+  All personnel must be trained of H2S contingency plan and the use of all related equipments.
+
+
+8. QHSE Requirements
+
+8.1  QHSE requests
+
+•   Irrelevant personnel are strictly prohibited to enter into the construction area.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 14 ]
+────────────────────────────────────────────
+•   All personnel on well-site should be equipped with full PPE, including overall, safety boots,
+
+    helmet, goggle, gloves etc.
+
+•  Pre-job  safety meeting must be held and recorded, which should contain operation
+
+     objective,  operation  procedures,  potential  risk  analysis,  job  assignment, emergency
+
+    program etc.
+
+•  Smoking and calling are strictly prohibited on well-site.
+
+•  During transporting and making up fluid, fluid should not be spilt out of the tank. Residual
+
+     liquid and chemicals are forbidden to be dumped anywhere other than designated place.
+
+•  Hoisting equipments shall be guide by director.
+
+•  Adequate fire engines shall standby on site and sufficient firefighting equipments shall be
+
+    located in designated position before operation.
+
+•   First aid box shall be equipped on site with sufficient medicines.
+
+•  During pressure test, high-pressure region is forbidden to enter in.
+
+•  Placement of equipment should be complied with location standards.
+
+•  Ensure an emergency eye washes station and shower station is available
+
+•  Well site and personnel entry should be controlled  in accordance with H2S operation
+
+    procedure.
+
+•   All jobs should be full time supervised by a SIPC Well Services supervisor on location.
+
+8.2  PPE
+
+•  Minimum PPE requirements  for  all personnel working  in the  vicinity  of the pumping
+
+   operation shall be available (Hard Hat, Chemical Safety Goggles or Face Shield, Safety
+
+   Boots, Gloves, including rubber gloves for handling acids, work gloves for rigging up/down
+
+   equipment).
+
+•  Personnel involved in the handling of acid shall be equipped with full protective clothing.
+
+   This shall consist of Respirator and Mask, Full length rubber gloves (no pin holes), Rubber
+
+   apron, Rubber safety boots.
+
+8.3   Requirements for safe operation
+
+Acidizing operations shall comply with the following:
+
+   •  A dedicated line shall be used to run the pumping unit to the well. The transfer and
+
+      pumping lines shall be properly secured with snubbing lines.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 14 ]
+────────────────────────────────────────────
+   •   Under no circumstances hammers on leaking connections whilst pumping acid. The
+
+         lines shall be pressure tested prior to starting the acid job.
+
+   •  A pressure relief valve shall be installed on the pumping unit with the vent directed
+
+      away from all personnel. The vent area should be flagged off. A non-return valve shall
+
+      be placed in the pumping line as close as possible to the well.
+
+   •  Be aware of the  risk of reaction gases evolved during the wash (primarily CO2)
+
+       unloading the well as they near surface.
+
+   •  Due to the risk of contamination and splashing personnel, live acid shall not be returned
+
+         into open top fluid tanks. All acid returned from the well shall be regarded as live acid.
+
+   •   Extreme care must be taken during high pressure pumping while conducing acid
+
+        stimulation treatments as unexpected leaks on surface lines can develop which could
+
+        release the HCl acid as a fine spray. HCl acid can vaporize in air to form a noticeable
+
+       cloud if released to the atmosphere. If the vapor cloud is concentrated enough it can be
+
+         toxic until sufficiently dispersed.
+
+8.4   Job planning
+
+A.  Acidizing operations should not proceed in the dark unless there is adequate lighting
+
+     available.
+
+B.  The acids used, hydrochloric acid (HCl) is a toxic and dangerous chemical. Refer to the
+
+   MSDS for details of handling, storage and disposal precautions.
+
+C.  Only essential personnel shall be allowed in the vicinity of the acid handling equipment.
+
+    Every effort shall be made, particularly thorough pre-job planning, to ensure that minimum
+
+     intervention by personnel is required during the acidizing.
+
+D.  Safety barriers shall be used as appropriate to isolate the areas of potential hazard.
+
+E.  Fresh water shall be available around the pump truck. A safety shower or alternative option
+
+     for washing off contamination should be available nearby.
+
+F.  Coiled tubing unit and all pumps must be operated by well trained operators, and under the
+
+    supervisor’s monitor.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 14 ]
+────────────────────────────────────────────
+9. Attachments
+
+9.1  Equipments Layout
+
+
+9.2  Diagram of the String for Acid Stimulation Treatment
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 14 ]
+────────────────────────────────────────────
+9.3  Lab test data
+
+

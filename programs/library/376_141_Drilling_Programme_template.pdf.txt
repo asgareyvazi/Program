@@ -1,0 +1,641 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 16 ]
+────────────────────────────────────────────
+[صفحه 1: خالی]
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 16 ]
+────────────────────────────────────────────
+                     X Company - Drilling Department
+
+
+
+
+
+                   Drilling Programme for
+
+
+
+
+
+Programme written by , issued for approval on
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 16 ]
+────────────────────────────────────────────
+                                   Table of Contents
+
+
+
+
+
+DRILLING PROGRAMME MANAGEMENT SUMMARY ................................................................................................. 1
+
+DRILLING PROGRAMME OPERATIONAL INFORMATION ......................................................................................... 4
+
+GENERAL NOTES ON THE PROGRAMME ......................................................................................................................................... 4
+PRE-SPUD: POSITIONING AND ANCHOR OPERATIONS ...................................................................................................................... 5
+DRILLING OPERATIONAL SEQUENCE ............................................................................................................................................. 5
+   Surface Hole ............................................................................................................................................................................. 5
+   Intemediate Hole ...................................................................................................................................................................... 6
+   Final Hole ................................................................................................................................................................................ 6
+MUD ENGINEERING AND SUPERVISION .......................................................................................................................................... 7
+   General notes ........................................................................................................................................................................... 7
+  Top hole .................................................................................................................................................................................... 7
+   Surface hole .............................................................................................................................................................................. 7
+   Intermediate hole...................................................................................................................................................................... 7
+   Final hole ................................................................................................................................................................................. 7
+DEVIATION PROGRAMME ............................................................................................................................................................... 8
+CONDUCTOR, CASINGS AND LINERS ............................................................................................................................................... 8
+   General Notes ........................................................................................................................................................................... 8
+   Conductor ................................................................................................................................................................................. 8
+   Surface casing .......................................................................................................................................................................... 9
+   Intermediate casing .................................................................................................................................................................. 9
+   Final casing or liner ................................................................................................................................................................. 9
+CEMENTATIONS ............................................................................................................................................................................. 9
+   General Notes ........................................................................................................................................................................... 9
+   Surface Casing ......................................................................................................................................................................... 9
+   Intermediate Casing ................................................................................................................................................................. 9
+   Final Casing or Liner ............................................................................................................................................................. 10
+  Cement Plugs ......................................................................................................................................................................... 10
+BOP EQUIPMENT AND TESTING .................................................................................................................................................... 11
+GEOLOGICAL PROGNOSIS ............................................................................................................................................................ 11
+WIRELINE LOGGING & PETROPHYSICS ........................................................................................................................................ 11
+MUD LOGGING............................................................................................................................................................................. 11
+WELL COMPLETION/TESTING ...................................................................................................................................................... 12
+WELL SUSPENSION / ABANDONMENT .......................................................................................................................................... 12
+
+ATTACHMENTS ..................................................................................................................................................................... 13
+
+OFFSET BIT RECORDS .................................................................................................................................................................. 13
+OFFSET HOLE SECTION SUMMARIES ............................................................................................................................................ 13
+LOGISTICS AND MATERIALS ORDERING ....................................................................................................................................... 13
+TIME - DEPTH AND COST GRAPH ................................................................................................................................................. 13
+WELL LITHOLOGY ....................................................................................................................................................................... 13
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 16 ]
+────────────────────────────────────────────
+                            Drilling Programme Management Summary
+
+
+File name: C:\Winword\Personal\Projects\Wellprog.Dot
+
+Well Information Summary
+
+Well Name
+Classification
+Country
+Concession
+Ground Level
+
+Surface Location                              Lattitiude  N
+                                        Longitude  E
+Surface Coordinates                              Field  N
+                                                  Field  E
+Seismic Line
+
+Cost Centre
+Planned Total Depth
+Rig
+Objective (top Hydrocarbon)
+Target Coordinates and Tolerances
+Coring requirements
+
+
+
+
+
+                                             Drilling Programme - Page 1
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 16 ]
+────────────────────────────────────────────
+Casing Programme Summary
+
+ Hole size      Depth     Casing OD   Casing wt    Casing grade     Coupling   Top cement
+
+
+
+
+
+Mud Programme Summary
+
+ Hole size                Mud type                                 Density
+
+
+
+
+
+Logging Programme Summary
+
+ Hole size                                   Proposed Logs
+
+
+
+
+
+Coring Programme Summary
+
+ Hole size                              Formation, depths to be cored
+
+
+
+Possible Drilling Problems
+
+ Hole size                                    Problem
+
+
+
+
+
+                                             Drilling Programme - Page 2
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 16 ]
+────────────────────────────────────────────
+Approvals
+
+Name                Signing for (Area of             Signature                         Date
+                       Responsibility)
+
+
+
+
+
+                                             Drilling Programme - Page 3
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 16 ]
+────────────────────────────────────────────
+                           Drilling Programme Operational Information
+
+
+General Notes on the Programme
+
+1.     This programme is a guide to help ensure that safe and efficient operations are carried out. The
+        Drilling Supervisors are to review this programme and suggest appropriate changes to further
+      enhance safety and efficiency.
+
+   Apart from those parts of the programme marked as being Advisory, any changes to the programmed
+        activities will be discussed with and approved first by the Duty Drilling Manager.
+
+2.     In order to ensure the fullest possible evaluation of data after the well is complete, the Drilling
+       Supervisors are to meet the following requirements:
+
+    ◼   A daily diary is to be kept. This will record informal notes on drilling the well, including
+               ideas and recommendations for improving operations on the following well.  This will
+              ensure that data not traditionally recorded by the daily reporting systems but that will be
+              valuable for future well planning will not be lost.  Information is especially required on
+             each formation encountered; recommendations for improved bit/BHA selection, particular
+                drilling practices etc.
+
+    ◼    The diary must also record the reasoning behind decisions made on the rig which affect
+                drilling operations. Decisions such as which bit to run, or why to wiper trip (if different to
+                 this well programme) must be justified with an engineering analysis showing the expected
+               benefits of the change.
+
+    ◼     At the end of a hitch each Drilling Supervisor will write a short, informal report for the
+              Cairo office which can be used as the basis for the final well report.  This will give
+               specific details on problems encountered (how solved and recommendations to avoid or
+               mitigate those problems on future wells), reasons behind decisions made on the rig and
+              anything else that is relevant to evaluating drilling performance.  The Daily Diary will
+              provide the basis for this.
+
+3.   A separate file will be sent to the Rig (“Notes for Drilling Supervisors”).  This will contain
+       information on daily drilling reports, cost reporting, mud inventory etc and general advisory and
+       contact information.
+
+4.     Operations are to be carried out  safely, in accordance with good  oilfield practice and in
+       compliance with the Company Drilling and Technical Manuals, unless dispensation has been
+       granted from the British Gas Drilling Manager.  Operations should be executed to minimise
+       adverse impact on the environment.
+
+5.      Drillstring components are to have been inspected to API RP7G prior to running in the hole.
+      Ensure that all drillcollars have stress relief grooves and are bored back, steel DC’s are to be
+         spiral.
+
+
+
+
+
+                                             Drilling Programme - Page 4
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 16 ]
+────────────────────────────────────────────
+6.     This programme has been written with reference to the following wells for offset information.
+
+          Well Name            Approx Surface Distance         Approx Direction
+
+
+
+
+7.     Depths given in this programme are in metres BRT. RT elevation is assumed to be Xm above
+     MSL.
+
+8.     Shallow gas is not anticipated to be present based on seismic surveys and offset wells.
+
+9.    Minimum stocks to be kept on site during drilling; 100MT Baryte, 500 SX LCM and 1000 SX
+       cement.
+
+10.    Leakoff tests will be performed after drilling out all casings where a BOP is in use.
+
+11.    Measure mud density with both Pressurised and Atmospheric balances and record this at 15
+      minute intervals while drilling for mud in the pits and at the flowline, for all sections below the
+       surface casing.  Use the pressurised balance measurement for maintaining the correct mud
+        density.
+
+12.    Floats should have a small hole in them to allow drillpipe fillup while RIH and to allow direct
+       readout of DP pressure if we get a kick. The float will still be effective against heavy backflow
+      and will enhance safety while tripping.
+
+13.   Amendments to this Drilling Programme will be sent from the Drilling Office from time to time.
+       For minor changes which do not impact on the well design and do not have serious operational
+       impact, this will be approved by the Duty Drilling Manager. For larger changes, some or all of
+       the original signatories may sign.
+
+14.    For the drilling engineering background to the well plan, please refer to the X Well Programme
+      Technical Justification document which is separate from this drilling programme. Where items
+        in this programme have references in this technical justification, this will be shown by a suffix
+        indicating the relevant section number, such as (TJ3).
+
+       This Drilling Programme explains what to do. The Technical Justification explains why.
+
+Pre-spud: positioning and anchor operations
+
+
+
+Drilling Operational Sequence
+
+      Surface Hole
+
+Potential Problems
+
+
+
+
+
+                                             Drilling Programme - Page 5
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 16 ]
+────────────────────────────────────────────
+Wellbore Stability
+
+
+
+General Notes on this hole section (as applicable)
+◼      Drilling Practices
+◼     Kick Tolerance at TD for expected pore pressure and fracture gradient
+◼    Any special notes or requirements
+
+Recommended Bits and BHA’s
+
+
+
+Suggested Operational Sequence
+
+
+
+      Intemediate Hole
+
+Potential Problems
+
+
+
+Wellbore Stability
+
+
+
+General Notes on this hole section (as applicable)
+◼      Drilling Practices
+◼     Kick Tolerance at TD for expected pore pressure and fracture gradient
+◼    Any special notes or requirements
+
+Recommended Bits and BHA’s
+
+
+
+Suggested Operational Sequence
+
+
+
+       Final Hole
+
+Potential Problems
+
+
+
+Wellbore Stability
+
+
+
+
+
+                                             Drilling Programme - Page 6
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 16 ]
+────────────────────────────────────────────
+General Notes on this hole section (as applicable)
+◼      Drilling Practices
+◼     Kick Tolerance at TD for expected pore pressure and fracture gradient
+◼    Any special notes or requirements
+
+Recommended Bits and BHA’s
+
+
+
+Suggested Operational Sequence
+
+
+
+Mud Engineering and Supervision
+
+      General notes
+◼     Reporting requirements (daily and post-well);
+◼     Monitoring cavings levels and sampling / describing / preserving cavings;
+◼    Mud sampling requirements (times, sample sizes, how preserved etc);
+
+      Surface hole
+◼    Mud gradients, types, required properties, pH, test requirements, any special requirements (such
+       as Shale Extrusion tests to measure inhibition effectiveness);
+◼     Wellbore Stability requirements;
+◼     Other mud - formation requirements;
+◼     Solids Control requirements.
+
+      Intermediate hole
+◼    Mud gradients, types, required properties, pH, test requirements, any special requirements (such
+       as Shale Extrusion tests to measure inhibition effectiveness);
+◼     Wellbore Stability requirements;
+◼     Other mud - formation requirements;
+◼     Solids Control requirements.
+
+       Final hole
+◼    Mud gradients, types, required properties, pH, test requirements, any special requirements (such
+       as Shale Extrusion tests to measure inhibition effectiveness);
+◼     Wellbore Stability requirements;
+◼     Other mud - formation requirements;
+◼     Solids Control requirements.
+
+
+
+
+                                             Drilling Programme - Page 7
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 16 ]
+────────────────────────────────────────────
+Deviation Programme
+◼      Vertical or deviated well;
+◼     Kickoff depth;
+◼     Build/drop/turn rates with inclinations, azimuths and depths to define complete wellpath;
+◼     Target depth, co-ordinates and boundaries;
+◼     Horizontal displacement and azimuth of target;
+◼     Target constraints showing the actual target area that would be acceptable, outside of which
+      would be unacceptable;
+◼     Total well depth MD and TVD;
+◼     For a horizontal well, more information will be required such as final hole section azimuth,
+       whether geosteering is to be used etc.;
+◼     Surveying requirements; types of tool at which stages, distance between surveys, computing
+      method to be used, magnetic variation for the area;
+◼     For a well of more than 25 maximum planned inclination or with high anticipated dogleg
+        severities;
+    ◼     Drag and torque calculations, used to optimise the wellpath if necessary
+    ◼     Casing wear predictions, used to specify what precautions may be necessary (such as
+               protector types & quantities, heavy wall casing at critical points, special monitoring).
+◼    Any relevant data on offset well paths which may affect the planned well.
+◼     Hole and bit sizes with section depths (including pilot hole sizes where applicable).
+◼     Proposed  bits and BHAs together with recommended  drilling parameters and performance
+       expectations.
+
+Conductor, Casings and liners
+
+      General Notes
+◼     Notes on any potential high casing wear problems;
+◼     Reporting requirements (by job and post-well).
+
+      Conductor
+◼       If Driven:
+    ◼      Size, weight, grade, connections, minimum setting depth, final blow count, final blow
+              count;
+    ◼    Type of hammer.
+◼       If Drilled and Cemented:
+    ◼      Size, weight, grade, types, connections, setting depths, centraliser requirements, single or
+               multistage, additional jewellry;
+    ◼     Notes on any potential problems running casing and how these can be mitigated.
+
+
+
+
+                                             Drilling Programme - Page 8
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 16 ]
+────────────────────────────────────────────
+      Surface casing
+◼      Size, weight,  grade,  types, connections,  setting  depths,  centraliser requirements,  single or
+       multistage, additional jewellry;
+◼     Notes on any potential problems running casing and how these can be mitigated.
+
+      Intermediate casing
+◼      Size, weight,  grade,  types, connections,  setting  depths,  centraliser requirements,  single or
+       multistage, additional jewellry;
+◼     Notes on any potential problems running casing and how these can be mitigated.
+
+       Final casing or liner
+◼      Size, weight,  grade,  types, connections,  setting  depths,  centraliser requirements,  single or
+       multistage, additional jewellry;
+◼     Liners  - type of liner hanger, will tieback packer be required, whether to be rotated &/or
+       reciprocated during displacement;
+◼     Notes on any potential problems running casing and how these can be mitigated.
+
+Cementations
+
+      General Notes
+◼     Anticipated BHST, BHCT profile for the well
+◼     Reporting requirements (by job and post-well);
+
+      Surface Casing
+◼    Cement tops, types of cementations, slurry types, gradients, special requirements;
+◼     Plugs to be used;
+◼    Mix water types, additives;
+◼    Mix methods for each slurry;
+◼     Anticipated slurry densities and yields;
+◼     Compatibility between mud, spacers and cement;
+◼     Estimated cement volumes (could state as % over gauge or % over caliper);
+◼      Specific advice on obtaining maximum mud displacement including required mud properties prior
+        to  cementing,  spacers,  flushes,  scavenger  slurries,  any  reciprocation  or  rotation  during
+       displacement, displacement regime;
+◼     24 hour compressive strength;
+◼    Minimum pumpable time.
+
+      Intermediate Casing
+◼    Cement tops, types of cementations, slurry types, gradients, special requirements;
+
+
+
+                                             Drilling Programme - Page 9
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 16 ]
+────────────────────────────────────────────
+◼     Plugs to be used;
+◼    Mix water types, additives;
+◼    Mix methods for each slurry;
+◼     Anticipated slurry densities and yields;
+◼     Compatibility between mud, spacers and cement;
+◼     Estimated cement volumes (could state as % over gauge or % over caliper);
+◼      Specific advice on obtaining maximum mud displacement including required mud properties prior
+        to  cementing,  spacers,  flushes,  scavenger  slurries,  any  reciprocation  or  rotation  during
+       displacement, displacement regime;
+◼     24 hour compressive strength;
+◼    Minimum pumpable time.
+
+       Final Casing or Liner
+◼    Cement tops, types of cementations, slurry types, gradients, special requirements;
+◼     Plugs to be used;
+◼    Mix water types, additives;
+◼    Mix methods for each slurry;
+◼     Anticipated slurry densities and yields;
+◼     Compatibility between mud, spacers and cement;
+◼     Estimated cement volumes (could state as % over gauge or % over caliper);
+◼      Specific advice on obtaining maximum mud displacement including required mud properties prior
+        to  cementing,  spacers,  flushes,  scavenger  slurries,  any  reciprocation  or  rotation  during
+       displacement, displacement regime;
+◼     24 hour compressive strength;
+◼    Minimum pumpable time.
+
+     Cement Plugs
+◼     Purpose of cement plug (eg kickoff, zone abandonment);
+◼    Cement tops, types of cementations, slurry types, gradients, special requirements;
+◼    Mix water types, additives;
+◼    Mix methods;
+◼     Anticipated slurry densities and yields;
+◼     Compatibility between mud, spacers and cement;
+◼     Estimated cement volumes (could state as % over gauge or % over caliper);
+◼      Specific advice on obtaining maximum mud displacement including required mud properties prior
+        to cementing, spacers, flushes, scavenger slurries, displacement regime;
+◼     24 hour compressive strength;
+
+
+
+
+                                            Drilling Programme - Page 10
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 16 ]
+────────────────────────────────────────────
+◼    Minimum pumpable time.
+
+BOP equipment and testing
+◼     Diverter / BOP configuration for each hole section;
+◼   BOP test requirements;
+◼      Drills required;
+◼     Kick tolerance calculation assumptions made (eg state how much higher overpressure would be
+       vs mud gradient);
+◼     Acceptable levels of influx after kick tolerance calculated;
+◼    Any special precautions (eg controlled ROP at certain points, flowchecks, increased kick drills
+        etc);
+◼     Shut in procedures required;
+◼     Leakoff or limit tests to be used and procedure;
+◼    Minimum value of EMG and action to take if not attained.
+
+Geological Prognosis
+◼     Expected lithology sequence with names and descriptions of formations, also information on
+        anticipated hole problems (e.g. fractured, sloughing, washouts etc.);
+◼     Anticipated pore pressure and fracture gradients with depth - note also the level of confidence in
+       the figures given;
+◼     Geological characteristics of expected formations; permeability, fluid type, hydrocarbon depths,
+       gas zones etc.
+
+Wireline Logging & Petrophysics
+◼     Required logs (from sponsoring department);
+◼     Required logs (Drilling Department requirements for drilling evaluation);
+◼     Sidewall sampling, formation sampling (RFT/MDT), coring requirements;
+◼    Cement logs;
+◼     Penetration logs;
+◼     Reporting requirements (daily and post-well).
+
+Mud Logging
+◼     Sampling and preservation methods required for cuttings, cavings, mud, produced fluids, metal
+         etc.;
+◼     Recording requirements and formats;
+◼    Type of unit (eg off or online);
+◼     Monitoring services required, types of alarms / alerts, routine calculations (eg monitor current
+       kick tolerance, Dexponent etc);
+◼     Reporting requirements (daily and post-well).
+
+
+                                            Drilling Programme - Page 11
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 16 ]
+────────────────────────────────────────────
+Well Completion/Testing
+
+Normally, detailed completion / testing programmes will be sent out closer to the time.  General notes
+should be made to allow some preparation to take place.
+◼     Precompletion requirements anticipated (eg bit/scraper runs, gravel packs, fracs, screens, packer
+        setting, completion fluid specifications);
+◼     Tubing sizes and surface wellhead configuration;
+◼     General list of types of downhole completion / testing tools to be run with the completion tubing
+       (eg side pocket mandrels, safety valves, packers);
+◼     Reporting requirements (daily and post-well).
+
+Well Suspension / Abandonment
+◼     Anticipated well configuration on rig departure (diagram useful);
+◼     Zonal isolations required;
+◼     Whether casing will be cut and pulled;
+◼    Cement plugs & permanant bridge plugs depths etc.;
+◼     Whether suspension caps will be required;
+◼     Refer to Government and Company regulations or policies concerning abandonments;
+◼     Reporting requirements (daily and post-well).
+
+
+
+
+
+                                            Drilling Programme - Page 12
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 16 ]
+────────────────────────────────────────────
+                                     Attachments
+
+
+Offset Bit Records
+
+Offset Hole Section Summaries
+
+Logistics and Materials Ordering
+
+Time - Depth and Cost Graph
+
+Anticipated Well Lithology
+
+
+
+
+
+                                            Drilling Programme - Page 13
+
+

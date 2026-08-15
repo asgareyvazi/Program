@@ -1,0 +1,288 @@
+# SOURCE: SI#09 Cement Program Plug W125 MD2347 rev01.pdf
+
+📄 فایل 23 از 214  |  SI#09 Cement Program Plug W125 MD2347 rev01.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                               Plug Cement Job
+                                   Well: #09
+                                 Rig: 207 OEOC
+                                Rev01
+
+                                         Sarvak Kish
+                                 Eng. & Drilling Services Company
+
+Prepared by: H. Sabooei
+Approved by: A. Mirzaei
+
+Date: 2023/04/03
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-00-31-01
+
+                           Table of Contents
+      1.     CEMENTING JOB DESIGN AND CALCULATION ...................................................... 3
+      2.      Job Procedure ........................................................................................................................ 5
+      3.      Lab Result .............................................................................................................................. 6
+      4.      Lab Graph ............................................................................................................................. 7
+
+                                                                              pg. 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-00-31-01
+
+    1. CEMENTING JOB DESIGN AND CALCULATION
+
+                                              C E ME NTING J OB DE S IGN AND C ALC ULATIONS
+
+                                                 Client     PECO                                Rig Name            207                                      Job Type            CMT PLUG
+
+                                                  Field       Siahmakan                         Well Name          #09                                     Design Date                3-Apr-23
+                                                             JOB VOLUMES
+
+                                                                                     Input Data                                     Plug Parameters
+                                           Surface
+
+                                           0 m                     Plug Length (m)                          314.0                  Slurry Volume               150.00 bbl
+
+                                                                     Hole Size                             12 1/4               Behind Spacer                 3.96 bbl
+
+                                                                                                     Mud Displacement until
+                                                           Ahead Spacer (bbl)                     27.61 bbl                                               113.62 bbl
+                                                                                                                 Top of Spacer
+
+                                                                                                          Reccommended Short-
+                                                                    Plug Depth (m)                         2347                                                     1.5 bbl
+                                                                                                                               displacement
+
+                                                                                               Drill Pipe 5" ID (in)                        4.276              Number of stands into
+                                                                                                                                                             12
+                                                                                                                                              Slurry
+
+                                                                                               Drill Pipe5" Length (m)                    2,347.0
+
+                                              1,950 m   Top of spacer
+
+                                              2,018 m   TOC before pooh
+
+                                              2,083 m   CSG13 3/8" shoe
+
+                                              2,347 m   Plug Depth
+
+         Note 1) Total length of cement slurry when string is inside hole : 329 m
+         Note2) Displacment, under displacment, behind spacer volumes, number of wet stands and top of cement plug is caculated based on assumed hole size, drill pipe size, plug depth and
+            slurry volume. The mentioned points should be calculated on the rig with final assumed infomration.
+
+                                                            SLURRY DESIGN
+
+               CEMENT SLURRY
+
+                      Material           Conc.  UOM                   Qty for Job*                                      Slurry Parameters
+             Cemeng G Delijan         110            lb/sk           638              sks                             Slurry Volume          842       cu ft
+                       Boric acid               0.15            lb/sk            95.7                   lb                                                 150.0        bbl
+                           Salt               10.37           lb/sk          6616.3                 lb                              Slurry Density          125         pcf
+                           O-Cfr8                 0.88            lb/sk           561.5                  lb                               Slurry Yield            1.32     cu ft/sk
+                           Anti Foam               0.03           gal/sk           19.1                gal                            Mix Water             5.18        gal/sk
+                                                                                                                           Mix Fluid             5.72        gal/sk
+
+                                            Mix Water                 79 bbl
+                                            Mix Fluid                  87 bbl
+
+            * No excess's for losses, dead volumes, etc
+
+                                                           TEMPERATURE
+
+                                                                    Temperature Gradient                  1.2         ºF/100ft
+                                                                BHST                      174           ºF
+                                                              BHCT                      148           ºF
+
+                                                                              pg. 3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-00-31-01
+
+                                                      MUD REMOVAL
+
+                       Spacer
+
+                                         Material       Conc.               Qty for Job                    Chemical wash Volume           31.6 bbl
+                                                         Drill Water       42.0 gal/bbl            31.6 bbl                           Density                        62.4 pcf
+
+                                                           PUMPING SCHEDULE
+
+                                                            Volume          Rate                Job Time
+                         DESCRIPTION                                         Pump
+                                                                                    (bbls)           (bpm)                       (min)
+               Ahead Spacer                                            27.6             6          RIG         4.6
+               Drop Bottom Plug                                                                                        TICKENING TIME
+                 Mix & Pump Cement Slurry                               150.0            5        CMT       30                                 (hr:min)
+                Behind Spacer                                            3.96             3          RIG         1.3                        35 BC          03:18
+             Mud Displacement*                                       113.6            6        CMT       19                         70 BC          04:03
+
+                    Pull out of Stands of Drill Pipe                           12      3 min per each stand   RIG        36
+
+                                                                               Total Job Time (min)                91
+                                                                  Cementing Time (min)               86
+
+        *We highly recommende that 1.5 bbl short displaced should be considered.
+                                                              MATERIAL REQUIREMENTS
+
+                      Material            Qty      UOM
+
+             Cemeng G Delijan         31.9         Mton
+
+                       Boric acid            132               lb
+                           Salt               9,139              lb
+
+                     O-Cfr8             776               lb
+
+                         Anti Foam            26             gal
+
+                        Solution            Estimated Dead Volume
+                     Slurry Solution              30 bbl
+                    Spacer                  0 bbl
+
+                                                                              pg. 4
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-00-31-01
+
+    2. Job Procedure
+                                                               J ob Procedure
+
+                                  Client   PECO                      Rig Name   207                          Job Type           CMT PLUG
+
+                                   Field     Siahmakan                 Well Name  #09                          Design Date                3-Apr-23
+
+                                                         Pre Job Procedure
+
+        1-Clean up tanks (mud tanks and pump truck's tanks) and preparing chemicals for mixing fluid.
+
+         2- Pressure test cement line to 500 psi for 5 minutes and the slowly increase the pressure to 3000 psi and hold for 5 minutes. Then release the
+        pressure to the pump trucks.
+
+         3- Cement silos hoses, solution tanks, mud pits (which were used for making solution and spacer) and pump trucks unit lines needs to be flush
+          properly.
+
+         4- Check the loss severity while final mud circulation before cement job.
+
+         5- Check the rig mud balance with fresh water and make sure it’s calibrated.
+
+         6- For any change in the program or volumes please contact to SARVAK Cementing Leader.
+
+        7-Pre job safety meeting with involved personnel and arrange with mud engineer to measure mud & cement loss/gain during cement job.
+
+                                                       Job Procedure
+
+        1-Prepare spacer in mud tanks.
+
+           2-Fill Mud Tank with Drill water (Slurry: we need 79 bbl Drill water(without dead volumes).
+
+        Main cement Solution mixing procedure:
+        Add enough Drill Water to the Mud Tank according to its dead volume (we need 79 bbl without dead volume).
+        Add Anti Foam to Drill water and allow mixing for 5 minutes.
+        Add Boric acid and allow mixing for 10 minutes.
+        Add Salt and allow mixing for 30 minutes.
+        Add O-Cfr8 and allow mixing for 10 minutes.
+
+          * Spacer Mixing procedure:
+           • Add Drill water to mud tank according to dead volume ( we need 31.6 bbl without dead volume)
+
+       4-Pump 27.6 bbl spacer as ahead spacer (62.4 pcf with 6 bpm).
+
+         5- Mix 150 bbl Main cement slurry & Pump it in the well (125 pcf with 5 bpm).
+
+       6-Pump 3.96 bbl Spacer as behind Spcer (3 bpm).
+
+         7- Displace with 113.6 bbl mud (with 6 bpm rate).
+
+         8- Pull out of the hole 12 stands drill pipes (the number of wet stands might be changed according to finalized volumes and drillpipes size).
+
+         9- Rig down cement line
+
+         10- WOC
+
+                                                           Caution and Notes
+
+         1- Check the Mud Pumps for its efficiency and line up to ensure Mud pumping before displacement at 500psi by closing low torque on cement
+        head. If OK, resume displacement by opening valve.
+
+         2- Put slurry cement samples to water bath .Retain 2.5 gallon of mixing fluid from the tanks and 5 kg of the G cement used in the job.
+
+         3- Displacement volume & spacer behind volume needs to be calculate on rig by company man and Cementer as per update casing tally.
+
+                                                                              pg. 5
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-00-31-01
+
+    3. Lab Result
+                                  Sarvak Kish Drilling Services
+
+                         Sarvak Cementing Lab Report
+
+         Date:            #########                   1402/01/12          Field:      Siahmakan                  Job Type :    CMT Plug
+        Well Depth:       (TVD):     2400.0 m         7874.4      ft        Client:    PECO               OH Size:        12 1/4''
+                          (MD):      2400.0 m         7874.4      ft       Well:       SI-09                          Last CSG/Li  CSG 13 3/8''
+                                                                             Rig:     OEOC 207               Mud Weight             -
+
+        Cementing Additives                 Conc.          Units    Mass      Units                   Cement and Mixing Water
+
+      CMT G Delijan                      110        LB/SK    802      Gr      Mixing Water:                                   Drill Water
+         Boric Acid (BN:10043-35-3)            0.15        LB/SK    1.12      Gr      Slurry Density:                       16.7 PPG         125 PCF
+          Salt (Rig Sample)                 10.37 (24% )    LB/SK    75.59     Gr      Slurry Yield:                                             1.32 cuft/sk
+       O-CFR8 (BN:1451)                    0.88        LB/SK    6.41      Gr     Base Fluid Required:                                      5.18 gal/sk
+         Anti Foam(BN:224110102F1)           0.03       GAL/SK    1.82      Gr       Total Mixing Fluid Required:                               5.72 gal/sk
+          Drill Water                                  -        GAL/SK    315      Gr
+
+         Temperature        BHST:    78.9 oC         BHCT:     64.4 oC
+         Temperature        BHST:    174 oF         BHCT:     148 oF                            Temperature Gradient:         1.2 oF / 100 ft
+        API Schedule:                                Heat up time:      50 min                                      Final Pressure :     6000 psi
+
+        API Free Fluid:          NA  %     @ 2 hrs
+        API Fluid Loss:          NA     cc/30 min @             148 oF            and       1000 Psi
+
+         Rheology Data:                                                                                    PV     YP
+                oF                     300      200      100    6         3                           10 sec Gel  10 min Gel           CP      lb/100ft2
+               80                      51       41       21    5         3                            4        18                 45       6
+               148                      118       73       51   17       10                          14        24                 100.5     17.5
+
+        Pumping Time:               35(BC):       03:18       Hrs:Min 50(BC):         03:46        Hrs:Min   70(BC):       04:03       Hrs:Min
+
+       UCA C.S. :                       3704         psi            in           24 Hrs @         174 oF
+        Crush Test C.S. :              NA          psi            in           24 Hrs @         174 oF
+
+        Water Analysis:             Chlorides:             mg/liter
+       UCA C.S. :                                             psi            in           24 Hrs @         142 oF (IN L.LAP TEMORATURE )
+
+        PH: Pre-Hydrated            DB:  Dry Blended     % BWOC% by weight of cement          % BWOW: % by weight of water
+
+          Note:            The Calculation is based on 110 lbs sack of dry cement.
+        Remarks:
+
+         Sarvak Lab Supervisor: Meysam Kerdegari                                      Sarvak Cement Engineer:  Hasan Sabooei
+
+         Eng. Department Manager:  Amir Mirzaei
+
+         Note:
+        The content and the results of this report is limited to the sample described. Any user of this report agrees SKDS shall not be liable for any loss or damage, regardless
+           of cause, including any act or omission of SKDS resulting from the use thereof.
+
+                                                                              pg. 6
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+SK/PECO-EN-00-31-01
+
+    4. Lab Graph
+
+                                     T.T Graphs
+
+                                  CS. Graphs
+
+                                                                              pg. 7

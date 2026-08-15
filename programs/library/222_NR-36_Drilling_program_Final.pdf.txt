@@ -1,0 +1,2810 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 79 ]
+────────────────────────────────────────────
+              I.O.O.C.
+      Iranian Offshore Oil Company
+
+Engineering & Operation Management
+       Services for IOOC Rigs
+             Contract No.:    1 92 4717                     ق ف- -  -
+
+
+        Project Code: IOOC-EOMS- (    1 92 4717 )                           ق ف- -  -
+
+       Nowrooz Field
+
+         Drilling Program
+
+           NR-36
+
+ Kazhdumi Sand-B Oil Producer
+
+
+
+
+
+   Report Code: IOOC-EOMS- (    1 92 4717 )-DR-076/00                       ق ف- -  -
+
+               Prepared by:
+
+
+
+
+              Pars Petro Zagros Engg. & Services Co
+             #5 Dodangeh (No.29) St., Jahan Ara Ave., Yousef Abad
+                                 Tehran, Iran
+                                 14389- 73814
+                       May.2015
+
+                                   0
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 79 ]
+────────────────────────────────────────────
+                                  Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+
+
+
+             Well Name:                  NR-36
+
+             Well Type:                      Horizontal
+
+              Field:                       Nowrooz
+
+             Date:                       May. 2015
+
+
+
+
+                                   P.P.Z
+
+
+Prepared by  :   A. Fatollahpour   Drilling Engineer
+
+Supervised by :   E. Bongah         Sr. Drilling Engineer
+
+Approved by  :   S. Bahraini      Head of Cement & Mud Engineering
+
+Approved by  :   S.Khajevand    Head of Drilling Engineering Department
+
+Approved by  :   M.Amini        Head of Drilling Operation
+
+Approved by  :   H.R.Mirza       Project Manager
+
+                                 I.O.O.C
+
+
+Approved by :    S. Mohammadi   Project Manager
+
+Approved by :   N. Khatibi      Head of Drilling Engineering
+
+Approved by :    P. Pornoori     Head of Drilling & Workover Dep.
+
+
+
+
+
+                                            1
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 79 ]
+────────────────────────────────────────────
+                                   Nowrooz Oil Field
+
+
+                      NR-36 Drilling Program
+
+
+
+                           TABLE OF CONTENTS
+
+A.     GENERAL INFORMATION .......................................................................................................................................3
+
+1      INTRODUCTION ........................................................................................................................................................4
+
+         1.1    Program Introduction .............................................................................................................. 4
+
+         1.2   Nowrooz Structure ................................................................................................................. 4
+
+2      WELL MONTAGE ......................................................................................................................................................5
+
+3      WELL GENERAL INFORMATION...........................................................................................................................6
+
+4      WELL OBJECTIVES ..................................................................................................................................................6
+
+5      RESERVOIR DATA.....................................................................................................................................................8
+
+6      TIME BRAKDOWN.....................................................................................................................................................9
+
+         6.1   Time Vs Depth Chart ............................................................................................................ 12
+
+B.     GEOLOGICAL INFORMATION ............................................................................................................................. 13
+
+C.     NEARBY WELLS ...................................................................................................................................................... 15
+
+         1.1   NR-32 ................................................................................................................................ 16
+
+         1.2   NR-33 ................................................................................................................................ 17
+
+         1.3   NR-34 ................................................................................................................................ 18
+
+         1.4   NR-35 ................................................................................................................................ 19
+
+         1.5   Nearby Wells Problems ........................................................................................................ 20
+
+D.     SEQUENCE OF DRILLING OPERATION .............................................................................................................. 21
+
+1        26” HOLE SECTION / 20” CASING ......................................................................................................................... 22
+
+2        17 ½” HOLE SECTION / 13 ⅜” CASING ................................................................................................................. 25
+
+3        12 ¼” HOLE SECTIONS / 9 ⅝” CASING ................................................................................................................. 28
+
+4          8-1/2” HOLE SECTIONS ........................................................................................................................................... 31
+
+E.      DIRECTIONAL DRILLING PROGRAM................................................................................................................. 33
+
+F.     MUD PROGRAM ....................................................................................................................................................... 40
+
+G.      BIT & HYDRAULIC DESIGN .................................................................................................................................. 42
+
+H.      CASING PROGRAM ................................................................................................................................................. 58
+
+1      CASING PROGRAM ................................................................................................................................................. 59
+
+I.      CEMENT PROGRAM ............................................................................................................................................... 60
+
+J.             REQUIREMENTS...................................................................................................................................................... 62
+
+K.     COMPLETION PROGRAM ..................................................................................................................................... 73
+
+L.     WELLHEAD SCHEMATIC ...................................................................................................................................... 75
+
+M.     CONTACT LIST ........................................................................................................................................................ 77
+
+CONTACT LIST .......................................................................................................................................................................... 78
+
+
+                                            2
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 79 ]
+────────────────────────────────────────────
+                      Nowrooz Oil Field
+
+
+            NR-36 Drilling Program
+
+      Drilling Program
+         NR-36
+
+
+A. General Information
+
+
+
+
+
+    Pars Petro Zagros Engineering and Services Co.
+                    Drilling Department
+                May 2015
+
+
+
+                              3
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+1  Introduction
+
+
+   1.1 Program Introduction
+
+              This program covers the information and procedures required to drill new well #36
+            from a new slot on the NR-14 platform in Nowrooz field, Persian Gulf, Iran. The well
+                 is intended to produce oil from Kazhdumi Sand-B reservoir by drilling about 660m
+              horizontal drain.
+            20” casing will be set at 155m MD, 13 ⅜” casing will be set at 1437 m MD inside
+            Jahrum, 9 ⅝” casing will be set at 2994 m MD at top of Kazhdumi Sand-B.
+        A 600m 8 1/2” hole section is going to be drilled near horizontal and horizontal
+             through Kazhdumi Sand-B to total depth of 3597m MD. Well will be completed with
+             Pre-pack screen.
+            20” & 13-3/8” & 9-5/8” casings will be set @ 155m & 1437m & 2994m, MD
+               respectively.
+
+
+
+   1.2 Nowrooz Structure
+
+            Nowrooz Field is located some 90km WNW of Kharg island, some 50km NNW of
+            Soroosh Field and some 20km NNW of Aboozar Field. Field NOWROOZ was
+             discovered by AGIP in 1966 and the first exploration well NR-1 (originally named
+              Palinurus-1) was drilled by AGIP in 1964/65 down flank on Nowrooz structure and
+             encountered Kazhdumi Sand-B Reservoir. In 1970 production started with offshore
+            equipment and facilities designed to handle 60,000 bbl/d of 22 to 24° API oil. The
+           Nowrooz Field  is a NNE-SSW trending, elongated anticline, with dimensions of
+             approximately 20km * 5km. The structure has a pronounced southern culmination and
+                 is faulted along its crest. A significant crestal collapse is present over the northern
+             culmination that has a lower structural relief than the southern one. The faults do not
+             extend across the entire structure and reservoir continuity and connectivity is expected
+              to be maintained within the oil column resulting in a field wide common OWC and
+              pressure regime. The minor displacement along the faults combined with the high sand
+             content limit the potential for the development of fault seals. Some faults may seal and
+            most faults are expected to form partial flow barriers resulting in tortuous flow paths
+              across faults.
+
+
+     Note:
+
+                       -   All depths are referred to RKB-MSL: 26m.
+
+
+
+
+
+                                           4
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 79 ]
+────────────────────────────────────────────
+                                                     Nowrooz Oil Field
+
+
+                                   NR-36 Drilling Program
+
+
+
+2  Well Montage
+
+
+
+
+
+                                                                5
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+
+3  Well General Information
+
+
+    Rig Name:                                  Shengli-10
+
+     Client:                                       I.O.O.C.
+
+     Consultant:                Pars Petro Zagros Engineering & Services Co.
+
+     Contractor:                        SMS
+
+    Country / Area                             Iran/ Persian Gulf
+
+     Field:                                 Nowrooz
+
+    Well Name:                             NR-36
+
+    Well Type:                                  Horizontal
+
+    Purpose:                                     Oil Producer
+
+    Rotary Table Elevation:                       26 m
+
+    Water Depth:                              26 m.
+
+                     UTM:   E: 345513 m.
+     Surface Coordinates:
+                                N: 3265653 m.
+
+                     UTM:   E: 344466 m.
+     L. P. Coordinates:
+                                N: 3264546 m.
+
+                     UTM:  E: 344100 m.
+    T.D. Coordinates:
+                               N: 3264165 m.
+
+    Kazhdumi Sand-B3 Entry point
+
+    Depth:                                2969.02m MD
+
+     Total Depth:                        3597 m  / 2306 mTVD
+
+
+
+4  Well Objectives
+
+           The main purpose of drilling this well is to effectively produce Oil from Kazhdumi
+           Sand-B reservoir.
+
+
+
+
+
+                                           6
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+
+Note: This program is planed with respect to the letter ع م م -20704 Dated: 94/02/23 (IOOC
+
+Reservoir Eng. Department) & most available data from this well. Any amendment program will be
+
+issued upon receipt of new data from IOOC.
+
+
+
+
+
+                                           7
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+5  Reservoir Data
+
+
+
+
+
+      5.1 H2S
+         H2S percent  is Zero  in  this Reservoir. Therefore  safety procedures
+            required for minimum standard for gas detection will be followed as per
+             contractor HSE Policies.
+
+
+
+
+
+                                           8
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 79 ]
+────────────────────────────────────────────
+                                                       Nowrooz Oil Field
+
+
+                                     NR-36 Drilling Program
+
+
+
+6  Time Breakdown
+
+
+
+
+
+                                                                  9
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             10
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             11
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 79 ]
+────────────────────────────────────────────
+                                                 Nowrooz Oil Field
+
+
+                                NR-36 Drilling Program
+
+
+6.1 Time Vs Depth Chart
+
+
+
+
+
+                                                            12
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 79 ]
+────────────────────────────────────────────
+                         Nowrooz Oil Field
+
+
+              NR-36 Drilling Program
+
+          NR-36
+
+
+
+
+
+B. Geological Information
+
+
+
+
+
+       Pars Petro Zagros Engineering and Services Co.
+                       Drilling Department
+                  May 2015
+
+
+
+                                  13
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+1  Geological Overview
+
+Table 1: Expected Litho-Stratigraphic column
+
+
+
+
+
+                                   Stratigraphical Column
+
+
+
+
+                                            14
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 79 ]
+────────────────────────────────────────────
+                 Nowrooz Oil Field
+
+
+        NR-36 Drilling Program
+
+       NR-36
+
+
+
+
+
+  C. Nearby Wells
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             May 2015
+
+                         15
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 79 ]
+────────────────────────────────────────────
+                                                  Nowrooz Oil Field
+
+
+                                 NR-36 Drilling Program
+
+
+
+1.1 NR-32
+
+
+
+
+
+                                                              16
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 79 ]
+────────────────────────────────────────────
+                                                  Nowrooz Oil Field
+
+
+                                 NR-36 Drilling Program
+
+
+1.2 NR-33
+
+
+
+
+
+                                                              17
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 79 ]
+────────────────────────────────────────────
+                                                  Nowrooz Oil Field
+
+
+                                 NR-36 Drilling Program
+
+
+1.3 NR-34
+
+
+
+
+
+                                                              18
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 79 ]
+────────────────────────────────────────────
+                                              Nowrooz Oil Field
+
+
+                              NR-36 Drilling Program
+
+
+1.4 NR-35
+
+
+
+
+
+                                                         19
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 79 ]
+────────────────────────────────────────────
+                                              Nowrooz Oil Field
+
+
+                              NR-36 Drilling Program
+
+
+1.5 Nearby Wells Problems
+
+
+
+
+
+                                                         20
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 79 ]
+────────────────────────────────────────────
+                     Nowrooz Oil Field
+
+
+            NR-36 Drilling Program
+
+         NR-36
+
+
+
+
+
+D. Sequence of Drilling
+      Operation
+
+
+
+
+
+    Pars Petro Zagros Engineering and Services Co.
+                   Drilling Department
+               May 2015
+
+
+                              21
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+1  26” Hole Section / 20” Casing
+
+      1.1 General
+
+
+          Casing Point               20” Casing @ 155m «Inside Bakhtyari/AghajariFm.»
+          Formation                  Bakhtyari/Aghajari
+           Risks & Hole problems        Tight Hole
+           Deviation control            Totco
+          Logging                No
+                                   Type    Sea Water- Xhantham Gum pill
+                   MW    65 pcf
+                                     F.L    N.C
+            Drilling Fluid                     Vis.     50-70 Sec
+                             PV     5
+                             YP     30 Lbs/100ft²
+                           PH     9.5-10
+                        GPM    950
+            Drilling Parameters       WOB   Maximum available weight.
+                         RPM    100-140
+
+
+      1.2 Formation Sampling
+
+           NIL
+
+      1.3 Sequence of Operations
+
+
+               RIH w/ Magnet and clear sea bed of any junk. POOH & L/D Magnet. (There is no
+                30” C.P)
+
+
+               Make up 26” BHA as per BHA Design, RIH to sea bed.
+
+
+                Drill ahead 26” hole section down to Casing Point @ +/-155m.
+
+
+     Note:
+
+                    - Run Totco to check deviation.
+                    - TD should be adjusted in such a way to have 2m of rat hole for probable fill.
+
+
+               At section TD, circulate, clean hole. Perform wiper trip. Check for any fill. Spot
+               150 bbls hi-vis pill @ bottom. Drop TOTCO. POOH to surface.
+
+
+               Run 26” bit and 26” reamer and condition hole prior to run 20” casing and spot
+               200 bbl hi-vis pill. POOH to surface.
+
+
+
+                                            22
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 79 ]
+────────────────────────────────────────────
+                             Nowrooz Oil Field
+
+
+                  NR-36 Drilling Program
+
+
+
+          R/U 20” casing running gear. Perform safety meeting.
+
+
+ Note:
+
+                  -  Check the stinger to be compatible with shoe.
+
+
+          Run ±155m (Approx. 15Jts) 20” casing to bottom as per casing program. Casing
+            shoe should be adjusted in such a way to have 2 meters of rat hole and enough
+              stick up (1.5 m) on rig floor. Fill casing by Sea Water each joints. (Float shoe stab
+              in type should be used).
+
+
+          Run stinger on 5” DP’s using the “C” Plate & 5” × 20” centralizer. Sting in. M/U
+       & test cementing lines. Pump for one casing annulus volume. Use all DP’s weight
+          on the string, if observing any minor leakage through DP’s annulus.
+
+
+          Cement casing as per program. Any minor adjustment regarding the corrected
+            depth will be done in due time. Displace cement with Sea water. Sting out. Check
+             the float. Circulate to clean the DP. POOH.
+
+
+         Rest the 20” casing on the elevator until cement surface samples get hard.
+
+Note:
+          Due to lack of 30” C.P.it is not possible to check return on surface. Divers
+          may be called to check cement returnat sea bed.
+
+
+          Rough cut the 20in casing.
+
+
+          Dress 20” casing, weld casing head housing 21 1/4” – 2000 psi on casing stub and
+               test the sealing of welded casing to 500 psi.
+
+
+          Before installing the casing head housing, open all the test ports and clean inside it
+            with water and air.
+
+
+          Do not forget to check the wear bushing with CHH and tie down flange before
+         N/U annular preventer.
+
+
+          N/U Hydril (Annular Preventor) or Diverter.
+
+
+
+
+
+                                       23
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 79 ]
+────────────────────────────────────────────
+                            Nowrooz Oil Field
+
+
+                 NR-36 Drilling Program
+
+
+
+Note:
+
+           -   Fill up the following forms and send to main office:
+
+        20” Casing tally
+        20” Casing Report
+        20” Cement Repor
+        26” Hole Section Summary
+        Wellhead diagram with dimensions and serial numbers.
+
+
+           P/U, M/U 17 ½” BHA(included junk sub). RIH & D/O cement & shoe by sea
+              water.
+Note:
+
+                 -  Watch carefully for any indication of abnormal torque, because of the
+                 risk of shoe backoff. In such a case, report immediately.
+
+
+           Displace hole with 75pcf salt saturated Polymer mud.
+
+
+
+ 1.4 Logging Program
+
+      No logging program is considered for this hole section.
+
+
+ 1.5 Hole Deviation
+       This well is assumed to be drilled vertically. Taking a Totco survey before each
+    POOH would give a good indication of the hole profile which helps to control the
+       deviation.
+
+
+
+
+
+                                      24
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+2  17 ½” Hole Section / 13 ⅜” Casing
+
+
+      2.1 General
+
+
+         Casing Point               13 ⅜” Casing @ 1437m MD « 30m TVD inside Jahrum»
+         Formation                   Aghajari, Gs, U.As, Ghar, L.As, Jahrum
+          Risks & Hole problems        Tight Hole, Stuck
+          Deviation control       MWD
+         Logging                NIL
+                                  Type     Salt Sat. Polymer Mud
+                   MW    75-78 pcf
+                                     F.L     25-30/15-20
+           Drilling Fluid                    Vis.    35 - 40 Sec
+                            PV     8-10 / 20±
+                            YP     15 Lbs/100ft²
+                           PH      9.5
+                        GPM    900
+           Drilling Parameters       WOB   As per DD instruction
+                        RPM   As per DD instruction
+
+
+      2.2 Formation Sampling
+
+          On each 2-4 meters one sample would be taken from surface to section TD.
+             Note: As per well site Geologist request, the sample program maybe changed.
+
+
+      2.3 Sequence of Operations
+
+                  Drill 17 ½” hole vertically to 240m (KOP).
+
+
+                 Work on Junk sub, Circulate and clean hole, POOH L/D Junk sub.
+
+
+                 P/U new bit & directional BHA. RIH to BTM.
+
+
+                 R/up Jyro and adjust toolface.
+
+     Note:
+
+                         -  Check deviation and toolface with Jyro each joint till 240m.
+
+
+                  Directional drilling 17 ½” hole section (Untill end of  bit hours recommended by
+                   manufacturer)
+
+
+                  Circulate and clean hole. POOH to surface
+
+                                            25
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 79 ]
+────────────────────────────────────────────
+                            Nowrooz Oil Field
+
+
+                 NR-36 Drilling Program
+
+
+
+
+           P/U & M/U PDC bit, RIH with DHM & MWD to bottom.
+
+
+           Cont. Drilling 17 ½” hole to 13 3/8” casing point at 1437mMD with 75-78 pcf
+                 salt saturated polymer mud.
+Note:
+
+                 -  Perform wiper trip with PDC bit each 300m drilling interval.
+                 - LCM material should be available for cure probable loss.
+
+
+           At section TD, circulate, clean hole. Perform condition trip prior to run casing.
+             Spot 150bbls Hi-Vis Pill.
+
+Note:
+
+                 -  TD should be adjusted in such a way to have 2 meters of a rat hole for
+               probable filings.
+                 -  The Section TD maybe changed based on formation tops detected by the
+                 well site geologist.
+                 -   Circulate and clean with Hi-Vis pill each stand.
+
+
+           POOH to sutface & L/D Directional BHA.
+
+
+           R/U casing running gear. Perform safety meeting.
+
+
+           Run 13 ⅜” casing to bottom as per casing program. Casing shoe should be
+              adjusted in such a way to have 2 meters of rat hole and enough stick up (1.5 m)
+            on rig floor and fill casing by LCM free fresh mud each 10 joints.
+
+
+           M/U cementing head. Load the plugs. WSS is to witness the loading. Test the
+               lines to 3000 psi for 10 minutes.
+
+
+           Cement casing as per program. Displace with mud. Monitor for pressures.
+            Record and report final pressure before bumping the plug. Bump the plug with
+            500 psi over the final circulating pressure (Max 2000psi). Bleed off pressure.
+           Check for back flow.
+
+
+Note:
+
+                - In case of backflow, hold the pressure inside for the cement to thick.
+                - In case of cement loss during cement job, decrease GPM to reduce losses.
+                - Based on the results obtained from cementing, the decision will be made to
+           perform top job.
+
+
+                                      26
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 79 ]
+────────────────────────────────────────────
+                            Nowrooz Oil Field
+
+
+                 NR-36 Drilling Program
+
+
+
+           Hold on casing string weight. Drop 21 1/4” × 13 ⅜” casing slip. Slack off casing
+              weight. Test same to 500 psi pressure. (Open base flange side outlet valves while
+                testing).
+
+
+           N/D Annular preventer, Rough cut 13 ⅜” landing joint. L/D same and Hydrill.
+             Dress and bevel 13 ⅜” casing neck.
+
+
+            Install 21 1/4”-2000 × 13 5/8” -3000 psi Casing Head Spool. Pack & Test p-seals
+             with 1500 psi.
+
+
+           N/U Proper Drilling Spool and 13 ⅝” 5K ram type preventer and 13 ⅝” 3K
+              annular preventer & Riser. Test BOP’s and related lines using plug tester to 2500
+               psi pressure, Annular preventer to 1500 psi.(CHS side outlet should be open
+             during BOP Test)
+Note:
+
+           -   Fill up the following forms and send them to main office:
+
+
+       13 ⅜” Casing Tally
+       13 ⅜” Casing Report
+       13 ⅜” Cement Report
+        Wellhead diagram with dimensions and serial numbers BOP’s Schematics with
+                    all related dimensions
+        Section Summary.
+        Directional survey
+
+
+           P/U 5” DP for next hole, stand back in derrick, P/U next BHA & 12 ¼ “B.Bit
+             (Junk sub included), RIH to BTM.
+
+
+              Drill out cement & shoe. Uniform 77 pcf salt saturated polymer mud.
+
+Note:
+
+                 -  Watch carefully for any indication of abnormal torque, because of the
+                 risk of shoe backoff. In such a case, report immediately.
+
+
+
+ 2.4 Logging Program
+      NIL
+
+
+ 2.5 Hole Deviation
+    MWD will be use for this hole section.
+
+
+                                      27
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+3  12 ¼” Hole Sections / 9 ⅝” Casing
+
+
+
+      3.1 General
+
+
+          Casing Point                  9-5/8” Casing @ 2994m MD @ Kazhdumi sand-B3 Top
+                                Jahrum Group, Tarbur, Gurpi, Sarvak, Kz shale, Kz Lst,
+          Formation
+                             Kz Sand-A, Kz sand B1-3
+           Risks & Hole problems        Chert, Kazhdumi shale, Tight hole, Hole pack off, stuck
+           Deviation control       MWD
+          Logging                NIL
+                                   Type      Salt Sat. Polymer Mud      OBM
+                   MW            77-78 pcf               78-80 pcf
+                                     F.L              10±           HPHT 2±
+            Drilling Fluid                     Vis.             40+                  55±
+                             PV              20±                   30-35
+                             YP          15-20 Lbs/100ft²              15-20
+
+                           PH                 9.5           ALKA 3.5
+
+                        GPM    750-800
+            Drilling Parameters       WOB   As per DD instruction
+                         RPM   As per DD instruction
+
+
+      3.2 Formation Sampling
+
+             Every 2-4 meters one sample would be taken from surface to section TD.
+             Note: As per well site Geologist request, the sample program maybe changed.
+
+
+
+      3.3 Sequence of Operations
+
+
+                  Drill 12 ¼ “ rat hole 1442mMD.
+
+
+                 Work on junk sub, Circulate clean hole with Hi-Vis pill. POOH to surface.
+
+
+                 L/D junk sub. P/U Directional drilling BHA (MWD/GR/ROP) & new PDC bit.
+              RIH to BTM. Cont. directional drilling to 10mMD before top of Kazhdumi
+                      shale.
+
+
+                 Displace well with 78 pcf OBM. (MW will be increased to 80 pcf at CSG point)
+
+
+                 Cont Dir. Drilling to 9 5/8” CSG point.
+
+
+
+
+                                            28
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 79 ]
+────────────────────────────────────────────
+                            Nowrooz Oil Field
+
+
+                 NR-36 Drilling Program
+
+
+
+
+Note:
+
+                 -   It  is recommended to  drill Gurpi chert zone by  R.Bit. (Based on
+                experience in well NR-35)
+                 -   It is recommended to change bit to PDC and RIH with new motor before
+             Kazhdumi shale and drill to CSG point to minimize for bit change.
+                 -  As per SHELL company recommendation, perform wiper trip each 12
+                hrs after kazhdumi shale.
+                 -  The Section TD maybe changed based on formation tops detected by the
+                 well site geologist.
+                 -   Circulate and clean with Hi-Vis pill each stand.
+                 -  Perform BOP Test each 14 days.
+                 -  Based on Reservoir pressure data, 78 PCF mud impose ±615 psi over
+                pressure to the Kazhdumi sand-B reservoir@ ±2288m, TVD.
+                 -   9-5/8” CP may be changed to +/- 3118m based on geologist request.
+
+
+            Circulate, clean hole with Hi-Vis Pill. Condition trip to 13 3/8” shoe, prior to run
+            9 5/8” casing. RIH and spot 100 BBLs Hi-Vis pill. POOH to13 3/8” shoe, OBS
+            and check well. POOH to surface.
+
+
+           Retrieve wear bushing and change upper rams to 9 5/8”. Perform Function and
+            P/T same.
+
+
+           R/U & run 9 5/8” casing to BTM as per program. Circulate one cap when casing
+            9 5/8” shoe is at 13 3/8” shoe and another one at BTM. Casing shoe should be
+              adjusted in such a way to have 0.5 meter of rat hole and enough stick up (1.5 m)
+            on rig floor.
+
+
+           M/U cementing head. Load the plugs. WSS is to witness the loading. Test the
+               lines to 3000 psi for 10 minutes. Make sure that the cementing head is capable of
+             holding pressure while displacing and testing cement (Visually).
+
+
+           Cement casing as per program. Any minor adjustment regarding the corrected
+             depth will be done in due time. Displace with mud. Monitor for pressures.
+            Record and report the final pressure before bump the plug. Bump the plug with
+            500 psi over the final circulating pressure (Max 1500psi). Bleed off pressure.
+           Check for back flow. If any back flow observed, hold the pressure inside for
+            cement to thick.
+Note:
+
+                 -  Perform top-up cement jobs as per program to fill the annulus if occured
+                   lost return while cementing.
+
+                                      29
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 79 ]
+────────────────────────────────────────────
+                            Nowrooz Oil Field
+
+
+                 NR-36 Drilling Program
+
+
+
+
+           Hold on casing string weight. Drop 13 ⅝” × 9 ⅝” casing slip. Slack off casing
+              weight. Test same to 2000 psi pressure. (Open casing head spool side outlet
+              valves while testing).
+
+
+           P/U BOP’s. Rough cut 9 ⅝” landing joint. L/D same & BOP’s. Dress and bevel
+           9 ⅝” casing neck.
+
+            Install 13 ⅝” – 3k × 11” – 5k THS. Pack & Test p-seals with 2500 psi.
+
+           N/U 13 ⅝” BOP Stack. N/U bell nipple. Test BOP’s and related lines using plug
+                tester to 4500 psi pressure, Annular preventer to 2500 psi.
+
+Note:
+
+                 -  Do not forget to change top rams to 5”.
+
+
+           L/D 8 ½” Drill collars and P/U 6 ½” Drill collars. M/U 8 1/2” BHA, RIH to
+        BTM .
+
+            Drill out shoe track to 3m above shoe. (80pcf OBM will be use in next section)
+
+
+
+ 3.4 Logging Program
+
+          NIL
+
+
+
+
+ 3.5 Hole Deviation
+    MWD will be use for this hole section.
+
+
+
+
+
+                         \
+
+
+
+                                      30
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+4  8-1/2” Hole Sections
+
+
+      4.1 General
+
+
+       TD                    3597mMD, 2306 mTVD
+          Formation               Kazhdumi sand-B3
+           Risks & Hole problems       Tight hole, Hole pack off, stuck
+           Deviation control      MWD
+          Logging          LWD
+                                    Type   OBM
+                   MW    80 pcf
+                                               Vis.     55 sec.
+            Drilling Fluid             PV     35 CPS
+                             YP     20 Lbs/100ft²
+                          HPHT   2±
+                          ALKA    3.5
+                         GPM    550
+            Drilling Parameters       WOB    As per DD engineer instruction
+                         RPM    As per DD engineer instruction
+
+
+      4.2 Formation Sampling
+
+           On each 2-4 meters one sample would be taken from surface to section TD
+               Note: As per well site Geologist request, the sample program maybe changed.
+
+      4.3 Sequence of Operations
+
+
+                  Drill out cement & shoe to 3m bellow shoe. Circulate Hi-Vis Pill and clean hole.
+                Watch carefully for any indication of abnormal torque, since there might be the
+                       risk of shoe back off. In case, report immediately. Observe and make sure well is
+                         static. POOH to surface.
+
+
+                 P/U 8-1/2" PDC bit and directional BHA (LWD/GR/ROP) and RIH to BTM.
+
+                  Directional drilling as per directional trajectory to TD @ 3597mMD.
+
+
+      Notes:
+
+                         -  Mud weight for this section has been designed based on field experience.
+                         -  Based on Reservoir pressure data, 80 PCF mud impose ±725 psi over
+                      pressure  to  the Kazhdumi  sand-B  reservoir@  9-5/8"  casing  point
+                     (±2301.2m, TVD).
+                         -   Adjust mud weight according to the hole condition.
+
+
+                                            31
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+                         -   Section TD maybe changed based on formation tops detected by the well
+                            site geologist.
+                         -  Perform wiper trip after drilling each 300m interval.
+
+
+                  Circulate and clean hole. POOH. L/D Dir BHA.
+
+                 RIH w/ 9 5/8” scraper. Scrape Screen PKR setting depth, CBU, OBS well,
+            POOH to surface. L/D Scraper.
+
+                  Retrieve wear bushing. R/U P.P.S. running equipment. Run P.P.S.  to TD.
+                     Circulate and displace well with Brine.
+
+                 Set P.P.Screen PKR. Release setting tools. POOH & L/D setting tools & Drill
+                     pipes.
+
+                 R/U and run completion top section with seal assembly and sting in inside
+                   P.P.Screen Packer.
+
+
+Note:
+
+     Completion program will be issued by IOOC completion department in due time.
+
+
+
+                 N/D BOP, N/U X-Mass tree, P/T same.
+
+                 Perform stimulation job as per production department program.
+
+                 Flow well.
+
+                 Secure well, Release rig.
+
+
+
+
+      4.4 Logging Program
+
+        LWD
+
+
+      4.5 Hole Deviation
+       MWD will be use for this hole section.
+
+
+
+
+
+                                            32
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 79 ]
+────────────────────────────────────────────
+                    Nowrooz Oil Field
+
+
+           NR-36 Drilling Program
+
+        NR-36
+
+
+
+
+
+E. Directional Drilling
+      Program
+
+
+
+
+
+   Pars Petro Zagros Engineering and Services Co.
+                  Drilling Department
+               May 2015
+
+
+                             33
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+Directional Drilling Program
+
+
+
+
+
+                                            34
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             35
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             36
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             37
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+5  Vertical Section
+
+
+
+
+
+Horizontal view
+
+
+
+
+
+                                            38
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+  Anticollision
+
+
+
+
+
+                                                                                                                                                                          
+
+
+
+
+
+                                            39
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 79 ]
+────────────────────────────────────────────
+                 Nowrooz Oil Field
+
+
+        NR-36 Drilling Program
+
+       NR-36
+
+
+
+
+
+ F. Mud Program
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             May 2015
+
+                         40
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 79 ]
+────────────────────────────────────────────
+                                           Nowrooz Oil Field
+
+
+                           NR-36 Drilling Program
+
+
+                           NR-36 Mud Program
+Mud system / Materials
+                             26”             17 ½”                   12 ¼”                 8 1/2”
+
+
+  Section TD (m,MD)          155.00         1437m,MD          Before Kz     Kz to CSG point  3597m,MD
+
+                     SW+Xhantham
+      Mud Type                              Salt Sat. Polymer    Salt Sat. Polymer     OBM      OBM
+                           gun pill
+
+       M.W. (pcf)            65.00              75-78              77-78             78- 80         80
+
+           F. Vis.              50-70              35-40             40+             55±          55±
+ system
+         P.V. (CPS)             5              8-10 / 20±            20±             30-35         30-35
+Mud
+      Y.P. (lb/100 ft2)          30               15               15-20            15-20         15-20
+
+          F. L. (cc)            N.C           25-30 / 15-20          10±         HPHT 2±    HPHT 2±
+                                                                              AlKA         AlKA
+        PH                9.5-10                9.5                  9.5
+                                                                                              3.5            3.5
+
+
+
+
+
+                                                    41
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 79 ]
+────────────────────────────────────────────
+                         Nowrooz Oil Field
+
+
+               NR-36 Drilling Program
+
+          NR-36
+
+
+
+
+
+G. Bit & Hydraulic Design
+
+
+
+
+
+       Pars Petro Zagros Engineering and Services Co.
+                       Drilling Department
+                  May 2015
+
+
+
+
+                                   42
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 79 ]
+────────────────────────────────────────────
+                                                  Nowrooz Oil Field
+
+
+                                 NR-36 Drilling Program
+
+
+
+6.1  Bit & Hydraulic Program
+
+
+
+
+
+                                                             43
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 79 ]
+────────────────────────────────────────────
+                              Nowrooz Oil Field
+
+
+                   NR-36 Drilling Program
+
+
+
+6.2  26” Hole Section
+
+
+
+
+
+                                        44
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             45
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+   6.3  17 ½” Hole Sections
+
+Primary Proposed Bit:
+
+
+
+
+
+Notice:
+      17-1/2” RC Bit is recommended for drilling KOP (+/-240m)
+
+
+
+                                            46
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             47
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+Secondary Proposed Bit:
+
+
+
+
+
+                                            48
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+
+
+
+   6.4  12 ¼” Hole Section
+Primary Proposed Bit:
+
+
+
+
+
+                                            49
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             50
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             51
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 79 ]
+────────────────────────────────────────────
+                             Nowrooz Oil Field
+
+
+                 NR-36 Drilling Program
+
+
+Secondary Proposed Bit:
+
+
+
+
+
+                                      52
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             53
+
+
+────────────────────────────────────────────
+[ صفحه 55 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+
+
+Third Proposed Bit
+
+
+
+
+
+                                            54
+
+
+────────────────────────────────────────────
+[ صفحه 56 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             55
+
+
+────────────────────────────────────────────
+[ صفحه 57 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+6.5  8 1/2” Hole Section
+
+
+
+
+
+                                            56
+
+
+────────────────────────────────────────────
+[ صفحه 58 از 79 ]
+────────────────────────────────────────────
+      Nowrooz Oil Field
+
+
+NR-36 Drilling Program
+
+
+
+
+
+             57
+
+
+────────────────────────────────────────────
+[ صفحه 59 از 79 ]
+────────────────────────────────────────────
+                 Nowrooz Oil Field
+
+
+        NR-36 Drilling Program
+
+       NR-36
+
+
+
+
+
+H. Casing Program
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             May 2015
+
+
+                         58
+
+
+────────────────────────────────────────────
+[ صفحه 60 از 79 ]
+────────────────────────────────────────────
+                                                     Nowrooz Oil Field
+
+
+                                   NR-36 Drilling Program
+
+
+
+1  Casing Program
+
+
+
+
+
+          Notice:
+
+               CSF calculation assumed as full evacuate inside casing & mud (Max MW) in annulus.
+
+               BSF, Calculation for 20” casings, assumed 5” DP as stinger full of cement (118pcf) slurry and during cement job shoe become
+
+                 plugged.
+
+               BSF, Calculation assumed 13-3/8” & 9-5/8” casings full of cement (Lead 95pcf & Tail 118pcf) slurry and during cement job shoe
+
+              become plugged with 1000 psi pumping pressure.
+
+               TSF for 20” casing assumed cement inside 5” DP suddenly shoe become plug. (No mud in annulus assumed).
+
+
+               TSF calculation assumed cement & mud inside casing with 1000psi pumping pressure suddenly shoe become plug. (No mud in      
+                                                                    annulus assumed).
+
+
+                                                                 59
+
+
+────────────────────────────────────────────
+[ صفحه 61 از 79 ]
+────────────────────────────────────────────
+                 Nowrooz Oil Field
+
+
+         NR-36 Drilling Program
+
+       NR-36
+
+
+
+
+
+I. Cement Program
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+               Drilling Department
+             May 2015
+
+                          60
+
+
+────────────────────────────────────────────
+[ صفحه 62 از 79 ]
+────────────────────────────────────────────
+                      Nowrooz Oil Field
+
+
+            NR-36 Drilling Program
+
+
+
+Note: Cement Program will be issued by Service Co. in due time.
+
+
+
+
+
+                               61
+
+
+────────────────────────────────────────────
+[ صفحه 63 از 79 ]
+────────────────────────────────────────────
+                 Nowrooz Oil Field
+
+
+        NR-36 Drilling Program
+
+       NR-36
+
+
+
+
+
+  J. Requirements
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             May 2015
+
+                         62
+
+
+────────────────────────────────────────────
+[ صفحه 64 از 79 ]
+────────────────────────────────────────────
+                                Nowrooz Oil Field
+
+
+                    NR-36 Drilling Program
+
+
+  1. 26” Hole Section
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+                      Maximum Available Size of String Magnet to clean
+         1     Service Co                                                   1
+                                 the Sea Bed
+
+         2      I.O.O.C    26” BIT (1.1.5) W/7-5/8” Reg 1-1-5                    2
+
+         3      Contractor    Bit Sub 11” OD W/7-5/8” Reg Box~7-5/8” Reg Box     1No
+
+         4      Contractor   Float Valve 5F-6R                                1 No.
+
+         5      Contractor   11” Drill Collar                                  3 Jts.
+
+         6      Contractor   9-¾” Drill Collar                                  6 Jts
+
+         7      Contractor   8-½” Drill Collar                                  9 Jts
+
+         8      Contractor  X/O 7-5/8” Reg Pin~ 6-5/8” Reg Box                 1 No
+
+         9      Contractor  X/O 6-5/8” Reg Pin~ 4-1/2” IF Box                  1 No   Equipment
+         10     Contractor   5” HWDP                                 As needed
+
+         11     Contractor   26” Reamer                                     1 No.
+
+         12     Contractor   8-1/2” Drilling Jar                                1 No.
+
+         13     Contractor   5” Drill Pipe                               As needed
+
+         14     Contractor   26” St. Stablizer                                  1 No.
+
+         15     Contractor  Comp Set Of Fishing Tools for this Hole Section                                                              2   Set
+
+
+
+
+
+                                          63
+
+
+────────────────────────────────────────────
+[ صفحه 65 از 79 ]
+────────────────────────────────────────────
+                                Nowrooz Oil Field
+
+
+                    NR-36 Drilling Program
+
+
+  20” Casing & Accessories
+
+Item    Item No.   Supplier                    Description                   Quantity
+
+           1        I.O.O.C   20” Float Shoe (Stab-In Type)                     2 No.
+
+           2        I.O.O.C   Stinger (Stab-In Type) F/Above Shoe               1 No.
+
+           3        I.O.O.C   20” Casing 94Lbs/ft , BTC, K-55 From Busher      ±18 Jts
+
+           5        I.O.O.C   20” Bow Type Centralizers                      ±5 No
+
+           7        I.O.O.C   5” × 20” C-Plate                               1 No.
+
+           8        I.O.O.C   20” Stop Collar W/Spiral Nails                   ±16 No
+
+           9        I.O.O.C   5” × 20” Centralizer                             2 No.
+
+                       Service
+           10                20” Slips Spider                                1 No.
+                      Co.
+                       Service
+           11                20” Casing Elevator                             1 No.
+                      Co.
+                       Service
+           12                20” Cement Head                               1 No.
+                      Co.
+                       Service
+           13               4-½” IF Pin Circulating Head                     1 No.
+                      Co.
+                       Service
+           14                20” Casing Drift                                1 No.
+                      Co.   Equipment                   Service           15                20” Casing Swage × 4-½” IF Box × 2”             1 No.
+                      Co.
+                       Service
+           16                2” Lo-Torque Valve                             1 No.
+                      Co.
+                       Service
+           17                 Casing Tongs Dressed W/20” Jaws                 1 Set
+                      Co.
+                       Service
+           18                20” Single Joint Elevator                         1 No.
+                      Co.
+                       Service
+           19                20” Back Up Slips                              1 No.
+                      Co.
+                       Service
+           20                 Thread Sealing Compound                       1 Drs.
+                      Co.
+
+           21       I.O.O.C   Thread Locking Compound (Baker Lock)           2 Tins.
+
+           22       I.O.O.C   21-1/4-2000” Casing Head Housing W/Access        1 Set
+
+           23       I.O.O.C   RX-73                                       2 No.
+
+           24       I.O.O.C   2 1/16”-2000 Gate Valve                         2 No.
+
+
+
+                                          64
+
+
+────────────────────────────────────────────
+[ صفحه 66 از 79 ]
+────────────────────────────────────────────
+                               Nowrooz Oil Field
+
+
+                    NR-36 Drilling Program
+
+
+
+          25       I.O.O.C   2 1/16” -2000 Companion Flange                  2 No.
+
+          26       I.O.O.C   2” Bull Plug                                   2 No.
+
+          27       I.O.O.C   21-1/4”-2000 Tie down Flange                    1 No.
+
+          28       I.O.O.C   RX-23                                       4 No.
+
+          29       I.O.O.C   21 1/4” Wear Bushing                           1 Set
+
+          30       I.O.O.C   21 1/4” Combination Setting& Running Tools        1No.
+
+          31       I.O.O.C   Packing “Ring for above                         2 Set
+
+                     Contract
+          32                  21-1/4” - 2000 Spacer Spool                        1
+                        or
+                     Contract
+          33                20” Diverter (Hydrill) & DSA                    1 SET
+                        or
+
+          34       I.O.O.C   Ring Gasket RX-57                             4 No
+
+          35       I.O.O.C   VR-Plug                                      1 No.
+
+
+
+
+
+Item    Item No.     Supplier                   Description                Quantity
+
+                                                                          1
+        1            Service Co.     Drilling fluid Services & Material
+
+                                                                          1        Services    2            Service Co.    20" Casing running service
+    Well    3            Service Co.    Cementing services with crew                  1
+
+
+
+
+
+                                          65
+
+
+────────────────────────────────────────────
+[ صفحه 67 از 79 ]
+────────────────────────────────────────────
+                                Nowrooz Oil Field
+
+
+                    NR-36 Drilling Program
+
+
+  2. 17 ½” Hole Section
+
+
+        Item
+Item             Supplier                      Description                    Quantity
+        No.
+
+         1      I.O.O.C    17-½” BIT (1.1.1 - 415 – PDC M1953)            As Needed
+
+         2      I.O.O.C     Bit Nozzles                                As Needed
+
+         3      Contractor   17-½” Bit Breaker                                1 No.
+
+         4      Contractor   17-½” Bit Gauge                                 1 No.
+
+         5      Contractor    Bit Sub 11” OD W/7-5/8” Reg Conn.                 1 No.
+
+         6      Contractor   11” Junk Sub with 7 5/8” Reg Conn.                  1 No
+
+         7      Contractor   Float Valve 5F-6R                                2 No.
+
+         8      Contractor   11” Drill Collar W/7-5/8” Reg Conn.                 2 Jts.
+
+         9      Contractor   17-½” String Stabilizer                            1 No.
+
+         10     Contractor   11” Drill Collar W/7-5/8” Reg Conn.                  1 Jt.   Equipment     11     Contractor   9-¾” Drill Collar W/7-5/8” Reg Conn.                6 Jts.
+
+         12     Contractor  X/O 7-5/8” Reg Pin ~ 6-5/8” Reg Box                1 No.
+
+         13     Contractor   8-½” Drill Collar W/6-5/8” Reg Conn.                6 Jts.
+
+                          8-½” Drilling Jar (Hyd-Mechanical) W/6-5/8” Reg
+         14     Contractor                                                  1 Set
+                           Conn.
+
+         15     Contractor  X/O 6-5/8” Reg Pin ~ 4-½” IF Box                   1 No.
+
+         16     Contractor   5” HWDP W/4-½” IF Conn.                        9 Jts.
+
+         17     Contractor   5” Drill Pipe Grade “E” & “G”                  As Needed
+
+         18     Contractor   Complete Set Of Fishing Tools F/This Section          1 Set
+
+
+
+
+
+                                          66
+
+
+────────────────────────────────────────────
+[ صفحه 68 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+13 3/8” Casing & Accessories
+
+         Item
+ Item             Supplier                      Description                    Quantity
+          No.
+
+          1      I.O.O.C    13-3/8” 72# ,N-80 ,Float Shoe                      2 No.
+
+          2      I.O.O.C    13-3/8” Float Collar,72#.N-80                      1 No.
+
+          3      I.O.O.C    13-3/8” Casing 68# N-80,BTC(From Bushir)         ±105 Jts
+
+          4      I.O.O.C    13-3/8” Casing 72# N-80,BTC(From Bahregan)       ±42 Jts
+
+          5      I.O.O.C    13-3/8” Centralizers Bow Type                    ±25 No
+
+          6      I.O.O.C    13-3/8” Rigid Centralizers                        ±5 No
+
+          7      I.O.O.C    13-3/8” Stop Collars W/Spiral Nails                ±60 No
+
+          8      Contractor   Circulating Head Conn. F/Pump                     1 No.
+
+          9     Service Co.   13-3/8” Casing Drift F/Mentioned Csgs             1+1 No.
+
+          10     Service Co.   13-3/8” Safety Clamps Complete                    1 Set
+
+          11     Service Co.   13-3/8” Casing Swage                             1 No.
+
+          12     Service Co.  2” Lo-Torque Valve                              1 No.            Equipment
+          13     Service Co.   Casing Tongs Dressed F/Mensioned Casing            1 Set
+
+          14     Service Co.   13-3/8” Side Door Elevator                         1 Set  Equipment Head
+      Well    1516     ServiceService Co.Co.   13-3/8”13-3/8” SlipsManualspiderSlips                            1+11 SetNo.
+
+          17     Service Co.   13-3/8” Single Joint Elevator                      1+1 No.
+
+          18     Service Co.   Thread Sealing Compound                         2 Drs.
+
+          19      I.O.O.C    Thread Locking Compound (Baker Lock)             1 Tin.
+
+          20      I.O.O.C    13-3/8” Top & Bottom Plug                      1+1 No.
+
+          21      I.O.O.C    RX-73 Ring Gasket                               2 No.
+
+          22      I.O.O.C    RX-57                                         2 No.
+
+          23      I.O.O.C    2-1/16” – 3000 Gate Valve                         4 No.
+
+          24      I.O.O.C    2-1/16” – 3000 Companion Flange                   2 No.
+
+          25      I.O.O.C    2” Bull Plug                                     2 No.
+
+
+
+                                            67
+
+
+────────────────────────────────────────────
+[ صفحه 69 از 79 ]
+────────────────────────────────────────────
+                               Nowrooz Oil Field
+
+
+                   NR-36 Drilling Program
+
+
+
+        26      I.O.O.C    RX-23 Ring Gasket                               6 No.
+
+        27      I.O.O.C     Pressure Gauge 0 – 3000 PSI                       1 No.
+
+        28      I.O.O.C   ½” Needle Valve                                 2 No.
+
+        29      I.O.O.C    7/8” ×6-¾” Length – Bolt & Nut                    32 No.
+
+        30      I.O.O.C    Casing Head Spool 21-1/4” – 2000 ~ 13-5/8” -3000     1 Set
+
+        31      I.O.O.C    Csg Hanger Automatic 21 1/4” by 13 5/8”             1 No.
+
+                                                                      1 Complete
+                             13-5/8” – 5000 BOP Stack
+        32     Contractor                                                           Set
+                              13-5/8”- 3K x 13-5/8”-5K Tie Down Flange
+                                                                     W/Access
+
+        33      I.O.O.C    1-½” VR-Plug                                   1 No.
+
+        34      I.O.O.C    13-5/8” Cup & Plug Tester                       1+1 No.
+
+        35      I.O.O.C    13 5/8” Wear Bushing                             1 No.
+
+        36      I.O.O.C    13-5/8” Combination Tools(plug tester &Run Tool)     1 No.
+
+        37      I.O.O.C    Packing Ring for above                            2 Set
+
+
+
+
+
+        Item
+Item             Supplier                     Description                   Quantity
+         No.
+
+         1      Service Co.    Drilling fluid Services & Material                   1
+
+         2      Service Co.   13-3/8" Casing running service                     1
+
+         3      Service Co.   Cementing services with crew                      1        Services
+         4      Service Co.   17-1/2" Directional drilling w/MWD/GR/ROP         1
+    Well
+         5      Service Co.   Gyro Services                                   1
+
+         6      Service Co.   Wellhead service                                1
+
+
+
+
+
+                                         68
+
+
+────────────────────────────────────────────
+[ صفحه 70 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+   3. 12 ¼” Hole Section
+
+         Item
+ Item             Supplier                      Description                    Quantity
+          No.
+                                                                      As
+          1      I.O.O.C    12-¼” BIT (2.1.4 – 5.1.7) / 12-¼” PDC M1664 BIT
+                                                                              Needed.
+
+          2      I.O.O.C    BIT Nozzles                                As Needed
+
+          3     Contractor   12-¼” BIT Breaker                                1 No.
+
+          4     Contractor   12-¼” Ring Gauge                                1 No.
+
+          5     Contractor    Bit Sub 8-½” OD W/6-5/8” Reg Box By Box           1 No.
+
+          6     Contractor   Float Valve 5F-6R                                2 No.
+
+          7     Contractor   12-¼” Stabilizer W/ 6-5/8” Reg Conn.                1 No.
+
+          8     Contractor   8-½” Drill Collar W/ 6-5/8” Reg Conn.                19 Jts.
+
+          9     Contractor   8-½” Drilling Jar (Hyd. Mechanical)                  1 No.       Equipment
+          10     Contractor   8-½” Junk Sub W/ 6-5/8” Reg Conn.                  1 No.
+
+          11     Contractor   X/O  6-5/8” Reg Pin ~ 4-½” IF Box                  1 No.
+
+          12     Contractor   5” HWDP                                 As needed
+
+          13     Contractor   5” Drill Pipe Grade “E” & “G”                  As needed
+
+          14     Contractor   4-½” IF Safety Valve                              1 Set
+
+          15     Contractor   Complete Set of Fishing Tools for this Hole Section      1 No.
+
+9 5/8” Casing & Accessories
+
+
+         Item
+ Item             Supplier                      Description                    Quantity
+          No.
+
+          1      I.O.O.C     9-5/8” Differential Fill up Shoe N-80 47 ppf PJE       2 No.
+
+          2      I.O.O.C     9-5/8” Fill up Collar N-80 47 ppf PJE                1 No.
+
+          3      I.O.O.C     9-5/8” Top & Bottom Plug                       1+1 No.
+
+          4      I.O.O.C     9-5/8” Casing 43.5 # N-80 PJE (from Bushehr)        ±185 Jts
+
+          5      I.O.O.C    9 5/8” Casing 47# N-80 PJE (from Bushehr)          ±125 Jts       Equipment          7      I.O.O.C     9-5/8” Centralizers Bow Type W/Nails              ±30Nos
+
+          8      I.O.O.C     9-5/8” Rigid Centralizers W/Nails                  ±15Nos
+
+          9      I.O.O.C     9-5/8” Stop Collars W/Spiral Nails                 ±80 Nos
+
+
+
+                                            69
+
+
+────────────────────────────────────────────
+[ صفحه 71 از 79 ]
+────────────────────────────────────────────
+                       Nowrooz Oil Field
+
+
+             NR-36 Drilling Program
+
+
+
+10     Service Co.   9-5/8” Casing Drift F/Mentioned Casing             1+1 No.
+
+11     Service Co.   9-5/8” Casing Swage ~ 4-½” IF Box By 2”            1 No.
+
+12     Service Co.  X/O 9-5/8” B.T.C Pin ~ 4-½” IF Box                 1 No.
+
+13     Service Co.  2” Lo-Torque Valve                               1 No.
+
+14     Service Co.   9-5/8” Cement Head                              1 No.
+
+15     Service Co.   9-5/8” Pipe Rams                                 1 Set
+
+16     Service Co.   Casing Tongs Dressed W/9-5/8” Jaws                 1 Set
+
+17     Service Co.   9-5/8” Side Door Elevator                          1 Set
+
+18     Service Co.   9-5/8” Rotary Slips & Bowl                        1 No.
+
+19     Service Co.   9-5/8” Single Joint Elevator                         1 No.
+
+20     Service Co.   Thread Sealing Compound                           3-4 Drs.
+
+21      I.O.O.C    Thread Locking Compound (Baker Lock)             2 Cans
+
+22     Service Co.   9-5/8” Safety Clamps                              1 Set
+
+23     Service Co.   9-5/8” × 13-3/8” Casing Slip & Seal                  1 No.
+
+25      I.O.O.C    Tubing Head Spool 13-3/8”-3000~11-5000”           1 No.
+
+26      I.O.O.C    11” Plug Tester F/Mentioned Spool                  1 No.
+
+27      I.O.O.C    11” Running tools/ Wear Bushing                  1+1 No.
+
+28     Contractor   11”-5000~13-5/8” -5000 Tie Down Flag              1 No.
+
+29      I.O.O.C    RX-53 / RX-24 Ring Gaskets                     2+2 No.
+
+30      I.O.O.C    7/8” Bolt & Nut                                 32 No.
+
+31      I.O.O.C    4-1/16” - 5000 Gate Valve                          1 No.
+
+32      I.O.O.C    4-1/16” - 5000 Companion Flange                   1 No.
+
+33      I.O.O.C    2-1/16” - 5000 Gate Valve                          2 No.
+
+34      I.O.O.C    2” Bull Plug                                     2 No.
+
+35      I.O.O.C    Needle Valve ½”                                 2 No.
+
+36      I.O.O.C     Pressure Gauge 0 - 5000 PSI                        1 No.
+
+37      I.O.O.C    VR-Plug F/T.H.S                                 1 No.
+
+38     Service Co   Casing Power Pack                                1 Set
+
+
+
+                                 70
+
+
+────────────────────────────────────────────
+[ صفحه 72 از 79 ]
+────────────────────────────────────────────
+                               Nowrooz Oil Field
+
+
+                   NR-36 Drilling Program
+
+
+
+        Item
+Item               Supplier                     Description                  Quantity
+         No.
+
+        1        Service Co.      Drilling fluid Services & Material                 1
+
+        2        Service Co.     12-1/4" Directional drilling w/MWD/GR/ROP       1
+
+        3        Service Co.     Cementing services with crew                    1
+        Services    4        Service Co.     Wellhead service                               1
+
+        5        Service Co.     9-5/8" Casing running service                    1    Well
+        6        Service Co.     Fishing Services                          As Req.
+
+        7        Service Co.     Waste management services                      1
+
+
+
+ 4. 8-1/2” Hole Section
+
+
+                                                                  As
+        1      I.O.O.C     8-1/2” BIT (2.1.4 - 5.1.7) + 8-1/2” PDC M1365 Bit
+                                                                            Needed.
+                                                                  As
+        2      I.O.O.C     Bit Nozzles
+                                                                             Request
+
+        3      I.O.O.C     8-1/2 BIT Breaker                                1 No.
+
+        4      Contractor   8-1/2 Ring gauge                                 1 No.
+
+        5      Contractor   BIT Sub 6-½” OD W/4-½” Reg Box By Box           1 No.
+
+        6      Contractor   Float Valve 4R                                   1 No.
+
+        7      Contractor   6-½” OD Drill Collar W/4-½” Reg Conn.          As Needed
+
+                              8-1/2” OD Full Gauge String Stabilizer W/4-½” Reg
+        8      Contractor                                                  1 No.
+                           Conn.
+
+        9      Contractor   6-½” Drilling Jar W/4-½” Reg Conn.                 1 No.     Equipment
+        10     Contractor  X/O - 4-½” Reg Pin~ 4-½” IF Box                   1 No.
+
+        11     Contractor   5” Drill Pipe Grade “E” & “G”                  As Needed
+
+        12     Contractor   9-5/8” Casing Scraper                             1 No.
+
+        13     Contractor   8-½” Safety clamp                               1 No.
+
+        14     Contractor   6-½” Safety clamp                               1 No.
+
+        15     Contractor   6-½” OD Junk Sub                               1 No.
+
+        16     Contractor   Complete Set of Fishing Tools for this Hole Section     1 Set
+
+
+
+                                         71
+
+
+────────────────────────────────────────────
+[ صفحه 73 از 79 ]
+────────────────────────────────────────────
+                                Nowrooz Oil Field
+
+
+                    NR-36 Drilling Program
+
+
+
+       Item
+Item            Supplier                     Description                    Quantity
+        No.
+
+                              8-1/2" Hole Directional Drilling Equipment
+       1      Service Co.                                                   1
+                               Services w/ MWD/GR/ROP
+       2      Service Co.   Drilling Fluid Services & Material                    1
+       3      Service Co.   Fishing Services                                   1
+                               Slick Line Truck & Crew For Completion              1
+       4      Service Co.
+                            Running.
+       5      Service Co.   Wirewrapped Screen Running Equipment & Crew        1    Services       6      Service Co.   Completion Specialist                              1
+       7      Service Co.   Completion Running Equipment & Crew               1  Well
+       8      Service Co.   Well Head Specialist And Services                    1
+       9      Service Co.  Pump Truck For Setting Packer & P/T                 1
+       10     Service Co.   Coil Tubing For Acidizing                           1
+       11     Service Co.   Acidizing Services                                 1
+       12     Service Co.   Clean Up & Well Test Services                       1
+
+
+
+
+
+                                          72
+
+
+────────────────────────────────────────────
+[ صفحه 74 از 79 ]
+────────────────────────────────────────────
+                      Nowrooz Oil Field
+
+
+            NR-36 Drilling Program
+
+         NR-36
+
+
+
+
+
+K. Completion Program
+
+
+
+
+
+     Pars Petro Zagros Engineering and Services Co.
+                    Drilling Department
+                May 2015
+
+                               73
+
+
+────────────────────────────────────────────
+[ صفحه 75 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+
+Note:
+
+Final Completion string program will be issued by IOOC completion Dep. in due time.
+
+
+
+
+
+                                            74
+
+
+────────────────────────────────────────────
+[ صفحه 76 از 79 ]
+────────────────────────────────────────────
+                     Nowrooz Oil Field
+
+
+           NR-36 Drilling Program
+
+         NR-36
+
+
+
+
+
+L. Wellhead Schematic
+
+
+
+
+
+    Pars Petro Zagros Engineering and Services Co.
+                   Drilling Department
+               May 2015
+
+                              75
+
+
+────────────────────────────────────────────
+[ صفحه 77 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+Wellhead Schematic:
+
+
+
+
+
+                                            76
+
+
+────────────────────────────────────────────
+[ صفحه 78 از 79 ]
+────────────────────────────────────────────
+                 Nowrooz Oil Field
+
+
+        NR-36 Drilling Program
+
+       NR-36
+
+
+
+
+
+  M. Contact List
+
+
+
+
+
+Pars Petro Zagros Engineering and Services Co.
+              Drilling Department
+             May 2015
+
+                         77
+
+
+────────────────────────────────────────────
+[ صفحه 79 از 79 ]
+────────────────────────────────────────────
+                                 Nowrooz Oil Field
+
+
+                     NR-36 Drilling Program
+
+
+Contact List
+
+                                        I.O.O.C
+
+
+        Contact                 Position             Phone        Ext.      Mobile        Fax
+
+
+
+      P.Pornoori       Head of Drilling Department     22664334            09128234932
+
+
+                    Head of Drilling Engineering
+      N.Khatibi                                    22664335            09300930817
+                              Department
+
+
+     S.Mohammadi            Project Manager          22664333            09128234933
+
+
+     Khosravi /                                                       09300930396
+                     Bahregan Area Manager    07724372428
+     Mohamadi                                                       09300930397
+
+                                            P.P.Z.
+
+
+     H.R.Mirza               Project Manager         22039785-8    115
+
+
+
+     M.Amini         Head of Drilling Operation     22039785-8    110   09123208990
+
+
+                    Head of Drilling Engineering
+     S.Khajevand                                  22039785-8    114   09122230369    22017975
+                              Department
+
+
+      P. Nikzad        Deputy of Drilling Operation    22039785-8    104   09127182612
+
+
+
+     E.Bongah           Senior Drilling Engineer      22039785-8    119   09122230369
+
+
+
+      A.Fatollahpour           Drilling Engineer         22039785-8    124   09385469085
+
+
+
+     A.Kakolaki       Head of Equip. Procurement    22039785-8    230
+
+
+                      Head of Cement & Mud
+      S.Bahraini                                    22039785-8    118   09166156215
+                               Engineering
+
+
+
+
+
+                                            78
+
+

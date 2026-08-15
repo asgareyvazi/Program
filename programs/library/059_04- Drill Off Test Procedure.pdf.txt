@@ -1,0 +1,92 @@
+# SOURCE: 04- Drill Off Test Procedure.pdf
+
+📄 فایل 59 از 214  |  04- Drill Off Test Procedure.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  All Sections       Rig: FATH 93                   Date:  Feb-2021
+
+Objective: Drill Off Test Procedure
+
+DISTRIBUTION:
+PECO WSS               CSG Crew                    H2S Supervisor                Geologist
+NISOC WSS               Mud Logging               HSE                       Waste management
+Tool Pusher               Mud Engineer                Cement Engineer
+
+ A) Procedure
+
+Drill off test is a simple procedure to run to get the best working combination between weight on bit and Drill Bits RPM
+which give you the best ROP.
+
+    •    Drill off test procedure can help optimize drilling parameters (weight on bit and rotary speed) for maximum penetration rate.
+
+    •  Run a drill-off test once a new bit has been broken in or when a significantly different formation is penetrated.
+
+    •  Do not run a drill-off test with a new bit until it has been broken in, to avoid possible bit damage.
+
+    •  Do not run a drill-off test if the penetration rate is already very high, as this makes a drill-off test difficult to perform.
+
+    •  Do not run a drill-off test if the formation is very erratic, as the results may then be too scattered to be useful.
+
+                                           Drill-off tests can be PASSIVE or ACTIVE.
+
+1. Passive Drill off Test Procedure:
+
+1) Maintain a constant RPM. Select WOB near the maximum allowable.
+2) Record the time to drill of a weight increment i.e. 5000lbs.
+3) Record footage drilled during the drill off period in 2.
+4) From 2 and 3 calculate the Drilling rate (feet or meters per hour)
+5) Repeat steps 2 and 3 at progressively lower weights. The last test however should be at the same weight at step 1. This
+determines if the formation has changed or not.
+6) Plot a graph of seconds to drill against weight on bit.
+7) Plot penetration rate against bit weight.
+8) Select the bit weight that resulted in the fastest drilling rate.
+         At constant weight, repeat steps 2 and 3 for varying Rpm's
+9) Plot Drilling rate versus RPM and select the RPM that provided the fastest drilling rate.
+10) The optimum values found for weight and RPM will result in
+         the fastest drilling rate for the particular formation being drilled and bit type used.
+
+    •  A passive drill-off test may stop when significant weight on bit  still shown on the weight indicator at surface. This can
+         indicate poor weight transfer downhole. It does not indicate tooth wear on roller cone or PDC bit.
+    •  Some rig instrumentation packages provide passive drill-off test interpretation software.
+
+                                                                  PECO INTERNAL ©  P | 1
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  All Sections       Rig: FATH 93                   Date:  Feb-2021
+
+                                                                  PECO INTERNAL ©  P | 2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                         SIAH MAKAN OIL FIELD
+                                 Operational Procedure
+                                   Drilling Engineering Department
+
+Well No.:  W014N              Hole Section:  All Sections       Rig: FATH 93                   Date:  Feb-2021
+
+2. Active Drill off Test
+An active drill off test procedure can identify the optimum weight on bit within the range indicated by a passive drill-off test.
+
+1)  Set the rotary speed at the best value from the set of passive tests.
+2)  Hold the weight at the low end of the optimum range indicated by the passive test, and record the penetration rate over 5
+    minutes.
+3)  Repeat at several different weights up to the upper end of the optimum range indicated by the passive drill-off test.
+4)   Similar active drill-off tests can be run without first running passive tests.
+5)  Apply a weight on bit and a rotary speed that are in middle of the respective specified ranges.
+6)  Hold these values and record the penetration rate for 5 minutes.
+7)  Increase the weight, record the penetration rate; decrease the weight to below the initial level and record the penetration rate.
+8)  Set the weight midway between the two values giving the highest penetration rates.
+9)  Record the penetration rate over 5 minutes at higher and at lower rotary speeds.
+10) Select the rotary speed midway between the two giving the highest penetration rates.
+
+                                                                  PECO INTERNAL ©  P | 3

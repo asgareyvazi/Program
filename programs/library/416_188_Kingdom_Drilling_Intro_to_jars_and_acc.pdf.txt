@@ -1,0 +1,1074 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 28 ]
+────────────────────────────────────────────
+Y7691981t6Introduction
+to Jars and accelerators
+
+
+
+
+
+                             Rev: 1.0 15/08/26
+
+
+
+
+
+                   www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 28 ]
+────────────────────────────────────────────
+Table of contents
+
+
+INTRODUCTION TO JARS AND ACCELERATORS ............................................................. 1
+
+  Table of contents ........................................................................................................................... 2
+
+JARS AND ACCELERATORS .................................................................................................... 3
+
+  Introduction ................................................................................................................................... 3
+  General Comments on the Use of Jars. ......................................................................................... 5
+  Forces Required to Fire Jars ......................................................................................................... 6
+   Jar Descriptions ........................................................................................................................... 10
+  Handling of Small Drilling / Fishing Jars (Dailey)..................................................................... 22
+  Accelerator Description .............................................................................................................. 24
+   Jar and Accelerator Positioning .................................................................................................. 25
+
+APPENDICES ................................................................................................................................. 1
+
+  Appendix 1; Houston Engineering specifications ........................................................................ 1
+  Appendix 2; Griffith specifications .............................................................................................. 1
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 28 ]
+────────────────────────────────────────────
+Jars and accelerators
+
+Introduction
+
+Definition
+
+Jarring is the process of transferring strain energy (drill pipe stretch) in the
+drillstring to kinetic energy by releasing the detent in the Jar at a given overpull
+value.
+
+Detent. Is a device (as a catch, dog, or spring-operated ball) for positioning and
+holding one mechanical part in relation to another so that the device can be
+released by force applied to one of the parts.
+Types
+
+There are three basic types of jar, mechanical hydraulic and hydro-mechanical.
+Mechanical and hydraulic jars will be discussed within thisn document.
+
+Hydraulic jars use a hydraulic fluid to delay the firing of the jar until the driller can
+apply the appropriate load to the string to give a high impact. The time delay is
+provided by hydraulic fluid being forced through a small port or series of jets.
+Hydraulic jar firing delay is dependent upon the combination of load and time.
+
+Mechanical jars have a preset load that causes the jar to trip. They are thus
+sensitive to load and not to time.  It can be seen from these descriptions that the
+terms mechanical and hydraulic jar refers to the method of tripping the jar.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 28 ]
+────────────────────────────────────────────
+Figure 1: Mechanical jar
+
+ Polished Stem        Upper Connector      Jay Rollers    Torque Spring   Lower Packing Body
+
+
+
+
+                 Upper               Barrel    Jay       Spring       Lower   Washpipe
+               Packing Body                Stem     Stem      Connector
+
+  Figure 2: Hydraulic jar
+                                             Upper             Lower
+   Spline             Up          Down   Pressure Pressure  Pressure  Balance   Bottom
+  Mandrel                Anvil Hammer   Anvil    Piston   Housing    Piston    Piston   Connector
+
+
+
+
+
+              Spline       Connector         Flow    Triggering         Wash   Piston
+            Housing       Housing         Mandrel    Valve           Mandrel   Stop
+
+
+
+
+
+                   www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 28 ]
+────────────────────────────────────────────
+General Comments on the Use of Jars.
+
+Jars are frequently returned to the workshops marked ‘failed’ and
+subsequently test successfully. The main reason for this appears to be the
+inability to fire the jars, often in the down direction. Estimating the force
+required to fire jars, when the user is under pressure due to the stuck pipe
+situation, is not always performed correctly. This chapter gives some insight
+into how jars operate and how to choose the correct surface forces to fire the
+jars. There are a number of reasons a jar might fail to fire:
+•  Incorrect weight applied to fire jar - one or more assumptions in calculation
+   incorrect.
+• Pump open force exceeds compression force at jar  ( no down jar action ).
+• Stuck above the jar.
+•  Jar mechanism failed.
+•  Jar not cocked.
+• Drag too high to allow sufficient force to be applied at the jar to fire it
+   (usually mechanical jars).
+• Well path is such that compression cannot be applied to the jar. ( no down
+   jar action).
+•  Jar is firing but cannot be felt at surface.
+•  Right hand torque is trapped in torque setable mechanical jars.
+• Not waiting long enough for the jar to fire - see firing time v force charts for
+   hydraulic jars.
+Correct use of jars and the correct application of jarring is critical to freeing
+stuck pipe. Applying the most appropriate jarring action is key to aiding or
+worsening the stuck situation.  If while pulling out of the hole, the string
+becomes stuck the natural instinct of a driller is to jar up. This is, after all, the
+direction he is trying to move his BHA, i.e. out of the hole.  However, if the
+string is packed off above a stabiliser, a likely cause of stuck pipe while pulling
+out of the hole, the act of jarring up may make the situation worse by
+compacting the pack-off.
+Jarring should start in the opposite direction to that which got the string
+stuck
+Another reason for the frequent inability to fire jars is the miscalculation of the
+forces required at surface in order to get the jar to fire. Although the
+calculations are relatively uncomplicated, in the heat of the problem on the
+drill floor small calculations can appear quite complex.  It is often this type of
+situation that leads to the jars not firing.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 28 ]
+────────────────────────────────────────────
+Forces Required to Fire Jars
+
+All jars have a firing force envelope for each direction they fire in. A dual
+acting jar (one that can fire up and down) will have both an up jar force
+envelope and a down jar force envelope.
+The firing force envelope consists of two forces, one to cock the jar in
+preparation for firing, the second to fire the jar. A dual acting jar will therefore
+have two force envelopes, one for up jarring and one for down jarring.
+The jar envelope forces can be considered at the jar or at the surface. The jar
+firing force envelope at the jar is known.
+
+
+Jar Firing Force Envelope
+It is the job of the rig team to estimate / observe the surface instruments in
+order to choose the surface firing force envelopes.
+The forces that must be applied to the jar to cock and fire it when it is lying on
+a test bench are described by the jar force envelopes  ( i.e. forces at the Jar).
+In the example above: To cock the jar to fire up, a compression force of
+approximately 5k lbs  is required. This is to overcome internal friction. Once
+                                 cocked the jar will fire once the force at
+                                     the jar reaches 90k lbs.
+                              To cock the jar to fire down, a tension
+                                         of 5k lbs is required to overcome
+                                          internal friction, once cocked the jar
+                                                  will fire down once 20k lbs
+                                 compression is reached.
+                              The fixed limits of 90k lbs and 20k lbs
+                                    are typical of mechanical jars. When
+                                    using a hydraulic jar, it will fire as long
+                                 as the jar’s internal friction is
+                                  exceeded. The time taken to fire is
+                                       inversely proportional to the force
+applied: the greater the force the shorter the waiting time. (See hydraulic jar
+section for more information).
+We have only considered the forces at the jar so far. The driller only knows
+the force at surface and must estimate the force at the jars.
+It is sometimes easy to see from the measured weight indicator when the jars
+are opening or closing. The measured weight indicator needle will stop
+moving for a few seconds while the string is still being moved up or down.  It
+is a very good indicator that the axial neutral point is at the jar.  It is often
+observed whilst drilling vertical wells but can be very difficult to observe in
+highly deviated, extended reach or horizontal wells.
+If this neutral weight indicator is observed it is relatively easy to set surface
+jarring forces. The measured weight at which the neutral point is observed is
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 28 ]
+────────────────────────────────────────────
+recorded. The up trip force (mechanical only) is added to this value, together
+with any up drag.
+Note: When stuck, any pull on the string results in an increase in drag over and above
+the normal up drag. The full amount of overpull applied at surface will not reach the
+jar. In deviated wells this must be compensated for by additional overpull.
+
+
+If the pumps are running then the pump open force must also be subtracted
+from the firing force and added to the setdown weight used to cock the jars.
+Note: The pump open force charts will be found in the manual for the jar being used.
+    A copy of the current pump open force charts for the types of jars covered by
+       this text is included after the description of each jar type.
+Similarly the down trip force (mechanical only), the down drag and the pump
+open force are subtracted from the neutral point reading.
+If the neutral point at the jars cannot be observed then the calculated neutral
+weight at the jars must be used.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 28 ]
+────────────────────────────────────────────
+Pump Open Force
+                         The jar pump open force (also called jar
+ Pressure               extension force) is the effect of the difference
+                                     in surface areas of the jar exposed to
+                             pressures on the out side and inside the jar.
+                      When a differential pressure exists between
+                               the inside of the jar and the outside of the jar
+                                                         it causes a force that opens the jar.
+                          Depending on the jar type the force acts on
+                               the cross-sectional area of the wash pipe, or
+                               the wash pipe and any floating pressure
+                                equalising piston exposed to the internal fluid
+                                  of the jar. The effect on jarring can be
+                              considerable if for example 2000psi is
+   Area                  trapped inside the jar when the string is
+                           packed off below the jar. The pump open
+                                force chart for each type of jar discussed is
+                               included in these guidelines.
+                         The pump open force acts to:
+
+                            Assist firing the jar up
+                            Assists cocking the jar after firing down
+                       Opposes firing the jar down
+                       Opposes cocking the jar after firing up
+
+                    POF (lbs) = Area (in2) X Diff. Pressure (psi)
+ Force
+
+
+
+Pressure differential between the drill pipe ID and the annulus at the jar will
+tend to pump open the jar. In normal drilling, this will not have effect on either
+the WOB or the jar itself.
+     -    If the jar is in tension while drilling, the pump open force will only tend
+       to keep the jar extended.
+     -    If the jar is in compression, the pump open force will tend to reduce the
+      weight on the jar but will have no effect on the jar travel until all the
+      weight has been lifted from the jar.Note: Differential pressure at jar can be
+   approximated by using the calculated bit pressure drop.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 28 ]
+────────────────────────────────────────────
+As an example we can look at a situation that happened recently in the
+North Sea.
+
+  Example Case              k lbs                               k lbs
+ Up Trip Force (at jar)            90     Down Trip Force (at jar)         30
+ Up Cocking Force (at jar)         10     Down Cocking Force (at jar)      10
+
+ Down Weight (at surface)       120    Pump Open Force              34
+ Up Weight (at surface)          240
+ BHA Weight Below Jars          50      Free Rotating Weight of string   200
+                     Up and down cocking force = jar internal friction
+                  Apply at least   146 k lbs at surface to cock jars for jarring up
+                  Apply at least   246 k lbs at surface to jar up
+
+                  Apply at least    46 k lbs at surface to cock jars for jarring down
+                  Apply at least     6 k lbs at surface to jar down
+
+
+
+Having struggled out of the hole pumping and with indications of pack-offs the string
+finally packed off. Jarring commenced in a downward direction. There were 2000
+psi trapped in the string and the pack-off was below the dual acting hydraulic jar.
+The parameters were as shown at right:
+
+As can be seen with 2000 psi trapped in the string a 34k lbs pump open force resulted.
+Down jarring was attempted six times, each time the measured weight reading of 60k
+lbs was held for 30 seconds without any indication of the jar firing. Down jarring
+was aborted and up jarring commenced until the well was sidetracked.
+
+The three main problems this team had were:
+
+• Trapped pressure inside the string while trying to jar down.
+•  Insufficient weight to allow down jarring (even without the pump open force
+  opposing this action)
+•  Insufficient time allowed for the jar to meter through its stroke.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 28 ]
+────────────────────────────────────────────
+Jar Descriptions
+
+Weir Houston
+
+Weir Houston Hydra-Jars are dual acting hydraulic drilling jars.
+
+
+These jars fire up and down from a central “cocked” position. The time to fire
+is dependent upon the pull applied at the jar and the position of the jar in its
+cycle when the pull is applied. The minimum force at the jar required to stroke
+the jar up or down is dependent upon the jar’s internal friction. The maximum
+force that can be applied to the jar is determined by two factors:
+1) The maximum design pressure in the hydraulic fluid inside the jar gives rise
+   to a maximum applied force when the jar is stroking.
+2) Once the jar is fully open or fully closed the maximum applied force is
+  determined by the steel strength of the jar.
+There is no mechanical trigger or latch mechanism. Therefore the firing force
+is determined by whatever force the driller applies to the jar. However, the
+lesser the applied force the longer the jar takes to fire. This can be up to 7
+minutes if the jar moves from fully open to fully closed.  It can also be as little
+as a few seconds if the jar is only partially cocked then fired. Once jarring is
+established the average delay time will be 1 - 2 minutes. See figure for full
+details for delay time versus applied force at the jar.
+These jars are subject to pump open forces acting on the cross-sectional area
+of the wash pipe. Pump open force is sometimes referred to as jar extension
+force.
+Floating seals inside the jar keep the pressure of the internal fluid equal to the
+pressure of the fluid outside the jar, via ports to the annulus. Grease and or
+mud can be observed emerging from these ports when the jar is returned to
+surface. This is not an indication of a jar failure and is perfectly normal.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 28 ]
+────────────────────────────────────────────
+Details of the jars used in Northern North Sea cold conditions service
+(Foinaven Project).
+
+17 1/2": 9 1/2" Weir Houston Hydra-Jar, 8" WH Accelerator
+12 1/4": 8" Weir Houston Hydra-Jar,     8" WH Accelerator
+ 8 1/2": 8" Weir Houston Hydra-Jar,     8" WH Accelerator
+
+The jars for the top hole and 17 1/2" sections are filled with very light oil and
+modified (slicked metering ring) to give a better response in the very cold
+environment. With this setup the “Time Delay Times vs Load Graph Line” for 4
+3/4" jars is used instead of the relevant one for the size of the jar.
+
+The jars for the 12 1/4" and 8 1/2" sections use regular oil and metering but
+include stand-off subs (three spaced along the body ), to minimise differential
+sticking risk.
+
+Pump Open Force Information
+
+       WEIR-HOUSTON JAR -PUMP OPEN FORCE CHART
+
+      1000   70        4.25" Jar
+ x   60                    4.75" Jar
+        50       6.25 - 6.75" Jar       Force
+                   7.75 - 8" Jar
+        40
+        lbs
+        30             Extension
+        20
+
+        10             Hydra-Jar    0
+           0       1000     2000     3000     4000     5000
+
+                   Differential Pressure - Inside Jar to Outside Jar
+
+
+Metering Time Information
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 28 ]
+────────────────────────────────────────────
+Weir Houston, Tool Specification Summary
+
+
+  Tool OD
+                      4 ¼”    4 ¾”    6 ¼”    6 ½”    7 ¾”       8”
+
+  Tool ID
+                            2”      2 ¼”    2 ¾”    2 ¾”     3”         3”
+
+  Tool joint connection
+  type               NC31  NC38  NC50   NC50    6.5/8”Reg   6.5/8”Reg
+
+ Max working load
+  while jarring (lbs)      70000   80000   150000   155000  200000    250000
+
+  Tensile yield strength
+  (lbs)                   500000  575000  800000   865000  1300000   1480000
+
+  Torsional yield
+  strength (ft.lbs)        35000  45000  75000   75000  150000   150000
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 28 ]
+────────────────────────────────────────────
+Bowen Jars
+
+Bowen hydraulic drilling jars are often rented by companies other than Bowen.
+Bowen do not rent hydraulic drilling jars from Aberdeen. They only sell them.
+In countries other than the UK Bowen hydraulic drilling jars may be used by
+some service and drilling companies.
+
+Bowen hydraulic drilling jars are a dual acting combination tool. The hydraulic
+mechanism is only on the up jar action. The down jar is a friction mechanical
+system.
+
+The metering action of the hydraulic mechanism is controlled by ports on an
+insert within a piston. This differs from other types which use metering jets.
+There are no details on the time delay of the Bowen hydraulic mechanism.
+
+
+
+         BOWEN Hydraulic Up Jar - Pump open force
+
+       80
+    lbs
+
+ )       70
+                            4.25" UP Jar
+       60               6" Up Jar       (x1000
+       50              6.25 - 6.75" Up Jar
+                            7.75" Up Jar      Force  40                             9" Up Jar
+       30
+
+       20           Extension
+       10
+    Jar
+        0
+    0 250 500 7501000125015001750200022502500275030003250350037504000
+                         Differential Pressure Inside to Outside of Jar (psi)
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 28 ]
+────────────────────────────────────────────
+         Bowen Hydraulic Down Jar - Pump Open Force
+        lbs 160
+         140              4.25" Dn Jar
+                                6" Dn Jar
+         120                   (x1000)                   6.25 - 6.75" Dn Jar
+         100              7.75" Dn Jar
+                                9" Dn Jar             Force  80
+
+          60
+
+          40                        Extension  20
+        Jar   0
+     0 250 500 7501000125015001750200022502500275030003250350037504000
+                           Differential Pressure inside jar to outside jar (psi)
+
+Bowen Tool Specification Summary
+
+
+  Tool OD             4 ¼”       4 ¾”       6 ¼”       6 ½”       7 ¾”        8”
+
+  Tool ID                  2”         2 ¼”       2 ¾”       2 ¾”        3”           3”
+
+  Tool joint           NC31     NC38     NC50     NC50      6 5/8”Reg  6 5/8”Reg
+  connection type
+
+ Max working load    70000     80000     150000    155000    200000    250000
+  while jarring (lbs)
+
+  Tensile yield         500000    575000    800000    865000    1300000   1480000
+  strength (lbs)
+
+  Torsional yield       35000     45000     75000     75000     150000    150000
+  strength (ft.lbs)
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 28 ]
+────────────────────────────────────────────
+Cougar & IPE
+
+The Cougar Drilling Jar ( DJ-6 ) can be configured in three ways.
+
+    1. Mechanical bi-directional
+    2. Combined mechanical down - mechanical/hydraulic up.
+    3. Hydraulic up only.
+
+The mechanism used in each case is the same one.
+The most complex, the combined mechanical down, mechanical/hydraulic up
+will be described here.
+
+
+The Cougar mechanical latch mechanism
+The jar has a central array of pads attached to the inner mandrel that locate
+into a profile on the inside of the outer mandrel. These pads lock the inner
+and outer mandrel together until a preset force is reached. The pads then
+push together and allow the inner mandrel to slide inside the outer mandrel.
+This sliding stops when the hammer and anvil of the jar collide. The force
+required to unlatch the pads in the up and down directions are independent
+and can be set in the workshop. They are usually set at different values - the
+up setting higher than the down setting. These settings determine the jar
+tipping force required to fire the jars. When the jar is placed in its central
+position the latch re-engages into the profile and the jar is cocked ready to fire
+in either direction.
+The hydraulic workings of the jar come into play on the up firing mechanism
+only. Once the mechanical latch has unlatched, a one way valve closes
+causing hydraulic fluid to be forced through a metering jet. As the size of the
+jet is small it controls the speed of movement of the inner mandrel up inside
+the outer mandrel. After several inches of metering a change in profile of the
+outer mandrel allows the hydraulic fluid to by-pass the metering jet. The inner
+mandrel is then free to move quickly up the outer mandrel and fire when the
+hammer and anvil collide.
+There is no effect from the hydraulic mechanism when jarring down.
+As with all hydraulic jar mechanisms reviewed so far, the time taken to meter
+through the hydraulic part of the stroke is dependent upon the force applied at
+the jar.
+It should also be noted that the jar can be run upside down to give a
+mechanical up - mechanical/hydraulic down jar action.
+If the hydraulic mechanism fails, the mechanical latch will still be functional
+and give both up and down jar action. The Cougar jar is not sensitive to
+torque other than normal torsional yield values given in the tables below.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 28 ]
+────────────────────────────────────────────
+                        Cougar hydraulic Jar Pump open force
+
+           120000
+
+                                        9 5/8"
+           100000
+                  (lbs)                                  8"
+            80000                       6 1/2"
+                                        4 3/4"                  force
+            60000
+              open
+              pump   40000
+            20000
+
+                0
+                  0        500       1000      1500      2000      2500      3000      3500
+                                                        Diff press inside to outside jar (psi)
+
+
+                    Cougar hydraulic Jar metering times
+
+
+   250
+
+
+   200
+
+
+   150(seconds)
+
+   100Delay               9 5/8"
+                   8"Time  50
+                 6 1/2"
+
+     0
+       0       20       40       60       80      100      120      140      160
+
+                                  Overpull at jar (x 1000 lbs)
+
+
+
+
+
+                  www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 28 ]
+────────────────────────────────────────────
+Cougar; Tool specification summary
+
+
+  Tool OD                              4.75”          6.5”           8”             9.5”
+
+  Tool ID                              2.25”         2.56”         2.75”          2”
+
+
+  Tool joint connection type                     NC38      NC50        6.675 ”Reg   7.675”Reg
+
+ Max working load while                         100000      180000      295000      410000
+  jarring (lbs)
+
+  Tensile yield strength (lbs)                         380000      700000      1500000     1500000
+
+
+  Torsional yield strength                         30000       60000       100000      120000
+   (ft.lbs)
+
+ Up latch firing force                         30000       80000       80000       80000
+
+ Down latch firing force                         30000       57000       57000       57000
+
+  Make-up torque ft.lbs                         10000       30000       50000       60000
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 28 ]
+────────────────────────────────────────────
+Dailey jars
+
+There are two types of Dailey HDJ-100 jar: the HDJ-100 and the HDJ-100-
+BB. The BB stands for big bore and is a redesign of the original HDJ-100 to
+provide a larger through bore for some sizes of jar.  If the ID of your drill string
+is critical, ensure you specify the BB type. The two types differ slightly in
+design. The jars described below are the BB type. These dual acting
+hydraulic jars are described below:
+
+The Dailey hydraulic jar consists of an inner mandrel and an outer mandrel.
+The inner mandrel has two pistons that seal on the outer mandrel. Between
+the two pistons there is a hydraulic valve that is closed when the jar is cocked
+and in its central position. When the jar is being fired up the hydraulic fluid
+meters through a pair of metering jets which restrict the speed of movement of
+the inner mandrel through the outer mandrel. The lower section of the
+hydraulic valve connects with a profile on the outer mandrel and is prevented
+from moving with the inner mandrel. As the inner mandrel keeps moving
+through the outer mandrel under the force applied from surface the two halves
+of the hydraulic valve are forced apart, allowing hydraulic fluid to pass through
+ports and by-pass the metering jets. The inner mandrel then free, moves
+quickly through the outer mandrel until the hammer and anvil collide firing the
+jars.
+The jar is cocked by placing it in its central position from where it can be re-
+fired in either direction.
+Jarring in both directions takes place in the same manner.
+On the older design HDJ-100 jar the valve is opened by a set of arms that
+connect onto a profile on the outer mandrel but the mechanism is very similar
+otherwise.
+
+                         Dailey hydraulic Jar metering times
+
+           300
+                                                         9 1/2"
+           250
+                                                         7 3/4" & 8"
+                                                         6 1/2"           200
+                                                         6 1/4"                                    (seconds)
+           150                                          4 3/4"
+                    Delay
+           100
+                Time
+            50
+
+             0
+               0      50     100     150     200    250     300     350    400     450
+                                         Overpull at jar (x 1000 lbs)))
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 28 ]
+────────────────────────────────────────────
+                   Dailey hydraulic Jar Pump open force
+
+    140000
+                       9 1/2"
+    120000
+                       7 3/4" & 8"
+(lbs)  100000             6 1/2"
+                       6 1/4"force   80000
+                       4 3/4"
+     60000open
+pump   40000
+     20000
+
+         0
+           0       500      1000     1500     2000     2500     3000     3500
+                             Differential pressure inside jar to outside jar (psi)
+
+
+
+
+
+               www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 28 ]
+────────────────────────────────────────────
+Daily; Tool specification summary
+
+  Jar type Original HDJ-  HD100   HD100   HD100   HD100
+ 100
+
+  Tool OD               4 ¼”      4 ¾”      6 ¼”      7 ¾”
+
+
+  Tool ID                2 1/8”     2 1/16”    2 ¼”       3”
+
+
+  Tool joint connection    NC31    NC38    NC50     6
+  type                                                  5/8”Reg
+
+
+ Max working load while   55000    95000    200000   260000
+  jarring (lbs)
+
+
+  Tensile yield strength    325000   436000   832000   1600000
+  (lbs)
+
+
+  Torsional yield strength   15000    21200    49300    76400
+  (ft.lbs)
+
+
+
+     Jar type      HD100BB  HD100BB  HD100BB  HD100BB
+
+ HDJ-100 Big Bore
+
+  Tool OD               4 ¾”       6 ½”        8”         9 ½”
+
+  Tool ID                2 ¼”       2 ¾”        3”         3
+
+  Tool joint connection    NC38     NC50      6 5/8”Reg  7 5/8”Reg
+  type
+
+
+ Max working load while   85000     175000    300000    500000
+  jarring (lbs)
+
+
+  Tensile yield strength    500000    934000    1750000   2300000
+  (lbs)
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 28 ]
+────────────────────────────────────────────
+Torsional yield strength   20000     56200     105000    160000
+(ft.lbs)
+
+
+
+
+
+                  www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 28 ]
+────────────────────────────────────────────
+Handling of Small Drilling / Fishing Jars
+(Dailey)
+
+Delivery to Location
+
+A.  The drilling/fishing jar will be delivered to the location with the mandrel in
+     the closed position. Approximately a 1" gap will be present between the
+     bottom of the box end of the mandrel and the top of the upper housing of
+     the jar. This is a general design feature in some jars that prevents
+     debris in the well bore fluid from being driven into the upper seals when
+     the jar is re-cocked causing a loss of seal integrity.
+B.     If there is a larger gap or the mandrel appears to be in the open position,
+     approximately 5-1/2" to 8-1/4" inches of mandrel exposed depending on
+      jar size, contact the nearest jar representative. Check to see if there are
+    any indications that the jar has been leaking and advise the jar company
+     representative of this anomaly.
+C.    All service breaks on the jar body / housing connections are torqued at
+     the Jar Contractor's service center.  It is NOT NECESSARY for the rig
+    crew to tighten the body / housing connections before running the jar in
+      to the hole or to break the connections when laying the jar down.
+Picking Up and Laying Down of Jars
+
+The small drilling / fishing jar is picked up and laid down in the same manner
+as any other jar:
+   1)  Tie the pick up line around the middle of the jar and make sure the jar
+        is balanced when hoisting the jar up to the rig floor.
+   2) DO NOT use the gap at the top of the jar as a tie on point when picking
+      the jar up or when laying the jar down. Use a lifting sub.
+   3)   If necessary, use a tailing rope to control the motion when the jar is
+      being picked up or laid down.
+   4) Use thread protectors while handling the jar, and do not allow the pin or
+     box connections to be abused during handling. Damage to the
+      connection will lead to:
+             a)   Improper makeup torque on the connection
+             b)   Galling of the threads
+              c)   Connection washout
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 28 ]
+────────────────────────────────────────────
+Stand Back Procedures for Drilling/Fishing Jars
+
+A.     It is not recommended that drilling/fishing jars be racked back in the
+      derrick when the string is out of the hole.
+B.   In fishing or drilling applications it is recommended that when the string
+       is out of the hole, the jar should be removed from the string and laid
+    down. Extreme cases where the operation does not permit this, the jar
+     should be placed on top of the string in the closed position or open with
+    a jar clamp in place.
+Routine Maintenance of Drilling/Fishing Jars in the String
+
+A.  The drilling/fishing jar is a rugged downhole tool that requires very little
+     maintenance while on the job.
+B.  To ensure maximum jar performance, it is recommended that on every
+       trip out of the hole the rig crew use the water hose to wash off the
+     mandrel of the jar. The top of the upper housing where the mandrel
+    goes through the upper seals should also be washed.
+C.  Unscrew the jar from the BHA at the pin end and insert the water hose
+      into the ID of the pin and wash around the compensating piston. (Except
+    on Weir Houston Hydra jar, which do not have a compensating piston).
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 28 ]
+────────────────────────────────────────────
+Accelerator Description
+
+The functions of a drilling accelerator can be summarised as follows:
+
+
+• To compensate for the lack of stretch in a short string.
+• To compensate for slow contraction of the drill string due to high hole drag.
+• Act as a reflector to the shock wave travelling up the string from the jar
+   blow.
+•  Intensify the jar blow.
+Drilling and fishing accelerators (also called jar intensifiers ) are basically the
+same design. The Drilling equipment has an up-rated spline drive mechanism
+to enable the tool to withstand 300-500 rotating hours.
+The accelerator consists of an outer barrel and an inner mandrel. The inner
+mandrel slides in / out of the outer barrel. The two are connected by an
+interference fit between a piston chamber on the outer barrel and piston on
+the inner mandrel. The piston chamber contains a solid or fluid or gas that
+acts as a spring. When a force is applied to the accelerator the tool opens.
+The extension is dependent upon the applied force. When the extending
+force is released, the tool closes under the spring force of the fluid inside the
+piston chamber. Dual acting accelerators work in similarly with both the up jar
+and down jar.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 28 ]
+────────────────────────────────────────────
+Jar and Accelerator Positioning
+
+Jar positioning programs do exist but all are configured to position the jars for
+maximum up jarring effect, which is not always the desired direction for
+jarring. To make a full analysis of optimum jar position many factors must be
+taken into account. However, this is not normally done for drilling operations.
+Usually the jars are run in a position determined by field / personal experience
+or company policy.
+
+There are a number of issues that should be considered when positioning jars
+in a drill string.
+•  Likely places for sticking to occur.
+• Most likely jarring direction required.
+• Well bore contact / differential sticking risk.
+•  Position of the Axial neutral point when drilling with maximum WOB.
+• Depth of hole section.
+• Drag in hole section.
+• Minimum allowable measured weight for plastic buckling when not rotating.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 28 ]
+────────────────────────────────────────────
+Guidelines for Use of Jars in Vertical Wells
+
+In vertical wells the jar should be placed such that:
+1. They are above the buckling neutral point even when maximum WOB is
+   applied.
+2. They are at least two Drill Collars above the jars.
+3. They have differential sticking prevention subs fitted, if differential sticking
+   is a risk.
+4. No stabilisers should be placed above the jars.
+5. Use Accelerators in shallow hole section. (Check that it will be possible to
+  cock and fire the jar before running them)
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 28 ]
+────────────────────────────────────────────
+Guidelines for Use of Jars in Deviated & Horizontal Wells
+
+1. Do not run the jars if they are buckled. (This is easily said, but complicated
+   to work out. Jars should not be run below the buckling neutral point in 45
+  degree wells. In horizontal wells the jars can be run in the 90 degree
+   section without much chance of them ever being buckled.) The area in the
+   string to avoid placing jars is the pressure area neutral point. This is the
+   point in the string where the tension in the steel is zero and is always above
+   the buckling neutral point.
+2. If using two jars or two jars and an accelerator ensure the driller is fully
+  aware of how to use this system.
+3. Use jars with differential sticking prevention subs if differential sticking is a
+   risk.
+4. It is important to calculate the measured weight readings at which the jar
+   will cock and fire. The drag in the hole may prevent the driller from seeing
+   the jars open and close on his weight indicator gauge.
+5.     In horizontal well drilling, a common problem is the inability to get
+sufficient force to a horizontally placed jar to fire it down.
+
+
+
+
+
+                    www.kingdomdrilling.co.uk                ref JA01
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 28 ]
+────────────────────────────────────────────
+Appendices
+
+Appendix 1; Houston Engineering specifications
+
+ Tool O.D.             3 1/8       3 3/8       4 1/4       4 3/4       6 1/4       6 1/2         7         7 1/4       7 3/4         8         8 1/4       8 1/2       9 1/2
+ Tool I.D.              1 1/4       1 1/2         2         2 1/4       2 3/4       2 3/4       2 3/4       2 3/4         3          3          3          3          3
+ Tool Joint           2 3/8 Reg    2 3/8 IF     2 7/8 IF     3 1/2 IF     4 1/2 XH     4 1/2 IF      5 H90     5 1/2 H90   6 5/8 Reg   6 5/8 Reg   6 5/8 Reg   6 5/8 Reg   7 5/8 Reg
+Length                     22'10"         24'5"        29'10"        29'10"        31'10"        31'10"         31'6"         31'6"            32'            32'            32'            32'         32'6"
+Max. Detent              46,000      44,000      70,000      80,000     150,000     175,000     230,000     240,000     260,000     300,000     350,000     350,000     500,000
+ Tensile Yield            215,000     232,580     310,000     460,000     730,000     900,000    1,100,000    1,200,000    1,300,000    1,600,000    1,700,000    1,700,000    2,000,000
+ Torsional Yield            5,600        6,100      16,000      21,000      50,000      61,000      80,000      97,000     118,000     118,000     118,000     118,000     200,000
+Upstoke                    7          7          8          8          8          8          8          8          8          8          8          8          8
+Downstroke                 7          7          8          8          8          8          8          8          8          8          8          8          8
+ Total Stroke                21         21         25         25         25         25         25         25         25         25         25         25         25
+ Tool Weight               350        500        800        1,050        1,600        1,850        2,600        3,000        3,200        3,550        4,000        4,500        5,600
+
+Appendix 2; Griffith specifications
+
+ Tool O.D.                        4 3/4       4 3/4       6 1/4       6 1/2       6 3/4       7            8         9          9 1/2
+ Tool I.D.                        2          2 1/4       2 1/4       2 1/4       2 1/2       2 1/2      2 13/16     2 13/16     2 13/16
+Length                                      12.5'          12.7'          16.3'          16.3'            15'            15'            15'            15'            15'
+ Tool Weight                          575        550        1,300        1,400        1,400        1,540        2,100        2,700        3,000
+Upstoke                               4          4           4.5           4.5           4.5           4.5          5          5          5
+Downstroke                           4          4          6          6          6          6          6          6          6
+ Preset Release Up    STD.          40,000      40,000      90,000      90,000      90,000      90,000      95,000     100,000     100,000
+Down 45% of Up       Max.         55,000      55,000     140,000     140,000     140,000     140,000     150,000     155,000     155,000
+Maximum Load                      85,000      75,000     160,000     160,000     190,000     190,000     220,000     250,000     250,000
+ Tensile Yield                       416,000     354,000     755,000     755,000     828,000     828,000     965,000    1,225,000    1,225,000
+ Torsional Yield                      16,000      16,000      41,000      41,000      40,000      40,000      68,000     110,000     112,000
+Pump Open Area                          6.0           6.5           9.6           9.6         11.0         11.0         14.2         15.9         15.9
+
+
+   Author: A-Eyvazi      www.kingdomdrilling.co.uk                 Ref:
+
+

@@ -1,0 +1,490 @@
+# SOURCE: SPT executive plan & procedures 20130504 (Recovered)-[035916].docx
+
+📄 فایل 123 از 214  |  SPT executive plan & procedures 20130504 (Recovered)-[035916].docx
+
+# Executive Plan
+
+## Purposes
+The facilities for South AZADEGAN Project Early Production consist of only temporary devices which have a lot of functional deficiencies. Particularly, there is no effective and precise manner for measuring single well oil & gas production rate. Current way for determining each single well production rate is through a choke valve formula by applying a key factor, GOR, which was defined long time ago when well test was carried out during drilling period, and obviously needs to be rectified for present utilities.
+During a comparatively long time of production, no regular reservoir survey has ever been implemented, leaving some uncertainties to current reservoir studies and production optimizations.
+More importantly, there is no reliable definition to indicate when an artificial lifting production approach shall be applied, because of lack of essential down-hole and surface production data. Some dynamic simulations were fulfilled before, but the conclusions shall be revised based on current reservoir conditions. This issue is a key topic which relates to the sustainability of the existing wells and of which the results even can be considered as references to Phase One and Phase Two of South AZADEGAN Project.
+Therefore, this first time of systematic production tests on all existent Early Production wells will mainly focus on the followings:
+Measure real GORs of each production well under at least three applicable choke sizes.
+Measure down-hole flowing pressure/temperature relating to each choke size.
+Measure build-up pressures on some of the key wells.
+The tested production data shall be analyzed and explained by applying appropriate software and/or dynamic simulation model, and optimization approaches shall be recommended.
+Artificial lifting timing shall be suggested for each well.
+
+## Data to be surveyed
+3 to 5 sizes of choke valves will be applied during one well test. For each size of choke valve, the following data shall be recorded at least:
+Oil production rate;
+Gas production rate;
+BS&W;
+Salt content;
+H2S/CO2 content;
+Wellhead pressure;
+Back pressure;
+Bottom flowing pressure;
+Bottom temperature, etc.
+A certain amount of wells will be singled out for recording down-hole static pressure.
+Down-hole and/or surface PVT samples may be requested to be taken from some wells.
+(To be confirmed later.)
+
+## Time schedule
+This time of systematic production tests will be carried out on each existent producing well. Two months starting from the beginning of May of 2013 are scheduled to complete the workload by consecutive operations.
+The proposed time schedule for candidate wells is as per follow. This schedule may change during the job according to upcoming events.
+
+## Well sequence to be implemented
+AZN-16, AZN-22 and AZN-11 will be sequentially tested as the first group. The testing sequence for other wells will be issued later on.
+
+## Data analyses and explanations
+Based on the data monitored, the following results shall be achieved at least:
+IPR curve for each well;
+Productivity Index, J, in terms of a certain choke size or a certain down-hole flowing pressure;
+Maximum oil production rate;
+For those wells on which static/build-up pressures are not surveyed, reservoir average pressures shall be calculated out through an appropriate and applicable formula;
+Recommendations for optimizing well performances such as wellbore string optimizations and choke size adjustments, etc.
+To calculate as many reservoir parameters as we can, etc.
+To suggest artificial lifting timing.
+
+## Basic requirements
+All equipment must be mobile;
+Equipment must be able to record and/or analyze the data listed above;
+A separator must be applied to isolate gas from liquid;
+Produced oil/water/gas shall be custody-transferred back to the existent production system, and consequently, some nonstandard junction pieces shall be prefabricated in advance;
+Equipment must be suitable for comparatively long term of consecutive on-site survey operations;
+Other requirements may be proposed during the real operations.
+
+# Operational Procedures for Surface Surveys
+This part explains the operational procedure which will be carried out by OTS CO.
+
+## Surface equipment preparation and pressure test
+General points regarding rig-up of surface well test equipment are as follows:
+Rig-up surface well test equipment package as per layout plan.
+Where pipework crosses walkways, pipe should be made clearly visible (with danger tape) and tripping hazards minimized. Pipework should be close to the ground.
+Tag the instrument air supply valve to the separator to ensure continuous supply so that testing operations are not interrupted unintentional.
+Erect barriers, display pressure test signs and make announcements to warn personnel when pressure testing is about to commence.
+After getting a work permit, pressure test the surface test equipment as per the CNLC procedures and record all pressure tests on a chart recorder.
+During pressure testing check the following:
+The orifice meter sliding valve holds pressure
+The choke manifold isolation valves are tested independently to ensure choke changes and inspections can be made.
+The following should be included as part of pressure testing surface well test equipment:
+Flush all surface lines and equipment from upstream SSV.
+P/T entire system to 800 psi against flow line valve (plugged).
+P/T against oil and gas manifold to 800 psi.
+P/T separator gas outlet & bypass, oil outlet & bypass plus water outlet to 800 psi.
+P/T upstream of choke manifold & HP side of choke manifold to the 5000 psi.
+P/T downstream of choke manifold to separator inlet and oil & gas bypass to 800 psi.
+At the end of pressure testing ensure all barriers and signs are removed. Also inform personnel and sign off permits.
+
+### Choke Manifold
+Prepare the choke manifold as outlined below:
+Pressure test the choke manifold as per O.T.S procedures to 5,000 psi.
+Pressure is to be bled-off between each test.
+Check all service breaks.
+Prepare the necessary fixed choke and check condition as per O.T.S standard.
+On completion of pressure testing all valves should be left open. Drift the choke manifold to 3.00”.
+
+### Function Test for ESD System
+Requirements and points to note for the ESD system are as follows:
+Remote shutdown points for the ESD system shall be installed at the test separator and outside the lab cabin.
+The separator instrument air supply will be an integral component of the ESD system. Air supply interruptions will activate the ESD system and shut-in the well at the flow line.The ESD system is to be function tested. The function test will be witnessed by the Well Test Engineer.
+
+### Surface Sampling Equipment
+Prepare sample bottles according to O.T.S procedures.
+Gas sample bottles need to be evacuated prior to commencing sampling operations.
+All sample containers are to be clearly labeled and a sample list produced. Labels should include client company name, well name, test interval, test number, flow period, sample number, sampling date & time, sampling point and sample type/nature.
+
+### Calibration and Check
+The following calibration checks of surface well test equipment should be carried out:
+Calibrate differential pressure gauges using a manometer.
+Surface pressure gauges shall be calibrated at the O.T.S base prior to mobilization using a dead weight tester.
+Check flow meter calibrations by pumping water through each meter. Obtain two consistent results for each meter.
+Check condition of measuring instruments, etc. thermometers, hydrometers etc.
+Ensure all orifice plates & choke beans are in good condition and an adequate supply is on hand.
+
+### Pressure Test for Surface Test Equipment
+Test all surface test equipment and surface test lines to minimum of anticipated operating pressure (all tests should include a low pressure test of approximately 500psi where applicable). All tests should include be held for 10 minutes.
+
+## Operation Program
+
+### Connect Test Line to X-mas Tree
+Line up the surface test line to one producing wing of X-mas tree, line up off production line to cement unit by T connection.
+Double check the Master Valve and SSV(Actuator) still closed, Flush flow line as per service company’s procedure
+Pressure test surface equipment and line according to service company’s testing procedure, pressure test upstream 5,000psiX15minutes (from X-mas to choke manifold), downstream testing as per well testing company instruction.
+
+### Surface Flow Test
+
+#### Hanging memory pressure & temperature Gauge if need (This job is done by thirty party)
+
+#### Main flow test
+Open O.T.S choke manifold slowly on 10/64" adjustable choke to flow well, the hydrocarbons will be diverted to production line by-passing the test separator.
+Switch flow from 10/64" adjustable choke to 10/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and pH of any produced water if needed.
+Once sediment below approx.0.5%, divert flow through the test separator. Send produced gas and oil to production line.
+Establish stable flow conditions and produce well at constant flow rate through the separator. The Well Test Engineer will determine the duration of the flow period. Duration of 6-8 hours (depend on well response and decided by welltesting supvisor) is expected. At the end of the flow take a contingent PVT and fluid sample set at the separator as per reservoir engineer requirement.
+The choke sizes for the multi-rate test will be selected based on the results of well response during flow period. The choke sizes given in this program can therefore change accordingly!
+Measure the stable flow rate of 10/64″choke size.
+Switch from 10/64″ fixed to 10/64″ adjustable choke. Gradually increase adjustable choke to 16/64″.
+Switch flow from 16/64" adjustable choke to 16/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and PH of any produced water if needed.
+Establish stable separator conditions and continue to flow at this rate for approximately 6-8hours (duration to be determined by the Well Test Engineer depending on well behavior.
+Measure the stable flow rate of 16/64″choke size.
+One hour before change of choke size, take a set of separator PVT samples & liquid samplers (gas, oil and water) as per reservoir engineer requirement.
+Switch from 16/64″ fixed to 16/64″ adjustable choke. Gradually increase adjustable choke to 32/64″.
+Switch flow from 32/64" adjustable choke to 32/64" fixed choke. Monitor FTHP and BS&W. Measure salinity and PH of any produced water if needed.
+Establish stable separator conditions and continue to flow at this rate for approximately 6-8 hours (duration to be determined by the Well Test Engineer depending on well behavior).
+Measure the stable flow rate of 32/64″choke size.
+One hour before the end of the main flow period, take a final set of separator PVT samples & liquid samples (gas, oil and water) as per reservoir engineer requirement.
+Throughout main flow, measure and record the following at regular intervals. Surface data acquisition will be used to monitor some of these items simultaneously.
+􀂗 Flowing tubing pressure and temperature.
+􀂗 Separator pressure and temperature
+􀂗 BS&W
+􀂗 Water chlorides and concentrations of any tracers.
+􀂗 Oil and gas rates and calculated gas-oil ratio (verify orifice plate used).
+􀂗 Oil and gas gravities.
+􀂗 Gas H2S.
+􀂗 as required, divert separator oil line output to surge tank for oil rate measurement and establishment of combined shrinkage/meter factor.
+Note: Carefully monitor for evidence of sand at surfaces.
+Utilize methanol injection as necessary to prevent hydrates at choke manifold.
+
+#### Take oil sample from choke manifold(C/M)
+The operation procedure to take the oil sample from choke manifold:
+Take the barrel and open it, check it, and make sure it is clean inside.
+Take the barrel and plastic hose to the choke manifold, and put them near the sample point on the C/M.
+Connect the hose from sample point to the barrel.
+One operator who with the H2S detector, wearing SCBA(Self Contained Breathing Apparatus) to protect himself, and stand in the upwind direction, then open the fan to enforce the air to circulate strongly.
+Give information to remind the people who working in the field and release all the person in the downwind direction.
+Then open the needle valve on the sample point slowly, check the situation of the sample barrel.
+When we are sure the oil sample is enough to do the analysis then close the needle valve and open all the hoses connected to the barrel, at last transfer the sample to another plastic barrel.
+
+#### Take oil & gas sample from separator
+Generally at least three matched sets of pressurized samples are taken from the separator for each zone. Normally, 20 liters of gas per 600 cc oil sample are taken for recombination. In addition, a quantity of non-pressurized (atmospheric) 1 liter samples of oil and formation water will be required. The precise number of samples to be taken should be determined by the Company Petroleum Engineer prior to mobilization in order to ensure that sufficient sample bottles/containers are available.
+Unless there is a separate sampling flow period, the well test program will usually call for surface PVT samples to be taken towards the end of the main flow period to ensure the well is fully cleaned up. However, for back-up purposes, it is worth collecting at least one additional set of samples as soon as conditions stabilize.
+Correct sample labeling and logging of surface conditions, flow rates etc. during sampling is essential. Data sheets for each set of samples are to be completed and copies sent with the samples.
+A typical sequence for surface sampling is as follows:
+Flow well until stabilized wellhead conditions are achieved and solids content is less than 1.0%.
+Direct flow through test separator, monitor and record process parameters.
+Cease upstream chemical injection (if possible).
+Connect one 20 liter evacuated gas sample bottle via sampling manifold to sampling tap on separator gas run. Connect one 600 cc positive displacement sample bottle via a sampling manifold to the sampling tap on the separator oil line.
+Open the sample point valve(s) on the oil and gas lines and purge the lines and manifolds.
+Open the inlet valves on both sample bottles and proceed with sampling operation. It should take 30 - 45 minutes to obtain one set of recombination samples. The rate of displacement will be controlled by the operator. The samples should then be labeled as a matched pair before starting on the next set.
+Validation of the gas sample is determined by checking the bottle pressure prior to disconnection of the sampling manifold. Validation of the oil sample is determined by checking bottle pressure and volume of fluid displaced.
+The sample bottles should have plugs installed to prevent leakage during shipment to the laboratory.
+Completed data sheets for each sample should be included in the transport case, referencing bottle serial number, well' details, flowing conditions and parameters, time taken etc.
+
+#### Main build-up test
+Put choke manifold to closed position (as per instructions of the O.T.S surface Specialist) for the intermediate pressure build-up period. Monitor well head pressure to ensure choke manifold fully closed. The well will be shut-in period at least xx hours. The actual duration will be advised by the Reservoir or Well Test Engineer.
+Open O.T.S choke manifold slowly on 12/64″ adjustable choke to flow well.
+Retrieve pressure/temperature memory gauges on slickline.
+Perform flow pressure gradient test as per reservoir engineer requirement if need.
+
+## List of Surface Survey Test Equipment
+
+## Layout of Surface Test Equipment
+
+# Operational Procedures for Down-hole Surveys
+
+## Build Up Pressure and Temperature Survey Procedure
+Pre job safety meeting on site.
+Prepare slick line string such as: Rope socket, Stem, Jar, Memory Gauge, Swage,…
+Prepare control pressure equipment such as: B.O.P, Lubricator, Stuffing Box,….
+Rig up B.O.P and lubricator on well.
+Make slick line tool string for Tag Bottom of well.
+Open swab valve and RIH to find tag bottom of well.
+Identify tag bottom of well for survey.
+POOH slick line string after find tag bottom of well.
+Make slick line string with memory gauge.
+Rig up B.O.P and lubricator on well for take pressure and temperature survey.
+Open swab valve and stop at lubricator for 5 Min- Flowing.
+Go to 200 M with speed of 60 M/Min.
+Stop t 200 M for 5 Min – Flowing.
+Repeat 12, 13 items at 400, 600, 800, 1000 Meter depth.
+Go to 1100 M with speed of 60 M/Min.
+Stop at 1100M for 5 Min – Flowing.
+Repeat 15, 16 items at 1200, 1300, 1400, 1500, 1600, 1700,…..,  Meter depth.
+Stop at tag bottom depth for 30 Min- Flowing.
+Close the well from surface for take Build Up pressure for 72 Hours.
+Start to pull gauge up for take static pressure.
+Stop at depths that we take flowing pressure for taking static pressure at same depth for 5 Min with speed of 60 M/Min.
+After reach to surface, close swab valve.
+Start to bleed lubricator pressure.
+Take the gauge from lubricator.
+Transfer data from gauge to PC.
+If result was OK, rig down from well.
+
+### Layout of Surface Equipment
+
+## Flowing Pressure and Temperature Survey Procedure
+Pre job safety meeting on site.
+Prepare slick line string such as: Rope socket, Stem, Jar, Memory Gauge, Swage,…
+Prepare control pressure equipment such as: B.O.P, Lubricator, Stuffing Box,….
+Rig up B.O.P and lubricator on well.
+Make slick line tool string for Tag Bottom of well.
+Open swab valve and RIH to find tag bottom of well.
+Identify tag bottom of well for survey.
+POOH slick line string after find tag bottom of well.
+Make slick line string with memory gauge.
+Rig up B.O.P and lubricator on well for take pressure and temperature survey.
+Open swab valve and stop at lubricator for 5 Min- Flowing.
+Go to 200 M with speed of 60 M/Min.
+Stop t 200 M for 5 Min – Flowing.
+Repeat 12, 13 items at 400, 600, 800, 1000 Meter depth.
+Go to 1100 M with speed of 60 M/Min.
+Stop at 1100M for 5 Min – Flowing.
+Repeat 15, 16 items at 1200, 1300, 1400, 1500, 1600, 1700,…..,  Meter depth.
+Stop at tag bottom depth for 30 Min- Flowing.
+Start to pull up the gauge.
+After reach to surface, close swab valve.
+Start to bleed lubricator pressure.
+Take the gauge from lubricator.
+Transfer data from gauge to PC.
+If result was OK, rig down from well.
+
+# Appendix
+
+## Hazard Analysis and Precaution Measures of OTS Co.
+
+### Hazard Analysis
+
+### Control and Responsibilities of Well Test Supervisor/Engineer
+Act as technical liaison to the drilling/completion supervisor.
+Liaise between third party & service companies
+Direct supervision of service companies in preparation and execution of the test ensuring that service company equipment is available when needed, is fit for purpose, and that service company personnel are available when needed.
+Review test procedures with test personnel to commencing the test
+Co-ordinate collection of fluid samples in co-operation with well test supervisor
+Monitor testing operation and test data.
+The Well Test Supervisor is responsible for the safe and efficient operation of the well test operations. He coordinates and communicates with the CSS (company Site Supervisor) on all operational and safety matters. He shall comply and adhere to all safety policies and procedures. He will ensure that all work is carried out under the installation permit to work system. It is his responsibility to ensure that the function and operation of the ESD safety system has been communicated to all relevant personnel. His line of safety responsibility is to the CSS.
+
+### Health, Safety and Environment (HSE)
+
+#### Safety Equipment Requirement
+Safety around the surface equipment should be provided by an ESD system
+Portable foam extinguishers will be available in the vicinity of the wellhead, choke manifold, and designated safe area(s).
+Well test team and operation personnel require equip with H2S personnel protection equipment, include SCBA, Portable H2S gas detector, etc.
+All appropriate fighting equipment should be checked and ready for emergency use.
+All vent lines from stored produced fluid vessels must be vented to the flare pit. These lines shall be checked and verified open.
+The main flare pit shall be 300m away from well center and rigged up with the required number and length of flare lines for testing. All flare lines shall be properly secured.
+
+#### Sulfureted Hydrogen (H2S)
+H2S levels will be monitored cleanup & well testing during. Low levels of H2S (<20ppm) may be encountered.
+BA systems will be available during testing in the following locations: wellhead, choke manifold, and designated safe area(s). Samples should be taken and checked for H2S as soon as gas & fluids are produced at surface and at regular intervals during the testing.
+A H2S leakage, emergency muster and protection drill with each crew shall be conducted prior to any testing.
+All breathing apparatus shall be inspected and ready for emergency use. All concerned personnel on location during testing shall have H2S and SCBA training with certification.
+
+### OTS Well-testing H2S Emergency Plan
+
+### Fire emergency response procedure
+
+### First Aid
+The following first aid procedure applies to all H2S victims:
+remove the victim to fresh air, upwind or crosswind from the suspected leak source
+isolate the leak/source if possible
+commence artificial respiration and/or administer oxygen as required
+summon qualified medical assistance
+keep patient quiet, comfortable and warm
+if eyes are affected, wash thoroughly with water for 15 minutes – ice compresses may also be applied
+Patients must be kept under medical observation until they are declared fit to return to work or they are evacuated. The possibility of delayed pulmonary oedema up to 24 hours after exposure to H2S should not be overlooked.
+
+### Waste Management
+To protect the environment, it is required to process, treat and dispose the generated waste due to completion & well test period according to project waste management policy, and minimized harm to the environment or eliminated.
+
+## HSE Policy of ILIA CO.
+The HSE policy of ILIA INDUSTRY CO has been defined in system policy statement. In this statement the necessary structures have been defined for HSE objectives and targets.
+In this policy statements, general policy of the company is mentioned as “conformity of operation with safety and environmental rules and regulations” also commitment in pollution and hazard prevention and continual improvement” and then required tools have been determined for implementation of these two principles.
+All of employees are responsible for understanding and implementing the policy of the system. This policy is available to the public.
+
+### Planning
+HSE shall be integral to the design and all drilling operations of wells.
+Emergency management plans will be maintained and practiced to protect the workforce, customer or subcontractor, public, environment and the company’s reputation in event of an incident.
+Plans shall be developed and appropriate actions taken to prevent environmental pollution, conserve resources and minimize waste. Where elimination of a pollution source is not practical, appropriate treatment of waste shall be undertaken and monitored to minimize the impact of discharges and disposals on the environment.
+
+#### Identification of Hazards and Environmental Aspects
+The supervisor of each site is responsible for identification and up to dating the risk, impacts and aspects on that location. The HSE expert is responsible for summarizing risks on the site that cover all activities of company. If it is required to have some measurements for defining the risks and impacts, project manager and/or technical manager will do all the co-ordinations. Gathered information is being reviewed and updated during the projects. These are defined in related procedure.
+Health, Safety & Environmental Risk Assessment and Management
+Those parameters that affect the performance of HSE management system have been identified and checked according to daily/weekly/monthly inspection or audit check lists
+
+#### Legal and other requirements
+Local legal and regulatory requirements are met or exceeded. Where these are absent or inadequate, standards are set to protect people and environment.
+The exposure of all employees, customers, contractors and the general public to hazardous conditions associated with our operations shall be assessed and managed to minimize HSE risk.
+
+#### Setting the Objectives and Targets
+HSE risks have been evaluated according to registered information about operations, legal requirements,  technical issues, the range of risk and interested parties’ viewpoints.
+Managing director and technical drilling manager define and approve the objectives regarding risk evaluation, technical and financial records and policy of the system and the HSE programs are being verified by managing director and communicated to relevant rig sites or bases for implementation. If any changes happen in activities that cause changing in HSE programs, the related supervisor will do the required amendment after being confirmed by technical manager.
+
+#### HSE programs
+Programs shall be put in place to assess HSE performance against set objectives and targets.
+
+### Implementation and Operation
+The managing director is responsible for providing the required resources to meet the HSE commitment for interested parties and customers. Employing the trained personnel for managing and performing the relevant activities about product confirmation and audit are also his duties.
+
+#### Structure and Responsibility
+Organizational Structure
+The Organizational structure and communication methods between different levels in ILIA INDUSTRY CO have been defined. ILIA INDUSTRY CO chart presents the structure and internal organizational communication.
+Responsibility and Authorities
+The responsibilities and authorities of those functions whose activities affects on the HSE management system performance are defined in “ILIA INDUSTRY CO’s Organizational Functions Responsibilities and Authorities” document. All employees are individually responsible and accountable for all HSE issues relating to themselves or others with whom they associate.
+The following functions have a main role in preservation and maintenance of system:
+- Technical Manager
+- QHSE Manager
+Other Levels of Management
+The main health, safety and environmental responsibilities of other levels of management consist:
+- Preparing the HSE programs for related affairs.
+- Identification of hazard in related activities.
+- Evaluation of risk in related activities.
+Management Representative
+All of our locations shall have emergency plans in place, pertinent to the nature of their operations and the assessed location risks. Emergency plans are documented, accessible, and clearly communicated. Personnel are trained and understand emergency place, their roles and responsibilities.
+The main responsibilities of management deputy in QHSE affair include:
+- Being assure of proper implementation of HSE management system in company
+- Presenting the HSE management system performance reports to managing director for reviewing and defining the corrective and improvement cases.
+- Communicating with external interested parties about HSE management system.
+
+#### Training, Awareness and Competence
+Employee’s training needs related to QHSE issues have been identified. Manager of each affair is responsible for identifying the employee’s training needs and approving their qualifications. Personnel qualifications have been identified at the base of their education, skills, passed training and required educations. Trained personnel are evaluated according to training procedure. Those personnel, whose activities are related to QHSE during services or projects, require qualification in accordance with their educations, training and/or relevant experience. Also according to training procedures each employee is periodically evaluated and, if it is necessary, training programs will be prepared and implemented for improving knowledge of personnel and/or updating their knowledge. The employee’s training records are kept and recorded in training files.
+
+#### Communication about HSE Issues Is Done According to System
+Procedures, instructions and suggestion system and HSE conservation committee  connection with external interested parties or replying to them and studying their viewpoints are carried out for external communicated procedures. Some of these organizations are:
+- Organization of Environmental Conservation.
+- The research center of conservation and health of work ministry.
+- Dana insurance organization.
+Those HSE rules and regulations related to company activities are identified and provided to relevant sites after checking, according to the relevant procedures. HSE expert is responsible for up-to-dating those information according to relevant rules and regulations.
+
+#### HSE Management System Documentation
+Standards and Procedures:
+The procedures will explain what relationship exists between different systems in implementation of the
+Process. They define purposes, responsibilities, activities and succession of operations in each process. These methods will be divided into 2 categories:
+- The system procedures that explain the mechanisms of establishment and maintaining of system effectively.
+- The operational procedures that discuss about the operation implementation and related responsibilities.
+Instructions:
+These documents describe how an activity that effect on HSE management system performance is  implemented stage by stage by a team (or person)
+Supporting documents:
+They consist of Guideline, regulations, forms and so on.
+In general, we could illustrate the documentation system in a pyramid form as below.
+As seen in level 3 (below HSE manual), some of the documents are common, some of them belong to quality and others belong to the HSE management system.
+
+#### Operational Control
+
+##### General
+According to the procedures and instructions, operation processes are under control in ILIA INDUSTRY CO to prevent from unwanted changes that may be happen in HSE management system performance and  achievement of HSE policy.
+- Our operations shall be conducted in a way to minimize or eliminate HSE risks.
+- Equipment that has been out of service for maintenance or modification is subject to documented inspection and testing prior to use.
+- Safe work-practices and operational procedures are established and regularly monitored. The workforce understands their roles and responsibilities in meeting HSE objectives.
+- Reliability and availability of protective and emergency systems are maintained by appropriate inspection, testing and maintenance programs.
+
+#### Emergency Conditions
+The procedures of emergency conditions have been prepared and consist of performable methods to identify and prevent the occurrence and increase of risks related to emergency conditions. The methods for emergency condition are tested and reviewed for ensuring personnel skills and efficiency by loss preventive team (LPT).
+
+#### Checking and Corrective Actions
+To ensure the efficiency of HSE system at the end of each project, the performed job is checked with plans and programs. At the end of project, the project manager is responsible for following up the checking process. The results of this process are then recorded for future management review, project design and operation.
+
+#### Monitoring and Measurement
+To ensure precision and accuracy during all processes of HSE management system along operations are monitored. Project manager and his successors are responsible to follow up these actions.  Copies of records of these monitoring is sent to QHSE office.
+
+#### Nonconformity and Corrective and Preventive Actions
+The corrective actions are carried out for removing the causes of nonconformities of system. During this activity, after determining and presenting its reason and solutions, monitoring and supervision on operation is done to ensure its effectiveness.
+To prevention potential nonconformities that may occur in future, after determining the reasons, proper solution will be chosen according to preventive action mechanism. Monitoring on performance would exist until effectiveness of preventive actions is assured.
+Nonconformity Removal
+If any defection is observed in rig site HSE management system or any problem has been reported by  client or ILIA INDUSTRY CO auditors or inspectors, the kind of detection and nonconformity, will be identified and the required actions will be carried out for removing the nonconformity and being assure of effectiveness of action.
+
+[جدول 1]
+Well No.
+parameter | choke 1 | choke 2 | choke 3 | choke 4 | choke 5
+Qo |  |  |  |  | 
+Qg |  |  |  |  | 
+BS&W |  |  |  |  | 
+Salinity |  |  |  |  | 
+H2S |  |  |  |  | 
+CO2 |  |  |  |  | 
+Pwh |  |  |  |  | 
+Pb |  |  |  |  | 
+Pwf |  |  |  |  | 
+Tdh |  |  |  |  | 
+
+[جدول 2]
+Build-up Pressure Test Wells
+well | interval | type
+AZN-2 | S-3-5 | vertical
+AZN-5 | S-3-4 | vertical
+AZN-6 | S-4-5 | vertical
+AZN-16 | S-4 | deviated
+AZN-22 | S-3 | horizontal
+AZN-21 | K-2b | vertical
+AZN-12 | G-5 | sidetrack
+AZN-11 | F-4 | sidetrack
+
+[جدول 3]
+WBS | Task Name | Duration | Start | Finish
+1 | Systematic Production Test Time Schedule | 31 days | Mon 5/6/13 | Mon 6/17/13
+1.1 | Well No. AZN-16 | 9 days | Mon 5/6/13 | Thu 5/16/13
+1.1.1 | OTS Mobilization | 1 day | Mon 5/6/13 | Mon 5/6/13
+1.1.2 | ILIA Mobilization | 1 day | Tue 5/7/13 | Tue 5/7/13
+1.1.3 | OTS Rigup | 1 day | Tue 5/7/13 | Tue 5/7/13
+1.1.4 | ILIA Rigup | 1 day | Tue 5/7/13 | Tue 5/7/13
+1.1.5 | Pressure Build-up and Temperature Test | 7 days | Wed 5/8/13 | Thu 5/16/13
+1.1.6 | Surface Surveys | 2 days | Wed 5/8/13 | Thu 5/9/13
+1.2 | Well No. AZN-22 | 4 days | Fri 5/10/13 | Wed 5/15/13
+1.2.1 | OTS Mobilization from AZN-16 to AZN-22 and Rigup | 1 day | Fri 5/10/13 | Fri 5/10/13
+1.2.2 | ILIA Mobilization to AZN-22 and Rigup | 1 day | Fri 5/10/13 | Fri 5/10/13
+1.2.3 | Pressure Build-up and Temperature Test, AZN-22 | 3 days | Mon 5/13/13 | Wed 5/15/13
+1.2.4 | Surface Surveys, AZN-22 | 2 days | Mon 5/13/13 | Tue 5/14/13
+1.3 | Well No. AZN-11 | 4 days | Wed 5/15/13 | Mon 5/20/13
+1.3.1 | OTS Mobilization from AZN-22 to AZN-11 and Rigup | 2 days | Wed 5/15/13 | Thu 5/16/13
+1.3.2 | ILIA Mobilization to AZN-11 and Rigup | 1 day | Wed 5/15/13 | Wed 5/15/13
+1.3.3 | Pressure Build-up and Temperature Test, AZN-11 | 3 days | Thu 5/16/13 | Mon 5/20/13
+1.3.4 | Surface Surveys, AZN-11 | 2 days | Fri 5/17/13 | Mon 5/20/13
+1.4 | Well No. AZN-06 | 4 days | Tue 5/21/13 | Fri 5/24/13
+1.4.1 | OTS Mobilization from AZN-11 to AZN-06 and Rigup | 2 days | Tue 5/21/13 | Wed 5/22/13
+1.4.2 | ILIA Mobilization to AZN-06 and Rigup | 1 day | Tue 5/21/13 | Tue 5/21/13
+1.4.3 | Pressure Build-up and Temperature Test, AZN-06 | 3 days | Wed 5/22/13 | Fri 5/24/13
+1.4.4 | Surface Surveys, AZN-06 | 2 days | Thu 5/23/13 | Fri 5/24/13
+1.5 | Well No. AZN-12 | 4 days | Mon 5/27/13 | Thu 5/30/13
+1.5.1 | OTS Mobilization from AZN-06 to AZN-12 and Rigup | 2 days | Mon 5/27/13 | Tue 5/28/13
+1.5.2 | ILIA Mobilization to AZN-12 and Rigup | 1 day | Mon 5/27/13 | Mon 5/27/13
+1.5.3 | Pressure Build-up and Temperature Test, AZN-12 | 3 days | Tue 5/28/13 | Thu 5/30/13
+1.5.4 | Surface Surveys, AZN-12 | 2 days | Wed 5/29/13 | Thu 5/30/13
+1.6 | Well No. AZN-02 | 4 days | Fri 5/31/13 | Wed 6/5/13
+1.6.1 | OTS Mobilization from AZN-12 to AZN-02 and Rigup | 2 days | Fri 5/31/13 | Mon 6/3/13
+1.6.2 | ILIA Mobilization to AZN-02 and Rigup | 1 day | Fri 5/31/13 | Fri 5/31/13
+1.6.3 | Pressure Build-up and Temperature Test, AZN-02 | 3 days | Mon 6/3/13 | Wed 6/5/13
+1.6.4 | Surface Surveys, AZN-02 | 2 days | Tue 6/4/13 | Wed 6/5/13
+1.7 | Well No. AZN-21 | 4 days | Thu 6/6/13 | Tue 6/11/13
+1.7.1 | OTS Mobilization from AZN-02 to AZN-21 and Rigup | 2 days | Thu 6/6/13 | Fri 6/7/13
+1.7.2 | ILIA Mobilization to AZN-21 and Rigup | 1 day | Thu 6/6/13 | Thu 6/6/13
+1.7.3 | Pressure Build-up and Temperature Test, AZN-21 | 3 days | Fri 6/7/13 | Tue 6/11/13
+1.7.4 | Surface Surveys, AZN-21 | 2 days | Mon 6/10/13 | Tue 6/11/13
+1.8 | Well No. AZN-05 | 4 days | Wed 6/12/13 | Mon 6/17/13
+1.8.1 | OTS Mobilization from AZN-21 to AZN-05 and Rigup | 2 days | Wed 6/12/13 | Thu 6/13/13
+1.8.2 | ILIA Mobilization to AZN-05 and Rigup | 1 day | Wed 6/12/13 | Wed 6/12/13
+1.8.3 | Pressure Build-up and Temperature Test, AZN-05 | 3 days | Thu 6/13/13 | Mon 6/17/13
+1.8.4 | Surface Surveys, AZN-05 | 2 days | Fri 6/14/13 | Mon 6/17/13
+
+[جدول 4]
+Item | Specifications | Quantity
+Surface Test Equipment
+1 | Surface Safety Valve 3" ID X 15,000psi WP, Temp -4 – 250 deg F Miscell. equipment | 1
+2 | Generator | 2
+3 | Miscell. equipment | 1 set
+4 | ESD system | 1
+5 | Piping Sections 3" ID X 10,000 / 5,000  psi WP, Temp -4 – 250 degF Suitable for H2S & CO2 , corrosive service | 1
+6 | Choke Manifold 3" ID x 15,000 psi WP, Temp -4 -250 deg F Suitable for H2S & CO2 , corrosive service | 1
+7 | Data Header 3"ID, inlet: 15,000 psi WP, Temp -4 – 250 deg F Suitable for H2S & CO2 , corrosive service | 2
+8 | Horizontal Test Separator 3"ID, inlet: 1440 psi WP, Temp - 4 – 212 deg F Suitable for H2S & CO2 , corrosive service | 1
+9 | 100 BBLS Surge Tank 3"ID, inlet / outlet: 50 psi WP, Temp - 4 – 212 deg F Suitable for H2S & CO2 , corrosive service | 1
+10 | Transfer Pump 3"ID, inlet /  outlet: 500 psi WP, Temp 32 – 212 deg F Suitable for H2S & CO2 , corrosive service | 1
+11 | Air Compressor Diesel engine driven air compressor with adequate air hose, Rated (minimum) 400SCF/min at 120psi. | 1
+12 | Computerised surface data Acquisition System complete with all accessories and equipment. | 1
+13 | Well site laboratory | 1
+14 | Chemical Injection Skid 17,000psi | 1
+15 | Gas and oil manifold | 1 set
+
+[جدول 5]
+No. | ITEM/ACTIVITY | Hazard/Issue | Consequence | Barriers/Controls | Comments/Reference | Additional/Recommendation/Action
+1 | Equipment Handling/Lifting | Dropping Equipment & moving objects | Damage to people and equipment | Enforcement of lifting procedures close-off area, stay clear, | Only trained personnel to perform certain jobs | Refer to O.T.S (CNLC) testing procedure
+ |  | Slings | As above | Only use proper slings | Stay clear | Check certificate
+2 | Pressure Testing | Surface equipment(incl. slickline and wireline lubricator) | Pressure release projectile | Proper procedures, exclusion zones, only absolutely necessary staff in area, communication | Refer to testing programme | O.T.S (CNLC) to perform; Yada test engineer to witness, Radio communication provided by O.T.S (CNLC)
+3 | Slickline and wireline operation | Work at height, dropped equipment and objects | Falling equipment, malfunction and injury from split wire | Only assigned personnel to work on rig floor. PPE, procedures | O.T.S (CNLC) policy and procedure; supervision | No crane operation near line and walking under line; mark line pass to rig floor
+4 | Flow well/Production | H2S fire, explosion, sampling,chemical injection | Potential serious injury or death. damage to environment and equipment | Check of fire fighting procedure and equipment, check H2S system and equipment. full drills for both prior starting test operation. ensure doctor is fully aware of testing operation, move non-essential crew to camp. No phones/No smoking in testing area | Wind direction and strength to be monitored. If wind strength gets too strong during testing, shut-in the well. ensure all relevant personnel are conversant with the ESD procedure and equipment. | Good communication between all personnel is critical. Chain of command to be discussed prior to flow. Number of people on rig site should be limited to absolute minimum. The flare has to be monitored all the times. Information to local. Wear BA during sampling operations
+ |  | Welding & crane operation | Explosion; Dropping equipment on pressurized lines | PTW & signal giving | Refer to testing programme | No crane operation  no hot works without permission
+ |  | Ignition of flare | Malfunction | Check before test | Flare watch | Prepare appropriate buckets with cloths and diesel to be put under end of flare line
+ |  | Leakage / spills | Environmental damage | Small spills to be dealt with by rig/O.T.S(CNLC) | P/T equipment prior to test | Refer to testing programme, especially with regard to H2S
+ |  | Flaring | Injury or fatality | Keep distance from flare, no staring to flare | Watch wind direction & fire | No flaring during night at high H2S level
+5 | Shut-in well | pressure | Uncontrolled pressure release, blow-out | Rig crew  & all relevant personnel to familiarize themselves with pipe work/manifold/layout. Especially the control of valve & gauges | On short notice in emergency case | Number of people on rig site should be limited to minimum; have kill procedure at hand in order to be able to act quickly in case of equipment failure
+6 | Handling diesel | Fire, spills | Personal injury from fire and skin contact, explosion, environmental damage | Supervision & communication | Flow diesel to flare pit for burning when well starts flowing | Need to check fire extinguishers, place powder fire extinguisher near testing equipment
+7 | Escape & evacuation | Panic, blocked exits | Personal injury | Only key personnel on rig during flow testing; training & drills | Ensure people are trained and all exits are clear | Properly maintain T-card board at rig site entrance

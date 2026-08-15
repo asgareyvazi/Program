@@ -1,0 +1,2341 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+               KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                          Drilling Fluids Programme
+
+
+
+
+                     Southern Caspian Sea
+
+                 DRILLING FLUIDS PROGRAM
+
+
+
+
+
+                  Prospect 6.2-X1
+              WILDCAT WELL
+
+
+
+
+
+Prepared by:                Controlled by:              Approved by:
+Gordon Brown/Soroush        Gordon Brown /Bjorn Berglind   Harry Fotheringham
+Date:                    Date:                      Date:
+June. 2009               June. 2009                June. 2009
+
+
+
+
+
+     KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 1 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+
+CONTENT                                     Page
+
+
+
+                                                           3Executive Summary
+
+                                                           5Well Schematic
+
+Well Lithology                                              6
+
+Formation Tops                                             7
+
+Drilling Fluids Sections
+
+8 ½” - Pilot Hole  : Seawater / Guar Gum & PHB Sweeps.          8
+
+36 - inch interval : Seawater / Guar Gum & PHB Sweeps.
+                                                           14
+
+26 - inch interval : Seawater / Guar Gum & PHB Sweeps.
+                                                           20
+
+17 ½ - inch interval: SOBM
+                                                           26
+
+12 ¼-inch interval: SOBM
+                                                           30
+
+8 ½-inch interval: SOBM
+                                                           33
+
+                                                           36
+Contingency Chemicals
+
+                                                           36
+Pit Management
+
+                                                           37Technical Appendix
+
+
+
+
+
+        KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 2 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+
+Executive Summary
+
+ Prospect 6.2 is located in the Southern part of the Caspian Sea, approximately 180 km North of
+Nowshahr and about 209 km East of the Astara border. The high pressure well is to be drilled in 725
+m of water to an eventual TD of +- 5300m TVD BRT.
+
+The expected reservoir is located in the Cheleken Series, Sequence that is believed to represent
+the Upper Pliocene.
+
+The main objectives for the well are:
+
+       •   In spite of TD at 5300m in this well, it is still far to achieve Base of Cheleken.
+       •  To determine the presence and quality of SC440, and SC400 to Upper SC300, these
+          horizons must be tested for the reservoir quality.
+
+
+
+
+
+                              Fig1: South Caspian Sea.
+
+
+Limited area knowledge concerning the possibility of shallow gas has therefore made it necessary to
+prepare the top hole sections as  if shallow gas exists. Due to the shallow gas uncertainties all
+technical action is to be taken ahead of setting the BOP.
+The likely range for seawater surface temperatures is between 27o C and 6o C. Temperatures at mid
+water depth range from 7.3o C to 6o C and temperatures at mudline range from 7o C to 5o C. The
+Expected reservoir temperature is about 110O C. Gas-hydrates might develop within shallower
+section. Therefore gas-hydrates might already exist in the formation or it can be self-induced due to
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 3 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+the drilling operation. The drilling program is designed to handle gas-hydrates. MIS Recommends
+using MEG (Mono Ethylene Glycol) in case of facing to Gas-hydrates
+.
+Initially an 8 ½” pilot hole will be drilled to 1622m TVD BRT to check the formations to the 20”
+surface conductor shoe depth for any shallow gas, other potential shallow hazards and locate a
+suitable shale section for the 20” surface conductor shoe.
+
+On successfully drilling the 8 ½” pilot hole, 36” and 26” holes  will be drilled to 878m TVD BRT and
+1622m TVD BRT respectively. The 8 ½” pilot hole and both the 36” and 26” sections will be drilled
+with sea water and High Viscosity Bentonite sweeps. Potential issue are Hole Cleaning, Bit Balling,
+Shallow water flows and Hole Instability.
+
+After the 26” hole has been drilled and the 20” casing has been run, a 17 ½” hole to a depth of +-
+3122m TVD BRT will be drilled. The planned recommended and programmed mud system is a
+Synthetic Oil Based Mud, with a mud weight ranging from 1.15sg to 1.25sg. However an inhibitive
+water based mud  will also be programmed as a backup. Potential Issues/Hazards are Hole
+Cleaning, High Circulating Pressures and Equivalent Circulating Density, Differential Sticking, Hole
+Instability, Lost Circulation and Potential losses while running and cementing the 13 3/8” casing.
+
+The 12 ¼” hole will be drilled to a depth of 4422m TVD BRT with a Synthetic Oil Based Mud, that, if
+used on the 17 ½” section will be carried over from that section. The mud weight can range from
+1.5sg to 1.75sg.  Potential Issues/Hazards are are Hole Cleaning, High Circulating Pressures and
+Equivalent Circulating Density, Differential Sticking, Hole Instability, Lost Circulation and Potential
+losses while running and cementing the 9 5/8” casing.
+
+An 8 ½” hole will be drilled to final TD of 5322m TVD BRT with the mud carried over from drilling the
+12 ¼” hole. The weight of the fluid used to drill the 12 ¼” hole will be reduced to 1.55sg by a
+combination of centrifuging and whole mud dilution. Coring will be carried out in this section and
+Potential Issues/Hazards will be Hole Cleaning, Differential Sticking of the  drill string and core
+barrel, High Circulating Pressures and Equivalent Circulating Density and Contamination of the
+Core.
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 4 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                              Prospect 6.2-X1
+                            Drilling Fluids Programme
+
+
+
+ Well Schematic
+
+            MD
+ Hole  Casing  TVD                         Casing                                       Mud
+ Size    Size   BRT                 Formation                       Program                  Mud System             Properties
+  (in)      (in)     (m)
+
+                               WATER DEPTH
+                                             725 m       SC800
+                                                               Mud weight: ALAP
+                             New Caspian       Sea Water/PHB
+                878                                                         Funnel Vis (PHB) <120
+  36”     30″                            Deposits.    & Guar Gum Sweeps
+                878                                                                            sec/qtr
+                                                                      Kill Mud to be available.
+
+                                   SC800
+                                                  Sea Water/PHB      Mud weight: ALAP
+                                     Khovalinskian
+                                       & Guar Gum Sweeps    Funnel Vis (PHB) <120
+                1622                  Khazarian
+  26″     20″                                                      Kill Mud to be available.           sec/qtr
+                1622                Bakhuvian
+
+                                                             Mud Weight 1.15 – 1.25
+                                   SC700                                      sg
+                                   Apsheron                          PV – ALAP
+                                       Stage                           O/W 80/20
+                                        Basal                        HTHP @ 1000c <4
+                                                        Synthetic Oil Based
+                                      Quaternary                        Aw 0.8-0.92
+                                                      Mud.
+                                   SC600                                    Stab >600
+                                 Upper Pliocene                           Lime (kg/m3) >8
+                3122
+17 1/2″  13 3/8″                       Aghchagyl
+                3122
+                                       Stage
+                                   SC500
+                                   Lower to
+                                        Middle
+                                        Pliocene
+
+
+
+                                                             Mud Weight 1.50 – 1.75
+                                                                                    sg
+                                   SC500
+                                                                PV – ALAP
+                                   Lower to
+                                                                O/W 80/20
+                                        Middle        Synthetic Oil Based
+                                                            HTHP @ 1000c <4
+                4422                   Pliocene          Mud
+12 ¼″   9 5/8″                                                   Aw 0.8-0.92
+                4422
+                                                                                   Stab >600
+                                                                            Lime (kg/m3) >8
+
+
+                                                              Mud Weight 1.55 sg
+                                   SC500        Synthetic Oil Based       PV – ALAP
+                                   Lower to          Mud             O/W 80/20
+                                        Middle                        HTHP @ 1000c <4
+                5322
+ 8 ½″   7″ Liner                          Pliocene                         Aw 0.8-0.92
+                5322
+                                                                                   Stab >600
+                                                                            Lime (kg/m3) >8
+
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 5 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 42 ]
+────────────────────────────────────────────
+                  M-I Services Kish Ltd
+             KEPCO South Caspian Sea
+                         Prospect 6.2-X1
+                      Drilling Fluids Programme
+
+
+
+                       Well Lithology
+
+
+
+
+
+KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 6 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 42 ]
+────────────────────────────────────────────
+                    M-I Services Kish Ltd
+              KEPCO South Caspian Sea
+                           Prospect 6.2-X1
+                         Drilling Fluids Programme
+
+
+
+
+                       Formation Tops
+
+
+      Seismic Event / Formation     m MDBRT  m TVDSS   Error m +/-
+SC 800, Seabed- New Caspian Deposits       747        725
+SC 700 Apsheron Stage, Basal Quarternary      1255       1233
+SC 600 Upper Pliocene, Aghchagyl Stage     2194       2172
+SC 500 Top Cheleken Series               2760       2738
+SC 440 Upper to Middle Pliocene            2912       2890
+SC 400 Middle Pliocene                   3205       3183
+Planned TD                             5322       5300
+SC 300 Lower Pliocene                                  -----        5691
+
+
+
+
+
+   KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 7 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+
+                          8 1/2″ Pilot Hole
+
+
+                         747m BRT – 1622m BRT
+                                 Casing Size: N/A
+
+     Drilling Fluid System Sea Water / PHB Sweeps/ Guar Gum Sweeps
+                             Bentonite, Soda Ash, Caustic Soda, Guar Gum, Citric Acid
+         Key Products
+                           MI-Cide, Barite.
+           Solids Control Not Required (Returns to Seabed)
+
+       Potential Problems Hole Cleaning, No Drill Water, Hole instability
+
+                         INTERVAL MUD PROPERTIES
+
+
+     Depth
+           Mud Wt.        Funnel Viscosity
+     TVD                                           pH
+                  (sg)                 (sec/qt)     (m)
+
+    1622*     ALAP              <120                       10-10.5
+
+
+    1622**      ALAP                <100                            6-7
+
+    1622***        1.25                                    <100                          10-10.5
+
+
+       * PHB Sweeps
+       ** Guar Gum Sweeps
+      *** Displacement PHB
+
+
+OBJECTIVES
+ To check the formations to the 20” surface conductor shoe depth for any shallow gas, other
+  potential shallow hazards and locate a suitable shale section for the 20” surface conductor shoe.
+
+INTERVAL DISCUSION
+
+The 8 ½” pilot hole will be drilled with sea water and Hi-Viscosity Pre Hydrated Bentonite (PHB)
+sweeps. If logistics allow it is preferred to use Bentonite sweeps throughout the section. However if
+drill water delivery becomes an issue Guar Gum sweeps can be used to supplement the sweep
+
+
+
+
+
+        KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 8 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+programme. 50 barrel sweeps will be pumped at +- every 15m or as hole condition dictate. Returns
+will be to sea bed.
+
+
+At the 8 ½” pilot hole TD, the hole will be displaced to a 1.25 sg Pre Hydrated Bentonite mud after
+sweeping the hole with a 50 bbl Hi-Viscosity pill.
+The plan is trying to keep this pilot hole on a safe position as much as possible. It can be helpful to
+drill 36” hole in minimum deviation. So MI recommends using of 7-10% KCl as primary inhibitor
+against marl Clay and Shale which are expected.
+
+500 bbls of kill mud @ 1.3 sg will be available while drilling the pilot hole.
+
+
+ POTENTIAL MUD RELATED PROBLEMS AND HAZARDS.
+
+Hole cleaning: Pump hi-viscous mud more frequently and of greater volume.
+
+Hole cleaning: Increase pump rate.
+
+No drill water: Ensure gel is pre-hydrated at high concentrations. Use guar gum to alternate
+the gel based viscous sweeps.
+
+Hole instability: Displace to a weighted hi-viscous gel mud.
+
+Bit Balling: Pump Drilling Detergent Pills.
+
+Gas Hydrates: Using of MEG is recommended. It should be done based on client instruction.
+
+Mud composition
+
+A - Mud Composition:           PreHydrated Bentonite Viscous sweeps
+
+Drill water                   :     Less than 200 mg/l Cl- for gel hydration.
+
+Caustic soda              :       Alkalinity control.
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+
+
+Mixing Procedure:
+
+  1.   Fill the tanks with the required volume of drill water.
+  2.  Raise the pH to 9.5-10 with additions of caustic soda.
+  3.  Treat out any hardness greater than 200 ppm with soda ash.
+  4. Add 30-35 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+
+
+
+
+
+        KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 9 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+Recommended Properties:
+
+
+Funnel Viscosity                    :     < 120 sec/qt.
+
+
+B - Mud Composition:          Guar gum Viscous sweeps.
+
+Sea water                   :     Base Fluid
+
+Guar gum                   :       Viscosifier.
+
+Citric Acid                   :     Ensure neutral PH to allow Guar Gum to “hydrate”.
+
+Safecide                     :      Biocide.
+
+
+
+Mixing Procedure:
+
+  1.  Ensure mixing tank and mixing lines are free of any caustic soda residue (or any other alkaline
+      material)
+  2.   Fill the tanks with the required volume of sea water.
+  3. Add Mi-cide at 0.02 Lit/bbl.
+  4. Add 3-4 lb/bbl of Guar gum and allow hydrating for as long as possible. Processing with a
+     shearing device will improve yield.
+  5.  Mix 0.2 to 0.3 ppb Citric Acid to improve yield of Guar Gum.
+  6.  Treat regularly with Biocide if pills to remain in pits for any length of time.
+  7.  Pills should not be kept for more than 6 hours in the surface tanks. These will lose viscosity rapidly
+     over time.
+
+
+Recommended Properties:
+
+
+Funnel Viscosity         :      +- 100 sec/qt.
+
+
+C - Mud Composition:           Displacement mud.
+
+Drill water                    :     Less than 200 mg/l Cl- for gel hydration.
+Caustic soda              :       Alkalinity control
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+Barite                          :    Weighting agent
+KCl                            :      Inhibitor
+
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 10 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+
+Mixing Procedure:
+
+  1.   Fill the tanks with the required volume of drill water.
+  2.  Raise the pH to 9.0 with additions of caustic soda.
+  3.  Treat out any hardness greater than 200 ppm with soda ash.
+  4. Add 15-20 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+  5. Add 22-25 lb/bbl KCl.
+  6. Add barite to weight 1.25 sg.
+
+
+Recommended Properties:
+Funnel Viscosity         :     < 120 sec/qt.
+Weight                        :      1.25 sg
+
+
+D - Mud Composition:                 Kill mud.
+
+Drill water                    :     Less than 200 mg/l Cl- for gel hydration.
+Caustic soda              :       Alkalinity control
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+Barite                          :    Weighting agent
+
+
+Mixing Procedure:
+
+  1.   Fill the tanks with the required volume of drill water.
+  2.  Raise the pH to 9.0 with additions of caustic soda.
+  3.  Treat out any hardness greater than 200 ppm with soda ash.
+  4. Add 15-20 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+  5. Add barite to weight 1.3 sg.
+
+
+Recommended Properties:
+Funnel Viscosity         :     < 120 sec/qt.
+Weight                        :      1.3 sg
+
+
+ENGINEERING COMMENTS
+
+
+Sweeps: should be a minimum of 50 bbls per 15m drilled. The frequency or volume may be
+increased dependent upon hole conditions.
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 11 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 42 ]
+────────────────────────────────────────────
+                         M-I Services Kish Ltd
+                  KEPCO South Caspian Sea
+                                 Prospect 6.2-X1
+                               Drilling Fluids Programme
+
+
+
+
+
+  Section TD: It is recommended that
+
+      •  The hole shall be swept with a 50 bbl PHB or Guar Gum pill
+      •  Before pulling out of the hole to pick up the 36” drilling assembly the hole shall be displaced
+          to a 1.25 sg Prehydrated Bentonite Mud.
+              8 1/2″ INTERVAL VOLUMES AND MATERIALS
+
+
+               8 1/2" Pilot Hole
+
+                   Length Of Section                         875 m
+                Number of Sweeps                           30
+                    Size of Sweeps                          50 bbls
+                      Total Volume of Sweeps                 1500 bbls
+                Open Hole Displacement & 50%            303 bbls
+                      Total Volume Required                  1803 bbls
+
+Hi Vis Sweeps
+
+
+                                     Total                     Total
+               Concentration   Quantity of    Size Of   number of   Cost per     Total Cost
+  Chemical        (ppb)       Chemicals      Units        units         Unit        (Euros)
+Bentonite          30          45000 lbs   2200 lbs     21     € 163.00   € 3,423.00
+Caustic Soda       0.30           450 lbs   55 lb drs     9      €  29.67   €   267.03
+Soda Ash          0.30           450 lbs   55 lb sx     9      €  12.63   €   113.67
+                                                                     € 3,803.70
+
+
+Displacement Mud         303 bbls @  1.25 sg
+
+
+                                                              Total
+               Concentration   Total Quantity   Size Of   number    Cost per      Total Cost
+Chemical          (ppb)        of Chemicals     Units     of units       Unit         (Euros)
+Bentonite          15            4545 lbs  2200 lbs     3     €  163.00   €    489.00
+Caustic Soda       0.30             91 lbs  55 lb drs     2     €   29.67   €     59.34
+Soda Ash          0.30             91 lbs   55 lb sx     2     €   12.63   €     25.26
+KCl              22-25          6666 lbs     1 MT     3     Contingency
+Barite            125          37801 lbs  2200 lbs    18     €  175.30   €  3,155.40
+
+
+
+
+
+          KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 12 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 42 ]
+────────────────────────────────────────────
+                         M-I Services Kish Ltd
+                  KEPCO South Caspian Sea
+                                 Prospect 6.2-X1
+                               Drilling Fluids Programme
+
+
+
+
+                                                                     €  3,729.00
+
+
+
+
+
+Kill Mud       500 bbls @  1.3 sg
+
+
+                                     Total                      Total
+               Concentration    Quantity of     Size Of    number    Cost per
+Chemical           (ppb)       Chemicals       Units       of units       Unit       Total Cost
+Bentonite          15           7500 lbs   2200 lbs      4      € 163.00   €    652.00
+Caustic Soda       0.30           150 lbs   55 lb drs      3      €  29.67   €      89.01
+Soda Ash          0.30           150 lbs   55 lb sx       3      €  12.63   €      37.89
+Barite            152         76144 lbs   2200 lbs      35     € 175.30   €  6,135.50
+                                                                      €  6,914.40
+
+
+                                                            Total Section Cost  € 14,447.10
+
+ Contingency Products for alternative sweeps.
+
+
+                                     Total                      Total
+                                 Quantity of     Size Of    number    Cost per
+ Chemical      Concentration    Chemicals       Units       of units       Unit       Total Cost
+ Guar Gum      3 lbs/bbl         4500 lbs     55 lb sx     82     €  41.52   €  3,404.64
+ Citric Acid       0.2 lbs/bbl         300 lbs     55 lb sx     6      €  40.35   €    242.10
+ Biocide        0.15 gals/bbl       225 gals   55 gal cn     5      €  55.55   €    277.75
+                                                                      €  3,924.49
+
+
+
+
+
+          KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 13 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+                            36″ Section
+
+
+                   747m (BRT/TVD) – 878m (BRT/TVD)
+                               Casing Size: 30-in.
+
+    Drilling Fluid System Sea Water / PHB Sweeps/ Guar Gum Sweeps
+                            Bentonite, Soda Ash, Caustic Soda, Guar Gum, Citric Acid,
+         Key Products
+                       MI Cide, Barite.
+          Solids Control Not Required (Returns to Seabed)
+
+      Potential Problems Hole Cleaning, No Drill Water, Hole instability
+
+
+                        INTERVAL MUD PROPERTIES
+             Mud
+     Depth MD      Wt.        Funnel Viscosity
+      (m)          (sg)               (sec/qt)                 pH
+
+       878*      ALAP            <120                       10-10.5
+
+      878**       ALAP              <100                            6-8
+
+      878***         1.35                                    <100                          10-10.5
+
+      * PHG Sweeps
+       ** Guar Gum Sweeps
+      *** Displacement PHG
+
+
+OBJECTIVES:
+
+To drill the 36” section, and cement the 30” casing in the formation drilled such that there is sufficient
+support for the 20” surface casing and MS700 full bore well head in the soft and unconsolidated
+seabed.
+
+INTERVAL DISCUSSION
+
+The 36” section will be drilled riserless to approximately 130m below the mud line. It shall be drilled
+with Seawater and Hi-Viscosity Pre Hydrated Bentonite (PHB) sweeps.  If  logistics allow  it  is
+preferred to use Bentonite sweeps throughout the section. However  if drill water delivery becomes
+an issue Guar Gum sweeps can be used to supplement the sweep programme. 50 barrel sweeps
+will be pumped at +- every 10m or as hole condition dictate. Returns will be to sea bed.
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 14 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 42 ]
+────────────────────────────────────────────
+                        M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+At section TD, the hole should be swept with a minimum 50 bbl Hi-Viscosity pill while circulating
+bottoms up The hole will be displaced to a 1.35 sg weighted Bentonite mud. A wiper trip will be made
+to 3 metres below the mud line.
+
+The bit will be run back in, checking for fill. If fill is encountered it is recommended a further 50 bbls
+Hi-Viscosity pill is pumped, before again displacing the hole with a 1.35 sg weighted Bentonite mud.
+
+
+
+
+POTENTIAL MUD RELATED PROBLEMS AND HAZARDS.
+
+
+Hole cleaning: Pump hi-viscous mud more frequently and of greater volume.
+
+Hole cleaning: Increase pump rate
+
+Shortage of drill water: Ensure gel is pre-hydrated at high concentrations. Use guar gum to
+alternate the gel based viscous sweeps.
+
+Hole instability: Displace to a weighted hi-viscous gel mud.
+
+Bit Balling: Pump Drilling Detergent Pills.
+
+
+
+ Mud composition
+
+A - Mud Composition:           PreHydrated Bentonite Viscous sweeps
+
+Drill water                   :     Less than 200 mg/l Cl- for gel hydration.
+
+Caustic soda              :       Alkalinity control.
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+
+
+Mixing Procedure:
+
+  5.   Fill the tanks with the required volume of drill water.
+  6.  Raise the pH to 9.5-10 with additions of caustic soda.
+  7.  Treat out any hardness greater than 200 ppm with soda ash.
+  8. Add 30-35 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+
+Recommended Properties:
+
+
+
+
+        KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 15 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+
+Funnel Viscosity                    :     < 120 sec/qt.
+
+
+B - Mud Composition:          Guar gum Viscous sweeps.
+
+Sea water                   :     Base Fluid
+
+Guar gum                   :       Viscosifier.
+
+Citric Acid                   :     Ensure neutral PH to allow Guar Gum to “hydrate”.
+
+Safecide                     :      Biocide.
+
+
+
+Mixing Procedure:
+
+  8.  Ensure mixing tank and mixing lines are free of any caustic soda residue (or any other alkaline
+      material)
+  9.   Fill the tanks with the required volume of sea water.
+  10. Add Mi-cide at 0.02 Lit/bbl.
+  11. Add 3-4 lb/bbl of Guar gum and allow hydrating for as long as possible. Processing with a
+     shearing device will improve yield.
+  12. Mix 0.2 to 0.3 ppb Citric Acid to improve yield of Guar Gum.
+  13. Treat regularly with Biocide if pills to remain in pits for any length of time.
+  14. Pills should not be kept for more than 6 hours in the surface tanks. These will lose viscosity rapidly
+     over time.
+
+
+Recommended Properties:
+
+
+Funnel Viscosity         :      +- 100 sec/qt.
+
+
+C - Mud Composition:           Displacement mud.
+
+Drill water                    :     Less than 200 mg/l Cl- for gel hydration.
+Caustic soda              :       Alkalinity control
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+Barite                          :    Weighting agent
+
+
+Mixing Procedure:
+
+  7.   Fill the tanks with the required volume of drill water.
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 16 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+  8.  Raise the pH to 9.0 with additions of caustic soda.
+  9.  Treat out any hardness greater than 200 ppm with soda ash.
+  10. Add 15-20 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+  11. Add barite to weight 1.35 sg.
+
+
+Recommended Properties:
+Funnel Viscosity         :     < 120 sec/qt.
+Weight                        :      1.35 sg
+
+
+D - Mud Composition:                 Kill mud.
+
+Drill water                    :     Less than 200 mg/l Cl- for gel hydration.
+Caustic soda              :       Alkalinity control
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+Barite                          :    Weighting agent
+
+
+Mixing Procedure:
+
+  6.   Fill the tanks with the required volume of drill water.
+  7.  Raise the pH to 9.0 with additions of caustic soda.
+  8.  Treat out any hardness greater than 200 ppm with soda ash.
+  9. Add 15-20 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+  10. Add barite to weight 1.3 sg.
+
+
+Recommended Properties:
+Funnel Viscosity         :     < 120 sec/qt.
+Weight                        :      1.3 sg
+
+
+ENGINEERING COMMENTS
+
+
+Sweeps: should be a minimum of 50 bbls per 10m drilled. The frequency or volume may be
+increased dependent upon hole conditions.
+
+
+Section TD: It is recommended that
+
+    •  The hole shall be swept with a minimum 50 bbl PHB or Guar Gum pill
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 17 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 42 ]
+────────────────────────────────────────────
+                         M-I Services Kish Ltd
+                  KEPCO South Caspian Sea
+                                Prospect 6.2-X1
+                              Drilling Fluids Programme
+
+
+
+     •  Before pulling out of the hole to pick up and run the 30” casing the hole shall be displaced to
+       a 1.35 sg Prehydrated Bentonite Mud.
+
+
+
+  Bit & BHA Balling: Pump a Surfactant pill, such as Drilling detergent to reduce surface tension,
+ hence minimize balling. Concentration to be between 4-6 lb/bbl.
+
+                      36″ INTERVAL VOLUMES AND MATERIALS
+
+
+                 36" Hole
+
+                    Length Of Section                      131 m
+                 Number of Sweeps                        14
+                     Size of Sweeps                       50 bbls
+                       Total Volume of Sweeps               700 bbls
+                 Open Hole Displacement x 2 & 50%     1355 bbls
+                       Total Volume Required               2055 bbls
+
+Hi Vis Sweeps
+
+
+                                     Total                      Total
+               Concentration    Quantity of     Size Of    number   Cost per
+Chemical          (ppb)       Chemicals       Units      of units      Unit       Total Cost
+Bentonite          30          21000 lbs    2200 lbs    10     € 163.00   € 1,630.00
+Caustic Soda       0.30           210 lbs    55 lb drs     4     €  29.67   €   118.68
+Soda Ash          0.30           210 lbs     55 lb sx     4     €  12.63   €    50.52
+                                                                     € 1,799.20
+
+
+
+
+
+         KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 18 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 42 ]
+────────────────────────────────────────────
+                          M-I Services Kish Ltd
+                   KEPCO South Caspian Sea
+                                  Prospect 6.2-X1
+                                 Drilling Fluids Programme
+
+
+
+Displacement Mud                  1355 bbls @  1.35 sg
+
+
+                                      Total                    Total
+                Concentration   Quantity of    Size Of   number
+Chemical            (ppb)       Chemicals     Units      of units   Cost per Unit     Total Cost
+Bentonite           15         20325 lbs   2200 lbs    10     € 163.00     €  1,630.00
+Caustic Soda        0.30          407 lbs   55 lb drs     8     €  29.67     €    237.36
+Soda Ash           0.30          407 lbs    55 lb sx     8    €  12.63     €    101.04
+Barite             181       244963 lbs   2200 lbs    112    € 175.30     € 19,633.60
+                                                                       € 21,602.00
+
+Kill Mud         500 bbls @  1.3 sg
+
+
+                                      Total                    Total
+                Concentration   Quantity of    Size Of   number
+Chemical            (ppb)       Chemicals     Units      of units   Cost per Unit     Total Cost
+Bentonite           15          7500 lbs   2200 lbs     4     € 163.00     €    652.00
+Caustic Soda        0.30          150 lbs   55 lb drs     3     €  29.67     €      89.01
+Soda Ash           0.30          150 lbs    55 lb sx     3     €  12.63     €      37.89
+Barite             152        76144 lbs   2200 lbs    35     € 175.30     €  6,135.50
+                                                                       €  6,914.40
+
+                                                  Total Section Cost  € 30,315.60
+
+
+Contingency Products for alternative sweeps.
+
+
+                                      Total                    Total
+                                 Quantity of    Size Of   number
+  Chemical     Concentration   Chemicals     Units      of units   Cost per Unit      Total Cost
+Guar Gum        3 lbs/bbl       2100 lbs    55 lb sx    39     €  41.52     €  1,619.28
+Citric Acid         0.2 lbs/bbl       140 lbs    55 lb sx     3     €  40.35     €    121.05
+Biocide          0.15 gals/bbl     105 gals   55 gal cn     2     €  55.55     €    111.10
+                                                                       €  1,851.43
+
+
+
+
+
+            KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 19 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+                             26″ Section
+
+
+                       878 (BRT/TVD) – 1622m (BRT/TVD)
+                                Casing Size: 20-in.
+
+    Drilling Fluid System Sea Water / PHB Sweeps/ Guar Gum Sweeps
+                            Bentonite, Soda Ash, Caustic Soda, Guar Gum, Citric Acid,  MI
+         Key Products
+                           Cide, Barite.
+          Solids Control Not Required (Returns to Seabed)
+
+      Potential Problems Hole Cleaning, No Drill Water, Hole instability
+
+
+                         INTERVAL MUD PROPERTIES
+             Mud
+     Depth MD      Wt.        Funnel Viscosity
+      (m)         (sg)               (sec/qt)                  pH
+
+      1622*     ALAP            <120                        10-10.5
+
+      1622**      ALAP              <100                             6-8
+
+      1622***        1.2                                    <100                           10-10.5
+
+
+ OBJECTIVE
+ The 26” hole will be drilled Riserless and the 20” surface conductor will be run. The objective is to
+  set the 20” casing as deep as possible, to ensure sufficient formation strength in order to be able to
+   drill to the next casing setting depth, thereby minimizing the need for the 16” contingency drilling
+  liner.
+
+ INTERVAL DISCUSSIONS
+
+After setting the 30” casing as deep as possible, the 26” section will be drilled riserless with sea
+water and Hi-Viscosity Pre Hydrated Bentonite (PHB) sweeps. If logistics allow it is preferred to use
+Bentonite sweeps throughout the section. However  if drill water delivery becomes an issue Guar
+Gum sweeps can be used to supplement the sweep programme. 50 barrel sweeps will be pumped at
++- every 15m or as hole condition dictate. Returns will be to sea bed.
+
+At section TD, the hole should be swept with a minimum 50 bbl Hi-Viscosity pill while circulating
+bottoms up. The hole will be displaced to a 1.2sg weighted Bentonite mud. A wiper trip will be made
+to inside the 30” casing shoe.
+
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 20 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 42 ]
+────────────────────────────────────────────
+                        M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+After weighting 3 hours, the bit  will be run back  in, checking for  fill.  If  fill is encountered  it  is
+recommended a further minimum 50 bbl Hi-Viscosity pill is pumped, before again displacing the hole
+with a 1.2 sg weighted Bentonite mud.
+
+POTENTIAL MUD RELATED PROBLEMS AND HAZARDS.
+
+
+Hole cleaning: Pump hi-viscous mud more frequently and of greater volume.
+
+Hole cleaning: Increase pump rate
+
+Shortage of drill water: Ensure gel is pre-hydrated at high concentrations. Use guar gum to
+alternate the gel based viscous sweeps.
+
+Hole instability: Displace to a weighted hi-viscous gel mud.
+
+Bit Balling: Pump Drilling Detergent Pills.
+
+
+
+ Mud composition
+
+A - Mud Composition:           PreHydrated Bentonite Viscous sweeps
+
+Drill water                   :     Less than 200 mg/l Cl- for gel hydration.
+
+Caustic soda              :       Alkalinity control.
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+
+
+Mixing Procedure:
+
+  9.   Fill the tanks with the required volume of drill water.
+  10. Raise the pH to 9.5-10 with additions of caustic soda.
+  11. Treat out any hardness greater than 200 ppm with soda ash.
+  12. Add 30-35 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+
+Recommended Properties:
+
+
+Funnel Viscosity                    :     < 120 sec/qt.
+
+
+
+
+
+        KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 21 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+B - Mud Composition:          Guar gum Viscous sweeps.
+
+Sea water                   :     Base Fluid
+
+Guar gum                   :       Viscosifier.
+
+Citric Acid                   :     Ensure neutral PH to allow Guar Gum to “hydrate”.
+
+Safecide                     :      Biocide.
+
+
+
+Mixing Procedure:
+
+  15. Ensure mixing tank and mixing lines are free of any caustic soda residue (or any other alkaline
+      material)
+  16. Fill the tanks with the required volume of sea water.
+  17. Add Mi-cide at 0.02 Lit/bbl.
+  18. Add 3-4 lb/bbl of Guar gum and allow hydrating for as long as possible. Processing with a
+     shearing device will improve yield.
+  19. Mix 0.2 to 0.3 ppb Citric Acid to improve yield of Guar Gum.
+  20. Treat regularly with Biocide if pills to remain in pits for any length of time.
+  21. Pills should not be kept for more than 6 hours in the surface tanks. These will lose viscosity rapidly
+     over time.
+
+
+Recommended Properties:
+
+
+Funnel Viscosity         :      +- 100 sec/qt.
+
+
+C - Mud Composition:           Displacement mud.
+
+Drill water                    :     Less than 200 mg/l Cl- for gel hydration.
+Caustic soda              :       Alkalinity control
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+Barite                          :    Weighting agent
+
+
+Mixing Procedure:
+
+  12. Fill the tanks with the required volume of drill water.
+  13. Raise the pH to 9.0 with additions of caustic soda.
+  14. Treat out any hardness greater than 200 ppm with soda ash.
+  15. Add 15-20 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 22 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                               Prospect 6.2-X1
+                             Drilling Fluids Programme
+
+
+
+
+  16. Add barite to weight 1.2 sg.
+
+
+Recommended Properties:
+Funnel Viscosity         :     < 120 sec/qt.
+Weight                        :      1.20 sg
+
+
+D - Mud Composition:                 Kill mud.
+
+Drill water                    :     Less than 200 mg/l Cl- for gel hydration.
+Caustic soda              :       Alkalinity control
+Soda Ash                   :     Hardness control / Alkalinity control.
+Bentonite                    :       Viscosifier.
+Barite                          :    Weighting agent
+
+
+Mixing Procedure:
+
+  11. Fill the tanks with the required volume of drill water.
+  12. Raise the pH to 9.0 with additions of caustic soda.
+  13. Treat out any hardness greater than 200 ppm with soda ash.
+  14. Add 15-20 lb/bbl of Bentonite and allow hydrating for as long as possible (at least 6 hours).
+     Processing with a shearing device will improve yield.
+  15. Add barite to weight 1.3 sg.
+
+
+Recommended Properties:
+Funnel Viscosity         :     < 120 sec/qt.
+Weight                        :      1.3 sg
+
+
+ENGINEERING COMMENTS
+
+
+Sweeps: should be a minimum of 50 bbls per 15m drilled. The frequency or volume may be
+increased dependent upon hole conditions.
+
+
+Section TD: It is recommended that
+
+    •  The hole shall be swept with a minimum 50 bbl PHB or Guar Gum pill
+    •  Before pulling out of the hole to pick up and run the 20” casing the hole shall be displaced to
+      a 1.20 sg Prehydrated Bentonite Mud.
+
+
+
+
+
+       KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 23 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 42 ]
+────────────────────────────────────────────
+                           M-I Services Kish Ltd
+                    KEPCO South Caspian Sea
+                                   Prospect 6.2-X1
+                                  Drilling Fluids Programme
+
+
+
+
+       Bit & BHA Balling: Pump a Surfactant pill, such as Drilling detergent to reduce surface tension,
+      hence minimize balling. Concentration to be between 4-6 lb/bbl.
+                         26″ INTERVAL VOLUMES AND MATERIALS
+
+                    26" Hole
+
+                        Length Of Section                    744 m
+                     Number of Sweeps                       50
+                         Size of Sweeps                      50 bbls
+                            Total Volume of Sweeps             2500 bbls
+                    Open Hole Displacement X 2 & 50%   4000 bbls
+                            Total Volume Required              6500 bbls
+
+
+ Hi Vis Sweeps
+
+
+                                      Total                      Total
+                Concentration   Quantity of     Size Of   number of   Cost per
+ Chemical          (ppb)       Chemicals      Units        units         Unit        Total Cost
+  Bentonite          30          75000 lbs  2200 lbs          35  € 163.00   €  5,705.00
+  Caustic Soda       0.30           750 lbs   55 lb drs        14  €  29.67   €    415.38
+ Soda Ash          0.30           750 lbs    55 lb sx        14  €  12.63   €    176.82
+                                                                       €  6,297.20
+
+Displacement Mud        4000 bbls @  1.2 sg
+
+
+                                    Total                      Total
+               Concentration   Quantity of     Size Of   number of   Cost per
+Chemical          (ppb)       Chemicals      Units        units         Unit          Total Cost
+Bentonite          15          60000 lbs   2200 lbs     28     € 163.00   €  4,564.00
+Caustic Soda       0.30          1200 lbs   55 lb drs     22     €  29.67   €    652.74
+Soda Ash          0.30          1200 lbs    55 lb sx     22     €  12.63   €    277.86
+Barite             98         392560 lbs   2200 lbs    179     € 175.30   € 31,378.70
+                                                                      € 36,873.30
+
+
+
+
+
+             KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 24 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 42 ]
+────────────────────────────────────────────
+                           M-I Services Kish Ltd
+                    KEPCO South Caspian Sea
+                                   Prospect 6.2-X1
+                                  Drilling Fluids Programme
+
+
+
+
+
+Kill Mud       500 bbls @  1.3 sg
+
+
+                                    Total                      Total
+               Concentration   Quantity of     Size Of   number of   Cost per
+Chemical          (ppb)       Chemicals      Units        units         Unit          Total Cost
+Bentonite          15           7500 lbs   2200 lbs     4      € 163.00   €    652.00
+Caustic Soda       0.30           150 lbs  55 lb drs      3      €  29.67  €      89.01
+Soda Ash          0.30           150 lbs    55 lb sx     3      €  12.63   €      37.89
+Barite            152         76144 lbs   2200 lbs     35     € 175.30   €  6,135.50
+                                                                      €  6,914.40
+
+
+                                                            Total Section Cost  € 50,084.90
+
+
+ Contingency Products for alternative sweeps.
+
+
+                                                                  Total
+                                   Total Quantity   Size Of     number of   Cost per
+ Chemical      Concentration    of Chemicals    Units         units         Unit           Total Cost
+ Guar Gum          3 lbs/bbl       7500 lbs     55 lb sx        137  €   41.52   €   5,688.24
+ Citric Acid           0.2 lbs/bbl        500 lbs     55 lb sx         10  €   40.35   €     403.50
+ Biocide           0.15 gals/bbl       375 gals    55 gal cn          7  €   55.55   €     388.85
+                                                                            €   6,480.59
+
+
+
+
+
+             KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 25 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+                           171/2″ Section
+
+                      1622m – 3122m BRT
+                            13 3/8” Casing
+        Drilling Fluid
+                SOBM.
+          System
+
+     Key Products
+
+     Solids Control Shale Shakers, Centrifuges
+           Potential
+                      Lost Circulation
+         Problems
+
+  Interval Drilling Fluid Properties
+
+   Depth                          HTHP                         Plastic    Yield
+   MD    Mud Wt.                         Fluid     S/W    Lime                       Viscosity  Point                        STAB  GELS
+   TVD          (sg)                       Loss      Ratio    (ppb)
+                                      (cp)        (lb/100ft2)
+      (m)                                                 (ml/30min)
+
+
+            1.15 –   3122          ALAP   25-35     <4     + 80/20   >8   >600   8 - 15
+             1.25
+
+
+
+OBJECTIVE
+This section will be drilled into the Apsheron Stage Basal, Upper and Lower Poliocene formations.
+
+
+
+INTERVAL DISCUSSIONS
+
+This section will be drilled from the 20” casing shoe at +/- 1622 m MD (1622 m TVD) to section TD,
+
+The programmed mud will be Synthetic Oil Based Mud; however a KCl/NaCl/Glycol Mud could be used  if
+necessary
+
+
+During drilling this interval, the following problems are anticipated.
+
+    1)  High circulating pressures.
+    2)  Differential sticking
+    3)  Hole Instability
+    4)  Lost Circulation
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 26 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+Sufficient and adequate stocks of LCM are to be kept on board of the rig as partial to severe losses are
+expected. In case of seepage losses, the system should be treated with finer grade of LCM at 10 lb/bbl, for
+Moderate to large Losses, prepare pills at different F, M, C concentrations and spot across the thief zone,
+concentration may vary between 20 lb/bbl to 80 lb/bbl.(refer to loss tree)
+
+In the event of severe losses,
+
+
+Lost circulation: The concentration of LCM will vary according to losses. Sufficient stocks of graded LCM
+should be kept on board.   In case of mud losses, the system should be treated with different graded
+concentrations and spot across the thief zone.(refer to loss tree)
+
+In order to avoid LCM plugging MWD tools a circulation sub should be installed in the drill string. The MWD
+engineer is to advise on the size and concentration of LCM that can be pumped through MWD Tools. Ensure
+that the drilling displace all the LCM pill out of the string prior to shutting down the mud pumps
+
+In the event of severe losses, crosslinking pills should be pumped to minimize losses (refer to operation
+manual for more details).
+
+Recommended Properties:
+Mud weight - sg                  :      1.15 – 1.25
+Yield Point – lb/100ft2          :     25-35
+3 rpm reading                     :     >8
+6 rpm reading                     :     ≥10
+Lime                                   :     >8
+HTHP fluid loss                    :    <4
+Gel, 10’ – lb/100ft2               :    8 - 15
+Gel, 10” – lb/100ft2               :    <25
+O/W                                    :    75/25 – 85/15
+Activity                              :      .8-.92
+Stability                              :      >600
+
+ENGINEERING COMMENTS
+
+Inhibition and hole stability:
+
+     Hydraulics: During the drilling of this interval detailed Hydraulics modeling will take place on a daily
+      basis using the MI Hydraulics Soft Ware software programme.  This programme will model the fluid
+      behavior under downhole conditions and give predictions of hole cleaning efficiency and ECD values.
+      rheology MI Hydraulics Soft Ware has a module specifically designed to model the performance of the
+     system.
+
+
+Mud properties:
+
+Density: Drilling fluid density will be controlled by addition of Barite or light premix fluid. Use available solids
+control equipment to reduce low gravity solids build-up, thus reducing any dilution requirements for density
+control. Mud weight to be increased as hole conditions dictate.
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 27 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+Rheology: Rheological measurements should be made at a consistent temperature.
+
+
+Yield Point: To be maintained in the 25-30 lb/100ft2 range.
+
+Solids control:
+
+   Solids control: to be optimized with on board shale shakers, and centrifuges.
+
+   Solids control equipment: Use all available solids control equipment efficiently to maintain mud
+    weight. Adapt a dump and dilute strategy, using whole pre-mix mud, to control the weight
+
+   Shale shakers: Ensure shakers are running immediately prior to and during all periods of circulation.
+   Shakers to be dressed initially with 150/170 mesh screens and after the mud is sheared, finer screens of
+    200/230 mesh should be used
+
+
+17 1/2” INTERVAL VOLUMES AND MATERIALS
+
+              Length Of Section                              1500 m
+            Volume Of Riser                                   835
+            Volume Of Active Pits                              471
+            Volume Of Sand Traps                             383
+            Volume of 20" Casing                              980
+             17 1/2" Hole Volume                              1463
+                 Dilution volume (21 days @ 150 bbls/day)            3150
+                Total Volume Required                            7282
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 28 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 42 ]
+────────────────────────────────────────────
+                           M-I Services Kish Ltd
+                   KEPCO South Caspian Sea
+                                   Prospect 6.2-X1
+                                 Drilling Fluids Programme
+
+
+
+
+
+SOBM Mud  Weight 1.15 - 1.25 sg
+
+
+                                       Total                           Total
+                                   Quantity of                 number of   Cost per
+Chemical         Concentration   Chemicals    Size Of Units       units      Unit           Total Cost
+Base Oil         27.64 gals/bbl   201269 gals   264.172 gals         762  € 1,661.94   € 1,266,398.28
+Novatec P         1.08 gals/bbl  7877.02 gals       55 gals         144  €   922.35   €   132,818.40
+Novatec S         0.48 gals/bbl  3501.07 gals       55 gals          64  €   922.35   €    59,030.40
+Versagel HT        2.76 lbs/bbl  20065.85 lbs        55 lbs         365  €   212.98   €    77,737.70
+VG 69             3.01 lbs/bbl  21889.32 lbs        55 lbs         398  €    57.85   €    23,024.30
+Lime               8.02 lbs/bbl  58374.07 lbs        55 lbs        1062  €     3.79   €     4,024.98
+Water             6.77 gals/bbl    49267 gals        1 gals       49268              €                 -
+CaCl2            24.17 lbs/bbl  175998.2 lbs        55 lbs        3200  €    15.73   €    50,336.00
+Ecotrol             0.75 lbs/bbl  5472.968 lbs        55 lbs         100  €   595.69   €    59,569.00
+Novatec F         0.48 gals/bbl  3466.14 gals       55 gals          64  €   908.80   €    58,163.20
+Epigil              3.01 lbs/bbl  21889.32 lbs        55 lbs         398  €    13.38   €     5,325.24
+G-Seal           7.014 lbs/bbl  51077.63 lbs        55 lbs         929  €    23.36   €    21,701.44
+Barite           110.92 lbs/bbl  807767.2 lbs      2205 lbs         367  €   175.30   €    64,335.10
+                                                                              € 1,822,464.04
+
+
+
+
+
+             KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 29 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 42 ]
+────────────────────────────────────────────
+                        M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                                Prospect 6.2-X1
+                              Drilling Fluids Programme
+
+
+
+                        12 1/4″ Section
+             3122m/3122 (MD/TVD)– 4422/4422m (MD/TVD)
+                            9 5/8” casing
+
+  Drilling Fluid System SOBM
+
+       Key Products
+
+        Solids Control Shale Shakers, Centrifuges
+
+    Potential Problems Loss Circulation, Differential Sticking
+
+
+Interval Drilling Fluid Properties
+                                            HTHP          Lime Depth MD                   Plastic
+   TVD     Mud Wt.     Viscosity     Yield Point        Fluid Loss        (ppb)
+
+       (m)             (ppg)               (cp)                (lb/100ft2)             (ml/30min)
+
+   4422                                                        >8
+              1.5 – 1.75     25-30        25-35          <4
+   4422
+
+
+  OBJECTIVE
+   The 12 ¼” section will be drilled from the 13 3/8” casing shoe to a section TD of 4422m BRT. The mud used,
+   should it be an SOBM will be carried over from the previous section. The weight will have to be increased to
+   1.5 sg with Barite
+
+
+  Recommended Properties:
+  Mud weight - sg                  :      1.5 – 1.75 sg
+   Yield Point – lb/100ft2          :     25-35
+  3 rpm reading                     :     >8
+  6 rpm reading                     :     ≥10
+  Lime                                   :     >8
+  HTHP fluid loss                    :    <4
+   Gel, 10’ – lb/100ft2               :    8 - 15
+   Gel, 10” – lb/100ft2               :    <25
+  O/W                                    :    75/25 – 85/15
+   Activity                              :      .8-.92
+   Stability                              :     >600
+
+
+
+
+
+         KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 30 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+
+POTENTIAL MUD RELATED PROBLEMS AND HAZARDS.
+
+Lost circulation: The concentration of LCM will vary according to losses.
+
+In order to avoid LCM plugging MWD tools a circulation sub should be installed in the drill string. The MWD
+engineer is to advise on the size and concentration of LCM that can be pumped through MWD Tools. Ensure
+that the drilling displace the entire LCM pill out of the string prior to shutting down the mud pumps. In the
+event of severe losses, crosslinking pills should be pumped to minimize losses (refer to operation manual for
+more details).
+1.
+
+Solids control:
+
+1.  Solids control: to be optimized with on board shale shakers, desilter and centrifuge.
+
+2.  Solids control equipment: Use all available solids control equipment efficiently to maintain mud
+    weight. Adapt a dump and dilute strategy, using whole pre-mix mud, to control the weight.
+
+3.  Shale shakers: Ensure shakers are running immediately prior to and during all periods of circulation.
+   Shakers to be dressed initially with 170 mesh screens and after the mud is sheared, finer screens of
+    200/230 mesh should be dressed to avoid coarse cuttings size entrance and also to control mud weight
+    effectively while drilling operations.
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 31 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 42 ]
+────────────────────────────────────────────
+                           M-I Services Kish Ltd
+                   KEPCO South Caspian Sea
+                                   Prospect 6.2-X1
+                                 Drilling Fluids Programme
+
+
+
+
+
+                  12 1/4″ INTERVAL VOLUMES AND MATERIALS
+
+
+          Length Of Section                        1300 m
+         Volume Of Riser                              0  Volume carried over,
+         Volume Of Active Pits                          0  therefore not considered
+         Volume Of Sand Traps                         0  as built.
+         Volume of 13 3/8" Casing                     980
+         12 1/4" Hole Volume                         622
+            Dilution volume (35 days @ 150 bbls/day)       5250
+           Total Volume Required                      6851
+
+
+                 Weight 1.5 -
+SOBM Mud    1.75 sg
+
+
+                                         Total
+                                    Quantity of    Size Of   Total number
+Chemical          Concentration   Chemicals      Units        of units     Cost per Unit      Total Cost
+                                              264.172
+Base Oil           23.60 gals/bbl   161716 gals        gals         613  € 1,661.94    € 1,018,769.22
+Novatec P          0.96 gals/bbl  6587.58 gals    55 gals         120  €   922.35    €   110,682.00
+Novatec S          0.96 gals/bbl  6587.58 gals    55 gals         120  €   922.35    €   110,682.00
+Versagel HT          3.01 lbs/bbl  20594.28 lbs     55 lbs         375  €   212.98    €    79,867.50
+VG 69               2.00 lbs/bbl  13729.52 lbs     55 lbs         250  €    57.85    €    14,462.50
+Lime                 8.02 lbs/bbl  54920.48 lbs     55 lbs         999  €     3.79    €     3,786.21
+Water              5.78 gals/bbl  39599.8 gals     1 gals       39600               €                 -
+Calcium Chloride    20.14 lbs/bbl  137989.6 lbs     55 lbs        2509  €    15.73    €    39,466.57
+Ecotrol               1.00 lbs/bbl   6864.76 lbs     55 lbs         125  €   595.69    €    74,461.25
+Novatec F          0.48 gals/bbl  3261.08 gals    55 gals          60  €   908.80    €    54,528.00
+Epigil                4.01 lbs/bbl  27461.44 lbs     55 lbs         500  €    13.38    €     6,690.00
+G-Seal               6 lbs/bbl     41100 lbs     55 lbs         747  €    23.36    €    17,449.92
+Barite             293.13 lbs/bbl   2008318 lbs   2205 lbs         911  €   175.30    €   159,698.30
+                                                                             € 1,690,543.47
+
+
+
+
+
+            KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 32 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 42 ]
+────────────────────────────────────────────
+                        M-I Services Kish Ltd
+                 KEPCO South Caspian Sea
+                                Prospect 6.2-X1
+                              Drilling Fluids Programme
+
+
+
+
+
+                         8 1/2″ Section
+               4422/4422 (MD/TVD)– 5322/5322m (MD/TVD)
+                               7” Liner
+
+  Drilling Fluid System
+               SOBM
+
+       Key Products
+
+        Solids Control Shale Shakers, Centrifuges
+
+    Potential Problems Loss Circulation, Differential Sticking
+
+
+Interval Drilling Fluid Properties
+                                            HTHP          Lime Depth MD                   Plastic
+   TVD     Mud Wt.     Viscosity     Yield Point        Fluid Loss        (ppb)
+
+       (m)             (ppg)               (cp)                (lb/100ft2)             (ml/30min)
+
+                                                               >8
+   5322       1.55       25-30        25-35          <4
+
+
+  OBJECTIVE
+  The 12 ¼” section will be drilled from the 13 3/8” casing shoe to a section TD of 4422m
+  BRT. The mud used, should it be an SOBM will be carried over from the previous section.
+  The weight will have to be maintained by Barite at 1.55 sg.
+
+
+  Recommended Properties:
+  Mud weight - sg                  :      1.55 sg
+   Yield Point – lb/100ft2          :     25-35
+  3 rpm reading                     :     >8
+  6 rpm reading                     :     ≥10
+  Lime                                   :     >8
+  HTHP fluid loss                    :    <4
+   Gel, 10’ – lb/100ft2               :    8 - 15
+   Gel, 10” – lb/100ft2               :    <25
+  O/W                                    :    75/25 – 85/15
+
+
+
+
+         KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 33 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+Activity                              :      .8-.92
+Stability                              :      >600
+
+
+
+POTENTIAL MUD RELATED PROBLEMS AND HAZARDS.
+
+Lost circulation: The concentration of LCM will vary according to losses.
+
+In order to avoid LCM plugging MWD tools a circulation sub should be installed in the drill string. The MWD
+engineer is to advise on the size and concentration of LCM that can be pumped through MWD Tools. Ensure
+that the drilling displace all the LCM pill out of the string prior to shutting down the mud pumps. In the event of
+severe losses, crosslinking pills should be pumped to minimize losses (refer to operation manual for more
+details).
+2.
+
+Solids control:
+
+4.  Solids control: to be optimized with on board shale shakers, desilter and centrifuge.
+
+5.  Solids control equipment: Use all available solids control equipment efficiently to maintain mud
+    weight. Adapt a dump and dilute strategy, using whole pre-mix mud, to control the weight.
+
+6.  Shale shakers: Ensure shakers are running immediately prior to and during all periods of circulation.
+   Shakers to be dressed initially with 170 mesh screens and after the mud is sheared, finer screens of
+    200/230 mesh should be dressed to avoid coarse cuttings size entrance and also to control mud weight
+    effectively while drilling operations.
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 34 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 42 ]
+────────────────────────────────────────────
+                           M-I Services Kish Ltd
+                   KEPCO South Caspian Sea
+                                   Prospect 6.2-X1
+                                 Drilling Fluids Programme
+
+
+
+
+
+                   8 1/2″ INTERVAL VOLUMES AND MATERIALS
+
+         Length Of Section                             900 m
+         Volume Of Riser                                  0  Volume carried over,
+         Volume Of Active Pits                              0  therefore not
+         Volume Of Sand Traps                             0  considered as built.
+         Volume of 13 3/8" Casing                           0
+         17 1/2" Hole Volume                             207
+            Dilution volume (35 days @ 100 bbls/day)           3500
+           Total Volume Required                          3707
+
+                 Weight +-
+SOBM Mud    1.55 sg
+
+
+                                         Total                         Total
+                                    Quantity of                number of
+Chemical          Concentration   Chemicals    Size Of Units      units     Cost per Unit  Total Cost
+Base Oil           23.60 gals/bbl  87503.4 gals  264.172 gals     332     € 1,661.94   €   551,764.08
+Novatec P          0.96 gals/bbl  3564.49 gals       55 gals     65      €   922.35   €    59,952.75
+Novatec S          0.96 gals/bbl  3564.49 gals       55 gals     65      €   922.35   €    59,952.75
+Versagel HT          3.01 lbs/bbl  11143.41 lbs        55 lbs     203     €   212.98   €    43,234.94
+VG 69               2.00 lbs/bbl  7428.937 lbs        55 lbs     136     €    57.85   €     7,867.60
+Lime                 8.02 lbs/bbl  29717.05 lbs        55 lbs     541     €     3.79   €     2,050.39
+Water              5.78 gals/bbl  21427.2 gals        1 gals    21428                 €                 -
+Calcium Chloride    20.14 lbs/bbl  74665.11 lbs        55 lbs    1358     €    15.73   €    21,361.34
+Ecotrol               1.00 lbs/bbl  3714.469 lbs        55 lbs     68      €   595.69   €    40,506.92
+Novatec F          0.48 gals/bbl  1764.54 gals       55 gals     33      €   908.80   €    29,990.40
+Epigil                4.01 lbs/bbl  14859.18 lbs        55 lbs     271     €    13.38   €     3,625.98
+G-Seal               0 lbs/bbl         0 lbs        55 lbs      0      €    23.36   €                 -
+Barite             293.13 lbs/bbl   1086686 lbs      2205 lbs     493     €   175.30   €    86,422.90
+                                                                              €   906,730.05
+
+
+
+
+
+            KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 35 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+                CONTINGENCY CHEMICALS
+
+ The following chemicals should be always available at the rig site in order to use at any emergency
+situation:
+
+          Product                    Function              Min.
+                                                          Quantity
+Drilling Detergent                  Bit Balling reducer               12 dr
+Magco Lube / Lube XLS         Lubricant                        40 dr
+Sodium Bicarbonate          Cement treatment               40 sx
+PipeLax                       Stuck Pipe spotting agent         4 dr
+Defoamer A-EH               Defoamer                        4 dr
+Citric Acid                          Alkalinity reducer                80 sx
+Zinc Carbonate               Hydrogen Sulfide Scavenger     40 sx
+Conqor 303                     Corrosion Inhibitor               4 dr
+Safescav HS               H2S Scavenger                 32 dr
+Mica/Nut plug/ Kwik seal F,M,C LCM                            Total 360 sxs
+G-Seal                          Graphite LCM                  400 sxs
+Calcium Carbonate (F /M / C)  LCM (granular)                 Total 240 sxs
+MIX II (F /M / C)            LCM (granular)                 Total 240 sxs
+
+
+
+                     Pit Management Based on Rig Data
+
+
+      Pit plan on Rig Site            Capacity BBL        Height (m)
+Pit No.1                              722                   3.975
+Pit No.2                              722                   3.975
+Pit No.3                              666                   3.975
+Pit No.4                               664                   3.975
+Pit No.5                              722                   3.975
+Pit No.6                              722                   3.975
+Slug Pit                               57
+Chemical Mixing Tank                  55
+Degasser tank                         74
+Trip Tank                             102
+
+Important: The rig has around 2900 bbls capability for transferring and displacing on a
+normal situation.
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 36 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+          TECHNICAL APPENDIX
+
+
+1. LOST CIRCULATION
+
+INTRODUCTION
+
+In order to cure or prevent lost circulation most effectively, proper planning must be done. If drilling through
+certain formation is likely to give losses, treating the drilling fluid with LCM before entering the potential loss
+zone may be recommended.
+
+If total losses is expected when drilling into for instance a naturally fracture zone, or a pressure depleted zone,
+a reinforcing pill should be mixed ready prior to entering zone and pumped immediately when losses occur.
+
+However in many cases, losses are not expected and the situation must be analysed before treatment start.
+The result of the quantification and analysis of losses will decide the type of curing method to be used. The
+type of drilling fluid will influence on the choice of materials to be used in the pills to be pumped. The first LCM
+pill to be pumped is often a pill containing different types of particles to bridge off the fracture. These materials
+are mixed directly into the drilling fluid, before pumped down hole and will work immediately if successful.
+
+For severe losses, the LCM pill will not always be able to seal off the fracture. In these cases the solution will
+be a reinforcing plug such as Form-A-Plug, Gunk, or Cement. When drilling into known formations with natural
+fractures, the solution can be to go directly to a reinforcing plug if experience has shown that LCM do not work
+in sealing the fracture.
+
+General:
+
+Check with down hole tools supplier regarding maximum recommended concentrations and particle size of
+LCM in pills that can be pumped through the down hole tools; otherwise circulation sub must be part of the
+BHA design.
+
+“Normal” loss situation, i.e. being able to maintain fluid column with drilling fluid available on the rig.
+
+Severe loss situation (no choice), i.e. not able to maintain mud column over time. Also check recommendation
+for maximum pump rate when pill passes through down hole tools.
+
+Concentrations and particle size of LCM may be much higher than recommendations from tool supplier
+depending on how serious the situation is.
+
+Recommendations and limitations should be discussed with operator before start of the operation.
+
+Always make sure that the whole volume of pill is pumped out of the string/bit.
+
+Always make sure to pull above LCM pill after spotting it.
+
+
+Information regarding reservoir conditions/properties, i.e. permeability or pore size, should be gathered from
+the Operator. Discuss with Operator possible formation damage  if introducing LCM in a reservoir section
+before usage.
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 37 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+CURING LOST CIRCULATION
+
+Lost circulation can occur at any time or depth during drilling or tripping in hole. It is important to distinguish
+between down hole losses and surface losses. When a drop in the drilling fluid volume is noted it is important
+that the obvious is not ignored. All possible surface loss points must be investigated. The treatment of the
+losses depends on the severity of the losses, the type of drilling fluid in use as well as the type of formation
+where the loss occurs.
+
+SEEPAGE LOSSES (< 20 bbl/hr)
+
+Losses up to approximately 3 m3/hr (20 bbls/hr) are normally considered as seepage losses. Seepage type
+losses are frequently cured by the simple action of reducing or stopping the pump rate and allowing the
+formation to heal and become sealed off by the development of a filter cake. The pump rate can be gradually
+increased after the losses have stopped.
+
+If the loss does not heal by it self and the amount of loss cannot be tolerated from an economical point of
+view, LCM pill for curing the loss should be pumped.
+
+Recommended concentrations of LCM in pills to be used is at least 50 PPB. The following formulations are
+recommended. If some products are lacking on the rig these should be replaced by other products to give the
+same total concentration.
+
+ SOBM drilling fluid ( 50 ppb pill )
+ CaCo3 F                                     5 ppb
+ CaCo3 M                                    5 ppb
+ Magma Fiber                                 5 ppb
+ Mix II F                                      10 ppb
+ Mix II M                                      5 ppb
+ Mica F                                      5 ppb
+ Nutplug F                                    5 ppb
+ EPISEAL XF                                  5 ppb
+ Kwikseal F                                   5 ppb
+
+If seepage losses are expected during drilling through a certain formation, treating the whole drilling fluid
+system with LCM before entering the loss zone may be recommended.
+A general recommendation will be to treat the system with:
+
+
+ Calcium Carbonate (C)                         5 ppb
+ Calcium Carbonate (M)                         5 ppb
+
+
+PARTIAL LOSSES (> 20 bbl/hr)
+Losses from 20 bbl/hr up to total loss of all returning fluid are often referred to as partial losses. The situation
+will usually require treatment. However, as a first action the bit should be pulled off bottom, the pumped turned
+off and the formation given the chance to heal by itself. If losses stop, drilling can be resumed, if possible with
+reduced drilling fluid weight and/or pump rate.
+If losses do not heal by itself, pumping LCM is recommended. The pills to be used should contain at least 70
+ppb LCM. The following formulations are recommended. If some products are lacking on the rig these should
+be replaced by other products to give the same total concentration:
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 38 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+
+SOBM drilling fluid ( 70 ppb pill )
+
+CaCo3 F                                     5 ppb
+CaCo3 M                                     5 ppb
+Magmafiber                                   5 ppb
+Mix II F                                       5 ppb
+Mica M:                                      10 ppb
+Mix II M:                                      10 ppb
+Kwikseal F                                    10 ppb
+Nut plug M                                    10 ppb
+EPISEAL                                     10 ppb
+
+If this pill does not heal the losses, the pill described below should be pumped.
+
+TOTAL LOSS OF RETURN (Recommend open ended BHA)
+
+The priority will usually be well control so the annulus must be filled from the top with either drilling fluid, water
+or other light weight liquid. Unless the fracture is induced, pumping conventional LCM pills can normally not
+stop losses and the alternative then is a reinforcing plug or cement. However, a pill of LCM is often the first
+choice since it gives quick response if it works and it is easy to do. Recommended pill to pump should contain
+as much LCM as possible, at least 100 ppb.
+
+
+ SOBM drilling fluid ( 100 ppb pill )
+
+ CaCo3 M                                    5 ppb
+ CaCo3 C                                    10 ppb
+ Magmafiber                                  10 ppb
+ Nut Plug F                                   5 ppb
+ Mica F                                      5 ppb
+ Mica M :                                     15 ppbb
+ Mix II Med                                    10 ppb
+ Mix II Coarse                                 10 ppb
+ Kwikseal MC                                 15 ppb
+ Nut plug M                                   15 ppb
+
+If this pill do not heal the fracture a reinforcing plug or cement should be set across the loss zone.
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 39 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 42 ]
+────────────────────────────────────────────
+                       M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                              Prospect 6.2-X1
+                            Drilling Fluids Programme
+
+
+
+
+                             FLOW CHART
+
+                                     Loosing fluid while drilling
+
+
+
+                                     Stop drilling and observe levels
+
+
+                           Yes
+
+                                       Losses on surface            No
+
+
+    Locate and stop losses
+
+
+                                                        Well flowing?
+
+                      Yes                                             No
+
+
+ Record shut in pressure.
+                                                      Measure rate of loss        Kill the well
+
+
+
+
+
+Seepage losses, < 20 bbl/hr                      Partial losses, > 20 bbl/hr                   Total loss of returns
+
+
+                                               Water base
+     Water base                                             fluids                                   Water base
+         fluids                                                                                                      fluids
+
+                                                         Spot pill:
+                                               CaCo3 F 5 ppb
+                                               CaCo3 M 5 ppb
+Spot pill:                                    Magma Fiber 5 ppb
+CaCo3 F 5 ppb                                   Mix II F 5 ppb
+CaCo3 M 5 ppb                                   Mix II M 10 ppb
+Magma Fiber 5 ppb                                   Mica M 10 ppb
+Mix II F 10 ppb                                      Nut Plug M 10 ppb
+Mix II M 5 ppb                                  EPISEAL XF 10 ppb
+Mica F 5 ppb                                         KwikSeal F 10 ppb
+Nut Plug F 5 ppb
+EPISEAL XF 5 ppb
+KwikSeal F 5 ppb                                   No succes
+
+
+                                                      Spot pill:
+                                             CaCo3 M 5 ppb                                                                                                     Spot plug:
+                                             CaCo3 C 10 ppb                                                                             FORM-A-SET or
+                                         Magma Fiber 10 ppb                                                                                   Gunk or
+                                             Mix II M 10 ppb                                                                No succes      Cement
+                                             Mix II C 10 ppb
+                                                Mica F 5 ppb
+                                                Mica M 15 ppb
+                                                  Nut Plug M 15 ppb
+                                                  Nut Plug F 5 ppb
+                                                  KwikSeal MC 15 ppb
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 40 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 42 ]
+────────────────────────────────────────────
+                      M-I Services Kish Ltd
+                KEPCO South Caspian Sea
+                             Prospect 6.2-X1
+                           Drilling Fluids Programme
+
+
+
+
+2. HOLE INSTABILITY
+
+  Specific gravity, particle size and shape, and reactivity with the drilling fluid are some of the important drill-
+cutting and cuttings-bed characteristics. Their key consequences are listed here according to angle range:
+• Near-vertical and low ranges: cuttings concentration (little to no bed).
+• Intermediate range: cuttings concentration, bed thickness and propensity for slumping.
+• High range: bed thickness and physical characteristics.
+  Four hole-cleaning ranges based on hole angle have been identified: The limits of each range should be
+considered only as guidelines, since all are affected by bed stability, borehole roughness, cuttings
+characteristics and drilling fluid properties, among others.
+Below Figure illustrates relative hole-cleaning difficulty based on angle.
+
+
+
+
+
+                           Hole cleaning difficulty versus hole angle
+
+  There are two main reasons in case of Shale problem. The following comments are considerable in this
+regard:
+
+ Ι) Physical Interactions: These include erosion which causes wellbore enlargement, wetting along pre-
+existing fracture(s) and fluid invasion which causes pressure transmission.
+
+ A decision tree or flowchart, such as shown in the below Figure for evaluating the cause of excessive
+cavings, provides a logical path for identification of the mechanism and a qualitative solution.
+
+
+
+
+
+      KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 41 of 42
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 42 ]
+────────────────────────────────────────────
+                  M-I Services Kish Ltd
+             KEPCO South Caspian Sea
+                         Prospect 6.2-X1
+                      Drilling Fluids Programme
+
+
+
+
+
+                         Decision tree for excessive cavings
+
+
+
+
+
+KEPCO South Caspian Sea                Well: Prospect 6.2-X1                                           Page 42 of 42
+
+

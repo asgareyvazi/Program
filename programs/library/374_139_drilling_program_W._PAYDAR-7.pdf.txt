@@ -1,0 +1,2416 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+
+                        Drilling and Completion Program
+
+                                For
+
+                        West Paydar-7 well
+
+
+                                        Rev.: 0
+Signature and date:
+
+
+  Authorized         Name                Position         Signature     Date
+
+  Prepared by      F.jamalzadeh       Sr. Drilling Eng.
+
+  Checked by      A. Moosazadeh     Sr. Geologist
+
+   Verified by     M. Rostami       Head of operation
+
+  Approved by     F.Jamalzadeh      Project Manager
+
+  Approved by     P.Dastoornikoo    Engineering manager
+
+  Approved by     S.M. Madani       Technical Manager
+
+
+
+Distribution list
+
+   •  OEID (4)
+   •  KEPS
+   • OOK
+   •  OES (4)
+
+         ➢  Engineering
+
+         ➢  Operation
+
+         ➢  Procurement
+
+         ➢  Project Leader
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 1 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+Content:
+
+
+         Subject                                                Page
+          Introduction ............................................................................................. 3
+        Summary .................................................................................................. 7
+         Purpose of the well .................................................................................. 8
+          Anticipated drilling hazards .................................................................. 8
+          Geological prognosis ............................................................................... 9
+           Detail sequence of operations ................................................................. 10
+                 •  26" hole .................................................................................. 10
+                 •  17 1/2" hole ............................................................................ 15
+                 •  12 1/4" hole ............................................................................ 20
+                 •  8 1/2" hole .............................................................................. 25
+                 •  6 1/8" hole  ............................................................................. 29
+           Casing/liner running & cementing ........................................................ 32
+          Casing program ....................................................................................... 35
+       Mud program .......................................................................................... 37
+         Cementing program ................................................................................ 37
+         Well evaluation ....................................................................................... 38
+        Time breakdown ..................................................................................... 39
+       BOP Test .................................................................................................. 39
+         Well head ................................................................................................. 39
+       Summary of the well
+          Progress chart
+         Well head sketch
+          Material & equipment
+         Hydraulic design
+         Near by wells
+          Fig-1
+          Fig-3
+         Rig schedule
+        Road map
+          Geological forcast
+         Completion program
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 2 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+1. INTRODUCTION
+
+       Oriental Oil Kish Company (OOK) as an Iranian, Privately owned company is winner  in a
+
+ tender issued by Oil & Energy Industries Development Company (OEID) for an EPD project
+
+ which is consisting of Drilling of 4 new wells and Re-entry of existing two well in West Paydar
+
+ Oil Field.
+
+       All MC-Work related to OOK’s EPD projects will be handelled by Oriental Engineering &
+
+ Services (OES), which is a private Iranian Registered Company.
+
+      The West Paydar Field is an existing oilfield along the Iraqi border line, located 21 km west
+ of the Paydar Field ,200 km north west from Ahwaz,100 km west from Shoosh and 40 kh west
+ from Cheshmeh khosh.
+
+      The operation will be supported by operation base in Ahwaz and conducted by main office
+ in Tehran.
+
+      The first well,PYW-1,was drilled on 1977 and confirmed oil in Asmari and Bangestan
+
+ formations.The West Paydar anticline is part of the fughi anticline in Iraq.Only a smaller part of
+
+ the structure(less than 20%) belongs to Iran.(Fig-1)
+
+     In this project six wells will be drilled as per scope of work, the drilling of four new wells
+
+(PYW-3B,PYW-6,PYW-7,PYW-8) from three locations and re-entry of two existing wells(PYW-
+
+1&PYW-3A) as horizontal oil producer wells to enhance oil recovery from Bangestan Reservoir
+
+1.1  Well architecture
+
+   This well (PYW-7) will be drilled horizontally in direction S 81 E and horizontal section of
+
++/- 1110m after deviating hole @ +/- 3757m(KOP) and completed with ESP system as a oil
+
+producer well. The schematic well architecture(fig-2) is as follows:
+
+       •  26” hole for 18 5/8” surface casing
+       •  17 ½” hole for 13 3/8” intermediate casing at top of Gachsaran high pressure zone
+       •  12 ¼” hole for 9 5/8” production casing at top of Asmari reservoir to cover high
+
+           pressure zone of Gachsaran formation
+       •  8 1/2” hole for 7” production liner at LP in Sarvak reservoir
+       •  6 1/8” horizontal hole as open hole through the pay zone to TD (+/- 4900 md)
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 3 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+
+                                Fig-2
+
+   Mud     Formation
+   Weight                           Casing schematic
+   (PCF)
+
+
+    68-75     Aghajari              18 5/8”
+                          @60m
+
+   Bentonite
+  mud
+
+
+
+                   2048
+                                      13 3/8” @
+                 Mbr-6&7                                  2173m
+  130-135         2298
+                  Mbr-5
+   Salt              2518
+  Saturated        Mbr-4
+  mud              2718                                                       Gachsaran  Mbr-3
+                  2888
+                  Mbr-2
+                               2963
+                   Caprock    2997                                         9 5/8” @
+                                         2964.5m
+            Asmari
+            3387
+     70            Pabdeh
+            3612
+   OBM             Gurpi
+            3749
+
+             Ilam                      KOP @3757M
+           3854.5MD
+           (3851TVD)
+             Sarvak
+     65    4900MD
+                                                     7”L @2900-           (4024TVD)                                            4107MD(3986TVD)          TD@4900 md
+              Total depth                                                       (4024 TVD)
+
+
+*RTE=77M
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 4 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+1.2  General wells locations and trajectories
+
+
+     The attached figure(fig-3) gives the preliminary spider plot of the wells to be drilled on West
+
+Paydar field
+
+1.3  Reservoir data
+
+1.3.1. Asmari
+   •   effluent    ……………………………………..oil
+   •   reservoir pressure …………………………… 4630 Psi @ 3000 mss
+   •  Oil Gradient ………………………………… 0.303 psi/ft
+
+1.3.2. Sarvak
+   •   effluent    ………………………………..oil
+   •   reservoir pressure ……………………………5686 Psi @ 3930 mss
+   •  Oil Gradient ……………………………….. 0.297 psi/ft
+   • OWC ………………………………………. 4040 mss
+   •  max. bottom hole static temperature…………238 F
+   •  H2S content ………………………………...up to 430 ppm
+
+1.4  General Rig Specifications
+
+
+      Rig Name                              Oriental - 1
+      Rig Type                        Land Rig
+      Rig Owner                     ORIENTAL OIL
+      Designer                    DRECO
+      Year Of Construction/upgrade        1981/2004
+     Nominal Drilling Depth              5000 m
+     Draw work                     CONTINENTAL EMESCO C – 2 2000 HP
+      Derrick                     DRECO , 1,300,000 LBS
+     Crown Block                       583 TON DRECO
+      Substructure                 DRECO
+     Top Drive                   VARCO , 900 HP, OR EQUIVALENT
+      Swivel                            550 TON CONTINENTAL EMESCO
+      Rotary Table                       27 ½ “ Continental Emsco
+    Mud Pumps                       2 x Continental Emsco, FA-1600, 1600 HP EA.
+    Mud Tank Capacity                 1800 Bbls
+     Water Tank Capacity                2000 Bbls
+     Bop System                       13 ⅝ “ x 5000 PSI W.P., Koomey, 3000 PSI W.P.
+                                       200 gal Capacity
+     Choke Manifold                    Equiped  with  2  x Manual chocke and  1  x
+                                             Hydraulically operated chocke.
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 5 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+1.4  Service companies
+
+      Service Name                                         Service Co.
+   •  Mud engineering:
+   •   Electrical logging:
+   •  Cementing and pumping:
+   •   Directional drilling and MWD:
+   •  Down hole equipment:
+   •  Casing handling:
+   •  Wellhead:
+   •  Coring:
+   •   Slickline:
+   •   Fishing:
+   •  H2S Safety:
+   •  Liner hanger:
+   •  Production testing:
+   •  Completion:
+   •   Logistic bases:
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 6 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+2.SUMMARY
+
+
+   Contract area                      West Paydar Field
+
+
+   Operator                       OEID/ICOFC
+
+
+   Contractor                    OOK/OES
+
+
+  Well Name                   PYW-7
+
+
+  Well Classification                  Development
+
+
+  Well Type                            Horizontal
+
+
+  Main Objective                      Sarvak
+
+
+  Type of Structure                       Anticline
+
+
+   Surface CO-Ordinates                     Easting        Northing
+
+                                      1741830 m    1126250 m
+
+   Target CO-Ordinates                         Easting       Northing     TVDMD(SS)
+
+                               LP   1742050 m   1126215 m     3986(-3909)
+
+                          TD  1742830 m   1126092 m      4024(-3947)
+
+  Ground level elevation(GLE)         67 m above MSL
+
+
+   Rotary Table Elevation(RTE)         77 m above MSL
+
+
+   Final depth (TD)                   4900 m
+
+
+   Expected Well Duration                days
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 7 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+3.PURPOSE OF THE WELL
+
+  PYW-7 well is the development well that will be drilled as a horizontal producer in Sarvak
+
+    reservoir.
+
+
+4.ANTICIPATED DRILLING HAZZARDS
+
+      The main anticipated drilling hazards are as follow:
+
+          •  stuck pipe in marl section of AJ formation
+          •   losses and gains in high pressure Gachsaran formation
+          •   shale instability in Pabdeh & Gurpi formation
+          •   differential sticking in Asmari & Sarvak formation
+          •   losses in Asmari & Sarvak formation
+          •  No significant H2S is reported in this field. A minimum standard of safety
+
+              procedures for H2S hazards and gas detection as per OOK Company Policy will be
+
+               required.
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 8 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+5.GEOLOGICAL PROGNOSIS
+
+
+   The following table shows the prognosis stratigraphy:
+
+
+  Age   Formation          Drilled      Sub sea      Thickness        Lithology
+
+                        Depth(m)    Depth(m)      (mTVD)
+
+
+         Aghajari          surface                     2038        Red marl+ sst.
+
+             Mbr-6&7     2048        1971         250         Anhy.+grymrl+lst
+
+                          2298        2221         220        Anhy+grymrl+salt
+             Mbr-5
+                          2518        2441         200        Salt+anhy.+grymrl
+              Mbr-4
+             Mbr-3       2718        2641         170        Anhy.+salt+grymrl                                    Gachsaran
+           Tertiary        Mbr-2       2888        2811          75         Salt+anhy.+grymrl
+              Caprock      2963        2886          34         Anhy.+grymrl+lst
+
+                          2997        2920         390            Lst+sst+dol
+           Asmari
+
+
+        Pabdeh            3387        3310         225              Shale+lst
+
+         Gurpi             3612        3535         142              Shale+lst
+
+         Ilam              3749        3672         105            Shale+lst+clst                  Cretaceous   Sarvak             3854.5       3777                        Lst+dol+shale
+
+          Total depth         4900        3947
+
+
+RTE=77 m
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 9 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+6.DETAILED SEQUENCE OF OPERATIONS
+
+6.1 26” Hole section (From surface to 60m)
+
+6.1.1. Phase objection
+
+      The aim of this phase is to case below the cellar & well location, 18 5/8" CSG will be set
+
+    @60m In AJ formation in order to install a diverter to drill the next section and prevent any
+
+      washout below location..
+
+
+6.1.2. Geology
+
+      Formation name               Lithology
+
+      Aghajari                        red marl
+
+
+6.1.3. Expected pressure
+
+     No abnormal pressure is expected
+
+
+6.1.4. Losses
+
+      In near by wells, no losses have been observed
+
+6.1.5. Preparation
+
+            1. Check & observe the alignment of the rig. This check will be performed in three
+
+               stages;derrick alignment with rotary table, rotary table alignment with Cond. pipe.
+
+           To do this, check derrick verticality ,Then pick up 3 joints of 9 ½” DC and check
+
+               the verticality of the derrick and the alignment status of the rotary table with the C-
+
+               pipe.
+
+            2.  Mechanical facilities for mud treatment such as :
+
+             Desander, Desilter, centrifuge, mud cleaner, proper size of shaker–screens, hoppers,
+
+          mud guns & mixers, should be all available on Rig and functioning properly.
+
+            3.  All mud tanks, mud transfer lines & connections should be checked by filling them
+
+             with water & cross wellhead circulation.
+
+            4. Mud engineer  laboratory should be equipped with a complete  set  of  testing
+
+             equipment. The calibration should be done under supervision of well site drilling
+
+              supervisor before staring the operation.
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 10 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+            5.  Weight indicator, rotary speed gage, any smart drilling instrumentation, Stroke
+
+              meter, pressure gauges on manifold and in the drilling console, loss / gain gauge and
+
+            any other gauges should be checked and calibrated.
+
+            6. Top drive must be checked. The inspection should be done and the certificate should
+
+             be sent to the headquaters. Dolly tracks should be visually checked. Position of top
+
+               drive on highest position and lowest position while carrying the drill collar should be
+
+             checked regarding alignment.
+
+            7.  Stand pipe manifold valves & connection must be checked.
+
+            8.  All motors should be checked under load prior to start drilling.
+
+            9.  Tested cementing pump unit & cementing crew should be available on rig when
+
+                 starts drilling.
+
+           10. Check & control mud stock & cement stock .
+
+             11. perform to stand BHA and rack back
+
+             12. check bit & nozzles
+
+             13. prepare high vis pill
+
+           14. Make up the 5” DP and cement stinger (18 5/8”” X 5”Springbow Centraliser on the
+
+                   first joint) check seals and rack back.
+
+
+6.1.6 Sequence of operation:
+
+           1) P/U 26” bit and M/U to 26”reamer
+
+           2) Lower BHA through rotary table and tag surface; record RTE Elevation.
+
+           3) Note: It is very important that the inclination to be maintained less than 1
+
+              degree.
+
+           4) Commence drilling the first 10 m using low flow rates and rotary speed to avoid any
+
+             washout; take an inclination survey.
+
+           5) Note: Drill with bentonite mud & circulate Hi-Vis pill to clean the hole as
+
+              required.
+
+           6)  Drilling Parameters for the first 10 meter are:
+
+           7) GPM :  400
+
+           8) WOB :  0-5000 Lbs
+
+           9) RPM :  45-50
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 11 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 39 ]
+────────────────────────────────────────────
+                                           WEAST PAYDAR #7
+             WELL DRILLING PROGRAMM
+  OOK                                                              OEID
+
+        10) Continue to drill 26” hole with bentonite mud and hi-vis pill to 60 m . The actual TD
+
+            will be determined with reference to the 18 5/8” casing tally.
+
+        11) Drilling Parameters for this interval are:
+
+        12) GPM :  1,000 – 1,200
+
+        13) WOB : 10-30,000 Lbs
+
+        14) RPM :  80-120
+
+        15) Note: It is important to maintain hole inclination below 1˚ in this section .
+
+        16) At TD sweep the hole with 80 bbls hi-vis mud. Perform a wiper trip to the
+
+            surface.Rest and observe the hole for 30 minutes and return to bottom, condition the
+
+           hole if required.
+
+        17) Displace the hole to hi-vis mud.
+
+        18) Drop single shot ( or Totco) survey and POOH to surface.
+
+        19) Note: Totco should be tested prior to first run.
+
+
+ 6.1.7. 26 “ Hole BHA
+
+ Pick up the following Bottom Hole Assembly:
+
+    26” Bit ( R1), IADC 111
+
+    26 “ Reamer
+
+     Bit Sub and Totco ring
+
+    3 x 9 1/2” DC
+
+    3 x 8 1/2” DC
+
+    5” HWDP
+
+
+ 6.1.8. Mud
+
+    This section will be drilled high vis Bentonite mud as per program of mud service Co.
+       • LCM should be kept on location
+
+ Hole      Depth   MW   MF      YP     PV    W.L  Mud Type
+
+Section      (m)     (PCF)    VIS    (lb/100ft^2)   (CP)     (cc)
+
+(inches)                      (SEC)
+
+                                                                HIGH VIS
+  26         60        65      +100          ----           ----     N/C  BENTONITE
+
+                                                                              PILL
+
+
+     Tender No:
+                     ORIENTAL OIL KISH CO           Page 12 of 39    ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 39 ]
+────────────────────────────────────────────
+                                           WEAST PAYDAR #7
+             WELL DRILLING PROGRAMM
+ OOK                                                              OEID
+
+ 6.1.9. 18 5/8” Casing program
+
+ 6.1.9.1. Casing characteristics
+
+Casing Size & Specification        Depth (m)       Design      Collapse Safety
+
+                                   MW(PCF)           factor
+
+18 5/8”,J-55,96.5#,BTC                0-60           65               7.1
+
+
+
+                           Drift     Burst      Collapse    Yield      Make up
+    Casing
+                           (inch)      Pres.(psi)  Pres.(psi)   Stren.(klb)   torq.(ft-lbs)
+
+18 5/8”,J-55,96.5#,BTC      17.5      2250       630        1329          Base of
+                                                                                     Triangle Mark
+
+
+
+
+
+6.1.9.2. 18 5/8” Surface casing
+
+6.1.9.2.1. Prepration
+
+    1.  Drift,tally, number, clean all boxes and pins and prepare all the 18 5/8” casings when
+
+        arrive on location.
+
+    2.  Visually and mechanically check the duplex shoe thread and sealing area for stinger seal
+
+        nipple.
+
+    3.  Ensure that spiders,slips and elevators are on the rig floor and check them visually for
+
+      any damage.
+
+    4.  Ensure that all cement bulk lines have been checked for blockage and pressurize the
+
+        lines to the required transfer pressure prior to the job.
+
+    5. M/U shoe to shoe joint with thread lock.
+
+    6.  Ensure that spare O-rings for stinger are on location.
+
+    7.  Ensure that C-Plate is on the location.
+
+
+ 6.1.9.2.2. Casing running & cementing procedure
+
+   18 5/8” Casing String (J-55,96.5#,BTC) to be as follows:
+
+    1. 18 5/8” duplex shoe joint.
+
+    2. 18 5/8” Casing joints
+
+     Tender No:
+                     ORIENTAL OIL KISH CO           Page 13 of 39   ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 39 ]
+────────────────────────────────────────────
+                                            WEAST PAYDAR #7
+              WELL DRILLING PROGRAMM
+  OOK                                                              OEID
+
+   Running & cementing procedure:
+
+      1.  After RIH with shoe joint, fill the joint with mud .
+
+      2. M/U 18 5/8” casing to the top of shoe joint and RIH o TD(+/-60m)
+
+      3.  Pull back 1m and land the casing on the casing spider.
+
+      4. RIH with cement stinger on 5” DP . Space out 10m above The shoe and circulate the
+
+       volume of 18 5/8” casing.
+
+      Note: Cementing stinger to be made up 5” HWDP (all pre-drifted)
+
+      5.  Ensure that a centralizer is installed on the 5” DP Approx. 1-2m above cement stinger.
+
+      6. R/U circulating lines and cement head +/- 1.5m above rig floor .
+
+      7.  Stab in the cement stinger, fill the annulus with mud, monitor the annulus for leaks
+
+         during cementing, to ensure that stinger seal nipple as in place..
+
+      8.  Circulate 150% of annulus volume
+
+      9. Mix and pump cement, monitor for losses and reduce pumping rate if experiencing any
+
+          losses.
+
+Note: The 18 5/8” casing will be cemented in one stage and cement program will be issued at
+
+due time by cementing service company
+
+ CASING  CEMENTING    SLURRY WEIGHT        REMARKS
+
+         STAGE        LEAD     TAIL
+
+  18 5/8”       One stage              --       15.7 PPG  CMT class “G”(40T) + additives
+                                                    for 60m     100% excess for open hole
+                                            20% excess for cased hole
+
+
+     10. Displace the cement slurry with mud such that at least 5m of cement remains inside the
+
+        5” D/P and stinger above the shoe and then Bleed off pressure and check for back flow.
+
+     11. Sting out of the casing shoe.
+
+     12. R/D cement head and circulating lines.
+
+     13. Attach TDS, pull 1 stand and circulate freshwater to clean stinger.
+
+     14. POH with 5” DP and cement stinger.
+
+     15. Slack off 18 5/8” casing after getting hard cement.
+
+     16. Cut off excess height & dress top of 18 5/8” casing.
+
+     17. Weld 21 ¼”-2000 casing head housing to top of 18 5/8” casing and test w/500 Psi
+
+     18. Nipple up spacer spool and 21 ¼”-2000 Hydrill as a diverter and test it w/1000 Psi.
+
+     19. Install wear bushing
+
+
+      Tender No:
+                      ORIENTAL OIL KISH CO           Page 14 of 39     ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+6.2. 17 1/2” Hole section (From 60 to 2173m)
+
+   6.2.1.Phase objection
+
+      The section will be drilled from the 18 5/8” casing shoe(+/-60m) down to 2173m
+
+      The aim of this phase is to case off the Aghajari , Ghachsaran Mbr-7&6 formations in order
+
+        to be able to drill the 12 ¼” phase with high mud weight and 13 3/8” CSG will be set at top
+
+       of Ghachsaran(Mbr-6&7) formation .
+
+
+
+    6.2.2. Ggeology
+
+     Formation name               Lithology
+
+       Aghajari                Red marl + sst
+
+      Ghachsaran Mbr7&6        Anhy.+Grymrl+llt
+
+
+
+     6.2.3. Hole problem & hazards
+
+          •  No abnormal pressure is expected in this section of hole
+
+          •   In near by wells,minor losses have been observed in Aghajari formation.
+
+          •  Stuck pipe in marl section of AJ formation are experienced
+
+          •  No hydrogen sulfide(H2S) or carbon dioxide(CO2) gasses were experienced in
+
+                drilling of near by wells.
+
+
+     6.2.4 Sequence of operation:
+
+      1.P/U 17 1/2" bit and M/U BHA
+          •  The wear bushing should be used while drilling
+
+        2.Drill out cement and 18 5/8" shoe (+/- 60m)
+
+        3.Drill ahead W/reduced RPM until stabilizer is out of casing shoe. Continue drilling
+
+       W/required RPM & WOB to +/-2173 m (13 3/8” CSG P.)
+          •   Start drilling with bentonit mud and then increase mud weight gradually to 75
+
+            PCF(max.) @ TD as hole condition dictates.
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 15 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+          •  Take particular care because of possible pipe stuck while tripping in sticky marl
+
+               sections ,Pump out while POH in tight section if required.
+          •  Pump hi vis pill before each connection
+          •  Sweep hole @ TD with 50 bbl Hi Vis pill
+          •  Run totco to control devation hole every 100m
+          •   If drilling long sections with PDC bit , make a wiper trip every 500m , to ensure a
+
+            good hole condition.
+          •  The casing point will be specified by geologist on the rig
+
+      4.Make condition trip and spot 50bbl hi vis pill on bottom
+
+     5.POH to surface
+
+       6.Retrieve wear bushing
+
+      7.Run & cement 13 3/8" CSG to +/-2173 m as per programs
+
+       8.Pick up annular preventer
+
+        9.Install and set casing slip & seal assembly
+
+      10.Rough cut 13 3/8” casing, L/D cut of joint and landing joints
+
+      11.N/D annular preventer
+
+       12.Cut and dress 13 3/8” casing at proper height
+
+        13.Install 21 ¼’-2000 X 13 5/8”-3000 casing head spool.
+
+       14.pack 13 3/8”casing neck in bottom flange of casing head spool and conduct pressure test
+
+        seals & flanges up to 2000 psi
+
+       15.Nipple up spacer spool & 13 5/8” -5000 BOP stack ,perform full functional and pressure
+
+         test on BOP stack w/5000(3000) psi as per section No. 13 (BOP section)
+
+        16.Install wear bushing
+
+
+6.2.5. 17 ½” Hole BHA
+
+      The following is BHA for 17 ½” hole section:
+
+      17 1/2" Bit
+
+       Bit sub w/float valve &totco ring
+
+      9 1/2" drill collar 2joints
+
+      17 1/2” string stablizer
+
+      9 1/2" drill collar 1joints
+
+      8 1/2" drill collar 9 joints
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 16 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+      8 1/2" drilling jar
+
+      8 1/2" drill collar 3 joints
+
+      5” HWDP
+   • DHM may be used for performance drilling
+   •  To Ensure that Neutral point is below the jar while drilling
+
+
+     6.2.6. Bit hydraulic
+
+
+BIT CODE   WOB(1000LB) RPM  GPM      P.P.(PSI) NOZZLE SIZE MW REMARKS
+
+  111          5-15         60-80  700-800   1200-1500    3X16       67     drill out
+
+  114          20-45      100-140 900-1000  2000-2500   3X16      67-70   drlg 1000-1100
+
+  124(OR PDC) 30-40      120-140 800-900   2500-3000   3X16      65-70  drlg 1100-1600
+
+  134 (OR PDC)30-40      120-140 800-850   2500-3000    3X16      70-75   drlg 1600-CSP
+
+
+      6.2.7. Mud
+
+       This section will be drilled initially with 65 PCF bentonite mud, Increase mud weight w/salt
+
+       as hole condition dictates and according to the program issued by mud service company.
+          •  Variety of lost circulation materials should be kept on location
+
+
+   Hole    Depth (m) MW   MF      YP     PV    W.L   Mud Type
+
+  Section              (PCF)   VIS    (lb/100ft^2)   (CP)     (cc)
+
+  (inches)                     (SEC)
+
+                                                                BENTONITE
+   17 ½       2173     67-75    +35       10-15        4-5    N/C
+                                                      MUD
+
+
+      6.2.8. Casing program
+
+      6.2.8.1. Casing characteristics
+
+    SIZE  GRADE   WEIGHT(#)   THREAD  SETTING DEPTH(M)
+
+     13 3/8"  N-80        72        BTC         0-30 ( 3 jts)
+     13 3/8"   J-55        68        BTC        30-950
+
+     13 3/8"  N-80        72        BTC        950-1400
+
+     13 5/8"  N-80         88.2       BTC        1400-2173
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 17 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 39 ]
+────────────────────────────────────────────
+                                          WEAST PAYDAR #7
+             WELL DRILLING PROGRAMM
+ OOK                                                              OEID
+
+Casing Size & Specification        Depth (m)       Design      Collapse Safety
+
+                                   MW(PCF)           factor
+
+13 3/8”,J-55,68#,BTC                30-950          80             1
+
+
+13 3/8’’,N-80,72#,BTC              950-1400         80             1
+
+
+13 5/8 ‘’,N-80,88.2#,BTC           1400-2173         80             1
+
+
+
+                           Drift     Burst      Collapse    Yield      Make up
+    Casing
+                           (inch)      Pres.(psi)  Pres.(psi)   Stren.(klb)   torq.(ft-lbs)
+
+13 3/8”,J-55,68#,BTC      12.259     3450      1950       1069       Base of
+
+                                                                        Triangle
+
+13 3/8’’,N-80,72#,BTC     12.25(*)    5380      2670       1661       Base of
+
+                                                                        Triangle
+
+13 5/8 ‘’,N-80,88.2#,BTC  12.25(*)    6470      4070       2090       Base of
+
+                                                                        Triangle
+
+    (*) Special drift
+
+
+ 6.2.8.2.Casing equipment
+      •   Differential fill up shoe 13 5/8”,N-80 ,88.2#,BTC
+      •   Differential fill up collar 13 5/8”,N-80 ,88.2#,BTC
+      •  Top & bottom plugs
+      •   Centralizer  Bow type 13 3/8" x 17 ½”
+      •   Centralizer  Bow type 13 5/8" x 17 ½”
+      •   Centralizer   rigid type 13 3/8" x 18 5/8”
+
+
+   6.2.8.3 Casing string program
+
+        The string composition from bottom to top is as follows:
+      •  Shoe joint(shoe to be assembled on bottom of the joint prior to the job , Use thread
+
+          lock on shoe and casing connections
+      •  Shoe track joint
+
+
+    Tender No:
+                    ORIENTAL OIL KISH CO           Page 18 of 39   ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 39 ]
+────────────────────────────────────────────
+                                         WEAST PAYDAR #7
+           WELL DRILLING PROGRAMM
+OOK                                                              OEID
+
+     •   Float collar joint(collar to be assembled on bottom of the joint prior to the job, Use
+
+         thread lock on collar and casing connections.
+     •  Casing joints
+
+
+  6.2.8.4. Centralization program
+     •  Bow type : 5 NOS. on bottom 5 joints and 1 on every two joints in open hole and 1
+
+       on every five joints in cased hole
+     •  Rigid type : 2 NOS. on 3th and 4th joints from surface
+
+
+ 6.2.9.Cementing
+
+       The 13 3/8” casing will be cemented in one stage to surface using two types
+
+          slurry(tail & lead)
+     •   Tail cement slurry weight will be 115 PCF with cement class G (for shoe track &
+
+      150m of bottom hole)
+     •  Lead cement slurry weight will be 90 PCF with cement class G
+     •  100% Cement excess for open hole and 20% excess for cased hole will be
+
+         considered
+     •  Cementing program will be prepared and issued by cementing service company at
+
+         proper time.
+
+
+ 6.2.10.BOP and Wellhead
+     •  The 17 1/2” hole will be drilled by using 21 1/4”-2000 annular preventer
+     •  After running the 13 3/8” casing, the 21 ¼”-2000 x 13 5/8”-3000 casing head spool
+
+        and   13 5/8-5000 BOP stack w/ suitable spacer spool /DSA will be nipple up.
+     •  Test the 13 3/8” casing to 1500 psi. check for possible leaks on the wellhead.
+
+
+
+
+
+   Tender No:
+                   ORIENTAL OIL KISH CO           Page 19 of 39  ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+6.3. 12 1/4” Hole section (From 2173 to 2964.5m)
+
+   6.3.1.Phase objection
+
+      The section will be drilled from the 13 5/8” casing shoe(+/-2173m) down to 2964.5m
+
+      The aim of this phase is to case off Ghachsaran formations in order to isolate this high
+
+       pressure zone from low pressure Asmari Reservoir.9 5/8” CSG will be set In the “Cap
+
+      Rock” an anhydrite layer at the base of the Gachsaran formation .
+
+
+    6.3.2. Ggeology
+
+       Formation name               Lithology
+      Gachsaran Mbr 7&6         Anhy.+grymrl+lst
+
+      Gachsaran Mbr 5            Salt+anhy.+grymrl
+
+      Gachsaran Mbr 4            Salt+anhy.+grymrl
+
+      Gachsaran Mbr 3            Salt+anhy.+grymrl
+
+      Gachsaran Mbr 2            Salt+anhy.+grymrl
+
+      Cap Rock                  Anhy.+grymrl+lst
+
+
+     6.3.3. Hole problem & hazards
+
+          •  High pressure salt water flow is expected that is to be controlled by raising mud
+
+              weight.
+          •   loss & flow were observed while drilling this interval.
+          •   Differential sticking due to high mud weight were experienced while drilling this
+
+                section.
+          •  High surge and swab pressure may cause problems because of heavy mud weight
+
+            and high viscosity.
+          •  No hydrogen sulfide (H2S) or carbon dioxide(CO2) gasses were experienced in
+
+                drilling of near by wells.
+
+
+6.3.4 Sequence of operation:
+
+1. P/U 12 1/4" bit and M/U BHA
+          •  The wear bushing should be used while drilling
+
+2. RIH and drill out cement plugs, collar & shoe track to 2 m above the shoe
+          •  Pressure test casing up to 1000 Psi before drill out shoe
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 20 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+3. Displace hole volume with heavy mud weight.
+
+4. Drill ahead W/reduced RPM until stabilizer is out of casing shoe.
+          •  Perform L.O.T. to equal of 140 PCF mud weight @ below 13 5/8” casing shoe
+
+5. Continue drilling W/required RPM & WOB to +/-2964.5 m (9 5/8” CSG Point.)
+          •   Start drilling with 130 PCF mud and then increase MW according to near by wells to
+
+             135-138 PCF @ TD
+          •  Take particular care because of possible gain/losses problems in Gachsaran & CR
+
+              formations
+          •  Sweep hole @ TD with 50 bbl hi-vis pill
+          •  Run Totco to check hole deviation every 200m.
+          •  The casing point will be specified by wellsite geologist on the rig
+
+5. Make condition trip and spot 50bbl hi-Vis pill on bottom
+
+6. POH to surface
+
+7 Retrieve wear bushing.
+
+8. Run & cement 9 5/8" CSG to +/- 2964.5 m as per program.
+
+9. Pick up the BOP stack.
+
+10. Install and set casing slip & seal assembly.
+
+11. Rough cut 9 5/8” casing, L/D cut off joint and landing joints.
+
+12. N/D BOP stack and spacer spool
+
+13. Cut and dress 9 5/8” casing at proper height.
+
+14. Install 113 5/8”– 3000 X 11”-5000 Tubing head spool
+
+15.pack casing neck in bottom flange of THS and perform pressure test seals & flanges up to 3000-
+
+5000 psi
+
+16. Nipple up 13 5/8” -5,000 BOP stack with proper adapters as per section No. 13 (BOP section),
+
+test BOP stack W/5000 psi
+
+17. Install wear bushing
+
+
+6.3.5. BHA
+
+      The following BHA is for 12 ¼” hole section;
+
+      12 1/4" Bit
+
+       Bit sub w/float valve & totco ring
+
+      8 1/2" drill collar 2 joints
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 21 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+      12 ¼” String Stabilizer
+
+      8 1/2" drill collar 13 joints
+
+      8 1/2" drilling jar
+
+      6 1/2" drill collar 3 joints
+
+      5” HWDP
+   • DHM may be used for performance drilling
+   •  Ensure that Neutral point is below jar while drilling
+
+
+6.3.6. Bit hydraulic
+
+BIT CODE WOB(1000LB) RPM  GPM     P.P.(PSI)  NOZZLE SIZE MW REMARKS
+
+  214        10-20       80-100  500      2600         3x16       130      drill out
+
+  PDC      20-40       180   550-500  2800-3000      *        130-135  all hole section
+
+* To be advised by PDC bit company
+
+6.3.7. Mud
+
+       This section will be drilled with saturated salt water base mud (130-138 pcf) . Barite will be
+
+       used to increase mud weight from 75 PCF to the required mud weight.
+          •  Other chemicals will be used as per mud service company program
+          •  Variety of lost circulation material should be kept on location
+
+   Hole    Depth  MW    MF      YP      PV   W.L    Mud Type
+
+  Section    (m)    (PCF)    VIS     (lb/100ft^2)   (CP)     (cc)
+
+  (inches)                   (SEC)
+
+   12 ¼    2964.5   130-138   50-60       20-25     30-40      0.5   SALT SAT. MUD
+
+
+6.3.8. Casing
+
+6.3.8.1. Casing characteristics
+
+SIZE  GRADE  WEIGHT (#/FT)  THREAD   SETTING DEPTH(M)
+9 5/8”    L-80        53.5        BTC          0-30 (3 jts)
+
+9 5/8”    L-80        43.5        BTC          30-1100
+
+9 5/8”    L-80       47          BTC          1100-1440
+
+9 5/8”    L-80       53.5         BTC          1440-2070
+
+9 5/8”   P-110       53.5         BTC          2070-2480
+
+9 5/8”   V150       53.5          .BTC          2480-2964.5
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 22 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+
+
+   Casing Size & Specification        Depth (m)       Design      Collapse Safety
+
+                                      MW(PCF)           factor
+
+   9 5/8’’,L-80,43.5#,BTC              30-1100         140             1
+
+
+   9 5/8’’,L-80,47#,BTC               1100-1440        140             1
+
+
+   9 5/8’’,L-80,53.5#,BTC             1440-2070        140             1
+
+
+   9 5/8’’,P-110,53.5#,BTC            2070-2480        140             1
+
+
+   9 5/8’’,V-150,53.5#,BTC           2480-2964.5       140             0.94
+
+
+
+                               Drift     Burst      Collapse    Yield      Make up
+       Casing
+                               (inch)      Pres.(psi)  Pres.(psi)   Stren.(klb)   torq.(ft-lbs)
+
+   9 5/8’’,L-80,43.5#,BTC     8.599     6330      3810       1005       Base of
+
+                                                                            Triangle
+
+   9 5/8’’,L-80,47#,BTC       8.525     6870      4750       1086       Base of
+
+                                                                            Triangle
+
+   9 5/8’’,L-80,53.5#,BTC      8.5(*)     7930      6620       1244       Base of
+
+                                                                            Triangle
+
+   9 5/8’’,P-110,53.5#,BTC     8.5(*)     10900      7930       1712       Base of
+
+                                                                            Triangle
+
+   9 5/8’’,V-150,53.5#,BTC    8.5(*)     14860      8970       2251       Base of
+
+                                                                            Triangle
+
+        (*) Special drift
+
+6.3.8.2. Casing equipment
+          •   Differential fill up shoe V-150 , 53.5#  , BTC
+          •   Differential fill up collar V150 , 53.5# , BTC
+          •  Top & bottom plugs for casing
+          •   Centralizer Bow type 9 5/8" x 12 1/4”
+          •   Centralizer rigid type 9 5/8" x 13 3/8”
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 23 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+6.3.8.3. Casing string program
+
+            The string composition from bottom to top is as follows:
+          •  Shoe joint(float shoe already assembled on bottom of the joint, Thread lock to be
+
+             used on shoe and casing connections.
+          •  Shoe track joint
+          •  Collar joint(cementing collar already assembled on bottom of the joint, Thread lock
+
+               to be used on shoe and casing connections.
+          •  Casing joints
+
+
+6.3.8.4. Centralization program
+          •  Bow type : 5 NOS. on bottom 5 joints ,1 on. every two joints in open hole and 1 on
+
+              every five joints in cased hole
+          •  Rigid type : 2 NOS. on 3th and 4th joints from surface
+
+
+6.3.9.Cementing
+
+            The 9 5/8” casing will be cemented in one stage using two slurry types(tail& lead) :
+          •   Tail cement slurry weight will be 115 PCF with cement class G(for shoe track &
+
+           150m of bottom hole)
+          •  Lead cement slurry weight will be 140 PCF with cement class G
+          •  100% Cement excess for open hole and 20% excess for cased hole will be
+
+              considered
+          •  Cementing program will be prepared by cementing company and will be issued at
+
+               appropriate time.
+
+
+6.3.10.BOP and wellhead
+          •  The 12 1/4” hole will be drilled with 13 5/8”-5,000 BOP stack as per section No. 13
+          •  After running the 9 5/8” casing, the 13 5/8” – 3000 X 11”-5000 Tubing head spool
+
+            and 13 5/8-5,000 BOP stack will be nippled up
+
+             Note: Proper size of spacer spool should be available on the rig
+          •  Test 9 5/8” casing to 1500 psi. check for possible leaks on the wellhead.
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 24 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+6.4. 8 ½” Hole section (From 2964.5 to 4107md (3986TVD) )
+
+   6.4.1.Phase objection
+
+       This section will be drilled from the 9 5/8” casing shoe(+/-2964.5 m) down to 4107md
+
+      The kick off , build up and land the well will be achieved in this phase. This phase is critical
+
+       as it penetrates a zone with possible losses(Asmari) and the reactive shales of the Pabdeh &
+
+      Gurpi formations.7” liner will be run in Sarvak formation
+
+
+    6.4.2. Ggeology
+
+    Formation name                      Lithology
+      Asmari                            Lst+sst+dol
+
+      Pabdeh                             Shale+lst
+
+      Gurpi                               Shale+lst
+
+       Ilam                                 Shale+lst+clst
+
+       Sarvak                            Lst+dol+shale
+
+
+     6.3.3. Hole problem & hazards
+
+          •  Take particular care because of possible lost circulation problems in the Asmari and
+
+             Sarvak formations and pipe stuck in shale zones of Pabdeh & Gurpi Formations
+          •   In this section, drilling is performed the throughout the reservoir, with high risk of
+
+                differential sticking. BHA design will be adjusted to reduce differential sticking
+
+             problems and in parallel, dedicated additives and bridging agent will be added to the
+
+          mud to prevent seepage losses
+        •  In Sarvak reservoir ,the sour gasses concentration were measured in PYW#1 well as
+
+            430 ppm H2S but the indication of H2S & CO2 to be monitored and measured while
+
+                drilling in Sarvak Formation
+
+
+6.4.4 Sequence of operation:
+
+1. P/U 8 1/2" bit and M/U conventional BHA
+          •  The wear bushing should be used while drilling
+
+2. RIH and drill out plugs, collar & shoe track to 2 m above shoe
+          •  Pressure test casing up to 1000 before drill out shoe
+
+3. Displace hole volume with OBM..
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 25 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+4. Drill out shoe and cont. drilling to KOP +/-3757 m (8m through Ilam formation)
+          •  Perform L.O.T. to equal of 80 PCF mud weight @ below 9 5/8” shoe
+          •   Start drilling with 70 PCF mud and then adjust MW as hole condition (there will be
+
+            200 psi overbalance on Asmari reservoir pressure with using 70 PCF mud weight)
+
+5.POH to surface, M/U directional BHA and RIH to bottom (KOP)
+
+6.Sidetrak and drill ahead directionally, as per directional plan to landing point (LP @+/- 4107md
+
+(3986 tvd)).The well will be built from zero to 87.2 degree during this phase and the azimuth will
+
+be 99 throughout the section.
+          •  Sweep hole @ TD with 50 bbl hi-vis pill
+          •  Casing point will be specified by wellsite geologist
+          •   Directional BHA will be specified by Directional service Co.
+          •  Make particular care to lost circulation in Sarvak formation(there will be 600 psi
+
+              overbalance on Sarvak reservoir pressure with using 70 PCF mud weight)
+
+7. Perform condition trip and spot 50bbl hi-Vis pill on bottom
+
+8. POH to surface
+
+9. Retrieve wear bushing.
+
+10. Run & cement 7”liner from 2900 to 4107m as per program.
+
+11. Install wear bushing
+
+
+6.4.5. BHA (for vertical section)
+
+      The following is BHA for 8 ½” hole section:
+
+      8 ½” Bit
+
+       Bit sub w/float valve & totco ring
+
+      6 1/2" spiral drill collar 18 joints
+
+      6 1/2” drilling jar
+
+      6 1/2" spiral drill collar 3 joints
+   • DHM may be used for performance drilling
+   •  Ensure that Neutral point is below the jar while drilling
+
+6.4.6. Bit hydraulic
+
+BIT CODE  WOB(1000LB) RPM  GPM     P.P.(PSI)  NOZZLE SIZE MW REMARKS
+
+  214        10-15         80-90  350      1500         3x15       70      drill out
+
+517 or PDC   20-30        100-130 450     1600-2000       *         70-75   all hole section
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 26 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+* To be advised by PDC bit company
+
+
+6.4.7. Mud
+
+       This section will be drilled with OBM mud (70 PCF) Increase mud weight w/ limeston
+
+      Powder as per program of mud service company.
+                •   In order to prevent reservoir damage, mud weighting agent and LCM (if
+
+                      required to cure mud losses) will be Calcium Carbonate based materials(acid
+
+                       soluble)
+
+   Hole    Depth  MW    MF      YP      PV    W.L    Mud Type
+
+  Section    (m)   (PCF)    VIS      (lb/100ft^2)    (CP)       (cc)
+
+ (inches)                   (SEC)
+
+   8 1/2    4107    70-75     30-40       15-20      10-15      <5    OBM
+
+
+
+
+6.4.8. Liner
+
+6.4.8.1. Liner characteristics
+
+SIZE  GRADE  WEIGHT (#/FT)  THREAD   SETTING DEPTH(M)
+7”      N-80       29          BTC         2900-4107
+
+    Casing Size & Specification       Depth (m)       Design      Collapse Safety
+
+                                      MW(PCF)           factor
+
+   7”L,N-80,29#,BTC                 2900-4107         78              0.99
+
+
+
+
+                               Drift     Burst      Collapse    Yield      Make up
+       Casing
+                               (inch)      Pres.(psi)  Pres.(psi)   Stren.(klb)   torq.(ft-lbs)
+
+   7”L,N-80,29#,BTC        6.125(*)    8160      7020        676        Base of
+
+                                                                                   Triangle
+
+        (*) Special drift
+
+6.4.8.2. Liner equipment
+          •   Float shoe N-80 , 29#  , BTC
+          •  Landing collar N-80 , 29# , BTC
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 27 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+          •  Liner hanger w/accessories
+          •   Drill pipe wiper plug for 5” DP-19.5#
+          •  Liner wiper plug for 7”,29# Liner
+          •   Centralizer  standard type 7” x 8 1/2”
+          •   Centralizer   rigid type 7" x 9 5/8”
+
+6.4.8.3. Liner string program
+
+            The string composition from bottom to top is as follows:
+          •  Shoe joint(float shoe already assembled on bottom of the joint, both connections
+
+              thread-locked)
+          •  Shoe track joint
+          •  Collar joint(cementing collar already assembled on bottom of the joint, both
+
+              connections thread-locked)
+          •  Liner joints
+          •  7” hydraulic Liner hanger complete set consist of:
+
+              Liner hanger N-80,29#,BTC
+
+         LG Collar (setting collar) N-80,29#
+
+              Tie back sleeve N-80,29#
+
+
+6.4.8.4. Centralization program
+          •  Bow type : 5 NOS. on bottom 5 joints and 1 on. every joint in deviated and 1 on.
+
+             Every two joints in vertical open hole
+          •  Rigid type : 2 NOS. on 2th and 3th joints below liner hanger
+
+
+6.4.9.Cementing
+
+            The 7” casing will be cemented in one stage using one type of slurry:
+          •  Cement slurry weight will be 115 PCF with cement class G
+          •  100% Cement excess for open hole and 20% for cased hole will be considered
+          •  Cementing program will be prepared and issued by cement service company at
+
+               appropriate time.
+
+6.4.10.BOP
+          •  8 1/2” hole will be drilled by using 13 5/8”-5,000 BOP stack
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 28 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+6.5. 6 1/8” Hole section (From 4107md(3986 tvd) to 4900md(4024tvd))
+
+   6.5.1.Phase objection
+
+      The aim of the drilling phase is to drill a +/- 800m long horizontal drain in Sarvak reservoir
+
+      which is the 7” liner shoe(+/-4107 md) down to 4900 md (TD)
+
+
+    6.5.2. Ggeology
+
+    Formation name                      Lithology
+       Sarvak                            Lst+dol+shale
+
+
+     6.5.3. Hole problem & hazards
+
+          •  Take particular care because of possible lost circulation problems in the Sarvak
+
+              formation
+          •   In this section, drilling is performed the throughout the reservoir, with high risk of
+
+                differential sticking. BHA design will be adjusted to reduce differential sticking
+
+             problems and in parallel, dedicated additives and bridging agent will be added to the
+
+          mud to prevent seepage losses
+        •  In Sarvak reservoir ,the sour gasses concentration were measured in PYW#1 well as
+
+            430 ppm H2S but the indication of H2S & CO2 to be monitored and measured while
+
+                drilling in Sarvak Formation
+
+
+6.5.4 Sequence of operation:
+
+ 1. P/U 8 ½” bit & scraper and M/U BHA
+          •  The wear bushing should be used while drilling
+
+2. RIH and drill out cement to top of liner lap(+/-2900m),CBU and POH
+
+3. P/U 6 1/8” bit and M/U new BHA
+
+4. RIH and drill out cement and clean out liner to top of LDC
+
+5. Perform liner lap pressure test up to 1500 psi ,POH
+
+            a)  If there is any leakage ,RIH W/ cement assembly(5” drill pipe with RTTS packer) to
+
+            40 m above liner lap and perform cement squeeze job in liner lap w/max. 2000
+
+            psi,POH and repeat steps 1 to 5
+
+           b) Take injection rate prior cement squeeze job in liner lap with maximum of 2000 Psi
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 29 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+          Note: cement squeeze program will be issued at appropriate time by cementing
+
+           service company,
+
+6. P/U DST tools and RIH to top of liner to conduct the dry test.
+
+           a)  fill up 2000 m of DP W/water as water cohesion(there will be about 1500 psi
+
+             pressure differential compare to Asmari Reservoir pressure) W/this water
+
+             cohesion)
+
+          b)  set packer 30m above liner lap, flow the well to check if there is any leakage from
+
+             behind the liner.
+
+            c)  If there is any leakage ,POH with DST tool and repeat step 5a otherwise proceed set
+
+            7
+
+           d) Take injection rate with 2500 PSI prior to cement squeeze job.
+
+          Note: if there is cement on the liner lap and pressure test is OK., the above
+
+          step(Dry test) will be disregarded.
+
+7. POH and lay down DST tools
+
+8. P/U 6 1/8” bit & M/U Directional BHA
+
+9. RIH and drill out plugs, collar & shoe W/reduce rate of drilling parameters.
+
+10.Cont. drilling formation horizontally as per directional program W/required RPM & WOB to TD
+
+(+/-4900 md.)
+          •   Start drilling with 65 PCF mud (use existing OBM) and adjust MW as hole
+
+              condition dictates(there will be 200 psi overbalance on Sarvak reservoir pressure by
+
+              using 65 PCF mud weight)
+          •   In this section, drilling is performed throughout reservoir, with high risk of
+
+                differential sticking. Sliding time and BHA design will be adjusted to reduce
+
+                differential sticking problems and in parallel, dedicated additives and bridging agent
+
+               will be added to the mud to prevent seepage losses
+          •  Sweep hole @ TD with 30 bbl hi-vis pill
+          •   Directional BHA will be specified by Directional service Co.
+
+11. Make condition trip and spot 30bbl hi-Vis pill on bottom
+
+12. POH to surface
+
+13. Retrieve wear bushing.
+
+14. Run completion string as per completion program
+          •   Stimulation, testing and completion program will be dispatched on time.
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 30 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+15. N/D BOP and N/U X-Mass tree as per attached sketch
+          •  Consider two safety barrier while N/D & N/U
+
+16. Flow the well if possible
+
+17. Release the rig
+
+
+6.5.2. BHA
+
+           Directional BHA will be specified by Directional service Co.
+
+
+6.5.5. Bit hydraulic
+
+BIT CODE  WOB(1000LB) RPM  GPM     P.P.(PSI)  NOZZLE SIZE MW REMARKS
+
+  214        10-15         70-80   300      2000         3x15       65      drill out
+
+517 or PDC   20-35      DD   DD     2500-3000     DD       65     all hole section
+
+*To be advised by PDC bit company
+
+
+6.5.6. Mud
+
+       This section will be drilled with the same OBM mud that were used in 8 ½” hole (65 pcf)
+
+       Adjust mud weight w/limeston powder as hole condition dictates and according to service
+
+      company mud program.
+                •   In order to prevent reservoir damage, mud weighting agent and LCM (if it is
+
+                      required to cure mud losses) will be Calcium Carbonate based materials(acid
+
+                       soluble)
+
+   Hole     Depth  MW    MF      YP     PV    W.L    Mud
+
+  Section     (m)     (PCF)     VIS     (lb/100ft^2)   (CP)      (cc)     Type
+
+  (inches)                      (SEC)
+
+
+   6 1/8      4900      65      25-30       15-20     8-10      <5    OBM
+
+
+
+6.5.7.BOP
+          •  The 6 1/8” hole will be drilled by using 13 5/8”-5,000 BOP stack as per section
+
+            No.13 of drilling program.
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 31 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+7. CASING/LINER RUNNING & CEMENTING PROCEDURE
+
+    (for 13 3/8”,9 5/8” & 7”liner)
+
+7.1.CASING /LINER RUNNING
+
+. Preparation procedures
+          •  remove thread protectors
+          •   drift all casing joints to bit size
+          •  clean all pins and boxes
+          •   inspect all pins and boxes for possible damage. Damaged casing joint should be
+
+            marked and identified as rejected and sent back to ware house
+          •  Measure all casing joints and clearly paint mark them all
+          •  Visually inspect shoe and collar for proper operation and any obstruction
+          •  Pup joints with proper length should be available on location.
+
+            . Casing running procedures
+          •  R/U the make up equipment
+          •  P/U the air operated spider elevators and the top drive casing fill-up system
+          •  Set the casing joints on hand slips
+          •  P/U shoe track joints(2 joints) and RIH
+          •  P/U the collar joint and RIH(M/U this connection with the
+
+             Thread locking compound)
+          •  Break circulation to check that float valves are is working properly.
+          •  Cont. running casing and fill up casing string every 5 joints
+          •  Note:   1.install centralizer as per program
+
+                      2.Circulate and work through any tight spots if necessary
+          •  Once the casing is on bottom then pick up 0.5 m, drop ball for floating shoe, pump
+
+              1.5 times casing volume.
+
+      Note:  Ensure that casing coupling is clear from slips area in casing head
+          •  Rig up cementing equipment and cement the casing as per program.
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 32 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 39 ]
+────────────────────────────────────────────
+                                         WEAST PAYDAR #7
+           WELL DRILLING PROGRAMM
+OOK                                                              OEID
+
+  Liner running procedures
+     •  R/U the make up equipment
+     •  Make up top drive cementing head(already loaded with drill pipe pump down plug
+
+        and hanger setting ball) on a 5” drill pipe pup joint and rack it back in derrick.
+
+        Note: all drill pipes below cementing head should be drifted
+     •  M/U and run shoe track:
+
+                -1 x Shoe joint: float shoe with 7” liner joint (connections to be made up by
+
+               using lock compound)
+
+                -1 x Landing collar joint: 7” liner joint with landing collar (connection
+
+               connections to be made up by using lock compound)
+     •   Float valves are working properly
+     •  Cont. running liner and fill up the string every 5 joints
+     •  Note:   1.install centralizer as per program
+
+                 2.Circulate and work through any tight spots if necessary
+     •  Make up the liner hanger w/accessories to the liner string
+     •  Run drill pipe (equipped w/liner hanger setting tools),filling 5 stands
+     •  Tag bottom of the hole with circulation then circulate to condition mud(at least
+
+          internal liner+DP volume),while circulating reciprocate liner string and record pick-
+
+       up and slack –off weights.
+     •  Space out liner hanger to insure that the hanger isn’t located across a casing
+
+        coupling
+     •  Drop the setting ball and pump down the ball until pressure increase,set the hanger
+     •  Bleed off pressue and release the liner running tool (Be carefull not to get the pack
+
+         off bushing out of the tie back sleeve when checking that running tool has been
+
+         released from the hanger,always keep 1 m safety margin
+     •  Pressure up string and shear ball seat,once the ball has been sheared, break ciculation
+
+        and pick up string to previous free pick up weight + 1m
+     •  Perform cement job as per program
+     •   Pull retrieve pack off bushing out of the liner hanger,POH 3 stands and reverse out
+
+         1.5 times the running string volume,check for spacer and/or cement slurry return
+     •  POH liner running string and lay down liner running tools
+
+
+
+   Tender No:
+                   ORIENTAL OIL KISH CO           Page 33 of 39  ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+   OOK                                                              OEID
+
+7.2. CEMENTING
+
+     Preparation procedures
+
+              Prior to starting or during any job:
+         •  Conduct a safety meeting with all personnel involved
+         •  The cement unit will be thoroughly checked
+         •  The lines will be flushed with mixing water
+         •  The lines will be tested to 3500 psi
+         •  Volume calculations and displacement will be done by Co. man ,mud Eng. and
+
+            cement Eng.
+         •  The cement density will be checked by the mud Eng. on location
+
+
+      Cementing procedure
+
+           The cementing procedure will be as follows:
+         •  R/U cementing head and circulating lines.
+         •  Pump the required pre-flush and spacer fluids
+         •  Drop bottom plug(for casings) ,Mix and pump the lead and tail slurry  , monitor for
+
+              losses and reduce rate if losses are observed
+         •  Drop top plug and displace the cement to collar
+         •  Bump the plug
+
+                   Note: record and report final displacement pressure prior to Bump plug
+
+                Max. over displacement is the volume equivalent to ½ shoe track
+
+                        If plug bumps,casing is to be pressure tested just after bumping the plug
+
+                     to 1000 psi for 10 min.
+         •  Bleed off pressure and check for back flow
+         •  R/D cement head and circulating lines.
+
+
+
+
+
+       Tender No:
+                       ORIENTAL OIL KISH CO           Page 34 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 39 ]
+────────────────────────────────────────────
+                                           WEAST PAYDAR #7
+             WELL DRILLING PROGRAMM
+  OOK                                                              OEID
+
+8.CASING PROGRAM
+
+8.1 Casing Table
+
+
+ Casing Size & Specification        Depth (m)       Design      Collapse Safety
+
+                                    MW(PCF)           factor
+
+ 18 5/8”,J-55,96.5#,BTC                0-60           65               7.1
+
+
+ 13 3/8”,J-55,68#,BTC                30-950          80             1
+
+
+ 13 3/8’’,N-80,72#,BTC              950-1400         80             1
+
+
+ 13 5/8 ‘’,N-80,88.2#,BTC           1400-2173         80             1
+
+
+ 9 5/8’’,L-80,43.5#,BTC              30-1100         140             1
+
+
+ 9 5/8’’,L-80,47#,BTC               1100-1440        140             1
+
+
+ 9 5/8’’,L-80,53.5#,BTC             1440-2070        140             1
+
+
+ 9 5/8’’,P-110,53.5#,BTC            2070-2480        140             1
+
+
+ 9 5/8’’,V-150,53.5#,BTC           2480-2964.5       140             0.94
+
+
+ 7”L,N-80,29#,BTC                 2900-4107         78              0.99
+
+
+
+
+
+     Tender No:
+                     ORIENTAL OIL KISH CO           Page 35 of 39    ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 39 ]
+────────────────────────────────────────────
+                                            WEAST PAYDAR #7
+              WELL DRILLING PROGRAMM
+   OOK                                                              OEID
+
+8.2   Casing Mechanical Characteristics
+
+
+                             Drift     Burst      Collapse    Yield      Make up
+      Casing
+                             (inch)      Pres.(psi)  Pres.(psi)   Stren.(klb)   torq.(ft-lbs)
+
+  18 5/8”,J-55,96.5#,BTC      17.5      2250       630        1329       Base of
+
+                                                                          Triangle
+
+  13 3/8”,J-55,68#,BTC      12.259     3450      1950       1069       Base of
+
+                                                                          Triangle
+
+  13 3/8’’,N-80,72#,BTC     12.25(*)    5380      2670       1661       Base of
+
+                                                                          Triangle
+
+  13 3/8 ‘’,N-80,88.2#,BTC  12.25(*)    6470      4070       2090       Base of
+
+                                                                          Triangle
+
+  9 5/8’’,L-80,43.5#,BTC     8.599     6330      3810       1005       Base of
+
+                                                                          Triangle
+
+  9 5/8’’,L-80,47#,BTC       8.525     6870      4750       1086       Base of
+
+                                                                          Triangle
+
+  9 5/8’’,L-80,53.5#,BTC      8.5(*)     7930      6620       1244       Base of
+
+                                                                          Triangle
+
+  9 5/8’’,P-110,53.5#,BTC     8.5(*)     10900      7930       1712       Base of
+
+                                                                          Triangle
+
+  9 5/8’’,V-150,53.5#,BTC    8.5(*)     14860      8970       2251       Base of
+
+                                                                          Triangle
+
+  7”L,N-80,29#,BTC        6.125(*)    8160      7020        676        Base of
+
+                                                                          Triangle
+
+
+      (*) spécial drift
+
+
+
+
+
+       Tender No:
+                      ORIENTAL OIL KISH CO           Page 36 of 39     ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+9.MUD PROPERTIES
+
+
+   Hole    Depth  MW   MF      YP     PV  W.L   Mud     Consumption
+  Section    (m)   (PCF)   VIS    (lb/100ft^2)  (CP)   (cc)    Type        material
+
+ (inches)                 (SEC)
+
+                                                        BENTONIT
+    26      60      65     +100          ----          ----   N/C
+                                               MUD      Bentonite(150)
+                                                        BENTONIT     Salt(200T)   17 ½    2173    67-75    +35       10-15       4-5  N/C
+                                               MUD
+
+                                                SALT     Barite(1500T)
+                     130-
+   12 ¼    2964.5           50-60      20-25     30-40   0.5    SAT.     Fer-OBar(100T)
+                    138                                                                                        Salt(800T)                                       MUD
+
+   8 1/2    4107    70-75    30-40      15-20     10-15    <5
+                                                                                        Limeston(300T)
+                                        OBM
+                                                                                 Salt(150T)
+   6 1/8    4900     65     25-30      15-20     8-10   <5
+
+Note: the detail of mud program will be issued by mud SER. CO.
+
+
+10.CEMENTING PROGRAM
+
+  CASING  CEMENTING    SLURRY WEIGHT        REMARKS
+
+          STAGE        LEAD     TAIL
+
+   18 5/8”       One stage              --       15.7 PPG  CMT class “G”(40T) + additives
+                                                      for 60m     100% excess for open hole
+                                             20% excess for cased hole
+    13 3/8”      One stage       12 PPG    15.7 PPG  CMT class “G”(80T) + additives
+                                       to surface    for 150m     100% excess for open hole
+                                             20% excess for cased hole
+    9 5/8”       One stage      18.7PPG    15.7 PPG  CMT class “G”(170T)+additives
+                                        to seabed    for 150m     100% excess for open hole
+                                             20% excess for cased hole
+   7” Liner      One stage              --       15.7 PPG   CMT class “G”(35) + special
+                                      1207m      additives for high temperature
+                                               100% excess for open hole
+                                             20% excess for cased hole
+
+
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 37 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+   OOK                                                              OEID
+
+11. WELL EVLUATION
+
+ 11.1   Logging Program
+
+HOLE SIZE            LOG            REMARKS
+
+    (IN)
+
+ 8½”& 6 1/8”        MWD                     In open hole
+
+
+
+
+
+   11.2. Sampling
+
+  Samples are to be taken according to the following program:
+
+  Formation         Hole size        Depth (m)                 operation
+
+      Aghajari           17-1/2”            1800               Every 5m sampling
+
+    Gachsaran          12-1/4”            2048               Every 2m sampling
+
+      Asmari            8-1/2”             2998               Every 2m sampling
+
+      Pabdeh            8-1/2”             3388               Every 4m sampling
+
+      Gurpi             8-1/2”             3612               Every 4m sampling
+
+       Ilam             8-1/2”             3758               Every 4m sampling
+
+      Sarvak            6-1/8”             3854.5              Every 2m sampling
+
+   •  RTE=77m
+   •   for precise casing point and formation top determination samples may be taken in1 m or o.5
+
+   m interval if necessary
+   •  Thin section:
+
+   Two thin sections will be made from each sample (Alizarinred coloring) as specified by
+
+    resident geologist for Geological and paleontological purposes
+
+
+
+
+
+       Tender No:
+                      ORIENTAL OIL KISH CO           Page 38 of 39      ED287-PW/TDL03
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 39 ]
+────────────────────────────────────────────
+                                             WEAST PAYDAR #7
+               WELL DRILLING PROGRAMM
+    OOK                                                              OEID
+
+12.TIME BREAK DOWN
+
+          HOLE SIZE      26”     17 ½”   12 ¼”   8 1/2”   6 1/8”  TOTAL
+
+        OPERATION
+
+        DRILLING             10      330     234     384     168     1126
+
+       ROUND TRIP           2       72      30      90      24      218
+
+       HOLE CONDITION     2       30      30      72      24      158
+
+        BOP TEST                     12      12      30      12       66
+
+        SURVEY                       6       6                       12
+
+        CASING RUNNING     12      36      48      48              144
+
+       CEMENTING           4       6       10       8               28
+
+         N/D & N/U W/H         24      48      48                      120
+
+        DRILL OUT            6       12      20      100              138
+
+       LOGGING
+
+       WELL TESTING
+
+        CORING
+
+        REPAIR& RIG SER.            18      20      36      12       86
+
+       CONTINGENCY                18      52      84      30      184
+
+       COMPLETION                                         120      120
+
+        SUM(HRS)             60      588     510     852     390     2400
+
+
+13. BOP TEST
+
+          •  perform BOP test every week
+          •  spacer spool should be available on rig for each section
+          •  13 5/8-5000 BOP stack is consist of 13 5/8”-5000 single & daul ram BOP and 13
+
+             5/8”-3000 annular preventer
+          •  After N/U BOP stack ,RIH with test plug and test the interfaces 13 5/8” BOP –riser-
+
+               wellhead,kill & choke lines-BOP to 5000 psi.,POH the test plug
+
+
+14.WELL HEAD
+
+As per attached sketch.
+
+
+
+        Tender No:
+                       ORIENTAL OIL KISH CO           Page 39 of 39      ED287-PW/TDL03
+
+

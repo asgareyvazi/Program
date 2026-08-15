@@ -1,0 +1,298 @@
+# SOURCE: AZNS-118 9.625″ Casing Cementing Program (3).pdf
+
+📄 فایل 179 از 214  |  AZNS-118 9.625″ Casing Cementing Program (3).pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         Well AZNS-118
+9 5/8〞intermediate Casing Cementing
+            Program
+
+Design By: Liu Shouxiang
+
+Review By: Yu Fei
+
+Approved By: Ali Zamani
+
+Date: Aug. 08, 2016
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+I.WELL INFORMATION
+
+1. Basic Data
+
+      Well            Field         Client       Well Type         Primary method
+
+   AZNS-118    South Azadegan  PEDEX   Development Well   Double Plug Cementing
+
+2. Well Configuration
+
+   Hole Size (in)    Hole Section (m)  Casing Size (in)   Setting Depth (m)   TOC (m)
+
+      17 1/2          154~1396          13 3/8           0~1395            Surface
+
+      12 1/4          1395~1780          9 5/8            0~1779            Surface
+
+3. Design Drilling Fluid Property
+
+              Description                    Unit                 Parameter
+
+                Density                        Pcf                    115-125
+                 Viscosity                     Sec                      55-65
+             PV                         cp                     12-20
+             YP                             lb/ 100 ft2                  14-18
+              Gel 10''/10'                       lb/ 100 ft2                      6/9
+             CL-/Ca++                      mg/l                  183000/600
+                Fluid Loss                       cc                    <4
+
+4. Cementing Method
+
+   Primary Method
+
+5. Casing String Structure
+
+5.1 Casing String Design
+
+   OD      ID     Set Interval   Weight    Steel               Minimum Safety Factor
+                                                    Connection
+      (in)        (in)        (m)       (PPF)   Grade                    Burst         Collapse
+
+    9 5/8      8.681     0~1779       47      L80             -          6870         4750
+
+5.2 Casing String Structure
+
+   9 5/8" Float Shoe+9 5/8"casing (L80, 47#) × 2joints+9 5/8" Float Collar+9 5/8" Casing
+   String (L80, 47#) + Casing Hanger
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+5.3 Casing Centralizer Installment
+
+      Interval           Centralizer Type                Installation Principle        Quantity
+
+                                                 Shoe track: 1 for every joint
+                  Bow spring (open hole)                                            18
+                                              Above shoe track: 1 for every 2 joints      0~1779 m
+                            Rigid bow (Overlap)        1 for every 3 joint                       40
+
+II. Cementing Program
+
+1. Cement Slurry Property Design
+
+                                      Thickening      Isolated     Compressive    Fluid
+     Category      Density  BHCT
+                                    Time         Interval       Strength      Loss
+
+       Lead         130pcf              300-380min      0-1579m      ≥7Mpa    ≤150ml
+                               140˚F
+          Tail          118pcf              180-240min    1579-1779m    ≥7Mpa    ≤150ml
+
+ 2. The Cementing Slurry Calculation
+
+                             Hole Section, m        Length      Hole Size    Ann. Cap.    Section Vol.
+    No.        Item
+                          from          to      m          inch         bbl/m           bbls
+
+                            0         1395        1395         12.415         0.195          272.03
+     1       Over lap
+                                              20% Excess                           326.43
+
+                             1395        1579         184          12.25          0.183          33.67
+
+                                                 70%Excess                                    57.24
+     2     Open Hole
+                             1579        1779         200          12.25          0.183          36.60
+
+                                                100% Excess                            73.20
+
+     3      Shoe Track      1779        1758         21           8.681           0.24            5.04
+
+     4        Rat Hole        1780        1779         1            12.25          0.480           0.48
+
+     5                                   Sub-Total( Lead slurry)                                     383.67
+
+     6                                   Sub-Total( Tail slurry)                                      78.72
+
+     7                                         Total Volume                                         462.39
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+3. Mud Displacement Calculation
+
+            OD        ID        Length      Unit Volume      Volume
+    Tubular
+                          (in)             (in)          (m)           (bbl/m)             (bbl)
+     Casing          9.625         8.681        1758.00           0.24             422
+                                  Total Volume                                    422
+                          Displaced by cementing unit                              12
+                          Displaced mud by rig pump:                              410
+
+4. Ahead Fluid Design
+
+    Fluid type    Density   Length   Ann. Volume    Base Fluid   Mixing Water volume
+
+      Spacer       64.4pcf    55m         10bbls      Chemical Wash            10bbls
+
+5. Cementing Procedure
+
+5.1 PRE-JOB
+
+(1) Prepare Lead cement blending 90t, Tail cement 17t.
+
+(2) Fill up Tanks with 500bbls Fresh Water for mixing Fluid.
+
+(3) Mix 283bbl fluid in water tank for lead slurry and spacer. Mix 98bbl fluid in water tank for tail slurry.
+
+5.2 Cementing Pumping Program
+
+                                      Density   Pumping Rate              Estimated                                                        Volume
+  No.        Job Procedure                      (BBl/min)                Time
+                                                 (pcf)                     (BBl)        (min)
+   1   Flush line & pressure test             62.50        4 ~ 6        5           15
+   2   Pumping spacer                     64.40        4 ~ 6        10          2
+   3   Release bottom plug                                                     2
+   4   Pumping lead slurry                 130.00       8 ~ 10       384          43
+   5   Pumping tail slurry                  118.00       4 ~ 6        79          16
+   6   Release top plug with tail slurry       118.00       4 ~ 6        6           3
+   7   Pumping tail solution                 64.40        4 ~ 6        6           2
+   8   Displacement by rig pump           115.00       10 ~ 12       410          37
+   9  Check return by cementing truck                                           5
+   10                                   Total Time                                  125
+   11                    WOC 48hours
+
+  NO: WOC is 48h. There should be not change of density and no replacement mud in well
+
+  bore during logging. Pressure test will be done after logging to avoid micro gap in annulus.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+6. Annular fluid EQ density after displacement
+
+                                Density     BOT.TVD   TOP. TVD   Ann. Length    Hydrostatic
+            Fluid
+                                         (pcf)            (m)          (m)          (m)       Pressure (psi)
+
+        Lead Slurry               130.00          1579.00         0.00         1579.00         4570.46
+           Tail Slurry               118.00          1779.00       1579.00        200.00           525.47
+            Total                                                              1779.00         5095.93
+        EQ. density               128.65
+7. Materials Prepare
+
+   No.                Name &Description                         Unit              Qty.
+    1    API Class G Cement                                LB            192648
+    2     Salt                                           LB            13712
+    3    Hematite                                       LB            46551
+    4     F.L.C.                                      GAL            1280
+    5     Dispersant                                       LB             2095
+    6    Defoamer                                    GAL             43
+    7     Retarder                                    GAL              41.6
+    8     anti-gas migration（Flow-off）                      GAL              78.4
+
+8. Cementing Equipment
+
+    No.                     Name                              Unit             Qty.
+
+     1    Pump Truck with Jet Mixer                                         Set             3
+
+     2    9 5/8˝ Cementing Head                                             Set             1
+
+     3    9 5/8˝ Circulating swage                                           Set             1
+
+     4    Cementing tools and lines                                          Set             1
+
+     5   DP Circulating Head                                               Set             1
+
+     6     Trailer                                                            Set             3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           Laboratory Cement Test Report
+
+Client       PEDEX           Oilfield          South Azadegan          Date
+Well number   AZN-118        Type of well
+                                                                           Aug.08, 2016
+Type of job     9 5/8 casing      Type of Slurry    Lead cement slurry
+Well date:
+ Casing OD.   Mud density    MD        TVD       BHCT       BHST
+    9 5/8"        115-125pcf      1780m        1780m         140F          160F
+Cement slurry component:
+  Products                           Comment1     Comment2      Comment3
+  Name     Concentration     Units     Additive/cement   Additive/slurry  Additive/Solution
+ Cement G       100                  /                      /          178.43Kg/bbl                  /
+  Hematite        30     %BWOC    14.97kg/sack     53.54Kg/bbl                  /
+ Defoamer         0.15    %BWOC    0.075kg/sack     0.268 Kg/bbl      0.122gal/bbl
+Dispersant-1        0.8     %BWOC     0.40kg/sack     1.431 Kg/bbl       5.44lb/bbl
+ MT-FLC          4.5     %BWOC     2.25kg/sack      8.047Kg/bbl      3.425gal/bbl
+MT-Retarder        0.2     %BWOC     0.1kg/sack      0.358Kg/bbl      0.147gal/bbl
+ Fresh water       44.35    %BWOC   0.1392bbl/sack    0.498bbl/bbl      0.858bbl/bbl
+     Salt          12    %BWOW    2.655kg/sack      9.50Kg/bbl        36.09lb/bbl
+
+Fresh Water          0.1392bbl/sk          Mixing Fluid                0.1622bbl/sk
+  Density              130pcf              Slurry Yield                0.2796bbl/sk
+Rheology (Average readings):
+ Temp.(F)    Ф300    Ф200     Ф100     Ф6      Ф3      N      K
+    140        165       101        61         11         6          0.91        0.30
+Fluid Loss:
+Temp. (F)     Pressure（Psi）    Time（min）     Fluid Loss(ml)     API Fluid Loss(ml)
+     140             1000              30               21                 42
+Free Fluid:
+        Temp. (F)                  Time (h)                    Free Fluid(ml)
+            140                          2                            0
+Crush Cubes:
+     Temp. (F)         Pressure（Psi）           Time(h)          Crush Cubes (Mpa)
+        140                  14                   24:00                    17.72
+Thickening Time:
+  Temp. (F)    Pressure（Psi）  Time to Temp.(min)      30 Bc       50 Bc       70 Bc
+     140           4350               30              05:15        05:26        05:29
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+             Laboratory Cement Test Report
+
+ Client       PEDEX           Oilfield          South Azadegan          Date
+ Well number   AZN-118       Type of well
+                                                                           Aug.08, 2016
+ Type of job     9 5/8 casing     Type of Slurry    Tail cement slurry
+  Well date:
+  Casing OD.   Mud density    MD       TVD       BHCT       BHST
+     9 5/8"        115-125pcf      1780m        1780m         140F          160F
+ Cement slurry component:
+  Products                           Comment1     Comment2      Comment3
+   Name      Concentration     Units     Additive/cement  Additive/slurry   Additive/Solution
+ Cement G        100                  /                       /           196.34Kg/bbl                   /
+  Defoamer          0.1     %BWOC     0.05kg/sack      0.197Kg/bbl       0.085gal/bbl
+ Dispersant-1        0.8     %BWOC     0.4kg/sack      1.574Kg/bbl        5.67lb/bbl
+  MT-FLC          4.0     %BWOC     2.0kg/sack      7.871Kg/bbl       3.17gal/bbl
+   anti-gas
+  migration          1.0     %BWOC     0.5kg/sack       1.97Kg/bbl         0.8gal/bbl
+（Flow-off）
+ Fresh water        42.1    %BWOC   0.1321bbl/sack     0.52bbl/bbl       0.85bbl/bbl
+      salt           12    %BWOW    2.52kg/sack       9.92Kg/bbl         35.7lb/bbl
+
+Fresh Water          0.1321bbl/sk          Mixing Fluid                0.1556bbl/sk
+   Density               118pcf              Slurry Yield                0.2541bbl/sk
+ Rheology (Average readings):
+  Temp. (F)    Ф300    Ф200     Ф100     Ф6      Ф3      N      K
+    140        149       87         53         9          6          0.94        0.22
+ Fluid Loss:
+ Temp. (F)     Pressure（Psi）    Time（min）    Fluid Loss(ml)     API Fluid Loss(ml)
+
+     140             1000              30               18                 36
+ Free Fluid:
+         Temp. (F)                  Time (h)                    Free Fluid(ml)
+            140                          2                            0
+ Crush Cubes:
+      Temp. (F)         Pressure（Psi）           Time(h)          Crush Cubes (Mpa)
+         140                  14                   24:00                     15.8
+ Thickening Time:
+  Temp. (F)    Pressur（Psi）   Time to Temp.(min)      30 Bc       50 Bc       70 Bc
+     140           4350               30               03:43        03:50        03:53
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Lead slurry graph
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+Tail slurry graph

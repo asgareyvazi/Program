@@ -1,0 +1,2415 @@
+# SOURCE: AZNS-012 Workover Program Rev02.pdf
+
+📄 فایل 174 از 214  |  AZNS-012 Workover Program Rev02.pdf
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         South Azadegan Oilfield Project
+
+              AZNS12 ST-1 Workover Program                Page 1 of 64
+
+  WELL WORKOVER PROGRAM
+
+    AZADEGAN OIL FIELD
+
+    WELL WORKOVER PROGRAM
+
+AZNS12 ST-1 (NEAR #75), GADVAN WELL
+
+                    Drilling Department
+
+                   MARCH 2025
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 2 of 64
+
+                      MSA/OEOC
+
+                              Position               Name         Date & Signature
+
+Prepared by         Drilling Engineering Department
+
+                      Project Head of Drilling Engineering
+
+Approved by        Project Head of Drilling Operation                      Piran Farzaneh
+
+                      Project Manager                                     Rashid Ansari
+
+                       PPL
+
+                              Position               Name         Date & Signature
+
+                      Drilling Operation Manager                         Majid Nariman
+
+                    Subsurface Engineering Manager                 Mahdi Salimmehr
+     Check
+
+    &
+
+  Approved by
+                 Head of Drilling Engineering                          Soheil Shadizadeh
+
+                    Subsurface Project Manager                              Ali Maghzi
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 3 of 64
+
+                       TABLE OF CONTENTS
+
+Contents
+  1.  GENERAL INFORMATION ................................................................................................ 5
+  1.1    Field Introduction .............................................................................................................................................. 5
+  1.2   Well Information ............................................................................................................................................... 7
+  1.3    Area Distribution ............................................................................................................................................... 8
+  1.4   Well Pad Specification ..................................................................................................................................... 10
+  1.5    Reservoir Data ................................................................................................................................................. 13
+  1.6    Formation Pressure Prediction in Block II .......................................................................................................... 15
+  1.7    Drilling History ............................................................................................................................................... 16
+  1.8   Well Montage .................................................................................................................................................. 18
+  1.9    Casing & Liner Depth ...................................................................................................................................... 19
+  1.10  Well Schematic before Workover ...................................................................................................................... 20
+  1.11  Well Schematic after Workover ........................................................................................................................ 21
+  2.  GEOLOGICAL INFORMATION ...................................................................................... 22
+  2.1    Formation Stratigraphy and Lithology ............................................................................................................... 22
+  3.  LOGGING PROGRAM ....................................................................................................... 23
+  4.  PROGRAM OUTLINE ........................................................................................................ 24
+  4.1    Contractors Involved ........................................................................................................................................ 24
+  4.2   Time Breakdown ............................................................................................................................................. 25
+  5.  SEQUENCE OF OPERATION ........................................................................................... 28
+  5.1   Main Objective ................................................................................................................................................ 28
+  5.2   Main plan ........................................................................................................................................................ 28
+  6.  BHA PROGRAM .................................................................................................................. 33
+  6.1    8-3/8" C/O BHA .............................................................................................................................................. 33
+  6.2   6 1/8" BHA ..................................................................................................................................................... 34
+  7.  MUD & CEMENT PROGRAM .......................................................................................... 35
+ COMPLETION FLUID SECTION .............................................................................................. 38
+  7.1   Cement Program .............................................................................................................................................. 41
+  8.  COMPLETION ..................................................................................................................... 42
+  8.1    Proposed Completion string .............................................................................................................................. 42
+  9.   BOP, WELLHEAD & X-MASS TREE .............................................................................. 43
+  9.1    Existing Wellhead & X-Mass Tree .................................................................................................................... 43
+      Wellhead Specification ........................................................................................................................................................ 44
+  9.2    Proposed Wellhead schematic ........................................................................................................................... 47
+  9.3   BOP ............................................................................................................................................................... 48
+  10.  WASTE MANAGEMENT ................................................................................................... 49
+  11.  HEALTH, SAFETY AND ENVIRONMENTS .................................................................. 50
+  12.1  WELL CONTROL .......................................................................................................................................... 50
+     12.1.1 WORK Requirement of Well Control Equipment ........................................................................................................ 50
+     12.1.2 Management of Well Control Equipment ....................................................................................................................... 50
+  12.2  Recording Reference ........................................................................................................................................ 51
+  12.3  Flow Check Procedure ..................................................................................................................................... 51
+  12.4  Primary Control Reference ............................................................................................................................... 51
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 4 of 64
+
+12.5  Secondary Control Reference ............................................................................................................................ 52
+12.6  Well control during drilling and completion operation ........................................................................................ 52
+12.7  HEALTH ........................................................................................................................................................ 54
+12.8  SAFETY ......................................................................................................................................................... 55
+12.9  ENVIRONMENT ............................................................................................................................................ 55
+12.  H2S MONITORING & PREVENTION MEASURE ........................................................ 58
+13.1   Monitoring H2S ............................................................................................................................................... 58
+13.2  Measures for H2S prevention ............................................................................................................................ 58
+13.  HANDOVER DATA ............................................................................................................. 60
+14.  REQUIREMENTS ............................................................................................................... 61
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 5 of 64
+
+1.  General Information
+
+ 1.1 Field Introduction
+Azadegan South Oil Field is situated in West Karoun province on a large long-axis anticline with N-S
+trending with approximate dimensions about 20 km width and 60 km length near to Iran-Iraq border, to
+the east of Yaran Oil Field.
+The trap area of the south Azadegan is limited to 43.2x17.2 km. The Azadegan Oil field was discovered
+in 1999, when Well AZN-1 was drilled vertically down to the Cretaceous Fahliyan Formation with total
+depth of 4,643m. The results of this well, revealed the reservoir characteristics of the field. Following to
+the result of the well no. AZN-1, another 5 exploration wells was drilled in different parts of this huge
+field down to Fahliyan Formation. In the later stage the well No.10 assumed as exploration well for
+evaluation of deeper formations. This well was drilled in 2008, down to the depth of 5340m (Neyriz
+Fm.), mainly to evaluate the Jurassic formations.
+Based on the exploration wells results, carbonate reservoir of Sarvak Formation is broadly developed in
+Azadegan Field. This formation was penetrated in all of seven exploration wells (AZN-1, AZN-2, AZN-
+3, AZN-4, AZN-5, AZN-6 and AZN-10). Clastic oil-bearing zones of Kazhdumi Formation developed in
+main anticline of Azadegan Field, extending from north to center of South Azadegan. The Clastic oil-
+bearing zones of Gadvan Formation developed only in crest area and south parts of South Azadegan
+Filed, which was discovered by AZN-1 in crest and AZN-4 in south parts. The carbonates of Fahliyan
+Formation also developed in Azadegan field, but the oil reservoir of this formation developed in South
+part of South Azadegan.
+The Azadegan Field is an elongated anticline, trending in N-S direction, belonging to "Arabian Trend".
+The stratigraphy sequence of the field includes AghaJari, Gachsaran, Fahliyan, Pabdeh, Gurpi, Ilam,
+Laffan, Sarvak, Kazhdumi, Dariyan, Gadvan and Fahliyan Formations, from top to bottom. This
+sequence in well no AZN-10, the deepest up to now drilled well of the field, continues with Garau,
+Gotnia, Najmah, Sargalu, Alan, Mus and Neyriz formations.
+The Dominant lithofacies of Sarvak Formation are Rudist-bearing packstone and partially grainstone,
+which contains abundant bioclasts. Some other facies like matrix-dominated wackestone and mudstone
+are also found.
+The AZADEGAN  Oilfield  is Located  in Khuzestan Province and  is Approximately Located 80
+Kilometers West of Ahwaz City, near to Iran-Iraq Border. It is in The Northwest of The YADAVARAN
+Field and in The West of JUFEYR Field. The Average Monthly Temperature is 45ºc in summer, and
+Highest Temperature is 52ºc. The Lowest Temperature is -4.4ºc in winter. Maximum Rainfall is 78 mm
+in February, Winter Season.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 6 of 64
+
+This Document covers the work over of well AZNS-122. Main headlines of program are de-complete the
+well and run new completion string.
+
+                                          Figure 1: AZNS Oilfield Location Map
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 7 of 64
+
+1.2 Well Information
+
+  Country / Area Name:         Iran / Khuzestan
+
+  Client                        Petro Pars Limited
+
+  Field Name:               Azadegan
+
+  Rig Name:              OEOC208
+
+  Type Of Operation:         Workover
+
+  Well Name / Type :        AZNS12 ST1 / Gadvan well in Block III
+
+  Pad Number:               Near75
+
+  Well Type:                  Side Track
+
+  Wellhead Coordinate:        N: 189014.48          E: 3437769.78
+
+  TD Coordinate:            N: 189019.38          E: 3437748.34
+
+                               De-complete the well, Re-complete the well, Due to abnormal annulus
+  Well Objective:                                   pressure in 9-5/8" CSG X 4-1/2" TBG & left fish in hole
+
+  RTE:                       14.45 m
+
+  GLE:                       3.95 m
+
+  Well  Duration :             91.9 days (Main Plan) + 136.2 days (Contingency Plan)
+
+  Total Depth (MD):          3945 m
+
+                                Perforated in 7" liner (Exiting Perforation:
+  Producer Formation:
+                            3867-3908 m)
+
+  Formation TD :            Gadvan
+
+  Reservoir :                Gadvan
+
+                                           Table 1: AZNS-12 information
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 8 of 64
+
+ 1.3 Area Distribution
+
+According to the drilling history, the CONTRACT AREA is distributed into three blocks as per the
+geological features with regard to DRILLING OPERATION. This distribution may differ according to
+knowledge accumulated in the future WORK.
+Contract area is as per below:
+
+              X (m)                             Y (m)
+
+                   185640                                        3434275
+
+                   188020                                        3477361
+
+                   205224                                        3476408
+
+                   202842                                        3433327
+
+                                              Table 2: Area Distribution
+
+  Block I is located on the north part of the CONTRACT AREA in north of well AZN-010. Gachsaran
+  formation is characterized by abnormal high pressure in this block.
+  Block II is located between well AZN-010 and AZN-011. In this block, Gachsaran formation is
+  characterized by pressure tending to normal
+  Block III  is located on the south of line well AZN-011. In this block, Gachsaran formation  is
+  characterized by normal pressure and all drilled wells in this block suffered from complete loss at
+  Pabdeh formation.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+South Azadegan Oilfield Project
+
+   AZNS12 ST-1 Workover Program                Page 9 of 64
+
+                 Figure 2: AZNS Area Distribution
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 10 of 64
+
+ 1.4 Well Pad Specification
+
+  Well Pad        Well Pad       Mud Pit                                     Conductor
+                                                             Cellar Dimension (m)
+   Type       Dimension (m)     Dimension (m)                                             Size
+
+ Single Well        130 x 100           25 x 20 x 2              7.5L x 3.80W x 3.40D                30"
+
+                                                         7.5L x 3.80W x 3.40D + 4.0L x 3.8W x
+ Double Well        145 x 100           25 x 20 x 2                                                 30"                                                                    3.4D
+
+                                                         7.5L x 3.80W x 3.40D + 4.0L x 3.8W x
+  Triple Well        160 x 100           25 x 20 x 2                                                          30'                                                           3.4D + 4.0L x 3.8W x 3.4D
+
+                                            Table 3: Well Pad Specification
+
+Compressive Strength for reinforced concrete after 28 days: 280 kg/cm2
+• Fuel tank concrete pond dimension: Length 20m×Width 12m×Height 0.5m
+• Drainage: Width 30cm × Depth 30cm
+• Burning pit: 15m×15m square, located on South-East or South-West with at least 350m distance from
+well head
+• Cellar to cellar distance in multi-well well pad: 15m
+• Conductor pipe depth under  cellar bottom  is 5.5m. The conductor pipe  will be driven while
+constructing the well pad.
+• Mud material dimension is 25m*35m +granular surface
+• Mud drying dimension is 25*35m + concrete surface
+• Well pad surface is gravel. Access road granular surface. The level of well pads is 3.95 MSL
+
+1. Types of well pads:
+• One well in one pad.
+• Two wells in one pad. 2 Sarvak horizontal wells or 1 Sarvak horizontal well plus 1 vertical/directional
+well).
+• Three wells in one pad: 2 Sarvak horizontal wells and 1 vertical/directional wells.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+South Azadegan Oilfield Project
+
+   AZNS12 ST-1 Workover Program                Page 11 of 64
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+South Azadegan Oilfield Project
+
+   AZNS12 ST-1 Workover Program                Page 12 of 64
+
+                     Figure 3: Well Pads Sketch
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 13 of 64
+
+1.5 Reservoir Data
+
+                                              Table 4: Reservoir Data
+
+                Reservoir
+                                  Gadvan                     Unit
+              Name:
+
+                     Fluids:                      Oil                  ….
+
+            Datum Depth:               3850                 M,TVDss
+
+                                   Gad5a=4750
+           Datum Pressure:                                                 Psi
+                                   Gad5c=4750
+
+                  Pressure
+                                                0.3                               Psi/ft                 Gradient:
+
+               Temperature:                251                     C°
+
+                                                                      1.32 F/100ft
+
+              Temperature
+                                          1.32 F/100ft                 0.73 C/100ft                 Gradient:
+
+                                                                          2.4 C/100m
+
+                 H2S:                    0                 PPM
+
+                CO2:                   5300                PPM
+
+                 Salt Salinity  :              171000                 ppm
+
+                Calcium
+                                       9400                          (mg/lit)                  Content:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         South Azadegan Oilfield Project
+
+              AZNS12 ST-1 Workover Program                Page 14 of 64
+
+                   Mid of Sub-                          Current
+                                          Temperature
+             Sub-    LayerDepth in  Temp                  Reservoir    Basis for Reservoir
+Reservoir                                     Gradient
+               layer      AZNS-        (°F)                   Pressure         Pressure
+                                                      (°F/100ft)
+                        12 (mss)                                   (psia)
+
+            Gad-5a       -3690.7      244.3                   4864       Dynamic Model
+GADVAN                                            1.32
+            Gad-5c       -3703.7      244.9                   4874       Dynamic Model
+
+                          Table 5: Predicted Pressure and Temperature and TTZ Contact
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+              AZNS12 ST-1 Workover Program                Page 15 of 64
+
+1.6 Formation Pressure Prediction in Block II
+
+                                Predicted Formation Pressure in Block II
+
+                                                             Collapse Pressure     Fracture Pressure
+                            Interval        Pore Pressure        (Break-Out         (Break-Down
+     Formation                                                                  Pressure)              Pressure)
+                  m             SG             SG               SG
+
+     Aghajari           0-974            0.98-1.18           0.06-1.39             1.01-1.89
+
+    Gachsaran        974-1281          1.13-1.31           0.78-1.36             1.89-2.01
+
+     Asmari         1280-1474         1.14-1.26            0.6-1.28             1.43-1.79
+
+     Pabdeh         1474-2124         1.20-1.26           0.82-1.36             1.40-1.78
+
+      Gurpi          2124-2539         1.21-1.26           0.66-1.02             1.40-1.76
+
+       Ilam          2539-2613         1.18-1.24            0.20-0.9             1.41-1.72
+
+      Laffan         2613-2620         1.13-1.18           0.24-1.11             1.41-1.72
+
+     Sarvak         2620-3261         1.14-1.26           0.24-1.23             1.44-1.81
+
+    Kazhdumi        3261-3465          1.1-1.14           0.46-0.96             1.93-1.94
+
+     Dariyan         3465-3627         1.18-1.25            0.55-1.1             1.96-2.06
+
+     Gadvan         3627-3932          1.1-1.25           0.55-1.44             1.97-2.11
+
+                                     Table 6: Formation Pressure Prediction
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 16 of 64
+
+ 1.7 Drilling History
+
+26" Hole Section
+
+Spud the rig FATH 64 on 1387.04.15 at 12:00 o’clock.
+
+Commenced drilling 26” hole section from 14m to 155.5m. Run 20” casing (J-55m 133#, BTC) to
+
+154m, perform cemented 20” casing (S.W:115 pcf), got CMT in return. Install 20” 3K C.H.H (type
+
+ABB).
+
+17 1/2" Hole section
+
+Drilling of 17-1/2” hole section started on 1387/05/20 from 154m to 1259m with No Loss- No Gain.
+
+Perform condition trip. Run CDR/GR log.
+
+R/U 13-3/8" casing running equipment, held PJSM and run 13-3/8" casing with 13-3/8" float shoe
+
+(Nasr Mobtakeran) + 2 Jt 13 3/8” CSG + 13-3/8” float Collar (Nasr Mobtakeran) + 106 Jts 13 3/8”
+
+CSG (C-95, 72#, BTC to 1259 m. perform Cement 13-3/8” casing (883 bbl head CMT, S.W: 90 pcf,
+
+135 bbl tail CMT S.W:115 pcf). Install DSA 20” 3 K X 16 ¾” 5k & 16 ¾” 5K (MCEVOY) X 13 5/8”
+
+5K (ABB).
+
+12 1/4" Hole section
+
+Drilling of 12-1/4” hole section started on 1387/06/10 from 1259 m to 1585 m, Obs. complete loss,
+
+cure the loss by pumping LCM, Cont. Drlg to 1600 m. Obs. No return. POOH to surface, RIH with
+
+C.Cut bit, spot 120 bbl 94 pcf CMT, POOH to surface, RIH with bit, Cont. Drlg formation to 1860 m
+
+with heavy loss (cure the loss using LCM pill), @ 1860 m, Obs. 500 psi pressure drop, POOH to
+
+surface, Obs. 12 ¼” bit + bit sub + 2 Jts 8 ½” D. Collar left in hole. Retrieve the fish, RIH with open
+
+end drill pipes, pump 150 bbl CMT 94 pcf in 2 stage, D/O CMT, Cont. Drlg to 2130 m, 50-80 BPHL.
+
+stuck string, work on stuck, free the pipe, POOH to surface, obs. String twist off from Jar mandrel.
+
+Retrieve the fish. riH W/ BIT & Cont. Drlg formation to 2245 m, Obs. Pressure drop, Obs. 92.26 m
+
+fish left in hole. Retrieve the fish. RIH with bit & Cont. Drlg formation to 3792 m (section TD).
+
+Perform condition Trip, run BHC/HRLA/TLD/HGNS/GPIT/HNGS log, POOH to surface, run MDT
+
+log. Perform 230 bbl balance CMT plug in 2 stage. RIH with D/O BHA, D/O CMT & to 3450 m (9
+
+5/8” CSG point), POOH to surface.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 17 of 64
+
+R/U CSG running equipment, held PJSM and run 9 5/8" casing with 9 5/8" float shoe (IDC) + 2 Jt 9
+
+5/8” CSG (L-80, 53.5#, NEW VAM) + 9 5/8” float Collar (IDC) + 98 Jts 9 5/8” CSG (L-80, 53.5#,
+
+NEW VAM) + 185 Jts 9 5/8” CSG (L-80, 47#, VAM) + 2 Jts 9 5/8” CSG (L-80, 53.5#, VAM) to
+
+3448 m. drop ball & apply pressure to 4500 psi & try to Circ. No Success. Set CSG slips, install DSA
+
+12” 5K X 3K, T.H.S 12” 3K 10” 5k (Toloo Khoozestan), RIH with ounching tools & punch 9 5/8”
+
+CSG F/ 3419 to 3420 m. try to perform Circ. No success.
+
+RIH with punching tools & punch 9 5/8” CSG F/ 3408.5 to 3410.5 m. perform Circ., OK. RIH with
+
+RTTS PKR, perform CMT job, unset PKR & POOH to surface.
+
+8 1/2" Hole section
+
+RIH with bit, D/O CMT to 3468 m (KOP). POOH to surface. RIH with Dir. Drlg BHA to 3468 m.
+
+start Dir. Drlg F/3468 to 3735 m. left fish in hole, retrieve fish, RIH with bit & unable to pass 3660m
+
+in several times. Displace the well with O.B.M, Cont. Drlg to 3846 m. perform condition trip, POOH
+
+to surface.
+
+R/U 7” LNR running equipment. M/U 7” F. Shoe + 1 Jt 7” LNR + 7” F. Collar + 2 Jt 7” LNR + 7”
+
+LDC + 19 Jts 7” LNR (C-75, 29 #, N.VAM) & RIH to 3846m, perform CMT job.
+
+6 1/8" Hole section
+
+RIH with Dir. Drlg BHA, Drlg formation to 3945m (section TD), perform condition trip. Perform
+
+logging operation (AIT/BHC/LDT/CNT/GR)
+
+R/U LNR running equipment, M/U 5” F.Shoe + 29.5 5” Blank LNR (L-80, 18#, HTS) + 47.8 m 5”
+
+LNR perforated + X.O.S + 1 Jt 5” LNR 18# VFJ + LDC + 6 Jts VFJ LNR + 5” LNR HGR & RIH to
+
+3945 m. set HGR, POOH to surface, RIH with 4 1/8” E. Mill & clean out BHA to 3945 m. displace
+
+the well with Cacl2, POOH to surface.
+
+Completion
+
+Run completion string with 9 Jts 4 ½” TBG + 291 Jts 7” (L-80,29#, N.Vam TBG + 3SV + 5 No.
+
+fluted adapter + 5 Jts 7” TBG + fluted swage + TBG HGR (10” X 7” X 9 5/8” neck) set PKR @
+
+3334m.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                      South Azadegan Oilfield Project
+
+                            AZNS12 ST-1 Workover Program                Page 18 of 64
+
+ 1.8 Well Montage
+
+Not Available.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 19 of 64
+
+1.9 Casing & Liner Depth
+
+                              20"                   J-55, 133#, BTC                   0-154 m
+
+                               13-3/8"               C-95, 72#, BTC                  0-1259 m
+
+    Casing Spec.              9-5/8"         L-80,47 & 53#, VAM & N. VAM            0-3448 m
+
+                               7"               C-75, 29#, N. VAM             3285 – 3846 m
+
+                              5”               L-80, 18#, VFJ, HTS               3779-3945
+
+                                           Table 7: Casing & Liner Data
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 20 of 64
+
+1.10    Well Schematic before Workover
+
+                                           Figure 4: Well Schematic Before workover
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 21 of 64
+
+1.11    Well Schematic after Workover
+
+                                            Figure 5: Well Schematic After workover
+
+                                      Well Sketch & Completion
+
+                                                                     20" CSG
+                                                                         154
+
+                                                                    13 3/8" CSG
+                                                                     1259
+
+                                                                    9-5/8" Casing
+                                                                3448
+
+                                                                completion PKR
+                                                                   depth will be
+                                                                             finalized in
+                                                                   completion
+                                   7" Liner
+                                    3285-3846                KOP
+                                                                 3470
+
+                                                                                          Perforation:
+
+                                                                                3867-3877
+                                                                                3883-3888
+                                       5" Liner                               3893-3901
+                                         3779-3945                              3903-3908
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 22 of 64
+
+2.  Geological Information
+
+ 2.1 Formation Stratigraphy and Lithology
+
+                                        Figure 6: Azadegan Stratigraphic Column
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 23 of 64
+
+3.  Logging Program
+
+                                                     Logs
+        Hole Size        Casing Size
+                                                  Cased Hole
+
+           12 ¼”             9 5/8”                         Corrosion Log
+
+                                               SBT/VDL/GR/CCL
+            8-1/2"             7" Liner.
+                                                               Corrosion Log
+
+                                              Table 8: Logging Program
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 24 of 64
+
+4.  Program Outline
+
+ 4.1 Contractors Involved
+
+                                            Table 9: Contractor Involved
+
+   Item                           Service Item                                Contractor
+
+              Drilling Rig, Mobilization and Demobilization the Rig, Rig Move
+     1                                                      OEOC 201
+           Between Well Pads
+
+     2       Drilling Fluids and Completion Fluids                                 VIRA
+
+     3     Waste Management                                                        Pars Hafaran Arvand
+
+     4       Electrical Logging and Perforation                               SEALAND
+
+     5    Mud Logging                                          GEO DATA
+
+                                                                                        Pars Hafaran Arvand
+     6    H2S Monitoring and Control
+                                                      BONYAN IMEN
+
+     7      Casing and Tubing Running                                   OEOC
+
+     8     Cementing                                             SPAD ENERGY
+
+     9     Dry Test, DST and RTTS                                     OEOC
+
+    10      Slick Line                                              OEOC
+
+    11     Stimulation (Coiled Tubing and Acidizing and Nitrogen Lifting)              OEOC
+
+    12     Surface Well Testing                                       OEOC
+
+    13     Well Head                                             OEOC
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                                     South Azadegan Oilfield Project
+
+                                              AZNS12 ST-1 Workover Program                Page 25 of 64
+
+ 4.2 Time Breakdown
+
+                                                                                                                                                                                      Contingency                                                                                                                                      Time    Time       Total                  Time Duration   Time Duration
+                         Work-Over Operation TBD of Well:                                                       Interval               Depth                                                     (%)                                          Total Duration w/                                                                                          IADC Code                Formation           ROP    Duration  Duration    Duration             w/ contingency w/ contingency
+                       AZNS-12 Work-over (Gadvan Producer)                                              (meters)                (meters)                                                                                           contingency (Days)
+                                                                                                                                                                   (Hours)    (Days)      (Days)         10            (Hours)           (Days)
+
+                                                                                                         Work-over
+
+Held PJSM. Spud the Rig. Stand Back required 5" & 3-1/2" DPs, 5" HWDPs and 6-1/2" DC.            Spud                     Ga.       3945               0       0.00        0.0           0.0             0.0             0.00               0.0
+
+Check the wellhead for any damage or leakage. Record well head pressures; check all
+                                                                                         Wellhead                   Ga.       3945               24       1.00        1.0           1.1            26.4             1.10               1.1
+annulus pressure, Bleed off any annulus pressure to Zero.
+
+Close XMT valves. Remove 7 1/16" XMT cap.
+R/U Well Test lines from XMT to burning pit. And connect f/ 7”‐9 5/8” annulusside out let valv     Well Test                   Ga.       3945               12       0.50        1.5           0.6            13.2             0.55               1.7
+e to Pump Truck/mud pumps.
+
+Release well pressure through Burning Line in Safe Mode to Burning  Pit & Also
+                                                                                           Well Test                   Ga.       3945               12       0.50        2.0           0.6            13.2             0.55               2.2
+Monitor W.H.Pressure.
+
+R/UP Slick Line & Test Lubricator,Retrieve sub surface safety valve, install dummy safety
+valve.
+                                                                                       De-Completion                 Ga.       3945               12       0.50        2.5           0.6            13.2             0.55               2.8
+Note:Suitable Dummy Safety Valve Shall be Provided by Client.
+Note:if Retreiving 3SV is not Possible follow contingency plan#01
+
+R/U SL, RIH w/ Gauge Cutter To TOF @ 2800 m.                                            De-Completion                 Ga.       3945               12       0.50        3.0           0.6            13.2             0.55               3.3
+
+R/U CT. RIH and tag top of the fish @ 2800m.Note: Chemical wash may be needed while RIH
+                                                                                       De-Completion                 Ga.       3945               36       1.50        4.5           1.7            39.6             1.65               5.0
+with CT .
+
+Displace the well with heavy mud to make the well overbalanced.Observe the annulus, POOH.
+                                                                                       De-Completion                 Ga.       3945               18       0.75        5.3           0.8            19.8             0.83               5.8
+R/D CT.Note: If wellhead pressure is not zero, follow contingency plan #2.
+
+Install TWCV in Tubing Hanger.
+Note:Suitable BPV Shall be Provided by Client.Note:if Unable to Set BPV Due to Damaged       De-Completion                 Ga.       3945               12       0.50        5.8           0.6            13.2             0.55               6.3
+Profile,Follow Contingency Plan#3
+
+N/D X.M.T, N/U BOP and perform BOP pressure test.retrieve TWCV                           De-Completion                 Ga.       3945               48       2.00        7.8           2.2            52.8             2.20               8.5
+
+R/U & RIH W/Colliding Tools & Collide Completion String from 2800m ,POOH & L/D, displace
+                                                                                       De-Completion                 Ga.       3945               168      7.00        14.8           7.7            184.8            7.70              16.2
+and overbalance the well to get in & out uniform MW.Observe the annulus,
+
+RIH with TBG hanger retrieving tool and engage with TBG hanger.
+                                                                                       De-Completion                 Ga.       3945               12       0.50        15.3           0.6            13.2             0.55              16.8
+Note:if Tubing Hanger Thread damaged follow Contingency Plan#04
+
+Unlatch, Displace completion fluid & oil in hole with proper kill mud
+and pull completion string recautionary due to probable trapped pressure below fish. While
+POOH monitor the wells and annulus to make sure the well is safe and over balance.
+(from 3333.85m).
+                                                                                       De-Completion                 Ga.       3945               160      6.67        21.9           7.3            176.0            7.33              24.1
+Note:if unable to unlatch completion string due to string pack off with huge amount of
+debries follow contingency plan#05
+Note:if while trying to unlatch completion, string was part due to string wash out follow
+contingency plan#06
+
+RIH with proper size Spear to TOF, Try to catch & Retrieve fish in several attempts then
+                                                                                                         Trip                      Ga.       3945               120      5.00        26.9           5.5            132.0            5.50              29.6
+POOH.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                                     South Azadegan Oilfield Project
+
+                                              AZNS12 ST-1 Workover Program                Page 26 of 64
+
+RIH with 8 ½" Mill and clean out BHA (mill remaining fish if Not Retrieved in previus Step) to
+                                                                                                         Trip                      Ga.       3945               310      12.92       39.8          14.2           341.0           14.21             43.8
+7" L.LAP (3285m), CBU, POOH.
+
+RIH with Mill to 3333.85m (P/U required DP  jt by  jt),  Mill permanent packer, chase
+                                                                                                         Trip                      Ga.       3945               192      8.00        47.8           8.8            211.2            8.80              52.6
+the packer to Top of 5" Liner Lap @ 3779m (or where ever PKR stopped), CBU, POOH.
+
+RIH with Taper Tap and catch the packer, recover completion packer.POOH To Surface.
+                                                                                                         Trip                      Ga.       3945               96       4.00        51.8           4.4            105.6            4.40              57.0
+Note:if string stuck while Recovering Completion Packer follow contingency plan#07
+
+RIH with 6” or 5‐7/8 bit and clean out BHA to 5" Liner lap (3779m), CBU shakers clean,
+                                                                                                         Trip                      Ga.       3945               60       2.50        54.3           2.8            66.0             2.75              59.8
+POOH.
+
+RIH with 4 1/8” Mill and clean out BHA to bottom (TD: 3945m), take care inside pre‐
+perforation                                                                                             Trip                      Ga.       3945               60       2.50        56.8           2.8            66.0             2.75              62.5
+interval (3867m – 3908m), CBU till hole clean, POOH to surface.
+
+M/U Tandem scraper BHA, RIH with tandem scrapers including 9-5/8" casing scraper & 7"
+                                                                                                         Trip                      Ga.       3945               72       3.00        59.8           3.3            79.2             3.30              65.8
+liner scraper to top of 5" liner (3779m). Scrap 9‐5/8” casing and 7” liner and L/D same.
+
+RIH & Perform TLC Logging (SBT/CBL/VDL) Inside 7" Liner,POOH to Surafce.                      Log                      Ga.       3945               72       3.00        62.8           3.3            79.2             3.30              69.1
+
+RIH & Perform TLC Logging (Corrosion Logging) Inside 7" Liner,POOH to Surafce.                 Log                      Ga.       3945               72       3.00        65.8           3.3            79.2             3.30              72.4
+
+RIH & Perform WL Logging (Corrosion Logging) Inside 9-5/8" Liner,POOH to Surafce.
+                                                                                           Log                      Ga.       3945               41       1.71        67.5           1.9            45.1             1.88              74.3
+Note: for Change THS follow contingency plan#8
+
+RIH and set RTTS in 9 5/8” CSG (3270m) as a barrier.                                         Wellhead                   Ga.       3945               0       0.00        67.5           0.0             0.0             0.00              74.3
+
+N/D BOP, Change DSA pack off to new one. Perform pressure test P-seals. N/U BOP and
+                                                                                         Wellhead                   Ga.       3945               0       0.00        67.5           0.0             0.0             0.00              74.3
+pressure test.Note:DSA pack off Shall be Provided by Client.
+
+ RIH with DP and retrieve RTTS, POOH to surface.                                            Wellhead                   Ga.       3945               0       0.00        67.5           0.0             0.0             0.00              74.3
+
+ RIH w/ DP's and DC's, POOH & L/D same.                                                               Trip                      Ga.       3945               0       0.00        67.5           0.0             0.0             0.00              74.3
+
+RIH scraper and scrape 7" production packer setting area, displace the well with
+                                                                                                         Trip                      Ga.       3945               68       2.83        70.4           3.1            74.8             3.12              77.4
+Calcium Chloride (CaCl2) as completion fluid, POOH to surface.
+
+Run 7.5K completion string as per program.                                                 Completion                  Ga.       3945               168      7.00        77.4           7.7            184.8            7.70              85.1
+
+Set BPV inside TBH, N/D BOP's & install new XMT.                                           Completion                  Ga.       3945               58       2.42        79.8           2.7            63.8             2.66              87.8
+
+Retrive BPV, install TWCV and Pressure test the XMT.                                         Completion                  Ga.       3945               18       0.75        80.5           0.8            19.8             0.83              88.6
+
+Secure the well by set BPV in TBG Hanger, close all X-mas Tree valves except BMV, and
+                                                                                         Completion                  Ga.       3945               8       0.33        80.9           0.4             8.8             0.37              89.0
+Release the Rig.
+
+Retrieve TWCV,R/U Slick Line, Set protection sleeve, retrieve plug & prong from NO GO
+                                                                                         Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+landing nipple, POOH.
+
+RIH with CT to bottom, displace the well with diesel or nitrogen & observ well, POOH.          Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+
+R/U SL, RIH & retrieve protection sleeve, POOH, R/D SL.                                      Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+
+Flow the well as pre-acid clean up till acceptable BSW & reading stable flow rate on 2
+                                                                                         Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+different choke size for 72 hrs.
+
+R/U & RIH S.L, Set protection sleeve, POOH & R/D S.L
+RIH with C/T & perform acid wash as per program, POOH to surface. RIH w/SL and retrieve     Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+protection sleeve
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                                     South Azadegan Oilfield Project
+
+                                              AZNS12 ST-1 Workover Program                Page 27 of 64
+
+Flow the well as post-acid clean-up till acceptable BSW & reading stable flow rate on 2
+different choke size for min 96 hrs.
+Note 1: The time is only for flowing duration (R/U, R/D & preparation time is excluded).
+                                                                                         Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+Note 2: Acidizing & post-acid clean-up maybe perform as rig less job upon contractor
+request & client approval but in case of any failure in well integrity the contractor should
+provide drilling rig & required services in own responsibility & fix the problem.
+
+RIH with S/L, set protection Sleeve, POOH & R/D SL.                                          Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+
+RIH with C/T to bottom & displace the well with diesel, POOH.                                Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+
+RIH with S/L, install plug & prong into NO GO landing nipple, POOH.                            Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+
+RIH with S/L, retrieve protection sleeve.                                                    Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+
+Secure the well by set BPV in TBG Hanger, close all X-mas Tree valves except BMV.             Completion                  Ga.       3945              Rig Less    0.00        80.9           0.0             0.0             0.00              89.0
+
+Total Duration of 6-1/8" Hole Section:                                                                                            80.9     80.9                               89.0         89.0
+NOTE:
+Total Duration for Cut & Slip DL in all hole section.                                           Cut & Slip                              3763               20       0.83        81.7           0.9            22.0             0.92              89.9
+Total Duration for Rig Service (Consider 0.5hr per day) in all hole section.                        Rig Service                             3763               44       1.85        83.6           2.0            48.9             2.04              91.9
+Total Duration of AZNS-12 Work-over Well:                                                                                                                            83.6                                                       91.9
+                                                                                                                                      Time    Time       Total      Contingency   Time Duration   Time Duration
+                            Contingency Plans TBD of Well:                                                         Interval               Depth                                                                                                 Total Duration w/
+                                                                                          IADC Code                Formation           ROP    Duration  Duration    Duration         (%)     w/ contingency w/ contingency
+                               AZNS-12 Work-over                                                        (meters)                (meters)                                                                                           contingency (Days)
+                                                                                                                                                                   (Hours)    (Days)      (Days)         10            (Hours)           (Days)
+                                                                     Based on operation situation in each step, the following contingency plans might be followed
+
+Contingency Plan#01 R/U CT RIH & Wash 3SV by Chemical wash & Try to Retrive 3SV by CT if
+no Success Remedial Plan will be Prepared in advance by Operator & Will be Follow After      De-Completion                 Ga.       3945               480      20.00      20.00          22.0           528.0           22.00             22.0
+Client approval.
+
+Contingency Plan#02 R/U & RIH W/Coliding Tools & Colide Completion String from Proper
+Depth,POOH & L/D, Displace well with heavy mud and try to kill the well,Circulate & Balance   De-Completion                 Ga.       3945               360      15.00      35.00          16.5           396.0           16.50             38.5
+MW.
+
+Contingency Plan#3 Install 3SV Blanking plug or 7 inch Wire Line Bridge Plug                  De-Completion                 Ga.       3945               60       2.50       37.50          2.8            66.0             2.75              41.3
+
+Contingency Plan#04 RIH w/Spear & Try to engage w/Tubing Hanger                         De-Completion                 Ga.       3945               48       2.00       39.50          2.2            52.8             2.20              43.5
+
+Contingency Plan#05 R/U & RIH with FPIT tools to check string free point,POOH to Surface &
+L/D.R/U & RIH W/Coliding Tools & Colide Completion String from Proper Depth,POOH &          Completion                  Ga.       3945               408      17.00      56.50          18.7           448.8           18.70             62.2
+L/D.POOH Completion String from Coliding Depths in Several Runs.
+
+Contingency Plan#06 Pull Completion String untill string will be part from weaked point then
+POOH & L/D String in Several attempt. It is assumed to part from 4‐ 1/2” expansion joint as      Completion                  Ga.       3945               728      30.33      86.83          33.4           800.8           33.37             95.5
+weak point. Mill the remainder of fish & packer. Follow the rest of main plan.
+
+contingency plan#07 RIH w/5-7/8" or 6" Mill & Mill the Packer & Tail in Several Runs, POOH to
+                                                                                                         Trip                      Ga.       3945               288      12.00      98.83          13.2           316.8           13.20             108.7
+Surafce & L/D mill.
+
+contingency plan#08 RIH and set RTTS in 9 5/8” CSG as a barrier. N/D BOP, Change DSA pack
+off to new one. N/U BOP and pressure test.Stand Back required 5" & 3-1/2" DPs, 5" HWDPs
+and 6-1/2" DC.                                                                                          Trip                      Ga.       3945               600      25.00      123.83         27.5           660.0           27.50             136.2
+Note:DSA pack off Shall be Provided by Client.
+
+Total Duration of Contingency Plan AZNS-12 Work-over Well:                                                                                                            98.8                                                     136.2
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 28 of 64
+
+5.  Sequence of Operation
+
+ 5.1 Main Objective
+Decision has been made to de-complete he well & re-complete with new completion
+equipment. Check and smooth collapse interval from 3889-3911m.
+
+ 5.2 Main plan
+    1.  Held PJSM. Spud the Rig.
+
+    2. Check the wellhead for any damage or leakage. Record well head pressures; check all
+
+       annulus pressure.
+
+    3. Apply pressure in control line & check same for any leakage, try to open 3SV (check
+
+        indication of opening 3SV flapper) & monitor well pressure again.
+
+    4.  Secure the well by closing all XMT valves except BTM master valve.
+
+    5. L/U pump truck to 7 1/16” 5K sweep bend & L/U F/ 7” to 9 5/8” completion annulus
+
+        to rig choke manifold, release annulus pressure through burning  pit & monitor
+
+        pressure.
+
+    6. Remove 7 1/16” XMT cap, R/U 7 1/16” 5K lubricator & pressure test same against
+
+      Deeping valve, R/U slick line meanwhile monitor completion annulus pressure.
+
+    7. RIH with gauge cutter to top of 3SV, POOH to surface. RIH with pulling tools of
+
+    WLR 3SV (3SV Spec: Baker, Landing Nipple: 5.950”, AF), Retrieve 3SV, POOH to
+
+        surface, RIH with dummy valve, set dummy in 3SV profile, POOH to surface.
+
+   Note: If unable to RIH gauge cutter with slick line or unable to retrieve 3SV with slick
+
+    line, follow contingency plan #1.
+
+    8. RIH with gauge ring to TOF (2800 m) , POOH to surface & L/D same. R/U CT &
+
+     RIH with CT to TOF while pumping chemical wash, Displace inside completion
+
+        string with proper mud weight (85 pcf)) POOH CT to surface & R/D same.
+
+   Note: if wellhead pressure is no zero, follow contingency Plan#2.
+
+    9.  Install TWCV in TBG HGR, perform pressure test same, open tie down screw &
+
+       pressure test same. (TWCV should be provided by client.)
+
+   Note: If unable to set TWCV in TBG HGR due to damaged TBG HGR profile, follow
+
+   contingency Plan#3.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+       South Azadegan Oilfield Project
+
+           AZNS12 ST-1 Workover Program                Page 29 of 64
+
+10. N/D X.M.T
+
+11. N/U 13 5/8” 10 K BOP stack & pressure test same as per NIOC Policy.
+
+12. Retrieve TWCV.
+
+13. P/U & M/U L.J & TBG HGR running tools, screw on TBG HGR. ( 6 ½” fishing Jar
+
+   should be ready in location by OEOC)
+
+Note: In case of unable to screw L.J on TBG HGR follow contingency Plan#4.
+
+14. Unlatch completion string from Anchor Seal (Baker, KC-22) (Approximately 291 Jts
+
+   7” TBG (L-80, 29#, VAM) between 3SV & X.O.S and 5 Jts above 3SV and 9 Jts 4
+
+   ½” TBG 13.5#, L-80, VAM between XOS & expansion Jt. (Approximate length of 7”
+
+   TBG: 3250 m, Yield Strength of 7” TBG 29#, L-80 is 676 Klb, maximum make up
+
+  TRQ of 7” TBG 29pp, L-80, VAM is 15250 ft.lb. Yield strength of 4 ½” TBG 13.5#,
+
+   L-80, is 307 Klb. maximum make up TRQ of 4 1/2” TBG 13.5pp, L-80, VAM, is
+
+   6000 ft.lb)
+
+Note: In case of unable to unlatch completion string from Anchor Seal, due to string pack
+
+off with huge amount of debris follow contingency Plan#5.
+
+Note: In case of while trying to unlatch completion string, the string was parted from
+
+weak point due to string wash out, follow contingency Plan#6.
+
+15. POOH completion string to surface precautionary due to probable trapped pressure
+
+   below fish. While POOH monitor the wells and annulus to make sure the well is safe
+
+   and over balance.
+
+16. P/U & M/U & RIH with proper fishing tools to TOF, try to catch & retrieve fish in
+
+    several attempts the POOH to surface.
+
+17. P/U & M/U 8 3/8” M.M.J Mill & 5” DP as Jt by Jt & RIH with clean out BHA to 7”
+
+    L. Lap (3285 m). confirm 7” L. Lap, Pump Hi-Vis pill to sweep the well, POOH to
+
+    surface.
+
+18. P/U & M/U 6” or 5 7/8” M.M Junk Mill & 63 Jt 3 ½” DP as Jt by Jt & RIH, mill
+
+   completion PKR & chase same to 5” L.Lap (3779 m) while pump Hi-Vis periodically,
+
+   CBU, POOH to surface.
+
+19. RIH with 2”*4” Taper tap & catch tail of completion string, recover the PKR, POOH
+
+    to surface.
+
+Note: if string stuck while recovering completion PKR follow contingency plan#7
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+       South Azadegan Oilfield Project
+
+           AZNS12 ST-1 Workover Program                Page 30 of 64
+
+20. RIH with 6” or 6 1/8” Mill and clean out BHA to 5" Liner lap (3779m), pump Hi-Vis
+
+    pill & CBU till shakers clean, POOH to surface.
+
+21. RIH with 4 1/8” Mill 15 Jt 3 1/8” DC & 15 Jts 2 7/8” DP as Jt by Jt and clean out
+
+  BHA to BTM (TD: 3945m), take care inside pre-perforation interval (3867m –
+
+   3908m), CBU till hole clean, POOH to surface.
+
+22. M/U Tandem scraper BHA, RIH  with  tandem  scrapers  including  9-5/8"  casing
+
+    scraper & 7" liner scraper to top of 5" liner (3779m). Scrap inside 9-5/8” casing and
+
+   7” liner to 5” L.Lap, Pump Hi-Vis pill & CBU to sweep the well, POOH to surface
+
+   and L/D same.
+
+23. P/U & M/U logging equipment & Perform (SBT/CBL/VDL) log from Inside 7" Liner,
+
+    as TLC method, POOH to Surface.
+
+24. Perform Corrosion log from inside 7” LNR as TLC method. POOH to surface & R/D
+
+   same.
+
+25. R/U shooting nipple, M/U wireline equipment, take corrosion log from 9 5/8” CSG to
+
+    surface. R/D wireline equipment.
+
+   Note: for change THS Follow Contingency plan #08:
+
+   Note: Based on corrosion log, tie back operation will be needed, contractor will
+
+   perform tie-back operation as extra work if needed.
+
+26. P/U & M/U 6” or 6 1/8” Tri Cone bit & 7” scraper & RIH with scraper BHA & scrap
+
+   7” completion PKR setting depth, pump Hi-Vis pill & sweep the well, displace the
+
+   well with CaCl2 as completion fluid, POOH to surface & L/D all tubulars.
+
+27. Run 7.5 K completion string as per program.
+
+28. Set BPV inside TBH, N/D BOP's & install new 10K XMT.
+
+29. Retrieve BPV, install TWCV and Pressure test the XMT.
+
+30. Secure the well by set BPV in TBG Hanger, close all X-mas Tree valves except
+
+  BMV, and Release the Rig.
+
+31. Retrieve TWCV, R/U Slick Line, Set protection sleeve, retrieve plug & prong from
+
+  NO GO landing nipple, POOH.
+
+32. RIH with CT to bottom, displace the well with diesel or nitrogen & observe well,
+
+   POOH.
+
+33. R/U SL, RIH & retrieve protection sleeve, POOH, R/D SL.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 31 of 64
+
+    34. Flow the well as pre-acid clean up till acceptable BSW & reading stable flow rate on
+
+      2 different choke size for 72 hrs.
+
+    35. R/U & RIH S.L, Set protection sleeve, POOH & R/D S.L
+
+    36. RIH with C/T & perform acid wash as per program, POOH to surface. RIH w/SL and
+
+        retrieve protection sleeve"
+
+    37. Flow the well as post-acid clean-up till acceptable BSW & reading stable flow rate on
+
+      2 different choke size for min 96 hrs.
+
+       Note: The time  is only for flowing duration (R/U, R/D & preparation time  is
+
+       excluded).
+
+       Note: Acidizing & post-acid clean-up maybe perform as rig less job upon contractor
+
+       request & client approval but in case of any failure in well integrity the contractor
+
+       should provide drilling rig & required services in own responsibility & fix the
+
+       problem.
+
+    38. RIH with S/L, set protection Sleeve, POOH & R/D SL.
+
+    39. RIH with C/T to bottom & displace the well with diesel, POOH.
+
+    40. RIH with S/L, install plug & prong into NO GO landing nipple, POOH.
+
+    41. RIH with S/L, retrieve protection sleeve.
+
+    42. Secure the well by set BPV in TBG Hanger, close all X-mas Tree valves except
+
+     BMV.
+
+Contingency Plans of Well AZNS12 ST-1 Work-over:
+Based on operation situation in each step, the following contingency plans might be followed:
+
+      Contingency plan #1: R/U CT & RIH & Wash 3SV by Chemical wash & Try to
+       Retrieve 3SV by CT if no Success Remedial Plan will be Prepared in advance by
+       Operator & Will be Follow After Client approval.
+      Contingency plan #2: R/U Wireline & PCE (pressure control equipment), RIH with
+
+      punching tools, (colliding tools should be on rig site as back up) punch 4 ½” TBG
+
+      from top fish, POOH WL to surface & R/D same. Perform direct Circ. To balance
+
+     mud weight in & out. Observe the well.
+
+      Contingency plan #3: Install 3SV blanking plug or 7” WL bridge plug.
+
+      Contingency plan #4: RIH with proper spear & engage with TBG HGR.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+     South Azadegan Oilfield Project
+
+         AZNS12 ST-1 Workover Program                Page 32 of 64
+
+Contingency plan #5: R/U & RIH with FPIT tools to check string free point, POOH to
+
+surface & L/D. R/U & RIH with colliding tools & collide completion string from
+
+proper depth, POOH to surface & L/D same. POOH completion string to surface
+
+precautionary due to probable trapped pressure below fish. While POOH monitor the
+
+wells and annulus to make sure the well is safe and over balance.
+
+Contingency plan #6: pull completion string (maximum 80% of TBG yield strength)
+
+until string part from weak point then POOH & L/D string. it is assumed to part from
+
+4 ½” expansion joint as weak point. (Approximately 291 Jts 7” TBG (L-80, 29#,
+
+VAM) between 3SV & X.O.S and 5 Jts above 3SV. (Approximate length of 7” TBG:
+
+3250 m, Yield Strength of 7” TBG 29#, L-80: 676 Klb, Yield strength of 4 ½” TBG
+
+13.5#, L-80 is 307 Klb). POOH completion string as main plan, RIH with proper
+
+Fishing tools, try to catch the fish & work on unlatch completion string from anchor
+
+seal, POOH rest of completion string to surface. If No Success, Mill the remainder of
+
+fish & packer. Follow the rest of main plan.
+
+Contingency plan #7: RIH w/6" or 6 1/8" Mill & Mill the tail of completion string &
+
+Tail in Several Runs, POOH to Surface & L/D mill.
+
+Contingency plan #8: RIH and set RTTS in 9 5/8” CSG as a barrier. N/D BOP,
+
+Change DSA pack off to new one. (or change section C) N/U BOP and pressure test.
+
+Note: DSA pack off Shall be Provided by Client.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+            AZNS12 ST-1 Workover Program                Page 33 of 64
+
+6. BHA Program
+
+ 6.1 8-3/8" C/O BHA
+
+    BIT SIZE (inch)              8-3/8"                                                           Collar  OD
+
+   Depth In/Out (m)                                                             DC-1   6-1/2"
+
+ HOLE INCLINATION          0
+
+ MUD WEIGHT (pcf)          85       BHA Configuration to
+    B.FACTOR              0.827      C/Out Inside 9-5/8" Casing
+
+   Weight in Air (lb)           46,880
+
+  Bouyed Weight (lb)          38,747
+
+Bouyed Weight Below
+                              29,532
+        Jar (lb)
+                                 QUANTITY
+    SCHEMATIC       DESCRIPTION          OD (in) ID (in)   CONNECTION   LENGTH (m)
+                                                 (JT)
+
+                                   5" Drill Pipe                   -         5      4.276      4-1/2" IF Pin x Box                 -
+
+                                     5" HWDP            3         5       3        4-1/2" IF Pin x Box     27.42   173.57
+
+                                  6-1/2" Drill Collar         3         6-1/2   2-13/16      4-1/2" IF. P x B       27.42   146.15
+
+                                      6-1/2" Jar            1         6-1/2     2.75        4-1/2" IF. P x B        8     118.73
+
+                                  6-1/2" Drill Collar         12         6-1/2   2-13/16      4-1/2" IF. P x B      109.68   110.73
+
+                               6-1/2" Bit Sub W/ Float
+                                                 1         6-3/4"     3       4-1/2" Reg. B x IF B     0.75     1.05
+                                    Valve
+
+                                  8-3/8" M.M.J Mill         1         8-1/2"         -         3-1/2" Reg. P x B       0.3      0.3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+            AZNS12 ST-1 Workover Program                Page 34 of 64
+
+6.2 6 1/8" BHA
+
+    Mill SIZE (inch)          6 1/8" Mill                                                           Collar  OD
+
+  Depth In/Out (m)                                                               DC-1   4-3/4"
+
+ HOLE INCLINATION           0
+
+ MUD WEIGHT (pcf)           106       BHA Configuration to
+    B.FACTOR               0.784         C/Out Inside 7" Liner
+
+  Weight in Air (lb)            31,855
+
+ Bouyed Weight (lb)          24,963
+
+Bouyed Weight Below
+                              17,907
+       Jar (lb)
+                                  QUANTITY
+   SCHEMATIC       DESCRIPTION           OD (in) ID (in)   CONNECTION   LENGTH (m)
+                                                   (JT)
+
+                                    5" Drill Pipe                     -         5      4.276      4-1/2" IF Pin x Box                 -
+
+                           XOS               1         4-3/4     2.25    3-1/2" IF P x 4-1/2" IF B    1     344.61
+
+                                    3-1/2" Drill Pipe          12         3-1/2    2-7/16       3-1/2" IF P x B       115.2   343.61
+
+                               -1/2" Heavy Weight Drill Pip      6         3-1/2     2-1/4        3-1/2" IF P x B       54.84   228.41
+
+                                   4-3/4" Drill Collar          3         4-3/4     2.25        3-1/2" IF P x B       27.42   173.57
+
+                                       4-3/4" Jar             1         4-3/4     2.25        3-1/2" IF P x B        8     146.15
+
+                                   4-3/4" Drill Collar          15         4-3/4     2.25        3-1/2" IF P x B       137.1   138.15
+
+                               4-3/4" Bit Sub W/ Float
+                                                   1         4-3/4     2.25  3-1/2" Reg. B x 3-1/2" IF B  0.75     1.05
+                                     Valve
+
+                              6 1/8" Mill             1         5-7/8         -         3-1/2" Reg. P x B       0.3      0.3
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+            AZNS12 ST-1 Workover Program                Page 35 of 64
+
+7. Mud & Cement Program
+
+  Hole     Casing                       Depth
+                           Casing
+   Size        Size                     (m MD)       Drilling Fluid system     Mud Properties
+                       Program
+   (in)       (in)
+
+  26”       20”                        154 m               Already Has been Drilled
+
+                                                              Already Has been Drilled
+ 17 1/2”   13 3/8”
+                                      1259 m
+
+                     ccc
+
+                                                              Already Has been Drilled
+ 12 1/4”    9 5/8”                      3448 m
+
+                                     From                Already Has been Drilled
+                                      3285 m
+ 8 1/2”     7’’ Liner
+                                        To
+                                      3846 m
+
+                                     From
+                                      3779 m               Already Has been Drilled
+ 6 1/8”    5” Liner
+                                        To
+                                      3945 m
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+South Azadegan Oilfield Project
+
+   AZNS12 ST-1 Workover Program                Page 36 of 64
+
+               Fluid Properties Summary
+
+                                        Interval
+    MUD PARAMETERS
+                                                                 I
+
+   Bit diameter               inch
+
+  Density                   pcf              72 - 85
+
+  Marsh Viscosity           sec            38 – 45
+
+  PV                      cps            ALAP
+
+  Yield Point                lb/100ft²             12 – 18
+
+  Gel 10 Sec                 lb/100ft²            3 - 5
+
+  Gel 10 min                 lb/100ft²           4 - 8
+
+  API Filtrate                cc/30'             < 20
+
+  pH                                            -             9 – 10
+
+  Ca++                    mg/l            < 1200
+
+  Total Hardness           Mg/l             <1600
+
+  MBT                 ppb              < 5
+
+  LGS (drilled Solids)       % vol
+
+  CL⁻                     Mg/l         120000-188000
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 37 of 64
+
+Mud volume
+
+                                    DRILLING FLUID TYPE
+
+ Mud Density (pcf)           72           -     85     LGS Below (%vol)                     6
+  Bit Size (inch)                   0              Solid Control Equipment Eff. %           80
+  Section TD (m)                  3945           Hole Wash Out %                      0
+  Casing OD/ID (inch)           9.625  ∕8.835        Dilution Factor (bbl/m)                 0
+  Water Depth (m)                              Meters To Drilled (m)                  0
+                                  Volume information
+                                                       ( Salt Pol Mud )
+Surface System                                                               800    bbl
+Cased Hole Volume                                                            890    bbl
+New Hole Volume                                                              0     bbl
+Wash Out Volume                                                              0     bbl
+                                Sub Total                                           1,690   bbl
+Excess Vol.                                                                  800    bbl
+                                Sub Total                                        2,490   bbl
+Carried from last section                                                         0     bbl
+Volume Received                                                              0     bbl
+                                Sub Total                                        2,490   bbl
+                       New Vol Required                                    2,490   bbl
+Vol transfer out                                                                0     bbl
+                          Unit Size
+        Product                         Concentration              Expected Consumption
+                             lb or bbl
+  Soda Ash                     110                   1-2                           45
+  Caustic Soda               55               0.5 - 1                          45
+  Salt (NaCl)                2,200        Up to 109                            123
+  Starch LV                  55              5 - 6                            272
+  Limestone Powder         2,200          up to 114                            129
+  Xanthan Gum               55               0.5 - 1                          45
+  Biocide                    55                          As Requirement
+                                      Contingency Materials
+           Product Name                         Function                Unit Size      QTY
+  Pipe Lax                                    Pipe freeing agent             55 Gal          2
+ De foamer                             De foamer                 55 Gal          2
+  Citric Acid                                        Alkalinity control              55 lb         20
+ Sodium Bicarbonate              CMT Contaminiation Remover         55 lb         20
+
+ 1-Please note all calculation are based on normal hole condition and maximum SCE effieciency. Concentration and usage of
+ material may be change as hole condition dictate.
+ 2-All the calculation based on max material Concentration which mentioned.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 38 of 64
+
+COMPLETION FLUID SECTION
+The completion fluid for this section will be fresh water treated with a scavenger, inhibitor and biocide.
+Solids-Free CaCl₂ Fluid Systems
+This fluid is recommended to make from fresh water or is solutions made with water and the addition of one or
+more electrolytes. These fluids do not contain either suspended particles or viscosifiers, which mean neither
+filtration control nor viscosity control, are provided. Some Brine is corrosive and when corrosion inhibitors are
+required, compatibility studies should be performed. Some brine is toxic and precautions should be taken to
+prevent contact with unprotected skin. Brine solutions can be prepared to give good inhibition of clays or shales
+in producing formations. In addition, common contaminants do not affect the brines.
+Salt solutions were formerly considered too corrosive to be used as work-over or completion fluids or as packer
+fluids. The corrosion problem can be solved by adjusting the pH of the solution to above 9 (min) to 10;
+however, pH measurements may be less important than measuring and controlling the p-alkalinity of the filtrate;
+this value should be kept above 1 cc. Lime be used for pH control.
+Adjustment of pH, or alkalinity, does not necessarily ensure the solution to be corrosion resistant. It may be
+necessary to use a corrosion inhibitor to achieve lower corrosion rates. In some cases, an oxygen scavenger
+might be used in conjunction with a filming amine inhibitor.
+Corrosion Control
+Corrosion control in completion fluids is important to protect tubular goods and equipment. Corrosion can be
+limited by controlling the fluid pH at the neutral or alkaline level, and   treating  out  dissolved oxygen.  In
+severe  environments  such  as  high temperature or contamination with acid gases, the addition of filming
+amines can limit corrosion to acceptable levels.
+The completion fluid for this section will be Local water treated with a scavenger, and inhibitor.
+Pit management will be a key in the successful completion of this interval and sufficient time for planning and
+preparation should be allowed.
+All valves should be checked for leakage beforehand and defects identified to be reported and rectified by
+drilling contractor.
+The mud pits which are to be used to mix the completion brine, should emptied and cleaned adequately and
+associated lines flushed with water
+
+The rig pumps are to displace all clean up pills as well as the CaCl₂ at intended weight. Prepare spacers and
+wash pills as per program in the tanks. Ensure that sufficient spacer is prepared to account for any dead tanks
+volume.
+Prepare all inhibited CaCl₂ before starting the displacement process. After preparing the brine should be filtered
+through filtration unit and store in a clean pit before displacement.
+Filtration Process:
+Filtration provides clean fluids that will prevent damage to the formation, the reservoir and its permeability. It
+does this by removal of solids and particulates from the fluid that may otherwise block the open space within the
+rock formation containing the hydrocarbon fluid within the production zone.
+Any solids and contaminates in the completion fluid will reduce its effectiveness. An efficiently filtered and
+completely solid free completion fluid will add value to both the productivity and the dependability of the well
+in the long term.
+VIRA dual pod filtration cartridge unit is recommended for filtering brines and produced water in completion,
+stimulation, and workover operations. The pods are connected by a manifold, providing staged filtration
+capability. Staged filtration utilizes cartridge filters with different ratings to maximize filtration efficiency.
+Cartridge filtration is designed for use with fluids containing a low percent by volume of suspended solids.
+Cartridge filtration is not economic when fluids are contaminated with oil or other substances.
+Total Solids can be measured at the wellsite using a turbidity meter. Solids that are not added to the system to
+enhance the performance of a brine are considered contamination. Contaminations include formation clays,
+precipitates, and polymer residues, among other things. These contaminations can be filtered at the well site
+using diatomaceous earth, a plate and frame press, and Five-micron to ten absolute cartridges.
+Note: a clear completion fluid should not be sent to the wellsite with an NTU (Nephelometric Turbidity Unit)
+greater than 30-60 or a suspended-solid Concentration greater than 30-60 ppm and for fluid returning from the
+well NTU should be less than 150.
+
+Displacement Process:
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 39 of 64
+
+It is recommended to circulate and condition the mud prior to displacement and to spot the open hole section to
+conditioned mud or a solids-free fluid loss pill. Circulate and condition the mud as needed prior to pumping the
+clean out pills to optimum displacement properties).
+
+After opening the circulating sub, the pumping sequence is as follows:
+  No.         Description       Volume BBL            Comment
+
+   1          Viscous pill             50                    Clean pill
+          Continue pumping Completion Fluid until cleanliness specification has been met.
+   2
+                          Dump return at surface
+
+    Viscous Spacer as clean pill
+
+NACL Brine or Fresh water
+Xanthan Gum            :       Viscosifiers
+      o  Mixing procedure:
+
+  1.  Fill a tanks with required volume NACL Brine or Fresh water for pump 50 bbl Brine.
+  2. Add 3-4 lb/bbl Xanthan Gum.
+
+   Completion fluid
+
+      CaCl₂ Brine at 85 pcf.
+     Raise PH to Above 9.5 with Lime
+     At the end and before pump to the well
+      Corrosion: Corrosion inhibitor Packer fluid design
+    H₂S Scavenger: to eliminate dissolved Hydrogen Sulfide from formation
+     O₂ Scavenger: Oxygen scavenger (to eliminate dissolved oxygen as source of
+      corrosion)
+
+     Mixing procedure for 1 BBL 80 pcf Brine:
+
+  1.  Fill the tank with 0.9 bbl. fresh water
+  2. Add 195 ppb CaCl₂.
+  3.  Raise PH to above 9.5 with 3 - 4 ppb Lime
+  4. Add 1% V/V Corrosion Inhibitor
+  5. Add 0.5% V/V H₂S Scavenger
+  6. Add 0.5% V/V O₂ Scavenger
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 40 of 64
+
+    RIG CLEAN UP CHECK LIST (Should be done by Rig Operator)
+
+     A. Areas to clean.
+
+  1.  Surface pits.
+  2.  Clean the suction, return, settling, and reserve pits.
+  3.  Clean the sand traps.
+  4.  Clean the ditches and troughs.
+  5.  Clean the trip tank.
+  6.  Clean the shaker area including all solids equipment and lines.
+  7.  Clean the mixing hoppers.
+  8.  Clean the cement unit.
+  9.  Clean any other pits or equipment that the completion fluid may contact.
+  10. Cycle all valves in mixing system.
+
+B. Items to flush out.
+
+  1.  All mud pumps and suction lines.
+  2.  All centrifuges and lines.
+  3.  Chemical and weighting mixing lines in contact with the completion fluid.
+  4.  Lines from the pit room to the trip tank.
+  5.  Lines from the rig floor to the trip tank.
+  6.  Choke, choke manifold and kill lines.
+  7.  Standpipes.
+  8.  Degassing and solids control equipment.
+  9.  Lines to the cement unit and/or other pumping equipment.
+  10. Casings fill up line.
+  11. Lines to and from the filtration line.
+  12. Take on and return lines to and from the boat.
+  13. Any other lines that the completion fluid may contact.
+
+    Displacement Procedure
+
+     Pre-Displacement Steps
+      1. Run bit and dual or tandem scrapers.
+      2. Circulate and condition mud. Reduce funnel viscosity as much as possible while
+     maintaining adequate rheological properties to clean hole and prevent settling of solids.
+     Maintain critical annular velocity to assure that liner tops are thoroughly cleaned prior
+      to displacement.
+      3. Rig up equipment for displacement of completion fluid. All tanks, circulating lines,
+     and pumps to be used in the displacement should be cleared of residual mud.
+      4. Insure sufficient space is available to store displaced mud.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 41 of 64
+
+                                   DRILLING FLUID TYPE
+
+ Mud Density (pcf)        85          -     85     LGS Below (%vol)
+  Bit Size (inch)                 0              Solid Control Equipment Eff. %
+  Section TD (m)                3945           Hole Wash Out %
+  Casing OD/ID (inch)                                Dilution Factor (bbl/m)
+  Water Depth (m)                             Meters To Drilled (m)
+                                 Volume information
+                                           (NaCl Brine)
+Surface System                                                                  250    bbl
+Cased Hole Volume                                                          890    bbl
+New Hole Volume                                                           0     bbl
+Wash Out Volume                                                            0     bbl
+                               Sub Total                                             1,140    bbl
+Dilution Volume                                                             0     bbl
+                               Sub Total                                             1,140    bbl
+30 % Extera Vol                                                                  342    bbl
+Volume Received                                                            0     bbl
+                               Sub Total                                          1,482    bbl
+                      New Vol Required                                      1,482    bbl
+Vol transfer out                                                             0     bbl
+                         Unit Size
+        Product                        Concentration             Expected Consumption
+                            lb or bbl
+  Lime                     55                 3-4                            108
+  CaCl2                    2,200         up to 195                               112
+  Corrosion Inhibitor       55 Gal             1% V/V                              10
+  H₂S Scavenger          55 Gal            0.5% V/V                          5
+  O₂ Scavenger            55 Gal            0.5% V/V                          5
+
+ 1-Please note all calculation are based on normal hole condition and maximum SCE effieciency. Concentration and usage
+ of material may be change as hole condition dictate.
+ 2-All the calculation based on max material Concentration which mentioned.
+
+Note: During preparing completion fluid, O2 scavenger should be added while all mixers
+were off.
+
+ 7.1 Cement Program
+
+Not applicable.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 42 of 64
+
+8.  Completion
+
+ 8.1 Proposed Completion string
+
+     Schematic                                                 Description                           Max OD    Min ID   Length(m)  BTM(m)  TOP(m)
+
+                       1    Elevation ( floor - TBG Head Flange)                                                                                     11.69      0.000
+
+                          TBG HANGER 11" * 4-1/2'' ACME Box up * 4-1/2'' TPCQ-EX Box Down , M/C: FF-0.5 T/C: U
+                       2                                                            PSL: 3G PR: 2, 4" Type ''H'' Two Way                     11       3.68         0.6        12.29     11.690
+
+                                 4-1/2" FLUTED SWAGE ADAPTER D/P, 18.9# TPCQ-EX PIN ON TOP X HSM3 PIN ON DOWN*
+                       3                                                       9Cr1MO                                   5.5       3.64        1.01      13.300     12.290
+                       4                    5 JOINTs TUBING 4 1/2",HSM3 ,18.9#, L-80, Type-1                 5.118     3.64        47.5      60.800     13.300
+                       5                    PUP JOINT 4 1/2",HSM3 ,18.9#, L-80, Type-1                   5.118     3.64        1.62      62.420     60.800
+
+                       6                       4-1/2" FLOW COUPLING,18.9#,9Cr1MO,HSM3 , 6 FT                   5.5       3.64        1.72      64.140     62.420
+
+                            TRSSV Tubing Retrievable Saftey Valve, 4-1/2", 18.9# w/ 3.437" Seal bore,HSM3 ,9Cr1MO,
+                       7                                                        7.5K WP with AF Profile, Flapper Type                        7.5      3.437       1.78      65.920     64.140
+                       8                       4-1/2" FLOW COUPLING, 18.9#,9Cr1MO,HSM3 , 4' FT                   5.5       3.64        1.11      67.030     65.920
+                       9                    PUP JOINT 4 1/2",HSM3 ,18.9#, L-80, Type-1                   5.118     3.64        1.62      68.650     67.030
+                      10                        328 JOINTs TUBING 4-1/2"HSM3 18.9#, L-80                   5.118     3.64      3116     3184.650    68.650
+                      11                   X-over 4-1/2"HSM3, 18.9# BOX * 3-1/2"HSM3 , 10.2# PIN,                5.25     2.922       1.02     3185.670  3184.650
+                      12                    18 JOINTs TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                  4.25     2.922      171     3356.670  3185.670
+                      17                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922       1.82     3358.490  3356.670
+
+                           3 1/2" CIV TUBING RETRIEVABLE CHEMICAL INJECTION MANDRELHSM3 , 10.2#,SUPER 13CR-
+                      18                                                110KSI W/CHECK VALVE, DUAL TYPE & RUPTURE DISC                5       2.922       0.73     3359.220  3358.490
+                      19                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922        1.8      3361.020  3359.220
+                      24                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922        9.5      3370.520  3361.020
+                      21                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922       1.82     3372.340  3370.520
+
+                                3-1/2" EXP. JOINT,HSM3 , 9Cr1MO, 10' STK (Half Closed) Splind Rotational Lock System Any
+                      22                                                               Position, Shear Pin Set 15,000 LBS,                       5.315     2.922      5.755     3378.095  3372.340
+
+                      23                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.822     3379.917  3378.095
+                      24                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922        9.5      3389.417  3379.917
+                      25                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.625     3391.042  3389.417
+
+                                   3-1/2" NON-ELASTOMERIC SLIDING SIDE DOOR, 9Cr1MO, HSM3 with Type X Selective
+                      26                                                          Profile (PROFILE: 2.750" X, DOWNWARD OPEN)                  4.551     2.75        1.19     3392.232  3391.042
+
+                      27                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922        1.7      3393.932  3392.232
+                      28                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922       9.27     3403.202  3393.932
+                      29                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.725     3404.927  3403.202
+
+                               7" 29 PPF CASING HYDRAULIC SET RETRIEVABLE PRODUCTION PACKER TO BE RUN IN 7.00"
+                      31                                                            29 PPF CASING                             5.910     2.922       4.44     3409.367  3404.927
+
+                      33                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.822     3411.189  3409.367
+                      34                    1 JOINT TUBING 3-1/2"HSM3 , 10.2#, L-80.Type-1                   4.25     2.922        9.5      3420.689  3411.189
+                      35                          3-1/2" PUP JOINT,HSM3 , 10.2#, L-80, Type-1                    4.25     2.922      1.825     3422.514  3420.689
+                                 3-1/2" BOTTOM NO-GO LANDING,HSM3 , 10.2#, 9Cr1MO w/ Seal Bore 2.75" TYPE XN (NO-
+                      36                                            GO ID: 2.635")                                 4.5       2.75        0.37     3422.884  3422.514
+                      38                              RE-ENTERYY MULE SHOE                           4.25     2.922       0.37     3423.254  3422.884
+                                END OF COMPLETION STRING                                                                         3423.254
+
+Tubing Retrievable Saftey Valve                                                                                                                    65.920     64.140
+
+Traveling Joint                                                                                                                              3378.095  3372.340
+
+SSD                                                                                                                                        3392.232  3391.042
+
+ 7'' HYDRAULIC SET RETRIEVABLE PRODUCTION PACKER                                                                                 3409.367  3404.927
+
+NO-GO Landing Nipple                                                                                                                       3422.884  3422.514
+
+Entry Guide                                                                                                                                 3423.254  3422.884
+
+                                  Figure 7: Proposed Completion Schematic
+
+         Note: Completion schematic and program will be issued in completion program in due time.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+        South Azadegan Oilfield Project
+
+            AZNS12 ST-1 Workover Program                Page 43 of 64
+
+9.  BOP, Wellhead & X-Mass Tree
+
+ 9.1 Existing Wellhead & X-Mass Tree
+
+                                        Figure 8: Existing Wellhead
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+         South Azadegan Oilfield Project
+
+             AZNS12 ST-1 Workover Program                Page 44 of 64
+
+       Item Well       Casing Head         Casing                        X-mas
+                                                      Tubing Spool
+       type              Housing           Spool                            Tree
+                                              13-5/8" 5 K        11" 5K × 13
+     Sarvak              20-3/4" 3K                                   5K
+                                   × 20 3/4" 3K          5/8" 5 K
+                                              13-5/8" 5 K       11" 10K × 13
+Gadvan / Fahliyan         20-3/4" 3K                                     10K                                   × 20 3/4" 3K          5/8" 5 K
+ Water disposal                              13-5/8" 5 K        11" 5K × 13                           20-3/4" 3K                                   5K
+       wells                          × 20 3/4" 3K          5/8" 5K
+
+      Item                                          Specification
+
+   Casing Head
+                                MC:DD-0.5 3000PSI PSL-2 PR-2, TC: U
+Housing assembly
+
+  Casing Spool                                MC:DD-0.5 5000PSI PSL-2 PR2, TC: U
+    assembly
+
+                            MC: FF-05  5000PSI PSL-3, PR-2, TC: U
+  Tubing Spool                           (Sarvak & Water disposal wells)
+    assembly
+                     MC: FF-0.5 10000PSI PSL-3G, PR-2, TC: U (K&G&F wells)
+
+                   MC: FF 0.5 disposal wells 5000PSI PSL-3G, PR2, TC: U (Sarvak &
+                                                         water)  Tubing hanger
+                      MC: FF 0.5 10000PSI PSL-3G, PR2, TC: U (K&G&F wells)
+
+                           MC: FF 0.5 5000PSI PSL-3G, PR-2, TC: U
+                                           (Sarvak & Water disposal wells)
+ X-Tree assembly
+                     MC: FF 0.5 10000PSI PSL-3G, PR-2, TC: U (K&G&F wells)
+
+                                   Table 10: AZNS Wellhead Information
+
+    Wellhead Specification
+
+NOTE: Wellhead and X-Mass Tree already installed by client.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+              AZNS12 ST-1 Workover Program                Page 45 of 64
+
+            20-3/4" x 13-5/8" x 11" x 4-1/16" x 10,000 psi WP for Fahliyan wells
+
+          Casing head housing for 20” (94lb/ft) OD casing x 20 3/4” 3,000 psi API flange has hold
+         down bolts for wear bushing, with 2 x 2- 1/16” 3000 psi studded side outlets, test ports and
+              seals. One side outlet has one 2 1/16”x 3,000 psi manual gate valve, 2” LP threaded companion
+            flange and 2” bull plug threaded for ½” NPT and fitted with 0-3,000 psi gauge and needle valve
+            and, the other side to have 2 1/16” x 3,000 psi x 2” LP threaded flange and 2” bull plug. Casing
+Section A
+              slip and seal assembly self-energizing to hang 13 3/8” (68lb/ft) OD casing. This section is
+             installed on 20” casing stub by way of slip lock with landing plate on 30" conductor pipe.
+           Material DD-0.5, PSL-2, PR-2, Temp U. Height: 630mm
+            Material: Forged alloy steel 4130
+           Automatic casing slip material: Low alloy steel 4130
+          Casing head spool with 13 5/8” 5,000 psi top flange x 20 3/4” 3,000 psi bottom flange has hold
+         down bolts for wear bushing and bottom preparation to seal on 13 3/8” OD casing with test
+             ports to test annular space and casing seals. One side outlet has one 2 1/16”x 5,000psi manual
+            gate valve, 2” LP threaded companion flange and 2” bull plug on one side and, the other side
+           has one 2 1/16”x 5,000psi manual gate valve, 2” LP threaded companion flange, 2” bull plug
+Section B
+            threaded for ½” NPT and fitted with 0-5,000psi gauge and needle valve. Casing slip and seal
+           assembly self-energizing to hang 9 5/8” (47lb/ft) OD casing. Material DD-0.5, PSL-2, PR-2,
+        Temp U. Height: 665mm
+            Material: Forged low alloy steel 4130
+          13 5/8”x 9 5/8” automatic casing slip material: Low alloy steel 4130
+          Tubing head spool with 11” 10,000 psi top flange x 13 5/8” 5,000 psi bottom flange has hold
+         down bolts for wear bushing and bottom preparation to seal on 9 5/8” OD casing with test
+             ports to test annular space and casing seals C/W T.D.Screws with 410SS material Side outlets
+           have 1.900" sharp vee VR threads on both sides, to have two 2 1/16”x 10,000psi manual gate
+             valve, 2”ACME 10K female thread companion flange, 2” bull plug threaded for ½”NPT and
+              fitted with 0-10,000psi gauge and needle valve on one side and, the other side to have the first 2
+           1/16”x 10,000psi manual gate valve, 2 1/16" 10,000 psi instrument flange installed with 0ne
+        ½”NPT and fitted with 0-10,000psi gauge and needle valve, and the second 2 1/16" x 10,000 psi
+          manual gate valve, 2” ACME 10K female thread companion flange and 2” bull plug.(manual
+Section C  G.valve to be non-rising stem w/back seat capability). Clear bore for passing 8-1/2" BHA.
+          The 11" x 4 1/2" tubing hanger has 4 1/2" 18.9ppf premium conn. Top & bottom thread one
+            continuous 1/4" NPT control line exit for SSSV, two channels for 3/8" chemical injection line
+              exit, one 1/4" line exit for DHPG. 4" type "H" BPV thread preparation, one metal seal & two S-
+        SEALS to pack off the upper neck and two S-SEAL to pack off the body of hanger, and tonging
+            preparation on the lower neck. Tubing hanger shall have factory-torqued double pin tubing pup
+              joint 4 1/2" 18.9 ppf, L80, New Vam approximate length 1600mm to facilitate makeup.
+           Material FF-0.5, PSL-3, PR-2 with exception to tubing hanger: FF 0.5, PSL-3G, PR-2,
+        Temp U. Height: 850mm
+            Material of body: Forged low alloy steel 410SS
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+              AZNS12 ST-1 Workover Program                Page 46 of 64
+
+          G. valves, material of seats/gates & stem: Forged alloy steel AISI 410SS
+            Seats & gates coated by tungsten carbide by HVOF method.
+
+          Tubing head adaptor (w/one integral manual G. valve) 11” 10,000psi studded flange x 4
+           1/16” 10,000psi full bore manual gate valve with bottom preparation to seal on tubing hanger
+           (one metal seal & 2 S. seal) and with test ports to test annular space and seals, top prepared with
+           one continuous 1/4" NPT control line exit, one 1/4" line exit for DHPG and two channels for
+           3/8" chemical injection line exit. (Manual G. valve to be non-rising stem w/back seat capability)
+          The T-TYPE Christmas tree consists of the following: (1) Solid block valve (T-Type): 4
+            1/16" 10000psi bottom flange for tubing adaptor. 4 1/16" 10000psi lower manual gate valve, 4
+            1/16" 10000psi upper gate valve with SSV w/ hydraulic actuator, including wire line cutting
+            function & lock open cap, (2) 4 1/16" 10000psi manual swab valve. With two 4 1/16" 10000psi
+           studded outside for wing valves. With one 4 1/16" 10000psi studded top flange for tree cap. (3)
+           one wing valve 4 1/16" 10,000 psi full-bore manual gate valve, one instrument flange with one
+Section D  1/2" NPT ports c/w one 0-10,000 psi pressure gauge and needle valve installed and one 4
+            1/16"10,000psi Cage type positive choke with 90 deg outlet.(With 2 no of each Wrench):
+             positive choke with 2 sets of bean sizes 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64,
+           128/64 inch and with welding flange prepared for 4" pipe(specification to be confirmed). (4)
+          The other wing with one 4 1/16" 10,000psi full-bore manual gate valve and one companion
+            flange w/2” ACME 10K female thread. (5) Quick union type Tree Cap above, with 4 1/16"
+            10,000psi flange at bottom, ACME thread union on top, including 1/2"NPT port for needle
+            valve and pressure gauge. Material FF-0.5, PSL-3G, PR-2, Temp U. Height of integral
+           tubing head adaptor and gate valve=800mm.
+            Material of body: 410ss
+          G. valves, material of seats/gates & stem: Forged alloy steel, AISI 410SS
+            Seats & gates coated by tungsten carbide by HVOF method.
+                                    Table 11: AZNS 122 Wellhead Specification
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+          South Azadegan Oilfield Project
+
+               AZNS12 ST-1 Workover Program                Page 47 of 64
+
+9.2 Proposed Wellhead schematic
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 48 of 64
+
+ 9.3 BOP
+
+                                                 Figure 9: BOP Sketch
+10.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                 AZNS12 ST-1 Workover Program                Page 49 of 64
+
+10.  Waste Management
+
+ In case of requirement to dispose wastewater in workover well, waste management program will be
+ issued at due time as PEDEC policy.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                 AZNS12 ST-1 Workover Program                Page 50 of 64
+
+11.  Health, Safety and Environments
+
+  12.1   WELL CONTROL
+ All the drilling operation shall obey the requirement of Well Control Manual of MSA and contractor’s
+ well control manual; under no circumstances should the deviation from well control policy be permitted
+ without prior approval through MSA. If the contractor’s well control manual or anywhere has conflict
+ with Well Control Manual of MSA, take Well Control Manual of MSA as the standard.
+
+  12.1.1 WORK Requirement of Well Control Equipment
+    With shut-in casing pressure lower than 1,000psi, while snubbing with annular preventer, drill tools
+      shall have 18-deg shoulder tool joints, and the snubbing velocity shall not be greater than 0.2m/s.
+     After shut off the annular preventer or ram preventer, with the shut-in casing pressure not greater
+     than 2,000psi, drill tools are allowed to pull up and down with the velocity less than 0.2m/s,
+     however, rotating or tool joint passing through are forbidden.
+    While drilling through pay zone and thereafter, BOP function (close-open) test for the BOPs shall be
+     performed regularly.
+     Kill manifolds shall not be used for drilling fluid fill-in.
+    The maximum allowed shut-in casing pressure shall be remarkably indicated on choke manifolds.
+     All gate valves of well control manifolds shall be tagged with serial numbers, and be indicated with
+      on/Off.
+     In case shear rams were used, after shearing the drill pipe with shear rams, retrieve the upper sheared
+       drill pipe, lower a drill pipe joint with TIW valve installed into the hole and close pipe rams on it to
+      prevent the possibility of shear ram’s failure.
+
+  12.1.2  Management of Well Control Equipment
+    Well control equipment used by the drilling crew shall be managed and operated by designated
+     personnel with clear post responsibilities.
+    Well  site  shall have specified component storeroom and rubber element storeroom with  air
+      conditioners  respectively. The temperature of storerooms  shall meet storage requirements of
+     components and rubber elements.
+    At least 1 set is available as back-up for every type ram assembly in the well site. Ram preventer
+      side door seals and ram rubber, every type gasket and bolt etc. should be enough for backup.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 51 of 64
+
+ 12.2    Recording Reference
+All BOP tests, drills, function tests, any malfunctions, repair or maintenance to the mud System and well
+control equipment shall be recorded in the IADC daily reports and shall be signed by both the Drilling
+Contractor's Tool Pusher and Drilling Supervisor on the well site. They shall also be recorded in the
+Daily Drilling Report.
+
+ 12.3    Flow Check Procedure
+To avoid a kick situation, it is recommended that a flow check be conducted at specific times during the
+drilling operation.
+While drilling (any warning sign).
+Prior to tripping the drill string.
+While tripping (any warning sign).
+While out of hole (continuously).
+Trip out:
+After pulling 5% of the drill pipe
+At the midpoint depth of the wellbore
+Prior to pulling the first stand of drill collars
+After all the drill string is out of hole.
+Trip in:
+Upon reaching surface casing shoe
+At midpoint of the wellbore
+
+ 12.4    Primary Control Reference
+It is the responsibility of the Drilling Contractor to keep the hole full at all times by using all the
+available equipment. The Drilling Supervisor shall monitor that the correct preventive practices are being
+implemented and/or conducted at all times.
+Extreme care shall be taken to monitor mud volume, drilling breaks and gas cut mud.
+The MACP (Maximum allowable casing pressure) shall be confirmed by the Drilling Supervisor, either
+after setting each new casing string or, whenever the density of the drilling mud changes.
+The MACP shall be clearly written on a kick control sheet that will be posted near the choke control
+panel.
+The predetermined distance at which the Tool Joint is to be pulled above the rotary should be posted on
+rig floor near the BOP control panel.
+The Driller is responsible for carefully measuring and recording the slow pump pressure.
+Awareness of these values is an important element in killing operations, in order to avoid formation
+breakdown.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 52 of 64
+
+Take a measure and record the slow pump pressure at three different flow rates with all pumps at the
+following times:
+Once per tour.
+Whenever changes occur in the mud density/rheology.
+Whenever changes occur in the dimension and characteristics of the string, BHA, jet size, jet plugged or
+jet lost, etc.
+
+ 12.5    Secondary Control Reference
+Any time a drilling break is noticed, drilling shall stop and a static monitoring of the well shall be carried
+out. Space-out for all Pipe Rams and Annular Preventer must be known to the Driller at all times to keep
+tool joints clear of annular preventer and rams.
+
+ 12.6    Well control during drilling and completion operation
+The drilling design shall be strictly implemented by the drilling contractor and when it is discovered there is incompliance of
+downhole situation with design and the design will be amended, the procedure for amendment of design shall be followed. If
+emergency is encountered, and safe operation can be affected, after the discussion between drilling rig manager and the
+drilling supervisor, practical technical measures can be taken first and then report to the top management. The Company shall
+approve and notice in time as per the drilling program amendment procedure.
+The curve of well equivalent mud weight as per predicted formation pressure, curve of mud weight in drilling program and
+curve of actual mud weight must be drawn during drilling operation. For exploratory well and key well, the curve of dc index
+while drilling formation pressure equivalent mud weight for sandstone, mudstone and shale shall be drawn by the
+comprehensive mud logging crew.
+When entering oil and gas formation or drilling master reservoir, high diameter nozzle shall be selected for the drilling bit to
+treat well killing and mud loss.
+SCR (Slow Circulation Rate) shall be conducted at the start of drilling activity, pump strokes, pumping rate and circulating
+pressure should be recorded. While drilling in pay zone, SCR is required to be conducted with all pumps separately as
+follows, pump strokes, pumping rate and circulating pressure shall be recorded in Daily Drilling Report and Kill Sheet.
+Once for every 12 hours in general;
+After bit change or BHA change; 3) Mud weight change exceeds 3.75pcf.
+Oil and gas invasion and overflow shall be checked with wiper trip and shall be conducted under the following situation:
+Each time before POOH after drilling oil and gas formations.
+Severe invasion of oil and gas occurs during drilling, but overflow does not occur before POOH.
+POOH after killing well.
+POOH after lowering mud weight in wellbore.
+POOH after curing mud loss during drilling oil and gas formation.
+POOH after drilling oil and gas formation and a prolonged period of time is needed for other operations
+(E logging, running casing, running tubing and DST etc.).
+Regarding the shut-in methods selection
+Soft shut-in method is recommended for gas well;
+Hard shut-in method is recommended for oil well;
+Hard shut-in method is recommended for the well of which the well has strong formation strength in
+EMW as per FIT test;
+Soft shut-in method is recommended for the well of which the well has weak formation strength in EMW
+as per FIT test.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 53 of 64
+
+Main technical measures for prevention of kicking and blowout during tripping.
+Before POOH, circulation duration of mud in wellbore shall not be less than one and a half cycles. The
+observation time after wiper trip shall be no less than one and a half cycles. The density differential of
+inlet and outlet shall not exceed 1.248 pcf.
+Flow check shall be conducted regularly via trip tank as follows
+Prior to POOH (keep string rotation at 10 rpm for preventing stuck pipe)
+POOH to last casing shoe
+Before POOH BHA through BOP stack
+Note: Tripping should be shut-off immediately and flow check shall be performed later on when any
+suspected well kick is observed.
+During POOH, fill up hole every 3-5 stands of DP and every stand of DC. If the nozzle is plugged,
+during POOH, mud shall be filled full for each joint or continuous filling shall be conducted and trip
+sheet shall be recorded carefully.
+When the bit is in the oil and gas formation and 300m above top of oil and gas formation, POOH speed
+shall be controlled to maintain the excellent well building property and rheological property of mud to
+avoid severe swabbing in the wellbore.
+During RIH, the running speed shall be controlled to avoid the loss of circulation due to down hole
+pressure surge.
+During tripping, check and repair of the equipment shall be arranged at the time when running to the
+casing shoe. if equipment have to be checked and repaired during POOH, due blowout prevention
+measures shall be taken during and after the check and repair, drill string shall be run to bottom and
+circulate for one and a half cycles. After everything is normal, drilling shall be resumed. Equipment
+check and repair shall not be conducted for empty well condition.
+Treatment measures for invasion of gas during normal drilling:
+When invasion of gas is discovered, it shall be discharged with circulation in time. The gas invaded mud
+shall not be pumped in the hole before eliminating gas.
+Increasing mud weight shall be conducted when stop drilling and after invaded gas eliminated from mud.
+Mud weight incremental of each circulation cycle shall be controlled within 3.121 pcf
+"In-post" policy
+"In-post" will be initiated after the surface casing is cemented.
+The "in-post" personnel must be trained and verified qualified by the technical staff of drilling rig.
+During drilling, specific personnel shall be arranged to be "in-post", the mud logging personnel shall
+monitor the level of the circulating tank etc. as per the requirements. During tripping, other auxiliary
+operation or drilling suspension, specific personnel for "in-post" shall be arranged by the drilling and
+mud logging personnel in the meantime.
+"In-post" requirements:
+For drilling operation, variation of the outlet flow, drilling time, lithology, bubble, smell, showings, pit
+volume, density and mud viscosity, gas measured values and content of chloride etc. shall be carefully
+monitored. The level of the circulating tank shall be observed and recorded each 15 minutes and if
+special situation occurs, the measurement and record shall be intensified. If anomaly occurs, it shall be
+reported to the driller in time.
+For tripping operation, trip sheet shall be filled accordingly. If anomaly occurs, it shall be reported to the
+driller.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 54 of 64
+
+For other operations, it shall be observed whether there is overflow of mud at the wellhead or mud level
+from wellhead. If anomaly occurs, it shall be reported to the driller.
+Treatment of loss of circulation
+Before cementing non-target zone or pay zone, if loss of circulation occurs during drilling, POOH shall
+be carried to run open ended drill pipe for cement plug job if condition allows. During RIH, mud shall be
+filled from annulus to balance formation pressure to avoid blowout.
+Treatment of loss of circulation during drilling after production casing cemented
+Mud level not at wellhead after loss of circulation. Stop drilling, pick up TDS or Kelly, stop pumps and
+observe with moving the drill string and prepare well control related work. Each 10 minutes, mud with
+density no lower than the drilling weight shall be reversely filled up from the annulus. Each time, the
+filling up shall be 1~2m3, or continuous reserve injecting mud with small speed to maintain that the
+column pressure of mud in wellbore is higher than the formation pressure. POOH to casing shoe or
+safety interval for observation. Additional treatment shall be made as per the situation of loss of
+circulation.
+Mud level at wellhead after loss of circulation. Stop drilling, pick up TDS or Kelly, stop pumps and
+move the drill string to observe with well control well prepared. When the well is static, pull the bit
+upward to the casing shoe or safe interval for observation. If no anomaly is observed, circulate with slow
+pump rate. The measures such as plugging back job, POOH or condition mud etc. shall be carried out as
+per the situation of loss of circulation. If loss of circulation occurs to pay zone, mud weight shall be
+acquired by static pressure. After pulling out to casing shoe and observing for one tripping cycle, when
+no more loss of circulation occurs after running to bottom, drilling operation can be resumed.
+Well control for E logging, cementing and DST
+Before E logging, down hole condition shall be stable and static. If it takes long time for electrical
+logging, one more condition trip shall be conducted between logging. Shooting nipple is required for
+logging. Logging service shall be furnished with tools for cutting the cables.
+Continuously fill the well during performing wireline logging, and keep closely monitoring for the well
+via trip tank.
+Before running casing, ensure the well is in static condition without any flowing. Pipe ram shall be
+changed to casing ram with proper size. Casing circulating head or crossover sub between casing and in
+used DP shall be kept at rig floor at all times during casing running.
+The hydrostatic pressure shall be kept balance with formation pressure during whole cementing job to
+avoid blowout due to loss of circulation, loss of balance for pressure and cement weight loss during
+WOC.
+
+ 12.7   HEALTH
+This well is committed to develop for oil in a responsible manner that promotes employees' and local
+inhabitants' health.
+A trained Paramedic and proper MEDIVAC equipment and ambulance shall be stationed on the drilling
+rig during the drilling campaign.
+An emergency medical evacuation plan shall be coordinated, and shall keep in touch with emergency
+response centres manned by qualified doctor 24-hours per day in Ahwaz city.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 55 of 64
+
+Medical emergency report and investigation shall be performed as soon as possible in accordance with
+Medical Emergency Procedures.
+
+ 12.8   SAFETY
+Due to high concentration of H2S in Sarvak, Kazhdumi and Gadvan reservoirs, Make detail H2S
+operation procedures, in particular, and carry it out strictly.
+Lifesaving equipment like SCBA, Escape Mask, H2S detectors (Multi portable and personal detector)
+and implement the H2S Services system during drilling activity should be provided.
+All lifting equipment and cranes must be certified by approved 3rd party (approved by Institute of
+Standards & Industrial Research of Iran)
+All electrical equipment should be designed for such locations, and listed by nationally recognized
+testing laboratory. All wiring components and electrical equipment should be maintained in accordance
+with the manufacturers’ recommendation.
+PSSR (Pre-Startup Safety Review) before spud-in and penetrating into oil and gas formations are
+mandatory by contractor under the supervision of Company and approved by Company.
+
+ 12.9   ENVIRONMENT
+Requirement on location
+The access road and well location construction shall be accorded with construction program of well
+location. It minimizes any impacts on the local residents, prevent all soil contamination, prevent all
+ground water contamination, and prevent all surface water contamination. Cutting and waste water pit
+shall be lining and drainage system shall be good and to avoid farm and season canal contamination.
+Management regulation for transportation truck, drilling operation machine and tools shall be carried out
+strictly to avoid damage farm and trees, etc.
+Well site shall be flat and clean. All the equipment, materials, drilling tools shall be put in order.
+ Control the rig noise to decrease the influence to surroundings while drilling at the inhabitation area.
+Contractor shall perform on‐site segregation of wastes prior to transfer to the transfer area and/or
+delivery to the transportation Contractor in accordance with the following waste hazard classification.
+Non-Hazardous Wastes (Re-usable, Recyclable and Recoverable Wastes)
+Ferrous and non-ferrous metals, plastics, and wood wastes, PETs and potentially paper and glass.
+Materials  shall  be  separately  segregated  and  provision may be made  for  size  reduction  and
+containerization equipment.
+The Contractor/Generators are encouraged to seek for recycle/re-use alternatives based on the Local
+available facilities, for final disposal of these materials.
+It should be noted that landfill disposal of metal waste materials and wood wastes shall be prohibited.
+For wood wastes re-use of and/or salvage of commercial timber, or deliver/release to.
+Local community are recommended.
+Hazardous Wastes
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 56 of 64
+
+Hazardous Waste, such as clinic waste, oil waste, waste produced by painting, insulation works shall be
+duly segregated.
+Facilities of environment protection supplied to well site
+Mud purifying circulation system.
+Cooling water spraying and circulating system for drilling pump.
+Special recovery tank for deposed oil.
+Reserve house for valuable mud chemicals.
+Automatic mud weighting supply system.
+BOP stack is equipped according to drilling design.
+Define a separation area for gathering all waste according to waste management procedure
+Requirement of environment protection on location
+Sewage pit Area of the sewage pit: 1500 m2.
+Prior to spud, mud pit and sewage pit must comply with the standard. Install cooling water spraying and
+circulating system for drilling pump and sewage circulating system for cleaning rig floor and equipment.
+Install BOP stack and pressure test shall be operated according to the drilling design to avoid blowout.
+Install oil supply lines and check whether there is any leakage.
+Management of environment protection on location
+In drilling operation keep mud and sewage from overflowing. If it happens, clean up timely.
+Mud chemicals shall be stored according to the standard and shall not be scattered around well site. If
+mud chemicals scatter while loading or unloading, clean it up at once. The sack of mud chemicals shall
+be recovered. Do not dispose it on site.
+Enhance water management at well location and do not wash equipment with fresh water. Stop water
+flowing for long time. Overhead tanks shall be utilized.
+Oil management shall be carefully at the well site. No oil dirt on site, no dripping and leaking at oil tank
+and manifold system area.
+After the well is completed, reinforce the sewage pit solidify the disposed mud and have environment
+procedure fulfilled.
+Install fuel supply lines and keep them in good condition.
+All the drilling fluid materials shall be recovered and shall not be left at the well site after completion.
+The environmental protection personnel from contractor and operator side shall check and accept the
+well site environment according to the regulation after completion. Only well site environment  is
+qualified, the well can be delivered.
+Transition Area for Hazardous Waste shall also be provided by each Contractor in his allocated area,
+Company shall approve each area before use as well. The transition area of hazardous waste shall be:
+Paved, fenced, marked and illuminated
+Equipped with appropriate Fire Extinguisher and other emergency response equipment (e.g. Eye-Wash
+and Emergency Shower, appropriate First Aid kits, neutralizer substances etc.).
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 57 of 64
+
+In compliance with the requirements of handling, transportation and storage of hazardous waste (based
+on usage chemical MSDS).
+Configured to accommodate a safe physical separation of incompatible waste materials (e.g. acids, and
+alkalis, organic materials and strong oxidizing agents).
+Capable enough to provide storage for the entire range of hazardous wastes generated during the work.
+The area shall be provided with Spill Containment and means of preventing run‐off to and from the area.
+All waste containers to be stored shall be appropriately labelled.
+Hazardous Waste shall be transferred in a timely manner, within a maximum period of 48 hours, for any
+period in excess of this permission shall be granted from Company and/or PEDEC.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                 AZNS12 ST-1 Workover Program                Page 58 of 64
+
+12.  H2S Monitoring & Prevention Measure
+
+  13.1    Monitoring H2S
+ Somewhere on the well site is apt to accumulate H2S, such as mud pit, shale shaker, and drilling
+ platform, should be installed one set of. Make sure H2S monitor and alarm system can be used. Alarm
+ threshold setting for H2S warning indicator: the first warning level is 10mg/m3, unable warning sound,
+  just show present value of H2S content to operators. The second warning level is 20mg/m3, when the
+ H2S content in air exceed 20mg/m3, H2S warning indicator can give an alarm automatically, and
+ warning sound should be heard by everyone work in well site. The audible alarm should be installed on
+ Kelly board.
+ Equip enough gas masks on drilling platform, shaker screen (total amount should large than 24), and
+ equip 12 sets of 30min positive pressure Air Aspirators 2 sets of portable H2S monitor and appropriative
+ H2S warning indicator. Arrange a person specially assigned for taking charge  all the protective
+ apparatus. This man must do periodical check to keep these equipment in a good condition.
+ H2S monitor should be done weekly check and compulsory examination.
+ After drilling into the pay zone, strengthen the detection of H2S content in mud.
+
+  13.2    Measures for H2S prevention
+ Windsocks shall be set on the drill floor and in the monsoon direction or/and prevailing wind direction of
+ Azadegan oil field, off well site. In emergency, employees must follow the evacuation procedure.
+ Explosion-proof blowers shall be installed around the rig, shale shaker, and drilling fluid tanks to blow
+ away toxic and flammable gas at the well site.
+ The rig crew in the H2S area shall be furnished with H2S monitors and adequate protective apparatus.
+ Everybody shall be able to use, maintain, and check the apparatus.
+ The technicians of rig crew are responsible for H2S proof training and the tool pusher is in charge of the
+ supervision and examination.
+ The pH value of drilling fluid in the H2S area shall be kept over 9.5. Pay attention to measurement of
+ H2S concentration in drilling fluid. The H2S concentration shall be kept at less than 50mg/cm3 by using
+ sulphur removal agents and degassers.
+ Personnel safety and protection shall be carried out according to SY/T5087 during operations in polluted
+ areas where H2S content exceeds the critical concentration.
+ When the rig crew makes decision to bleed and fire because well control cannot be performed due to well
+  site conditions, operations shall be performed according to procedures in SY/T5087.
+ Once blowout occurs, the incident shall be reported to the higher level department as soon as possible
+ and firefighting trucks, ambulances, medical care personnel and technicians shall be on duty at the well
+  site.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+           South Azadegan Oilfield Project
+
+                AZNS12 ST-1 Workover Program                Page 59 of 64
+
+After the blowout is controlled, H2S concentration should be measured in the places where H2S is
+possible to gather.
+The personnel are not allowed to access until the H2S concentration is below the critical concentration.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+            South Azadegan Oilfield Project
+
+                 AZNS12 ST-1 Workover Program                Page 60 of 64
+
+13.  Handover Data
+
+ The handover document should contain the following well construction information:
+       Pre-spud Inspection Report
+       Daily Drilling Report
+       Daily Mud Report
+       Daily Mud Logging Report
+       Completion Tally
+       Completion running Report
+       TMS data (Completion)
+       Dry Test report
+       Test Charts, X-Mass tree Installation & test Report.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+                   South Azadegan Oilfield Project
+
+                         AZNS12 ST-1 Workover Program                Page 61 of 64
+
+14.  Requirements
+
+            Item                               Description                         QTY.         Unit           Supplier
+
+            1      8-3/8" M.M.J Mill                                                    2             Ea.         MSA
+
+            2     8 3/8” Tri Cone Bit                                                   1             Ea.         MSA
+
+            3     6" or 6 1/8" M.M..J Mill                                               2             Ea.         MSA
+
+            4     6" or 6 1/8" Tri cone bit                                                1             Ea.         MSA
+
+            5      2"-4" Taper Tap                                                      2             Ea.         MSA
+
+            6     4 1/8” M.M.J Mill                                                    1              Ea..        MSA
+
+            7     4 1/2" * 3 1/2" Completion String 7.5K                                   1               set         MSA
+
+            8      Drift Gauge, API for 4 ½” 18.9 ppf Tubing                                2             Ea.         MSA
+
+            9      Drift Gauge, API for 3 ½” 10.2 ppf Tubing                                2             Ea.         MSA
+
+            10     Thread Seal compound, 10 kg/pail                                      10            Ea.         MSA
+
+            11     Thread Lock compound, API modified, each box contains 12 kit, 1 lb/kit        4             Ea.         MSA
+
+            12     Section C of Wellhead                                                 1             Set         MSA
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+             South Azadegan Oilfield Project
+
+                  AZNS12 ST-1 Workover Program                Page 62 of 64
+
+13     Section D of Wellhead                                                 1             Set         MSA
+
+14    7 1/16” 5K companion Flange                                           2             Ea.        PEDEC/PPL
+
+15    X.O.S (7" VAM Pin x 4 1/2" IF Box)                                    1             Ea.        PEDEC/PPL
+
+       7" VAM Landing Joint suitable with TBG HGR 10" X 7"VAM X 9 5/8"
+16                                                                       1             Ea.        PEDEC/PPL     NECK. (at least 12 m length)
+
+     TBG Hanger BPV (Own way/Tow way) suitable for TBG HGR 10" X
+17                                                                       1             Set        PEDEC/PPL     7"VAM X 9 5/8" NECK with required redress kit. ( Nominal size: 6 5/8")
+
+     TBG Hanger BPV (Own way/Tow way) Setting/Retrieving Tool and 5K
+18                                                                       1             Set        PEDEC/PPL       complete set Lubricator (Under Well Pressure) with required redress kit
+     3SV Accessories (Protecton Sleeve, Seperation Sleeve, dummy valve
+19      suitable for 3SV BAKER model "BA", Landing nipple 5.950" with All          1             Set        PEDEC/PPL
+       Related Running/Pulling Tools) with required redress kit
+     SSD Accessories (Shifting Tool, plug Equalizing Prong, etc. for BAKER
+20   MODEL "CMD", profile size" 3.125" With All Related Running/Pulling        1             Set        PEDEC/PPL
+       Tools) with required redress kit
+     NO-GO L.NPL Accessories (Plug, Equalizing Prong, etc. With All
+21     Related Running/Pulling Tools) for 2.812" AF profile with required            1             Set        PEDEC/PPL
+        redress kit
+     NO-GO L.NPL Accessories (Plug, Equalizing Prong, etc. With All
+22     Related Running/Pulling Tools) for 2.812" AF profile with required            1             Set        PEDEC/PPL
+        redress kit
+
+23    X.O.S 7" VAM Pin x 4 1/2" IF BOX                                     1             Set        PEDEC/PPL
+
+24     7" VAM Pin Golpa. Flange (flange 7 1/16" 5K)                            1             Set        PEDEC/PPL
+
+25     9-5/8" & 7" Scraper                                               1+1             ea.         OEOC
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+             South Azadegan Oilfield Project
+
+                  AZNS12 ST-1 Workover Program                Page 63 of 64
+
+26     5" DP,HWDP, 3 ½” DP & HWDP                                          as required                OEOC
+
+27    Well Head Services                                                        as required                       Service Co.
+
+28     Surface Well Test Services                                                 as required                       Service Co.
+
+29     Completion Services                                                       as required                       Service Co.
+
+30     Slick line Services                                                          as required                       Service Co.
+
+31     Casing Running Services                                                   as required                       Service Co.
+
+32     Wireline Logging                                                          as required                       Service Co.
+
+33    Dry Test, DST, RTTS                                                      as required                       Service Co.
+
+34    Cementing Services                                                        as required                       Service Co.
+
+35     Stimulation (Coiled Tubing, Acidizing and N2) Services                     as required                       Service Co.
+
+36    H2S Services                                                               as required                       Service Co.
+
+37   Mud Logging Services                                                      as required                       Service Co.
+
+38    Rig Services                                                               as required                       Service Co.
+
+────────────────────────────────────────────
+────────────────────────────────────────────
+              South Azadegan Oilfield Project
+
+                   AZNS12 ST-1 Workover Program                Page 64 of 64
+
+  39     Drilling & Completion Fluid Services                                       as required                       Service Co.
+
+Note: Quantity & Spec to be conformed with contract's SOW.
+Note: In case of any shortage or discrepancy, the contract's SOW will be reference.
+                                                       Table 12: List of Requirements

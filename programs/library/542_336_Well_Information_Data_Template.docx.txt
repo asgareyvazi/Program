@@ -1,0 +1,40 @@
+
+WELL INFORMATION DATA SHEET
+Project No.:
+Operator name:
+Rig Name:
+Field name:
+This document and the Hydraulic System Calculation file to be stored in the PDM system under respective project no. in folder  " 7030 Hydraulics System Calculations"
+
+[جدول 1]
+CLIENT SUPPLIED INFORMATION :
+Well Information
+Well Name/No | 
+Well type | 
+Water Depth |  | m |  | ft
+Air gap (sea level to installation deck level) |  | m |  | ft
+Mud Properties
+Mud type | 
+Mud Weight |  | SG |  | ppg
+Plastic Viscosity |  | Cp
+Yield point |  | Lb/100 sq.ft
+Formation Properties
+Formation type | 
+Formation Density |  | SG |  | ppg
+Drilling Information
+Flow Rate Drilling                            Min |  | L/min |  | Gal/min
+Max |  | L/min |  | Gal/min
+Drill Hole Size |  | Inch
+Rate of Penetration (ROP) |  | m/h |  | ft/h
+Solids size |  | mm |  | inch
+Well Issues (List main issues such as shallow gas, water etc)
+
+
+Returns Density - Mud and Cuttings, to be calculated in "Hydraulic System Calculations"     Client Representative confirmation:     _____________                ________________                                                                Date                                 Signature
+Revision History
+Revision | Date | Description | Sign
+ |  |  | 
+ |  |  | 
+ |  |  | 
+
+

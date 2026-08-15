@@ -1,0 +1,3145 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 67 ]
+────────────────────────────────────────────
+                       ARPO         ORGANISING        TYPE OF      ISSUING     DOC.    REFER TO    PAGE.                                                                                 1
+          ENI  S.p.A.               DEPARTMENT         ACTIVITY'      DEPT.     TYPE    SECTION N.
+         Agip Division                                                                                                OF  67
+                            STAP        P        1    M     6120
+
+
+  TITLE
+
+                 DIRECTIONAL CONTROL & SURVEYING PROCEDURES
+
+
+
+
+
+                               DISTRIBUTION LIST
+
+
+  Eni - Agip Division Italian Districts
+
+  Eni - Agip Division Affiliated Companies
+
+  Eni - Agip Division Headquarter Drilling & Completion Units
+
+  STAP Archive
+
+  Eni - Agip Division Headquarter Subsurface Geology Units
+
+  Eni - Agip Division Headquarter Reservoir Units
+
+  Eni - Agip Division Headquarter Coordination Units for Italian Activities
+
+  Eni - Agip Division Headquarter Coordination Units for Foreign Activities
+
+
+
+
+
+  NOTE: The present document is available in Eni Agip Intranet (http://wwwarpo.in.agip.it) and a
+        CD-Rom version can also be distributed (requests will be addressed to STAP Dept. in
+          Eni - Agip Division Headquarter)
+
+
+                                     Date of issue:    28/06/99
+
+
+
+
+
+
+
+
+
+  Issued by                                       P. Magarini                                                                 C. Lanzetta      A. Galletta
+                                                     E. Monaci
+                                                   28/06/99        28/06/99        28/06/99
+
+                REVISIONS                 PREP'D       CHK'D       APPR'D
+
+
+
+The present document is CONFIDENTIAL and it is property of AGIP It shall not be shown to third parties nor shall it be used for
+                               reasons different from those owing to which it was given
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 2 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+                       INDEX
+
+
+
+1.  INTRODUCTION                                                       5
+
+       1.1.  PURPOSE OF THE MANUAL                                                     5
+
+       1.2.  IMPLEMENTATION                                                             5
+
+       1.3.  UPDATING, AMENDMENT, CONTROL & DEROGATION                               5
+
+2.  GENERAL RESPONSIBILITIES                                           6
+
+       2.1.  COMMUNICATION STRUCTURE                                                  6
+
+       2.2.  PERSONNEL RESPONSIBILITIES                                                 6
+              2.2.1.     Drilling & Completion Manager                                             6
+              2.2.2.     Drilling Superintendent                                                   6
+              2.2.3.    Senior Drilling Engineer                                                   7
+              2.2.4.     Drilling and Completion Supervisor (Rig-Site)                                  8
+              2.2.5.    Contractor Directional Supervisor                                           9
+              2.2.6.    Contractor Directional Operator (Rig-Site)                                    10
+              2.2.7.    Contractor Surveying Operator (Rig-Site)                                    11
+
+       2.3.  CONTRACTOR COMPETENCE ASSURANCE                                       11
+
+3.  WELL PLANNING PROCEDURE                                         12
+
+       3.1.  OBJECTIVES                                                                 12
+
+       3.2.  DEFINITIONS                                                                 12
+              3.2.1.    Vertical Well                                                           12
+              3.2.2.    Deviated Well                                                          12
+              3.2.3.    Rotary Kelly Bushing (RKB)                                               12
+              3.2.4.    Origin Reference Point (ORP)                                             13
+              3.2.5.    Projected Well Plot                                                      13
+              3.2.6.    Directional Well Programme                                              13
+
+       3.3.  PLANNING RESPONSIBILITIES                                                  13
+
+       3.4.  PLANNING REQUIREMENTS                                                    14
+              3.4.1.    Software Capabilities                                                    14
+              3.4.2.    Decision Process                                                       15
+              3.4.3.    Origin Reference Points (for well planning)                                   15
+
+       3.5.  PRELIMINARY DIRECTIONAL PLAN INFORMATION                                 16
+
+       3.6.  IMPACT OF THE RADIOUS OF UNCERTAIN (ROU)                                  16
+
+       3.7.  PROJECTED DIRECTIONAL PLAN INFORMATION                                  17
+
+       3.8.  PROJECTED WELL PLOTS                                                     18
+              3.8.1.    Well Plan                                                             18
+              3.8.2.    Spider Plot                                                            19
+              3.8.3.    Proximity Evaluation                                                    19
+
+       3.9.  DIRECTIONAL WELL PROGRAMME                                              19
+
+      3.10. PRE-SPUD MEETING                                                           21
+
+      3.11. TECHNICAL MEETINGS                                                        21
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 3 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.  SURVEYING POLICY                                                  22
+
+       4.1.  OBJECTIVES                                                                 22
+
+       4.2.  DEFINITIONS                                                                 22
+              4.2.1.    Definitive Survey                                                       22
+              4.2.2.    Origin Reference Point (ORP)                                             22
+              4.2.3.   Reference North                                                        22
+              4.2.4.    Tie-In Point (TIP)                                                       23
+              4.2.5.    Foresight Reference (FR)                                                 23
+              4.2.6.   Dogleg Severity (DLS)                                                   23
+              4.2.7.   Magnetic Declination                                                    23
+              4.2.8.    Uncertainty Factor (UF)                                                  23
+              4.2.9.   Magnetic Survey Tool List                                                23
+             4.2.10.  Gyroscopic Survey Tool List                                               23
+
+       4.3.  SURVEYING RESPONSIBILITIES                                                 25
+
+       4.4.  SURVEYING REQUIREMENTS                                                   26
+              4.4.1.   Approved Surveying Tools                                                26
+              4.4.2.    Software Capabilities                                                    26
+              4.4.3.   Survey Calculation Method                                               26
+              4.4.4.   Survey Tool Uncertainty                                                  26
+              4.4.5.   Minimum Surveying Programme                                           26
+              4.4.6.   Accuracy Comparison Methods                                            27
+              4.4.7.   Azimuth Reference                                                      27
+              4.4.8.    Tie-In Points                                                           27
+              4.4.9.   Measurement System                                                    27
+             4.4.10.   Horizontal Uncertainty Factors                                             27
+             4.4.11.   Vertical Uncertainty Factors                                               27
+             4.4.12.  Magnetic Declination                                                    28
+             4.4.13.   Rigsite Directional Data Requirement                                       28
+
+       4.5.  CONSIDERATIONS FOR SURVEY TOOL SELECTION                               29
+              4.5.1.    Directional Drilling Control                                                29
+              4.5.2.    Well profile Verification                                                  30
+              4.5.3.    Orientation Surveys                                                     32
+
+       4.6.  QUALITY CONTROL (QC)                                                       34
+              4.6.1.   Magnetic Survey Tools (at Rig-site)                                         34
+              4.6.2.    Gyroscopic Survey Tools (at Rig-site)                                       35
+              4.6.3.   Schlumberger ‘Guidance Continuous Tool                                    36
+              4.6.4.    Ferranti Inertial Survey Tool                                               36
+              4.6.5.   In-House Quality Control                                                 36
+
+       4.7.  SURVEY PROGRAMME FOR VERTICAL HOLES                                    37
+
+       4.8.  SURVEY PROGRAMME FOR DEVIATED HOLES                                    37
+
+5.   ANTI-COLLISION PROCEDURE                                         40
+
+       5.1.  OBJECTIVES                                                                 40
+
+       5.2.  DEFINITIONS                                                                 40
+              5.2.1.    Ellipsoid of Uncertainty                                                   40
+              5.2.2.   Radius of Uncertainty (ROU)                                              40
+              5.2.3.   Dogleg Potential (DLP) and Dogleg Severity (DLS)                            40
+              5.2.4.    Horizontal Uncertainty Factor (UF)                                         41
+              5.2.5.    Current Well (CW)                                                      41
+              5.2.6.    Target Well (TW)                                                       41
+              5.2.7.    Separation Distance (SD)                                                 41
+              5.2.8.    Centre to Centre Distance (CCD)                                           41
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 4 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+              5.2.9.    Separation Ratio (SR)                                                   41
+
+       5.3.  ANTI-COLLISION REQUIREMENTS                                               45
+              5.3.1.    Software Capabilities                                                    45
+              5.3.2.    Projection Technique (with Rotary Assemblies)                                45
+              5.3.3.    Projection Technique (with Steerable Assemblies)                             45
+              5.3.4.   Worst Case Projection Technique                                          45
+
+       5.4.  CONSIDERATIONS IN PLANNING A NEW MULTI-WELL SITE                         47
+
+       5.5.  ANTI-COLLISION RESPONSIBILITIES                                             48
+              5.5.1.    Planning Wells (with interference between existing producing/completed wells and new
+                        wells)                                                                 48
+              5.5.2.    Planning Wells (with interference between existing, non completed/P&A wells and new
+                        wells)                                                                 49
+
+       5.6.  PLUGGING OF COMPLETED TARGET WELLS (when separation is in zone x)           50
+
+       5.7.  SUSPENSION OF CURRENT WELL (when separation is in zone y or in zone z)          50
+
+       5.8.  WELL-SITE PROCEDURES                                                      51
+
+       5.9.  EXAMPLE PROXIMITY CALCULATION                                            55
+
+6.  RECORD KEEPING                                                   57
+
+       6.1.  OBJECTIVES                                                                 57
+
+       6.2.  DEFINITIONS                                                                 57
+              6.2.1.   Working Surveys                                                       57
+              6.2.2.    Definitive Surveys                                                      57
+              6.2.3.    Final Report                                                           57
+
+       6.3.  REPORTING RESPONSIBILITIES                                                 57
+
+       6.4.  SURVEY REPORTING FORMAT                                                  58
+
+       6.5.  DIRECTIONAL CONTRACTOR’S FINAL REPORT                                   59
+              6.5.1.     Title Page                                                             59
+
+       6.6.  SUMMARY OF OPERATION/SURVEY PROGRAMME                                 59
+              6.6.1.   BHA Performance Report                                                 59
+              6.6.2.    Definitive Survey Listing                                                  59
+              6.6.3.   Summary Plot                                                          60
+              6.6.4.    Directional Drilling Analysis                                               60
+
+7.  DIRECTIONAL DRILLING/SURVEYING SERVICES PROCUREMENT            61
+
+       7.1.  PROCURING SERVICES & MATERIALS PROCEDURES                              61
+
+       7.2.  CONTRACTOR EVALUATION                                                    62
+              7.2.1.  ARPO FB-1 Malfunction & Failure Report                                    62
+              7.2.2.  ARPO FB-2 Contractor Evaluation Form                                     62
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 5 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+1.   INTRODUCTION
+
+1.1.   PURPOSE OF THE MANUAL
+
+       The purpose of the Directional Drilling and Surveying Manual is to guide technicians and
+        engineers, involved in Eni-Agip’s Drilling & Completion worldwide activities, through the
+       Procedures and  the  Technical  Specifications  for  Directional  Drilling and  Surveying
+        operations which are part of the Corporate Standards.
+
+       Such Corporate Standards define the requirements, methodologies and rules that enable to
+        operate uniformly and in compliance with the Corporate Company Principles. This, however,
+             still enables each individual Affiliated Company the capability to operate according to local
+        laws or particular environmental situations.
+
+       The final aim is to improve performance and efficiency in terms of safety, quality and costs,
+        while providing  all personnel involved in Directional Drilling & Surveying activities with
+      common guidelines in all areas worldwide where Eni-Agip operates.
+
+              It is intended to guide users towards using procedures which have been found to provide
+        the most efficient and cost effective operations.
+
+1.2.   IMPLEMENTATION
+
+       The policies specified herein will be applicable to  all of Eni-Agip Division and Affiliates
+        operations world-wide.
+
+          All  supervisory and  technical personnel engaged  in  Eni-Agip  Division and  Affiliates
+         directional control and surveying operations are expected to make themselves familiar with
+        the contents  of  this manual and be responsible  for compliance  to  it’s  policies and
+        procedures.
+
+1.3.    UPDATING, AMENDMENT, CONTROL & DEROGATION
+
+        This is a ‘live’ controlled document and, as such, it will only be amended and improved by
+        the Corporate Company, in accordance with the development of Eni-Agip Division and
+          Affiliates operational experience. Accordingly,   it  will be the  responsibility  of everyone
+       concerned in the use and application of this manual to review the policies and related
+        procedures on an ongoing basis.
+
+         Locally dictated derogations from the manual shall be approved solely in writing by the
+       Manager  of  the  local  Drilling and  Completion  Department (D&C  Dept.)  after  the
+          District/Affiliate Manager and the Corporate Drilling & Completion Standards Department in
+        Eni-Agip Division Head Office have been advised in writing.
+
+       The Corporate Drilling & Completion Standards Department will consider such approved
+        derogations for future amendments and improvements of the manual, when the updating of
+        the document will be advisable.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 6 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+2.   GENERAL RESPONSIBILITIES
+
+        This section outlines the communication structure and general personnel responsibilities
+         with regard to directional drilling and surveying operations. Operational specific individual
+        personnel responsibilities are detailed in each relevant section of the manual.
+
+2.1.   COMMUNICATION STRUCTURE
+
+       The Eni-Agip Division and Affiliates communication structure will be in accordance with the
+         local Drilling & Completion Department’s organisation and to meet with the necessary
+         reporting requirements of the Eni-Agip Division and Affiliates head office.
+
+2.2.   PERSONNEL RESPONSIBILITIES
+
+       The  following sections describe the general  responsibilities  of personnel involved  in
+         directional drilling and surveying.
+
+2.2.1.   Drilling & Completion Manager
+
+       The Drilling & Completion Manager will have responsibility for:
+              •    Enforcing technical specifications issued by ARPO/STAP in the tender request.
+              •     Project Well Plan approval. (Refer to Section 3.4.2)
+              •    Ensuring compliance  with  policy and development  of  local procedures  in
+                 accordance with company policies and local legislation.
+              •    Ensuring the maintenance of safe well operations when drilling in close proximity
+                     to other wells. (Refer to Sections 5.5.1 and 5.5.2)
+              •    Ensuring  reports, ARPO FB-01, ARPO FB-02  (for  Directional  Drilling and
+                  Surveying services) forms. and survey calculation's output are forwarded to Agip
+               Head Office. (Refer to Sections 6.4, 7.2.1 and 7.2.2)
+
+2.2.2.   Drilling Superintendent
+
+       The Drilling Superintendent will have responsibility for:
+              •    Ensuring the well progress follows the approved well directional plan.
+              •     Providing technical advice to  drilling  rig-site personnel on a daily basis as
+                    required.
+              •     Liaising with the Directional Contractor onshore to ensure the proper personnel
+                and materials are supplied to the rig-site in scheduled time.
+              •    Conducting an evaluation of the Directional Contractor's performance for current
+                    contracts and  future tender  evaluation. This evaluation  contributes  to the
+                  completion of forms ARPO FB-01 and ARPO FB-02. (Refer to sections 7.2.1
+                and 7.2.2)
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 7 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+2.2.3.   Senior Drilling Engineer
+
+       The Senior Drilling Engineer will have responsibility for:
+              •    Ensuring the compilation, approval and issuing of the well programme to include
+                   the Directional and Surveying plan. (Refer to Section 3.9)
+              •    Ensuring full and consistent consideration of all related issues from both the
+                    technical and economic point of view. (Refer to Sections 3.3 , 5.5.1 and 5.5.2)
+              •    Requesting, receiving, reviewing and approving for distribution, the Contractor’s
+                   Projected Well Plots.
+              •     Liaising with the Directional Drilling Contractor to ensure effective execution of
+                   the approved Directional Programme.
+              •     Providing technical answers to operational problems as they arise.
+              •    Responsible  for producing  contingent amendments  to  the  Directional and
+                  Surveying Programme (e.g. in case of a side track).
+              •    Reviewing techniques and procedures for future programmes.
+              •    Producing a Final Well Report including the directional and surveying section as
+                   supplied by the Directional Contractor. (Refer to Section 6.3)
+              •    The supervising and managing of the ‘Definitive Survey Records’. (Refer to
+                   Section 6.5)
+              •    Confirming the accuracy of data for the Final Well Plots and directional Well
+                Programmes.
+
+       Note     SDE approval is required on all Final Well Plots and Well Programmes.
+                    (Refer to Section 3.3)
+
+              •     Aiding the Drilling Superintendent evaluating the Directional Drilling Contractor's
+                 performance for current contracts and future tender evaluation.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 8 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+2.2.4.   Drilling and Completion Supervisor (Rig-Site)
+
+       The Drilling Supervisor at the rig-site will have responsibility for:
+              •    Making himself/herself thoroughly conversant with the well programme and the
+                     well directional plan and ensuring the correct execution of the programme in
+                 accordance to the directional targets. (Refer to Section 5.8)
+              •    Ensuring that all the necessary equipment, materials and personnel required to
+                    carry out directional operations are available on schedule and ensuring prompt
+                    return of same after operations are complete.
+              •    Organising pre-job meetings at the rig site to ensure that the service companies
+                and drilling contractor personnel understand the operations and tasks to be
+                  performed and their individual responsibilities.
+              •    Reviewing  the  progress  of  operations,  regularly  reporting  to  the  Drilling
+                  Superintendent and Senior  Drilling Engineer, and  offering suggestions  for
+                programme improvement and/or solutions to problems as they arise.
+              •    Supervising and managing the directional drilling and surveying programme.
+              •     Aiding the Drilling Superintendent checking and assessing the competence of
+                    service company personnel, their performance and equipment suitability and
+                    reporting  this evaluation on ARPO FB-1 and ARPO FB-2 forms. (Refer to
+                   Sections 6.4, 7.2.1 and 7.2.2)
+              •    Reporting/conveying survey information to the base office in a timely fashion so
+                     that field calculations can be checked ensuring that the appropriate form is filled
+                       in correctly, accurately and completely. (Refer to Section 6.3)
+              •    Ensuring that all required procedures, to meet with the Eni-Agip Division and
+                        Affiliates anti-collision policy, are taken before drilling operations commence.
+                   (Refer to Section 5)
+              •    Ensuring that appropriate actions are taken to shut-in wells or halt  drilling
+                   operations in adherence to the anti-collision policy. (Refer to Sections 5.5.1 and
+                     5.5.2)
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                   PAGE 9 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+2.2.5.   Contractor Directional Supervisor
+
+       Note The necessity of a Directional Contractor Supervisor  will be evaluated each time
+       depending on the particular programme. This will be specified in the Directional Drilling
+        Services  Tender   -  technical  specification  section.  Technical  Supervisor   will  have
+         responsibility for:
+              •    Ensuring that the agreed and safe established working practices/procedures
+                 between Eni-Agip Division and  Affiliates and the Directional Contractor are
+                    followed by the rig-site Contractor Directional Operators.
+              •    Being familiar with and working within the guidelines of the Eni-Agip Division and
+                        Affiliates Directional and Surveying Procedures as laid out in this manual.
+              •    Ensuring reporting meets with the local communication structure.
+              •    Making  himself/herself  thoroughly  familiar  with  the  well  plan  and   its
+                   requirements.
+              •    Checking and confirming the accuracy of the well planning information as
+                   received from the SDE.
+              •     Briefing  the  Contractor  Directional  Operator  on  the  well  plan  and   its
+                  requirements prior to proceeding to the rig.
+              •    Ensuring that the equipment provided by the Directional Contractor to the rig-site
+                meets with programme requirements and liasing with the Eni-Agip Division and
+                        Affiliates representatives for future requirements.
+              •    Consulting with local Eni-Agip Division and Affiliates personnel on a daily basis
+                    while the programme is being conducted.
+              •    Confirming survey and proximity calculations on a daily basis, or more frequently
+                 as required.
+              •    Checking and approving the Final Well Report, as detailed in Section 6.5, before
+                    releasing the copies to Eni-Agip Division and Affiliates.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 10 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+2.2.6.   Contractor Directional Operator (Rig-Site)
+
+       The Contractor Directional Operator will have responsibility for:
+              •    Adhering to the agreed and established safe working practices between Eni-
+                  Agip Division and Affiliates and the Directional Contractor.
+              •    Making himself  familiar with and working within the Eni-Agip Division and
+                        Affiliates Directional and Surveying Procedures as laid out in this manual.
+              •    Reporting according to the communication structure .
+              •     Providing immediate reports of any accidents/major operational incidents and
+                  near-misses relating to the programme.
+              •    Making himself thoroughly familiar with the well plan and requirements.
+              •    Checking the accuracy and completeness of the Project Well Plot and Well
+                Programme, as approved by the SDE, before the directional drilling commences.
+              •    Ensuring that the rig-site equipment inventory meets programme requirements
+                and consulting with the Drilling and Completion Supervisor to cover future needs
+                       in ahead of time.
+              •     Providing the standard daily reports comprising a summary of drilling activity, the
+                         drilling  assembly   in  use,   drilling  parameters,  survey  data,  equipment
+                   requirements, proposed BHA's and operational suggestions.
+              •    Maintaining up to date survey calculations and projections to keep within the
+                     well specified tolerances as outlined in the Well Programme.
+              •    Maintaining up to date proximity calculations and projections and taking actions
+                     to keep the  well path  within specified tolerances as outlined  in the Well
+                Programme.
+              •    Ensuring that data relating to well proximity calculations is communicated to the
+                       Drilling Superintendent/SDE and to the Contractor Directional Supervisor  (if
+                    applicable)  as  information becomes  available.  Enabling  prompt  back-up
+                     calculations to confirm rig-site data.
+              •     Providing BHA designs and ensuring they are suitable for survey programme
+                  requirements and advising maintenance requirements.
+              •    Supervising directional drilling operations.
+              •    Maintaining current records of  drilling parameters and descriptions of each
+                 assembly drilling the well.
+              •    Supervising tripping and reaming operations to maintain hole condition and to
+                   prevent unintended side-tracks.
+              •    Preparing equipment  lists  for immediate return  of  rental equipment  to the
+                    Contract’s base.
+              •    Preparing a Final Well Report, as detailed in Section 6.5, when the drilling of the
+                     well has been completed.
+              •    Monitoring dogleg severity and ensuring that corrective action is taken to keep
+                  doglegs within specification.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 11 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+2.2.7.   Contractor Surveying Operator (Rig-Site)
+
+       The Contractor Surveying Operator at the rig-site will have responsibility for:
+              •    Adhering to the agreed and established safe working practices between Eni-
+                  Agip Division and Affiliates and the Survey Contractor.
+              •    Being  familiar with and working within the Eni-Agip Division and  Affiliates
+                     Directional and Surveying Procedure as laid out in this manual.
+              •    Adhering to the communication structure .
+              •     Providing immediate reports of any accidents or major operational incidents and
+                  near misses relating to the programme.
+              •    Making  himself  thoroughly  familiar  with  the  programme  surveying  and
+                   requirements.
+              •    Ensuring all data has been acquired from the Eni-Agip Division and Affiliates
+                      office in order to make accurate survey calculations. (Refer to Section 4.4)
+              •    Ensuring  that  the  rig-site  survey  equipment  inventory meets programme
+                  requirements  and  liasing  with  the  Drilling  Supervisor  to  cover  future
+                  requirements according to schedule.
+              •    Ensuring that the survey tool has been checked and calibrated as per the QC
+                  procedures of the Surveying Contractor immediately before and after running in
+                   the hole and providing relevant documentation. (Refer to Section 4.6)
+              •     Providing daily reports of survey data (for on going measurements).
+              •     Providing field calculated survey results as soon as practical (for single shot
+                    surveys).
+              •    Ensuring reported survey depths are accurate.
+              •    Confirming that magnetic survey tools are placed in the BHA as specified in
+                   Section 4.6, so as to minimise interference.
+              •    Keeping complete records  of equipment used during  drilling  or surveying
+                    operations.
+              •     Notifying the  Drilling and Completion Supervisor of any problems with the
+                   surveying equipment that may invalidate results.
+
+2.2.8   CONTRACTOR COMPETENCE ASSURANCE
+
+     The SDE and DS will ensure that all Directional and Surveying Contractor personnel will
+       have proven qualifications for the services they are contracted to provide to Eni-Agip
+         Division and Affiliates. Industrial experience, training and the educational background of
+        Contractor personnel must comply with Eni-Agip Division and Affiliates specifications and/or
+         local regulations and requirements for the job they are to perform.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 12 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.   WELL PLANNING PROCEDURE
+
+3.1.   OBJECTIVES
+
+          All wells will be planned with due consideration given to the economic viability of the project
+       and surveying requirements with regard to accuracy and/or constraints (i.e. the accuracy of
+         available survey tools, the position and uncertainty of exact location of adjacent wells and
+        the difficulties expected in the drilling of the proposed well).
+
+       The procedures outlined in the Surveying and Anti-collision sections of this manual will
+        apply to all Projected Well Plots and, therefore, the Well Programmes.
+
+       The prime reasons for specifying a well policy are to:
+              •    Accurately plan every well on a consistent basis by ensuring that all required
+                  data is taken into consideration.
+              •     Systematically and fully document the well planning process for each well.
+              •    Provide an accurate set of graphical output (plots) to monitor the well path while
+                   the well is being drilled.
+
+3.2.    DEFINITIONS
+3.2.1.   Vertical Well
+
+         In absence of other specifications (due to local policies or regulation's requirements) a
+          vertical well is a well whose planned target horizontal co-ordinates coincide with the Origin
+       Reference Point.
+
+3.2.2.   Deviated Well
+
+          Is a  well whose planned  target horizontal co-ordinates are  different from the Origin
+       Reference Point.
+
+       Note       Considering that a prime objective of the Eni-Agip Division and Affiliates
+                  Surveying Procedure is to accurately determine the well path position for
+                          all wells (exploration or development/vertical or deviated), in absence of
+                   other specifications (due to local policies or regulatory requirements), a
+                      vertical well will be classed as a deviated well if the inclination increases
+                   during the course of drilling the hole. It is vital to establish the minimum
+                      level of uncertainty in the event a relief well may be required.
+
+3.2.3.   Rotary Kelly Bushing (RKB)
+
+          Is the horizontal level from which the well depth (and true vertical depth) will be measured
+        while drilling.
+
+              It will differ from subsea depths by the height of the rig above sea level. It is also the point
+        from which the rig location is referenced. (Refer to Section 4.2)
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 13 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.2.4.   Origin Reference Point (ORP)
+
+          Is the origin which will be used for the horizontal co-ordinates e.g. latitude and departure of
+        the well to be drilled. This will be the zero point on the horizontal well plan used to plot the
+         well while drilling.
+
+3.2.5.   Projected Well Plot
+
+          Is the graphical representation of the well profile in the final approved form.
+
+3.2.6.   Directional Well Programme
+
+          Is the directional and survey requirements which  will be included  in the overall Well
+       Programme produced for the well.
+
+3.3.   PLANNING RESPONSIBILITIES
+
+       The SDE will be responsible for the accuracy and confirmation of data on the Projected
+        Well Plots and Directional Well Programmes.
+
+       The D&CM will have formal responsibility for the planning of the directional wells. The Eni-
+        Agip Division and Affiliates Drilling & Completion Manager's approval will be required on all
+        Well Programmes confirmed by signature.
+
+      Amendments to the directional and surveying programme, after it has been finalised, will be
+       assessed in compliance with the local Drilling & Completion Department’s organisation.
+       Documentary approval for amendments will be required from the Eni-Agip Division and
+          Affiliates Drilling & Completion Manager before they are implemented
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 14 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.4.   PLANNING REQUIREMENTS
+
+3.4.1.  Software Capabilities
+
+       The contractor’s software must be verified and then accepted by Eni-Agip Division and
+          Affiliates prior to the work commencing.
+
+       The  following  lists  the minimum  capabilities  required  for planning  directional  drilling
+         calculations and survey programmes:
+         Well Planning           Must have the capability for complex (3D) well paths with
+                                     graphical output facilities.
+
+        Survey Calculation      To  calculate  survey  data and  dogleg  severity  with  the
+                             Minimum Radius of Curvature (standard) method
+
+         Interpolation           By single and multi-point interpolation by MD or TVD.
+
+         Projection                  Multi-directional based on previous surveys.
+
+        Trend Analysis            Build/drop/turn required to hit any point on the target plane.
+
+         Proximity                 Horizontal proximity and 3 dimensional calculation models
+                               between two specified wells.
+
+          Ellipse of Uncertainty    To  calculate  in  compliance  with  Eni-Agip  Division  and
+                                            Affiliates procedures (as described in Section 5.2).
+
+          Anti-Collision          To  calculate  proximity  to  multiple  wells  with  projection
+         Monitoring                 capability and  tabular output  of center-to-center distance,
+                                    radius  of uncertainty (ROU), distance between ROU and
+                                  Separation Ratio (See Section 5.3).
+
+        Geodetic Conversion    To convert (both ways) between geographic and UTM co-
+                                     ordinate systems.
+
+        Geomagnetic          To calculate local magnetic field strength, magnetic dip and
+        Conversion             magnetic declination including rates of change with the latest
+                                computer models.
+
+          File Storage and          Write protection and automatic virus protection capabilities for
+         Protection                  individual files.
+
+        Data Acquisition        By Magnetic media, software compatible with that used in the
+                                        local Eni-Agip Division and Affiliates Department.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 15 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.4.2.   Decision Process
+
+       The decision process for approving a well prospect will be by the result of discussions
+       between various Eni-Agip Division and Affiliates departments.
+
+       The Geology/Exploration or Reservoir Department  will develop  initial specifications e.g.
+         target location and accepted displacement tolerance, TVD, lithology and expected TVD,
+          total TVD of the well, geological constraints i.e. faults, dip angle, etc.
+
+       The  Drilling and Completion Department  will produce an in-house  well  plot/plan  for
+        evaluation (possibly with direct input from contractor). The compiled data will then be used
+         to alter or finalise the geological specifications before final approval of the project.
+
+3.4.3.   Origin Reference Points (for well planning)
+         Isolated wells          The  initial ORP will be the planned RKB location. This will
+                              change to the actual location of the rig once its true position is
+                                   confirmed.
+
+        Template wells        When planning directional wells to be pre-drilled from seabed
+                                    templates, the ORP for the template will be the designated
+                                  template centre, the ORP for each well will be the designated
+                                             slot.
+
+         Platform wells(1)       When planning a  directional  well from an offshore  fixed
+                                      platform, the ORP for the template will be the centre area slot
+                                     or a designed  slot. The ORP  for each  well  will be the
+                                  designated slot.
+
+
+        Note:     When a platform has been installed over a template, and prior to drilling
+                     further wells, all definitive data for pre-drilled wells will be updated using
+                   the ORP as designated for platform wells above.
+
+       Onshore Cluster wells   When planning a directional well from a cluster the ORP will
+                              be the designated slot.
+
+
+
+
+
+1 When a platform has been installed over a template, and prior to drilling further wells, all definitive data for pre-drilled wells will be updated using
+  the ORP as designated for platform wells above.
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 16 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.5.    PRELIMINARY DIRECTIONAL PLAN INFORMATION
+
+       The SDE will ensure that the Directional Contractor is provided with all data necessary for
+       an initial well profile.
+
+      When a  drilling prospect requires a deviated  well, a preliminary specification  will be
+        prepared by the SDE, with contribution from the Directional Contractor,  if necessary. The
+         following information will be specified:
+              •    Surface and target co-ordinates - UTM or geographical
+              •    Local reference co-ordinates - platform centre, slot
+              •     Orientation of the wells bay (if applicable)
+              •    Displacement among the slots (if applicable)
+              •    Consider the wells position in the template, cluster, platform slots
+              •    Expected lithology - with a clear indication of subsea or RKB depths
+              •     Total well TVD - with a clear indication of subsea or RKB depths
+              •     Inclination at target
+              •    Shape and size of target(s) - restrictions, if applicable
+              •     Preliminary casing programme
+              •    Type of drilling fluid
+              •     Potential drilling problems which may affect the directional profile.
+              •     Definitive survey data of all well bores which may constitute a collision risk. This
+                          will include all wells drilled from the same platform, cluster, template (including
+                abandoned sections of hole or plugged side-tracks) and appraisal wells in the
+               same area.
+
+
+       Note       Confirm that all previously drilled appraisal wells in the area have been
+                   included in the well plan information.
+
+3.6.   IMPACT OF THE RADIOUS OF UNCERTAIN (ROU)
+
+        Before accepting the target location and size, some work should be carried out to estimate:
+              •    The impact the ROU will have on entering or crossing formation/fault/blocks and
+               how those will impact on the well objectives.
+              •    The impact the ROU will have on survey tool choice and relevant costs.
+
+              It is therefore important the SDE ensures that he obtains the necessary information from the
+        Exploration or Reservoir Department on the maximum acceptable size and shape of the
+         target.
+
+              If it is calculated that the ROU could fall outside the acceptable boundaries, the decision will
+       need to be made to either improve survey accuracy so as to reduce the ROU or decrease
+        the target size so the ROU's do not infringe into unacceptable zones.
+
+       The cost implications must also be evaluated before making this choice.
+
+      Once this matter is resolved the full directional planning can then be finalised. This is of
+         particular importance when planning side tracks.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 17 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.7.   PROJECTED DIRECTIONAL PLAN INFORMATION
+
+       The SDE will be responsible for ensuring that the directional and surveying plan including all
+        the available offset information is thoroughly researched.
+
+       The Projected Well Plan will be reviewed by the SDE to ensure that  it complies with the
+        Surveying and Anti-Collision Procedure.
+
+       The SDE will ensure the following information is correct before release to the Directional
+        Contractor for preparation of the Projected Well Plot:
+
+              •    The ORPs are correct.
+              •    The well profile calculations are correct and reach the co-ordinates as
+                    specified on the Well Plan.
+              •    The information described in section 3.5 is complete and correct.
+              •    The dogleg severity  is within the maximum recommended (refer to the
+                       Drilling Procedures Manual in absence of any local recommendations).
+
+        Note:     The Directional and Surveying Plan should include the review of the
+                    position of the well bore and extent of the ROU before entering the
+                 hydrocarbon bearing zone.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 18 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.8.   PROJECTED WELL PLOTS
+
+       The Project well plots must be full in compliance to Deviation Project of the ‘Well Drilling
+       Programme’.
+
+       The SDE will be responsible for ensuring that the directional and surveying plan including all
+        the available offset information is thoroughly researched.
+
+       The Projected Well Plan will be reviewed by the SDE to ensure that  it complies with the
+        Surveying and Anti-Collision procedure.
+
+       The SDE will ensure the following information is correct before release to the Directional
+        Contractor for preparation of the Projected Well Plot:
+
+       Note      The Directional and Surveying Plan should include the review of the
+                    position of the well bore and extent of the ROU before entering the
+                 hydrocarbon bearing zone.
+
+3.8.1.   Well Plan
+
+      A vertical and horizontal view of the well profile at all points is necessary where the well is
+        deviated. The minimum data as follows is required:
+              •    Well Name, Field Name, Plan Version, Directional Contractor Name, Scales.
+              •    North Reference, Vertical Section Reference Azimuth, Declination Corrections.
+              •    Target Location with shape and tolerance clearly marked.
+              •    Co-ordinates of the ORP with Well centre and Targets listed.
+              •     Vertical Plan curve, labelled with critical directional points, casing points, and
+                   primary formation tops.
+              •    Co-ordinates of critical points (as in the previous paragraph) - tabulated.
+              •     Authorisation box indicating ‘drawn by’, ‘checked by’, and ‘authorised by’ with
+                  dates and signatures on all copies.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 19 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.8.2.   Spider Plot
+
+      A scale horizontal plan view of all well bores that are considered to be potential collision
+         risks is required. On a platform this will normally include all the slots.
+
+         Practical scales will be required for all depths where a collision risk exists (i.e. 1cm = 1m
+      may be required for surface casing but 1 = 25m may be required to show all wells on the
+        platform to TD).
+
+      A complementary listing of Proximity Data (as described in Section 5.3) will be supplied with
+           all Spider Plots as required.
+
+       The following data will be included on spider plots:
+              •    Well Name, Field Name, Directional Contractor Name, Scale.
+              •    North Reference.
+              •    The ROU will be indicated for each well-bore at the same TVD where practical.
+              •    Co-ordinates of the ORP and all slots (listed relative to ORP).
+              •     Authorisation box indicating ‘drawn by’, ‘checked by’, and  ‘ ‘authorised by’ with
+                  dates and signatures.
+
+3.8.3.   Proximity Evaluation
+
+      A plot relating the position of other well bores to the planned well at various depths is
+        required (See Figure 3.5) complete with the data below:
+
+        Well Name, Field Name, Directional Contractor Name, Scale
+
+         Authorisation box indicating ‘drawn by’, ‘checked by’ and ‘authorised by’ with dates and
+         signatures.
+
+3.9.    DIRECTIONAL WELL PROGRAMME
+
+       The SDE will be responsible for ensuring the accuracy of the directional plan information
+       and will perform a review of the directional well programme before its inclusion into the Well
+       Programme.
+
+       The Directional Well Programme will conform to Eni-Agip Division and Affiliates procedures
+       as outlined in this manual.
+
+       Any procedures which do not meet the standards of the Eni-Agip Division and Affiliates
+         policies will be fully discussed and a separate approval will be required from the D&CM
+        before proceeding with the programme.
+
+       The D&CM  will be required by signature to approve the Well Programme before  its
+          distribution.
+
+      A copy of the directional and surveying requirements of the Well Programme  will be
+        forwarded to the rig or to the Directional Contractor before the commencement of directional
+        operations.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 67 ]
+────────────────────────────────────────────
+              ARPO                                                  PAGE 20 OF 67                       IDENTIFICATION CODE
+ ENI S.p.A.
+                                                     REVISIONAgip Division
+                          STAP-P-1-M-6120         0
+
+Topics which will be contained in the Well Programme are:
+ Surveying Requirements  These must be specified for each section of the well and
+ (Type of tools and       meet the minimum requirements as specified in table 4.f and
+ surveying frequency)      table 4.g
+ Anti-Collision Analysis    Proximity   calculations  as   outlined   in   Section   5.3
+                           corresponding to each of the Spider Plots used. A summary
+                               of the closest approach depth and distance for each well of
+                          concern will be included in the Well Programme. (Refer to
+                           Section 5.3)
+ Drilling Assemblies and   With expectations of performance
+ BHA (Optional)
+ Optional Special        Any non-standard equipment  to be used  in  the  drilling
+ Equipment (Optional)     assemblies. The limitations of equipment to be used should
+                       be specified if it has a bearing on operations
+ Previous Experience     Recommendations based on previous experience  will be
+                            included to help maximise operational efficiency. Potential
+                                    drilling problems  will be  discussed, based on  previous
+                           experience
+ Torque/Drag Analysis    Where justified, a projected torque and drag profile will be
+ (Optional)                 included in the well programme
+ Mud Programme                 It will be indicated if the mud type or properties has a bearing
+                        on directional or survey considerations
+ Drilling Parameters        Limitations due to directional  drilling requirements  will be
+                              highlighted, if any
+ Finalised Casing          Actual depths will be based on the Final Well Plan
+ Programme
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 21 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+3.10.  PRE-SPUD MEETING
+
+         Prior to the beginning of a well, a pre-spud meeting will be held between Eni-Agip Division
+         or Affiliates and the Drilling Contractor and any of the relevant service contractors involved.
+
+       The purpose of the pre-spud meeting is to discuss the well programme, with emphasis on
+        important operational or safety issues.
+
+       Both Eni-Agip Division or Affiliates and its contractors will take this opportunity to emphasise
+         particular issues which concern them.
+
+        Aspects of the well programme that require amendment are expected to be raised and
+        resolved before drilling operations proceed.
+
+              It is responsibility of the Drilling Superintendent or his delegate (normally the SDE) to
+        organise and chair the pre-spud meeting .
+
+       The directional well programme  will be reviewed at the meeting and the operational
+        requirements and conditions will be discussed.
+
+              If any points are raised which have a particular impact on the directional well programme
+         they, will be subsequently discussed by the SDE, Drilling Superintendent and Directional
+         Contractor.
+
+              If any changes are required to the directional well programme it will be amended before the
+      commencement of the well or the commencement of the hole section concerned.
+
+              If any significant changes are required to the directional well programme as a result of the
+        pre-spud meeting, a formal programme amendment will be drafted and approved, in the
+      same manner as used for the Well Programme itself.
+
+3.11.   TECHNICAL MEETINGS
+
+         Prior to the beginning of a well and during the course of operations, technical meetings will
+       be held between Eni-Agip Division or Affiliates personnel and the Directional Contractor. If a
+         Directional Contractor Technical Supervisor  is provided, he must attend the meeting,
+        otherwise a Contractor Directional Operator will be delegated.
+
+       The purpose of the meeting prior the beginning of a well is to discuss the directional well
+       programme with emphasis on aspects which require to be discussed in greater depth than
+        normal on a well programme. In addition to technical aspects, organisation, logistics and
+         material supply along with any other relevant aspects are expected to be raised.
+
+         In the course of operations, reviews and amendments to the Directional Well Programme
+        should be carried out to conform with the actual situation. Important amendments should be
+       assessed during the technical meetings (e.g. in a development platform, after CP wash out
+       and Gyro survey records), A technical meeting should be held to assess possible changes
+         of ORP, KOP, etc. Amendments will be approved as stated in Section 3.3
+
+              It is the responsibility of the Drilling Superintendent or his delegate (normally the Senior
+          Drilling Engineer) to organise the technical meeting.
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 22 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.   SURVEYING POLICY
+
+4.1.   OBJECTIVES
+
+          All development  wells  will be surveyed from  the wellhead  to,  at  least,  the  lowest
+        hydrocarbon bearing zone using the minimum guidelines specified in this section.
+
+          All exploration wells will be surveyed from the surface conductor shoe to TD also using the
+       minimum guidelines specified in this section.
+
+        Surveying  tool  selection  will be based on  the  anti-collision  requirements,  surveying
+       equipment accuracy, target size and depth.
+
+       Survey accuracy objectives will be specified for each well.
+
+       The prime reasons for specifying a well surveying procedure are to:
+              •    Accurately determine the well path position versus previously drilled wells for
+                    proximity purposes and permit timely corrective action, e.g. correction run, well
+                   shut in, plug back and re-drill.
+              •    Accurately determine the well path position in the event a relief well is required.
+              •    Accurately determine the well bore position versus the planned profile and
+                   permit timely corrective action, e.g. a BHA change or correction run if required.
+              •    Determine dogleg severity and permit timely corrective action, e.g. reaming, plug
+                 back and re-drill.
+              •    Accurately determine the well position in relation to geological requirements.
+
+4.2.    DEFINITIONS
+4.2.1.   Definitive Survey
+
+          Is the definitive or final survey which is obtained from the most accurate survey tool run in
+        the hole section, or from TD to surface for onshore wells, or to mudline for offshore wells.
+
+        Several surveys tied together (concatenated) may be required to provide the definitive
+        survey of the well e.g. from surface to 133/8" casing shoe - Ferranti FINDS; 133/8" shoe  till
+      TD - NSG.
+
+4.2.2.   Origin Reference Point (ORP)
+
+          Is the origin point of the well to be drilled, it is the datum to be used for the horizontal co-
+        ordinates (latitude and departure).
+
+        This will be the zero point on the horizontal well plan used to plot the well while drilling
+        (Refer to Section 3.4.3)
+
+4.2.3.  Reference North
+
+          Is the TRUE (Geographic) North. It is the reference for azimuth measurements and for the
+         plotting of well co-ordinates .
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 23 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.2.4.   Tie-In Point (TIP)
+
+          Is  the survey  station (and  spatial  co-ordinates) from which  further surveys  will be
+        referenced.
+
+        This will change during the course of drilling a well as more accurate surveys may be made
+          after completing a particular hole section.
+
+4.2.5.   Foresight Reference (FR)
+
+          Is the reference azimuth based on TRUE North which will be used for aligning gyro based
+        survey tools when they are run.
+
+              It  will normally depend on the surveyed rig heading as supplied by the rig positioning
+         contractor.
+
+4.2.6.  Dogleg Severity (DLS)
+
+          Is the 3 dimensional curvature of the well bore normalised to a 30m interval.  It will be
+       expressed in ‘degrees per thirty metres’ (ο/30m).
+
+       The same definition holds for the expression of build and turn rates.
+
+4.2.7.  Magnetic Declination
+
+          Is the correction which will be applied to the azimuth measurement of magnetic survey
+          tools.
+
+        This  is necessary due to the difference in location between the earth's magnetic and
+        geographic poles.
+
+4.2.8.   Uncertainty Factor (UF)
+
+       The UF is a coefficient, given in metres per thousand metres. surveyed, that reflects the
+        increase in radius of uncertainty of the well path with depth and depends only on the type of
+        survey instrument.
+
+       They are reviewed and updated on a regular basis. A current list of UF is given in table 4.a
+       and table 4.b
+
+4.2.9.  Magnetic Survey Tool List
+     MSS           Magnetic single shot (film)
+     MMS           Magnetic multishot
+     EMS             Electronic magnetic multishot
+     MWD         Measurement while drilling
+     HD            High resolution dipmeter
+
+4.2.10. Gyroscopic Survey Tool List
+     GSS          Gyro single shot (film)
+     GMS          Gyro multishot
+     SRG           Surface reading gyro
+     NSG           North seeking gyro (FINDER)
+     GCT          Guidance continuous tool
+       FINDS           Ferranti Inertial Navigation System
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 67 ]
+────────────────────────────────────────────
+             ARPO                                                  PAGE 24 OF 67                      IDENTIFICATION CODE
+ENI S.p.A.
+                                                    REVISIONAgip Division
+                         STAP-P-1-M-6120         0
+
+
+
+  Tool Type                Inclination Range                    Error
+                                                  (M / 1,000M)
+                                   0ο/10ο                        4
+                                 10ο/20ο                        7
+GSS/SRG/MS                    20ο/30ο                       11
+                                 30ο/45ο                       18
+                                 45ο/60ο                       30
+                                   0ο/20ο                        2
+                                 20ο/30ο                           3.5
+ NSG/GCT                     30ο/45ο                           7.5
+                                 40ο/60ο                          15.6
+   FINDS                         0ο/90ο                            0.5
+                                   0ο/10ο                        9
+                                 10ο/20ο                       13
+ MSS/MMS                     20ο/30ο                       20
+                                 30ο/45ο                       45
+                                 45ο/60ο                       55
+                                 60ο/80ο                       60
+                                   0ο/10ο                        2
+                                 10ο/20ο                           2.2
+   EMS                        20ο/30ο                           2.6
+                                 30ο/45ο                           3.5
+                                 45ο/60ο                           4.4
+                                 60ο/90ο                           5.2
+                                   0ο/10ο                            2.6
+                                 10ο/20ο                           3.3
+  MWD                       20ο/30ο                           4.3
+                                 30ο/45ο                           6.3
+                                 45ο/60ο                           8.5
+                                 60ο/90ο                          10.5
+
+           Table 4.A - Survey Tool Horizontal Uncertainty Factor
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 25 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+
+
+                                                                        Error         Tool Type                 Inclination Range
+                                                          (M / 1,000M)
+         FINDS                         0ο/90ο                             0.5
+                                             0ο/10ο                             2.5
+                                          10ο/20ο                            3.7
+          Magnetic                       20ο/30ο                            5.5
+                                          30ο/45ο                        10
+                                          45ο/60ο                          15.3
+                                          60ο/80ο                          17.3
+                                             0ο/10ο                             2.2
+                                          10ο/20ο                            2.7
+           Gyro                         20ο/30ο                            3.5
+                                          30ο/45ο                            5.7
+                                          45ο/60ο                            7.8
+                   Table 4.B - Survey Tools Vertical Uncertainty Factor
+
+4.3.   SURVEYING RESPONSIBILITIES
+
+       The SDE will ensure that Directional Contractor personnel is supplied with the data required
+         to perform the surveying operations at the rigsite.
+
+       The (ORP) of the well will be confirmed by the SDE during the well planning phase (Refer to
+        Section 3.4.3)
+
+       The SDE  will be responsible for providing documented confirmation of TIPs, FRs, and
+       changes in ORPs to the rig site and the Directional Contractor as required during the drilling
+         operation.
+
+       The rig site DSR will be responsible for confirming that surveying tools have been run within
+        the specified Quality Control procedures outlined in Section 4.6
+
+              If surveying is subcontracted entirely to the Directional Contractor he will maintain prime
+         responsibility for the provision of surveying services to contract requirements.
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 26 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.4.   SURVEYING REQUIREMENTS
+
+        General Surveying Requirements:
+              •      All magnetic surveys will have to be reported after being corrected for magnetic
+                     declination. Magnetic declination must be specified.
+              •    For other surveys, ensure that magnetic declination is considered while aligning.
+              •    Gyro survey output does not need to be corrected for magnetic declination.
+              •    The depth of a survey is the survey instrument depth not the bit depth. This
+                    applies to MWD and survey tools.
+              •    Azimuth will be referenced to true North.
+              •    Bottom hole location will be extrapolated from the last survey. This will normally
+                   not be more than 30m. To confirm the bottom hole location the dipmeter can be
+                 used as it can survey down to around 5m from TD if hole conditions allow.
+              •    For drilling purposes ‘depth’  will always be quoted as drilled depth and not
+                  confused with wireline depth.
+
+4.4.1.  Approved Surveying Tools
+
+       The approved tools for surveying well bores are listed in the definitions Section 4.2.9 and
+         4.2.10.
+
+4.4.2.  Software Capabilities
+
+       The software package described in Section 3.4.1 will be required to calculate and fully
+        evaluate well survey data.
+
+4.4.3.  Survey Calculation Method
+
+        Eni-Agip Division and Affiliates standard survey calculation method will be Minimum Radius
+         of Curvature.
+
+        This method is considered the most accurate representation of well bore position, provided
+        surveys are taken with the frequency detailed in the surveying procedure.
+
+4.4.4.  Survey Tool Uncertainty
+
+       The horizontal and vertical error of survey tools will be documented for future reference.
+
+       The specification is given in terms of a coefficient in m/1,000m.
+
+       The current values are given in table 4.a for horizontal and table 4.b for vertical wells
+
+4.4.5.  Minimum Surveying Programme
+
+       The basic surveying requirements for vertical and deviated wells are outlined in table
+          4.f(vertical) and table 4.g(deviated).
+
+        This represents the current minimum Eni-Agip Division and Affiliates requirement for well
+        surveying programmes and will be exceeded if conditions warrant.
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 27 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.4.6.  Accuracy Comparison Methods
+
+       Data from different survey instruments will be compared in one of two ways:
+              •    The horizontal distance between points versus the number of metres surveyed
+                   permits comparisons with expected uncertainty factors.
+              •    The comparison of the inclination and azimuth versus depth (‘T’ charts) permits
+                   the determination of the average difference between instruments.
+
+4.4.7.  Azimuth Reference
+
+          All survey data reported to Eni-Agip Division and Affiliates will be required to have azimuths
+        pre-corrected to TRUE North.
+
+        This requires magnetic based surveys to be corrected for magnetic declination. Gyro based
+        surveys do not require a correction.
+
+4.4.8.   Tie-In Points
+
+        Continuous survey instruments will have a specified station to be used as a tie-in point for
+       subsequent data.
+
+        Generally  it  will be the deepest survey station of the run. Exceptions are indicated in
+        Section 4.34
+
+4.4.9.  Measurement System
+
+       The system of units to be used will be specified by the Contractor and approved by Eni-Agip
+         Division and Affiliates.
+
+4.4.10.  Horizontal Uncertainty Factors
+
+       The values displayed in table 4.a will be used in the calculation of the horizontal position
+         uncertainty of survey tools.
+
+       These values are given in metres per thousands metres of hole surveyed and  will be
+        revised as required. An example calculation is shown for reference in Section 5.9.
+
+4.4.11.  Vertical Uncertainty Factors
+
+         Vertical errors are generally smaller than horizontal errors and do not require consideration
+        unless hole inclination is above 70ο from horizontal.
+
+       The values displayed in table 4.b can be used in the calculation of the vertical position
+         uncertainty of survey tools. These values are given in metres per thousand metres of hole
+        surveyed and will be revised as required.
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 28 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.4.12. Magnetic Declination
+
+       The magnetic declination will be individually calculated for each new well location.
+
+        Since it is a time based measurement, the date used for the calculation will be an estimated
+        mid-point for the drilling operation period. Subsequent surveys will require the re-calculation
+         of magnetic declination if taken more than six months after the well is drilled.
+
+4.4.13.  Rigsite Directional Data Requirement
+
+       There will be a pre-requisite data requirement to calculate and plot the correct well bore
+         position at rig-site.
+
+       The following data will be supplied to the directional drilling contractor via the Projected Well
+         Plot and Well Programme (as specified in Sections Errore. L'origine riferimento non è
+        stata trovata. and 3.9) before directional operations commence:
+              •   ORP co-ordinates with respect to Geographical, UTM.
+              •     Slot location co-ordinates with respect to Geographical, UTM.
+              •    Target co-ordinates with respect to Geographical, UTM .
+              •    Magnetic declination at the rig-site location.
+              •    The most recent approved tie-in point, if applicable (SDE to provide documented
+                     confirmation).
+              •    Projected Well Plots as required.
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 29 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.5.   CONSIDERATIONS FOR SURVEY TOOL SELECTION
+4.5.1.   Directional Drilling Control
+
+        Controls of the wellpath is based on directional techniques involving the use of special
+       BHA’s to build, drop or hold angle. To confirm that the well bore is achieving the desired
+          profile, measurement of borehole position while drilling is required.
+
+        Surveying tools commonly used for directional drilling control are listed in the following
+         table:
+
+      Tool            Application                            Limitation
+                                      Temperature limitation.                         Single-shot
+   MSS/MMS                         Requires interpretation of film upon developing.                            Multi-shot
+                                   Time limited by amount of film available with MMS.
+    MWD        Survey while drilling  Temperature limitation.
+                          Kick-off in high    Requires conducting wireline.      ST
+                     temperature zone
+                         Single-shot      Temperature limitation.     EMS
+                            Multi-shot
+                                       Requires interpretation of film upon developing.
+                         Single-shot      Requires gyro drift check.
+   GSS/GMS
+                            Multi-shot       Requires a reference to determine direction.
+                                   Time limited by amount of film available with (GMS).
+                                       Requires conducting wireline for surface readout.                         Single-shot
+     SRG                            Requires gyro drift check.                            Multi-shot
+                                       Requires reference to determine direction.
+                         Single-shot      Requires conducting wireline.
+   NSG/GCT
+                            Multi-shot       Requires on-site calibration and final instrument check.
+
+            Table 4.C - Survey Application For Directional Drilling Control Centre
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 30 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.5.2.   Well profile Verification
+
+       The objective of this survey category is to provide an accurate well bore position, from
+       which a ‘benchmark’ survey can be established for the comparison of all other directional
+        surveys taken.
+
+       Redundant surveys can provide an extra measure of reliability in critical well operations,
+       such as multi-well platforms or relief well drilling.
+
+       Types of position verification surveys are:
+      QC surveys            Known values of magnetic dip angle and field strength are
+                               employed as a ‘check’ to confirm survey data collected.
+        Overlap surveys         Taken going into and coming out of hole.
+        Reference surveys      Used  to  establish  the  ‘benchmark’  against  which   all
+                                 subsequent survey data is compared.
+          Verification surveys     Run after MWD to confirm results of initial survey.
+         Final Position surveys    Determine the actual final position of the wellbore
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 67 ]
+────────────────────────────────────────────
+                  ARPO                                                  PAGE 31 OF 67                           IDENTIFICATION CODE
+    ENI S.p.A.
+                                                        REVISION    Agip Division
+                              STAP-P-1-M-6120         0
+
+    Surveying tools commonly used for position verification are listed in the following table:
+
+  Tool          Application                         Use
+MSS/MMS   MWD verification  Verifying inclination and direction of MWD.
+                              Checking inclination of surface hole section before setting                   Inclination only
+                                   casing.
+                   Toolface      Establishing check for MWD or ST readings.
+                 Well profile     Defining well bore path at a given depth.
+                      GSS can verify toolface position in area with magneticGSS/GMS    MWD toolface
+                                     interference.
+                              Checking of the well path after casing is set. (GMS used                 Well profile
+                                 through casing after well is drilled using MSS.)
+  NSG          Well profile     Confirming of MSS / MMS or MWD after casing is set.
+                                 Confirming well path or orientation when high horizontal                 Multi shot survey
+                                accuracy is required.
+                               Completing survey on in-run and out-run for confirmation of             Redundant survey
+                                 accuracy.
+                                    Verifying toolface position in area with magnetic  SRG     MWD toolface
+                                     interference.
+                              Checking of the well path after casing is set. SRG used                 Well profile
+                                 through casing after well is drilled using MSS.
+  EMS          Well profile     Confirming MSS/MMS or Steering Tool.
+                                  Providing a baseline for comparison of all subsequent
+                                  surveys.
+ FINDS        Surface survey
+                                       105/8” OD tool limits use to large size casing only.
+                                  Limited to 31/2 hr memory only.
+             Table 4.D - Survey Application For Well Profile Verification
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 32 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.5.3.   Orientation Surveys
+
+         Orientation surveys may be required in operations which require determination of the known
+         direction, related to, either, true or grid North. Operations requiring tool orientation include,
+         setting packers in cased hole, aligning bent subs on a downhole motors, running jetting
+        devices, positioning whipstocks for side tracking and aligning perforating guns.
+
+        Surveying tools commonly used for position verification are listed in the following table:
+
+        MAGNETIC TOOLS                    GYRO TOOLS
+                                                         Whipstock                    Bent subs
+      MSS                        GSS/GMS     Packers                         Jetting device
+                                                         Templates
+                                                         Whipstock                    Bent subs
+                                                         Packers                         Jetting device     MMS                        SRG/NSG
+                                                         Templates                       Orienting Coring
+                                                                  Perforating gun
+                    Bent subs
+       ST
+                            jetting device
+                    Bent subs
+      EMS
+                       Orienting Coring
+
+                      Table 4.E - Survey Application For Orientation
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 67 ]
+────────────────────────────────────────────
+              ARPO                                                  PAGE 33 OF 67                       IDENTIFICATION CODE
+ ENI S.p.A.
+                                                     REVISIONAgip Division
+                          STAP-P-1-M-6120         0
+
+General notes for survey tool selection :
+
+
+ Maximum inclination     Survey accuracy requirement will differ between vertical and
+                            deviated wells.
+ Casing size            FINDS inertial surveying system can be run only in 133/8"
+                           casing or larger.
+ Survey depth         GSS will not be run deeper than 400m due to excessive drift
+                             rates
+ Hole inclination        Maximum inclination for GSS, GMS and SRG is 70Ο (stability
+                                       limit).
+ Potential drilling problemsDifferential sticking problems precludes the use of wireline
+                        based surveys with drillpipe in open hole (GSS, SRG, MSS
+                        and EMS).
+ High pressure reservoirs  In an isolated deviated well, GMS or SRG will be run in the
+                            previous casing  to  establish minimum  uncertainty before
+                                    drilling through a high pressure zone (in case of a blow out
+                        and  a  relief  well  is  required). A  more  accurate  tool
+                       (NSG/GCT) may be used for accuracy improvement.
+ Temperature Limitation   Maximum borehole temperature must be within specification
+                                 for the survey tools proposed for the programme.
+ Well Proximity            Template/platform   wells   which   are    drilled    in   the
+                         neighbourhood  of  other  wells must maintain a minimum
+                            separation with respect to the other wells. This may require
+                              additional surveys (e.g. NSG in  drill pipe) more often than
+                             with individual wells.
+ Survey Accuracy           Installations  will be most crowded immediately below the
+                             platform/template and will require greater survey accuracy to
+                                       fix well bore locations. The most accurate tools (FINDS or
+                     NSG) may be necessary for minimum uncertainty in critical
+                                situations.
+ Magnetic Influence       Magnetic based surveying instruments will not be used, in
+                        any situation, as the prime source of well location calculations
+                      when within 8m of any adjacent casing string.
+ Target Size and Depth    The accuracy of the surveying tools used on a well will be
+                         such that the total horizontal uncertainty at target depth is
+                          reasonable compared to the target size. The smaller and the
+                         deeper the target the more stringent the survey requirements.
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 34 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.6.   QUALITY CONTROL (QC)
+4.6.1.  Magnetic Survey Tools (at Rig-site)
+
+          All magnetic tools will be run in non-magnetic BHA environments.
+
+        Magnetic azimuth values will be considered invalid when the survey instrument is within 8m
+         of an adjacent casing shoe:
+
+     NMDC Requirements
+
+        Magnetic instruments must be run inside a sufficient length of NMDC.
+
+         In absence of any local Affiliates procedures, or Directional Contractor requirements, the
+        length of NMDC can be determined using graphs from Drilling Procedures Manual (Refer to
+        the Directional Drilling sub-section on ‘ Magnetic surveys’).
+
+      Compass Spacing
+
+         In absence of any local Affiliates procedures, or Directional Contractor requirements, the
+        length of NMDC can be determined using graphs from Drilling Procedures Manual (Refer to
+        the Directional Drilling sub-section on ‘Magnetic Surveys’).
+
+        Stabilisers
+
+       Non-magnetic stabilisers will be the only type permitted for use between NMDC's. Ferrous
+         steel stabilisers are unacceptable.
+
+       Magnetic Single Shot & Electronic Multi Shot
+
+         In  absence  of  any  local  Affiliates  procedures,  or  Directional/Surveying  Contractor
+        requirements refer use from suggestions made in the Drilling Procedures Manual (Refer to
+        the Directional Drilling sub-section on ‘Magnetic Surveys’).
+
+       Measurement While Drilling
+
+      When magnetic influence is expected from adjacent casing (or when the well is separated
+         less than 8m horizontally from an adjacent casing string), provision will be made to run a
+        gyro based survey tool on top of the MWD.
+
+     MWD tools  will be capable of transmitting data to surface indicating the presence of
+        magnetic interference or data which can be processed at surface (also indicating the
+       presence of magnetic interference).
+
+      A shallow depth functional test of the tool in the string will be performed on each trip into the
+         hole.
+       Survey repeatability should be within 0.5ο inclination and 2ο azimuth (above 10ο inclination).
+
+         In directional wells, a benchmark, or reference survey, is recommended to be taken in each
+        hole  section below  the  casing shoe  in  magnetically  free environments  at  the  first
+         opportunity. This permits a comparison survey at this point when running into the hole with
+       subsequent MWD tools.
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 35 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+      A check survey  will be taken immediately off bottom before starting a new bit run for
+       comparison with the previous run.
+
+       The tie-in point will be the deepest reported surveys station from the previous hole section.
+
+4.6.2.  Gyroscopic Survey Tools (at Rig-site)
+
+        Gyroscopic tools require accurate alignment of the instrument on the foresight/reference
+        azimuth.(Refer to Section 4.2.5)
+
+       Care must be taken in vertical or low inclination holes for the proper centralisation of the
+         instrument, especially in large diameter casing.
+
+        Corrections will be made for the drift workrate (the natural precession of the gyro with time)
+          in non ‘North Seeking’ gyro tools:
+
+       Gyro Single Shot
+
+       The landing slug will be checked to confirm seating on each run.
+
+       Time elapsed between two drift checks will not exceed 15min.
+
+     GSS will not be run below 400m.
+
+       Gyro Multi Shot Surface Reading Gyro
+
+       The landing slug will be checked to confirm seating on each run.
+
+       Time elapsed between two drift checks must not exceed 15min.
+          Drift rate will not exceed 10ο/hr.
+       Repeat surveys at the same point and orientation must agree within 0.5ο for inclination and
+         5.0ο for azimuth.
+
+              It will be necessary in some situations, when using a bent sub BHA, to make a series of
+        surveys with various orientations at one depth to establish an accurate measurement. This
+           is called a ‘cluster shot’ or a ‘rotational shot’. A cluster shot will be required while surveying
+         with SRG to establish an accurate measurement if using a bent sub assembly.
+
+       North Seeking Gyro
+      INRUN/OUTRUN inclination must agree to within 0.25ο.
+      INRUN/OUTRUN azimuth must agree to within 1.0ο for an inclination greater than 10ο and
+         within 5ο for an inclination lower than 10ο.
+
+       The tie-in point will be the last surveys station from the INRUN.
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 36 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.6.3.  Schlumberger ‘Guidance Continuous Tool
+       The maximum running speed is 1,800m/hr. (inclination<10ο) increasing to 4,500m/hr. in
+        deviated hole above 20ο inclination.
+          Drift checks will be required at each end of the survey and will not exceed 0.2ο/hr.
+      INRUN/OUTRUN inclination will agree within 0.25ο.
+      INRUN/OUTRUN azimuth will agree within 1ο for inclinations over 10ο.
+
+       The tie-in point will be the best fit of the last 4-5 surveys from the INRUN.
+
+4.6.4.   Ferranti Inertial Survey Tool
+
+      Recommended running speed will be 75m/min
+
+              If the running speed falls below 25m/min the run will be aborted.
+
+       The tool will be run with alternate 1min. fixed and 1min. transit intervals.
+
+      INRUN/OUTRUN results must agree within 1metre per thousand metre of measured hole
+        depth.
+
+        Successive FINDS surveys on the same well must agree within 2metres per thousand metre
+         of measured hole depth.
+
+       The tie-in point will be the third last station from bottom from the INRUN.
+
+4.6.5.  In-House Quality Control
+
+       The quality assurance procedures of the surveying company (including MWD) should be
+        requested at the beginning of a contract. These would include the bench mark checks that
+        take place prior to the tool being shipped, the rig site checks before during and after the
+        survey run and the subsequent follow up checks when the tool is returned to the service
+       companies base.
+
+       These should be evaluated and if any points of concern are raised, a plan should be agreed
+       between Eni-Agip Division and Affiliates and the service company for the alteration of
+        procedures to avoid any further QC concerns.
+
+         Details of any rig site checks should be passed on to the Drilling Supervisor by the SDE.
+
+       As a method of assurance the service company should include a check  list of checks
+         carried outwith the presentation of the survey results to the SDE.
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 37 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+4.7.   SURVEY PROGRAMME FOR VERTICAL HOLES
+
+         table 4.f outlines the standard minimum survey programme for vertical exploration wells.
+     TOTCO will be acceptable only on surface holes if inclination is less then 1.5ο.
+
+     MSS is the standard. MWD will be run as the survey tool of choice,  if economically and
+         technically justified.
+
+              If MWD is used at the recommended frequency and the wellpath is clear of other wells,
+       cased hole surveys may be omitted (if it is not dictated by local condition, legislation or third
+          parties).
+
+       Survey tool requirement will be dictated by collision risks assessment.
+
+       Survey frequencies are a minimum guideline. Survey intervals will be reduced as necessary
+         to meet the anti-collision policy as described in Section 5 or if drilling conditions dictate.
+
+4.8.   SURVEY PROGRAMME FOR DEVIATED HOLES
+
+         table 4.aG outlines the standard minimum survey programme for directional wells.
+
+     TOTCO will be unacceptable at any stage of the well. All surveys require an azimuth and an
+         inclination measurement.
+
+     MWD is the standard. MSS will be run as the survey tool of choice,  if economically and
+         technically justified.
+
+              If MWD is used at the recommended frequency and the wellpath is clear of other wells,
+       cased hole surveys may be omitted (if it is not dictated by local condition, legislation or third
+          parties).
+
+         In cased holes GMS is the standard. The FINDS tool is the most accurate survey tool
+         available. Platform planning  is greatly improved by  its use.  If anti-collision  is a  critical
+        concern the NSG/GCT or the FINDS will be used.
+
+       Survey tool requirement will be dictated by collision risks assessment
+
+       Survey frequencies are a minimum guideline. Survey intervals will be reduced as necessary
+         to meet anti-collision policy as described in Section 5 or if drilling conditions dictate.
+
+       Survey frequencies of vertical phases of individual deviated wells will be reduced at the
+      same value utilised for vertical wells.
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 67 ]
+────────────────────────────────────────────
+                    ARPO                                                  PAGE 38 OF 67                             IDENTIFICATION CODE
+      ENI S.p.A.
+                                                          REVISION      Agip Division
+                                STAP-P-1-M-6120         0
+
+
+
+                     Platform/Cluster/Template                        Individual Wells
+                During Drilling          After Casing Set        During Drilling          After Casing Set
+
+                  Type of      Frequency      Type of      Frequency      Type of      Frequency      Type of      Frequency
+                  instrument        of use       instrument        of use       instrument          of         instrument        of use
+                                                                                             instrument
+
+                      Tocto                  GMS/SRG                 MSS
+30” CP                             Bottom         Refer to        30m                               at shoe                      (template)                                                     Toctco
+                                                       notes
+
+                                      GMS/SRG
+20” - 133/8”       MWD        30m       NSG/GCT              MWD      150m (and                                                     30m                                                                                          each trip)                                                                  MSS/ ToctcoSurface CSG       MSS         60m          Refer to
+                                                       notes
+133/8 CSG       MWD                  GMS/SRGNSG/GCT              MWD      150m (and                                                     30m                             30m                                                                                          each trip)                                                     Refer to                                                            MSS(Intermediate)       MSS
+                                                       notes
+
+                                      GMS/SRG
+             MWD                  NSG/GCT              MWD      150m (and                                                     30m                             30m95/8 CSG                                                                                          each trip)                                                     Refer to                                                            MSS                MSS
+                                                       notes
+
+                                      GMS/SRG
+             MWD                  NSG/GCT              MWD      150m (and7” CSG                             30m                                                     30m                                                                                          each trip)                                                     Refer to                MSS                                                            MSS
+                                                       notes
+
+                                      GMS/SRG
+             MWD                  NSG/GCT              MWD      150m (and5” Lin                                 as required                                                     30m                                                                                          each trip)                                                     Refer to                MSS                                                            MSS
+                                                       notes
+
+1.   May be omitted if it is not dictated by local conditions, legislation or third party contractors procedures and the well is clear of other wells and if good
+     surveys (MWD) have been taken in open hole.
+
+2.  MSS or HDT allowed below top of lowest pay zone (in open hole).
+
+3.   FINDS to replace gyro if available.
+
+4.    In hot wells there may not be enough room for the gyroheat shield. In such cases run a magnetic multi-shot prior to running the casing.
+
+5.   When conductors have been driven, all conductors should be cleaned out and gyro surveyed prior to drilling the first well.
+
+6.   NSG/GCT can replace GMS if high horizontal accuracy is required for anti-collision purpose.
+
+              Table 4.F - Frequency and Types of Surveys for Vertical Wells
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 67 ]
+────────────────────────────────────────────
+                    ARPO                                                  PAGE 39 OF 67                             IDENTIFICATION CODE
+      ENI S.p.A.
+                                                          REVISION      Agip Division
+                                STAP-P-1-M-6120         0
+
+
+
+                     Platform/Cluster/Template                        Individual Wells
+                During Drilling          After Casing Set        During Drilling          After Casing Set
+
+                  Type of      Frequency      Type of      Frequency      Type of      Frequency      Type of      Frequency
+                  instrument        of use       instrument        of use       instrument          of         instrument        of use
+                                                                                             instrument
+
+                      Tocto                  GMS/SRG                 MSS                          1
+30” CP                             Bottom         Refer to        30m                               at shoe                      (template)                                                     Toctco                 GMS/SRG       30m
+                                                       notes
+
+                                      GMS/SRG
+20” - 133/8”       MWD        30m       NSG/GCT              MWD         30m7           1                                                     30m                                             30m
+Surface CSG       MSS         60m          Refer to                  MSS/ Toctco      60m7      GMS/SRG
+                                                       notes
+133/8 CSG       MWD                  GMS/SRGNSG/GCT              MWD         30m7             1.5                             30m                     30m                                             30m
+(Intermediate)       MSS                          Refer to                  MSS         60m7      GMS/SRG
+                                                       notes
+
+                                      GMS/SRG
+             MWD                  NSG/GCT              MWD         30m7             1.595/8 CSG                       30m                     30m                                             30m
+                MSS                          Refer to                  MSS         60m7      GMS/SRG
+                                                       notes
+
+                                      GMS/SRG
+             MWD                  NSG/GCT              MWD         30m7             1.57” CSG                        30m                     30m                                             30m
+                MSS                          Refer to                  MSS         60m7      GMS/SRG
+                                                       notes
+
+                                      GMS/SRG
+              MSS/MWD                NSG/GCT              MWD         30m75” Lin                            as required                   30m
+                HDT/MMS3                       Refer to                  MSS         60m7
+                                                       notes
+
+1.   May be omitted if it is not dictated by local conditions, legislation or third party contractors procedures and the well is clear of other wells and if good
+     surveys (MWD) have been taken in open hole.
+2.   Can use MWD/ST/MSS/MMS when there are problems getting gyro down or when inclination is more than 70O
+
+3.  MSS or HDT allowed below top of lowest pay zone (in open hole).
+
+4.   FINDS to replace gyro if available.
+
+5.    In hot wells there may not be enough room for the gyroheat shield. In such cases run a magnetic multi-shot prior to running the casing.
+
+6.   NSG/GCT can replace GMS if high horizontal accuracy is required for anti-collision purpose.
+
+7.    For vertical phases the survey frequency shall be considered as per vertical wells (150m and each trip).
+
+             Table 4.G - Frequency and Types of Surveys for Deviated Wells
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 40 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.    ANTI-COLLISION PROCEDURE
+
+5.1.   OBJECTIVES
+
+          All development  wells  will be surveyed from  the wellhead  to,  at  least,  the  lowest
+        hydrocarbon bearing zone using the minimum guidelines specified in this section.
+
+          Anti-collision procedures will be implemented, in all cases where is a potential collision risk
+        according to the policies outlined in this manual.
+
+       The prime reasons for specifying an anti-collision procedure are to:
+              •    Ensure a consistent method  is used to evaluate and reduce collision risks
+                 between wells.
+              •     Establish a common procedure for developing multi-well sites which takes into
+                  account actual well trajectory and trajectories of already existing wells.
+              •     Establish a common procedure that discriminates between interference from
+                  completed/producing wells and plugged/abandoned/uncompleted wells.
+
+5.2.    DEFINITIONS
+5.2.1.   Ellipsoid of Uncertainty
+
+       The Anti-Collision Model currently used by Eni-Agip Division and Affiliates is based on an
+         Ellipsoid of Uncertainty concept which describes the location of the well bore at any depth in
+        terms of a probability volume determined from the errors in the equipment used to survey
+        the well.
+
+         In general, the most conservative probability volume at any depth is in the shape of a
+        sphere, therefore the uncertainty on the location of the wellbore at any depth can be
+        described by the ‘Radius of Uncertainty’ concept. (Refer to Section 5.2.2 below)
+
+5.2.2.  Radius of Uncertainty (ROU)
+
+       The ROU is the radius of a sphere, at a specific vertical depth, which has the probability of
+        containing the well path.  It  is a cumulative calculation based on the product of the
+        Horizontal Uncertainty Factor of the survey instrument used to that point and the surveyed
+        depth to that point .
+
+         In field site calculations, the ROU will be increased by an amount depending on the ‘Dogleg
+         Potential’ (Refer to Section 5.2.3 below) along a projection from the last survey point to a
+        lower depth of interest (e.g. TD of the section or the expected closest approach to another
+          well).
+
+5.2.3.  Dogleg Potential (DLP) and Dogleg Severity (DLS)
+
+       Every BHA run in a hole has a maximum expected dogleg capability, whether steerable or
+         not. In the case of rotary assemblies the DLS will be based on historic performance of the
+       assembly on the current well. In the case of steerable assemblies  it will be based on the
+         Directional Contractor recommendation.
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 41 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.2.4.   Horizontal Uncertainty Factor (UF)
+
+       The UF is a coefficient, given in meters per thousand meters surveyed, that reflects the
+        increase in radius of uncertainty of the well path against depth and depends only on the
+        type of survey instrument and on the hole inclination. A current list of UF is given in table
+        4.a
+
+5.2.5.   Current Well (CW)
+
+       The well being planned or drilled. (See figure 5.a)
+
+5.2.6.   Target Well (TW)
+
+       Any well being considered for anti-collision purposes or proximity calculations. (See figure
+         5.a)
+
+5.2.7.   Separation Distance (SD)
+
+       The SD is the distance, in the plane of the expected closest approach, between ROU of the
+     CW and the TW at a given vertical depth. (See figure 5.a)
+
+5.2.8.  Centre to Centre Distance (CCD)
+
+       The CCD is the distance, in the plane of the expected closest approach, between the
+        centres of CW and TW paths at a given vertical depth. (See figure 5.a)
+
+5.2.9.   Separation Ratio (SR)
+
+       The SR is the ratio of CCD to the sum of the ROU's. (See figure 5.a)
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 67 ]
+────────────────────────────────────────────
+             ARPO                                                  PAGE 42 OF 67                      IDENTIFICATION CODE
+ENI S.p.A.
+                                                    REVISIONAgip Division
+                         STAP-P-1-M-6120         0
+
+
+
+
+
+                 CCD = Centre to Centre Distance
+
+
+
+
+                   ROU = RADIUS of UNCERTAINITY
+
+
+
+
+
+                         SD = Separation Distance
+
+
+
+
+
+    CW = Current Well                   TW = Target Well
+
+
+
+
+   SEPARATION RATIO  ( SR ) > 1 = NO INTERFERENCE BETWEEN ROU's
+
+   SEPARATION RATIO  ( SR ) < 1 = INTERFERENCE BETWEEN ROU's
+
+
+
+
+
+                                  CCD
+     SEPARATION RATIO  ( SR ) =
+                          CW ROU + TW ROU
+
+
+
+
+      SEPARATION DISTANCE (SD ) =  CCD  -  ( CW ROU + TW ROU )
+
+
+            Figure 5.A - Relationship of Well Bore Uncertainties
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 67 ]
+────────────────────────────────────────────
+              ARPO                                                  PAGE 43 OF 67                       IDENTIFICATION CODE
+ ENI S.p.A.
+                                                     REVISIONAgip Division
+                          STAP-P-1-M-6120         0
+
+Definitions for figure 5.b:
+
+Curve A:         Threshold of separation
+                       Is the curve where, at any depth, the condition SR = 1
+                   At any depth defines the distance of potential collision.
+
+Curve B:         Threshold of alert
+                       Is the curve where, at any depth, the condition SR = coefficient B
+                   Usually coefficient. B = 1.5
+
+Curve C:         Threshold of danger
+                       Is the curve where, at any depth, condition SR = coefficient C
+                   Usually coefficient. C = 2
+
+Zone X:           Field of danger
+                The field between Curve C and Curve B
+
+Zone Y:            Field of alert
+                The field between Curve B and Curve A
+
+Zone Z:            Field of Potential Collision
+                The field delimited by Curve A
+
+The values of coefficients B and C could be reduced on the basis of a probabilistic analysis
+of the occurrence of potential well collision situations. The Uncertainty Area Ratio (UAR)
+concept could be used to evaluate the probability of the occurrence of potential well
+collision situations. The UAR is the ratio of the sum of the two Uncertainty Area to the sum
+of the two hole sizes.
+
+                                   2             2                 2[(CWROU) + (TWROU )  ]         UAR =
+                                  2            2                               [(CWOD ) + (TWOD )  ]
+
+     where:
+
+   CWOD =    the outside diameter of the current well
+
+   TWOD =     the outside diameter of the target well
+
+In the following table is reported an example of reduction of the coefficients to determinate
+the threshold of alert and the threshold of danger (previously indicated as ‘Coefficient B  ‘
+and ‘Coefficient C’) on the basis of UAR value :
+
+      UAR                   Coefficient B                Coefficient C
+     < 20,000                    1.50                         2.0
+       40,000                     1.45                         1.9
+       60,000                     1.40                         1.8
+       80,000                     1.35                         1.7
+      100,000                    1.30                         1.6
+      120,000                    1.25                         1.5
+     >120,000                    1.25                         1.5
+             Table 5.A - Example of Reduction of Coefficients
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 67 ]
+────────────────────────────────────────────
+             ARPO                                                  PAGE 44 OF 67                      IDENTIFICATION CODE
+ENI S.p.A.
+                                                    REVISIONAgip Division
+                         STAP-P-1-M-6120         0
+
+
+
+
+
+                  Figure 5.B - Well Proximity Evaluation
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 45 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.3.    ANTI-COLLISION REQUIREMENTS
+5.3.1.  Software Capabilities
+
+       The software package previously described in Section 3.4.1 will be required to calculate and
+           fully evaluate well survey data.
+
+5.3.2.   Projection Technique (with Rotary Assemblies)
+
+        Evaluating the collision risk of the CW invariably involves a forward projection to account for
+        expected drilling assembly behaviour below the last survey point.
+
+       The projection will be made on CW accounting for the expected closest approach to the
+       TWs. The trend observed in the final surveys of a rotary assembly will be used to establish
+        the expected trajectories.
+
+5.3.3.   Projection Technique (with Steerable Assemblies)
+
+        Evaluating the collision risk of the CW invariably involves a forward projection to account for
+        expected drilling assembly behaviour below the last survey point.
+
+       The projection will be made on CW accounting for the expected closest approach of the
+       TWs. With steerable assemblies, it will be possible to assume a trend based on a maximum
+       Dogleg Potential of the assembly in a desired direction.
+
+5.3.4.  Worst Case Projection Technique
+
+         In the worst case condition (e.g. when the projected dogleg is unknown or cannot be
+        extrapolated  for certain) an additional uncertainty factor due to the maximum Dogleg
+         Potential of the assembly, will be added to the applicable ROU.
+        For projection purposes, maximum Dogleg Potential (inso/30m) will be translated as follows
+         into an addition to the ROU of the Current Well for each 30m drilled [ = sine (DLP) x 50]:
+
+
+            Maximum Dogleg Potential                       Additional ROU/30m
+                        1°/30m                                   0.27m
+                        2°/30m                                   0.55m
+                        3°/30m                                   0.79m
+                        4°/30m                                   1.07m
+                        5°/30m                                   1.34m
+
+               Table 5.B - Maximum Dogleg Potential versus Addition to ROU
+
+       The intervals where the separation is planned to be less than the threshold of danger
+       (zone X) or the threshold of alert (zone Y), will be reported (specifying Vertical depths and
+       Measured depths) in the Well Programme and in the Directional Well Plan before directional
+           drilling operations commence.
+
+              It is recommended that a graphical representation, like the one shown in figure 5.c, is to be
+        attached for each identified zone.
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 67 ]
+────────────────────────────────────────────
+              ARPO                                                  PAGE 46 OF 67                       IDENTIFICATION CODE
+ ENI S.p.A.
+                                                     REVISIONAgip Division
+                          STAP-P-1-M-6120         0
+
+The original wellhead co-ordinates and elevations, especially for older wells, should be
+checked for potential errors. There may be a more recent survey of the wellhead location
+than is quoted on the original survey data. The difference, if any, between the two must be
+assessed and the necessary recalculation of the data performed.
+
+Magnetic based surveying instruments will not be used as the prime source of CW location
+calculation within 8m of any TW (centre to centre distance). A gyro based surveying tool will
+be used as the primary survey instrument until magnetically calculated azimuths agree with
+the gyro tool .
+
+
+          0
+
+
+
+
+
+      1000
+
+
+   (m)
+     DEPTH
+       2000
+        VERTICAL
+
+
+
+       3000
+
+
+
+
+
+       4000
+           00                     20        40       60       80      100      120
+
+                AGO 29 - AGO 17         AGO 17 - AGO 29
+
+                    Figure 5.C - Uncertainty Area Ratio
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 47 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.4.   CONSIDERATIONS IN PLANNING A NEW MULTI-WELL SITE
+
+       The allocation of ‘wells to slot’ from a multi-well site will be planned in order to limit potential
+         well collision situations. Points to be considered are:
+              •    Well  to  slot allocation should avoid crossing  of well  trajectories whenever
+                    possible.
+              •    The slot allocations  will account for  final target displacement and direction.
+                  Higher displacement wells will be drilled from the outer slots whenever possible.
+              •    The kick-off points of wells will be spaced vertically depending on final target
+                   displacement. Larger displacement wells will be kicked off at shallower depths
+                 whenever possible.
+              •        If crossing of trajectories  is unavoidable, the tangent section on both wells
+                  should be achieved while drilling whenever possible.
+              •    The drilling order of wells will be such that the eventual shut-in time requirement
+                      of adjacent wells is kept to a minimum.
+              •    Spacing of wells for the surface vertical phases will not be subjected to SR < 1
+                          limit, in case drilling is planned/performed from a multiwell site where all the
+                   surface phases have to be drilled subsequently at once time.
+              •     Anti-collision procedures will apply, for the surface vertical phase, in case drilling
+                         is planned/performed from a multiwell site where production from adjacent wells
+                         is on going or during any production while drilling activity.
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 48 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.5.    ANTI-COLLISION RESPONSIBILITIES
+5.5.1.  Planning Wells (with interference between existing producing/completed wells and
+      new wells)
+
+              a)   The D&CM  will have  overall  responsibility  for  the maintenance  of  safe
+                   operations while drilling in proximity to other wells.
+              b)    Directional Well Plans in which trajectories fall into zone X is only allowed when
+                   the target well (TW) has been properly plugged.
+               c)   The SDE will define any CWs falling within zone X, during the well planning
+                  stage and will prepare necessary recommendation according to the following
+                     guideline:
+                    •    The TW directional data must be of reliable source and quality.
+                    •    Planning the CW, relevant anti-collision analysis have been performed.
+                    •     Proximity calculation and projection are conducted regularly at the wellsite
+                         while drilling the CW in order to confirm the CW position within zone X.
+                    •    While drilling within zone X to assure adequate quality and frequency of
+                         the surveys, MWD will be used.
+
+              d)   The SDE will prepare a contingency plan for plugging the appropriate TWs.
+              e)   The contingency plan will specify procedures, timing and responsibilities of other
+                   Eni-Agip Division and Affiliates departments in suspending the appropriate TWs
+                and will be included in the well programme for the CW. (Refer to Section 5.7)
+                    f)    Planning directional wells in which trajectories  fall into the zone Y are not
+                  allowed as a part of normal procedure.
+              g)   Dispensations will require approval by the D&CM and must be clearly stated and
+                 documented. (Refer to Section 1.3).
+              h)      If the separation is projected to fall within the zone X during drilling operations,
+               when this has not been planned, drilling will be alerted and the SDE will prepare
+                a recommendation for plugging the necessary TW(s) as stated in Section 5.76.
+                  Approval will be required from the D&CM to proceed drilling.
+                       i)   When the separation is projected to fall within zone X, the Drilling Supervisor
+                        (rigsite) will be responsible to ensure appropriate action is taken to shut-in the
+               TWs, before drilling operations proceed. (Refer to Section 5.76)
+                       j)   The Eni-Agip Division or Affiliates SDE will confirm anti-collision calculations
+              made at the rig-site on a survey by survey basis when the separation is inferior
+                     to the threshold of danger (i.e. be within zone X).
+               k)      If the separation is projected to  fall within zone Y during drilling operations,
+                         drilling operations will be stopped (Refer to Section 5.8). Documented approval
+                          will be required from the D&CM for corrective procedures before  drilling  is
+                  allowed to proceed. (Refer to Sections 1.3 and 5.8)
+                       l)   The DSR  (rig-site)  will be  responsible  for suspending  drilling  operations
+                  immediately when the separation  is projected  to  fall within zone Y  (or  is
+                    projected to fall within zone Z if it was allowed within zone Y).
+           m)  The DS will responsible for implementing the appropriate corrective actions as
+                 approved by the D&CM before drilling operations proceed. (Refer to Section 5.8)
+              n)   Planning and drilling with separation falling in the zone Z is unacceptable under
+                 any circumstance.
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 49 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.5.2.  Planning Wells (with interference between existing, non completed/P&A wells and
+      new wells)
+
+              a)   The D&CM  will have  overall  responsibility  for  the maintenance  of  safe
+                   operations while drilling in proximity to other wells.
+              b)   Planning new wells within zone Y is allowed when the target well (TW) is a
+                  plugged and abandoned, suspended or an uncompleted well.
+               c)    Planning and drilling with separation falling in the zone Z is unacceptable under
+                 any circumstance.
+              d)   During the well planning stage, the SDE will define any CWs falling within the
+                zone Y and will prepare necessary recommendation according to the following
+                     guideline:
+                    •    The TW directional data must be of reliable source and quality.
+                    •    Planning the CW, relevant anti-collision analysis have been performed.
+                    •     Proximity calculation and projection are conducted regularly at the wellsite
+                         while drilling the CW in order to confirm the CW position within the zone Y.
+                    •    While drilling within zone Y to assure adequate quality and frequency of
+                         the surveys, MWD will be used.
+
+              e)      If the separation is projected to  fall within zone Y during drilling operations,
+                where this has not been planned,  drilling  will be alerted and the SDE  will
+                  prepare recommendations for drilling procedures as stated before.
+                    f)   The Eni-Agip Division or Affiliates SDE will confirm anti-collision calculations
+              made at the rig-site on a survey by survey basis when the separation is inferior
+                     to the threshold of alert (i.e. within zone Y).
+              g)      If the separation is projected to  fall within zone Z during drilling operations,
+                         drilling will be stopped. Documented approval is required from the D&CM for
+                     corrective procedures before drilling is allowed to proceed. (Refer to Sections
+                   1.3 and 5.8)
+              h)   The DSR  (rig-site)  will be  responsible  for suspending  drilling  operations
+                  immediately when the separation is projected to fall within zone Z.
+                       i)   The DS will responsible for implementing the appropriate corrective actions as
+                 approved by the D&CM before drilling operations proceed. (Refer to Section 5.8)
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 50 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.6.   PLUGGING OF COMPLETED TARGET WELLS (when separation is in zone x)
+
+       The following procedure  will apply at  all times when the well programme  calls  for a
+        separation less than the threshold of danger (within zone X) or the separation is projected
+         to fall within zone X:
+              a)   Any TW which separation is projected to be less than the threshold of danger
+                           (i.e. within zone X) above the sub-surface safety valve (SSSV) depth less 30m,
+                 must have the SSSV closed and the well de-pressurised.
+              b)   Any TW which separation is projected to be less than the threshold of danger
+                           (i.e. within zone X) below the SSSV depth less 30m compared to the planned
+              CW, is to be plugged at least 150m below the lowest depth in zone X for the
+              TW.
+               c)    After Installation of the plug, all TW pressures will be bled down to zero, or
+                     circulated to the appropriate kill weight fluid before drilling commences on the
+             CW.
+              d)   Target Wells will be only brought on line when the separation is greater than the
+                  threshold of danger (i.e. outside zone X) and increasing steadily.
+
+5.7.   SUSPENSION OF CURRENT WELL (when separation is in zone y or in zone z)
+
+       The following procedure will apply at all times when separation, while drilling, is projected to
+       be less than the threshold of alert (i.e. within zone Y) or less than the threshold of danger
+         (within zone Z) depending  if the CW is drilled in accordance with Sections 5.5.1 or 5.5.2
+       (See figure 5.f)
+
+              a)   When the separation to any TW is projected to be less than the applicable
+                    threshold, the Drilling and Completion Supervisor will be advised and drilling of
+                   the CW will be stopped.
+              b)   The SDE will formulate a plan of action after considering the following options:
+                    •    Re-survey the CW and/or TW with a more accurate survey tool to reduce
+                                  its ROU and increase the projected separation to an acceptable level.
+                    •   Make a trip to alter the well-path of the CW with an orientable (bent sub or
+                         steerable system) BHA to increase the projection of separation ratio to an
+                        acceptable level.
+                    •    Plug the well and side-track at a depth where the well can be safely re-
+                               drilled.
+
+               c)    Operations will only resume after the proposed corrective actions have been
+                 approved by the D&CM.
+              d)  A well planned or drilled with separations less than the threshold of separation
+                           (i.e. within zone Z) is unacceptable under any circumstance.
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 51 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.8.    WELL-SITE PROCEDURES
+
+         1)   Magnetic based surveying instruments will not be used as the prime source of CW
+               location calculation within 8m of any TW (centre to centre distance).
+         2)   When magnetic influence is suspected, gyro surveys will be run to check the magnetic
+             surveys until such time as the magnetic and gyro survey tool azimuths agree within 2ο
+             azimuth for at least two or more consecutive surveys.
+         3)   When proximity is critical with a steerable assembly, the MWD will be placed on top of
+          mud motor to ensure the survey is as close as possible to the bit.
+         4)   When there is any doubt about the accuracy of a magnetic based survey,  it will be
+             double checked with a gyro based tool before drilling ahead.
+         5)    Proximity calculations  will be done at regular intervals depending on the risk of
+                collision but, in any case, at least twice daily while drilling.
+         6)   Only the most experienced Directional Contractor personnel  will be utilised when
+              proximity situations are expected to be of concern during drilling operations. If drilling
+              conditions call for additional personnel to cover 24hrs basis service, actions will be
+            implemented accordingly agreed with the Contractor.
+         7)   The following precautions will be observed when CWs are within zone X or zone Y
+            depending on the type of TW (in accordance with Sections 5.5 or 5.6).
+         8)    Proximity calculations and projections are to be performed on each survey.
+         9)   Mud returns, will be monitored regularly for the presence of cement or gas.
+        10)  A ditch magnet will be installed on the flowline and monitored regularly for abnormal
+            presence of metal tailings.
+        11)  Wherever  practicable, the annuli on TW's  will be pressured up and monitored
+               regularly for sudden changes in pressure.
+        12)  The drilling operation will proceed at a controlled ROP to reduce the potential for
+           damage should a collision occur.
+        13)  The drilling operation will proceed with due caution and particular attention being paid
+               to sudden changes in ROP, drilling torque or other irregularities.
+        14)  The Contractor Directional Operator will be present on the drill floor at all times to
+             monitor drilling parameters.
+        15)  Unless required for directional control, the use of drilling motors will be avoided while
+                  drilling in this situation. If motor use is unavoidable then a low torque motor will be the
+              preferred option.
+        16)  Whenever possible use PDC bits instead of tricone bits.
+        17)  The DS will ensure that the most experienced personnel will be assigned for the tasks
+               outlined above (as recommended by the Contractor Directional Supervisor). The DS
+                  will be  notified immediately when any  indications  of  collision are suspected or
+             observed.
+        18)  A stock of at least 70 m3 of drilling mud should be available for emergency filling up.
+        19)  Well control drills will be intensified.
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 67 ]
+────────────────────────────────────────────
+                  ARPO                                                  PAGE 52 OF 67                           IDENTIFICATION CODE
+    ENI S.p.A.
+                                                        REVISION    Agip Division
+                              STAP-P-1-M-6120         0
+
+
+
+
+
+Figure 5.D- Anti-Collision Responsibilities (when there is Interference Between Existing
+                   Completed/Productive Wells and New Wells)
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 67 ]
+────────────────────────────────────────────
+                    ARPO                                                  PAGE 53 OF 67                             IDENTIFICATION CODE
+      ENI S.p.A.
+                                                          REVISION     Agip Division
+                                STAP-P-1-M-6120         0
+
+
+
+
+
+Figure 5.E - Anti-Collision Responsibilities (when there is Interference Between Existing Non
+                Completed/Plugged & Abandoned Wells and New Wells)
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 67 ]
+────────────────────────────────────────────
+             ARPO                                                  PAGE 54 OF 67                      IDENTIFICATION CODE
+ENI S.p.A.
+                                                    REVISIONAgip Division
+                         STAP-P-1-M-6120         0
+
+
+
+
+
+             Figure 5.F - Anti-Collision during Well Suspension
+
+
+────────────────────────────────────────────
+[ صفحه 55 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 55 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+5.9.   EXAMPLE PROXIMITY CALCULATION
+
+         In this example only two wells are considered (In multiple-well situations the procedure will
+       be identical).
+
+       The target well (TW) is Agostino 17. The current well (CW) is Agostino 29.
+
+         In the following table are the reported calculation inputs and outputs for a typical report
+        form. Figure 5.7  - Well Proximity Evaluation (AGOSTINO 29  - AGOSTINO 17)  is the
+        graphical representation of the example.
+
+  Column            Heading                              Description
+     1     VD                                Vertical Depth of CW (m)
+     2    MD                        Measured Depth of CW (m)
+     3      Hole Diameter                Hole diameter of CW (ins)
+     4        Inclination Angle                  Inclination Angle of CW at that depth (deg.)
+     5      Survey Type Tool          MWD, etc.
+     6       Horizontal Uncertainty Factor   UF due to the survey tool and hole inclination for
+                                              the CW (m/1,000m)
+     7      Radius of Uncertainty       CWROU (m)= [Col 2 x Col 5]/1,000
+     8    MD                        Measured Depth of TW (m)
+     9      Hole Diameter                Hole diameter of TW (ins)
+     10       Inclination Angle                  Inclination Angle of TW at that depth (deg.)
+     11      Survey Type Tool          MWD, etc.
+     12       Horizontal Uncertainty Factor    Horizontal Uncertainty Factor, due to the survey
+                                                     tool and the hole inclination , for the TW
+                                          (m/1,000m)
+     13      Radius of Uncertainty       TWROU (m)= [Col 8 x Col 12]/1,000
+     14      Curve A                       Threshold of separation (m)= [Col 7 + Col 13]
+     15      Curve B                       Threshold of alert (m)= [Col 14 x Col 18]
+     16      Curve C                       Threshold of danger (m) = [Col 14) x Col 19]
+     17       Uncertainty Area Ratio       UAR (See notes to )
+     18      Coef. B                        Coef. of the threshold of alert (See notes to figure
+                                                  5.a)
+     19      Coef. C                        Coef. of the threshold of danger (See notes to
+                                                   figure 5.a)
+     20      Curve B using Coef. B
+     21      Curve C using Coef. C
+     22      Well Distance                  Separation (m) against depth
+
+        Note       At 2800m TVD of the CW, the separation is 116 m, that is less than the
+                    threshold of danger ,134.3m. At 2,900m TVD of CW the separation is
+                  106m, that is less than the threshold of alert, 107.6m.
+
+                            Table 5.C - Proximity Calculation
+
+
+────────────────────────────────────────────
+[ صفحه 56 از 67 ]
+────────────────────────────────────────────
+             ARPO                                                  PAGE 56 OF 67                      IDENTIFICATION CODE
+ENI S.p.A.
+                                                    REVISIONAgip Division
+                         STAP-P-1-M-6120         0
+
+
+
+
+   Figure 5.7 - Well Proximity Evaluation (AGOSTINO 29 - AGOSTINO 17)
+
+
+────────────────────────────────────────────
+[ صفحه 57 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 57 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+6.   RECORD KEEPING
+
+6.1.   OBJECTIVES
+
+          All well surveys will be filed in both printed and in electronic forms as specified in Section
+         3.4.1. Electronic data must be produced on floppy disks (two copies) formatted according to
+        Eni-Agip Division and Affiliates specification. Write protected form are suggested.
+
+       The reporting documentation for each well must include the standard feed back Eni-Agip
+         Division and Affiliates forms and the Final Report of the Directional Contractor.
+
+6.2.    DEFINITIONS
+6.2.1.  Working Surveys
+
+       Working surveys are obtained during drilling operations from surveying tools utilised. There
+           will also be intermediate surveys taken at casing point for the purpose of providing more
+        accurate tie-in points for the following phase of drilling. A permanent record of all working
+        surveys will be retained by both Directional Contractor and Eni-Agip Division and Affiliates.
+        This is primarily for an accuracy check of survey instruments over the longer term.
+
+6.2.2.   Definitive Surveys
+
+          Is the definitive or final survey will be obtained from the most accurate survey tool run in the
+        hole section or from TD to mudline. Several surveys tied together (concatenated) may be
+        required to provide the definitive survey of the well (e.g. from surface to 133/8" casing shoe -
+         Ferranti FINDS; 133/8" shoe till TD -NSG). The word ‘Definitive’ will not appear in any survey
+         report other than the final concatenated definitive survey as defined by the SDE.
+
+6.2.3.   Final Report
+
+          Is the Directional Contractor generated report, relating to the directional and surveying of
+        the well, supplied after the completion of the work. The contents are detailed in Section 6.5.
+
+6.3.   REPORTING RESPONSIBILITIES
+
+       The SDE will be responsible for the correct archival and retention of survey files and Final
+        Reports.
+
+       The D&CM and the Drilling Superintendent will be responsible for distribution and filling of
+        Eni-Agip Division and Affiliates standard feed back forms according to the instructions
+        attached to each form.
+
+       The Contractor Directional Supervisor will check and approve the Final Report, as detailed
+          in Section 6.6, before releasing the final copies to Eni-Agip Division and Affiliates. (Refer to
+        Sections 6.5 and 2.2.5)
+
+
+────────────────────────────────────────────
+[ صفحه 58 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 58 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+6.4.   SURVEY REPORTING FORMAT
+
+        Standard Eni-Agip Division and Affiliates reporting forms will be used to report all directional
+       and surveying jobs; these are:
+
+                         Survey Calculation’s Output.
+
+     ARPO FB 2        Malfunctions And Failures Of Contractor's Equipment, Unsatisfactory
+                            Services, New Equipment Test Report. (Refer to Section 7.2.1)
+
+     ARPO FB 1        Contractor Evaluation Form (Refer to Section 7.2.2)
+
+       Regarding QC data, the Surveying Contractor's own audited QC format is acceptable.
+
+       The computed survey results format of survey data will be agreed previously between Eni-
+        Agip Division or Affiliates SDE and the Directional Contractor. The following information
+       must be included:
+              •    Date.
+              •     Well/slot number.
+              •    Tool type with serial number and/or ID number.
+              •    Reference Datum (seabed/rig floor).
+              •   RKB height.
+              •     Tie in survey (on the first page of the listing only).
+              •    Magnetic Declination and North Reference.
+
+         Additional Data as determined by the SDE or the surveying company which is pertinent to
+        the survey will be included. This section will also include the following data, if applicable:
+              •    Comparison data when tandem survey tools have been used.
+              •     Foresight reference used for gyro alignment with indication of points used.
+              •    IN and OUT run data.
+              •     Rotational survey data (check-shots at the same depth).
+              •   BHA description (NMDC length and Stabiliser positioning).
+
+
+────────────────────────────────────────────
+[ صفحه 59 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 59 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+6.5.    DIRECTIONAL CONTRACTOR’S FINAL REPORT
+
+       The Final Report draft will be reviewed and approved by the SDE before the final copy is
+       handed over. The Final Report provided by the Directional Contractor will be of the standard
+        format as described below:
+
+6.5.1.   Title Page
+
+       The title page will include:
+              •     Platform/Rig name.
+              •    Well Name.
+              •   RKB - Seabed Interval.
+              •    Wellhead - UTM, Local and Geographic Co-ordinates with system references.
+              •    Target - UTM, Local and Geographic Co-ordinates with system references.
+              •    Target TVD.
+              •    Target Tolerance.
+              •    Target Azimuth.
+              •    Magnetic Declination.
+              •     Start Date/Finish Date.
+              •    Casing/Hole Sizes and Depths.
+
+6.6.   SUMMARY OF OPERATION/SURVEY PROGRAMME
+
+      A general overview of the directional drilling and surveying activities will be made for each
+       phase of the well.
+
+6.6.1.  BHA Performance Report
+
+       The BHA performance report  will contain, the data necessary to analyse and improve
+           drilling performance on subsequent wells.
+
+       The format will be agreed by SDE and Directional Contractor Representative.
+
+       The Directional Contractor Engineer at the rigsite will be required to complete the requested
+        data on the report.
+
+6.6.2.   Definitive Survey Listing
+
+       The Definitive Survey Listing should include:
+              •    Survey tool type and depth used.
+              •     Uncertainty in the bottom hole location.
+              •    Reference co-ordinates of platform centre .
+              •    Reference co-ordinates of well drilled.
+              •    North Reference.
+
+
+────────────────────────────────────────────
+[ صفحه 60 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 60 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+6.6.3.  Summary Plot
+
+       The Summary Plot of the well may be A3 or A4 in size and should include:
+
+       The well plan and the drilled well path(s) for the vertical and horizontal sections.
+
+       The target(s) and casing points.
+
+          Critical  directional   drilling  sections,(e.g.  formation  deepening  influencing  the BHA
+        performance)
+
+6.6.4.   Directional Drilling Analysis
+
+      A thorough directional drilling analysis shall be made by the directional drillers on-site with
+        the following topics to be considered:
+              •     Highlights.
+              •     Failure Report and Analysis.
+              •    Recommendations for drilling future wells.
+
+
+────────────────────────────────────────────
+[ صفحه 61 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 61 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+7.    DIRECTIONAL DRILLING/SURVEYING SERVICES PROCUREMENT
+
+7.1.   PROCURING SERVICES & MATERIALS PROCEDURES
+
+       The procurement of services, equipment and materials for drilling operations must follow the
+         principles and procedures set out by the relevant local regulation requirements and comply
+         with the Eni-Agip Division And Affiliates policy ‘Operating Procedure for purchasing of
+        services and materials’ issued by VAP.
+
+        With regard to Directional Drilling and Surveying in general the following aspects can be
+         outlined.
+
+      Once the target location and size has been accepted, the SDE (or the TEAP representative
+        assigned to the project) should estimate the surveying accuracy requirements or constraints
+          (e.g. the position and uncertainty in location of adjacent wells, and the difficulties expected
+          in  the  drilling  of  the proposed  well). (Refer  to Sections  3.1 and  Errore.  L'origine
+        riferimento non è stata trovata. )
+
+       The SDE (or the TEAP representative assigned to the project) will prepare a Preliminary
+        Well Programme that will contain the following topics as a minimum:
+              •    Pore pressure gradient, fracture gradient and overburden gradient evaluation.
+              •     Preliminary casing programme.
+              •     Preliminary directional profile.
+              •     Preliminary time analysis by phase.
+
+       The DS (or the Head Office representative nominated by ARPO, assigned to the project),
+       on the basis of the Preliminary Well Programme, will prepare for the Directional Drilling and
+        Surveying service, a list of relevant equipment and personnel, with due consideration given
+         to logistic aspects and local market constraints.
+
+       The D&CM (or the Project Manager, or the concerned ARPO Department, depending on
+        type of procurement and geographic unit autonomy) will compile for the Directional Drilling
+       and Surveying  service,  the  requisition  to be  sent  to  the concerned  Contracts and
+        Purchasing Department. He will have responsibility for enforcing Technical Specification
+        issued by ARPO/STAP in the tender request.
+
+      A technical judgement for the bids presented must be formulated from the D&CM (or the
+       concerned ARPO Department).
+
+              It will consist of the following steps:
+              •     Primarily the D&CM (or the concerned ARPO Department) will evaluate each bid
+                   submitted to ensure that the service offered in the tender  is that which  is
+                    required.
+              •        If the bid is congruent with the service tendered a Technical Evaluation must be
+                  prepared for the Department that issued the Technical Specification.
+              •    The D&CM (or the concerned ARPO Department) will formulate the Technical
+                Judgement of the bids considering the appropriate Technical Evaluations and
+                   enclosing some  final recommendations based on a  global  evaluation  of
+                   operations in this context.
+
+
+────────────────────────────────────────────
+[ صفحه 62 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 62 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+7.2.   CONTRACTOR EVALUATION
+
+        Contractor evaluation is essential to:
+              •    Ensure the improvement of services provided, hence Company standards.
+              •     Instigate  in conjunction  with the concerned departments, a Vendors  Lists
+                      revision.
+
+       The D&CM is expected to be very diligent to ensuring the timely and correct filling in of the
+         following standard forms:
+
+7.2.1.  ARPO FB-1 Malfunction & Failure Report
+
+        Malfunctions  and  failures  of  Contractor's  equipment,  unsatisfactory  services, new
+       equipment test reports must be detailed in the form FB-1 (Refer to figure 7.a).
+
+       The DS is responsible for the correct filling in of the document and for the first stage in its
+          distribution. The D&CM will ensure dispatch as per the relevant flow diagram.
+
+       The receipt of this document by the appropriate departments is essential to initiate technical
+         enquiries.
+
+7.2.2.  ARPO FB-2 Contractor Evaluation Form
+
+       The evaluation of contractor performance according to the contract commitments must be
+         detailed in the standard FB-2 form (Refer to figure 7.b)
+
+       The Drilling Supervisor, the SDE and the Drilling Superintendent are responsible for filling in
+         of the form.
+
+       The D&CM is responsible for approving and dispatching the forms as per the relevant flow
+        diagram.
+
+      STAP will have the responsibility for ensuring feed-back to QUAF on the Contract.
+
+
+────────────────────────────────────────────
+[ صفحه 63 از 67 ]
+────────────────────────────────────────────
+                    ARPO                                                  PAGE 63 OF 67                             IDENTIFICATION CODE
+      ENI S.p.A.
+                                                          REVISION      Agip Division
+                                STAP-P-1-M-6120         0
+
+
+                 MALFUNCTION & FAILURE REPORT
+                                    (FEED BACK REPORT 01)
+
+ District/Subsidiary
+
+                                                                      Report Date:
+Well Name:                                                 Well Code:
+                                             General Information
+Contract No:                       Contract Type:                          Contractor:
+Service/Supply:
+        Drilling      Completio      Workover    Duration Dates of Failure:            Distributed By:
+                 n
+RIG SITE
+Description of Failure:
+
+
+
+
+
+                                                                            Drilling & Completions Company Man:
+Adopted or Suggested Solution(s):
+
+
+
+
+Contractor Contingency Measures:
+
+
+
+
+                                                               Contractor Representative:
+DISTRICT OR SUBSIDIARY NOTES:
+
+
+
+
+        Failure Classification                  Status          Operations Manager:
+
+        Technical                        Normal
+
+        Management/Organisation          Extreme        Time Lost:
+
+         Safety/Quality                        Innovative
+
+                                        Adverse         Estimated Cost of Failure:
+
+MILAN HEAD OFFICE NOTES:
+
+
+                                                           Analysis Code:
+
+                        Figure 7.A - Malfunction & Failure Report
+
+
+────────────────────────────────────────────
+[ صفحه 64 از 67 ]
+────────────────────────────────────────────
+                    ARPO                                                  PAGE 64 OF 67                             IDENTIFICATION CODE
+      ENI S.p.A.
+                                                          REVISION      Agip Division
+                                STAP-P-1-M-6120         0
+
+
+                   CONTRACTOR EVALUATION
+                                     (FEED BACK REPORT 02)
+
+ District/Subsidiary
+
+                                                                   Report Date:
+Well Name:                        Well Code:
+                                    General Information
+Contract No.:              Contract Type:                Contractor:
+Service/Supply:                  Distributed By:
+                               R1 Technical Requirements
+                            FB_01 REPORT REFERENCES
+    FB Report No.:          Time Lost (Hr.Min):                 Economic Cost (£M):
+                   Category                                      Evaluation Score (0-9)
+Suitability of Equipment and Materials
+Compliance of Equipment and Materials to the
+Adequacy of Personnel
+Meeting with Operational Programme Requirements
+Meeting with Contract Operation Timings
+Equipment Condition/Maintenance
+       R2 Management and Organisational Requirements
+                            FB_01 REPORT REFERENCES
+    FB Report No.:          Time Lost (Hr.Min):                 Economic Cost (£M):
+                   Category                                      Evaluation Score (0-9)
+Availability of Equipment and Materials
+Technical and Operational Support to Operations
+Capability and Promptness to Operational Requests
+       R3 Safety and Quality Assurance Requirements
+                            FB_01 REPORT REFERENCES
+    FB Report No.:          Time Lost (Hr.Min):                 Economic Cost (£M):
+                   Category                                      Evaluation Score (0-9)
+Meeting with the Contract Agreement DSS
+Availability and Validity of Requested Certificates
+Meeting with Contract Quality Assurance Terms
+                                   Event Support Documentation
+   Type of                        Subject:                            Issued By:              Date:
+  Document:
+
+
+
+
+
+Notes:
+
+       Failure Status         Operations Manager    Drilling & Completions Manager
+     Normal    Extreme     Adverse      Innovative
+
+                           Figure 7.B - Contractor Evaluation
+
+
+────────────────────────────────────────────
+[ صفحه 65 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 65 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+Appendix A - ABBREVIATIONS
+
+     BHA           Bottom Hole Assembly
+     CCD           Centre to Centre Distance
+     CW             Current Well
+      DLS         Dog Leg Severity
+     D&CM          Eni-Agip Division and Affiliates Local Drilling & Completion Manager
+     DOP          Drop Off Point
+     DOU          Depth of Uncertainty
+      DS             Eni-Agip Division and Affiliates Local Drilling Superintendent
+     DSR               Drilling and Completion Supervisor at rig site
+     DW            Deviated Well
+     EMS             Electronic Magnetic Multishot
+     EOC         End Of Curvature
+     EU               Ellipse of Uncertainty
+       FINDS           Ferranti Inertial Navigation System
+      FR              Foresight Reference
+     GC            Geodetic Conversion
+     GCT          Guidance Continuous Tool
+     GMC          Geomagnetic Conversion
+     GMS          Gyro Multishot
+     GSS          Gyro Single Shot
+      HDT           High Resolution Dipmeter
+      HS              Horizontal Component of Drill String Magnetic Field
+     KOP            Kick Off Point
+     MD           Measured Depth
+       MI             Magnetic Influence
+     MMS           Magnetic Multishot
+     MSS           Magnetic Single Shot
+     MWD         Measurement While Drilling
+     NMDC        Non Magnetic Drill Collars
+     NSG           North Seeking Gyro
+     ORP            Origin Reference Point
+     PWP            Project Well Plot
+     QC              Quality Control
+        Ref.           Reference
+     RKB           Rotary Kelly Bushings
+     ROC           Radius Of Curvature
+     ROP          Rate of Penetration
+     ROU           Radius of Uncertainty
+     SC            Survey Calculation
+     SD             Separation Distance
+      SDE            Eni-Agip Division and Affiliates Local Senior Drilling Engineer
+     SR             Separation Ratio.
+     SRG           Surface Reading Gyro
+      SSSV        Sub Surface Safety Valve
+      ST              Steering Tool
+
+
+────────────────────────────────────────────
+[ صفحه 66 از 67 ]
+────────────────────────────────────────────
+              ARPO                                                  PAGE 66 OF 67                       IDENTIFICATION CODE
+ ENI S.p.A.
+                                                     REVISIONAgip Division
+                          STAP-P-1-M-6120         0
+
+TD              Total Depth
+TIP             Tie In Point
+TVD           True Vertical Depth
+TW             Target Well
+UAR            Uncertainty Area Ratio
+UF              Uncertainty Factor
+UTM            Universal Transverse Mercator
+VW              Vertical Well
+WP            Well Planning
+
+
+────────────────────────────────────────────
+[ صفحه 67 از 67 ]
+────────────────────────────────────────────
+                     ARPO                                                  PAGE 67 OF 67                              IDENTIFICATION CODE
+       ENI S.p.A.
+                                                           REVISION      Agip Division
+                                 STAP-P-1-M-6120         0
+
+Appendix B - BIBLIOGRAPHY
+
+       Document:                                   STAP Number
+          Drilling Procedures Manual                             STAP-P-1-M-6140
+
+       Survey Company Quality Control Procedures
+
+

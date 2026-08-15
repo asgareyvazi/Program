@@ -1,0 +1,1425 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 23 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Index Prefixes
+
+ 0000                       Safety and Administration
+
+ 1000                         Drilling
+
+ 2000                      Casing and Tubing
+
+ 3000                     Cementing
+
+ 4000                         Drilling Fluids
+
+ 5000                      Wellheads, Packers, Tools and Equipment
+
+ 6000                      Stuck Pipe and Fishing
+
+ 7000                     Well Evaluation
+
+ 8000                     Marine and Miscellaneous
+
+
+Index Suffixes
+
+MST                     Master Index and User Guide
+GEN                      General
+SEM                      Semi-Submersible Drilling Units
+JAK                     Jack-Up Drilling Units
+ FIX                       Fixed Drilling Units
+FOR                         Forties
+CLY                     Clyde
+BEA                        Beatrice
+MAG                  Magnus
+THI                          Thistle
+MIL                        Miller
+DON                 Don
+BRU                     Bruce
+MAR                   Marnock
+RAV                     Ravenspurn
+AME                    Amethyst
+WYF                  Wytch Farm
+HAR                     Harding
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 23 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Section               Description
+
+ 7000             WELL EVALUATION
+
+7005/GEN                 Loading, Setting, Timing and Operation of Dropped Survey Barrel
+
+7100/GEN                 Leak-Off Testing
+
+7200/GEN                 Coring
+
+7210/GEN                  Oriented Coring
+
+7220/GEN                  Extra Long Core Barrel
+
+7300/GEN            Mud Logging Services
+
+7400/GEN                    Electric Logging Operations Using Pressure Equipment
+
+
+
+
+NOTE: Sections highlighted in bold are those sections which have been modified (or inserted
+          for the first time) in the most recent amendment to this Guidelines for Drilling
+         Operations. Within each such section, the newly modified parts are identified by the
+        bold black marker line on the right side of the text. A brief resume of the changes is
+        provided at the end of this MST section.
+
+         Sections underlined are those items which are available within this version of Acrobat.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  1 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+ 1.    ANADRILL
+
+      MAGNETIC SINGLE SHOT OPERATION EASTMAN ELECTRONIC TIMER
+
+       Surface Check
+
+         1.    If not already assembled, screw the battery pack and electronic timer together. Load 3 fresh “C”
+             size alkaline batteries, tip end (+) down,into the battery pack and install the end plug.
+
+         2.   Slide the camera into the electronic timer and firmly hold it in. Set both time delay switches to zero.
+          Then depress start button. Check the camera lights - should immediately turn on for 7.5 seconds
+          and then turn off. Remove camera from the timer.
+
+       Loading the Camera
+
+         3.  Select the desired angle unit.
+
+         4.  Screw the angle unit and camera together*, a snug fit is all that is required.
+
+         5.  Place the film loader onto the camera and angle unit assembly.
+
+               * Be sure to fully engage the film loader’s lips into the camera’s disk trap slot.
+
+         6.  Hold the film loader firmly to the camera and angle unit assembly. Depress and hold the film trap
+          and release button with the index finger of the hand holding the assembly.
+
+         7.  Cycle the film ejector in and then out to insert the film disk into the camera.
+
+         8.  Release the film trap button*. You should be able to feel the film trap close as you let go of the
+             button. Remove the film loader from the camera.  Inspect the film trap cover to make sure  it is
+            closed completely.  If the cover did not close, the film must be removed, the problem corrected and
+          a new film loaded.
+
+       Loading the Instrument
+
+         9.   Initialise the camera triggering device. Clear the timer by setting the timer delay switches to zero
+          and depressing the start button. Wait 15 seconds.
+
+        10. Make up the camera/angle unit to the timer/battery assembly.
+
+        11. Just before you load the instrument into the pressure barrel, set the required delay time for the
+            instrument to reach the bottom of the hole, settle the angle unit and expose the film.
+
+       Survey Running Gear
+
+         1.  As a rule of thumb, in low angle holes with a 12 - 15 ppg mud weight, the instrument will free fall
+            approximately 1000 feet per minute.  Free fall will decrease with larger hole angles and heavier
+         mud weights.
+
+         2.   Typical wireline in run speeds are 500 - 700 feet per minute depending on the hole angle and mud
+             weight.
+
+         3.  Make sure you allow sufficient time for assembling the running gear and rig preparation time to go
+               in the hole.
+
+      Running the Survey
+
+      The single shot instrument can be run into the hole and then removed using one of three methods:
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  2 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+         1.  Dropping the instrument and recovering it with the drill string.
+
+         2.  Dropping the instrument and recovering it with an overshot.
+
+         3.  Running the instrument in and out of the hole on a wireline.
+
+      Some basic considerations:
+
+        a)  Check the running gear for proper make-up (ensure the overshot fits the spear point).
+
+        b)  Make sure the drill string is full of fluid.
+
+         c)  Break off and set back the kelly.
+
+        d)  Drop the instrument. Do not rotate the drill string while the instrument is in the string. However, if
+           you must rotate the drill string, do so very slowly. Yo-yo the drill string if you must move the string
+              to avoid sticking. Idle the pumps if circulation must be maintained.
+
+        e)  Stop the drill string motion and the pumps for 30 seconds before and after “picture time”.
+
+            f)   Record the hole’s measured depth when the survey was taken.
+
+        g)  Retrieve the survey instrument at surface, rinse with clean water.
+
+        h)  Slide the instrument out of the pressure barrel.
+
+             i)   Unscrew the electronic timer and battery assembly from the camera and angle unit.
+
+       Unloading and Developing the Film
+
+         1.   Pull apart the unloader/developing tank. Rinse the inside with fresh water and dry. Make sure the
+            unloader’s light trap handle moves freely.
+
+         2.    Fill the tank with 1/2” of Developing and Fixing Fluid.
+
+         3.  Place unloader on a flat surface and open the unloader light trap.
+
+         4.  Place the camera and angle unit assembly over the unloader and mate the lips of the unloader with
+            the film gate notch in the camera. While the camera is firmly mated to the unloading tank, depress
+            the camera’s film gate release button.
+
+         5.  Shut the unloader’s light trap gate.
+
+         6.  Shake the unloader from side to side, ensure the film is lying horizontal with no air bubbles
+            underneath.
+
+         7.  Let the film develop for 4 minutes, if fluid is cold (below 68°F) allow between 8 - 10 minutes.
+
+         8.   Carefully remove film disc from the tank. Rinse with fresh water and dry with a lint cloth.
+
+       Reading the Film
+
+        0° - 10° and 0° - 20° Film Disks:
+
+         1.  Place the reader over the film disk.
+
+         2.  Count the number of circles from the disk centre to the plum bob “crosshairs”. Read the inclination
+              to the closest 1/4° degree.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  3 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+         3.  Read the hole direction by lining up the reference line on the disk reader so that  it intersects the
+            centre of the film disk and the centre of the film disk’s plumb bob crosshairs.
+
+         4.  The film reader’s reference line must extend through the compass scale around the circumference
+              of the disk.
+
+         5.  The intersection of the reader’s reference line and the compass scale corresponds to the hole
+              direction.
+
+       15° - 90° Film Disks:
+
+         1.  The film disk reader reference line is not used with the 15° - 90° film disk. The reader is only used
+               for magnification.
+
+         2.  Read the inclination at the intersection of the disk’s centre horizontal crosshair and the vertical
+             scale, read to a 1/4° degree.
+
+         3.  Read the hole direction pointed to by the bottom of the vertical centre line, to the nearest degree.
+
+        Orientation
+
+       For 0° - 10° or 0° - 20° angle units, the angle pointed to by the orient line, after applying the magnetic
+         declination correction, is the tool face.
+
+       For 15° - 90° angle units, align the survey picture with the film reader as shown. Read the tool face
+       from the reader’s scale, and then apply the declination correction.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  4 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+
+     MAGNETIC SINGLE SHOT OPERATION EASTMAN ELECTRONIC TIMER
+
+
+
+
+
+       END PLUG        BATTERY PACK                          ELECTRONIC TIMER
+
+
+
+
+
+               CAMERA                 ANGLE UNIT
+
+
+
+     SURVEY RUNNING GEAR
+                     SPEAR POINT
+
+
+
+
+
+                                                    WIRELINE ADAPTER          SWIVEL
+                    ROPE SOCKET
+
+                          RUBBER STABILISER PIN
+
+                                                  SPACER BAR         PRESSURE BARREL; BULL PLUG
+                                                                                                                      *
+
+
+                                 RUBBER PIN STABILISER BODY                 O-RING
+
+
+                PRESSURE BARREL                                        LANDING SPRING
+                                      SINGLE SHOT INSTRUMENT ASSEMBLY
+
+
+          *                                                                                                          *
+
+
+
+
+
+                       O-RING          SINKER BAR(S) OR SPACER BAR(S)
+          *
+
+
+
+          PRESSURE BARREL BULL PLUG                            BOTTOM LANDING SHOCK ASSEMBLY
+
+        * TAPERED ON 'R' SINGLE SHOT                                                                                                     910303 / 1
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  5 of 21
+
+SUBJECT:  ANADRILL: READING SURVEY DISCS
+
+
+                    ANADRILL: READING SURVEY DISCS
+
+
+
+        4455667788EE88                               22334455                77665544    5544332211NN11                                     121212 66
+       22                      77       33 5   3322   7766
+       11     11   88     88
+      SS    NN  EE    WW
+       11     11   88     88
+       22       33   5 3322   7766    6677        44    44    55 121212  55
+                               223344                      ORIENTATION EXAMPLE         55667788WW88                776655      44332211SS11                                                             HOLE DIRECTION
+                                                             2 1   1 2
+                        0° - 10°                  0° - 20°                 4 3       3 4
+                                        5                     99  5
+                                                 6                                      6      102030 4050 8877
+                                                 7                                     7     10S       7066 80
+                                     8      20                55E  8                                                                                                            30                                                                                                                              80                                                                                                                                                        44                22
+                                       9                                                     9                                                                                                                                    40                                                                                                                                                           70                                                                                                                                                        33        5544332211NN11              334455                  5544332211NN11                               22334455                                                                                                            50                                                                                                                              60                                                                                                                                                                 LEFT                                     121212       66            66                 66                      66                                                                                                                                              RIGHT                                                                      10                                                                                              10            5                                                                                                                                                        22       77             77                 77                      77                                                                                               60                                                                                                              50
+       88             88                 88                       88                                                                                        70                                                                                                                                                        140      EE                                                                 11                                                                                       11             EE          WW                  WW                                                                                     80        30
+       88             88                 88                       88
+       77 5   77   77    77                    12                 12
+       66            66    66        55    55                  55 121212  5566                     13               13                                                                                14
+                                                                                   15                               223344                        1415         44332211SS11                223344      44332211SS11                                                                                16 17 18 17 16ORIENTATION
+                                                                                               180       LINE                  SINGLE SHOT CROSS HAIR                                                               DIRECT METHOD TOOLFACE
+                 'R' 0 - 10° DISK          'E/R' 0 - 20° DISK
+           INCLINATION = 5.0°   INCLINATION = 12.0°
+           DIRECTION = N65°W  DIRECTION = N60°W
+
+
+
+
+
+                   INCLINATION LINE                           ORIENTATION EXAMPLE
+
+                                     4455667788EE88                                                          77665544
+                                   22                                    33 5   3322                                       80                            301                                    11                                         11                             40                                         70                                 NN                                              22                               50                                             60             SS                                    11                                         11
+                                          70                                   60  33              5040                2233   5 3322                                               44                                   80
+                                               55         E                                             20                                                          77665544                                                     30                  4455667788WW88                             80                                               66         10             S                            7077                                5040 302010                                                                         ORIENTATION                                               88
+                                                99                                     DIRECT METHOD   LINE
+                                                        TOOL FACE N20°W
+                                                        HOLE DIRECTION N45°E                          LUBBER LINE
+
+
+
+
+
+                                                                                                                                                       910303 / 2
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  6 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+ 2.    EASTMAN CHRISTENSEN
+
+      ELECTRONIC SINGLE SHOT TIMER
+
+        Selectable time delay of 1 to 99 minutes (1 min increments).  Battery pack requires 3 x “C” cell
+         batteries, tip ends (+) loaded into battery pack towards timer.
+
+       Test Procedures
+
+           •  Screw battery pack onto electronic timer.
+
+           •  Place camera into timer and hold firmly in place.
+
+           •  Put both switches on timer to zero.
+
+           •  Depress start button on timer.
+
+           •  Camera lights should come on and red LED should flash for 7.5 seconds and then turn off.
+
+      Running Procedures
+
+           •  Re-set timer by setting both switches to zero and depress start button - wait 15 seconds.
+
+           •  Make up camera and angle unit, load disk into camera. Do not load disk into camera before  it is
+          connected to the angle unit or disk will be exposed.
+
+           •  Connect to battery pack/timer assembly.  Just before loading instruments into pressure barrel, set
+          the required delay time on the switches.  Press the start button and start your stop watch
+           simultaneously.
+
+           •  Observe the timers LED, it should flash for the first minute indicating correct operation.
+
+       Unloading and Developing the Film
+
+           •  Recover the instruments and unscrew the camera/angle unit assembly from the timer. DO NOT
+           separate the camera from the angle unit at this stage or the film will be exposed.
+
+           •   Pull the bottom of the developing tank off. Make sure the tanks light trap operates freely (normally
+             firm).  Fill the bottom of the tank with 1/2” of developing fluid. Push the top of the tank completely
+             into its bottom cup.
+
+           •  Place the tank on a firm surface and open the light trap.
+
+           •  Place the camera/angle unit over the tank and mate the lips of the tank with the film gate notch in
+           the camera. Press the camera’s film gate release button. Shut the tanks light gate.
+
+           •  Allow the film to develop for four minutes, agitating the tank occasionally.  If the fluid is cold (below
+         68 deg.F) develop the film for 8 to 10 minutes.
+
+       Reading the Film
+
+           •  0 - 10 and 0 - 20 disks - line up the readers cross hair so that it intersects the centre of the disk and
+           the centre of the plumb bob cross hair. Where the readers cross hair intersects with the compass
+           card, read the direction, read inclination from where plumb bob cross hair intersects concentric
+             inclination circles.
+
+           •  15 - 90 disks - read the inclination at the intersection of disk’s centre horizontal cross hair and the
+             vertical scale. Read the direction pointed to by the bottom of vertical lubber line.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  7 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+      Running Gear Assembly
+
+           •  The pressure barrel assembly contains the timer, battery pack, camera and angle unit, in a water
+              tight, pressure proof, non-magnetic barrel. The barrels protect survey instruments from drilling mud
+         and hydrostatic pressures to 26,000 PSI.
+
+           •   Verify that the correct baffle plate is installed and what its position is, in the bottom hole assembly.
+
+           •  Check that the minimum drill string ID is large enough to allow the survey tool to pass through to the
+           bottom.
+
+           •    If the survey instrument will be subjected to temperatures over 250 degrees F, heatshields must be
+          used.
+
+           •    If the tool is to be dropped inside the drill string, then a spearpoint must be placed at the top of the
+              tool. Ensure that the correct overshot is available and is operating correctly.
+
+           •  Running gear should be assembled as per the drawing.
+
+           •  Tandem surveys will always be run. The box-box crossover is supplied in the instrument box.
+
+           •  Ensure bull plug “O” rings are in good condition, if there is any doubt, change them.
+
+           •  Sinker bars must not be used on tools which are to be dropped inside the drill string.
+
+           •  Use the correct amount of spacer bars to ensure the instruments are correctly spaced inside the
+          non-magnetic drill collars.
+
+           •  The instrument package can be suspended from the upper bull plug on the rubber shock absorber or
+          seated on the rubber shock absorber attached to the lower bull plug, an adaptor is provided in the
+           instrument box for this option. Whichever method is used, the angle unit must be at the bottom of
+           the instrument, i.e. downhole.
+
+           •  As a general rule of thumb, in low angle holes with 12 - 15 ppg mud, the tool will free fall at
+           approximately 1000 feet per minute.  Free fall speed will decrease with increased hole inclination
+         and heavier mud weights.
+
+           •  Do not pump a tool to bottom in a vertical well.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  8 of 21
+
+SUBJECT: EASTMAN CHRISTENSEN SURVEY BARREL COMPONENTS
+
+          EASTMAN CHRISTENSEN SURVEY BARREL COMPONENTS
+
+     ELECTRONIC SINGLE SHOT TIMER
+
+
+
+
+
+       END PLUG                                              BATTERY PACK
+
+
+
+
+
+                    ELECTRONIC TIMER                     CAMERA              ANGLE UNIT
+
+
+     SURVEY RUNNING GEAR
+
+                     SPEAR POINT
+
+
+
+
+
+                                                    WIRELINE ADAPTER           SWIVEL
+                    ROPE SOCKET
+
+                          RUBBER STABILISER PIN       PRESSURE BARREL
+                                                  BULL PLUG
+                                                             O-RING           PRESSURE BARREL
+
+
+
+                                                SWIVEL
+                                 RUBBER PIN
+                                       STABILISER BODY
+
+
+                     O-RING                              O-RING
+
+
+
+
+           PRESSURE BARREL    BOX/BOX    PRESSURE BARREL          PRESSURE BARREL
+             BULL PLUG        X-OVER       BULL PLUG
+
+
+                     O-RING
+
+
+
+           PRESSURE BARREL       SINKER BAR(S)      BOTTOM LANDING SHOCK ASSEMBLY
+             BULL PLUG       OR SPACER BAR(S)
+
+                                                                                                                                                      910303 / 3
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  9 of 21
+
+SUBJECT: EASTMAN CHRISTENSEN - READING SURVEY DISCS
+
+
+           EASTMAN CHRISTENSEN - READING SURVEY DISCS
+
+
+
+              2211NN1122                                  NN1122            33               33          332211                              33          44   44        44   44         55    55        66             66     66                     55    121212 5566        77   5 77     77    77
+        88     88     88     88
+      EE    WW   EE    WW
+        88     88     88     88
+        77 5   77     77    77
+        66    66     66    66         55    55      55 121212  55          44   44        44   44            33               33          33                              33              2211 1122                               2211 1122                  SS                  SS
+
+                        SINGLE SHOT READER CROSS HAIR
+
+                       'R' 0 - 10° DISK                     'E/R' 0 - 20° DISK
+               INCLINATION = 5.0°           INCLINATION = 12.0°
+               DIRECTION = N65°W          DIRECTION = N60°W
+
+
+
+
+
+                                       INCLINATION LINE
+
+
+
+                                                301         80                                                 40          70
+                                                    50 22            60
+                                                                             33                INCLINATION   33.0°                 7060                50                                                                                               40
+                DIRECTION    S 35°E            80  44              30
+               E55           20
+                                                 80 66         10
+                                               70                    S                                                                             77       10                                                    5040 3020                                                                              88
+                                                                              99
+
+
+                                              LUBBER LINE
+
+
+
+
+
+                                                                                                                                                   910303 / 4
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  10 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+ 3.    SMITH
+
+      SINGLE SHOT OPERATIONAL PROCEDURES
+
+       Operational Steps of the Single Shot Electronic Timer
+
+         1.  Screw the battery pack (containing 4 “C” size alkaline batteries) onto the end of the electronic
+              timer.  (Note:  Positive or tip ends down toward the timer.) The electronic timer has a reverse
+              polarity protected circuit so that if the batteries are installed upside down and the timer start button
+                is pressed, the timer will not start nor will any of the circuitry be harmed.  Merely re-install the
+             batteries with the (+) tip down toward the timer.
+
+         2.  The timing interval is set using the three rotary switches.  Turn the switches in any order to the
+            desired timing interval reading left to right.  (Note: X1 = units place, X10 = tens place, X100 =
+           hundreds place.) The total timing interval is the sum of the time indicated on the three switches.
+
+         3.   Insert the camera into the cover tube of the electronic timer prior to loading it with film.  It may be
+          necessary to press the camera against its spring contact to ensure good electronic contact
+           while checking the bulbs.
+
+         4.  Once the timing interval switches are set, press and hold the red TEST-STOP button to check bulb,
+             battery and timer operation.  While holding the TEST-STOP button down, press and release the
+            black timer START button. The electronics will now revert to seconds timing corresponding to the
+          decade switch settings instead of standard minute timing.
+
+          Once every second, the LED (light emitting diode) will flash until the timing interval in seconds is
+            timed out. At this point the LED will stay on and the camera bulbs will light. Both systems will stay
+              lighted for approximately 13 seconds.
+
+         5.   After loading and making up the camera and angle unit and assembling them to timer and battery
+            pack, the instrument is ready to be put into its protective barrel.   If the preceding test procedure
+            described in step 4 has been carried out and the decade switches are set to the necessary timing
+              interval, the operator needs only to press the black timer START button while simultaneously
+              starting his surface watch. He should observe to see that the LED is flashing at the rate of once
+            per second.  If so, the instrument is ready to go downhole.
+
+         6.  To change the time interval setting after starting the timer sequence, the operator presses the red
+         TEST-STOP button.  This stops and re-zeros the timing count, allowing the new setting to be
+              dialled into the decade switches. To start the timer again on the new setting, press the black
+         START button. This will cause the LED to flash.
+
+         7.   After removal from downhole, the camera and angle unit can be removed from the timer, the
+          camera unloaded and the picture developed.  Note:   It is suggested that between surveys the
+            instrument be stored in its kit box with the angle unit and camera assembled to the timer. To insure
+           extended battery life, it is suggested the battery pack be removed between surveys.
+
+      Camera Unloading
+
+       Loading a film disc into the camera is accomplished by using the following steps 1 through 7:
+
+         1.  Screw the camera unit onto the angle unit.
+
+         2.  Take the film loader and place it onto the camera unit making certain that the pin on the film loader
+            face engages with the matching hole below the disc trap. When this occurs the extended lips on
+            the loader engage and enter the disc trap slot properly.  This is to insure total absence of light
+            during the loading process.
+
+         3.  Holding the disc loader and camera/angle unit between the thumb and second finger, press knob
+             with the index.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  11 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+         4.  While depressing knob, pull the disc loader slide all the way out. Then push the slide completely in
+             again.  (If the slide will not go back into the loader, the loader is empty of film.)
+
+         5.  Release knob and remove loader.
+
+         6.    If the red line around the outside diameter of knob and a red dot on the slug trap slide are both
+               visible, then no film disc was transferred to the camera.
+
+         7.  Screw the loaded camera/angle unit assembly into the cover tube of the electronic timer.
+
+      Camera Unloading and Development of Survey Picture
+
+         1.   Prior to unloading the film disc, there are certain precautions that should be practiced with the
+            developing solution to insure good quality pictures.  All developing solution should be stored in a
+            cool location and out of direct sunlight. Each time the bottle is opened  it should be squeezed to
+            exclude as much air as possible before the cap is replaced.   If the developing solution is colder
+            than 68°F (20°C) there will be considerable loss in picture resolution.
+
+          The developing solution can be checked by loading a disc into the camera and unloading the disc
+              into the developing tank filled with developer. Not having been exposed, the disc should come out
+              clear.  Note:  Film within the loader may also be checked by ejecting a disc into the hand in
+              daylight. Then load it into the developing tank solution and develop it. This disc should come out
+              entirely black.
+
+         2.   After removing the instrument from the well and from its protective barrel, unscrew the angle unit
+           from the electronic timer, leaving the camera still attached to the angle unit.
+
+         3.  Remove the top of the developing tank and fill the reservoir with developing fluid.  Fill to within 1/8”
+              of top.
+
+         4.  Holding the tank base as still as possible, re-assemble the developing tank and rotate the base
+               until  it is located in the OPEN position indicated by a scribe line on the base as shown in the
+            photograph. NOTE: When the tank base is in the fully OPEN or CLOSED position as marked, a
+             spring detent and matching recess prevent the base from rotating.
+
+         5.  Hold the developing tank in your hand or set  it upright on a table and insert the camera into the
+             receiving chamber.
+
+         6.  Push the camera firmly into the chamber to depress knob and rotate camera until the scribe lines
+          on camera and developing tank line up.  At this point, the film disc will fall into the developing
+              reservoir.
+
+         7.  Turn developing tank base until the scribe line indicates CLOSED. The camera can now be
+          removed from the receiving chamber. (Note: The developing tank base is always turned to the
+        CLOSED position before removing the camera from the receiving chamber.)
+
+         8.  Inspect knob to see if red line is visible as explained in step 6 of camera loading section.  If the red
+               line is not visible, the film disc did not transfer to the developing tank. Repeat steps 4 through 7.
+
+         A malfunction in the unloading of the film disc is usually due to developer or gummy substances in
+            the camera disc trap.  If this is the case, the instrument should be properly cleaned.
+
+         9.   After the film disc has been deposited into the developing reservoir, it should remain for 4 minutes.
+             (Note:   It is not necessary to shake the developing tank.)   If the developer is cold (68°F or 20°C),
+            continue developing for 6 to 7 minutes.   If the developer is very cold, continue developing for 10
+            minutes. Too short a developing time can ruin the picture, but too long a time will not harm
+                   it.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  12 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+        10. After the film disc is developed, remove the top of the developing tank and remove the disc from
+            the reservoir. As soon as possible, wash the film disc in clean water and allow to dry.
+
+       Reading the Single Shot Disc
+
+      When reading the low inclination picture, place the reader over the disc so the hairline of the reader
+       passes exactly through both the centre dot and the intersection of the cross hairs of the plumb bob as
+       recorded on the disc. The magnetic azimuth or bearing is read from the relationship of the reader
+         hairline to the markings on the compass card. The inclination or deviation from vertical is read by
+        counting the number of concentric circles from the centre to the intersection of the cross hairs of the
+       plumb bob. Each concentric circle represents 1° of angle on a 20° angle unit.
+
+      The third piece of directional information read from the disc is the tool face orientation. This is only of
+         interest when the single shot is being used to orient downhole deflecting tools. The tool face line in the
+         picture is the radial line extending from the centre of the disc to the outside of the disc. At the end of
+        the radial line is a tool face indicator circle. The tool face reading is obtained by the relationship of the
+         radial line to the scale on the reader.
+
+      When reading the high inclination picture, the disc is oriented so that all alphanumerics are right side up
+       and read from left to right. As before on the low inclination units, three pieces of information are
+        obtained from the film disc.
+
+      The inclination is read from the intersection of the horizontal line and the calibrated scales running
+          vertically. The azimuth, or magnetic bearing, is read from the intersection of the vertical line and the
+      compass card. The tool face line is the heavy black post extending from the outer edge of the film disc
+        inwardly approximately 1/8”. The tool face, when using the single shot to orient downhole tools, is read
+       from the relationship of the tool face post to the scale on the reader.
+
+      Assembly Precautions
+
+      When using assemblies there are certain areas of caution that should be practised. They are as
+         follows:
+
+         1.  Inspect the protective barrel bore for any dirt or debris that could have been lodged in the bore.
+            Inspect the barrel threads and “O” ring seats for any cuts. Wipe both these areas as clean as
+            possible before make-up.
+
+         2.  Inspect the barrel plugs for cut “O” rings and damaged threads. Apply a small amount of grease to
+            the threads and “O” rings before assembling them with barrel.
+
+         3.   Prior to going into the hole, make certain barrel plugs are made up tight.
+
+       Single Shot Running Gear
+
+       There are two different running gear assemblies normally used in conjunction with the single shot.
+       These are shown in the photographs. The first assembly is the standard bottom landing assembly.
+        This assembly is for simple survey pictures of the hole direction and inclination. The single shot
+        instrument is spring shocked and run inside the protective barrel with no concern for instrument
+         orientation.
+
+      The second assembly is the muleshoe assembly (UBHO) used when orienting downhole tools with the
+        single shot.  In this assembly the instrument is not only shock mounted within the barrel, but also
+        oriented with respect to the downhole deflection tool.
+
+       Reading of Single Shot Discs
+
+        Refer to page 9 - Reading of Survey Discs as per Eastman Christensen.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  13 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+            3                                     2
+                                                                                                         4
+
+
+
+
+
+                                         1
+
+
+                       6
+                5                                           7                    8             9               10
+
+
+
+
+
+                                                                                                                     14
+                                      13
+
+
+
+
+                                                  15           16
+
+
+
+
+
+                                                        11
+
+
+
+
+
+                                       12
+
+
+
+
+          Item             Part No.                                      Item             Part No.                                                        Description                                                       Description
+          No.    Orienting    Bottom Landing                          No.    Orienting    Bottom Landing
+           1            561065             Rope Socket             10           561026               Protective Barrel 6 1/2'
+           2            561048               Spear Point              11                   550658       Internal Shock Assembly
+           3            561061             Over Shot               12                   551021     Bottom Landing Assembly
+           4            561069              Swivel                 13     550966                    T-Bar Assembly
+           5            561042                  Stabiliser Body           14                                   Orienting Bar Assembly
+           6            561016              Rubber Stabiliser Pin      15     561056                  Mule Shoe Assembly
+           7            561017               Spacer Bar 1' Long       16     561081                        Tell Tale Pin
+           7            561018               Spacer Bar 2' Long
+           7            561019               Spacer Bar 3' Long
+           7            561043               Spacer Bar 4' Long
+           7            561044               Spacer Bar 5' Long
+           7            561045               Spacer Bar 6' Long
+           7            551051               Sinker Bar 4' Long
+           7            551046               Sinker Bar 5' Long
+           8            561025                Barrel Plug
+           9            561080                Barrel "O" Ring
+
+                                                                                                                                                          910303 / 5
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  14 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+ 4.    SPERRY-SUN
+
+      MAGNETIC SINGLE SHOT
+
+       Operational Guide Using a Mechanical Circuit Breaker/Timer System
+
+       Pre-Run Check
+
+       Bulbs
+
+        a)  Attach battery tube to single shot frame.
+
+        b)   Insert pre-checked batteries into tube with positive nipple down.
+
+         c)  Short exposed battery terminal to the case with an Allen key - the bulbs should illuminate.
+
+       Mechanical Timer
+
+        a)   Pull out setting knob and set at zero (0).
+
+        b)  Connect to battery tube and bulbs should illuminate for 1 minute 45 seconds.
+
+         c)  Re-set timer to 2 minutes and check the interval until bulbs illuminate against surface watch.
+
+      Compass
+
+        a)  Check compass face is clean.
+
+        b)  Check float for freedom of movement.
+
+         c)  Check for leaks, bubbles or other damage.
+
+      The instrument is now ready for assembly prior to loading with a photographic disc from a pre-checked
+        supply. Where time permits, a sample survey should be taken on surface.
+
+       6” Compass
+
+         1.  Read from the centre of the compass card to the cross-hair centre to determine inclination.
+           Example: 1-3/4°.
+
+         2.  Determine the hole direction of the chart as follows: Align the reference line of the reader so that it
+          passes through the chart centre and crosshair centre. The hole direction will be along the
+            reference line away from the chart centre and towards the crosshair. Example: S35W.
+
+         3.  Correct to TRUE/GRID North.
+
+      Running Procedure
+
+         1.  Check compass range, marked on side of compass unit, is sufficient to record expected inclination.
+
+         2.   Pull out timer setting knob and set sufficient time on clock to allow for loading disc into instrument,
+            loading instrument into protective case and running tool to desired depth.
+
+         3.  Synchronise surface timer with instrument timer.
+
+         4.  Load photographic disc as follows:
+
+             a)  Check arrows above brass knurled rotating section point to “OPEN” and visually check disc
+               chamber is clear.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  15 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+             b)   Align disc magazine slot to instrument slot by use of magazine locator pin. Hold magazine
+                      tightly against frame to prevent premature disc exposure.
+
+              c)   Pull magazine plunger up and then smoothly push plunger down, thus forcing one disc into
+                  the disc chamber.
+
+             d)   Continue to hold magazine in position and turn brass knurled section until the arrow points to
+               “LOADED”. Should it go to “EMPTY”, then no disc has been loaded.
+
+         5.  Remove bottom plug from protective case and partially insert instrument WITH TIMER
+         UPPERMOST.
+
+         6.   Slot bottom spring onto compass base, push the whole assembly into the protective case and
+             tighten the bottom plug.
+
+         7.   Position the tool in the drill pipe and “GO-DEVIL” into the non-magnetic drill collar.
+
+         8.  Although the drill string can be worked during the estimated “free-fall” period,  it must be held for
+          one minute prior to the survey being recorded.
+
+         9.  The disc will be exposed for approximately one minute and forty-five seconds after which the drill
+              string can again be moved.
+
+        10.  If the bit run is to continue, the tool can be retrieved by running an overshot on a wireline, to latch
+            onto the spear point. Alternatively, the tool can be tripped to surface.
+
+        11. After removal from the protective case, position the instrument above the developing tank, with the
+            tank slot and instrument slot held tightly together to prevent light entering.
+
+        12. Turn brass knurled section to “OPEN” to allow disc to drop onto tank.
+
+        13. Pull tank plunger and disc will fall into tank. Release plunger.
+
+        14. Before separating tank and instrument, turn the brass knurled section to “EMPTY” to confirm that
+            the disc is in the tank.
+
+        15. Set developing tank on a flat surface and quickly pour in combination fixer/developer fluid until fluid
+            overflows and leaks from side of developing tank.
+
+        16. Shake the tank to ensure all the disc is covered by the fluid and leave for four minutes.
+
+        17. Remove the disc from developing tank and wash both in fresh water.
+
+        18. Read film disc with reader provided and record survey. Store disc in envelope provided.
+
+        19. Replace instrument in carrying case after cleaning.
+
+      NOTE:
+
+      Compasses should be alternated to cross-check each other.
+
+       For an inclination only survey in a standard steel collar, an inclinometer must be used in place
+        of a compass.
+
+     A thermal shield must be used at all temperatures approaching 230 deg F. The shield is capable
+        of withstanding 600 deg F for five hours and requires the B-Type or slim hole instrumentation.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  16 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+
+                    SPERRY SUN SURVEY BARREL COMPONENTS
+
+        MECHANICAL
+       CIRCUIT BREAKER                      MONEL SENSOR
+
+
+
+                         35 MIN
+                         50 MIN                              _
+                         95 MIN
+
+
+
+
+                   ADAPTER                                BATTERY CASE
+
+
+
+
+
+                   BATTERY TUBE
+
+                          +
+
+                                                     MONEL SENSOR
+
+                  RECORD DISC                             ADAPTER SLEEVE
+                  HOLDER
+
+
+
+                  CONNECTOR TUBE                       CAMERA ASSEMBLY
+
+                    LENS AND LAMP
+                  HOLDER
+
+                  LAMP HOLDER
+                                                         BULB
+
+
+
+                   COMPASS UNIT                           COMPASS AND
+                                                        ANGLE UNITS
+
+
+
+
+
+                                                                                                                                                      910303 / 6
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  17 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+
+     ELECTRONIC                     SURVEY BARREL
+    PROGRAMMER
+      ASSEMBLY
+
+                                      PAA
+                                       SPEARHEAD
+               SWITCH                                                            EXTENSION
+                                                         BARS
+
+
+                                        SWIVEL
+
+
+              BATTERY TUBE
+
+
+                                                              FINGER
+                                                            GUIDE
+                                          FINGER
+                                         GUIDE
+
+
+                                                       SHOCK
+                                                        ABSORBER
+               ELECTRONICS
+
+
+                                        EXTENSION                        TIMER
+              RECORD DISC             BAR
+              HOLDER
+
+                                        TOP PLUG
+              CONNECTOR TUBE
+
+
+               LENS AND LAMP
+              HOLDER
+                                                                                           SINGLE SHOT
+              LAMP HOLDER                                                   INSTRUMENT
+
+                                                                                        PROTECTIVE
+                                                                                    CASE
+              COMPASS UNIT                                                    INTERNAL
+                                                                                           SPRING
+                                            B-TYPE
+                                    THERMAL                       BOTTOM
+                       INTERNAL                                              BRASS PLUG                                            SHIELD                        SHOCK
+                     ABSORBER                                     BOTTOM
+                                        PLUG
+                                                                                                                                                         910303 / 7
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  18 of 21
+
+SUBJECT:  SPERRY SUN - READING SURVEY DISCS
+
+
+                SPERRY SUN - READING SURVEY DISCS
+
+
+
+
+
+                        8 7 6          W    5             8      4          7      2 3
+         6       2
+        5        1                                   1
+                2
+        2        3
+           1   1
+                 4
+
+                5
+                                   1                6
+                  2 7
+
+
+
+     6° COMPASS
+
+        1. Read from the centre of the compass card to the cross-hair centre to determine
+           inclination. Example : 1-3/4°
+
+        2. Determine the hole direction of the chart as follows : Align the reference line
+           of the reader so that it passes through the chart centre and crosshair centre.
+        The hole direction will be along the reference line away from the chart centre
+         and towards the crosshair. Example : S35W
+
+        3. Correct to TRUE / GRID North
+
+
+
+
+
+                                                                                                                                                       910303 / 8
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  19 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+ 5.    TELECO
+
+      INSTRUCTIONS FOR USING THE TELECO SINGLE SHOT KIT
+
+       General Information
+
+      The Teleco Single Shot is composed of the following basic sections:  battery pack, timer, camera and
+       angle unit. When assembled the instrument is water resistant to a depth of one metre, and is
+        constructed of corrosion resistant materials.
+
+      Assembly Information
+
+      To assemble the instrument, proceed as follows:
+
+        1)  Load 3 type “C” cells into the battery pack, taking care to note the positive battery terminals are
+             pointing to the end marked “+” on the battery pack.
+
+        2)  Screw the battery pack into the female end of the timer, and hand tighten.
+
+        3)  Screw the camera sleeve, with camera inserted, onto the available end of the timer unit.
+
+        4)  To test: Set the timing switches to 0-0 and press the RESET button, the lamps should come on,
+          and the LED indicator flash on a 4 seconds on/4 seconds off cycle for 30 seconds (exposure time).
+
+        5)  Unscrew the camera from the camera sleeve (leaving the sleeve attached to the timer).
+
+        6)  Screw the camera onto the angle unit, and hand tighten.
+
+        7)  Place the film loader onto the camera body with the locating pin inserted into alignment hole above
+            the film disc slot on the camera. The lever on the loader is then pulled out, and pushed back in
+            thereby inserting a film disc into the exposure chamber. The loader is removed by allowing the
+             spring tension to close the loading gate, and then pulling the loader away. When a film disc has
+          been correctly loaded, a red band appears in the window opposite the film disc slot.
+
+        8)  The camera and angle unit are not screwed onto the camera sleeve, and hand tightened. THE
+        SYSTEM IS NOW LOADED AND READY FOR TIMER SETTING.
+
+        9)  The timer may be set in one minute increments from 1 to 99. By looking at the timer with the reset
+            button to the left, the switch on the left dictates delay in ten minute increments, and the switch on
+            the right dictates the delay in one minute increments. The required timer delay is thus simply
+              dialled in.
+
+        10) To activate the timer system the reset button is firmly pressed, and the sequence begun. To
+            confirm the timer is counting down the red LED indicator will flash.
+
+      The film will be exposed for a period of thirty seconds after the selected time has elapsed.
+
+      The complete instrument is now ready for loading into the appropriate outer barrel assembly, and run in
+        the hole.
+
+     REMEMBER, TIMING CYCLE STARTS ON RELEASE OF THE RESET BUTTON.
+
+      Running Gear
+
+      The instrument is run inside conventional outer barrel assemblies as shown, and may be run on slick-
+          line or dropped and retrieved with an overshot.
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  20 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+       Unloading the Film
+
+      Upon retrieval at surface, the single shot instrument is removed from the outer barrel and the film
+       developed for reading as follows:
+
+        1)  Remove the camera assembly from the sleeve with the angle unit still attached.
+
+        2)   Fill the developing tank with developer/fixer and ensure that the locating pin on the tank mates with
+            the alignment hole on the camera. Turn the lever on the tank to the open position, and slide the
+          camera assembly to the rear, allowing the disc to drop into the tank.
+
+        3)  Turn the lever on the tank to the closed position and remove the camera assembly.
+
+       Check the indicator slot on the camera to ensure the red line has disappeared, and gently shake the
+        developing tank whilst listening to verify the presence of the disc.
+
+       Developing time should be between three to five minutes, depending on temperature (higher
+        temperature - less time).
+
+      Note:
+       TelecosurveybarrelcomponentsareidenticaltoSmithsurveybarrelcomponents.
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 23 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7005/GEN
+
+                                                                   Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  21 of 21
+
+SUBJECT:  LOADING, SETTING, TIMING AND OPERATION OF DROPPED SURVEY
+         BARREL EQUIPMENT
+
+
+                   SURVEY BARREL COMPONENTS
+
+
+                                                                      3 - "C" CELLS
+
+                                                                                                 TIME                                                                                 5                                                          4                                                        4                                            6                                                           32                                     5                                           3
+                                         7                                          1                                       6
+                                            2
+                                        8                                        0                                     7                                              1                                                      9                                                          8 9                                                                                 0                                                                                         X10                                                                                                         X1
+                ELECTRONIC TIMER                   BATTERY PACK
+
+
+
+                    SLEEVE                     CAMERA
+
+
+
+                               ANGLE UNIT
+
+
+
+
+                      READING SURVEY DISCS
+
+
+
+
+
+                                                                                                0
+        66                                                               2233 44 55 66 7788                                                                                                1       55           77 88WW88 776655                       556677 88WW88 776655      44                     44                                       WW88            44                           44         44
+     33                                                                                                2            11SS11                                                       77            33       33                          33          33
+            22                   22      22     22  22
+     11            11      11                           11                                                                                                3           3322    0    6655            11
+                                                                                                4                                                           44    SS                SS          NN                       NN                                                                                                                                      1                                         2       5544     11                   11            11                           11       34                                           3                                                                                                5
+                                                66                                          5                                               4                                                                                                                                      2    2233     22      22                   22      22
+     33                                                                                 8 7          77            33       33                          33                         6                                                                                                                                      3      44                     44            44                           44                                                                                                7                                                            11NN11                                                                                                                                      4             6655                               6655                                                  88EE8877       556677 88 EE 88 77                       556677 88 EE 88 77                                                                                                                                      5 66 55 44 3322
+
+
+             0° - 5°                    0° - 12°                   0° - 90°                  12° / 90°
+
+
+              0-5   DEGREE UNIT,   92 DEGREE AZIMUTH,   2.6 DEGREE INCLINATION
+             0-12  DEGREE UNIT,   50 DEGREE AZIMUTH,   4.9 DEGREE INCLINATION
+             0-90  DEGREE UNIT,   75 DEGREE AZIMUTH,   44.0 DEGREE INCLINATION
+             12-90 DEGREE UNIT,   46 DEGREE AZIMUTH,   9.0 DEGREE INCLINATION
+
+
+
+
+
+                                                                                                                                                     910303 / 9
+
+

@@ -1,0 +1,691 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  1 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+1.    CEMENT AND ADDITIVES
+
+1.1    Functions of Cements
+
+        a)  Bond the casing to the formation.
+        b)  Minimise the danger of blowouts from high pressure zones.
+        c)   Protect all producing zones.
+        d)  Seal off lost circulation zones or other troublesome formations before drilling ahead.
+        e)  Repair defective casing in some cases.
+           f)  Abandon non-producing formations.
+        g)   Isolate zones prior to production or fracturing.
+        h)  Re-inforcement and corrosion protection.
+            i)   Plug back to abandon or sidetrack a well.
+            j)   Isolate water producing intervals.
+
+1.2    API Classification of Oil Well Class G Cement
+
+       Class G cement is the standard cement used in UKCS operations.   It is intended for use as a basic
+      cement from surface to 8,000 ft as manufactured, or can be used with accelerators and retarders to
+       cover a wide range of well depths and temperatures. No additions other than calcium sulphate or
+       water, or both, shall be interground or blended with the clinker during manufacture of class G cement.
+        Available in moderate and high (tentative) sulphate resistant types.
+
+1.3   Cement Additives
+
+       Various materials can be added to class G cement to tailor the cement properties to meet the actual
+        well conditions (refer to Tables 1, 2, 3 and 4). The major additives are:
+
+1.3.1   Accelerators (Table 2)
+
+       Accelerators increase the rate of hydration whch occurs when cement comes into contact with water.
+      Most highly ionic, inorganic compounds, such as sodium chloride and calcium chloride, are very good
+        accelerators.
+
+        a)  Calcium Chloride CaCl2
+
+          Calcium chloride always acts as an accelerator and is generally used at 2-3% BWOC. The cement
+          companies also supply a CaCl2 as a liquid additive (0.4 gal/sk is equivalent to 2% BWOC).
+
+         Note:
+           Solidcalciumchloridecancauseskinburnsandsevereirritationtoeyes,noseandlungs.
+
+           Close control of concentration is essential. Excess quantities can result in very rapid setting.
+
+        b)  Sodium Chloride NaCl
+
+          Sodium chloride only acts as an accelerator at concentrations up to 15% by weight of water.  It will
+          behave as a retarder at concentrations over 20%.  It is not so effective as calcium chloride.
+
+        c)  Seawater
+
+           North Sea water contains ca. 20,000 ppm chlorides and will accelerate the setting of cement to an
+            equivalent level of 1% CaCl2 BWOC.
+
+1.3.2  Retarders (Table 1)
+
+       Retarders are used to delay the setting time of cement slurries at higher temperatures. They slow down
+       the rate of the cement - water reaction by absorbing onto the surface of the cement particles or by
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  2 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+       forming a chelation complex.   It is extremely important that the cement slurry is fully sheared and
+       dispersed to provide the full surface area for adsorption.
+
+       Lignosulphonates, sugar derivatives and occasionally cellulose derivatives are widely used as
+        retarders. Lignosulphonate retarders tend to reduce the viscosity of the slurry while the cellulose and
+       sugar based regarders tend to increase the viscosity.  Retarders also tend to cause foaming and
+        require the use of a defoamer.
+
+       At a particular temperature, retarder concentration is directly proportional to thickening time only over a
+        limited range.  At higher concentrations, even a small additional amount of retarder, less than 0.05
+        gal/sk, can cause a large increase in thickening time. When designing a cement slurry, the effect of
+        additing an additional small amount of retarder should be checked. Compressive strength should also
+      be checked to ensure the retarder has not totally destroyed any development of compessive strength.
+
+        a)  Low Temperature Retarders
+
+          Calcium Lignosulphonates are generally used up to 180 - 200 deg F. Occasionally they are used
+          up to 220 - 230 deg F, however, above 200 deg F, unpredictable results can be obtained and
+             gellation of the slurries can be a problem.
+
+        b)  Moderate Temperature Retarders
+
+           This temperature range is usually taken as 100 - 250 deg F and modified calcium lignosulphonates
+           are used.
+
+        c)  High Temperature Retarders
+
+             In general, sugar derivatives are used in the range 250 - 300 deg F. They can be used at
+           temperatures as low as 180 - 200 deg F, however, the very low concentrations required would
+         make the thickening time too sensitive.
+
+           At temperatures greater than 300 deg F, speciality additives are used. Halliburton use Component
+       R in conjunction with their moderate temperature range retarder and Dowell use D-28, an organic
+            acid plus sugar derivative.
+
+         Note:
+        The temperature ranges for low, moderate and high temperature retarders overlap. In the overlap
+          ranges, considerable testing may be required to establish which retarder gives the most reliable
+            slurrydesign.
+
+          There is no such thing as retarder predictability.  Slurries must always be tested in the laboratory
+           using representative cement, water and additive samples.
+
+1.3.3  Dispersants (Table 3)
+
+       Dispersants reduce the apparent viscosity of the slurry and allow higher pump rates to be used for the
+      same pressure drop.
+
+        Compatibility of dispersants with the other cement additives is to be checked. The apparent viscosity
+      can actually be increased by the addition of some dispersants when fluid loss additives are being used.
+       Certain combinations of dispersants and fluid loss additives may also cause an increase in free water.
+       Careful laboratory testing is required to ensure compatibility.
+
+       There is no need to use a dispersant in standard 30" and 20" casings. Dispersants are only required in
+      13 3/8" and 9 5/8" strings if the casing is set deep, and may only be required in the liner slurry.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  3 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+1.3.4   Fluid Loss Additives (Table 2)
+
+      The mechanism of fluid loss control in cement is not fully understood.  It is presumed that the additive
+       acts as a bridging agent between discrete cement particles causing a blockage of the pore spaces.
+
+      The fluid loss additive minimises the dehydration or loss of water to porous zones.  This helps to
+       achieve a uniform water-solids ratio which will maintain constant properties and viscosity.  It is generally
+       accepted that a fluid loss of below +/- 100 ml/30 mins is sufficient for most jobs, however, this may be
+       reduced to +\- 50 ml/30 mins across highly permeable zones or during the setting of cement plugs.
+
+      The fluid loss of a squeeze cement slurry should be as low as practicable.
+
+            It is sometimes necessary to cement a high secondary objective, whch is highly porous, with an
+       extended slurry in 9 5/8" casing. A low fluid loss is difficult to achieve even with the 13.6 ppg slurry
+       weight necessary to achieve a reasonable compressive strength and in this case, fluid loss can be
+       relaxed to +/- 200 mls/30 mins.
+
+      Most fluid loss additives are based upon high molecular weight organic compounds which also tend to
+         slightly retard the slurry. As mentioned previously with retarders, additive compatibility should be
+       checked.
+
+1.3.5  Density Adjusters
+
+        a)  Heavy Weight Additives (Table 3)
+
+           Occasionally it is necessary to add weighting material to the cement slurry to increase the density
+             to withstand high formation pressures or to ensure efficient displacement of heavy muds. The
+            additives should preferably be (i) as dense as possible, (ii) require minimum water,  (iii) have no
+             effect on compressive strength, (iv) have a uniform particle size range, (v) be chemically inert, (vi)
+            not interfere with well logging.
+
+          Care should be taken with dry blended material to ensure the dense material does not settle out.
+         The blended material should be fluffed prior to the job. Guidelines will be provided at the time on
+         how to check the quality of the particular blend being used. The cement slurry should also have
+          enough viscosity to carry the additive.
+
+                   It is also possible to increase the density of the cement slurry to 17.5 ppg by using a reduced
+           water-cement ratio. A dispersant would also have to be used to control the viscosity, however,
+             viscosities would still tend to be higher than normal, and a practical upper limit can be considered
+             to be 16.5 ppg.
+
+                   i)    Haematite (Iron Oxide)
+
+                Haematite is generally accepted as the most common weighting agent for cement.   It has a
+                   specific gravity of 4.95, is chemically inert and fulfills all of the requirements of a heavy weight
+                  additive allowing slurry weights of up to 20 ppg.
+
+                     ii)    Ilmenite (Iron Titanium Oxide)
+
+                  Ilmenite has most of the benefits of haematite and is slightly less dense with a specific gravity
+                   of 4.45.
+
+                      iii)    Salt
+
+                  Salt can be used to increase the density of cement slurries by up to 1 ppg, however,  it is
+                  generally only used at such high concentrations to provide salt saturated slurries.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  4 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+        b)  Extenders (Table 3)
+
+         Many formations cannot support a large column of cement at the high density of neat class G
+          cement obtained when adding the recommended amount of water. In most cases, lightweight lead
+             slurries can be used, which sacrifice some compessive strength, to provide a greater yield per sack
+             of cement. This will in turn produce a more economical slurry.
+
+            Lightweight slurries can be produced by adding low specific gravity solids such as hollow glass/
+           ceramic spheres. At present this method is not considered as common as the addition of materials
+           which require large volumes of water such as bentonite or sodium silicate.  In effect water is the
+             real extender and the additive is used to prevent excessive free water forming.
+
+          Extended slurries can be prone to excessive gel strength development if the pumps are shut down
+              for any length of time.  In some cases, the gel strengths can be so high that the fluid cannot be
+         made to move again and it appears as if the cement has set.
+
+        When the slurry design has been formulated,  it can be checked for development of high gels by
+            repeating the thickening time test. This time the paddles on the consistometer should be switched
+               off for two minutes, 10 mins after the test temperature has reached equilibrium. The resultant gel
+            strengths can then be measured.
+
+                   i)    Bentonite
+
+                Bentonite can be used successfully either prehydrated or preblended.  Preblended the
+                 concentration is 8% BWOC for a 13.2 ppg, 1.58 SG slurry. Prehydrated bentonite is used at
+              a concentration of 2% BWOC or approximately 8 lb per bbl of mixwater. The actual percent
+                   of bentonite used should be determined by laboratory testing. The bentonite should be
+                  yielded in fresh water making up half the total of mixwater, seawater can be added to make
+              up the full quantity after 2 - 4 hours.
+
+                     ii)   Sodium Silicates
+
+             Sodium silicates are used as chemical extenders in lightweight cement slurries. The
+                standard lead slurry is mixed at a density of 13.0 ppg using 0.35 - 0.40 gal/sxs silicate
+                 extender. The exact concentration will depend on the actual produce used.
+
+              The silicate extender reacts with calcium and magnesium which are present in the cement or
+                seawater to form a gel. The silicate will be mixed in seawater to allow a controlled reaction to
+                 take place before it is added to the cement. The gel can absorb large quantities of water to
+               produce lightweight slurries with minimum free water.
+
+             As already states, extended slurries can become very viscous and develop high gel
+                strengths. The flow properties of silicate slurries tend to be even less dependable at very
+                      light weights and at elevated temperatures, i.e. below 12.0 ppg and at temperatures above
+              185 deg F.  Stringent laboratory testing is required for these conditions, where very
+                  lightweight extended slurries are required in 20" and 13 3/8" casings where the formations
+                are particularly weak.
+
+                    Silicate extenders can react with certain lignosulphonate retarders if they come into contact
+                    prior to being added to the 10 bbl mixwater tank on the cement unit.  If they come together in
+                 the manifold line, they can form a viscous sludge which can block the line. The LAS unit
+             should be manifolded to provide separate lines for the silicate extender and the
+                retarder.
+
+1.3.6  Defoamers (Table 3)
+
+       Certain cement additives such as retarders and fluid loss additives can cause foaming of the mixwater.
+     A small concentration of defoamer can be added at 0.01 gal/sk to control the foam.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  5 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+1.3.7  Retrogressive Strength Additives (Table 4)
+
+       Class G can undergo thermal degradation at temperatures greater than 230 deg F resulting in a loss of
+       compressive strength and an increase in permeability.  In extreme cases, the cement may crumble
+        entirely with time.
+
+      The cement can be made more stable to high temperature by blending the cement with silica.  Silica is
+        available in two mesh sizes as silica sand (80 - 200 mesh) and silica flour (350 mesh). The choice of
+      mesh size is often determined by considering the effect on rheology.  Silica flour is mainly used for dry
+       blending at a concentration of 35% BWOC.
+
+1.3.8  Lost Circulation Material
+
+       Lost circulation can be a problem in some wells where whole fluid is lost to the formation as opposed to
+          filtrate loss in a permeable zone.  This may occur in fractured or cavernous formations as well as in
+       unconsolidated highly permeable formations.   If loss of circulation is not cured, then generally a
+       remedial job is required.
+
+      Many lost circulation problems can be cured by adding bridging material to the cement slurry. The
+       bridging material is designed to bridge over fractures, blocking weak zones and increasing the
+       resistance of the zone to pressure breakdown.
+
+       Modified cements can also be used to cure lost circulation such as quick setting cements, thixotropic
+      cements and lightweight cements. These tend to have more specialised applications and can be quite
+      complex and expensive.
+
+1.3.9   Salt Saturated Cement
+
+        Salt sections can only be effectively cemented by salt saturated slurries.  Fresh water cement would
+      cause leaching of a salt zone at the interface and no cement bond would be possible. A good cement
+      bond is only really possible across salt zones with a salt saturated slurry.
+
+1.3.10 Radioactive Tracers
+
+            It is occasionally important to monitor the cement displacement to accurately position the top of cement.
+       For example, excess cement during the cementing of conductors on a template could block the rest of
+       the template.
+
+     A radioactive tracer can be added to the cement at the beginning of the job and the Schlumberger GR
+        tool can monitor its displacement up the annulus. Fresh tracer should be ordered just before the job
+       takes place as its radioactive half life is quite short.
+
+      The tracers used in our cement operations are Tecnesium, Tc 99 or Iodine. Tc 99 has a half life of 6
+       hours at a dosage of up to 300 millicuries.
+
+1.4    Planning
+
+      The success of any cement job will be dependent upon the Drilling Representatives planning and
+       checking in three major areas prior to commencement of any cement job, i.e.
+
+        1.   Inspection and testing of equipment.
+
+        2.   Calculations.
+
+        3.  Pre-planning of contingency operations.
+
+      These are covered in detail in the section on responsibilities (3010/GEN).
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  6 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+1.5    Quality Control
+
+1.5.1  Bulk Samples
+
+      The rig is to safeguard itself from contamination by a wrong delivery of material from the supply vessel.
+      Samples of cement are to be collected prior to and after topping up the silos. Liquid additives are to be
+      checked prior to topping up the LAS storage tanks.
+
+      Cement can be differentiated from barytes and bentonite in several ways:
+
+        1.  Take a sample of bulk material and rub it between the fingers under a stream of water. Bentonite
+          can be detected by the gelling. Cement and barytes can be differentiated by the reaction with
+              dilute hydrochloric acid. Cement starts to bubble upon addition of hydrochloric acid.
+
+        2.  Bulk materials have different specific densities. They can be differentiated by weighing fixed
+           volumes, i.e.
+
+           Bentonite     :   2.5 - 2.6 g/cm3, 100 mls sample weighs 115 g
+           Barytes        :   4.2 - 4.3 g/cm3, 100 mls sample weighs 260 g
+         Cement        :   3.1 - 3.2 g/cm3, 100 mls sample weighs 180 g
+
+           Liquid additives can also be identified by checking the density with hydrometers and also
+          comparing the other physical properties, e.g. colour, with the product data sheet.
+
+        3.  Procedure for Determining Bentonite Content in a Cement Blend
+
+         The following test procedure should be performed by the Mud Engineer on the rig.  It is accurate to
+         ± 1% and enables cement samples containing an unknown bentonite content to be investigated.
+
+          Take 10g of cement sample, weight measured to two decimal points if possible.  Dilute to 50 cm3
+            with water in the Erlenmeyer Flask. Add 10 cm3 5N sulphuric acid.
+
+         Add methylene blue solution from a burette to the flask, this contains 3.74g USP grade per 1,000
+         cm3 water.  After each addition of 5 cm3, shake the contents for about 30 seconds.  While the
+             solids are still suspended, remove one drop of liquid with the stirring rod and place the drop on filter
+           paper. The end point of the titration is reached, when dye appears as a blue ring surrounding the
+          dyed solids.
+
+        When the blue tint spreading from the spot is detected, shake the flask an additional 2 minutes and
+           place another drop on the filter paper.   If the blue ring is again evident, the end point has been
+           reached.   If the ring does not appear, add 1 cm3 more of the methylene blue and continue as
+           before until a drop taken after shaking 2 minutes shows the blue tint.
+
+         The amount of bentonite present can be determined as follows:
+
+        No Bentonite   -  Blue tint appears after first addition of 5 cm3 methylene blue.
+         2.5%             -  10 ml required for blue tint.
+         5.0%             -  20 ml required for blue tint.
+         7.5%             -  30 ml required for blue tint.
+         10.0%            -  40 ml required for blue tint.
+
+1.5.2   Potential Problems of Mixing Different Shipments of Cement Blends
+
+      Cement will age in a silo, especially if stored in small quantities.  Its reactivity will change, resulting in a
+        different pumping time to subsequent load-outs, even though it may have originated from the same mill
+        run. This problem worsens with depth, i.e. the reactivity of Class G + 35 changes more than Class G +
+      8 or neat Class G cements.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  7 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+        In addition to a change in reactivity, when second load-outs are used to top-up silos,  it becomes
+       necessary to sample and test both the old and new batches of cement. This can lead to confusion and
+              it has been known for a thickening time of 4.5 - 5 hours obtained with one lot of samples to change to
+       2.5 hours with new samples.
+
+      To avoid these problems the practice of topping up silos with second load-outs should only be
+       undertaken after consulting Drilling Fluids Group in Dyce. The correct course of action is to dump the
+       old batch of cement, clean out the silo and ship one blend sufficient for twice the job (plus
+       abandonment/suspension plugs in the case of Class G + 35).
+
+1.5.3  Sampling and Packaging
+
+      The cement company will test the rig samples to tailor the cement slurry and provide an accurate
+        thickening time.
+
+      The cement company will supply a box with suitable containers for the collection of samples. The
+        quantities required are:
+
+      Cement                   :  10 kg from each silo
+      Water                      :  1 gal
+        Liquid Additive        :  500 mls of each additive
+
+      The samples are to be sent in by the Cementing Service Company Engineer with the following details
+       included on the sample box:
+
+       Rig Name
+       Well Number
+      Type of Cement Job (e.g. 13 3/8" casing) and Setting Depth
+      Type of Cement and Silo Number
+      Type of Additive
+
+       Sampling and Packaging Instructions for Cement and Additives
+
+       Sampling Cement from Surge Tank:
+
+      Purge lines from bulk to surge tank. Ensure lines clear and surge tank completely empty.  Fluff cement
+      and transfer 2 tonnes approx. to surge. Open discharge on surge and allow some cement to fall out
+         prior to filling the sample tin.
+
+       Sampling Cement from Bulk Silo:
+
+         Fluff cement in silo for approximately 60 mins. Depressurise silo. Open hatch. Take sample. Try to
+        dig sample from below the top few inches since this part has been exposed to more air than the bulk.
+
+       Packaging Cement:
+
+            It is most important that the sample obtained above remains representative of the bulk cement from
+       which it was sampled otherwise the exercise will have been a waste of time. The cement must be kept
+       dry and be subjected to minimum exposure to the atmosphere while in transit to the laboratory.  This
+      can be achieved if the cement is packaged as follows:
+
+          -   Packed in an undamaged tin.
+          -   Minimum 5 kg, preferably 10 kg.
+          -    Tin lined with two unused polythene bags.
+          -    Tin filled to maximum, maximum air excluded.
+          -   Polythene bags individually tied with tape or string.
+          -    Tin labelled : Cement type/batch no., when and where sampled.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  8 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+       Sampling/Packaging Additives:
+
+      Where possible, dry additives should be sampled from a sack of the same batch number to be used on
+       the actual cement job. The sample should be placed in a clean, dry plastic bottle with a lid. 0.5 litres is
+        usually sufficient. Label the bottle. The lid should be wrapped with PVC tape to prevent any leakage
+       during transit.  Liquid additives should be sampled from the same batch of additive to be used on the
+        actual cement job.   It is important to agitate liquid additives prior to sampling since they are usually
+       suspensions and settling of solids will occur, especially with retarders, which will lead to an uneven
+        distribution of retarder in the tank or drum. When sampled from an LAS system, make sure the tank is
+        circulated for 30 minutes using the discharge pump prior to obtaining the sample. When sampling from
+      a drum, roll the drum for 5 - 10 minutes prior to taking sample.
+
+       Container for Above Samples:
+
+        In order to keep the above samples free from damage, they must be packed in a strong wooden or
+       metal box. Ex-ammo boxes make satisfactory containers.
+
+        Additional samples are to be collected during the cement job for further analysis in case of problems.
+      Samples are to be collected of the cement, the base water (i.e. drillwater or seawater), the individual
+         liquid additives and the actual mixwater after addition of the additives. These samples are to be sent
+        into town in the event of any problems or when additionally requested.  All samples will be clearly
+        labelled to identify the contents and where the sample was collected, e.g. cement from Silo No. 2 or
+       surge tank, water from drill water tank No. 2 or mixwater from 2nd tank.
+
+       Regular samples of the cement slurry should be collected in polysstyrene cups. These can be placed
+         in a heated oven as a check on the cement setting, however, this is not an accurate check as water is
+       evaporated from the slurry in the oven.
+
+            It must be recognised for deep, high temperature wells this type of surface test can be totally erroneous
+       since pressure downhole influences thickening reactions as well as the "drying-out" in the oven.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  9 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+
+
+
+                                                to    F                                                                                                                                     Care-                                                                                       deg                    added                        F.            200                                   deg                                             D109
+                                                of            200                                   200                                                                                   below                                                                                                                                                                                                                                                                                                                                                                                              temperature                                                                                                                         temperature                                                                                                                                                                    unpredictable                                                                                                                                                                                                                                                                                                                                                                                                                                 concentration.                      of                                                                                                                                                                                                                                                                         sensitive.required.                                                                                                                                                                                                                                                                                                                                                                                     intensifier                                                                                                        the                                                                                                                                                 above                                               over                                                                                                                                                                                                                                                                                                                                                            concentration.                                      aretemperature.                                                                    version                  an                                                                                                                       high
+                                                                    is                                                                                                                                                      sensitiveF.                                                                                                                   R-12L.              R-14L.                           testing   at         R-14L.                                                      high                                                                                                                                                                                                                extend                                                                          Comments       PossibilitygellationResultsat       Toodeg As     As    Dilutedoptimise      Extremelyful      Effectivebut   As   Thistorange.
+
+                                                                                                          BWOC
+                                                        Gal/SX                                            0.55            0.40   0.30      0.25         0.25   0.50      0.2%    0.5       0.5           -   - - -  0.5 - - - -  -
+
+                     -
+                                                              0.1   0.01   0.01      0.01      0.03         0.03 -                                                                                    ApproximateConcentrationRange   0.02            0.05   0.05      0.01
+
+                   SG
+                                                                          Additive   1.19            1.29   1.31      1.25   1.20   1.26   1.13      1.25      1.21         1.19 -
+
+
+                             -    F
+                                                                                                                    (200            Deg
+                                                                                       200                                                                                                      600                                 230         300                                                  350                                                         180  250                                                                   300                                                                        300                                                                                400                                                                                                                                                                                                                                                     slurry).  300
+         F
+               -                 -                     -                      -                        -                           -                                                                                                                                                                                                                                                                            depending                                -                      to              to                  to        to
+                               1                                                                                    TemperatureRangeDeg Up         200  200   Up  150  180  180    200   Up220upon  200 Up                          ADDITIVES
+                                 Sat         Sat  Sat    Sat  Sat              Sat    Sat       Sat  Sat                                                                                                                                                         TABLE
+                  CEMENT                  Type                                               Water                            Mix         Fresh/Sea/Salt                                           Fresh/Sea/Salt         Fresh/Sea/Salt                    Fresh/Sea/Salt         Fresh/Sea/Salt         Fresh/Seawater         Fresh/Seawater                    Fresh/Sea/Salt                    Fresh/Sea/Salt                                Fresh/Sea/Salt         Fresh/Sea/Salt
+
+                                                                                                          plus
+                                     Type                                                                                              Salt                                                                                          Acid   Acid      Acid
+                                                                          Chemical         Lignosulphonate                                              Lignosulphonate      DerivativeSugar                      Lignosulphonate          Lignosulphonate    Organic    Organic          Organic                      Lignosulphonate                                  Lignosulphonate      Inorganic
+
+
+
+                                  R
+                                                                          Additive   R-12L               R-15L   R-14L      D-81   D-801   D-109   D-110      D-28       HR-6L              HR-12L      Component
+                                                   CementCompany BJ                                           Dowell                                                                                                 Halliburton
+
+                                                                    AdditiveClass     Retarder
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  10 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+
+                                           Sea.                                                 Sea.                                                                                          cover                                                                                                                                                                    slurriesdis-                                                                                  additive.                     a                                    to                                                                                         phased                                                                                                                                                                                                                                                                                                       additive.                                                                                                                                                           additive.                                                      North                                                              North       conjunction                                                is              water.lowat    lowat                              be                                    loss                                                                                     with                            in                                the  the   to                                                                reaction         salt                                                                                                                                                 modified                                             fluid in                         in                                            (is                                                      in                                                        used                                                                                                                                          standard                                                                                                                                                                                                   retards         retard                                                                                                                                                                                                                                   temperature.        light-weight                                    be                                         in                                                              concentration                            be                                                                                           not                temperature                                            D80                                           used                                                 used                                    to                                    is                         conjunction                                                           Comments     Standard  Not  Not   Mustwithout).    CurrentIthigher   Usedinpersant.      Secondaryretardation.   LargerequiredSlightlytemperature.   Doestemperatures.   High
+
+                                                                                  BWOC         BWOC                                            Gal/SX                                                                               0.8         1.0                           0.5            0.5         0.35         3.0%         1.0%                                  0.80.80.8
+         -    -  -  -  -   to      to     ---                                                                ApproximateConcentrationRange  0.3 -  0.9  0.2       0.1       0.5       0.2   Up      Up              0.10.10.1
+
+               SG
+                                                                                                                                                                    Grade   Grade      1.37-
+                                                           Additive   1.04   1.06   1.10   1.05         1.09         1.15         1.34      1.08            1.07       Solid   Solid   1.351.311.26
+
+
+         F
+                           Deg
+                           300  350  200                               250    210         230    350  400  100100100       F                          240       260                  to to to  400  -  -     to   to      to   to to tototo
+                                2                                                                TemperatureRangeDeg Up Up Up To     80     80     Up   Up      Up   Up Up UpUpUp                ADDITIVES
+                           Sat  Sat  Sat                                                                                                                                                                  TABLE                              Type                                                             Salt
+                                                                       37%           CEMENT                    Water               -                                                                                                                                                                                      Waters                      Mix         Fresh/Sea/Salt         Fresh/Sea/Salt         Fresh/Sea/Salt         Fresh/Seawater                                Fresh/Seawater                                Fresh/Seawater       10%       Fresh         All                    Fresh/Seawater   Fresh  AnyAnyAny
+
+                              Type
+                                             Amine   Amine                                                                                                                                                                                                   ChlorideChlorideChloride                                                           Chemical   Poly   Poly   Latex      Cellulose  -                    Cellulose                    Cellulose             Cellulose                            Cellulose             Cellulose      Cellulose   Cal.Cal.Cal.
+
+                                                                                                                                                                                             CaCl2
+                                                           Additive   D-19L   D-45L  D-5   D-73           D-603           D-112         D-59             Halad-10L                               Halad-322L             Halad-22A     Halad-14   A-7LD-77Liquid
+                                        CementCompany BJ                       Dowell                                                                                                                            Halliburton                  BJDowellHalliburton
+
+                                    Loss                                                     AdditiveClass   Fluid                                                                                                                                                                                                                                                                                              Accelerator
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  11 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+
+                                                                                               (e.g.           (e.g.
+                                                                                          which           which                                    pronestrength                                                                                         are                                                                                                                                                       disperse                  disperse                                                                                                particularly
+                                                                                           gel   ppg.                                      to     to                                                                                                                               cements                cements                                                                                                                                                                                                                                            slurries                                                                        with     Circle).   with     Circle).                                12.0                                                                                                                                                                          difficult                    difficult                                                     Comments                                          Usedare(Blue   Usedare(Blue                                            Silicateexcessivetodevelopment,below
+
+                                                  slurry    slurry                                        bbl    bbl                                       BWOC                         bbl  bbl                                        Gal/SX                                              0.05    pts/10         pts/10    0.2-       0.2-       0.2-   0.2%-   0.44  0.60.60.6                                                  gal/10    gal/10 to                               to ---             required.required.required.     requiredrequiredrequired                                                                                    slurry         slurry                                                       ApproximateConcentrationRange  0.5  0.5 Up   2-10      2-10      0.02         0.02         0.05   0.05 Up  0.10.10.1   AsAsAs AsAsAs
+
+             SG
+                                                     Additive   0.88 -   0.99   0.96      1.00      1.23         1.21         1.21   1.50   1.18   1.501.401.36      4.954.954.95   4.204.204.20
+
+
+            F
+                                   Deg
+                                   400
+       F
+
+                                3                                                       TemperatureRangeDeg       LimitationsNo       LimitationsNo toUp       LimitationsNo                LimitationsNo                LimitationsNo                         LimitationsNo                         LimitationsNo       LimitationsNo       LimitationsNo       LimitationsNoLimitationsNoLimitationsNo                LimitationsNoLimitationsNoLimitationsNo       LimitationsNoLimitationsNoLimitationsNo          ADDITIVES
+                         Sat  Sat  Sat  Sat    Sat                                                                                                                                                                  TABLE
+       CEMENT                TypeWater                                                                                                                                                                        Saturated                    Mix         Fresh/Sea/Salt         Fresh/Sea/Salt         Fresh/Sea/Salt         Fresh/Sea/Salt                    Fresh/Sea/Salt                    Fresh/Seawater                                Fresh/Seawater                                Fresh/Seawater   Salt         Fresh/Seawater     SeawaterSeawaterSeawater    AnyAnyAny  AnyAnyAny
+
+                          Type                                                                                                         Acid                  SilicateSilicateSilicate
+                                                     Chemical      Phosphate - -      Phosphate -               Sulphonate                       Sulphonate  -    Organic      Sulphonate    SodiumSodiumSodium             HeamatiteHeamatiteHeamatite    BarytesBarytesBarytes
+                                                                                                                                                                                                                                                                                         Econolite
+                                                     Additive   D-21L   D-6L   D-47   NF-1          D-air-2       D-31L         D-80         D604   D-45    CRR-2L   A-3LD-75Liquid   W5D76Hidense WID31-
+                                   CementCompany BJ              Dowell       Halliburton        BJ              Dowell                                                             Halliburton BJDowellHalliburton   BJDowellHalliburton BJDowellHalliburton
+
+                                              AdditiveClass     Defoamer                                                                                        Dispersant                                                                                    Extender                            WeightingAgent
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 12 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3050/GEN
+
+                                                                  Rev.         :  2 (3/91)
+      DRILLING MANUAL     Page        :  12 of 12
+
+SUBJECT:  CEMENTING: CEMENT AND ADDITIVES
+
+
+                                                                                                                              Comments
+
+                                                                                              Gal/SX                                                                      BWOC      BWOC      BWOC      BWOC      BWOC   BWOC                                                                                                                                                           ApproximateConcentrationRange  35%    35%    35%    35%    35%  35%
+
+                               SG
+                                                                                                                              Additive   2.63      2.63      2.63      2.63      2.63   2.63
+
+
+                                                    230    230    230    230    230  230
+
+                F
+
+                         4                                                                                                                                                           TemperatureRangeDeg   Above       Above       Above       Above       Above   Above                                                                            ADDITIVES                                                                                                                            TABLE
+                                                   CEMENT                TypeWater
+                                               Mix  Any    Any    Any    Any    Any  Any
+
+                                                               Type
+                                                                                       Flour                                    #)                                                                               Sand#)140   Flour#)   Sand#)200   Flour   Sand
+
+                     -    -                                                                                                                              Chemical    Silica(200    Silica(80    Silica(200    Silica(70    Silica    Silica
+
+
+                                                                                                                                        Flour   Sand
+                                                                                                                              Additive  D-8      D-8c      D-66      D-30         Silica    Silica
+                                                                                         CementCompany BJ                       Dowell                                           Halliburton
+                                                                                                                       AdditiveClass        RetrogressiveStrength
+
+

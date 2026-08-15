@@ -1,0 +1,1498 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  1 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+
+                                                                         NO  ?         YES
+                                                                                                                                        Free
+                                                                                                                                                                                                           String
+
+
+
+
+                                                                           to  (3)
+                                                                                                                                                  Pipe   14
+                                                                                                                                                         Left                                                                                                                                                                                           POOHString                                                                                                                                                  Work                                                                                                                                                            Page                                                                                                                                                                                                                                                                                                           ReTorque
+
+
+                                                                              NO
+
+
+                                  ?
+                                                               Wt.
+                                                                                                                                                                                                                                            whilst                                                                                                                         String                                                                                                                                  YES  Move                                                                                                                                                                                                                                                                                                                                  Wireline                                                                                                                                                                                                                                             Clean                                                                                                                                                                            Down                                                                                                                                                                                              Wireline                                                                                                                                                                                                                                    Back-Off                                                                                                                                                                                          Circ                                                                                                                                                                                Charge                 String                                                                                                                                                             Charge                                                                                                                                                   Neutral                                                                                                                                 RigWireline                                                                                                                                                                                                 Circ,                                                                                                                                                                                              Hole                                                                                                                                                                                                                                            String                                                                                                                                                                                                                                                                              CorrelationBack-Offfor                                                                                                                         Adjust                                                                                                                  Fire                                                                                                                                                                                                                                                                                                                                                     Backed-Off                                          to                                                                                                                       Final                                                                                                                                                                 POOH
+
+
+
+
+                                                                         (9)
+                                           in                                                                                          Hand 18                                                                                       Work    Torque                                                                                          Left  Page
+
+                                                                                                                                                               Back-Off    Depth                                                                                                                            Chargeto
+                                                           Run
+
+                           YES
+
+
+                                                                    for                                  Jars     NO                                                 String                                                13                                                                                                                 rightMake-Up(5)                                                            Back-Off                                             tod.p.Page                                          above                                                                    Torque
+
+
+                           YES                                        YES                                                                                      YES
+                                                                          Point
+                                               (7)        ?                                Neutral                     ?    NO                 Charge                        String                                                                                                                                                                                                         String            ?
+                                                                 on              &Free                               14                                                                                                                                                                                                                                               Charge                                                                                 Run    Depth                              Jars                                                                                                                                                                                                                                                                                                                                                                                                                                            Correlation                                                                                                                                                                  Back-Off                                                                                                                                                                                                                                                                                   possible                                                                                                                                                                                                                                                                                  StringFree      PIPE                                                         to         Max                                                                     if                                                          Working     NO      DeterminePoint                                         Ispossible                              atpage    STUCK                                                                                                                                                               Fire                                                                                                                                                                                                  Final                                                        FreeWeight                                                                                                           Severance                PullPressurise
+
+                                                                                                          NO
+
+
+
+
+
+                                               ?
+
+                                                                                                                                       Did               Time                                                                                        NO                   Equipmentperform                                                         Inventory       Severance                     Optimum                                      6005/GEN                           Fishing                                                                                          Explosives                                                                                                                            YES                   RigFPI/Back-Off                                        Tools
+
+      FREE POINT, BACK-OFF & SEVERANCE OPERATIONS FLOWCHART
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  2 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+Find the free point and determine the connection to be backed off by either:
+
+1)  Stretch Test.
+2)  Free point indicator run on wireline.
+
+When the connection to be "backed off" has been determined, the procedure to back off either with or without
+the help of an explosive charge will be advised from the Shore Base.
+
+1.    The Stretch Test is only used in straight hole and can only be applied on semi-submersible units if there
+         is no significant heave.  It is an inaccurate method of determining the stuck point and should be used as
+      a rough guide only.
+
+     When doing the stretch test:
+
+        1.  Mark the string at the rotary table "A", the string pull should be the weight of the string in air.
+
+        2.   Pull additional tension and measure the stretch in the string by the rise of the mark from the rotary
+             table. Mark the pipe at the rotary table "B".
+
+        3.  Lower the string to the original Martin Decker reading. Re-mark the pipe at the rotary table "C".
+           This mark will be different from the original starting mark.
+
+        4.   Pull the same additional tension as in 2, and again measure the stretch, re-mark the pipe at the
+             rotary table "D".
+
+        5.  Measure the distance from:
+
+         The mid-point of the bottom two marks
+
+               to:
+
+            the mid-point of the upper two marks.
+
+          Mark D
+
+          Mark B
+
+                                                                    "e"
+
+          Mark C
+
+          Mark A
+
+         The distance "e" will be the stretch of the pipe.
+
+        6.  The relationship between stretch and free length will be:
+
+           L1  =  E x e x Wdp
+                       40.8 P
+
+           where:  E    =  Modulus of elasticity = 30 x 106
+                  e    =   Differential stretch (inches)
+              Wdp  =  Weight per foot of pipe in air (lbs/ft)
+               P    =   Differential pull (lbs)
+
+          Note the stretch test is accurate only to 200 - 300 ft (60 - 90m) in deeper holes and less accurate in
+           shallow holes.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  3 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+2.    FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+      To accomplish a successful back-off an understanding of why the string got stuck, knowledge of the
+       borehole shape and all past and present hole problem areas is required. Armed with this information
+      and careful interpretation of the free point indicator results will help to achieve a successful operation.
+
+            If the decision to back-off has been taken  it is strongly recommended that a free point indicator (FPI)
+        tool should always be run to determine the stuck point.  If the jars in the assembly are still stroking and
+              it has been decided to back-off at or above the jar, then there is no need to run the FPI. Check the jar
+        tensile rating - "necking" of the jar mandrel can occur when applying large overpulls.  If necking occurs
+              it may prevent passage of wireline tools through the jar.
+
+      The FPI can measure stretch and torque.   It should be possible to back-off pipe when torque and
+        stretch measurements indicate 80 - 85% of free pipe readings.
+
+3.    FREE POINT INDICATOR TOOLS
+
+        Electric logging free point indicators require the string to be tensioned and torqued, thereby activating
+       the tool's strain gauges.  In general, back off attempts will be made on the lowest connection where
+       torque and stretch readings are 80% to 85% of free pipe.
+
+      The Drilling Supervisor should familiarise himself with the operation of the logging contractor's tools.
+
+      The following text explains Schlumberger's FPI tools.
+
+3.1    SIT-C (Stuck Point Indicator Tool)
+
+       This tool is anchored to the inside of the pipe with 2 sets of bowspring anchors spaced approximately 4
+        feet apart. The tool is suited for use in shallow wells where heaving of the drilling vessel may cause
+       slippage of the tool. The bowsprings can move up the pipe with the heave without damage. There is
+       the facility to include "slip joints" in the tool suite to compensate for vessel heave. The bowsprings
+       diameter is changed by adjusting the holding nuts on either side of the spring. To take measurements
+         in drill pipe and drill collars the wireline has to be tripped and the bowsprings adjusted at surface.
+
+       Stretch and right-hand torque can be measured. The results are defined by measuring the air gap
+      between 2 magnets after the pipe has been put under tension or torque. The tool cannot distinguish
+      between stretch and torque, thus all residual torque or stretch must be out of the pipe before further
+      measurements are made.
+
+3.2    SIT-F
+
+       This tool is equipped with 2 sets of hydraulically operated arms spaced approximately 4 feet apart.
+      Each set has 3 arms. Each arm's tip is coated with hard facing which prevents slippage of the tool.  If
+      measurements have to be made inside drill pipe and drill collars the wireline has to be tripped and the
+      arms changed at surface to accommodate the different ID's.
+
+      The principle of operation is identical to the SIT-C above.
+
+3.3    FPIT (Free Point Indicator Tool)
+
+       This tool has 2 sets of hydraulically operated arms as in the SIT-F tool. Arms can be installed to anchor
+         in ID's ranging from tubing up to 17 1/2" casing. The hydraulic force holding the arms to the inside of
+       the pipe is substantially greater than in the SIT-F tool.
+
+       There are 2 sensors, one for measuring stretch and one for measuring both RH and LH torque. The
+        principle of measurement involves Kelvin transfer:  measuring the field between 2 receivers and a
+        transmitter.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  4 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+     A combination FPI measurement and back-off charge run can be made with the FPIT tool, see page 17
+         for chart. This assembly has limited application. See Section 8 - Running the Back-Off Charge.
+
+      Note:
+       AllSchlumbergertoolsare1.375"OD.
+
+      The following text explains Atlas FPI tools.
+
+3.4    Atlas FPI Tool (2501)
+
+        Atlas use three types of FPI. The Atlas freepoint indicator comes in 5 separate sections. Two motor
+        sections, one sensor, one electronics and one ccl section, i.e:
+
+       Bottom-Motor-Sensor-Electronics-Motor-CCL-Top
+
+      The tool will lock itself firmly in place with the tungsten carbide tipped anchors and can be used in all
+       sizes of drillpipe. The design of the tool, slick, makes  it ideal for both low and highly deviated holes.
+     Pump down is possible. The logging cable can be totally slacked off while performing readings. A real
+       time ccl and freepoint (freepipe percentage) log will be recorded in the field.
+
+      Note:
+     2501FPItool1.300"OD.
+
+3.5   The AES FPI Tool (2502)
+
+      The AES freepoint indicator comes in 5 separate sections. Two anchor sections (bow springs), one
+       sensor section, one ccl, one slip joint, i.e:
+
+       Bottom-Anchor-Sensor-Anchor-CCL-Slip Joint-Top
+
+      The tool is supplied with its own panel (2504), the tool locks itself in place with tungsten carbide tipped
+       bowspring anchors. The tool is designed for hostile environment wells and does not contain electronic
+       components. The bowspring anchors must be set up for pipe ID +0.5". Two sizes of slip joint are
+        available, 3 ft and 9 ft length, to compensate for heave and cable slack.
+
+      The best results for this tool are achieved in deviations of less than 45 deg. The tool is not
+     recommendedforholeanglesgreaterthan60deg.
+
+      Note:
+     2502FPItool1.375"OD.
+
+3.6   The Magnatector FPI Tool (2515)
+
+      The Magnatector freepoint indicator comes in one piece. The tool is always supplied with its own panel
+        (2509). The tool locks itself in place with surface powered electromagnets. The design of the tool,
+         slick, makes it ideal for high deviation wells, pump down is possible. The magnets will lock the tool in
+     ANY SIZE OF DRILLPIPE OR CASING. The logging cable can be totally slacked off while taking
+       readings.
+
+      Note:
+     2515FPItool1.438"OD.
+
+3.7    Surface Checks
+
+      2501 FPI
+
+        1)  Operate arms check/set for appropriate max. diameter.
+        2)  Check sensor for response under tension/compression, LH/RH torque.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  5 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+        3)  Check CCL.
+
+      2502 FPI
+
+        1)  Set bowsprings for pipe ID plus 0.5".
+        2)  Check sensor response under, tens/compression, LH/RH torque.
+        3)  Check CCL.
+
+      2515 FPI
+
+        1)  Activate magnets against metal surface.
+        2)  Check sensor response under, tens/compression, LH/RH torque.
+
+      Note:
+       All these Atlas tools will record stretch or torque but cannot distinguish between them. All tools are
+      maintenancefreewhileontherig.
+
+4.    MECHANICAL SURFACE CHECKS FOR ALL TOOLS
+
+4.1    The SIT-C and the SIT-F tools have oil filled diaphragms to compensate for hydrostatic pressure. The
+       diaphragms have to be properly filled prior to running the tool.  Incorrect oil-level is the most common
+      cause of failure. The FPIT tool has no diaphragm.
+
+4.2    Operate the arms and check maximum diameter with ring gauge.
+
+4.3   On bowsprings, set diameter to 1/2" to 3/4" greater than pipe to be measured and check same against
+      a ring gauge.
+
+5.    INTERPRETATION OF FREE POINT INDICATOR RESULTS
+
+      The free point is selected as the deepest point at which the pipe can be backed-off and recovered.
+       Both stretch and torque readings are required to make absolutely sure the pipe is free. The pipe may
+      be free in torque but not in stretch, e.g. when a stabiliser has a rock lodged above it.
+
+       Careful and thorough interpretation of the free point indicator results has to be made. The most
+     common fault is not to take enough time to work the torque down to the measurement point. In the past
+      odd readings obtained when using FPI tools were blamed on the tool slipping in the pipe whilst the
+      measurements were being taken.   It is highly unlikely that the FPI tools are slipping inside the pipe, if
+       the anchors are deployed and there is sufficient cable slack.
+
+5.1   Examples in Interpretation of Different Hole Geometries
+
+      The following diagrams illustrate the hole conditions and the stretch and torque readings of typical FPI
+       runs to determine the free point.  If the stretch and torque readings are 80 - 85% of free pipe, back-off, if
+       performed correctly, is certain.
+
+       For a successful back-off 3 conditions are absolutely essential:
+
+        a)  Neutral Weight at Connection to be Backed Off
+
+           This weight has to be carefully calculated accounting for hole friction or as observed using FPIT
+             tools (see page 15, para. 7.8).
+
+        b)  Correct Amount of LH Torque at Connection to be Backed Off
+
+          Time has to be taken to work in the torque and positive indications observed that the torque is
+           going downhole and being applied to the connection to be backed off. When taking the initial
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  6 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+             stretch and torque readings to determine the free point, an indication will have been gained as to
+           the degree of difficulty in getting torque down to any particular connection.   If the pipe can be
+           torqued up to the right, then the pipe can be torqued to the left to the same degree. (For the back-
+               off, LH torque should not exceed 80% of the make-up torque.)  In top-drive units, rig up wireline
+           through gooseneck bull plug access or remove gooseneck and washpipe. Working pipe to get LH
+            or RH torque down to the free point is far easier and more safely done with the top-drive connected
+             to the drill string.
+
+        c)  Correct Quantity of Primer Strands for Back-Off Explosive
+
+           Figure 6 on page 18, indicating the correct quantity of primer chord to be used, should be referred
+             to when making up the explosive charge.
+
+      The following 4 stuck pipe examples give an idea how difficult  it can be to accurately interpret FPI
+       readings in both stretch and torque. Care should be taken when carrying out the initial FPI readings.
+      They can give a good indication of hole drag and the ability to transmit torque downhole.  This is
+        essential when selecting the correct neutral weight prior to backing off the joint. The temptation to
+       attempt to back-off 1 or 2 joints below the identified free point should be firmly resisted.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  7 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+     FIGURE 1
+
+        Straight hole, straight pipe. Stuck in drill collars.
+
+
+                PIPE SKETCH                    PULL & TORQUE
+
+                                       % OF FREE PIPE READING
+                                 DEPTH
+                                                              0    10    20    30    40    50    60    70    80    90  100
+                                        PULL
+                                     TORQUE
+
+
+
+
+                          DRILLDRILL PIPEPIPE
+
+
+
+
+
+                          DRILLDRILL
+                        COLLARSCOLLARS
+
+
+                           BACK-OFFBACK-OFF
+                         HEREHERE
+
+
+
+
+
+                                                      VERY POOR            POOR   GOOD
+                                                               BACK-OFF CHANGES
+
+                                                                                                                           911208/3
+
+
+       Both stretch and torque readings confirm the stuck point is in the same drill collar. Where there is little
+        wall friction, a sharp drop-off in both readings is observed below the free point.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  8 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+     FIGURE 2
+
+         Differentially or stuck by heaving, sloughing formation.
+
+
+               PIPE SKETCH                    PULL & TORQUE
+
+                                       % OF FREE PIPE READING                                DEPTH
+                                                             0    10    20    30    40    50    60    70    80    90  100
+                                        PULL
+                                    TORQUE
+
+                   A                          BACK-OFFBACK-OFF
+                        HEREHERE
+
+
+
+
+                     B
+
+
+
+
+
+                   C
+
+
+
+
+
+                   D
+
+
+
+
+
+                                                     VERY POOR            POOR   GOOD
+                                                               BACK-OFF CHANGES
+
+                                                                                                                          911208/4
+
+
+      To stretch or torque the pipe becomes more difficult as depth below the free point increases. The FPIT
+       decreases rapidly below collar B, the pipe should be backed-off either at collar A or collar B.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  9 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+     FIGURE 3
+
+        Straight hole, bent pipe.
+
+
+               PIPE SKETCH                    PULL & TORQUE
+
+                                       % OF FREE PIPE READING                                DEPTH
+                                                             0    10    20    30    40    50    60    70    80    90  100
+                                        PULL
+                                    TORQUE
+
+
+
+                    COLLARCOLLAR AA
+
+
+                          BACK-OFFBACK-OFF
+                        HEREHERE
+                    COLLARCOLLAR BB
+
+                     FREEFREE POINTPOINT
+
+
+
+                    COLLARCOLLAR CC
+
+
+
+
+                    COLLARCOLLAR DD
+
+
+
+
+                    COLLARCOLLAR EE
+
+
+
+
+
+                                                     VERY POOR            POOR   GOOD
+                                                               BACK-OFF CHANGES
+
+                                                                                                                          911208/5
+
+
+            It is difficult to obtain normal torque readings in a badly bent string. Normal stretch and torque for this
+        string are read above collar B. Below collar B, stretch is normal but torque reading is decreasing with
+       increasing depth. Normal torque readings can often be obtained below collar B by applying an overpull
+      on the pipe.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  10 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+     FIGURE 4
+
+      Crooked or deviated holes.
+
+
+                  PIPE SKETCH                         PULL & TORQUE
+
+                                             % OF FREE PIPE READING                                     DEPTH
+                                                                    0     10     20     30     40     50     60     70     80     90   100
+                                            PULL
+                                        TORQUE      A
+
+
+
+
+
+                                                 B
+
+
+
+
+
+                                    C
+
+
+
+
+
+                          DD
+
+
+
+
+
+                   EE
+
+
+
+
+                   ATTEMPTATTEMPT
+                    BACK-OFFBACK-OFF
+               F     HEREHERE
+
+
+
+                                                             VERY POOR             POOR    GOOD
+                                                                       BACK-OFF CHANGES
+
+                                                                                                                                          911208/6
+
+
+        In deviated wells it is normally possible to transmit torque deeper than stretch. The torque reading is
+        often a function of the pull on pipe.  Generally best torque transmission is obtained at relatively low
+       values of pull. Some judgement must be exercised in what can be backed-off. While a back-off may at
+       times be made with less than 25% stretch reading, it is useless to attempt a back-off without a torque
+       reading of at least 50% of free pipe.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  11 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+6.    PRE-JOB PLANNING AND GENERAL DISCUSSION ON FREE POINT AND BACK-OFF
+     OPERATIONS
+
+6.1    Rig Floor Safety and Precautions
+
+      The following equipment should be checked to ensure a safe Rig Floor operation:
+
+        a)  Tong and slip dies. These must be sharp, clean and of the correct size to bite and hold the pipe,
+             kelly or whatever part of the string protrudes above the rotary.
+
+        b)  Tong snub lines and jerk lines. When a jerk line must be used to apply left-hand torque instead of
+          a reverse gear on the rotary, be certain that  it is in perfect condition and is long enough to allow
+            several wraps on the cathead with plenty of rope remaining to be easily handled. Snub lines on the
+           tongs should be double cables and in good condition.
+
+        c)   Slip handles. Tie the slip handles together with a strong piece of soft line. This is done because it
+               is possible for the pipe to break high when back torque is being applied.  If this should happen, the
+           pipe may part completely and jump due to the strain. The slips would be thrown clear and become
+          a dangerous projectile.
+
+        d)  Block, hook and elevator. When applying torque, the elevators should be latched around the pipe
+          and slacked off below the tool joint, so that the pipe can rotate freely through the elevators. The
+          hook is locked when the pipe is being rotated while sitting on the slips.
+
+        e)  Residual torque. Make sure that no residual torque remains in the string of pipe when it is picked
+          up out of the slips, unless it is being held by the tong.  If residual torque is present, it will spin out
+          and wrap up the logging line and hoisting equipment.
+
+6.2   Running FPI Tools and Interpretation of Collected Data
+
+     A BHA and drill string diagram is filled in Figure 7, page 20, with all troublesome hole areas highlighted.
+      The driller should be consulted as to the exact time and hole conditions when the string became
+         irretrievably stuck.  Highlight the hole geometry, particularly at kick-off depths and to make known the
+       borehole's past and present problem areas.
+
+6.2.1  Produce an assembly drawing with DC numbered.
+
+6.2.2  Make up tabulation as follows:
+
+
+                                                     Initial    Final
+                                            Pull      Pull   Meter %  RH/LH                  Meter %
+               Conn.               x 1000  x 1000   Points   Turns                    Points
+        Time    No.   Size  Depth     (lb)       (lb)    (Stretch)   Put In  Amps  Torque  (Torque)
+
+
+
+
+
+6.2.3  Always take tension readings prior to torque readings especially in deviated wells. For deviated holes,
+       both stretch and torque readings should be done to determine whether the pipe is free or not.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  12 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+6.2.4  The same overpull increment (normally 50,000 lbs) should be used when determining the free point at
+      each reading.
+
+6.2.5  Take two or more readings at the same spot by applying the selected weight increment without slacking
+          off. Each increment may not necessarily give the same reading.  In a deviated hole you will get low
+       reading bottom side - good reading centre of hole and decreasing again as string is pulled to top side of
+        hole.
+
+6.2.6  Tension should be worked down the string by applying the surface overpull determined to give the
+       required overpull increment at the tool depth, and then slacking off to the neutral weight at the tool
+       depth.  This should be repeated 4 or 5 times, until the FPI gives consistent readings. Make sure that
+       the total overpull applied when taking a reading is well above the string weight.
+
+6.2.7  As can be seen from the "Stretch reading scale" (page 21), the stretch reading is not a linear function of
+       the overpull.  This implies that larger overpull increments only give marginal increases in stretch
+        reading.  For example:  Stretch measure in HWDP at 50 lb/ft with a 50,000 overpull increment gives
+       according to the stretch chart a reading of 80 meter points.  This is the case in any weight range,
+       whether it be 100,000 lbs to 150,000 lbs or 300,000 lbs to 350,000 lbs.
+
+6.2.8    If the reading in the above case would actually be only say 65 meter points and one is certain that at
+         this point the string is free, then a line drawn on the chart from 50 lbs/ft pipe weight through 65 meter
+       points gives an actual overpull at this point of 30,000 lbs (refer to page 21).  This indicates the
+      importance of taking a calibration reading at a point in the string that is known to be free, in
+       order to get an idea of friction in the hole. Assume now that a stretch reading is taken in the drill collars
+       weighing 150 lbs/ft situated below the HWDP. When a 50,000 lbs increment is applied the actual
+        overpull is 30,000 lbs therefore a reading of 32 meter points can be expected if the string is free.
+
+      The calibration point should be in the same type of BHA component as that which is stuck - if the type
+        of stuck component is possible to determine.
+
+6.3    Working Torque Downhole
+
+      Note:
+        It at all possible rig up wireline tools and explosive charges through top-drive. It is far easier to transmit
+      torquedownholewhenworkingpipewithtop-drive.
+
+        1.  When the FPI tool is in the hole, careful consideration of the transmittal of RH torque will indicate
+          what Martin Decker weight range is the most efficient and how many turns at surface are
+            required to transmit any torque to the connection to be backed off.
+
+        2.   In STRAIGHT wells the weight of string to the back-off point can be calculated using various
+           parameters.
+
+                i.e.     i)   Weight of string in air to back-off connection.
+                                ii)  Weight of string in mud + 10%.
+                                 iii)  Recorded string weight up less the weight in mud of the pipe to be left in hole.
+                       iv) As indicated by the FPI.
+
+        3.  When working in left hand torque, the slack-off and pick-up weights should be adjusted to give the
+           best indications that the torque is being transmitted downhole.
+
+         Note:
+             Ifjarsstillworking,donotslackoffenoughweighttoenablethejarstorework.
+
+             a)  When the top-drive is used to rotate the pipe, careful monitoring of amps versus turns must
+              be done. Bear in mind the large power input of the top drive.  Start slowly with 2 LH turns
+              and work the pipe between 20k overpull and actual FPI or calculated MD weight at the
+                  neutral point. Monitor the drop-off in top drive motor amps as the torque is worked downhole.
+                             If amp drop-off is difficult to achieve, vary the slack-off and pick-up weights to achieve the
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  13 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+                 quickest response from the amp meter.  Patience is required,  it can take several hours to
+               work torque down to the free point, especially in deviated wells. Continue rotating the pipe
+              one turn at a time and working the pipe for each turn.
+
+             b)  When using the rotary table to rotate the pipe, strict adherence to safety considerations must
+              be done, as outlined in Section 6.1.  Initially rotate the string 2 turns to the left.  Adjust the
+                tong line on the back-up post to give maximum up and down travel. Have a torque line pull
+              gauge connected to the tong. Hold the torque in the string with the make-up tong and work
+                 the string initially as in a) above. Monitor the decrease in line pull ft.lbs and adjust the slack-
+                     off and pick-up weights to give the quickest response. Working the string with the Kelly or
+                 blocks has the disadvantage that only 4 ft to 5 ft of movement is possible due to the length
+              and travel of the tong line.  Again patience is required to complete winding in LH torque.
+             Good results have been achieved in the past after spending up to 2 hours on this operation.
+
+              c)  When the back-off charge has been fired, the minimum weight to work in additional LH torque
+                        is:
+
+                             i)  The recorded weight down less the weight of string to be left in hole.
+
+                               ii)  The weight that corresponds to the best torque response.
+
+        4.  The amount of reverse torque to be applied depends on the type, size, depth and condition of the
+           pipe and no firm rules can be given, but a general recommendation is as follows:
+
+                Drill Pipe from:
+
+              0' - 4000' (1200m)                   -  Use 1/4 to 1/2 round per 1000' (300m).
+
+           4000' (1220m) - 9000' (2700m)  -  Use 1/2 to 3/4 round per 1000' (300m).
+
+           9000' (2700m) - Plus                -  Use 3/4 to 1 round per 1000' (300m).
+
+          Max. surface torque to be 80% of DP make-up torque.
+
+        5.  When the position of the back-off has been decided, torque up the string to the right and work this
+           torque down. Record the amp reading or torque readings. Never exceed 80% of this figure when
+            giving the string left hand torque.
+
+        6.  Apply 2-3 turns of left hand torque, required for the back-off, and lock the rotary. Use a jerk line
+          and the rotary tongs, with tong gauge attached, to pull off the rotary lock and hold. Pick the string
+               off the slips and work the pipe vertically a few times, set pipe back on slips, pull tongs to relock the
+             rotary.  If it is felt that the pipe will accept the remaining left hand torque, apply it.  If not, then apply
+             half the remaining torque and repeat the above procedure until the required amount of left hand
+           torque is in the pipe.
+
+            Frequently, if LH torque is applied with the rotary table, the string breaks at an unintended position.
+             In this case, use the rotary to apply the first portion of the left hand torque, and complete the
+            operation, using the rotary tongs.
+
+        7.  Should the pipe back off uphole in casing, it generally does not damage the cable.  If, however, the
+           pipe backs off mechanically while cable is in the open hole, the pipe should be lifted up
+           approximately thirty feet and the tool pulled well above this point, before the connection is remade.
+
+6.4    Completing the Back-Off
+
+      The back-off refers to separating the free pipe from the stuck pipe at a threaded connection just above
+       the free point.  It is accomplished by placing an explosive charge across this connection by means of a
+       casing collar locator, while reverse or left hand torque is applied. When the charge is fired, the
+       connection "breaks".
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  14 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+      The three requirements for a successful back-off, in order of importance are:
+
+        1.  The explosive charge must be large enough to break the connection.
+
+         Note:
+        Too high a number of strands can damage the pin and box, thus preventing reconnection of fishing
+            jars.
+
+        2.   Sufficient reverse or left hand torque must be applied.
+
+        3.  The proper weight condition at the point of back-off must be obtained.
+
+      The back-off charge can be run immediately the FPI is pulled. With the potential for premature back-off
+       high up in the string, the charge is often run to ± 3000 ft (900m) above the back-off point whereupon the
+       remainder of the LH torque is applied to the string. In semi-submersible operations, the charge is run 1
+         joint below the connection to be backed off - this saves time when correlating on depths - less time for
+      heave conditions to deteriorate.
+
+        After the string shot has been detonated, recover the charge and check for back-off.   If the required
+       connection has not backed-off completely at this point, then further LH torque can be applied to fully
+      unscrew the thread as follows:
+
+       Reset the string weight as required.
+
+            i)   Apply approximately half of the original amount of left hand torque used to the pipe.  While the
+           torque is being applied, the pipe should back off as evidenced by a loss of torque load.   If not,
+           release the left hand torque, noting any loss of torque in the process.
+
+             ii)    If the torque was lost, repeat the above process until the back-off is complete.
+
+              iii)  When no torque is lost during the process, the weight is usually not correct.  Slowly adjust the
+           weight up or down while checking the tong line. At the correct weight, the torque load will relax.
+
+          iv)  After a total back-off,  if desired, check the depth of the parted pipe by pulling the pipe 5 to 10 ft
+           (1.5m to 3m), setting the slips and checking the point of back-off with the collar locator, but in the
+          case of differential sticking, keep pipe moving at all times.
+
+7.    OPERATIONAL PROCEDURE FOR RUNNING FPI TOOLS
+
+      Complete BHA sheet, Figure 7.
+
+7.1    Lock swivel and blocks.
+
+7.2       If drilling jars are not stuck, uncock same. For the complete operation do not go below slack-off weight
+       required to re-cock jars.
+
+7.3    Complete surface checks on FPI tool outlined in Section 4.
+
+7.4   Run FPI tool into drill pipe. Depending on the installation the tools can be introduced into the drill pipe
+         in several ways as illustrated in Figure 10.
+
+        a)  Top-drive or Kelly. Remove bull plug on top of gooseneck or remove complete gooseneck/
+          washpipe assembly.
+
+         Note:
+             Install wireline protector into washpipe entry area. If none available, fabricate same. Be extra
+           carefulnottodropdebrisdownstring!
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  15 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+        b)    If the rig is equipped with long casing links, the cable and IBOP equipment can be rigged up as
+              illustrated in Figure 10.
+
+         Note:
+       When running FPI, it is not necessary to compensate the cable for vessel heave. Once the
+          anchoring mechanism has been deployed, the cable is slacked off 10 - 15 feet to compensate for
+          vesselmovement.
+
+7.5       If the string is stuck below the jars, calibrate the tool in the collar above jar (Ref. 6.2.8). From the
+        calibration run,  if free pipe gives a meter reading of 85%, then an estimation of hole friction can be
+      made. This is important later on in the back-off operation when the neutral weight has to be found for
+       the connection to be backed off.
+
+7.6     Position the FPI tool in mid-joint and deploy the anchoring mechanism.  Take stretch readings from
+        neutral weight in area of interest with 50K overpull increments.  Continue taking stretch readings and
+       ascertain at what depth stretch is good or bad. To save time,  if the jars are free, the first stretch
+      measurement should be taken above and below the top stabiliser.
+
+7.7   When the stretch is deteriorating, take torque readings to confirm stretch. One RH turn per 1000 ft to
+       the point of interest is made. The torque may have to be worked down. With the SIT C and F tools,
+         this is a disadvantage as these tools cannot differentiate between stretch and torque. The following
+       technique can be done to determine whether torque can be transmitted downhole and can be
+      measured by the SIT C and F tools.
+
+        a)   After stretch measurements, with 5-10K overpull on string, set FPI tool in mid joint.
+
+        b)  Put all RH turns into pipe.
+
+        c)  Set meter on SIT panel to 80 meter points (full scale deflection).
+
+        d)  Watch the meter.   If the reading decreases,  it means the torque is coming out of the pipe, thus
+           torque is being transmitted to that point, i.e. the pipe is free.  This is an excellent indicator in
+           gauging how easy or difficult it will be to put LH torque into the string for the back-off.
+
+7.8    The neutral weight can be determined with the FPIT before pulling the tool as outlined below.
+
+        In deviated wells, it is often impossible to calculate the correct weight to pull to ensure neutral weight at
+       the connection to be backed off. Buoyancy, friction in the hole and weight of pipe laying on the low side
+          will have an indeterminate effect upon the calculated and actual Martin Decker pull required. A more
+       accurate method of determining neutral weight in deviated holes is to measure the neutral weight
+         directly with the FPI tool:
+
+        a)   Instruct the driller to compress the pipe with 50,000 lbs below the estimated neutral weight at the
+             tool depth. (Do not go below weight which will cock jars.)
+
+        b)  Set the FPI tool.
+
+        c)   Instruct the driller to pick up in 10,000 lbs steps.
+
+        d)  Record all FPI readings on the worksheet and plot them out as in Figure 5.
+
+        e)  The neutral weight is halfway between the first FPI deflection and the point where the increase
+         becomes clear.
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  16 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+
+
+
+                                         Curve Becomes
+                                                    Linear                                                                                FPI Response
+
+
+
+
+
+                                            Neutral
+            FPI                             Point
+          Reading
+
+
+
+                          FPI Response
+                           Begins
+
+
+
+                                                                    Drill Pipe Tension
+
+                        FIGURE 5
+
+
+
+            It should, however, be understood that even maximum string tension would result in an overpull at a
+        neutral point that is small in comparison to the parting force produced by a back-off explosion. As a
+       general rule, when attempting to position the neutral point err on the side of overpull rather than
+      compression, thereby limiting the potential for a connection above the required back-off point
+        preferentially parting. By careful observation of the tool readings the free point indicator can indicate
+        pulls and torque required to overcome friction.  It is, therefore, essential the Drilling Supervisor is in the
+       logging cabin to record and observe the behaviour of tension and torque indicators.
+
+8.    RUNNING THE BACK-OFF CHARGE
+
+      See Section 0160/GEN : Use of Explosives in Drilling Operations.
+
+       With the FPIT, a back-off charge can be run in tandem.  However, this is not recommended for the
+        following reasons:
+
+        a)  6 strand maximum to be run, only good for tubing and 5" drill pipe.
+
+        b)  The CCL and FPIT mechanism can get damaged.
+
+        c)    If the tool was dressed to anchor inside 5" pipe and this pipe was subsequently found to be free, in
+            order to make measurements inside drill collars, the FPIT has to be pulled from the well to change
+            the arms. A potentially hazardous operation to remove a live charge above the rotary table has
+         now to be carried out.
+
+            If a TANDEM FPIT run and back-off charge is required, then the following table of depth versus pipe
+        size can be used:
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  17 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+      PipeDiameter    Depth     PrimerChord
+
+       5" 19.5 lbs/ft         8000'       6 strands max.
+       5" HWDP           5000'       6 strands max.
+       8" DC               3000'       6 strands max.
+
+      Note:
+     The mechanical arms of the FPIT cannot be deployed prior to firing the back-off charge. The build-up
+      ofLHtorquecanbeobservedwiththeFPITpriortofiringthecharge.
+
+8.1    Torque up the string fully to the right to the maximum of the drill pipe in use. Work in the RH torque.
+       This may take a considerable time to do properly. Watch the ammeter and the MD weight indicator and
+       observe if torque is being transmitted downhole.
+
+8.2   Arm the back-off charge with primer chord as per Figure 6.
+
+8.3     In floating operations to compensate for vessel heave, when running the back-off charge, an extra long
+        carrier strip of primer chord can be used.  This will ensure the explosive force is focussed at the
+       connection. To increase accuracy, the electric line can be partially compensated for vessel heave by
+       rigging up the lower wireline sheave to the stuck pipe as illustrated in Figure 10, page 24.
+       Approximately 80% of vessel heave is accounted for using this rig-up.
+
+8.4   Run below stuck point and tie in with the CCL.
+
+9.    APPLYING LEFT-HAND TORQUE TO CONNECTION TO BE BACKED OUT
+
+      The 2 most important considerations for a successful back-off as mentioned previously are:
+
+        a)  Correct neutral weight at connection to be backed off; and
+        b)   Sufficient applied LH torque at that connection.
+
+      The following technique should be used to transmit torque downhole. See Section 6.3 for top drive or
+        rotary table applications.
+
+9.1    Rotate the string 2-3 turns to the left with 5K overpull at the stuck point.  Quickly drop the brake
+       catching the string with the weight on top of the stuck point.  It may be necessary to slack off weight to
+        less than the neutral point of the string.  This action will initiate the LH torque downhole.  Continue
+       working in LH torque more slowly now with 1 turn at a time.  (Do not exceed 80% of the make-up
+        torque. This will ensure that a connection further up the string will not back off.) Work the string every
+        turn with 20K overpull and 40K downweight on the stuck point.
+
+       Hold the torque in the string with a tong line which has a gauge installed. As the string is being worked
+       the gauge will indicate the drop off in surface torque  if the torque is being worked downhole. The
+      amount of weight to overpull or slack-off when working the string can only be judged by noting how
+        quickly the torque is going downhole. There are no fixed overpull or slack-off weights to quote in order
+        to best work the torque downhole. Each hole is different and by careful observation of the Martin
+      Decker and tong-line gauges the optimum weights can be found.
+
+      The string must be worked carefully, it may take several hours to work in the torque to the stuck point.
+      The time taken to do this operation will be more than repaid with a successful back-off.
+
+      Note:
+    Donotslack-offenoughweighttorecockjars.
+
+9.2    With the correct amount of LH torque in the string, set correct neutral weight at joint to be backed out.
+       Careful attention has to be given to selecting the correct weight.  Most unsuccessful back-offs are
+      caused by incorrect neutral weight.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  18 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+9.3    Position back-off charge against tool joint to be broken out.  Note that wireline is not snagged or
+       trapped against derrick structure or in travelling block assembly.
+
+9.4    Check with driller on heave and make an allowance for this. The back-off charge can be made longer
+        to accommodate covering more than the length of the combined tool joints. This will allow a small error
+         in depth due to the vessel's heave. (The length of primer does not affect the explosive strength. The
+      number of strands is the governing factor on the force of the explosion.)
+
+9.5     Fire back-off charges.   If the charge has gone off, surface indications include possible loss of CCL
+         circuit and increase in cable tension. The driller should see a reduction in surface torque. The pipe
+       should not spin back at surface as all the torque will be lost downhole if the back-off is successful.
+
+9.6   To confirm joint has backed off at the correct place and if CCL is working, pull cable back to the next
+       connection above back-off point.
+
+9.7      Lift string carefully and check for overpull.   If joint has not fully backed out, work string up and down-
+       pipe may "pop" out of threads.  If unsuccessful, gently turn in a few more LH turns and work string.
+
+9.8   When pipe is free, pull electric cable. Work drill string and if possible circulate through pipe.
+
+     FIGURE 6  - Primacord Shot Strength
+
+
+                 Depth from Surface   0     3000'   6000'   9000'          Number of 80 gr/ft RDX
+                                       (feet)     to        to        to        to     Over
+       PIPE OD (inches)              3000'   6000'   9000'   12000'  12000'    primacord strands to be
+
+        Tubing    2-3/8               1      1      1      2      2      used according to depth
+                    2-7/8                                   1      1      2      2      3                    3-1/2                                               and  pipe  size.   Chart
+                4 to 4-1/2           2      2      2      3      3
+                                                                assumes specific gravity
+            Drill       2-3/8 to 2-7/8        1      2      2-3     3-4     4-6
+                                                              mud 1.2 - well full. Where        Pipe      3-1/2 to 4           2      3      3-4     4-6     5-8
+                    4-1/2 to 6-9/16       2      3-4     4-6     5-9     6-12                                                                            two values are shown, the                    6-5/8               3      4-5     5-7     6-10    7-14
+                                                                           higher  value  indicates            Drill       3-1/2 to 4            2-4     2-5     3-7     3-8     4-9
+          Collar     4-1/8 to 5-1/2         2-4     3-6     4-8     4-10    5-12                                                            maximum explosive load
+                    5-3/4 to 7            3-6     4-8     5-10    6-12    7-15
+                    7-1/4 to 8-1/2         4-6     5-9     6-12    7-15    8-18     which normally  will not
+                    9-3/4                         -15
+                                                            damage pipes in heavy
+        Casing    4-1/2 to 5-1/2        3      3      3      3      3
+                6 to 7               3      3      3      4      4      mud - these high loads are
+                    7-5/8               4      4      4      4      5
+                    8-5/8               5      5      5      5      5       hard on CCL, head and
+                    9-5/8               5      5      5      6      6
+                   10-3/4              6      6      6      7      7        weights.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  19 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+10.   DEVIATED HOLE BACK-OFF
+
+       Example:
+
+       Beatrice Platform A15 (Slot 13), angle 60°.
+
+
+                                                       Initial    Final
+                                              Pull      Pull    Meter %   RH/LH                    Meter %
+              Conn.                 x 1000  x 1000   Points    Turns                      Points
+        Time    No.    Size   Depth      (lb)       (lb)    (Stretch)   Put In  Amps   Torque   (Torque)
+
+                 9    9 1/2   3992     100     150       0       3 1/4    740    20000      6
+                                      150     200       1
+                                      200     250       3
+                                      250     300       4
+
+                 8      8     3959     100     150      30      3 1/4    740    20000      24
+                                      150     200      36
+                                      300     250      34
+                                      250     300      27
+
+      Back off connection at 3959 ft.
+
+       Weight for back-off 155,000 lbs.
+       Primacord used = 17 strands.
+        Left hand turns in = 3 1/4.
+
+       Back-off was successful.
+
+       155,000 lbs represents weight of string in mud and blocks and 10,000 lbs overpull.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  20 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+FIGURE 7
+
+                                    DEPTH   BEFORE STUCK
+
+                HWDP 15 JTS                3225   WT UP                  185,000
+    2.32              X/O                        3672    ROT WT                 135,000
+   31.05                1 x 8" DC                    3675   WT DOWN              100,000
+
+   30.10              JARS                       3706    BLOCKS                35,000
+                                                   3736    KELLY                  15,000
+
+                                                         DP-1                    62,887
+                                                         DP-2                    22,350
+  123.16                4 x 8" DC                                8" DC                    43,050
+                                                                  9" DC                    63,000
+
+                                       MUD WT                  9.3 PPG
+                                          BUOYANCY FACT       0.857                                                   3859
+    6.30                12 1/4" STAB                3865    BUOYANCY WT         163,933                                                     + BLOCK                198,932
+
+
+   92.52                3 x 8" DC                         JARS COCK             90,000
+                                                   JARS OFF               200,000
+
+                                              MAX. DEV.              60°
+    3.15              X/O                        3959
+                                                   3962
+   30.39                9 1/2" DC STEEL
+    6.80                14 3/4" STAB                3992
+                                                   3999
+   29.98                9 1/2" DC STEEL
+                                                   4029   14.35            SHOCK SUB                                                   4043
+   30.72                9 1/2" DC STEEL
+    6.35                                            4074
+                                                   4080
+                       9 1/2" MDC
+   59.59                                            4110
+                       9 1/2" MDC
+                 TOTCO RING
+    6.92                17 1/2" NM STAB             4140
+   35.37             TELECO TOOL
+    2.30                PIN-PIN X-OVER
+    6.51                17 1/2" STAB
+   28.35                9 1/2" MDC
+    8.51           MONEL PUP
+    2.30              STEEL SUB
+    7.38                17 1/2" STAB
+    5.47              STEEL PONY
+    7.85                17 1/2" ROLLER REAMER
+
+                                                                                                                                         2179/2
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  21 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+FIGURE 8
+                  STRETCH CHART FOR STEEL PIPE
+
+                                                                 PIPE BODY WEIGHT
+    DRILL PIPE - DRILL COLLARS - TUBING - CASING                    LBS / FT
+                                                                                 1               ADDITIONAL PULL
+                     LBS
+                                                                                               1.5
+
+                                                                                 2
+                                300,000            SIT-D or SIT-F
+
+                                                                                 3
+
+                                                                                 4
+                                100,000                                                                                 5         THIS IS WHY              PIPE STRAIN             SIT                                 80,000            50,000 LBS                           umm = 10 -6 ft     METER READING    6
+        INCREMENTS                       ft = 10 -4 mm          'STRETCH'
+        ARE USED         60,000                     800                           8
+        TO TAKE          50,000                     600                                                                           100                   10        STRETCH                                       500                                 40,000                     400        READING                                                                  300
+                                 30,000                            90 BECAUSE RESPONSE                                                                  200                                         NON LINEAR TOOL
+                                                                          80 CALIBRATION      20
+                                 20,000                     100    NORMALLY 80
+                                                                   80      70
+                                                                   60      60                    30                                                                   50
+                                                                   40      50
+                                                                                40                                                                   30      40                                 10,000
+                                                                   20      30                    50
+                                 8,000                                                        E.G. H.W.D.P.                                                                           20                    60                                                                                             50 LBS / FT
+                                 6,000                       108      15                    80
+                                 5,000                        6      10
+                                                                    5      8                    100
+                                 4,000                        4      6
+                                                                    3
+                                                                           2
+                                 3,000                        2                                    D.C. 150 LBS / FT
+                                                                           2                    200
+                                 2,000                        1
+
+                                                                               300
+
+                                                                               400
+                                 1,000
+
+                                                 e        P          -5                         PIPE STRAIN,    = .1133     x 10 m / m, ft / ft, OR IN / IN
+                                 L    W
+                          WHERE:  P = ADDITIONAL PULL IN LBS
+              W = WEIGHT PER LINEAR FOOT OF PIPE BODY, LBS / FT
+                                           e                                    = ELONGATION / UNIT LENGTH
+                             L
+              SPACING BETWEEN CENTRALIZERS SIT-D 1560mm x 6' 3" SIT-F 1525mm = 60"
+
+
+                                                                                                                                       2179 / 3
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  22 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+11.   MAKING UP A PRIMACORD BUNDLE ON UNIJET WIRES
+
+          •    Install Unijet wires 10 ft (3m) long in adaptor head and tape together each six inches.
+
+          •   Lay the first primacord strand, which will later be connected to the detonator, along the length of
+            the Unijet wires and hold in place at a few points with a wrap of 3/4" plastic tape.
+
+          •    Build up the required number of strands into a neat triangular bundle around the number 1 strand
+          as shown below.
+
+
+
+
+
+                                                                         1
+                                1
+
+
+                                          Attach this strand
+                                                 to blasting cap
+
+         Make-Up of Primacord on Unijet Wires
+
+      Keep strands parallel without twisting, staggering the bends at top and bottom.  Alternatively, the
+       strands may be out to length and booted with P-33 771 primacord boots at both ends.
+
+          •   Tape and string tie the bundle at top, bottom and a few intermediate points.
+
+          •   Cut primacord at lower end and install a blind boot.
+
+          •   Tape the whole bundle once, half lapping the friction tape.
+
+          •   Retape over ends, avoiding excessive use of tape which may plug the bit or hinder subsequent
+           descent. String tie ends top and bottom.
+
+            If the shot has been prepared and subsequently not run, the primer chord is scrapped and is never run
+        twice.
+
+12.   MAKING UP PRIMACORD BUNDLE ON A SHOT BAR
+
+          •    Install a 7 ft (typically) long shot bar to the wireline adaptor head.
+
+          •   Lay the first primacord strand, which will later be connected to the detonator, along the length of
+            the shot bar. Hold it in place at a few points by a few wraps of plastic tape.
+
+          •   Attach the required number of strands around the bar, each additional strand next to the previous
+            strand.  If the circumferential area is covered, a new layer should be started.
+
+          •   Keep strands parallel without twisting. Bend round or cut the strands to the correct length.
+
+          •   Tape and string tie the bundle at top, bottom and a few intermediate points.
+
+          •   Attach the detonator cap to the first strand and cover with rubber boot. Tape and tie both ends.
+
+          •   Tape the whole bundle once, half lapping the friction tape. String tie at both ends.
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  23 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+FIGURE 9
+
+                  1 3/8 " O.D. UNI-SYSTEM BACK-OFF ASSY. DATA SHEET
+
+
+            111/16" ASSY.               1 3/8 " ASSY.
+
+
+
+
+
+                    CCL-L             CCL-N
+
+                              P. 186792
+                         1 11/ 16" TO 1 3/8 "            P. 30487
+                  ADAPTOR
+                                                         P. 186470 - 1 3/8 "ADAPTOR
+                                         (SUPPLIED WITH PIN)
+
+                          B. 18272 - B. 15810 -                                                         P. 190048 - ADAPTOR CLAMP                SCREW &
+                WASHER
+                                                           APPROX
+                    4"                  B-73760
+                                     PRESSURE TIGHT CAP
+                                                               RECOMMENDED                                                           BUNDLE             PRIMACORD BUNDLE -
+                                      STRING TIE EACH 6"                 10"      5"
+                    TO
+                    4"
+                                                   P-190048
+                                    ADAPTOR CLAMP
+                       B. 18272 -
+                       B. 15810 -
+
+                                              1 3/8 " (REF)
+               P. 186786 BOTTOM NOSE
+           (SUPPLIED WITH PIN)
+
+
+                         OPTIONAL WHEN
+                         CENTERING NEEDED
+
+
+
+
+                                                                                                                                                      2179 / 69
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 24 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6150/GEN
+
+                                                                  Rev.         :  5 (10/92)
+      DRILLING MANUAL     Page        :  24 of 24
+
+SUBJECT:  FREE POINT DETERMINATION AND BACK-OFF PROCEDURES
+
+   FIGURE 10                                  Crown          TOP-DRIVE(or KELLY)         Crown
+                                  Sheave                                            Sheave                                    CONNECTED TO
+                                    STUCK PIPE FOR   STUCK PIPE SUPPORTED                                    BACK-OFF OPERATION :     BY ELEVATORS FOR                                    PARTIALLY COMPENSATED        FREE POINT
+      MEASUREMENTS
+
+                                                                              Travelling
+                                                                Assy
+
+             TOP
+              DRIVE                                                                      Hook               UNIT
+
+
+                    "Bicycle"
+                 frame to
+                 route cable                                                                                   Swivel                     into APE
+
+
+                                                      For Wireline Entry,
+                                                remove Gooseneck
+                                                              Bullplug, or complete
+                                               Gooseneck Assembly
+
+
+
+                          Long Links
+                                                          Top Drive
+                                                                                   Quill Shaft
+
+                                        Bell Line
+                                 Wiper
+                                                  - can hold                      Upper IBOP
+                              2000 psi
+      IBOP                                                            Lower IBOP
+
+                                                                Saver Sub
+    Side Entry
+      Sub
+
+
+                                                                                       Sheave
+      IBOP                                                                                                       fixed to
+                                                                                                 Stuck Pipe
+                                                                  Stuck Pipe
+                                Sheave
+     Elevators                                          fixed to                                                      Dog Collar
+                                                   Drill Floor                                                       Logging                                                           Clamp    Stuck Pipe                                       Logging                                                                                                                  Unit
+                                                              Unit
+                                                 Drill Floor                                          Drill Floor
+
+

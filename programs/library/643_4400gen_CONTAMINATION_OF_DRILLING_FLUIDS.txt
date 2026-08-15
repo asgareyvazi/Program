@@ -1,0 +1,344 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4400/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  1 of 6
+
+SUBJECT:  CONTAMINATION OF DRILLING FLUIDS
+
+1.    CONTAMINATION OF DRILLING FLUIDS (Water Based Muds)
+
+       Contamination of the mud is a steady process while drilling, as drilled solids are continually entering the
+      mud.  While much of the drilled solids are inert, there are certain materials which can cause severe
+       chemical and physical problems. Contaminants will tend to become apparent more quickly with lightly
+        treated muds such as gel/polymer muds rather than with highly treated gyp-lignosulphonate muds. Any
+       contamination should be treated immediately, so careful and frequent checks should be kept on the
+        actual mud properties. Advance treatment to prevent contaminants affecting the mud can be made if,
+         for example, a complete geological prognosis is available or when drilling out cement. Whenever the
+     mud has been contaminated and a cure is required, careful pilot testing should be carried ou;t before
+        treating the complete mud system.
+
+2.    CARBONATE/BICARBONATE
+
+       Carbonate and bicarbonate are probably one of the more unrecognised contaminants.   It is usually a
+       gradual contamination resulting in increased gel strengths and yield point.  This can be incorrectly
+       diagnosed as increased solids resulting in costly treatments.
+
+        Prior to discussing contamination by these ions, it is important to understand the concept of alkalinity.
+     When a pH measurement is made, the value obtained can be due to a variety of ions, such as
+       hydroxide, carbonate bicarbonate and even anionic polymers such as CMC and lignosulphonate. Thus
+      a pH measurement is insufficient to define the alkalinity of the system. Pf and Mf measurements must
+       also be made. A pH of 9.5 may be obtained which could be thought to be adequate. However, this
+       could be derived from a mixture of carbonate and bicarbonate with no hydroxide alkalinity.  Since
+       lignosulphonate requires hydroxide to function, this could present severe problems.
+
+      The effect of alkalinity type and its effect on mud rheology is presented below:
+
+        a)  Hydroxide only                 -  Mud stable and in good condition.
+
+        b)  Hydroxide & Carbonate     -  Mud stable and in good condition.
+
+        c)  Carbonate & Bicarbonate   -  Stable but difficult to control.
+
+        d)  Bicarbonate only              -  Unstable and very difficult to control.
+
+       Carbonates can be derived from:
+
+        a)  CO2 from drilled formations.
+        b)  Thermal degradation of organic additives.
+
+        c)  Overtreatment with soda ash or bicarbonate of soda.
+
+        d)  Carbonate formations.
+
+     When CO2 enters water,  it forms carbonic acid.  With increased pH,  it forms bicarbonate and with a
+        further increase it converts to carbonate.   It must be stressed that these are equilibrium reactions and
+        that carbonate and bicarbonate can co-exist at certain pH.
+      H2 CO3       H+ HCO–3       2H+ + CO23–
+       Generally, CO2 dominates below pH 6.3 and bicarbonate in the range 6.3 - 9.4 with carbonate
+       predominating above 9.4.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4400/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  2 of 6
+
+SUBJECT:  CONTAMINATION OF DRILLING FLUIDS
+
+2.1    Carbonate Detection Methods
+
+2.1.1   Pf/Mf
+
+       This relies on the ratio of Pf/Mf and the general rule is:
+
+       Pf    =   O     Alkalinity due to bicarbonate only.
+       Pf    =     Mf    Alkalinity due to hydroxide only.
+       2Pf   =     Mf    Alkalinity due to carbonate only.
+       2Pf   = >   Mf    Alkalinity due to carbonate and hydroxide.
+       2Pf   < =   Mf    Alkalinity due to carbonate and bicarbonate.
+
+      then
+
+       Carbonate concentrationif hydroxide present is:
+
+       [Mf - Pf] x 1200 ppm
+
+       Carbonate concentrationn if hydroxide absent is:
+
+       Pf x 1200 ppm
+
+       Bicarbonate concentrate
+
+       [Mf - 2Pf] x 1220 ppm
+
+       Hydroxide concentration
+
+        [2Pf - Mf] x 340 ppm
+
+       This is a very unreliable method as it takes no account of alkalinities other than carbonate/bicarbonate
+      and hydroxide. The Mf measurement is also very difficult, particularly in lignosulphonate treated muds.
+
+2.1.2  P1/P2
+       Procedure:
+
+      To 1cc filtrate add 24cc water.
+        Titrate to pH 11.4 with 0.1M NaOH.
+      Add 2cc of 10% Barium carbonate.
+        Titrate to phenolphthalein end point with 0.02N H2SO4.
+      The volume of 0.02N H2 SO4 = P1
+      Repeat above procedure using 25cc distilled water with no filtrate.
+
+      The volume of 0.02N H2 SO4 = P2
+            If P2 > P1  No Hydroxide present
+            If P1 > P2  No Bicarbonate present
+        Calculation
+
+            If P2 > P1
+        [Bicarbonate]  =  1220 (P2 - P1) ppm
+       [Carbonate]   =  1200 x Pf ppm
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4400/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  3 of 6
+
+SUBJECT:  CONTAMINATION OF DRILLING FLUIDS
+
+            If P1 > P2
+       [Hydroxide]   =  340 (P1 - P2) ppm
+       [Carbonate]   =  1200 [Pf - (P1 - P2)] ppm
+       This method gives more accurate results than the Pf/Mf method, however  it is difficult to obtain
+       reproducible results.  This is thought to be due to localised regions of low pH due to rapid titration
+        resulting in barium carbonate going into solution and giving off CO2.
+2.1.3   Garrett Gas Train
+
+       This is the most accurate method, however  it gives carbonates/bicarbonates in terms of total
+       carbonates. A level of 300 - 500 ppm is considered background in this test. Levels of 600 - 800 ppm
+       could cause problems with levels in excess of 1000 ppm causing severe problems.
+
+2.1.4  Treatment
+
+            If carbonates are suspected, maintaining a pH in excess of 10.0 will ensure that very little bicarbonate
+        exists.
+
+        a)  Increase pH to 9.5 - 10.0 with caustic.
+
+        b)  Add lime at 0.043 ppb per 100 ppm carbonate.
+
+        c)    If the required treatment for lime exceeds 0.5 ppb, treat with gypsum.
+
+            0.1 ppb gypsum will treat 100 ppm carbonate.  Whilst treating with gypsum, caustic additions will
+          be required to maintain pH.
+
+      Notes:
+
+      a) Whenaddinglimeorgypsum,themudwillbecomeveryviscousiflargetreatmentsaremade.
+
+       TREATMENTS ARE BEST MADE THROUGH A CHEMICAL BARREL AND SHOULD NOT
+       EXCEED0.5PPBOVERA6HOURTREATMENTPERIOD.
+
+      b) In the mud manuals, various concentration terms may be used such as EPM. To convert to ppm,
+         theprocedureis:
+
+      PPM = EPMxEqWt
+
+        WhereEPM = Equivalentpartspermillion.
+
+         TableI
+
+          EquivalentWeightsofVariousCompounds
+
+          Compound  Eq Wt
+            Carbonate     30
+             Bicarbonate    61
+             Hydroxide      17
+
+           Concentrationofbicarbonateaslowas250ppmcancauseproblems.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4400/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  4 of 6
+
+SUBJECT:  CONTAMINATION OF DRILLING FLUIDS
+
+      c)  In areas where carbonate contamination is known to be a problem, the pH should be maintained
+          withcausticandlimeintheratio2canscausticto1sklime.
+
+3.    CEMENT
+
+       This is contamination from calcium hydroxide which can result in severe thickening and increased fluid
+        loss. The severity of the problem will depend on the level of pre-treatment and thinner concentration in
+       the mud. In a highly treated Lignite/Lignosulphonate system, the viscosity may actually dro as the clays
+      go to an aggregated/de-flocculated state rather than a dispersed/flocculated state on the introduction of
+       cement.
+
+3.1   Cement Contamination Recognition
+
+     When cement is introduced into a mud, chemical tests should reveal the following:
+
+        a)  An increased pH.
+        b)  Increase in Pf and calcium.
+        c)  A large increase in PM.
+
+3.2    Treatment for Cement Contamination
+
+        a)   Prior to drilling out a shoetrack, pre-treat the mud with 2 - 4 sx of sodium bicarbonate.
+
+        b)  Treat cement contamination at the rate of:
+
+           0.15 ppb sodium bicarbonate/100 ppm calcium.
+
+         Note:
+
+             If sodium bicarbonate treatment levels are based on filtrate calcium only, an incorrect treatment
+           level will be obtained. This is because the majority of the cement will stay in suspension rather
+          thangointosolutionduetothehighpH.
+
+       Toobtainthetotalcalciumlevel,thefollowingprocedureshouldbeadopted:
+
+             i)  To10cm3 mud,add90cm3 distilledwater.
+
+               ii)  Titratewith0.1NH2 SO4 toapHof7.5-8.0.
+                iii) Continuemixingfor2minstoensurenopHrise.
+
+            iv)  Filtertheslurryonthestandardfilterpress.
+
+         v)  Titrate10cm3 offiltratewithstandardversenate.
+
+             Calcium = Titrex400.
+
+        c)  When large quantities of cement are drilled, it may not be practical to treat out the contamination
+          due to the large concentrations of bicarbonate required.  In this case, additions of caustic and
+            lignosulphonate should be made and the mud converted to a low-lime system.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4400/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  5 of 6
+
+SUBJECT:  CONTAMINATION OF DRILLING FLUIDS
+
+4.    SALT CONTAMINATION
+
+            If salt enters the mud, gellation and increased fluid loss will occur.
+
+4.1    Salt Contamination Recognition
+
+        a)  Increase in chlorides.
+        b)  Decrease in pH.
+        c)  Decrease in pf.
+
+       There is no effective treatment except to convert to a salt saturated system.
+
+5.    CALCIUM SULPHATE
+
+       This occurs whilst drilling anhydrite (CaSO4) and will result in flocculation with an increase in yield point,
+        gel strengths and fluid loss.
+
+5.1   Gypsum Recognition
+
+        a)  Increase in filtrate calcium.
+        b)  Decrease in pH.
+        c)  Decrease in pf.
+
+5.2    Treatment
+
+      The contaminant should be treated with sodium carbonate at the rate of:
+
+         Soda Ash 0.09 ppb/100 ppm calcium
+
+       This treatment should be combined with chrome-free lignosulphonate.
+
+      Note:
+      a)  If large amounts of soda ash are added, the soluble sulphate may cause "ash gels" which are high
+           progressivegelstrength.
+      b)  Iflargeamountsofanhydritearetobedrilled,itisbesttoconverttoagypmud.
+
+6.    HARDNESS
+
+      Hardness in water is due to calcium and magnesium ions. Increasing the pH to 10.5 will precipitate out
+      magnesium as magnesium hydroxide. Calcium should then be treated with soda ash at 0.09 ppb/100
+     ppm calcium.
+
+7.    HYDROGEN SULPHIDE
+
+     A detailed discussion on hydrogen sulphide contamination can be found in BPX HS&E Regulations.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4400/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  6 of 6
+
+SUBJECT:  CONTAMINATION OF DRILLING FLUIDS
+
+
+                                                         lbs/bbl)
+                to                     (in       Contaminant
+                     AddAgentppm                                                                                                                                                                                                       lb/bbl/ppm              to 1      lb/bbl/ppm      lb/bbl/ppm                      lb/bbl/ppm                                                                                                                                                                                                                       lb/bbl/ppm                      lb/bbl/ppm                                      lb/bbl/ppm      lb/bbl/ppm                                                                                                                                       lb/bbl/ppm                      lb/bbl/ppm      lb/bbl/ppm                                      lb/bbl/ppm                      lb/bbl/ppm      lb/bbl/ppm
+                                                               Treating                                           AmountifRemove    .000928    .000971    .00147    .000971    .00147    .00147     .0000535    .000397    .00116    .000928    .00123    .00100    .000432    .000424
+
+
+                                                                     Ash                                                                                                                                                                                                                                             Carbonate
+                                                                                            Soda                                                                                                                                    Basic
+                                                      high                          add                                                                                                         Zinc
+                                         too                                  then                                                                               add                           pH
+
+                           if                                                                                            10.5                                                                               and
+                                              pH                                                     10                                                  Contaminant                   okay  high                                                                                         low                                              to         of         Add pH                                    too                                                                                         too                     if                                                                                                                                    above  okay                                                                                                                                                     Bicarbonate                                                                                                                                                                                        Bicarbonate       Bicarbonate                                                                                                                                                                                                                                             Bicarbonate  Soda                        pH              ppm
+                                        or                               Ash                        if                              or                                                                          Ash pH pH pHif
+                                                        if                                                    Remove                  Each                 To  Soda  Sapp    Sodium  Sapp    Sodium    Sodium  Sapp    Sodium    Caustic  Soda  Keep  Gyp  Lime  Lime
+              for
+
+                                                      3)                                    CONTAMINANTS              Ion
+                                                 3)      OF    Needed                                                                                              (Mg++)                           (HCO–                                                                                        (CO–                                                       (Ca++)                    (Ca++)           (Ca++)                             (Ca++)  (S=)
+                            lb/bbl                                                                             (Ca++)
+         in                                                                                                                 Contaminating    Calcium                           Calcium               Calcium  Lime                    Magnesium    Calcium     Sulphide     Carbonate                        Bicarbonate                           TREATMENT                       Agent
+                                     Treating                                          Anhydrite                        CHEMICAL                                                                                                                                                                                   Sulphide   - of         or                                                                                                                    Dioxide
+      II                                                                                                                    Water                                                                                                Contaminant    Gypsum                       Cement         Lime               Hard                  Hydrogen    Carbon               TABLE     Quantity
+
+

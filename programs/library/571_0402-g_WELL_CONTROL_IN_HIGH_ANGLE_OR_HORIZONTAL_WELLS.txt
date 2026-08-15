@@ -1,0 +1,118 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 2 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0402/GEN
+             GUIDELINES FOR           Rev.         :  0 (05/96)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  1 of 2
+
+ SUBJECT: WELL CONTROL IN HIGH ANGLE OR HORIZONTAL WELLS
+
+  1.    KICK PREVENTION AND DETECTION
+
+           All techniques used in vertical wells for avoiding and detecting kicks can be applied to high angle or
+         horizontal wells.
+
+         Kick intensity is potentially high when drilling a horizontal well due to the longer exposed hole section to
+         the producing formation.
+
+       The swab/surge pressure is relatively higher in a high angle or horizontal well. To prevent swabbed
+          kicks, it is important to ensure that:
+
+            •  The mud rheology is conditioned prior to tripping out
+
+            •  The tripping speed is controlled below the maximum allowable speed
+
+            •  The correct tripping procedures are followed
+
+       The equivalent circulating density (ECD) is relatively high when drilling a high angle well. This means a
+         greater bottom-hole pressure reduction when circulation stops. Therefore  it is important to flow-check
+         the well prior to making a connection or tripping to ensure that the well is stable without the ECD effect.
+
+  2.    WELL SHUT-IN AND GAS KICK MIGRATION
+
+       Use hard (fast) shut-in method to shut in the well upon detecting a kick to minimise the kick volume.
+         Studies showed that the potential water-hammer effect associated with the hard shut-in is negligible.
+
+      When a kick occurs in a high angle or horizontal hole section, the shut-in drillpipe pressure (SIDPP) will
+       be close or equal to the shut-in casing pressure (SICP). This is because the kick only causes a small or
+       no hydrostatic pressure reduction in the annulus.
+
+        Zero shut-in pressures (SIDPP and SICP) do not mean there is no kick. Together with a positive pit
+         gain, this may indicate that the kick is still in the horizontal hole section which may be caused by
+        swabbing or improper hole fillup on trips.
+
+       The conventional method, which determines the influx density/type (gas/water/oil) based on pit gain,
+       SIDPP and SICP, can not be applied in a high angle or horizontal well. There is no simple alternative
+       method for field applications. However, a gas influx can be recognised by the continuous increase in
+         the casing pressure due to gas expansion above the horizontal hole section, which may be caused by
+        gas migration during shut-in or by mud circulation.
+
+        During the well shut-in period, the free gas usually migrates up the annulus if the angle is below 90°.
+        Experiments showed that, for a mud with PV=10 cP and YP=6 lbf/100sqft, the gas migrates at about
+         10,000, 9500 and 7500ft/hr at vertical, 50° and 80°, respectively. The migration rate will be lower if the
+      mud has a higher yield stress or gel.
+
+      Do not calculate the migration rate based on the increase in SICP, as it often seriously underpredicts
+         the migration rate.
+
+       Gas does not migrate if:
+
+            •  The hole angle is 90° or higher;
+
+            •  The gas is dissolved in the OBM; or
+
+            •  The gas is trapped as small bubbles in mud by its high gel strength
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 2 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0402/GEN
+             GUIDELINES FOR           Rev.         :  0 (05/96)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  2 of 2
+
+ SUBJECT: WELL CONTROL IN HIGH ANGLE OR HORIZONTAL WELLS
+
+  3.    WELL KILLING OPERATIONS
+
+       The advantages of the wait-and-weight method over the driller’s method are less important in a high
+        angle or horizontal well. This is because the weighted mud will not reduce the surface and casing shoe
+        pressures until it has passed the high angle or horizontal hole section. By then the gas influx may have
+         entered into the casing or been circulated out of the well.
+
+      Do not wait for the mud being weighted up. Start to circulate using the driller’s method once a kick is
+         detected; change over to the wait-and-weight method once the kill weight mud is ready (circulate and
+         weight method). This will minimise the time of dealing with the kick and reduce the risks of stuck pipe
+       and other hole problems.
+
+      When pumping down the kill weight mud, use the kick sheet designed for high angle wells to work out
+         the standpipe pressure schedule. Do not use the kill sheet designed for vertical wells, as it will result in
+        excessive high well pressures and the possible consequence of fracturing the formation.
+
+        During circulating out a gas kick, the free gas will slip through and travel faster than the mud, even in a
+         horizontal hole section. Studies showed that the slip velocity is in the range of 60 to 180ft/min,
+        depending upon the mud rheology and hole angle etc. Therefore the gas kick may arrive at surface
+       much earlier than the mud.
+
+  4.    FREE GAS KICKS IN INVERTED (>90°) HOLE SECTION
+
+               If a gas kick occurs when drilling an inverted hole section, the free gas will be trapped at the bottom of
+         the hole when circulation stops. Similar scenario may also occur in washouts or undulations of a
+         horizontal hole section. Studies showed that the free gas will remain being trapped unless the annular
+      mud velocity exceeds about 100ft/min, which is higher than that at a commonly used SCR during well
+            killing operations. Therefore special well killing techniques may have to be considered.
+
+       The trapped gas may be flushed out by gradually increasing the SCR to a corresponding annular
+          velocity of about 100 to 150ft/min for a short period of time (say 1/4 of bottom-up maximum). Then
+        reduce to a normal SCR and proceed using a conventional well killing technique (driller’s or wait-and-
+         weight). Depending on the kick volume and the length of the hole section, the procedures may have to
+       be repeated in order to remove the trapped gas completely. So prior to drilling the hole section, the
+       pump pressure at an SCR corresponding to 100 to 150ft/min should be recorded.
+
+               If the above technique fails to remove the trapped gas, consider bullheading the gas back into the
+         formation. As the trapped gas should be near the kicking formation, bullheading is more likely to
+        succeed in an inverted hole section.
+
+

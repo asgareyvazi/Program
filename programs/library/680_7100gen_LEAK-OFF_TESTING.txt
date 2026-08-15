@@ -1,0 +1,353 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7100/GEN
+
+                                                                  Rev.         :  4 (6/90)
+      DRILLING MANUAL     Page        :  1 of 6
+
+SUBJECT:  LEAK-OFF TESTING
+
+1.0    Casing Seat Leak-Off Tests (also called Formation Intake, Formation Strength, Pressure Integrity Tests,
+         etc.) are carried out for the following reasons:
+
+        a)  To investigate the strength of the cement bond around the casing shoe to ensure that no
+          communication is established with higher strata in case pressures in excess of the mud hydrostatic
+          head are encountered.
+
+        b)  To investigate the wellbore capability to withstand pressures below the casing shoe in order to
+           allow proper well planning with regard to the setting depth of the next casing string.  This is
+            especially important when abnormal pressures are expected.
+
+        c)  To collect regional information on formation strength for optimisation of well design.
+
+1.1    The following outline shall provide a Standard Test Procedure to be used by BP. This standard method
+         is the continuous method, however the hesitation method is also included for cases when that is
+       considered the better option.
+
+        Limit tests are preferred unless the additional information gained from a full leak-off test is required for
+        future well planning and casing designs. The continuous method is preferred over the hesitation
+      method unless the test is carried out on a critical well such as when the mud weight in use is close to
+       overburden.
+
+1.2    The drilling programme will advise whether or not leak-off testing will be done to a leak-off value or to a
+        specified limit.
+
+1.3    Test Pressures
+
+       Test pressure to be limited to a maximum pressure equivalent to whichever is the least of:-
+
+        a)  The casing test pressure.
+        b)  The well head test pressure.
+        c)  The BOP test pressure.
+        d)  80% of casing burst pressure.
+        e)  A pressure advised in the Drilling Programme.
+
+      The BP Drilling Supervisor will be present whenever a Leak-Off Test or any wellbore integrity test is
+      made.
+
+1.4       It should be noted that information obtained from tests in straight holes is not applicable to deviated
+       holes (and vice versa).   It is also not always true that deeper formations have a higher mud holding
+       capacity than shallower ones.   If doubt about this exists, testing of the open hole can be undertaken
+       from time to time, if advised in the Drilling Programme.
+
+2.0   EQUIPMEMT
+
+2.1   Gauges
+
+     Mud gauges are not sufficiently accurate for these tests. Use large scale gauges of various ratings to
+       cover the full range of the proposed test. Mount the gauges on a small bore manifold with needle
+       valves to shut off as gauge pressure limit is reached.
+
+        e.g. Mount 300, 600, 1200 psi gauge for a 20” casing seat test.
+
+      Ensure a Chart pressure recorder records the test.
+
+2.2   Pumps
+
+      The mud pumps will not be used. The normal practice is to use the cement pumps.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7100/GEN
+
+                                                                  Rev.         :  4 (6/90)
+      DRILLING MANUAL     Page        :  2 of 6
+
+SUBJECT:  LEAK-OFF TESTING
+
+3.0   CASING SEAT TEST PROCEDURES
+
+3.1    Preparation
+
+        1.   Prior to any leak-off test a casing pressure test is carried out which will be designed to be higher
+           than the pressure applied in the formation leak-off test.
+
+        2.  The casing pressure test should be carried out at the same pump rate as that proposed for the
+             leak-off test, and a graph should be plotted of volume pumped vs. pressure at a fixed, slow pump
+             rate.
+
+        3.  When the formation leak-off test is performed the same graph paper should be used to plot the
+         same parameters at the same pump rate as for the casing pressure test.
+
+        4.  As soon as the pressure deviates from the slope produced during the casing pressure test, it can
+          be assumed that leak-off is starting and that pumping can stop.
+
+3.2    Continuous Method
+
+        1.   Drill out cement plus 3 - 5m of formation.
+
+        2.   Circulate and condition mud.
+
+        3.   Pull up into the casing.
+
+        4.  Ensure the hole is full and close the BOP around the drillpipe.
+
+        5.  Pump mud slowly, at 0.25 bbl/min, using a high pressure low volume pump until the pressure
+            builds up. Calibrated pressure gauges, covering various pressure ranges and preferably mounted
+         on a special manifold, should be used. Mud gauges are not sufficiently accurate for these
+          measurements. Rig pumps are unsuitable for carrying out leak-off tests.
+
+        6.   Plot the results of pressure vs. volume pumped on the same graph produced for the casing
+           pressure test, taking readings every 0.25 bbl. The same slow pump rate should be used for the
+           casing pressure test and the leak-off test.
+
+        7.  Continue until the pressure deviates from the straight line or until the limit value has been reached,
+           whichever is the lower.
+
+        8.  Keep well closed in to verify that a constant pressure has indeed been obtained, continuing to
+           record pressure vs. time on chart recorder.
+
+        9.  Bleed off pressure and measure volume returned to determine volume lost to the formation.
+
+      From the procedure outlined above, it can be seen that during a formation strength test the formation
+       should not be fractured. The point on the pressure vs. volume plot which is characterised by a
+        deviation between the final pump pressure and the static pump pressure after the waiting time is called
+       the “Formation Intake Pressure”.  This point normally coincides with the point where the pressure vs.
+      volume plot departs from the approximate straight line relationship.
+
+3.3    Hesitation Method
+
+        1.   Drill out cement plus 3m - 5m of formation.
+
+        2.   Circulate and condition mud.
+
+        3.   Pull up into the casing.
+
+        4.  Make sure the hole is full and close the BOP around the drillpipe.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7100/GEN
+
+                                                                  Rev.         :  4 (6/90)
+      DRILLING MANUAL     Page        :  3 of 6
+
+SUBJECT:  LEAK-OFF TESTING
+
+        5.  Pump mud slowly using a high pressure low volume pump until the pressure builds up. Calibrated
+           pressure gauges, covering various pressure ranges and preferably mounted on a special manifold,
+           should be used. Mud gauges are not accurate enough for these measurements. Rig pumps are
+            unsuitable for carrying out leak-off tests.
+
+        6.  Pump maximum of  1/4 bbl/min in  1/4 bbl increments, wait for 2 minutes or the time required for
+            the pressure to stabilise in case this takes longer as the test progresses.
+
+        7.  Note the cumulative mud volume pumped, the final pumping and final static pressure.
+
+        8.  Repeat items 6 and 7 and plot pressures versus cumulative mud volume for each pumped volume
+            increment. Plot the results on the same graph used for the casing pressure test.
+
+        9.  Continue procedure until the final pump pressure deviates from final static pressure after the
+            waiting time or until a predetermined pressure has been reached.
+
+       10. Keep well closed in to verify that a constant pressure has indeed been obtained.
+
+       11. Bleed off pressure and establish volume of mud lost to the formation.
+
+      From the procedure outlined above  it can be seen that during a formation strength test the formation
+       should not be fractured. The point on the pressure versus volume plot which is characterised by a
+        deviation between the final pump pressure and the static pressure after the waiting time is called the
+       “Formaton Intake Pressure”.  This point normally coincides with the point where the pressure versus
+      volume plot departs from the approximate straight line relationship.
+
+4.0   LEAK-OFF TEST PROFILES
+
+4.1    Various types of pressure versus volume plots can be encountered, depending on the kind of formation
+       being tested as shown in Figures 1 to 4 (page 5). Further pumping would fracture the rock until a stage
+         is reached when the fracture propagates into the formation and a sharp pressure drop is observed on
+       the surface. The pressure at which this occurs is the “Formation Breakdown Pressure”. Sometimes a
+     maximum limit is set for the pumping pressure during a formation strength test.  In those cases all that
+         is recorded is a “maximum required mudholding capability” and the test is called a “limit test”.
+
+4.2    Calculate the formation strength in equivalent maximum mud weight, as follows:
+
+                           P + MUD HYD       Formation Strength (lb/gal)  =                          D X 0.052
+
+      Where:
+
+     P = Formation Leak-Off Pressure determined from Pressure vs volume plot.
+
+    MUD HYD = Hydrostatic pressure of mud column in well (psi).
+
+     D = True Vertical Depth (ft) from mean sea level to depth of leak-off test.
+
+4.3    The formation intake pressure is dependent on the type of formation (strength, permeability, etc.), mud
+        properties as well as on local geology.  Brittle rocks fracture normally after limited deformation and
+        suffer from a considerable permanent reduction of borehole mud holding capability after fracturing. For
+       such, normally strong formations, a limit test is often sufficient to plan the further well programme. The
+        application of a full leak-off test is not recommended under those circumstances.
+
+        In non-consolidated, plastic, loose or highly permeable formations very low pressures cause loss of
+         liquid. The final pumping pressure will always be higher than the final static pressure and the formation
+        intake pressure can only be established approximately from the pressure versus volume plot shown in
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7100/GEN
+
+                                                                  Rev.         :  4 (6/90)
+      DRILLING MANUAL     Page        :  4 of 6
+
+SUBJECT:  LEAK-OFF TESTING
+
+        Fig. 1. Normally this information will suffice, since it is well known that the formation is weak and the
+      main purpose of the test is to establish the absence of communication around the casing.
+
+        Prior to pumping, the Drilling Supervisor should mark his pressure/volume pumped plot at a number of
+       various formation strengths. He can then ensure his plot is realistic.
+
+4.4       It is not necessarily correct that deeper formations can support more hydrostatic pressure than
+       shallower ones. However, under no circumstances will another leak-off test be made without specific
+        instructions from Base.
+
+4.5   Page 6 illustrates the Standard format which will be used to record the leak-off test.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7100/GEN
+
+                                                                  Rev.         :  4 (6/90)
+      DRILLING MANUAL     Page        :  5 of 6
+
+SUBJECT:  LEAK-OFF TESTING
+
+
+
+
+            LEAK-OFF TESTS - SCHEMATIC REPRESENTATION
+
+
+
+
+     UNCONSOLIDATED PLASTIC FORMATION         CONSOLIDATED PERMEABLE FORMATION
+
+                                                                                 1
+
+
+
+
+                              1
+                PRESSURE                                                                                                                                                   PRESSURE
+
+       CUMULATIVE VOLUME                      CUMULATIVE VOLUME
+
+                         Figure 1                                                 Figure 2
+
+
+
+
+         CONSOLIDATED FORMATIONS                 CONSOLIDATED FORMATIONS
+         LOW OR IMPERMEABLE                            "LIMIT TEST"
+
+                                                                        DESIRED
+                                                                       TEST
+                        1                                                  PRESSURE
+
+                                                                 "LIMIT TEST"
+                PRESSURE                                                                                                                                                   PRESSURE
+
+       CUMULATIVE VOLUME                      CUMULATIVE VOLUME
+
+                         Figure 3                                                 Figure 4
+
+
+
+        FINAL PUMP PRESSURE AFTER EACH INCREMENT
+
+        FINAL PRESSURE AFTER WAITING PERIOD
+
+      1  FORMATION INTAKE PRESSURE
+
+
+
+
+
+                                                                                                                                         2179 / 41
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7100/GEN
+
+                                                                  Rev.         :  4 (6/90)
+      DRILLING MANUAL     Page        :  6 of 6
+
+SUBJECT:  LEAK-OFF TESTING
+
+
+                   FORMATION LEAK OFF TEST
+
+            WELL:                   TESTED BELOW    " CASING SHOE
+
+                CASING SHOE DEPTH:     MD      TVD         RIG:
+
+                    HOLE DEPTH:     MD      TVD        DATE:
+
+             MUD WEIGHT:               VIS          P.V.          Y.P.       GELS
+
+                 FLUID PUMPED / RETURNED:
+
+               FORMATION IN OPEN HOLE:
+
+
+
+
+
+                           (PSI)
+                                            PRESSURE
+                                      SURFACE
+
+
+
+
+
+                                       BARRELS PUMPED
+
+
+
+               FORMATION STRENGTH:         PSI
+                EQUIVALENT MUD WT:
+
+
+               REMARKS:
+
+
+
+                                                 SUPERVISED BY:
+
+
+                                                                                                                                         2179 / 40
+
+

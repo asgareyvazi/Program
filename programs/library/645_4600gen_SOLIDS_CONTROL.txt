@@ -1,0 +1,597 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  1 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+1.    INTRODUCTION
+
+1.1    The aim of any efficient solids removal system is to retain desirable components of the mud system for
+        correct mud property control, but to be capable of separating out and discharging unwanted drilled
+        solids and contaminants. The benefits of an effective solids removal system cannot be overstressed
+      and include reduced overall mud costs, reduced chances of stuck pipe and associated hole problems,
+       increased penetration rates and increased equipment life due to reduced abrasiveness.
+
+1.2     In order to perform effectively, solids removal equipment must be well maintained and its layout
+       incorporated into a systematically designed mud system.  It must be capable of handling the maximum
+       conditions expected related to circulating rates and solids production capacity (instantaneous
+       penetration rates), yet retain the versatility of coping with the demands of various mud types and
+        different hole sections, such that optimum solids removal is obtained on the first circulation through the
+       equipment.
+
+1.3    There are four stages of mechanical contaminant treatment which can be applied to drilling fluids:
+
+        a)  Screen separation of large cuttings, i.e. shale shakers.
+        b)   Settling separation in non-stirred compartments, i.e. sand traps.
+        c)  Removal of gaseous contaminants by vacuum or otherwise, i.e. degassers.
+        d)  Forced settling by the action of centrifugal devices, i.e. hydrocyclones and centrifuges.
+
+1.4    Figure 1 shows a typical layout for a solids removal system. Figure 2 shows the particle sizes removed
+      by each piece of solids control equipment, and the API particle size classification.
+
+1.5    The solids separation efficiency of any particular piece of solids removal equipment can be defined in
+       terms of a cut point.  Cut point, usually expressed in microns, refers to the particle size that has a
+       specified concentration (as a percentage of the feed concentration) reporting to the underflow
+       (discharge) stream of a particular device. The most commonly referred to cut point is the D50, which is
+       equivalent to the particle size that has an equal concentration (50% of feed) in both the underflow and
+        overflow.  It is often useful to compare the D50 value with the D10 and D90 values (representing particle
+       sizes distributed 10% and 90% in the underflow respectively). This comparison defines the sharpness
+        of separation of a piece of solids control equipment.
+
+       Consider a square mesh shaker screen and a fluid containing an equal size distribution of spherical
+         particles. There will clearly be a specific particle size that will pass through the mesh, above this size all
+        particles will be retained on the screen and discharged. For such a situation the D10, D50 and D90 will
+      be identical. For a hydrocyclone, the sharpness of separation is less well defined and for the same fluid
+      system the D10 may be substantially lower than the D50, which in turn will likely be substantially lower
+       than the D90.  In other words a very high percentage of the large particles entering the cone are
+       separated and discharged, whereas a much lower percentage of the fines undergo effective separation
+      and discharge. These results are shown graphically below.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  2 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+
+
+
+
+                          100                            Hydrocyclone        Shale Shaker
+
+                           90
+
+           Percentage of
+             specified
+             particle size       50
+            reporting to
+           underflow
+
+
+                           10
+
+                            0
+                                                          Particle Size (microns)
+
+
+
+            Note that the gradient of the curve defines the sharpness of separation.
+
+
+
+
+
+                                                                                                                                          2179 / 78
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  3 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+
+
+                FIG. 1 SOLIDS REMOVAL EQUIPMENT SCHEMATIC
+
+
+
+                                                                                              STIR                   OR
+
+                                                           PIT                                                                                                                 ACTIVE    SYSTEM                                                                                                    DISCHARGE(LIQUIDSOLIDFRACTION)                    6                                                           ADJUSTABLE
+
+                                                                                              STIR                                                                                                                                                                                                                                                                                                                                                      DEGASSING
+                                                                                                                  NOT                                                                                                                                                                                                                                                                                                                                              DEGASSING
+
+                    5                                                          SCREEN                                                                                                                                     CENTRIFUGE                                                WHENWHEN                                                                                                                                                                                                                                                                    DISCHARGE                                                                                              STIR                                           CLEANER                                                                                                                                                                                              SUCTION                                                                                                                   WEIGHTSALVAGE                  MUD                                                                                                                                                                         CENTRIFUGE                                                         DESILTER                                                                                                                                                                                                                                                                                                         OVERFLOWUNDERFLOW
+
+                    4
+
+                              *                                                                                                    DISCHARGE
+                                                                                              STIR                                                                                                                     PUMP                                                                                                                                                                                                                                    DESILTER                                                                                                                                                                                                                   DESILTERSUCTION
+                      MUD   PUMP
+
+
+
+                    3                                                         CLEANER                                                                                                                                                                                                 DISCHARGE                                                                                  PUMP        STIR                                                                                                                                                                         UNDERFLOW                                                                                                                                          EDUCTOR     SUCTION                                                                   (DEGASSING)                                                                                                                                                                                                                              DESANDER                                                                                                                                                     TANK(EQUALISATION)                                                                                                                                                                                                                   DESANDERSUCTION
+
+
+
+                    2  *
+
+                                                                                              STIR                                           PUMP                                                 DEGASSER                                                                                                                                       DESANDERSUCTION                                                         DESANDER                                                                                                                                                  DEGASSERSUCTION                                                                                                                                                                                            VALVE
+                                                                                    NOT                    1          OVERFLOW                            DEGASSING                                                                                                                                                      GATE
+                                                                                     KEY
+                                                                          SANDTRAPUNDERSCREENS  NOTSTIRRED         SHALESHAKERS
+                                                                                                                              FLOW                                                      SHAKERTROUGH                                                                                                                     RETURN                                                                                              MUD
+
+
+                                                                                                                                          2179 / 77
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  4 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+                                                       FIGURE 2
+
+                                                                                                                                           SIEVE                                                                                  SIZE
+
+
+
+                           )                                                                                                               MESH                                          BY              74µ
+                                                                                   325)                                                                                                                                                                    PARTICLECUTEQUIPMENT                                                                                                            THANON44µ                                                                                                                                                                                       THROUGH                                                                                                                                                                                BARITE:                                                                                                            LESS   THAN                                                                                                        PASS                                                                            FOR                                                                                 97%                                                                                                                                                                                                                              RETAINED                                         5µ                                                                                                                   LESS                                                      ie                     -
+                           (
+                     2                                                        5%                                                                                                        MUST                            ±85%                                                      CENTRIFUGE                                           10                                                                              97%                                                                                                                                       SIEVE
+      )                    EQUIPMENT                                                                                                                            LEAST                                                                                                                                                                                                                                                                                                                                        SPECIFICATION   MESH AT
+                                                         ie                                    SCREEN                                        74µ           APIMINIMUM200MAXIMUM                             (                                     CLEANER
+                        MESH
+
+                      )                MUD                      PROCESSING       200      (                                                                        SIZE                                                                  OBM             MESHMESHMESHMESH    BY
+                                                              80µ         1060200325                     -                  SIEVE——————                                                                                        WITH
+                                         60                                                                                             SIZE                                           DESILTER                                                              200µ
+                      >
+
+                      (               REMOVED                                                                                                                                                                                          PARTICLE           SIZES                                                                                  220µ   OF
+
+                     -
+                                                              200                                                                                                                                                             COARSEINTERMEDIATEMEDIUMFINEULTRAFINECOLLOIDAL                                                                                                                                                                                                                                                                                                                                                               CLASSIFICATION—————————                  PARTICLE            DESANDER
+
+       )
+                                                                                                            250µ74µ44µ2µ0µ
+                           -----                                                                                                                                                                                                                                                                                                                                      CLASSIFICATION         2000µ
+                          >                                                                                                    SIZE                                                                            ———                                                                                                            200025074442                                         SCREEN                                              API
+                           SHALE                                                         178µ                                    SHAKER                           MESH
+              80
+
+       (
+
+
+                                                                                                                                                                     2179/76
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  5 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+2.    SOLIDS CONTROL EQUIPMENT - OPERATIONAL GUIDELINES
+
+2.1    Flowlines
+
+        Flowlines, "Gumbo" traps, and shaker header boxes must be cleaned out as necessary on connections/
+         trips, to prevent massive solids build-up restricting working capacity.  Jet-lines,  if fitted, must be
+        effective and regularly inspected.
+
+2.2    Shale Shakers
+
+            i)    Screen sizes must be optimised for maximum cuttings separation without screen overloading or
+         mud losses over the screens. Mud type and rheology, circulation rate, formation returns and
+             penetration rates must also be considered, and the finest mesh screens then selected that meet
+            these conditions.  Adequate stocks of spare screens should be maintained such that optimum
+            screen sizes can be used at all times.
+
+             ii)   The top screen on a double deck shaker should be of coarse mesh and used as a "scalping"
+             device, removing the bulk of the large cuttings from the mud to enable the finer screen on the
+            lower deck to operate more efficiently.
+
+              iii)   The fluid front of the mud on the top screen should cover approximately 50-60% of the screen
+             area, and on the lower screen 60-65% of the screen area.  This allows the sharpest cut point
+            compatible with maintaining a safety margin for flow surges and still permits "dry" solids to be
+           conveyed for some distance and so enhance "shake-off" of liquid mud.
+
+          iv)   In the event of sand blinding of a screen consider changing to screens of a finer mesh.
+            Rectangular mesh screens outperform equivalent square mesh screens where sand blinding is a
+            problem.
+
+        v)      If mud viscosity produces screen blinding consider reducing the circulation rate whilst maintaining
+                efficient hole cleaning, or change to a coarser screen. With new water based polymer mud and
+                  oil based mud, commence circulation using coarse screen dressed shakers and move to finer
+          mesh screens as the mud shears in and warms up after 1 or 2 circulations.
+
+          vi)   Shaker screens should be regularly washed down on connections/trips for prolonged life and to
+             maintain efficient operation. Cuttings should never be allowed to dry hard upon the screens when
+             the shakers are not in use.
+
+           vii)  Never run the shakers dry (i.e. without fluid flow across them). This leads to increased wear and
+            premature screen failure.
+
+           viii)   Distribution gates allowing returns flow from the header box to the shakers should be adjusted
+           such that total returns flow is distributed evenly onto all available shakers. On semi-submersible
+              rigs in conditions of extreme weather, the pitch/roll of the rig will create surges of flow onto
+              specific shakers, and under these conditions coarser screens may have to be used to prevent
+         mud losses.
+
+          ix)   The shaker screens should never be bypassed, unless absolutely necessary when running LCM
+               in the mud. Under no circumstances should operations continue with a torn or ineffective screen.
+
+        x)   Table 1 shows the performance characteristics of square and rectangular mesh market grade
+            screens, along with the API and common manufacturers' designations.  Note that the flow
+             capacity of a screen is directly related to the conductance and not to the percentage open area.
+              Multi-layered screens, usually consisting of a coarse market grade backing cloth (for strength) and
+               finer mesh tensile bolting cloth upper layers, offer significant improvements in solids separation
+           and resistance to blinding, but are significantly more expensive than the single mesh screens.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2:11:89
+      DRILLING MANUAL     Page        :  6 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+
+                            PTS)                                                                                                    PTS)                        theby                                             100120
+              or     3040  6080xx                or 203040  6880
+           xx xx            xxx xx
+                               Thule(HS --3040-6080100120                                    Thule(HS 101620-3440              followed             reference
+                                                                                           100     is    and                              MGMG                         80                   MG  MG  MGMG                                                                            This                                   SWECO -20-40-6080100120                                SWECO(backingcloth) ---MBXMBX-                 size                                           Numbers**                                                                                                                                                  Numbers**
+                                                                                                                                                                           flow.                                                                                                                                                                                                                                                                                                                                          specified)                                                                                                      the         screen
+                                                                    to   to                                           Reference      SWACO      93-10-01093-10-02093-10-03093-10-04093-10-05093-10-06093-10-08093-10-10093-10-120                                             Reference          SWACO ------                                                                                                                                                                                                      unless
+
+                                 -                                                                                                                                                                                                                                                                                                     addition
+                                                                         in                                                                                                                                                                                                                                                                                                                                                                                                                                                            perpendicular                                            Derrick(panelled) --DF24DX38DX50DX70DX84DX110DX140                                                         Derrick  R25R30R40-R600R80                     model               CLOTH                                                                   Manufacturers'                                                                                                                                                                                                                                  Manufacturers'                                                                                                                                                                                                                                                                                                                   direction                                                                                                                                                                                                                            shaker                                          Brandt  S10S20S30S40S50S60S80S100S120                                                 Brandt  B20B40B60B80B100B120     the                         GRADE
+                                                                    in                                                                                                                                                                                                                                                                specify
+                                          Baroid    191-201191-202191-203191-204191-205191-206191-208191-210191-212                                                 Baroid --191-25191-26191-28191-30       inchper                                                                                                                                                                                                                                                                                                     screens,                  MARKET
+                                                    56.3%)                                30.3%)30.7%)                                                                                                                                         openings                                                                                                                                                                                 34.0%)                                                                                                                                                                                                                                                                                                     ordering            MESH                                                          46.2%)37.1%)36.0%)30.3%)30.5%)31.4%)                                                                      46.6%)41.8%)35.6%)                                                                                                                                                                                       29.4%)35.6%)    of
+                                                            140,                                                                117,                                            2108,                                                                                                                      193,               x                x                                                                                                           762,490,305,         x863,515,381,279,234,178,                              x193,140,                 When
+          xxxxxx            xxx xx                                                                                                                                                                                                             number                                                            (140(117                                                                                                                                                                                                                                       (SINGLE                                            (2108(863(515(381(279(234(178                                                  (914(940(1041(406(457     the                                                                                                                                      (2464                                             100                                                120                                                                    by                   20                     30                       40                         50                           60                            80                                                       30                                                         40                                                           60                                                             60                                                               80               x                                                                                     Designation* 10                x                                                                                                 Designation*                                                                                                                                                                                                                                                                                                                                                                              specified.                                                      20         x          x           x           x            x             x              x                            x                             x                              x                              x                               x
+                           x
+                     API 10203040506080100120                        API 82020204040                 that                                                                                                                                                                                                                                                                                 followed   to
+                                                                                                                                                                                                                                                                                                                                                      direction,area.    screen                                                                                                                                            open                                                                     ConductancekD/mm   75.621.312.67.54.43.72.92.21.9                                                                                ConductancekD/mm   36.714.09.18.64.54.4       flow                                                                          CHARACTERISTICS                                                                                                      the               equivalent                                                                                                                                                                                                                                                     percent
+                                                                    in                         Area                                                                    Area                             the
+                                                                                                                                         inch                                                                                                                                                                                                                                                                nearest                                                                                                         and                          SCREEN                                      PercentOpen%   56.346.237.136.030.330.531.430.330.7                                             PercentOpen%   46.641.835.634.029.435.6     per    for
+                                                                                                              are                                                                                                                                                                                                                                                                                                                           direction                                                                                                                                                                                                                                                                                 openings                                                                                                                                                                                                      SHAKER                                      OpeningWidthmicrons   2108863515381279234178140117                                             OpeningWidthmicrons      2464/762914/490940/3051041/193406/193457/140    ofeach                                                                                                                                                                                                                                                                numbers   -
+                                                                      in
+                                 1
+                                                                                                                                                                                                             number                                                                    ismicrons      reference
+                                                                      in                                                                                                                                                                     TABLE                      WireDiameterinches   0.0250.0160.0130.0100.0090.00750.00550.00450.0037                          WireDiameterinches        0.028/0.0200.014/0.0140.013/0.0130.013/0.0090.009/0.0090.0075/0.0075                                                                                                                                            size      MESH                                                   MESH                                                                                                                                                       designation                                             100120
+                 10203040506080xx                      3040606080         xxxxxxx                       20xxxxx     APIopening         Manufacturers'number.
+                           x                            Mesh 10203040506080100120                                Mesh 82020204040         SQUARE                                                                            SQUARE              *   **
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  7 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+          xi)   Coarse mesh screens discharge drier cuttings than finer screens.  This can influence screen
+            choice when drilling with oil based mud and attempting to adhere to strict environmental
+             regulations concerning oil retention on cuttings.
+
+2.3    Sandtraps
+
+       Sandtraps must never be bypassed and, when using water based mud, must be dumped regularly to
+       prevent solids build-up. Sandtrapsmustnotbedumpedwhenusingoilbasedmud.
+
+2.4    Degassers
+
+            i)   The vent line from the degasser should be run to the top of the derrick to ensure that expelled
+           gases are vented away from the rig.
+
+             ii)   Degasser operation must be checked daily whilst drilling ahead.
+
+              iii)   The degasser must always be used when circulating bottoms up after tripping in hole, or if mud
+             loggers report oil/gas shows in mud.
+
+          iv)   The degasser pit (if appointed as such) must remain separate from the normal circulating path to
+            prevent solids settling.
+
+        v)    Several types of degasser are in service. The most common are the centrifugal degasser and the
+          vacuum degasser.  For detailed operational guidelines on specific degassers consult the
+             manufacturer's operations manual.
+
+2.5    Hydrocyclones
+
+      The following guidelines apply to desanders, desilters and mud cleaners.
+
+            i)    Hydrocyclone suction tanks must be permanently agitated to prevent solids settling. A screen
+            over the suction inlet prevents large clumps of cuttings causing feed plugging of the cone inlets.
+
+             ii)   Each hydrocyclone unit should have its own pump assigned solely for its use, to maintain
+          minimum feed head requirements.
+
+              iii)   The number of bends, swages and reducers in the lines feeding the header should be minimised.
+          The header feed pipe should never have a horizontal bend connecting it to the header, and any
+             other bend or restriction should be at least 3 pipe diameters in front of the header to ensure even
+             presentation of mud flow to all cone inlets.
+
+          iv)   Optimum feed head requirements for cones is given by:
+
+          Optimum Inlet Pressure (psi)  =  Optimum Feed head (ft) x Mud Weight (ppg) x 0.052.
+
+          Most cones have an optimum head of 75  ft (± 5 ft) so the ideal inlet pressure can be
+            approximated to:
+
+        v)   Hydrocyclone efficiency reduces dramatically  if the feed head differs markedly from optimum.
+              Centrifugal pumps feeding the hydrocyclone units have fixed discharge heads for a given impellor
+              size, RPM and horsepower.  However, since the centrifugal pump is usually situated some
+             distance beneath the hydrocyclone inlet header, a change in mud weight will alter the hydrostatic
+           and friction pressure losses in the feed pipe, and will cause a corresponding change in the feed
+           head at the hydrocyclones.  In such cases, the impellor size of the centrifugal pump should be
+           changed so as to deliver mud at the optimum feed head to the cones.
+
+          vi)   Typical throughput capacities are as follows:
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  8 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+           Desanders   12" cone - 500 gpm per cone
+                            6" cone - 125 gpm per cone
+
+              Desilters       4" cone - 50 gpm per cone
+                            2" cone - 15 gpm per cone
+
+          So called "high capacity" cones (e.g. 4" cones rated for 80 gpm) have been found to produce
+               significantly wetter discharge with no improvement in solids separation, and should not be used.
+
+           vii)  Cones should be operated under spray discharge for maximum separation efficiency (see Figure
+               3). The causes of abnormal underflow discharge patterns, the effect upon cone wear and
+            remedies to the problems are given in Table 2.
+
+           viii)  Hydrocyclone units must be stripped and cleaned prior to and after every period of continuous
+             hole section operation.
+
+          ix)   Solid separation efficiency varies directly with the square root of the plastic viscosity of the mud:
+
+            D50 ∝ √PV
+          As implied by Stoke's Law, when viscosity increases, solids settling viscosity decreases, hence
+            D50 cut point increases.
+
+        Underflow   Cause               Wear Pattern         Remedy
+        Spray            -                       Grooving over lower 2"     Correctly set up.
+        Discharge                                  of cone.
+
+       Rope        Overload of solids in      Sharp grooving 1/3 way   Increase apex size until spray
+        Discharge    feed and/or undersized   up cone and erosion of    discharge is achieved, if un-
+                    cone apex (possibly      cone top due to solids     successful remove cone and
+                    caused by plugging).       in overflow.               clean out underflow blockage.
+
+        Continuous  Low inlet velocity as      Excessive wear at cone    Strip and clean feed header
+        Flow           result of low feed head    apex.                 and regulate pump to provide
+        Discharge    probably caused by                           ± 75 ft head.
+                           partial or total plugging
+                          of feed header
+
+        Plugged      Underflow plugging at    Sharp grooving 1/2 way   Disassemble cone, clean out
+        Discharge    cone apex caused by     up cone and erosion of    blockage and reset apex size.
+                         solids overload and/or    cone top due to solids
+                           restriction in underflow     in overflow.
+                      opening.
+
+
+                             Table 2  - Hydrocyclone Troubleshooting Guide
+
+        a)  Desanders
+
+                   i)   The primary use of desanders is in top hole sections when drilling with water based mud to
+                help maintain low mud weights. Use of desanders prevents overload of the desilter cones
+              and increases their efficiency by reducing the mud weight and solids content of the feed inlet.
+              Desanders should be used  if the sand content of the mud rises above 0.5% to prevent
+                abrasion of pump liners.
+
+                     ii)  Desandersmustnotbeusedwithoilbasedmuds.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  9 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+                                                       FIGURE 3
+
+
+                   HYDROCYCLONE OPERATION
+
+                 AIRCORE
+                 VORTEX
+
+
+               LIQUID DISCHARGE
+                               ( OVERFLOW )
+
+                        VORTEX             SOLIDS REPORTING
+                           FINDER             TO OVERFLOW
+
+                                                                    ( 2 ) SLURRY ROTATION DEVELOPS
+                                    HIGH CENTRIFUGAL FORCES
+                                 THROUGHOUT CYCLONE
+
+
+       ( 1 ) PRESSURIZED
+       SLURRY ENTERS
+       TANGENTIALLY          WORKING ( INSIDE )
+                          DIAMETER OF CONE
+
+
+                                                               ( 3 ) SUSPENDED SOLIDS DRIVEN
+                               TOWARDS WELL AND DOWNWARD        ( 4 ) LIQUID MOVES                                         IN ACCELERATING SPIRAL               RAPID CONE WEAR
+       INWARDS AND                                         CONCENTRATED      UPWARDS               AS
+       SPIRALLING               VORTEX                                                IN THIS AREA
+                                            'DEAD' AREA
+                                NO ROTATION
+                               NO CONE WEAR        ZONE
+      MAXIMUM           ADJUSTABLE
+       WEAR             APEX                                                  SLOW 'FALLING'
+                                                       DISCHARGE
+               SOLIDS DISCHARGE
+                               ( UNDERFLOW )
+
+
+                                            NO AIR
+                AIR SUCTION                      SUCTION
+
+               ( a ) SPRAY DISCHARGE                               ( b ) ROPE DISCHARGE
+                     ( SYSTEM OPERATING EFFICIENTLY )          ( INEFFICIENT SOLIDS SEPARATION )
+
+
+
+
+
+                                                                                                                                                                       2179/75
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  10 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+                      iii)   Despite manufacturers' claims, the D50 cut point of most 12" cone desanders is in the range
+              200 - 220 microns for an unweighted water based mud. As such the use of desanders is
+                   ineffective when the shakers are dressed with 80 mesh screens or finer.
+
+        b)   Desilters
+
+                   i)    Desilter cones must be periodically "balanced" to give the correct spray discharge for efficient
+                  solids separation. To achieve the correct apex settings, operate the desilter on clean water.
+               With all apexes fully open, there should be a thin curtain-like spray of water from each cone.
+               Close each apex slightly until only a slow drop of water occurs. Avoid over-adjusting, as this
+                      will cause plugging when the cones operate on mud.
+
+                     ii)    Desilters, in conjunction with desanders, should be used in low weight mud top hole sections.
+                            If it is required to raise mud weight, this must be done by barite addition and not by allowing a
+                 build-up of low gravity solids.
+
+                      iii)   Desilters must not be used with oil based muds.
+
+               iv)  Despite manufacturers' claims, the D50 cut point of most 4" cones is in the range 60 - 80
+               microns for an unweighted water based mud. With weighted oil based mud the D50 cut point
+                     is very much higher (greater than 200 microns) and the solids discharge far wetter. Hence
+                desiltersshouldnotbeusedwithoilbasedmud.
+
+        c)  Mud Cleaners
+
+                   i)   Mud cleaners must only be used when it becomes impossible to maintain low mud weights by
+              use of shale shakers alone.   It is far more efficient to use desilters and to process the
+                underflow with a centrifuge than to use a mud cleaner.   If the shakers are dressed with very
+                   fine screens (120 mesh or finer), the use of a mud cleaner is almost totally ineffective.
+
+                     ii)   The use of mud cleaners with oil based mud should be minimised since experience shows
+            mud losses of 3 - 5 bbls/hr in the discharge are not uncommon, coupled with the necessity to
+               adhere to strict environmental pollution regulations.
+
+                      iii)  Mud cleaners were originally designed to remove larger drilled solids from weighted muds but
+                  to return barite from the screen underflow to the active mud. The great disadvantage of mud
+                cleaners is that silt sized drilled solids (sub 74 micron) discarded by the cones are also
+                returned back to the mud system, leading to poor particle size distribution, adversely affecting
+            mud properties and drilling performance. Economic factors now dictate that it is more costly
+                  to treat the effects of retaining low gravity fines in the mud than to discard barite from the cone
+                 underflow.
+
+2.6    Centrifuges
+
+            i)    Centrifuge efficiency is affected predominantly by the feed flowrate but is also influenced by the
+              following operating adjustments in decreasing order of importance:
+
+             a)  Bowl speed (rpm).
+             b)  Bowl/conveyor differential speed (rpm).
+              c)  Pool depth.
+
+             ii)   The operating efficiency is highly sensitive to mud viscosity (hence temperature for oil based
+            muds), the higher the viscosity the higher the D50 cut point. The feed flowrate capacity reduces
+               significantly as mud weight is increased, a density increase also causes the gear box torque to
+               rise and fluctuate in an unstable fashion.
+
+              iii)   Only positive displacement (mono type) pumps should be used to feed the centrifuge with
+             adjustable flowrates in the range 15 - 150 bbls/hr.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 11 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4600/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  11 of 11
+
+SUBJECT:  SOLIDS CONTROL
+
+          iv)   The centrifuge must be fitted with a mechanical torque sensor coupled with an overload protection
+             device. This should automatically shut down the main centrifuge motor and the feed pump when
+              tripped by conditions of excessive torque.
+
+        v)   There are two methods of centrifuge operation, either the underflow or the overflow discharge
+         may be discarded. When dealing with low weight mud the solids underflow is discarded as a
+          means of solids control to obtain desirable particle size distribution and reduce mud weight.
+            Processing capacity of the centrifuge may limit its use for this purpose to lower hole sections
+           where circulation rates are lower.   It can also be used to process the underflow from desilters,
+             returning an expensive or environmentally harmful liquid phase to the active mud system, and
+             discarding relatively dry solid fines.
+
+            With weighted muds, the solids underflow containing barite may be returned to the mud system
+           and the liquid phase containing viscosity building colloids discharged. However, it is unlikely to be
+           used for this purpose with oil based muds for both economic and environmental reasons.
+
+

@@ -1,0 +1,64 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 1 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0415/GEN
+
+                                                                  Rev.         :  0 (8/90)
+      DRILLING MANUAL     Page        :  1 of 1
+
+SUBJECT: THE EFFECT OF COLD WEATHER ON BOP STACKS AND CONTROL LINES
+
+1.    GENERAL
+
+1.1     In extremely cold weather conditions, it is possible that BOP control lines, choke and kill lines or cooling
+      systems may become frozen. The lowest ambient temperature in the UK North Sea is -10 Celcius.
+
+1.2   When BOP control lines freeze, it is because the fluid in the lines contains insufficient glycol to protect it
+       against ambient temperatures.
+
+1.3    Only fluid in the 1” line on subsea BOP stack systems can be displaced simply by cycling the functions.
+      The fluid in control lines on surface stacks and pilot lines can only be displaced if the lines are broken at
+       the stack or pod.
+
+1.4   To ensure that the pilot lines contain glycol treated fluid, whenever the ambient temperature falls below
+       freezing point, the pilot accumulator must be fed from a dedicated reservoir in which the glycol
+       concentration is maintained throughout the year.   If this is not possible, then the required glycol
+       concentration should be maintained in the whole reservoir.
+
+1.5   To ensure the correct additive concentration, the constituents should be mixed in a separate tank. The
+         fluid in the reservoir should be agitated to prevent glycol settling out and the concentrations periodically
+       checked.
+
+1.6    The possibility of glycol settling out within the pilot lines with time must be investigated.
+
+1.7    Suitable precautions should be taken to prevent damage to cooling systems when equipment is shut
+      down in cold weather.
+
+1.8     Significant ice and snow accretions are rare, however any accumulation should be monitored to ensure
+       the vessel’s design criteria are not breached.
+
+1.9    Hydraulic equipment in storage may be vulnerable if it is not fully drained or filled with a suitable fluid.
+
+2.    POLICY
+
+      The following is mandatory on all BP operated rigs on the UKCS unless written dispensation is obtained
+       from the Drilling Operations Manager (Dyce).
+
+        1)  Mud shall be retained in the choke and kill lines and circulated every shift.  If a water based mud is
+              in use, the salinity shall be controlled to prevent freezing under prevailing conditions.  If the rig is in
+          deep water or using high mud weights, consideration should be given to displacing the choke and
+                  kill lines to water containing an anti-freeze agent.
+
+        2)  Control fluid in subsea BOP pilot lines shall be protected against freezing above -10 Celsius
+           throughout the year.
+
+        3)  Operating fluid in surface and subsea BOP lines shall be protected against freezing above -10
+            Celsius during the period 1st November - 30th April.
+
+        4)    If water based control fluid is used, the glycol concentration shall be confirmed by means of a
+           hydrometer or refractometer each time the pilot lines are flushed through and once per day during
+            the period 1st November - 30th April.
+
+

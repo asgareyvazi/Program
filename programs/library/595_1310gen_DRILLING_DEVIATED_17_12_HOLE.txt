@@ -1,0 +1,372 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1310/GEN
+
+                                                                  Rev.         :  3 (12/91)
+      DRILLING MANUAL     Page        :  1 of 6
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE
+
+1.    PRE-DRILLOUT OPERATIONS
+
+1.1    Ensure that all drilling tools and equipment, as per the Equipment Check List on page 4, are on board,
+      checked out and in a serviceable condition prior to Casing Drillout.
+
+1.2    Ensure that all fishing tools relevant to Drilling Operations on the 17 1/2” hole section are on board,
+      checked out and in a serviceable condition prior to Casing Drillout (refer to Section 6200/GEN).
+
+1.3    Ensure that logging tools/operators and casing running tools/operators are all on board prior to reaching
+       the section TD.
+
+1.4    Ensure that BOP equipment and drillstring well control equipment is in a serviceable condition.
+
+1.5    Complete wellhead pressure testing, and carry out a BOP test as per Sections 0420/FIX and
+      0420/SEM. Set wellhead wear bushing. On semi-submersible units, install the flex joint wear bushing.
+
+1.6    Check the ID of all downhole equipment for passage of a FPI tool and survey instrument fishing tools.
+
+1.7   On floating units, make up and stand back the emergency hang-off tool.
+
+1.8   On floating units, prior to casing drillout, make up the 18 3/4” x 13 3/8” casing hanger to the running tool
+       complete with pack-off and SSR plug mechanism (refer to Section 2300/SEM).  Stand back in the
+        derrick on HWDP.
+
+1.9    Ensure that all General Drilling Instructions, detailed in Section 1000/GEN, are in place and adhered to.
+
+1.10   Ensure that all relevant BOP drills, in accordance with the guidelines listed in the BP Well Control
+       Manual, are understood by all rig personnel and are implemented at the relevant stages of 17 1/2” Hole
+         Drilling Operations.
+
+2.    DRILLING GENERAL
+
+2.1   MU 17 1/2” bit and assembly and RIH to +/- 20m above plug/cement.
+
+      Notes:
+
+      a) WashdownasaprecautiontotagTOC.
+
+      b) PerformaD5kickdrillandrecorddetailsontheIADCandDailyDrillingReports.
+
+      c) Be aware of the danger of the bit drilling through the centre of the plug, leaving the outer
+          section to ride up above the bit. This may cause a hydraulic piston effect that can result in
+        pumpingthedrillstringoutofthehole.
+
+2.2      Drill out shoe track to float shoe with seawater, if changing to OBM.
+
+2.3      Drill out shoe and clean out sump with SW.
+
+2.4   Pump 70 - 80 bbl of base oil or base oil spacer.
+
+2.5    Displace to OBM circulating at highest possible rate.
+
+2.6      Drill 3m of new hole.
+
+2.7    Carry out formation leak-off test as per Section 7100/GEN. Record the results in the well file and the
+        Daily Drilling Report.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1310/GEN
+
+                                                                  Rev.         :  3 (12/91)
+      DRILLING MANUAL     Page        :  2 of 6
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE
+
+2.8    Calculate the Limited Kick Tolerance based on the formation leak-off test results.  Kick tolerances
+       should then be updated every day. Refer to Section 0405/GEN.
+
+      Take SCR’s.
+
+2.9       If gyro multishot is required on the surface casing, this is to be performed before drilling ahead.
+
+2.10    Drill ahead to section TD (13 3/8” shoe depth + 3m).
+
+2.11   Main Build-Up Section
+
+      The main kick-off is generally planned for this section with a build/turn to final inclination and azimuth
+       followed by a tangent section to 13 3/8” setting depth.
+
+      Depending upon the final azimuth and inclination of the 26” section, there are various options open in
+       which to drill the 17 1/2” build-up section.
+
+        a)  Mud Motor + MWD
+
+                Drill kick-off section using MWD as a steering tool.
+
+           Assembly: 17 1/2” bit - 11 1/4” mud motor - bent sub - 1 x 9 1/2” NMSDC - MWD - 2 x 9 1/2” NMDC
+                - 1 x 8” DC - jar - 3 x 8” DC - 9 x HWDP.
+
+        b)  Steerable Motor Assembly
+
+          There are two types of systems in use:
+
+                   i)   Bent motor housing type.
+                     ii)   Double tilted U-joint housing (DTU).
+
+          Both systems are stabilised and can be used to drill tangent sections in addition to the build-up
+             section. The advantage being the ability to make corrections in azimuth and inclination, but a full
+          economic review should be made prior to running the system.
+
+        A typical assembly would be:
+
+          17 1/2” bit c/w centre nozzle - steerable motor - 9 1/2” NMSDC - 17” NM stab - 9 1/2” MWD - 17”
+       NM stab - 2 x 9 1/2” NMDC - 3 x 9 1/2” DC - 8” DC - jar - 3 x 8” DC - HWDP - dart sub.
+
+        When using a steerable system, it is imperative to determine its directional characteristics in rotary
+          mode, both inclination and azimuth.
+
+         Where possible, once a main build section has been 3/4 completed, drill say 2 stands in rotary
+          mode, having determined its characteristics continue the build-up taking account of the systems
+            natural tendencies to negate making numerous small corrections.
+
+         From experience  it has been found that numerous small corrections over a section result in an
+           increased torque build-up, which on shallower wells is less of a problem but can become critical on
+          deep high step out wells.
+
+        c)  Rotary Build Assembly 60 ft
+
+        On completion of initial build-up using mud motor and bent sub, continue the build with the
+            following assembly:
+
+          17 1/2” bit - 17 1/2” NB stab - 9 1/2” NMDC - MWD - 17 1/2” NM stab - 9 1/2” NMDC - 17 1/2” NM
+           stab - 9 1/2” NMDC - 9 1/2” DC - stab - 1 x 9 1/2” DC - 8” DC - jar - 3 x 8” DC - 9 HWDP.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1310/GEN
+
+                                                                  Rev.         :  3 (12/91)
+      DRILLING MANUAL     Page        :  3 of 6
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE
+
+        d)  Rotary Build Assembly 70 ft +
+
+                   If at the end of the 26” section there is ± 12° inclination and well is on final azimuth then the
+            following assembly would normally be used to negate the use of a mud motor.
+
+          17 1/2” bit - 17 1/2” NB stab - 2 x 9 1/2” SNMDC - MWD - 9 1/2” NMDC - 17 1/2” NM stab - 1 x
+          9 1/2” NMDC - 17 1/2” NM stab - 1 x 9 1/2” DC - 8” DC - jar - 3 x 8” DC - 9 HWDP.
+
+                   It may be necessary  if build rate becomes excessive to POH and shorten up to a 60  ft build
+          assembly until required inclination is reached.
+
+         Note:
+             IfMWDtoolisshort,ensureponyMDCisinstalledtomakeupoveralllengthto30ft.
+
+2.12   Tangent Section
+
+      The assembly is “locked up” in this section.
+
+      17 1/2” bit - 17 1/2” NB stab - 9 1/2” SNMDC - 17 1/2” NM stab - 1 x MWD - 9 1/2” NMDC - 17 1/2” NM
+       stab - 1 x 9 1/2” NMDC - 17 1/2” NM stab - 1 x 9 1/2” DC - 8” DC - jar - 3 x 8” DC - 9 HWDP.
+
+       Section Notes
+
+            i)    Ream any motor drilled build-up sections on way in to bottom with tangent assembly or build
+             assembly.
+
+             ii)    Pump hole cleaning pills prior to making connections  if hole conditions dictate.  In high angle
+               wells combined lo-vis and high weighted pills may be considered.
+
+              iii)     Circulate at max. rate to maintain annular velocity for optimum hole cleaning, min. rate 1100
+            gpm. Account must be taken of the effect of ECD on weak formations.
+
+          iv)   Make wiper trips every 180m unless advised differently from office.
+
+        v)    Where overpulls occur on trips, wipe out mechanically but  if they persist on subsequent trips
+              increase mud weight up to a maximum as advised in the Drilling Programme or from drilling
+                 office.
+
+          vi)    Always circulate min. 140% bottoms up prior to any trips. Based on a  1/2” cutting, it has been
+              calculated you need 140% annular volume to get bottoms up - check shakers clean.
+
+           vii)    Position jars in the string with 3 x 8” DC above. Keep neutral point whilst drilling away from the
+                 jars.
+
+           viii)      If MWD goes down in tangent section, drill ahead with single shot surveys every 75m.
+
+          ix)    17 1/2” bits will have centre nozzles.
+
+        x)    Only run sufficient number of DC’s in assemblies for the planned/ desired WOB, do not run
+             unnecessary numbers of DC’s.
+
+          xi)   On deep 17 1/2” sections it may be necessary to shorten BHA’s to minimise the pressure drop in
+              order to maintain high circulation rates.
+
+           xii)     All surveying to be carried out as per the BP Standard Surveying Instructions.
+
+           xiii)   Penetration rate should be limited to aid good hole cleaning. Refer to the 17 1/2” hole cleaning
+             curves on page 6. Good hole cleaning can be maintained by keeping YP at 30+ but not less
+             than 25.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1310/GEN
+
+                                                                  Rev.         :  3 (12/91)
+      DRILLING MANUAL     Page        :  4 of 6
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE
+
+         xiv)  WOB and RPM will be determined by directional requirements and the ROP limit.
+
+        xv)      If any major problems arise with the mud system or solids control equipment, stop drilling and
+                circulate until rectified.
+
+         xvi)   Keep strictly to hydraulics programme, especially maximum pump rate. Never drill ahead with
+            one pump; pull to the shoe and repair.
+
+          xvii)   Local variations in hole condition will be advised in the Well Drilling Programme.  In general,
+             wiper trips will be made every 3 stands, across problem areas.  Backreaming should be
+              considered.
+
+          xviii)    If hole packs off, attempt to work pipe down in order to regain circulation, prior to attempting to
+                  jar out.
+
+         xix)   Ensure that the hydraulic configuration between bit and MWD restrictor sub is set up correctly.
+
+2.13   Circulate the hole clean at section TD. Condition mud as required.
+
+2.14  Make a wiper trip to shoe. Circulate hole clean prior to running logs or casing.
+
+2.15   Log as per Drilling Programme. Perform wiper trip as necessary.
+
+2.16   Recover wear bushing.
+
+2.17  On surface BOP stacks change top rams to 13 3/8” and pressure test the bonnet seals. Rig up to run
+      13 3/8” casing.
+
+3.    EQUIPMENT CHECK LIST
+
+      Item   Quantity     Description
+
+      1        Selection     17 1/2” bits c/w jets (selection) + breaker.
+      2      2           17 1/2” near bit stabilisers.
+      3      3           17 1/2” string stabilisers/gauge tool.
+      4      2           Sub 7 5/8” reg box-box (bored to take NRV).
+      5      2              Float sub c/w NRV (7 5/8” reg conns).
+      6      2             Totco ring (crows foot type).
+      7      12 (min.)     9 1/2” steel drill collars (7 5/8” reg conns).
+      8      15 (min.)       8” steel drill collars (6 5/8” reg conns).
+      9      2             X/over 7 5/8” reg pin - 6 5/8” reg box.
+      10     2             X/over 6 5/8” reg pin - 4 1/2” IF box.
+      11     30             5” HWDP (4 1/2” IF conns).
+      12     3           9 1/2” DC lift nipples.
+      13     3              8” DC lift nipples.
+      14     1 set        9 1/2” DC slips/elevators.
+      15     1 set           8” DC slips/elevators.
+      16     1         DC safety clamp.
+      17     1 set         Totco equipment and overshot.
+      18     2 sets      DP elevators/slips.
+      19     1            Gray inside BOP (4 1/2” IF conns).
+      20     1               Circ. head 4 1/2” IF pin - 2” Lo torque valve.
+      21     2               Hydril kelly cock (4 1/2” IF conn).
+      22     2              5” DP pup joints (1 x 1.5m and 1 x 3m).
+      23         -           Dope for DP and DC.
+      24     1            Junk sub (7 5/8” reg conns).
+      25     2                 Drilling jars.
+      26     1               Circulating sub (7 5/8” reg conns).
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1310/GEN
+
+                                                                  Rev.         :  3 (12/91)
+      DRILLING MANUAL     Page        :  5 of 6
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE
+
+      27         -             Casing equipment.
+      28     1           9 1/2” PONY DC.
+      29     2          Mud savers (if OBM used).
+      30     1             Dart sub c/w dart.
+      31     1        MWD tool if required.
+      32     2             17” NM stabilisers.
+      33     3           17 1/2” NM stabilisers.
+      34     2           11 1/4” mud motors if required.
+      35       Selection     Bent subs as required.
+      36     2           9 1/2” PONY NM drill collars (7 5/8” reg conns).
+      37     3           9 1/2” NM drill collars (7 5/8” reg conns).
+      38     2            Bent steerable motors if required.
+      39     2            Double tilted U-joint housing motors (DTU) if required.
+      40      Set            Fishing tools (refer to Section 6200/GEN).
+      41     2           17 1/2” string roller reamers (to be considered as an alternative to the
+                                       stabilisers).
+
+      Note:
+       All equipment to be dimensionally checked and recorded before running in hole. Requisite fishing
+      equipmentshouldbeonsite.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 6 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1310/GEN
+
+                                                                  Rev.         :  3 (12/91)
+      DRILLING MANUAL     Page        :  6 of 6
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE
+
+
+
+                DEVIATED 17 1/2" HOLE CLEANING CHART
+
+
+
+
+                           Q(gpm) * ESG
+     TRANSPORT INDEX = ———————
+                                  100                           EFFECTIVE SG (ESG)
+                                      TRANSPORT              1.2     1.3    1.4       40                                                                       2.3                                           INDEX
+                                                          17
+                                                                                                                 1.5
+       30
+      (m/h)                                                    16                                               SG
+    ROP
+                                                          15       20                                                                       2.2                            1.6                                                          14             CUTTINGS         MAXIMUM                                                    13       10
+                                                          12                                        1.7
+                                                          11
+                                                                                        109
+        0                                                                       2.1
+                                                                                    1.2      1.3      1.4      1.5          30             40             50             60
+                                                 MUD SG               HOLE ANGLE (DEGREES)
+
+
+
+
+                                PROCEDURE
+
+                                                   1. ENTER MUD SG AND
+                               CUTTINGS SG ON RH
+                               GRAPH. READ OFF ESG
+                          FROM FAMILY OF
+                             DIAGONAL LINES.
+
+                                                   2. USE BOXED EQUATION
+                            TO DETERMINE
+                             TRANSPORT INDEX FOR
+                                SET FLOW RATE.
+
+                                                   3. READ OFF MAX ROP
+                            FOR HOLE ANGLE
+
+
+
+
+                                                                                                                                                         2179 /163
+
+

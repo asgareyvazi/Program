@@ -1,0 +1,155 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 3 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6100/GEN
+
+                                                                  Rev.         :  3 (9/90)
+      DRILLING MANUAL     Page        :  1 of 3
+
+SUBJECT:  EFFECTIVE PULL ON STUCK PIPE
+
+1.    GENERAL
+
+1.1     Prior to pulling or jarring on stuck drillpipe or casing, the following preparations must be undertaken:
+
+        a)  Ensure that all surface pulling equipment is in good working condition, and do not exceed the
+         maximum allowable safe working rating of the weakest link in the pulling equipment.
+
+        b)  Check the weight indicator and deadline anchor for the following:
+
+                    i)   Sensator gap.
+                      ii)  Dead Man Anchor gap.
+
+          Ensure both are correct and clear of cement and debris.
+
+1.2     Pull should be limited on stuck pipe to 85% of the minimum yield strength of the weakest member,
+       unless differently advised by the drilling office.
+
+2.    EFFECTIVE PULL ON STUCK DRILL PIPE
+
+     When determining the pull on Stuck Drill Pipe the actual weight of the string in air is to be used and not
+       the indicated weight as recorded by the weight indicator.
+
+       Example:
+
+      Depth  - 9765 ft
+
+       Weight of Drill Collars in Air = 743’ of 6 1/2” OD x
+              3” ID Drill Collars = 743 x 89                                      =    66100  lbs
+       Weight of Drill Pipe in Air = 9022’ x 19.5 lb/ft                              =   175900  lbs
+        Total Weight of String in Air                                            =   242000  lbs
+
+        Indicator Reading                                                   =   205000  lbs
+       Weight of Hook, Blocks, Swivel, etc.                                      =    27000  lbs
+
+        Pull Reported at 100,000 lbs over Indicator Reading                          =   305000  lbs
+      Less Hook, Block, Swivel, etc.                                          =    27000  lbs
+        Effective Pull on String                                                =   278000  lbs
+
+      Assuming that pipe is stuck on bottom then the effective pull at the stuck
+        point = 278000  - 242000 (no buoyancy of pipe)                           =    36000  lbs
+
+        In order to apply a pull of 100,000 lbs at the bit, the Indicator Reading
+       would have to be 242000 + 27000 + 100000                             =   369000  lbs
+
+       This would mean that the pull on the pipe amounts to 369000  - 27000           =   342000  lbs
+
+3.    STUCK CASING
+
+      The maximum total surface load (NOT overpull) on casing should not exceed either:
+
+        1.   Yield Strength of Top Pipe or Thread (take weakest)
+                                  1.6
+
+        or
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 3 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6100/GEN
+
+                                                                  Rev.         :  3 (9/90)
+      DRILLING MANUAL     Page        :  2 of 3
+
+SUBJECT:  EFFECTIVE PULL ON STUCK PIPE
+
+        2.   Yield Strength of Weakest Pipe or Thread  +  (Weight in Air of Casing above it)
+                              1.6
+
+       whichever is the lower.
+
+     EXAMPLES
+
+        1.  13 3/8” casing - N80 - 72 lbs/ft - Buttress
+
+            Yield Strength of the Pipe     =  1661000 lbs (weakest)
+            Yield Strength of the Thread   =  1693000 lbs
+
+         Maximum Total Load  =  166100  =  1038125 lbs
+                                          1.6
+
+        2.  9 5/8” casing - P110 - 47 lbs/ft - Buttress from 0’ - 3000’
+          9 5/8” casing - N80 - 47 lbs/ft - Buttress from 3000’ and deeper pipe is stuck below 3000 ft.
+
+            Yield Strength P110 Pipe     =  1493000 lbs
+            Yield Strength P110 Thread   =  150000 lbs
+            Yield Strength N80 Pipe      =  1086000 lbs
+            Yield Strength N80 Thread    =  1161000 lbs
+
+         Maximum Total Load is either:  1493000  =  933125 lbs
+                                               1.6
+              or:
+
+          1086000 + (3000 x 47)  =  819750 lbs (which is lower one in this case).
+               1.6
+
+           Note:
+
+             a)   Regardless of the calculated allowable loads, the safety factor for the blockline must
+             neverbelessthan3. This may well be the limiting factor instead of the casing strength.
+
+             b)     If there are angle changes in the hole and/or internal pressure inside the casing, the
+                 allowable surface load will be restricted. These values are given in API bulletin 5C2.  For
+                angle changes only, the reduction in allowable load can be calculated as follows:
+
+                Reduction in allowable load =  63 x D x W x A pounds
+
+                where:  D =  diameter of pipe, in inches.
+             W =  weight of pipe per foot, in pounds (below angle change).
+                  A =  angle change, in degrees/100 ft.
+
+              c)     If the casing is stuck in such a way that no circulation is possible, the string can be
+                 pressurised and then be bled off (before applying extra pull), thus providing below the floats
+               upward force in addition to the pull applied at surface.  At all times the effect of increased
+                pressures on formation breakdown gradients must be considered.
+
+        A rule of thumb for determining the pipe body yield strength of casing is as follows:
+
+         F =  0.29 x W x Y pounds
+
+           where: W =  weight of casing in lbs/ft.
+               Y  =  yield stress in psi.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 3 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6100/GEN
+
+                                                                  Rev.         :  3 (9/90)
+      DRILLING MANUAL     Page        :  3 of 3
+
+SUBJECT:  EFFECTIVE PULL ON STUCK PIPE
+
+          Example
+
+          Take new 7” casing - C75 - 32 lbs/ft
+
+          Min yield is 0.29 x 32 x 75000 =  698800 lbs
+
+            Halliburton book gives: 699000 lbs
+
+

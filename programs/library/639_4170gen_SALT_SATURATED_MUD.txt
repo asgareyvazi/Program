@@ -1,0 +1,94 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 2 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4170/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  1 of 2
+
+SUBJECT:  SALT SATURATED MUD
+
+1.    USE OF SALT SATURATED MUD
+
+       This system is used for drilling salt sections.   It is a low solids non-dispersed system based on the
+       seawater polymer system.
+
+2.    TYPICAL PROPERTIES
+
+     pH           9.5 - 10.5
+       Chlorides    190,000 mg/L
+
+      To saturate freshwater requires:
+
+       0.888 bbl freshwater                                        for one final bbl      109 lbs salt        }
+
+3.    SALT SATURATING AN EXISTING MUD
+
+     When salt is added to an existing mud, flocculation with increased viscosity and fluid loss will occur. To
+       reduce this, the saturation should, if possible, be carried out over three circulations.
+
+3.1    1st Circulation
+
+      Reduce funnel viscosity to 35/40 and MBT to 12-15 ppb.
+
+3.2   2nd Circulation
+
+      Add salt at ± 110 lb/bbl of aqueous phase. Correction for the solubility of salt with temperature can be
+     made after the third circulation is satisfactorily completed.
+
+3.3    3rd Circulation
+
+       Adjust alkalinity, fluid loss and viscosity to the desired properties.
+
+4.    RUNNING A SALT SATURATED MUD
+
+        a)  The mud is normally run as a polymer system using XC polymer and starch for viscosity and fluid
+            loss control respectively.
+
+        b)   In high salt concentrations, the effectiveness of FCL decreases.  In these circumstances it may be
+             better to use a low molecular weight polyacrylate dispersant.  However, viscosity control in this
+          system is not usually a problem whilst drilling salt but it may be if long shales sections have to be
+              drilled in addition to the salt.
+
+        c)  Above 300°F, Hostadrill 2825 should be used for fluid loss control.
+
+        d)    If foaming is a problem, increasing the Pf to greater than 1.0 cc may reduce this.
+
+        e)    If there are indications of sticking whilst making a connection, this is most likely due to salt creep.
+          Running a small stream of water at the suction will result in a slight washing out on bottom and may
+           prevent the problem.
+
+           f)   With increasing temperature, the solubility of salt increases as below:
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 2 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4170/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  2 of 2
+
+SUBJECT:  SALT SATURATED MUD
+
+       Temp°F     NaClppb
+
+          122           104.8
+          158           106.3
+          212           111.7
+          302           120.7
+          356           128.4
+
+          Thus to prevent washouts under downhole conditions, the mud must be saturated with respect to
+           the bottomhole temperature to be experienced.  This will result in salt crystals forming under
+           surface temperature conditions which may be removed by the solids control equipment. Thus  it
+         may appear that it is necessary to continually add salt downstream of the solids control equipment
+             to maintain saturation under downhole conditions. However, when thick salt sections are drilled,
+            the mud will pick up enough salt as drilled solids to ensure saturation in spite of losses of salt
+           through the solids control equipment.   If this situation is correctly analysed, the new volumes of
+        mud can be added with less salt than would normally be required. The fluid must still be saturated
+             at surface temperature, but excess may not be required.
+
+

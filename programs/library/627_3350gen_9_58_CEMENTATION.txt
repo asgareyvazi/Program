@@ -1,0 +1,335 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3350/GEN
+
+                                                                  Rev.         :  2 (7/90)
+      DRILLING MANUAL     Page        :  1 of 5
+
+SUBJECT:  9 5/8" CEMENTATION
+
+1.    PREPARATION
+
+1.1    Check the volumetric efficiency of the mud pumps immediately before the job and monitor both pit
+      volumes and pump strokes during the displacement.
+
+1.2    Ensure samples of bulk cement (from the silos to be used for the job), water and additives are sent to
+       the Fluids Department in good time for Laboratory testing before the expected job date. Check pre-
+        flush requirements and mixing procedures.
+
+1.3   On platforms ensure that the kill line from the cement unit to the production facility is isolated before the
+        unit is operated.
+
+1.4    The 9 5/8” casing will normally be cemented with a float shoe and float collar two joints apart.
+
+1.5    The 9 5/8” casing will normally be cemented in a single stage, bringing the lead cement slurry 100m
+        inside the 13 3/8” shoe.
+
+1.6   An ancillary pressure recorder is to be used to record the complete operation on a single chart.
+
+          i.e.    Circulating the casing
+             Pressure testing
+              Preflush displacement
+           Lead and tail slurry mixing
+             Displacement
+            Casing pressure test
+
+       This requires the recorder to be connected to one of the cement head or cement swivel outlets.
+
+1.7    9 5/8” cementation calculations to be performed are:
+
+        1.   Weight of casing prior to landing, equipment safety factors, blockline etc.
+
+        2.   Weight of casing at hanger when cemented to ensure negative buoyancy when landing string held
+               in elevators.
+
+        3.   Landing string buoyed weight when SSR in use.
+
+        4.    Circulation volume.
+
+        5.   Volume and density of preflush.
+
+          Note:
+       On jack-up wells the spacer volume should be such that if the spacer is returned it indicates that
+           theTOCisbelowtheMLH.
+
+        6.   Reduction in hydrostatic due to preflush. Use height of preflush in gauge hole.  Ensure that
+               sufficient overbalance is present at all times.
+
+        7.   Lead and tail slurry volume including excess.
+
+        8.    Hydrostatic pressure when cement fully displaced. Check against expected frac pressure @
+            shoe.
+
+        9.   Cement, additive and mixwater requirements for lead slurry.
+
+       10.  Cement, additive and mixwater requirements for tail slurry.
+
+       11.  Minimum slurry volume, ignoring excesses.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3350/GEN
+
+                                                                  Rev.         :  2 (7/90)
+      DRILLING MANUAL     Page        :  2 of 5
+
+SUBJECT:  9 5/8" CEMENTATION
+
+       12.  Capacity of cement line and displacement volume to shear wiper plug (SSR).
+
+       13.   Theoretical pumping pressures versus slurry and displacement volumes. Prepare a graph.
+
+       14.  Displacement volume.
+
+       15.  Nos. of pump strokes at various pump efficiencies, down to 94%.
+
+       16.  Maximum possible returns from the cement job, ignoring circulating losses, and the maximum
+            displacement volume required to catch up with the “U”-tubed cement.
+
+       17.   Slurry mixing time.
+
+       18.  Displacement time.
+
+       19.   Total job time compared to thickening time.
+
+       20.   Theoretical static differential pressure.
+
+       21.  Casing test pressure.
+
+       22.  Maximum circulating and displacing rates to avoid exceeding a maximum allowable ECD, e.g.
+             leak off test formation strength.
+
+       23.  Possible TOC in gauge hole.
+
+       24.  Time for bottom plug to bump.
+
+      Note:
+
+      a)  Slurry and displacement volumes are to be calculated by the BP Drilling Supervisor, BP Drilling
+          Engineerandcementer.
+
+      b) Ensurecalculatedtopofcementplusexcessdoesnotapproachthewellhead.
+
+      c) Be aware of the effects of “U”-tubing which take place during cement jobs. These effects are most
+           noticeable on jobs where there is a large hydrostatic difference between the cement column inside
+         thecasing/drillpipeandthemudintheannulus,i.e:
+
+         - Linercementations.
+         - Longcasingstring/largevolumecementations.
+         - Largedifferencesincement/mudweights.
+
+          During cement mixing/start of displacement, the well may appear to be flowing due to the weight of
+         the cement slurry. A reduction in returns will then occur as the mud “chases” the cement. Full
+           returnsshouldthenberegainedoncethemudhascaughtupwiththecement.
+
+             It is the responsibility of the Drilling Supervisor to ensure that the Mud Loggers are aware of these
+            effects and that they do not confuse them with flow or losses. If there is any doubt as to whether
+         the well is flowing, it should be flow checked. If losses are apparent the pump rate should be
+          reducedinanattempttoreducethelosses.
+
+2.    CEMENT SLURRIES
+
+2.1     Slurry volume will be based on caliper plus 10% excess.
+
+2.2       If no caliper is available excess volume to be used will be 50% over theoretical volume. Excess to be
+       discussed and agreed with the Drilling Superintendent.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3350/GEN
+
+                                                                  Rev.         :  2 (7/90)
+      DRILLING MANUAL     Page        :  3 of 5
+
+SUBJECT:  9 5/8" CEMENTATION
+
+2.3    Excess volumes will be confirmed in the programme. Lead slurry will be class G mixed in seawater with
+       extenders to a weight of 13.2 ppg (1.58 SG).  Additives will be specified in the drilling programme and
+       confirmed by cement telex.
+
+2.4     All attempts should be made to ensure that the top of cement is 100m above the previous casing shoe.
+
+2.5     Tail slurry will be a minimum of 150 linear metres of class G cement mixed in seawater to a weight of
+       16.0 ppg (1.92 SG).  Additives will be specified in the drilling programme and confirmed by cement
+         telex.
+
+2.6    The tail slurry must cover and isolate any reservoir or critical zone such as salt, as far as practical.
+
+      Note:
+    On surface release cement heads, if the plug drop indicator is partially activated by the bottom plug it
+      shouldberesettoconfirmthebottomplughasgone.
+
+2.7    Ensure that samples of cement slurry are taken regularly during mixing and set aside for observation.
+
+2.8    Top of cement may be confirmed later either by temperature survey or by CBL.
+
+3.    CEMENTING OPERATIONS
+
+3.1    Circulate casing and condition mud using the same annular velocity as when drilling.  Record
+       pressures.
+
+3.2   Minimum circulating volume to be the greater of:
+
+        a)  1.2 times annular volume
+
+        b)  1.2 times casing volume
+
+       Monitor returns for losses or indications of formation fluid influx, especially gas.
+
+            If any influx is noted circulation must be continued until a full annulus volume has been pumped without
+        indications of influx.
+
+3.3    Test all cementing lines and equipment to 1000 psi above casing test pressure before circulating.
+
+3.4       If the cement head or cement swivel was not used during circulation install same. Flush cement lines
+      and test hook up to 1000 psi above casing pressure test.
+
+3.5   Pump the preflush as outlined in the programme.
+
+            If the well is to be suspended then any water based mud and preflush which will remain in the annulus
+      above TOC should be treated with biocide and corrosion inhibitor.
+
+      Note:
+     Open hole pressures are to be checked to ensure the reduction in hydrostatic head caused by the
+       preflush will not allow the formation to flow. Use maximum height of preflush in gauge hole for this
+        calculation.
+
+3.6    Surface Release Cementation
+
+        1.   After pumping the spacer undertake the following:
+
+            a)   Install bottom cement plug. Check:
+
+                           i)   Plug is marked as Bottom Plug.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3350/GEN
+
+                                                                  Rev.         :  2 (7/90)
+      DRILLING MANUAL     Page        :  4 of 5
+
+SUBJECT:  9 5/8" CEMENTATION
+
+                            ii)   Plug is correct for casing weight and size.
+
+                              iii)   Plug is below cement line outlet in cement head.
+
+                     iv)  Passage of plug activates plug drop indicator.
+
+            b)  Screw in top plug retainer pin.  Lock pin and tie pin lock in position to ensure lock cannot
+                 vibrate loose.
+
+             c)  Reset plug drop indicator (if possible).
+
+            d)   Install top cement plug. Check:
+
+                           i)   Plug is marked as Top Plug.
+
+                            ii)   Type of plug manufacture, i.e. all rubber or hollow aluminium.
+
+                              iii)   Plug is correct for casing weight and size.
+
+            e)  Tighten cement head cap.
+
+             Note:
+                 ItistheDrillingSupervisor’sresponsibilitytowitnesspluginstallation.
+
+        2.  Release the bottom plug.
+
+         Note:
+             If the plug drop indicator is partially activated by the bottom plug, it should be reset to confirm that
+         thebottomplughasgone.
+
+        3.  Mix and pump the calculated volume of lead and tail slurry.
+
+        4.  Release the top plug when the tail slurry has been mixed and pumped. The Drilling Supervisor is
+             to witness the plug release and plug drop indicator movement.
+
+                   If there is any doubt that the top plug has failed to release, continue displacement checking both
+            the volume pumped and number of strokes.
+
+        5.  Ensure cement lines are flushed clean.
+
+         Note:
+       When cementing from a floating unit using a full bore running string, a top and bottom plug will be
+          used.
+
+3.7    Subsea Release Cementation
+
+        1.   After mixing and pumping the required lead and tail slurry volumes, release the top plug launching
+             dart with the cement line to the rig floor full of cement.
+
+        2.  Pump 2 - 3 bbl of water (or base oil if OBM is being used) to clear the cementing line of cement,
+            followed by the required volume of mud to latch the dart into the SSR wiper plug. This should be
+          done at 4 - 6 BPM to avoid bypassing the dart.
+
+        3.  Observe the wiper plug shear (+/- 1850 psi). Change lines at the rig floor to allow displacement
+            with the rig pump.
+
+3.8    Displace cement with rig pumps at the highest possible rate, consistent with not inducing losses.
+
+      Ensure two lines are connected to the cement head to minimize surface pressures.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3350/GEN
+
+                                                                  Rev.         :  2 (7/90)
+      DRILLING MANUAL     Page        :  5 of 5
+
+SUBJECT:  9 5/8" CEMENTATION
+
+3.9   The displacing volume must be measured from the mud tanks. The return and displacing tank
+       arrangements are to be planned before cement mixing commences either to displace from one tank
+      and return to another or to ensure that a volumetric check is made against pump strokes.  Other
+      methods of displacing, i.e. pump strokes, are not accepted as sufficiently accurate to be used as the
+       sole method of displacement volume measurement.
+
+       Frequent checks must be made on the mud tanks throughout the displacement to ensure that the
+      volume being used compares with the rate of displacement.
+
+3.10   Slow the pumps at the required pump strokes with 100% efficiency, prior to bumping the top plug, and
+       record static differential pressure.
+
+            If the cement thickening time is approaching ignore above and continue displacement until the plug
+      bumps.
+
+3.11  Bump the plug at a slow pump rate.  If the plug does not bump when expected, limit over displacement
+        to half the shoe track volume.
+
+3.12   The maximum number of pump strokes to displace is calculated as:
+
+        (Actual casing volume + 0.5 x shoetrack volume) x 100/volumetric efficiency (%) x strokes/bbl
+
+        Discretion must be exercised to ensure over displacement does not occur where isolation around the
+       casing shoe is considered critical.
+
+       Test casing. Test pressure to be the lesser of:
+
+        a)  3500 psi;
+
+        b)  80% of the internal yield pressure of the casing; or
+
+        c)  as advised in drilling programme.
+
+      Note and record volume required to reach test pressure.
+
+       Bleed off pressure and check operation of float equipment. Re-bump plugs if float valves fail to hold,
+       maintain static differential pressure until the cement sets sufficiently to prevent backflow, or until the
+       surface samples set.
+
+      Release the pressure and check for backflow.
+
+

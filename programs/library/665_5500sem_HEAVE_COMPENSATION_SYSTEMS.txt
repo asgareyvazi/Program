@@ -1,0 +1,539 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  1 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+1.    RISER TENSIONERS
+
+1.1    Riser tensioners provide positive axial tension to the Marine Riser. They typically have the capacity to
+       supply 80,000 lb tension (each unit) with up to 50 ft compensation. The tensioners are combined in
+        pairs with most rigs having either 8 or 10 units (giving a total tension of 640,000 lb or 800,000 lb). They
+       are designed to supply the full rating on a continuous basis.
+
+1.2    The tensioner system comprises (Figure 1):
+
+       Tensioner Unit
+      Power Air Pressure Vessels (APV)
+      Standby APV’s
+       Control Panel
+        Air Compressor
+
+      The tensioner line is reeved over multiple sheaves at the fixed and moveable ends of the tensioner,
+       then over an idler sheave and connected to the support ring on the top of the riser pipe. The large
+      volume APV’s provide a “constant” air pressure which acts on an oil filled accumulator on each
+       tensioner unit.  Oil pressure causes the tensioner piston rod to move in or out depending on whether
+       the line tension is instantaneously higher or lower than the value equivalent to the system pressure.
+       This constant adjustment of the line length maintains a tension in the line to ± 3% of the set tension.
+
+1.3   The technique of utilising an air/oil interface in the accumulator ensures full lubrication on the high
+       pressure side of the piston and prevents corrosion which would result from contact with hp air.
+
+1.4    The low pressure end of the operating cylinder is also oil filled. As the rod extends oil flows through a
+      speed control valve into a low pressure air/oil reservoir. When the rod retracts the oil flows in the
+       opposite direction. The device has the effect of lubricating the cylinder and damping the rod motion.
+       Should the tensioner line break, the rod would extend to its full stroke, but at a controlled rate.
+
+1.5    The tensioners are typically installed with the rod end up and can be mounted on a twin mounting pad
+        carrying two units.
+
+1.6    The wire rope must be replaced on a periodic basis to prevent breakage. To determine replacement
+        time, the number of ton cycles is calculated by estimating an average number of heave cycles per day
+      and multiplying that by the line load. The slip and cut procedure would be as follows:
+
+        a)  Stand down a riser tensioner and its opposite number to give an equally distributed radial loading
+          on the telescopic joint support ring.
+
+        b)  Recover wires and shackles from the support ring of the telescopic joint. Note any excess wear on
+            the support ring pad eyes.
+
+        c)  Release the wireline clamp on the side of the riser tensioner and pull through the required length of
+            wire to be slipped.
+
+        d)  Refasten the wireline clamp on the riser tensioner.
+
+        e)  Remove the wireline clamps from the tensioner end of the wire.
+
+           f)   Cut off the required length of line, preferably with a cutting torch to a fused end.
+
+        g)  Refasten the end of the wire to the wireline clamp. N.B. Bulldog clips have a right and wrong way
+             of fastening;  if in doubt, ask.
+
+        h)  Connect the wires to the riser tensioner support ring.
+
+            i)   Actuate the riser tensioner.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  2 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+
+                                                                     FIGURE 1
+
+                       RISER TENSIONER (SHAFFER)
+
+
+
+
+
+                       AIR PRESSURE                       LOW PRESSURE
+                                                            SEAL
+
+                                                           2                                                            SAFETY SPEED                           2
+                                                       CONTROL VALVE
+
+
+                  ACCUMULATOR
+
+                                                                       AIR-OIL
+                                                              RESERVOIR                   CONTROL PANEL                                                            4                      20-40 psi
+
+                                                                                   1
+                                                                                3
+
+
+                                                           HIGH PRESSURE
+                                                                             4  SEAL
+               AIR                                                            CYLINDER             SOURCE                              VENT
+
+             VENT
+
+
+
+                                      2
+
+
+
+
+        1.  LOW PRESSURE AIR
+        2.   HI PRESSURE AIR
+        3.  LOW PRESSURE OIL
+        4.   HI PRESSURE OIL
+
+
+
+
+                                                                                                                                                           2179 / 45
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  3 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+2.    GUIDELINE TENSIONERS
+
+2.1    Guideline tensioners provide positive tension in the guidelines connecting the rig to the drilling
+       guidebase.  There is one tensioner unit for each of the 4 guidelines, each unit typically having a
+       capacity of 16,000 lb with 40 ft of compensation.
+
+2.2    The tensioner system comprises (Figure 2):
+
+       Tensioner Units
+      Power APV’s
+       Control Panel
+       High Pressure Air Source
+
+      The operation of the system is similar to the riser tensioner operation except that the power fluid is air
+        only.  Guideline storage and the dead end of the cable is accommodated on an air tugger located on
+       the cellar deck. The capacity of the tugger must be maximum water depth + 200 ft for hook-up, air gap
+      and line replacement. The brake capacity of the tugger must exceed the capacity of the tensioner
+       (16,000 lb) but the inhaul capacity is typically about 4,000 lb.
+
+        In addition to the 4 guideline tensioners, there are usually another two to give compensation on the
+     BOP control pod line and the underwater television line.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  4 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+                                                                    FIGURE 2
+                    GUIDELINE TENSIONER (SHAFFER)
+
+
+
+
+
+                      AIR PRESSURE VESSEL                  LOW PRESSURE
+                                                            SEAL
+
+                           2                                       SAFETY SPEED
+                                                       CONTROL
+                                                        VALVE
+
+
+                                                                       AIR-OIL
+                                                              RESERVOIR                   CONTROL PANEL                                                                                       20-40 psi
+
+                                                                                   1
+                                                                                3
+                                   TENSIONER
+                                  ACTIVATOR
+
+                                                           HIGH PRESSURE
+           HIGH PRESSURE                                                                            2   PISTON SEAL            AIR                                                            CYLINDER           SOURCE                              VENT
+            AIR
+           VENT
+
+
+
+                                      2
+
+
+
+
+        1.  LOW PRESSURE AIR  (20-40 psi)
+        2.   HI PRESSURE AIR    (200-1800 psi)
+        3.  LOW PRESSURE OIL  (20-40 psi)
+
+
+
+
+
+                                                                                                                                                           2179 / 46
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  5 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+3.    DRILL STRING COMPENSATOR
+
+3.1   The drill string compensator (DSC) is mounted between the travelling block and the hook and is
+       designed to nullify the effect of vessel heave on hook load.
+
+        Typically compensators used on rigs in the North Sea have a capacity of 400,000 to 600,000 lb
+       (compensating) with 18 or 20  ft stroke. The Shaffer system described below achieves 400,000 lb
+       compensation rating at an operating pressure of 2260 psi.
+
+3.2    The system comprises (Figure 3):
+
+       Motion Compensator Unit
+       Hydraulic/Pneumatic Operating System
+       Control Panel
+       High Pressure Air Source
+
+     Some systems are fitted with a hydraulic latch which locks the compensator at whatever stroke and
+      hook load setting it is at a few seconds after the “lock” button is pressed.
+
+      The Shaffer system utilises hp air as the power fluid. This is supplied to the compensator unit from a
+      bank of APV’s through a standpipe manifold and a hose bundle looped from the manifold to the
+       compensator. The low pressure ends of the operating cylinders are oil filled and are connected to a low
+       pressure air/oil reservoir through a speed limiting valve. The oil lubricates the cylinder and the valve
+       provides motion damping especially in the event that the hook load is suddenly lost.  In this case the
+       valve prevents the very rapid extension of the rod which would otherwise occur.
+
+      The system shown incorporates a chain linkage between the upper yoke of the compensator attached
+        to the travelling block and the lower yoke attached to the hook. This allows an 18 ft movement for a 9 ft
+        stroke, reduces the loading on the unit and the required derrick height to accommodate the unit. The
+         total load capacity of the chain is 1,500,000 lbs with the replacement time being determined by a simple
+       length measurement indicating bearing wear. (Manufacturers state about 6 years chain life.)
+
+      The lock bar feature on the compensator allows the lower yoke to be locked to the upper yoke, thus
+        effectively locking the hook to the travelling block. The mechanism is operated by hydraulic pressure.
+
+      The control console located near the driller’s station allows the driller to monitor:
+
+      Compensator Stroke Position
+      Compensator Hook Load (Pressure)
+      Lock Bar Position
+      Standby APV Pressure
+
+      and to control:
+
+      Compensator Load/Pressure
+      Lock Bar Operation
+         Air/Oil Reservoir Pressure
+
+      The stroke position indicator displays the compensator position relative to its upper and lower stroke
+         limits.
+
+3.3    Operation of the Compensator
+
+        1.  The drill string compensator is used to control the weight on bit while drilling and to nullify the effect
+             of the rig heave when performing such operations as landing/pulling the BOP, landing casing,
+            logging, landing off the drill string, etc.
+
+        2.  The length of the kelly must be greater when a compensator is in use to accommodate the effective
+            stroke of the unit. For instance, it is typical to use a 45 ft kelly on a rig using range 2 drill pipe (up
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  6 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+             to 30 ft) and a compensator with an effective stroke of 15 ft (18 ft total stroke).
+
+        3.  The maximum derrick height required occurs when picking up the drill string from the slips after
+           adding a stand of drill pipe and with the compensator fully stroked open.   If sufficient clearance is
+            not available, it will be necessary to lock the compensator.
+
+        4.  The level of compensation delivered by the unit (the tension setting) will depend on the air pressure
+              in the system.  In a drilling mode weight on bit is equal to the weight of the drill string minus the
+            tension setting. While drilling ahead the driller incrementally lowers the travelling block to account
+              for drill off and to maintain the compensator cylinder within its stroke capacity.  In this way the
+          compensator automatically maintains the selected bit weight.
+
+          Example:
+
+                Total MD Weight                        250,000 lbs
+                -   Block and DSC Main Frame Weight         55,000 lbs
+         =    Drill String Weight                       195,000
+                -   Required WOB                          20,000
+         =  DSC Setting                           175,000 lbs
+
+3.4    The following operating procedures illustrate suggested methods for utilising the compensator. Other
+      methods may be equally valid.
+
+        1.   Prior to reaching bottom or reaming depth:
+
+              Install the kelly (lock bar closed) and set the drill pipe in the slips.
+           Energise the compensator cylinders to the required APV pressure.
+          Both rods will extend to full stroke.
+           Unlock the lock bar.
+                Lift drill string out of the slips. The DSC will be fully extended.
+          Lower block until DSC is at mid position.
+         The DSC is now compensating for the present WOB.
+
+        2.  To add a single:
+
+             Pull kelly out of hole and set slips. DSC will be fully extended.
+          Lower block to completely retract the DSC and lock the lock bar.
+          Break pipe and install single.
+           Pick up out of slips and lower string, resetting slips below kelly.
+           Unlock the lock bar and raise block to fully extend the DSC.
+             Pull slips and RIH until DSC shows mid position and commence drilling.
+
+         Note:
+       On systems fitted with a hydraulic latch, the DSC can be locked when picking off bottom for a
+           connection. The connection is made and when the hook load returns to the same value as when
+         theDSCwaslocked,itcanbeunlockedtodrillaheadwithcompensation.
+
+        3.  Running casing:
+
+         Run casing with running tool installed to 5m above land off point and set slips.
+          Note total MD weight and subtract 20,000 lbs (landing weight) + 55,000 lbs (block weight) and set
+        DSC for this level.
+           Raise block to fully extend DSC and lift casing off slips.
+          Lower string to landing point, allowing DSC to reach mid stroke position. Set brake.
+            Calculate landing string and running tool weight and add to this 30,000 lbs (weight of lower yoke,
+           hook, bails and elevator). Set this weight on the DSC and remove the running string.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  7 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+        4.  Running BOP:
+
+         Run riser/stack and add slip joint. Note MD weight.
+         Run stack to 5m above wellhead (slip joint closed).
+           Support riser in hang-off tool.
+            Subtract 55,000 lbs (block and DSC frame) + 20,000 lbs (landing weight) from MD reading and set
+              this value on DSC.
+         Open lock dogs on slip joint.
+         Open lock bar on DSC.
+           Raise block to fully extend slip joint and fully extend the DSC.
+          Release the dogs on the hang-off tool.
+          Lower block to land BOP stack and continue to lower till DSC at mid stroke position.
+           Set brake and allow DSC to compensate.
+           Latch the BOP connector and attach riser tensioners.
+           Close DSC and lock bar prior to commencing pull test on the wellhead.
+
+           (Note the riser tensioners can be activated prior to landing the stack.   If the total load set on all
+            tensioners is 120,000 lbs say, then the procedure above is followed but the DSC setting will be
+          120,000 lbs less in this case.)
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  8 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+                                                       FIGURE 3
+                DRILL STRING COMPENSATOR ( SHAFFER )
+
+
+
+                                                                    TRAVELLING BLOCK
+
+
+                                                                            CHAIN
+
+
+                                                              LOW PRESSURE
+                         SPEED LIMITING VALVE                                 OPERATION                                                                    ROD SEAL
+
+
+                        AIR / OIL RESERVOIR                                                  2
+                                                                    ROD END
+                                                                          HYDRAULIC                                                    3
+
+                                                                          HIGH PRESSURE
+                                                                                 PISTON SEAL
+                                                    2                                    CUSHION
+                                                                                BLIND END                        AIR SAFETY VALVES                                                                          HYDRAULIC
+                                                                                               2    CUSHION
+
+           1     HIGH PRESSURE AIR 200-2400psi
+
+           2     OIL                                                                     LOCK BAR SLOTS
+
+           3    LOW PRESSURE AIR 20-40psi
+                                                           1
+                                                     HOOK
+
+
+
+                            AIR SAFETY
+       STAND PIPES         VALVES
+                         (2)
+
+        VALVE
+        MANIFOLD                             AIR HOSES (4)
+
+
+                         (1)               CONTROL CONSOLE
+
+
+                                      AIR
+             POWER              COMPRESSORS
+          AIR PRESSURE
+              VESSELS
+
+
+                          STANDBY AIR
+                           PRESSURE VESSELS
+
+                           HIGH PRESSURE AIR FOR
+                         DRILL STRING COMPENSATOR AND
+                        RUCKER TENSIONER SYSTEM
+
+
+
+                                                                                                                                                          2179 / 47
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  9 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+4.    COMPENSATION WHILE LOGGING
+
+      The DSC is used to allow compensation to the logging line using the set-up shown in Figure 4. A
+        special 1 1/8” galvanised working wire with one end secured to the rig structure and the other to the
+         riser support ring is passed through a sheave supported by the DSC. A second sheave supported from
+         this carries the logging cable. The working wire incorporates a weak point of 18,000 lbs rating and a
+        safety tie line. The shackle point welded to the rig structure is special steel and normally supplied by
+       the logging contractor.
+
+        In operation the DSC is set to compensate for 10,000 lbs hook load and the block positioned to put the
+      compensator at mid stroke.
+
+
+
+
+
+                        DSC
+
+
+
+
+
+                      Working Wire
+                                                Logging Cable
+
+                 Weak Point
+
+                                                            Rig Floor
+                      Tie Line
+
+
+
+
+                                                    Riser
+
+                             FIGURE 4
+
+
+
+
+
+                                                                                                                                                           2179 / 48
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5500/SEM
+
+                                                                  Rev.         :  1 (7/90)
+      DRILLING MANUAL     Page        :  10 of 10
+
+SUBJECT:  HEAVE COMPENSATION SYSTEMS
+
+5.    SPECIAL CONSIDERATIONS
+
+5.1    Vetco Drill String Motion Compensator
+
+     When operating the Vetco compensator system at the precharge and minimum operating pressure of
+      300 psi, it has been known for the compensator to temporarily lock close.  Therefore, when operating
+         this equipment with a minimal string weight, the minimum operating pressure must be 500 psi. In order
+        to achieve this, the string weight to be used must be designed such that the primary hydraulic system
+       operating pressure is not less than 500 psi at any time.
+
+

@@ -1,0 +1,478 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  1 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+1.    GENERAL
+
+       Casing centralisation is a critical parameter in ensuring the objectives of primary cementing can be
+       achieved. The degree to which a casing has been centralised in open hole is referred to as stand-off.
+       This is defined as:
+
+                   (Width of narrowest part of annulus)      100 x
+               (Diameter of hole  - diameter of casing) / 2
+
+      The most common centralisers are bow spring and solid/positive/rigid centralisers.
+
+      As hole angle increases the effective weight of the casing on the low side of the hole increases. The
+       higher wall forces generated require additional centralisers to prevent casing resting on the low side of
+       the hole.
+
+      The recommendations in this section should be used to determine a centralisation programme required
+         for wells for hole angles up to 50 deg. When the hole angle exceeds this or centralisation is required in
+      a build section, the casing wall forces should be calculated using the Drill String Simulator and the
+        suppliers of the centralisers contacted to determine the type of centraliser required and the optimum
+        positions.
+
+      Should a separate programme be run to determine centraliser placement, ensure that the actual
+        restoring force of the centraliser is used and not the API value.  Centralisers usually exceed the
+        restoring force of the API specification.
+
+       Rigid centralisers only have application where the hole is not more than 1/4" larger than the OD of the
+        centraliser or where the wall forces preclude the use of a bow spring centraliser. Hence the most
+     common applications will be inside casing and across build sections.
+
+2.    RECOMMENDED CENTRALISERS AND INSTALLATION
+
+      The Weatherford range of centralisers are currently on a Purchase Agreement.  Table 1 details the
+        centralisers which should be used and the options on installation. The OD of a positive centraliser, if
+       used, should be at least 1/8" smaller than the minimum OD of the casing in which  it is run. The
+      recommended installation procedures are:
+
+2.1    Spring Bows
+
+     Type    Position
+
+       STVIII    Over casing coupling.
+      STIV     Over casing coupling.
+        STIII     Over stop collar (if placed between coupling and stop, separation must be greater than the
+               compressed length of the centraliser).
+       STI      Between stop collar and coupling (see note above).
+
+2.2    Positives
+
+     Type        Position
+
+     PO I-PO X    Between stop collar and casing coupling.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 9 ]
+────────────────────────────────────────────
+             BP EXPLORATION                                  Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  2 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+
+                                               2664             4646    3032          17833513  1684      2648    886                                     Force(lbs) +4000                                                           Restoring
+
+                                                      548       6651189 513    506    245                                     Force(lbs)  1706    1176             1018                          Forces    Running
+                                                                                                                                                                                                                                                                                                                      STAND-OFF                                         (lbs)  3700    4048             1448   872          11491128 951    698    375                                        Restoring       Force                                                     Starting                                                                              67%           and             and                                                       AT
+                                                                                      STIV       STIII                                 Sizes                                                   STVIII    STIV                 STIII         STI      STIM     FORCE                                                                                      1/2"                                                                                               1/4"                                               STIV                                                                   16"                                                      24"                                                           STVIII                                                         6"                                   Starting                                                26"
+                      -                  -                                                                                                         1/2"                             -                          Hole                                           17                -                                                12                                 Type   2 Centraliser
+                     -                          8                        -       &
+                          -       of                                                          20-24                                                                                         3/8"                                                                        5/8"                                                                                 Centraliser                                                                                                                   1/2"                                                 20-26                                                                5/8"                          7                                                                                      3/8"                             4                                             13  5/8"                                                                                                                                                                                                                                                                                                                      RESTORING                          Csg.                 18  18                        9                                           13         *             TABLE TypeRunning,
+
+
+                                                                                  C,D                                C,D         C,D C,D       C,D          C,DB,C,D C,D                                                                                               A,B,C,D                        A,B,C,D                 A,B,C,D                                                                                                                      COUPLING                                                                                                  Installation                                                      Rigid              Rigid  Rigid            Rigid                 RigidSpring  RigidSpring                                                                                  Spring                    Spring              Spring                                                                                                                                                                                                                                               CASING
+                                                                JSH       JSH    JSH                        AND                          StopCollarType                  J10H             J10H                                                                                                                                                                                                                                                                                              COLLARS
+                                                                                                                                                                                                                    LINERS                                 Type                                                                                                                                                                                                                              COUPLING     COLLARSTOP                                                                                                                                                                                                                                          COLLAR                                                                               STI                                                                                                             STIM                                                                            STVIIISTIV         STVIIISTIVSTIII      STIVSTIII            STIII                                                                                                                                                                STOPTWO                                                                                 CentraliserSpring                                                                                                                                                                      CASINGSTOP
+                                      AA
+                                                                                  1/2"                                                                                                   1/4"                                                                                                                                                                                                                                                                                                                                                                                                                                        BOW/ROTATING                                                                                                         1/2"                                                                16"                                      26"24"    26"24"23"                                                                                                                                                        OVEROVERBETWEENBETWEEN                          OpenHoleType                          8                                         17                                                  12
+
+                                      ----
+
+                                      ABCD                                                                                                       BOW                        V I                                      STRAIGHT                                Procedure            Type XXVIII       IX          VIII
+                    POPO                       PO       PO     PO       PO   PO                                                                                                                                                        KEY:                                                                                 CentraliserRigid                                                                                                                                                                                                                                                                                    STRAIGHTWELDED
+
+
+                                  ==                                           Installation                   Wall                                           WallWall             Wall              (87.5)                                                                                               (72)         (53.5)
+                     1"1"       1"           and            Size  1.5"                                                    3/8"                                            Casing                                            5/8"                       5/8"           STISTIM                     INSTALLATION                                                     Previous                                           30",26",             26",                                                13 9                                       30",                                       18
+
+   1
+                                                                5/8"                                                                              3/8"                                                                                               5/8"                                                    7"                                 Size  20"
+                        9                                18                                       13                                            Casing             TABLE Centralisers                                                                                                                                                                                                               NOTES:
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  3 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+3.    DETERMINING CENTRALISATION REQUIREMENTS
+
+
+
+                              OVER WHAT
+                               INTERVALS IS GOOD
+                               ISOLATION ESSENTIAL?
+
+
+
+                          IN THESE SECTIONS AIM FOR 80%STAND-OFF
+                   ASSUMING GAUGE HOLE. IF THIS ZONE IS TO BE
+                  CEMENTED ALONE, OPTIMISE PLACEMENT USING
+                   WEIGHTED SPACERS AND REDUCED MUD GELS.
+
+
+
+          ARE THERE ZONES WHERE
+          CASING COULD GET STUCK IF                    DO YOU HAVE TO
+          STATIC FOR MORE TIME THAN                   PUMP CEMENT OVER
+            MAKING A CONNECTION                      ANY OTHER SECTION?
+         CENTRALISE AT THESE POINTS?
+
+
+                                                                               IF NO CENTRALISERS
+                                                    ARE USED, COULD
+                                                   CEMENT CHANNEL
+                                                   AND RETURN TO
+                                                    SURFACE OR FRAC                                           YES                                                       A WEAK ZONE?
+                      IS PROBLEM SOLVED BY
+              PUMPING FASTER/SLOWER?        YES                  NO
+
+                       NO
+
+                                           YES                      IS PROBLEM SOLVED BY
+              REDUCING CEMENT EXCESS?
+
+                       NO
+
+             COMPARE THE COST OF THE FOLLOWING THREE OPTIONS:
+
+              A  IMPROVE STAND-OFF WITH MORE CENTRALISERS,
+                  CONSIDER THE EFFECT ON RUNNING CASING.
+              B  MODIFY THE DENSITY OF SPACER AND/OR CEMENT.
+             C  TREAT MUD GELS CONSIDERING TIME TAKEN AND
+                  CHEMICALS REQUIRED.
+
+
+
+              CHOOSE STAND-OFF
+                DISPLACEMENT RATE
+             AND FLUID PROPERTIES.                  DO NOT CENTRALISE.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  4 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+4.    CENTRALISATION PROGRAMMES
+
+4.1    20" and 18 5/8" Casing
+
+4.1.1   Vertical Wells
+
+     Two spring centralisers on shoe joint, one 2m above the shoe and the other around or below the collar.
+
+       Spring centralisers on second and fourth joint and first 2 joints inside the 30" casing.
+
+       Rigid centraliser above and below seabed on jack-ups and platforms.
+
+       Rigid centraliser on first 2 joints below the wellhead on jack-ups and platforms.
+
+4.1.2  Deviated Wells
+
+     Two spring centralisers on shoe joint, one 2m above the shoe and the other around or below the collar.
+
+     One spring centraliser every second joint for hole angles between 5 - 30 deg. At larger hole angles a
+       separate analysis should be performed.
+
+       Spring centralisers on first 2 joints inside the 30" casing.
+
+       Rigid centraliser above and below seabed on jack-ups and platforms.
+
+       Rigid centraliser on first 2 joints below the wellhead on jack-ups and platforms.
+
+4.2    13 3/8" Casing
+
+      To determine centralisers required in open hole section, use Figure 1.  In the event that there is no
+      knowledge of actual hole size, programme greater than 80% stand-off where isolation is critical.   If
+        calliper data is available, programme to achieve greater than 70% after allowing for hole OD using
+       Figure 1.   If centralisation is required in any section where the wall forces exceed 4,000 lbs per joint,
+         rigid centralisers must be used if centralisation is required.
+
+          •  NOMLSEQUIPMENTBEINGUSED
+
+            Centralisers on first two joints inside 20" shoe.
+            Rigid centraliser on first two joints above seabed.
+            Rigid centraliser on first two joints below wellhead.
+
+          •  MLSEQUIPMENTISBEINGUSED
+
+            Centralisers on first two joints inside the 20" shoe.
+           Spring centralisers on first two joints below hanger assembly.
+            Rigid centralisers on first two joints above the hanger assembly.
+            Rigid centralisers on first two joints below the wellhead.
+
+4.3    9 5/8" Casing
+
+      To determine centralisers required in open hole section, use Figure 3.  In the event that there is no
+      knowledge of actual hole size, programme greater than 80% stand-off where isolation is critical.   If
+        calliper data is available, programme to achieve greater than 70% after allowing for hole OD using
+       Figure 2.  If the well force in any section exceeds 3,500 lbs per joint, rigid centralisers must be used if
+        centralisation is required.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  5 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+          •  NOMLSEQUIPMENTBEINGUSED
+            Rigid centraliser one joint below the wellhead.
+
+          •  MLSEQUIPMENTISBEINGUSED
+
+            Centralisers on first 4 joints inside previous casing.
+           Spring centralisers on first two joints below the hanger assembly.
+            Rigid centraliser on first two joints above the hanger assembly.
+            Rigid centraliser one joint below the wellhead.
+
+4.4    7" Casing and Liner
+
+4.4.1  Casing
+
+       Spring centraliser two per joint to 10 joints above the reservoir, then one per joint to 30m above planned
+     TOC in 9 5/8" - 7" annulus. Centralisation above TOC as for 9 5/8".
+
+4.4.2   Liner
+
+       Non-Rotating
+
+     Two straight bow centralisers per joint, this will ensure casing stand-off greater than 80%. Stop collars
+      must be installed whilst pipe is on the deck to minimise lost rig time.
+
+       Rotating
+
+            If greater than 80% stand-off can be achieved, there will not be any significant benefits to be obtained
+      from rotation.  However, where the mud and cement weights are close (less than 2 ppg), or
+       displacement rates are constrained to less than 3 bbl/min or less than 2 centralisers per joint are run,
+        rotation should be considered. In this case a welded bow centraliser must be used. The minimum rate
+        at which rotation is likely to benefit is 10 rpm.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  6 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+FIGURE 1
+
+Centralisation Chart for 13 3/8" Casing with Weatherford ST IV Centralisers in 17 1/2" O.H.
+
+                           •
+                                                       ••
+                           •                                                     • 20ft.
+                           •          90                          SPACING
+                                                                         • 2 PER JOINT                                                     • 30                                                        ft.
+                                      SPACING
+                                                                         •
+          80                                 •                            40                                                   ft.
+                                        SPACING
+          70                                                     • 1 PER JOINT
+                                                     •
+                           50
+                                               ft.
+          60
+                           •      (%)                                    SPACING
+
+                                                                         •          50
+                                                     •                   STAND-OFF
+          40                   60
+                                               ft.
+                                                      SPACING          30
+                     80
+                                 ft.                     MINIMUM STAND-OFF
+                                            FROM 14 3/8"
+                                                  COUPLING          20                                                      •                                              SPACING
+
+
+          10
+                                       1 EVERY SECOND JOINT
+
+                                     HOLE ANGLE (degrees)
+           0                                                     •
+              0     10    20     30    40    50
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  7 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+FIGURE 2
+
+13 3/8" Centralisation v. O.H. Diameter
+
+
+
+
+         90
+
+
+         80    STAND-OFF •                        IN GAUGE
+                 HOLE
+                                            •
+
+         70    STAND-OFF  •                        IN GAUGE
+                 HOLE            •
+                                                                 •
+         60    STAND-OFF  •                        IN GAUGE
+                 HOLE            •      (%)
+                                                                •
+                                                                                     •
+         50
+                                                                •                                                                                     •                    •                   STAND-OFF
+         40                                                                 •                    •
+
+                                                                                                          •
+         30
+
+
+         20
+
+
+         10
+
+
+                           OPEN HOLE DIAMETER (inches)           0
+             17          18          19          20          21
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  8 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+FIGURE 3
+
+Centralisation Chart for 9 5/8" Casing with Weatherford ST III Centralisers in 12 1/4" O.H.
+
+                           •
+                           •
+                           •
+                                  20 ft.                                                     •                                      SPACING
+          90                                                     • 2 PER JOINT
+
+                                                     • 30                                                       ft.
+          80       •                     SPACING
+                                                                         •
+
+
+          70                                                     •
+                            •              40
+                                               ft.
+          60                                             SPACING      (%)
+
+                                                                         • 1 PER JOINT
+          50
+                   STAND-OFF                •
+          40                                                  MINIMUM STAND-OFF
+                                                     •              FROM 10 5/8"
+                                                  COUPLING
+
+          30                  50
+                                              ft.
+                     60
+                                  ft.
+          20                                     SPACING                  80
+                            ft.                                                  SPACING
+
+          10                                             SPACING
+                                                 •                       •
+                                     HOLE ANGLE (degrees)
+           0                                      •
+              0     10    20     30    40    50
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  2010/GEN
+
+                                                                  Rev.         :  5 (5/92)
+      DRILLING MANUAL     Page        :  9 of 9
+
+SUBJECT:  CASING CENTRALISATION
+
+FIGURE 4
+
+9 5/8" Centralisation v. O.H. Diameter
+
+
+
+
+         90
+
+
+         80              •
+
+
+         70              •
+                                           •
+
+
+         60              •         •
+      (%)
+                                                                •
+         50                        •
+                                                                •                  STAND-OFF                                                                        •
+         40                                                                •
+                                                                                     •
+
+                                                                                     •
+         30
+
+
+         20
+
+
+         10
+
+
+                           OPEN HOLE DIAMETER (inches)          0
+            12          13          14          15
+
+

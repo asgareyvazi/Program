@@ -1,0 +1,994 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  1 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+1.    REPORTING
+
+1.1    The logger reports to the Drilling Representative when he arrives on the rig and during rig up of unit.
+
+       During operation, the logger must report all pit gains/losses, significant gas peaks and drill breaks to
+         driller and operator representative.  Geological information is reported to geologist, or the drilling
+       supervisor in his absence. Charts in the unit should be properly annotated for times and events.
+
+1.2    Equipment Monitoring and Unit Duties
+
+1.2.1  The logging unit is an overpressured, skid mounted unit certified to the certifying authority and DOE
+       requirements.
+
+1.2.2  The external sensors are explosion proof and the unit equipment is protected by an intrinsically safe
+        barrier system.
+
+1.2.3  The unit is manned 24 hours a day or when required and the instruments should be monitored
+        continuously.
+
+1.2.4  Continuous Total Gas Detector records continuously on a strip chart and computer. The gas level
+      alarm should be set to sound for significant gas increases and these should be reported. The
+       chromatograph provides gas sample information only. Of paramount importance is H2S detection, also
+        with operator-set alarms.
+
+1.2.5 ROP Recorder is monitored continuously on a chart/computer for drill breaks, in addition to ROP data
+         for mud log. Breaks should be reported in accordance with BP procedure for flow checks.
+
+1.2.6 Pump Stroke Counter and Totaliser is used for calculated sample up times. The logger may also be
+        told to count strokes during particular rig operations, e.g. displacing cement.  Zeroing of cumulative
+       strokes should precede any such operation.
+
+1.2.7 Mud Pit Level Indicator. The active pit level must be monitored continuously by the logger and any
+      changes reported.  All pits in the system are monitored and printouts/computer records of total pits and
+        active pits are kept. The audible alarm must be set within high and low limits acceptable to BP Drilling
+       Representative.
+
+1.2.8   Monitoring total gas, ROP and mud level are important for rig safety.
+
+      The loggers primary job function is to collect and process samples, monitor the well for safety and
+       acquire good quality data.  Equally important is that alarms provided are set correctly and
+       acknowledged.  Failure to monitor pit gains/losses, drill breaks, or significant gas peaks can endanger
+       the rig and crew. Failure to monitor other instruments can result in incorrect geological or drilling data.
+      The consequence of lack of communication between logger, mud engineer or rig crew can be risk to the
+       operation and loss of credibility in the mud logging service.
+
+1.2.9    It is customary for any service company representative to discuss general aspects of the operation from
+       time to time and should be readily available to do this.
+
+1.3    Rig Up
+
+1.3.1  The mud logging service will be considered ready when:
+
+            i)    All equipment is rigged up, checked and calibrated.
+
+             ii)   Unit organised and ready for sample catching, bags are marked and log sheets prepared.
+
+              iii)  Unit properly stocked with expendable supplies and spares.
+
+          iv)  The sensor hook-up verification sheet has been signed by the rig representative.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  2 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+1.3.2  The service will be considered complete when:
+
+            i)  The well is finished and plugs are set.
+
+             ii)  The logs are completed and handed to operator.
+
+              iii)   All data including worksheets, print-outs and data tapes have been handed to operator. Data tape
+           format should be of the format described in the BP Technical Specification for mud logging
+            services.
+
+          iv)   All equipment has been rigged down and packed for dispatch.
+
+2.    CUTTINGS PROCESSING
+
+2.1    Collection
+
+      The sample is collected from a board in front of the shakers.
+
+      The board is to be cleared after each sample. The sample is to be taken from the full width of the
+       shakers so as to be representative of the interval. Be aware of finer particles from the formation not
+       being screened out by the shakers, thus missing the sampling.  In these cases, the desilter and
+       desander should be sampled for visual examination only.
+
+2.2   Washing
+
+     Washed samples should be prepared in the unit washed with diesel (base oil  if OBM) followed by
+        detergent, potable or drill water.
+
+      Removal of clay smear is important for cuttings description but may not be possible in soft clay
+        formation.
+
+      Samples are usually worked from coarse collecting sieve into fine sieve.
+
+2.3    Description
+
+        Lithologic analysis of cuttings is performed on washed sample in watch glass with the aid of a
+       microscope and fluoroscopic analysis is carried out with the aid of solvents to detect hydrocarbons.
+
+2.4    Drying and Logging
+
+      Washed samples are dried in drying oven and packed in envelopes. Wet unworked samples are put
+        into cloth bags directly at shakers. Samples for geochemical analysis are packed in barrier (SEET) foil
+      bags with added bacteriocide (not aluminium tins).
+
+2.5   The contractors personnel are responsible for ensuring samples are caught and packed at correct
+        intervals and despatched to shore.
+
+3.    INFORMATION REGARDING LIMITATIONS, ACCURACY AND TOLERANCES OF EQUIPMENT
+     SYSTEMS AND PROCEDURES - BASIC MUD LOGGING
+
+3.1   The Unit Equipment
+
+3.1.1  Standard Equipment:     Computerised monitoring/acquisition of:
+
+                                  Total gas
+                            Chromatograph C1 - C5
+                     ROP
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  3 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+                           Time on/off bottom
+                       Pump rate
+                                Flowrate
+                                       Pit volumes
+                          H2S
+                       Mud weight in and out
+                       Mud temperature in and out
+                               Rotary torque
+                              Standpipe pressure
+                               Rotary speed
+                          Hook load and weight on bit
+                          Cement unit pump rate and pressure
+
+      These data will be recorded on electronic media, against both depth and time.
+
+3.1.2  A monitor may be installed in the operator’s office to display and record any of these parameters versus
+       depth and/or time.
+
+3.2    Standard Equipment
+
+3.2.1   Total Gas
+
+      The gas sample is sucked into the unit from a gas trap behind the shakers by a vacuum pump in the
+         unit. An air driven agitator in the gas trap helps liberate gas from the mud. The sample is distributed to
+       the different instruments from behind the mud panel in the logging unit.
+
+       INSTRUMENTS:   Flame ionisation (FID) total gas detector.
+
+       LOCATION:      Behind main panel in unit. Control valves, instrument attenuation and chart recorder is
+                   on main panel.
+
+       OPERATION:    The ditch gas sample is brought to the instrument continuously. The sample is ionised
+                            in a flame chamber and the charge measured by electrodes. The signal is recorded on
+                   a chart and computer. The gas detector is calibrated by injecting a sample of known
+                       concentration and calculating chart division per concentration. Zero is to air.
+
+        LIMITATIONS:    The gas sample is mixed with air from the trap and the concentration of gas reaching
+                       the instrument depends on the positioning and efficiency of the trap. The position of
+                       the “gas trap” in the returning mud should be checked twice per hour when circulating.
+                   The detector is an accurate piece of equipment which must be calibrated at least once
+                   a week. The gas trap should be cleaned daily. FID is most accurate for 0 - 5% gas
+                        concentration.
+
+3.2.2  Chromatograph
+
+       INSTRUMENT:    FID chromatograph.
+
+       LOCATION:       In main panel, complete with attenuation and strip chart, signal link to computer and
+                          integrator.
+
+       OPERATION:    Gas sample brought to instrument by vacuum pump. Sample is regularly automatically
+                         injected and carried through selective columns which separates the gas components
+                   C1-C5, allowing them to be sampled individually. The result is recorded on a
+                   chromatogramme and analysed on an automatic, programmable on-line integrator.
+                   The chromatograph is calibrated by injecting a sample of known proportions of C1-C5
+                   and converting chart divisions/integrator response to PPM of individual gases from
+                   methane equivalent concentrations measured.
+
+        LIMITATIONS:    The chromatograph is limited by the quality of the sample, as described for total gas.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  4 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+3.2.3  ROP
+
+       INSTRUMENT:     Hydrostatic pressure kelly height meter, geolograph wire or drawworks sensors. The
+                             latter is favoured, for safety of use and ease of maintenance.
+
+       LOCATION:     The hydrostatic transducer is fixed to the kelly (top drive) hose and an oil or water line
+                              is taken from transducer to a reservoir in the derrick. The movement of the kelly (top
+                          drive) changes hydrostatic in the line which is converted to an electrical signal by the
+                       transducer.  Alternatively an electromechanical transducer detects rotation of the
+                    drawworks drum or a geolograph wire monitors the position of the travelling blocks. A
+                         signal cable leads from whichever transducer to the unit.
+
+       OPERATION:    The signal is sent to the computer, and ROP calculated, displayed and stored.
+                       Correction for drill string elasticity is required. A chart display should be provided of
+                          kelly/top-drive motion.
+
+        LIMITATIONS:    The hydrostatic hose is vulnerable to damage and restriction.   If rigged up and
+                         calibrated properly, the system is accurate. The hydrostatic kelly height meter and the
+                      geolograph are restricted to while-drilling monitoring only if connected to the kelly (less
+                          restrictive with top drive hose), whilst the drawworks transducer can additionally
+                    monitor tripping. The latter is therefore favoured. An independent heave-
+                     compensation system should be provided on floating rigs.
+
+3.2.4  Pump Strokes Indicator
+
+       INSTRUMENT:    Dual pump counter.
+
+       LOCATION:    SPM digital readout, strip chart and computer calibrated in gpm and total stroke
+                      counters per pump on panel computer. Pick-up units are mounted on each pump.
+
+       OPERATION:    The pick-up units are microswitches actuated by an arm mounted so that the switch
+                   opens for each pump stroke. The signal is converted to SPM in the computer.
+                        Alternatively, proximity switches are used, detecting pump motion by induction
+                     methods. A flowmeter measures mud flow out of hole.
+
+        LIMITATIONS:    The microswitches can become jammed, the pick-up arms misaligned and either miss
+                       strokes or double the count.   If set up and maintained properly, the system is reliable
+                   and accurate.  If mounted internally in the pump, proximity switches are very accurate.
+
+3.2.5   Pit Volume Totaliser
+
+       LOCATION:       In main panel. Sensors are located over each pit in mud system.
+
+       OPERATION:    The pit level is sensed by sonic pulses bouncing off the mud level, or a float with
+                    magnets on a pole which trips reed switches as it passes. The signal is sent to the unit
+                   and recorded on a strip chart and computer.
+
+                       Non-linear calibrations (multi-stage) may be required for complex pits.
+
+        LIMITATIONS:    The instrument is subject to interference if the dish is dirty and the sensor is vulnerable
+                          to the corrosive atmosphere above a mud pit. Steam from the pits can cause severe
+                         signal scatter.  If sensors are kept clean and pits are not too steamy, the system is very
+                        accurate.
+
+3.2.6  H2S Detector
+       INSTRUMENT:     Infra-red H2S detector or electronic (platinum electrode).
+       LOCATION:       Either in panel or separate instrument on bench, linked to the computer.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  5 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+       OPERATION:     Continuous ditch gas sample from vacuum system. H2S will blacken a white sensitive
+                       ribbon and a light detector will give signal to alarm. The instrument can be calibrated
+                    by inserting a blank in front of ribbon. The alternative method measures the resistance
+                          of a platinum electrode which varies in the presence of H2S.
+        LIMITATION:     The H2S detector is limited by the quality of the gas sample. The ribbon should be
+                          periodically checked to ensure sensitivity at intervals of one week maximum, and each
+                      sensor calibrated once per week with test cylinders of H2S.
+3.2.7  Mud Weight In and Out
+
+       LOCATION:       In main panel with computer storage and chart readout. Sensors are located in ditch
+                      behind shakers and in active pit.
+
+       OPERATION:    The sensors are probes which measure differential pressure across a diaphragm
+                       against a reference air pressure.
+
+                       This equipment is calibrated by zeroing in air and spanning to a known fluid density,
+                        e.g. freshwater.  Alternatively, a heavy ball hangs in the mud and its buoyancy
+                   measured (strain gauge), or gamma ray absorption of the mud is monitored.
+
+        LIMITATION:     The diaphragm of the differential pressure sensor must be located in moving mud so
+                    as not to become clogged with cuttings.   If set up and calibrated correctly,  it can be
+                               fairly accurate but must be cleaned regularly.
+
+3.2.8  Rotary Torque
+
+       LOCATION:        Digital storage and strip chart on panel.  Current detector clamped to power cable to
+                         rotary drive (Hall effect).
+
+       OPERATION:     Sensor detects current drawn by rotary table/top drive and converts it to signal which is
+                       displayed in unit. The measured torque in amps must be converted to a force unit for
+                        display and storage (i.e. k ft lbs or KNM).
+
+        LIMITATION:     None, provided clamp securely fixed.
+
+3.2.9  Standpipe Pressure
+
+       LOCATION:        Digital storage and strip chart on panel. Pressure transducer on standpipe manifold.
+
+       OPERATION:    Mud pressure operates a diaphragm in a housing. The transducer converts pressure
+                          to signal which is sent to unit. The instrument is calibrated using a dead-weight tester.
+
+        LIMITATION:      This instrument is rugged and reliable and needs little attention.
+
+       CALIBRATION:    Should be performed with a deadweight tester, once per well.
+
+3.2.10 Rotary Speed
+
+       LOCATION:        Digital storage and chart on panel. Sensor under rotary table. Alternatively a signal is
+                      taken from the top drive control unit.
+
+       OPERATION:    A proximity device senses a mass fixed to rotary drive (induction). The signal is sent to
+                           unit and displayed.
+
+        LIMITATION:     The rotary table sensor is subjected to a lot of vibration but  if mounted correctly is
+                           reliable and accurate.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  6 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+3.2.11 Hookload/Weight on Bit
+
+       LOCATION:        Digital storage and panel display with hookload/WOB electro switch plus strip chart
+                        recorder. Transducer near deadline anchor with hydraulic line “Tee” into rig, hydraulic
+                            line to load cell, or clamp-line tensiometer type on drill line. Clamp-line tensiometer is
+                       the favoured sensor type, being independent of rig equipment.
+
+       OPERATION:      Alternatively, hydraulic pressure from a load cell is converted to signal in transducer.
+                       Signal is displayed in unit. WOB is calculated from string weight (input) minus last
+                         free-rotating hookload.  This value of current string weight must be checked and
+                     updated regularly (once per single/stand).
+
+        LIMITATION:     The hydraulic system is dependent on the rig Martin Decker system.  Very few
+                     problems occur so long as hydraulic system does not leak. The independent clamp-
+                           line tensiometer should be installed wherever possible.  This sensor may require
+                     removal (simple) during slip and cut operations.
+
+4.    ADDITIONAL INFORMATION FOR PRESSURE DETECTOR SERVICES
+
+4.1     In additon to the basic mud logging service, provision may be made in the work order for data/pressure
+       engineering services.
+
+      The Pressure Detection Engineer (PDE) provides an estimate of formation pressure with the aid of
+         offline computer programmes. A pressure log will be prepared as specified in Section 6.
+
+4.2    The Pressure Detection Engineer will report to the operator’s representative on arrival at the wellsite.
+
+4.3    The pressure detection service will be considered ready when:
+
+            i)   Computer and additional equipment is rigged up and checked out.
+             ii)  When the pressure detection engineer is at the wellsite.
+
+4.4    During the course of his duties the PDE will report the following to the operator’s representative:
+
+            i)  Any change in “d” exponent, shale density, shale factor, flowline temperature or gas trends which
+           could indicate overpressure.
+
+             ii)  Any change in drilling parameters which could be significant in terms of hole condition, e.g. torque
+           change.
+
+              iii)   Pit gains or losses, drill breaks, significant gas peaks, hole swabbing on trips.
+
+        In addition, the PDE will make a daily written report of the parameters monitored, plus present any print-
+       outs from the offline programmes requested by the operator’s representative.
+
+      The PDE will keep the operator up-to-date on pore pressure and fracture pressure estimates.
+
+4.5    Pore Pressure Evaluation Methods: Procedures, Limitations and Accuracy
+
+4.5.1   “d” Exponent
+
+       Calculation and use of “d” exponent is a method of normalising penetration rate so as to show up
+      changes in formation compaction.  “d” exponent is calculated at 5m intervals using an equation of the
+        type:
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  7 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+           R           R  = ROP in FT/HR
+
+               log 60 N         N  = RPM
+      d =
+              log 12 W       W  = WOB in KLBS
+
+             106D          D  =  Hole Size in Inches
+
+      The exponent is usually corrected for mud weight, giving dxc:
+
+       dxc =  d. Weq         Weq  =  Normal pressure grad.
+             ECD        ECD  =   Effective circulation density
+
+       dxc is plotted on semilog paper and a normal trend is established in the shallower formations, usually
+        clays. Deviation from the normal trend in shales can indicate overpressure and this is calculated.
+
+      Pore Pressure  =  Normal Gradient   x     dxc NORM
+         lbs/gall                 lbs/gall               dxc OBSERVED
+
+      An overlay is constructed for different mud weights using the formula above.
+
+        Different companies use variations of the basic formula, correcting for other variables, e.g. bit wear - for
+       exact formula in use, refer to service company.
+
+        Limitations
+
+      The “d” exponent only holds good for clean shale (mudstone) formations.  In other types,  it is very
+        variable and trends are difficult to spot.
+
+      The Jordan and Shirley method, illustrated above, was derived in the Gulf Coast so experience in the
+        operator’s area is advisable.  Formation changes, e.g. increase in silt content, can shift the trend to
+       resemble overpressure.
+
+      Changes in certain conditions, e.g. a new bit, bit wear, can produce shifts in the trend which must be
+       recognised.
+
+      Use of a turbine produces a wide range of trends since WOB is not necessarily held constant, therefore
+       dxc evaluation during turbine runs is not a valuable overpressure indicator.
+
+        Interpretation of “d” exponent trends when drilling with PDC bits is unreliable due to bit cutter effects
+      and bit wear. A bit torque-based estimate of formation drillability is preferred with PDC bits.
+
+       Accuracy
+
+        Individual readings may be very accurate. Trend interpretation depends on experience and judgement
+        of the engineer. Dxc is a useful tool only  if drilling through thick uniform shale sections with
+       conventional rotary methods.
+
+4.5.2  Shale Density
+
+       Clean shale cuttings are taken from each sample and air dried on paper towels. The cuttings density is
+      measured either with a mud balance or in a variable density column.  Variable density fluid columns
+     may require toxic fluids and thus handling restrictions should be referred to.
+
+        a)  Mud Balance
+
+         The dried cuttings fill a mud balance until it reads 8.33 and fresh water is added until the cuttings
+           are completely covered. The cap is put on the balance and the density is read. This is D1.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  8 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+           Using the formula:       S.G.  =     8.33
+                                             16.66 - D1
+            the specific gravity of the cuttings is determined.
+
+            Limitations
+
+            Individual cuttings are not selected so there is a chance of formation contamination including
+            cavings. This method will produce a trend which can be valuable.
+
+          Accuracy
+
+           This method is not accurate and wide variations can be seen. but the trend is useful and is a good
+             alternative to a density column.
+
+        b)  Variable Density Column
+
+           Dried cuttings are placed in a graduated glass column, filled with a mixture of liquids having a
+            variable density.
+
+         The column is calibrated by placing reference beads of known density in the column and plotting
+              their positions on a chart.
+
+            Limitations
+
+         The cuttings can either float if too wet or sink if too dry and absorb the fluid. The chemicals used to
+            create the variable density column are hazardous.
+
+          Accuracy
+
+           Results from the column can be fairly accurate although agitation of the apparatus on an offshore
+               rig can upset the calibration and it is very difficult to get a linear change in density when making up
+            the column.
+
+4.5.3  Shale Factor
+
+       Shale factor is also known as the Methylene Blue Test (MBT).  Generally, as shales compact with
+       depth, the proportion of illite clay minerals increase relative to montmorillonite.  In medium depth
+        formations, a higher proportion of montmorillonite is indicative of overpressure.
+
+      The percentage of montmorillonite in the shale cuttings is determined by the MBT where the cation
+      exchange capacity of the sample can be measured. This increases with montmorillonite content.
+
+        Limitations
+
+      The proportions of montmorillonite may change from formation to formation, so results can be
+       misleading. However, as in all pore pressure determination methods, trends not individual results are
+         significant. While the MBT may not prove much in itself, it is a useful tool to back up other information
+      and present a fuller picture of formation trends.
+
+       Accuracy
+
+      The method is fairly accurate, the interpretation is not.
+
+4.5.4  Mud Temperature
+
+      Abnormally pressured formations have high geothermal gradients since such formations act as
+        insulators.  Platinum resistance probes are mounted to measure mud flow in and out. Advanced
+       equipment is self-calibrating, alternatively the equipment is zeroed in ice and calibrated to boiling water.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  9 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+        Limitations
+
+      Measurement of flowline temperature can be a useful diagnostic tool, but in the offshore environment
+       the temperature trend is greatly distrubed by the cooling effect of the sea.
+
+     Mud transfer to active pit and water addition can cool the mud system, making the value of temperature
+       readings very doubtful.
+
+      The probes can become clogged with mud but, if kept clean, work well and are very accurate.
+
+       Accuracy
+
+      The temperature probes are accurate, the method of overpressure detection is not.
+
+4.5.5  Gas Readings
+
+      The PDE pays particular attention to the total gas readings.
+
+      BACKGROUND GAS: is the usual gas level from the drilled formation cuttings. Any increase without
+        significant increase in ROP indicates the well is close to balance.
+
+       CONNECTION GAS: is a small amount of gas generated on bottom during a connection.  It could indicate
+      swabbing as well close to balance.
+
+       TRIP GAS: is an accumulation of gas circulated up from bottom after a trip.  It may be swabbed gas or,
+      as above, the well is close to balance.
+
+        Limitations
+
+         Drilling behaviour, e.g. reaming, can increase the cuttings/cavings in the mud. Gas curves are open to
+        interpretation but generally an increase in background trip and connection gases are an indication of
+       near balance.
+
+4.5.6  Mud Weight
+
+     Mud weight out is monitored and reductions due to gas cutting noted.  Generally, gas cutting is not
+        serious, since most expansion occurs in the top few hundred feet of the well thus having little effect on
+       the total hydrostatic. Reduction in mud weight due to formation water influx should be taken seriously
+      by the PDE and observations should be reported to the operators representative and checked for
+         validity with the mud engineer.
+
+4.6    Offline Programmes
+
+      Overpressure information is determined with the aid of an overpressure evaluation suite of
+      programmes.
+
+4.6.1  OVERBURDEN GRADIENT DETERMINATION is used in the calculation of fracture gradient.  This requires
+      knowledge of formation bulk density or data from the sonic log.
+
+4.6.2  ADVANCED OVERPRESSURE ANALYSIS utilises dxc and estimates overburden stress gradient, fracture
+        gradient, porosity, matrix stress, and pore pressure.
+
+4.6.3  FLOWLINE TEMPERATURE ANALYSIS including end to end plot. See limitations in foregoing section on mud
+       temperature.
+
+4.6.4   Wireline Plotting Suite and Determination of Clay Porosity
+
+      These programmes plot drilling and wireline parameters or density sonic cross plot for clay porosity.
+       This is performed rarely by mud logging companies.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  10 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+4.7   Summary - Pore Pressure Evaluation, Limitations and Accuracy
+
+       Formation pore pressures are estimated by looking at all the evidence from data gathered. Since much
+        of this evidence is based on deviations from established trends for each piece of data, the quality of the
+        service depends on the skill and experience of the engineer.
+
+     He will use his plots, knowledge of the area, and observation of well behaviour (e.g. condition of
+        cuttings at shakers) to estimate pore pressure.
+
+       While dxc can give direct results, other methods only give an estimate of degree of overbalance. The
+      system is open to interpretation and the operators representative should not rely solely on results from
+       computer programmes.
+
+      The system is not accurate but  if the job is conducted properly, recommendations for optimum
+       overbalance can be provided.
+
+5.    REPORTING
+
+       Reporting procedures are outlined fully in the BP Technical Specification for Mud Logging Services.
+     Two daily telexes are required.
+
+5.1    The Daily Pressure Telex should contain the following information given at 10m (30 ft) intervals:
+
+          Depth
+                Drill Exponent
+          Pore Pressure
+        Mud Weight
+        ECD
+            Fracture Gradient
+             Static + Dynamic Overbalance
+            Total Gas
+           Shale Density
+            Flowline Temperature.
+
+5.2    The Daily Geological Report should contain:
+
+           Date, Well No., Day No., Depth Data, Rig Name, RTE
+             Lithological Data
+           Formation Tops (Provisional)
+         Shows
+
+6.    LOG FORMATS
+
+      Three logs are to be compiled at the rigsite - the Formation Evaluation Log (FEL), the Pressure
+       Evaluation Log (PEL) and the Drilling Evaluation Log (DEL).  Further details can be found in the BP
+       Technical Specification for Mud Logging Services.
+
+6.1   The Formation Evaluation Log
+
+      The FEL is based upon the cutting register and is subdivided on a 1:500 depth scale, into:
+
+       Track 1 :     Drillstring parameters, i.e. WOB RPM torque (WOB in klbs, torque in kftlbs).
+
+       Track 2 :   Remarks, e.g. mud weight/ECD, surveys, shoe depths, cores, shows, etc.
+
+       Track 3 :  ROP and bit data (bit type, size, jets, in/out depths, footage, hours, grade).
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  11 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+       Track 4 :    Depth, MD/TVD.
+
+       Track 5 :    Cuttings percentage log including cement, junk, LCM, cavings, etc.
+
+       Track 6 :    Symbolic lithological interpretation.
+
+       Track 7 :   Percentage hydrocarbon gas in air, normalised for ROP/temperature.
+
+       Track 8 :    Lithological description.
+
+6.2   The Pressure Evaluation Log
+
+      The PEL, again on a 1:500 depth scale, specifies:
+
+       Track 1 :   Depth BRT/TVD etc., shoe depths, liner hangers.
+
+       Track 2 :    Lithological interpretation completed after review of all data, i.e. logs, cores.
+
+       Track 3 :   ROP.
+
+       Track 4 :  D exponent, bulk density and shale factor if appropriate.
+
+       Track 5 :   Pressure evaluation including calculated pore pressures and fracture gradients, mud
+                    weights, LOT data, ECD, etc.
+
+       Track 6 :   Gas, total methane equivalent from summation of chromatograph.
+
+       Track 7 :    Variable - unspecified, e.g. flowline temperature, information from MWD (gamma ray) etc.
+
+6.3   The Drilling Evaluation Log
+
+      The DEL, again on a 1:500 depth scale, specifies:
+
+       Track 1 :   Weight on bit (klbs), rotary speed at bit (rpm).
+
+       Track 2 :   Rate of penetration (m/hr), corrected for drill string elasticity effects.
+
+       Track 3 :    Interpreted lithology.
+
+       Track 4 :    Surface torque, maximum surface torque (kft.lbs).
+
+       Track 5 :   Depth BRT (m).
+
+       Track 6 :    Standpipe pressure (psi), mud flow in (gpm).
+
+       Track 7 :    Hydrostatic pressure, overbalance (dynamic) pressure (psi).
+
+       Track 8 :    Left blank for BP-requested derived parameters.
+
+       Track 9 :    Lithology descriptions, survey data, bit gradings, etc.
+
+7.   MUD LOGGING END OF WELL REPORT
+
+7.1    Contents
+
+     A typewriter or word-processor must be available at the wellsite.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  12 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+      From the Base Mud Logging Service, the following information must be included in the End of Well
+       Report:
+
+          •  A description of services provided, including personnel listing.
+
+          •  A full Well FEL (1 sepia only, plus 1 paper copy per report).
+
+          •  A full Well DEL (1 sepia only, plus 1 paper copy per report).
+
+          •  A full Well Numeric Hardcopy Printout.
+
+          •  A sensor Hook-Up verification sheet.
+
+          •  A sensor Calibration Record.
+
+          •  Sensor History sheets.
+
+          •  A report on metal returns as removed from the flowline magnet.
+
+            If contracted to provide further services, the additional reports as specified within the relevant technical
+        specification shall also be included.
+
+     BP retains the right to alter the format and content of the required End of Well report at any time.
+
+7.2    Delivery
+
+     One provisional copy of the End of Well report, including provisional logs, is to be delivered to the
+       appropriate BP geological co-ordinator, within fourteen days of the end of the well. The reports will then
+      be checked and the contractor notified that the specified number of copies of the report should be
+       forwarded, within seven days of notification. (The required number of copies should be specified by the
+        local BP Operations Geologist). One copy of the approved report, including logs, should be forwarded
+        direct to the BP Operations Geologist.
+
+      The sepia drafting film employed on all logs is to have a minimum thickness of 0.030”.
+
+         All data are to be regarded as confidential, including originals of graphic logs, work sheets and gas or
+       other sensor charts.  All such information will,  if requested, be handed to BP Rig Geologist, or other
+       personnel as defined by BP, at the completion of the well. The on-line chart recorder outpouts, and
+      computer time-based data records for the complete well, are to be offered to the Senior Drilling
+       Engineer at the end of the well.
+
+8.    PROVISION OF DATA TAPE FOR POST-WELL ANALYSIS
+
+        In general, the operation being conducted dictates the data monitoring and acquisition requirements.
+      The current requirements are relatively simple. These consist of providing drilling performance data on
+        tape, for the four operations listed below:
+
+        a)   Drilling            (Operation Code = °D’)
+        b)  Hole Opening      (Operation Code = °H’)
+        c)  Underreaming     (Operation Code = °U’)
+        d)  Coring             (Operation Code = °C’)
+
+      These performance records are identical and consist of depth based data. Therefore assuming that the
+     mud logging unit can allocate an operation code by manual or automatic means,  it is anticipated that
+       there should be no problem obtaining these records.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  13 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+8.1    Parameters Required for Post Well Analysis
+
+      The following parameters shall be recorded on a per unit depth increment basis for each of the four
+        specified operations:
+
+        1.   Depth.
+        2.  BHA Run Number.
+        3.   Operation Code.
+        4.   Date.
+        5.   Time.
+        6.   Time on Bottom.
+        7.   Time off Bottom.
+        8.   Cumulative Rotating Hours on Bit.
+        9.  Mud Flow In - calculated from pump performance.
+       10.  Total SPM (to the well).
+       11.  Surface Rotary Speed.
+       12.  Free rotating off bottom string weight (Operator input).
+       13.  Weight on Bit (Surface).
+       14.  Average Rotary Torque (Applied).
+       15.  Maximum Rotary Torque (Applied).
+       16.  Standpipe Pressure.
+       17.  Mud Weight In.
+
+8.2    Definitions and Frequency of Recording
+
+      Data records are required on per unit depth increment basis with:
+
+        a)  Parameter 2 is the sequential number of the BHA run which completed the current depth
+            increment.
+
+        b)  Parameters 4 and 5 being recorded at the completion of the current depth increment.
+
+        c)  Parameters 6 and 7 are the summation of times for the current depth increment.
+
+        d)  Parameter 8 is the summation of rotating hours for that particular BHA run up until the end of the
+            current depth increment.
+
+        e)  Parameters 9 - 17 are derived statistically for each parameter over the current depth increment.
+
+      Note:
+   A record must exist for every unit depth increment even if no data has been recorded. It should include
+      therelevantBHArunnumberandoperationcodealongwithsubstitutedstandarderrorcodes.
+
+8.3    Units in which Data must be Presented
+
+      These data shall be presented in the following engineering units:
+
+      ParameterNo.   Description               Units
+
+      1               Depth                         Unit of depth increment
+      2            BHA Run Number
+      3                 Operation Code
+      4                Date                YYMMDD
+      5               Time                HHMMSS
+      6               Time on Bottom              Minutes
+      7               Time off Bottom              Minutes
+      8                Cumulative Rotating         Hours
+      9             Mud Flow In - Calculated    GPM
+      10                 Total SPM             SPM
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  14 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+      11                Surface Rotary Speed      RPM
+      12                  String Weight                Klbs
+      13               Weight on Bity               Klbs
+      14              Average Rotary Torque         Kft.lbs
+      15            Maximum Rotary Torque       Kft.lbs
+      16               Standpipe Pressure            psi
+      17            Mud Weight                     lbs/gal
+
+8.4    Data Verification
+
+      As most Driling engineering work is based on historic data, every effort shall be made to ensure that the
+       performance records are as complete and accurate as possible.  This can only be achieved  if the
+        following rules are enforced:
+
+        1.  The Sensor Calibration Check programme, as specified in the Technical Specification for Mud
+           Logging Services, shall be rigidly enforced.
+
+        2.   All equipment or sensor failures shall be reported. The appropriate action shall be taken
+            immediately.
+
+        3.  The Performance records shall be checked for erroneous readings and missing values. These
+          must be substituted with a standard error code, e.g. -999.25.
+
+      Note:
+        It is anticipated that erroneous or missing data values will most likely occur at the start or the end of bit
+       runs.
+
+8.5    Presentation of Digital Data
+
+      The data specified within Section 8.1 should be provided on a magnetic tape which shall conform to the
+       Logging Industry Standard (LIS) format. The tape density should be 800 or preferably 1600 bpi.
+
+       Contractor must be capable of providing tapes ex-rig site within 4 working days of the data being
+       requested, and should have the capability of editing tapes in the UK should the need arise.
+
+      The tape should be forwarded to the BP Drilling Operations Group Senior Drilling Engineer.
+
+      The following mnemonics should be used to define the data records:
+
+        a)   Wellsite Information (Record Type 34)
+
+         Parameter   Description            Mnemonic
+
+          1             Well Name             WELL
+          2             Operator              OPER
+          3                  Drill Datum Height         OSET (wrt well ref pt.)
+
+        b)  Data Records (Record Type 0)
+
+         Parameter   Description             Mnemonic*
+
+          1            Depth                DMEA
+          2         BHA Run Number        BRUN
+          3             Operation Code         OPCD
+          4            Date                  DATE
+          5           Time                    TIME
+          6           Time on Bottom          TON
+          7           Time off Bottom          TOF
+          8             Cumulative Rotating Hours   BDTI
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 15 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  7300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  15 of 15
+
+SUBJECT: MUD LOGGING SERVICES
+
+          9          Mud Flow In - Calculated     MFIA
+          10             Total SPM             SPM
+          11            Surface Rotary Speed      RPMA
+          12             String Weight           STWT
+          13           Weight on Bit          WOBA
+          14           Average Rotary Torque     TQA
+          15         Maximum Rotary Torque    TQX
+          16           Standpipe Pressure        SPPA
+          17         Mud Weight In            MDIA
+
+         * As defined in the Data format specification (record type).
+
+

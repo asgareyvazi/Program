@@ -1,0 +1,294 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/FIX
+
+                                                                  Rev.         :  5 (9/91)
+      DRILLING MANUAL     Page        :  1 of 5
+
+SUBJECT:  SURFACE BOP TESTING - GENERAL
+
+1.    GENERAL
+
+1.1    Refer to the BPX General Drilling Policy Document.
+
+1.2     All wellhead BOP’s, valves, failsafes and risers shall be pressure tested from the direction they would
+      be exposed to well pressure.
+
+1.3   No personnel are to be in the vicinity of pressure testing operations or equipment. The Drilling
+       Supervisor should ensure that ancillary BOP equipment, such as choke manifold, standpipe manifold,
+         kelly cocks and stab-in valves, can be safely tested during normal rig operations, i.e. whilst POH or RIH.
+
+1.4   On production platforms, consult individual Platform Safety Manuals with reference to “Permit to Work”
+       requirements and precautions for pressure testing.
+
+1.5   BOP Test Report and Accumulator Test Report Forms are to be completed after each test, and a copy
+       sent to the Drilling Office (refer to page 5).
+
+1.6       If installed, the diverter function is to be witnessed, and opening times should be recorded against the
+       annular closing time on the BOP Test Report Form.
+
+1.7    The Drilling Supervisor will witness the integrity of the tests and operation of all equipment.
+
+2.    TEST PRESSURES
+
+2.1     All well control equipment, except annular BOP’s, is to be pressure tested to the lowest of the following
+         criteria:
+
+        a)  Maximum anticipated wellhead pressure, based on the casing design data included in the drilling
+          programme.
+        b)  80% of casing burst pressure.
+        c)  Wellhead rated working pressure.
+        d)  BOP rated working pressure.
+
+      N.B.
+      Equipmentnotindirectcontactwiththewellmaybetestedtoitsratedworkingpressureifrequired.
+
+2.2    The annular preventer must only be closed when pipe is in the hole and must never be tested to more
+       than 70% of the manufacturers rated working pressure.
+
+2.3       If a retrievable packer is set to test the BOPs, the test pressure must not exceed 80% of casing burst
+       pressure.
+
+3.    FREQUENCY AND TEST DURATIONS
+
+3.1    The BOP test frequency will be:
+
+        a)   Prior to installation of the BOP stack, on the test stump where applicable or after installation if no
+             test stump is available.
+        b)  Every 14 days thereafter.
+        c)  Following any BOP repair.
+        d)  Following the reinstallation of the stack after wellhead spool installation.
+        e)  Following the breaking of any pressure seal, e.g. ram change.
+           f)   Within 7 days of the commencement of perforating or well testing operations.
+
+      N.B.
+    BOPmustalwaysbefunctiontestedafterinstallation.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/FIX
+
+                                                                  Rev.         :  5 (9/91)
+      DRILLING MANUAL     Page        :  2 of 5
+
+SUBJECT:  SURFACE BOP TESTING - GENERAL
+
+3.2    Each test shall consist of two parts:
+
+        a)  A 5 minute, 300 psi low pressure test.
+        b)  A 10 minute, rated pressure test.
+
+4.    TEST PROCEDURES
+
+4.1   Where possible all tests are to be done with clean water. When displacing BOP and manifolds from
+     mud to water, the minimum amounts must be used to minimise contamination and losses.
+
+4.2    Before filling the stack with water or installing pipe through rams, perform a full function test. (Do not
+       allow rams or annular to close fully.)
+
+4.3    Before the test can begin, the test line must be pressure tested to the highest planned pressure of the
+     BOP test.
+
+4.4    Unless otherwise stated in the drilling programme, all BOP tests will be in two parts:
+
+        a)  A wellhead test using a cup type tester.
+        b)  A BOP test using a plug type tester.
+
+4.5   When using a standard cup type tester:
+
+        a)  The strength of the drillpipe and support equipment must be checked to ensure that they are
+          adequate for the loads induced by the test.
+        b)  The annular preventer would normally be closed around the pipe.
+        c)  The drillpipe must NOT be supported by slips in the rotary table.
+        d)  Reduce the annular manifold closing pressure to 500 psi, to allow the pipe to slip through the
+           element once the pressure has been applied. For maximum closing pressures see manufacturers’
+             specifications.
+
+4.6   When using the cup tester to test pack-offs, ensure the casing pack-off test port and the wellhead
+       annulus valve are open, in order to check for leakage.
+
+4.7   When testing with plug type testers, side outlets below the seal face MUST BE LEFT OPEN to ensure
+       stack test pressures do not pressure the wellbore and any leakage past the test plug is detected. Any
+       valves or kelly cocks run below test plugs must previously have been tested and run closed.
+
+4.8     In drilling condition wellhead side outlets will be dressed as follows:
+
+        a)  Outlets exposed to the wellbore:
+
+            Active Outlet:          2 off fully rated valves plus Weco Union crossover. Both valves closed
+                                         at all times apart from periods of wellhead/BOP testing.
+           Non-Active Outlet:        Fully rated VR plug plus fully rated cap flange or hubbed cap c/w needle
+                                       valve.
+
+        b)  Outlets in casing/casing annuli:
+
+            Active Outlet:             Fully rated gate valve, blind flange and needle valve.
+           Non-Active Outlet:        Fully rated VR plug plus fully rated cap flange or hubbed cap c/w needle
+                                       valve.
+
+      Note:
+    No component - valve, needle valve, flange, VRP, cap flange/protector or crossover - may be installed
+     on any wellhead outlet unless it has a working pressure rating at least equivalent to the spool it is being
+        installledon.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/FIX
+
+                                                                  Rev.         :  5 (9/91)
+      DRILLING MANUAL     Page        :  3 of 5
+
+SUBJECT:  SURFACE BOP TESTING - GENERAL
+
+4.9   When running test plugs through the wellhead, ensure all tiedown bolts/wear bushing lock bolts are
+        retracted and all placking/gland nuts are tight. Check the stand-off measurement for these lockdowns.
+     When test plugs are landed off in the wellhead, check depth below rotary table is correct before testing.
+
+4.10   Record the volume of fluid pumped for each test, the closing/opening times of all functions and
+       accumulator volume pumped for all BOP functions.
+
+4.11   After a BOP test is complete, function test the remote operating panel(s). Do not allow preventers to
+       close fully.
+
+4.12   After each BOP test all rams are to be opened and the valves on the standpipe manifold and choke
+       manifold set in the required positions for the following operations. Ensure all wellhead valves, needle
+       valves and wellhead test ports are closed.
+
+4.13   Blind rams are to be functioned once every trip.
+
+4.14   The detailed test sequencing for stump and in-situ tests for each platform are in the appropriate Manual
+        Section, and for Jack-Ups in Section 0440/JAK and 0441/JAK.
+
+5.    TEST EQUIPMENT
+
+5.1    Refer to manufacturers’ specifications for BOP operating pressures.
+
+5.2   BOPs are to be tested utilising a plug type tester, ported drillpipe and an equipment arrangement as per
+       the diagram in this Section.
+
+5.3   A chart recorder showing the test pressure should be on the rig floor.
+
+5.4   Two separate gauges, showing the test pressure, must be visible from the test pump to prevent
+       overpressuring due to gauge failure or inaccuracy.
+
+5.5    The condition of all sealing faces of BOP test plugs must be checked before and after they are run.
+
+5.6   Cup type testers should be hollow bore type. When testing with cup type tools, no valves should be
+       placed in the string below the cup tester.
+
+5.7    Ensure all drillpipe used for testing is in good condition, smooth and is of the correct weight and grade
+        to take the pressure testing loads.
+
+5.8     All temporary high pressure lines must be fitted with cross coupling restraints and comply with platform
+        regulations regarding their securing.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/FIX
+
+                                                                  Rev.         :  5 (9/91)
+      DRILLING MANUAL     Page        :  4 of 5
+
+SUBJECT:  SURFACE BOP TESTING - GENERAL
+
+       GENERAL ARRANGEMENT FOR SURFACE BOP STACK TESTING
+
+
+
+                                                         11
+                         TEST LINE                          10
+
+
+
+
+                                      12
+                                                                                9                                                     3
+
+
+
+
+                                   ANNULAR                              ANNULAR
+
+
+
+
+
+                                    LINE           UPPER PIPE RAM                                UPPER PIPE RAM
+                                    KILL
+                                                                                                                                                                                                 LINE
+                                                                                                                                                                                                                                                 CHOKE
+                                                                                                                                                                            STRING
+                                      BLIND RAM                                                  LANDING                BLIND RAM
+                                                         DP
+                                       6
+                                            5     4                                                  1      2
+
+                           LOWER PIPE RAM                            LOWER PIPE RAM
+
+    No.         DESCRIPTION
+        1. INNER CHOKE
+        2. OUTER CHOKE
+        3.  1st VALVE ON CHOKE MANIFOLD
+        4. INNER KILL
+        5. OUTER KILL
+        6.  KILL LINE N.R.V.
+        7. PORTED SUB.
+        8. PLUG TYPE TESTER
+        9. TEST HEAD
+       10. H.P. TEST TEE
+       11. H.P. GATE VALVE
+       12. MARTIN DECKER PRESSURE RECORDED                               7
+       13. C.H. SPOOL
+                                                                                8
+                                                              13
+
+                       OPEN                                                              OPEN
+
+
+
+
+
+                                                                                                                                             2179/138
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/FIX
+
+                                                                  Rev.         :  5 (9/91)
+      DRILLING MANUAL     Page        :  5 of 5
+
+SUBJECT:  SURFACE BOP TESTING - GENERAL
+
+                                                                                                                                                         RAMS
+                                                                                                                                                             RAMSCHOKERAMS                                                                                                                                                                                                                                                                      ANNULARBOTTOMUPPEROUTBLIND
+                                                                                                                                         CLOSED           OPEN                   LOADED              EMPTY                                                      LINE                                                                                                                                                                                    RETURN                 RETURN                                          LINE                                                                                                                                                                            OPEN                                                                                                                                                                                      GALLSGALLSGALLSGALLSGALLSGALLSGALLS                                                                                                                                                                                                                                           CLOSED                                                                                                                                                                                      KILL              CHOKE                                                                                                                  VALVE             VALVE       NONVALVE      NONVALVE                                                                                           KL     CL                   VOLUME
+                                                                                                                                                                             CLOSE
+                                      CL                                                                  SECSSECSSECSSECSSECSSECSSECS
+                                                                                                                                              TIME                                                                     RAM     RAM     RAM                                                                                                                                                                                                                                                                         ACTIVATE PANEL
+                       5
+                                                                  TO                                                                                                                                                ANNULAR                                                                                                                    UPPER        BLIND        LOWER                                                                                                                                                                                                             REMOTE      GALLSGALLSGALLSGALLSGALLSGALLSGALLS                PLUG                                                                                                                                                                                                  PRESSURE     KL                                                     USED                                                                                                                                                                                                                     VOLUME                                                            VALVES                                                                REMARKS                                      CL                                                                                                                                                                     FLUID                                                                                                                                          OPEN                                                                       PORTED/                                                                  OF                                                                     RAM     RAM     RAM                                                                                                                                                  SECSSECSSECSSECSSECSSECSSECS     RAMS RAMS OUTLET
+                       4                                                                                                                                              TIME                                                                                                                                                ANNULAR                                                                                                                                                                                          SIDETESTER                                                                                                                    UPPER        BLIND        LOWER                                                                                  BLIND                                                                                                                                                                                                      VOLUME                                                    LOWER                                                                                                                                                                                                  PRESSURE     KL                                                                                  CUP                                                                                                   AND                                                              SPOOL                                      CL                                                                                  GALLSGALLSGALLSGALLSGALLSGALLSGALLS           BELOW                                                                                                                                                                                                                                                                                                                                                                                                                                                  PROGRAMMED BELOW         USING                                                                                                                                    UNIT        VOLUME              AS        HEAD
+                                                                                                                                                                                  LINE                                                       TESTED                                            TESTER 3                       RAM     RAM     RAM                                                                 LINE  x              COCK  COCK                                                                                                                                   MANIFOLD                                                                                                                     CLOSE                                        KILL      5000PSI                                                                                                                                                ANNULAR                                                                                                                                                  SECSSECSSECSSECSSECSSECSSECS     KILL      TUBING                                                                       UNIT                                                                                               TOASSEMBLY                                                                                                                    UPPER        BLIND        LOWER                                                       PLUG                                                                                                                                                                                                                                                                         ACTIVATE                                                                                  EQUIPMENT  KELLY  KELLY    MANIFOLD BOP  PIPE                                                                                                                                              TIME                                                              PRESSURES                                                                                                                                                                                                  PRESSURE     KL              RATING                                                                  TO      SIZE                                              OTHER  UPPER  LOWER  CHOKE  GRAY  STAND   CEMENT                                      CL                                                                       PANEL                                 TEST THISTLE BEATRICE THISTLETESTEDTESTER
+                                           1 2 3 4                                                                                                                                                                     TAKEN                                                                     RAM     RAM     RAM                                                                                                                                         MAIN      GALLSGALLSGALLSGALLSGALLSGALLSGALLS
+                       2        STACK                                                                                                                  TIME        VOLUME                                                                                                                                                ANNULAR                                                                                                                                                                                                                        NOTES:                                                                                                                    UPPER        BLIND        LOWER                   PRESSURE                                                                                                                   OPEN                      TEST                                                                                          PRESSURE     KL                                                                                                                                                  SECSSECSSECSSECSSECSSECSSECS
+                                      CL                                                              TIME                      LAST
+                       1                       RAM     RAM     RAM                                              WEIGHT COLLAPSE          SHEET                                                             TEST                  DATE DATE                                                                                                                                                                                                                                             TEST                                                                                                                                                ANNULAR                                                                                                                    UPPER        BLIND        LOWER                                                                                                                                                                                                                                                                                                                                                                                                                                                             STANDARD          HIGHER                                                                                                                                                                                                  PRESSURE     KL                                                                                                                  NOTE:  SEETESTINGINSTRUCTIONSFORW/HEADPRESSURES        TEST
+                                                                     MAN    CL
+                       C    UP                                                                                                                                 MINSMINSMINSMINSMINSMINS                       B                       RAM     RAM     RAM                                                                                                                                                  TIME
+                                                                                             TEST                                       GRADE BURST                                                        ANNULAR       UPPER        BLIND        LOWER                                    BETWEENPOSITIONS        JACK                                                                                                                                                                                                                                                                                                          POSITIONS          PSIPSIPSIPSIPSIPSI                                      KL  &                                 DEPTH                                                                        PRESSURE                                      CL                                                                                      WEEKLY                                                                     MAN                                                                                                                                                                                                                   REMOTE  PRESSURE        :
+                       C                                                                                                                                                                                                                                       CONTROL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                CONTRACTOR BP                               SIZE      A                       RAM     RAM     RAM                                                                                                          AND                 NO. WATER                                                                                            RAM                                                                                             TEST                                                                                                                                                                                                      B.O.P.             RAMRAM                                                                                                                                                ANNULAR                                                                                                                    UPPER        BLIND        LOWER                                               ALTERNATEMAIN                                                                                                                                                                                                                           B.O.P.                PLATFORM  RIG WELL R.T.E. CASING DEPTH CONTRACTOR                    PRESSURE     KL                                                                                                                          ANNULARUPPERBLINDLOWER                     SIGNATURE   SIGNATURE
+
+                                                                                                                                                         2179 /140
+
+

@@ -1,0 +1,1843 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 31 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Index Prefixes
+
+ 0000                       Safety and Administration
+
+ 1000                         Drilling
+
+ 2000                      Casing and Tubing
+
+ 3000                     Cementing
+
+ 4000                         Drilling Fluids
+
+ 5000                      Wellheads, Packers, Tools and Equipment
+
+ 6000                      Stuck Pipe and Fishing
+
+ 7000                     Well Evaluation
+
+ 8000                     Marine and Miscellaneous
+
+
+Index Suffixes
+
+MST                     Master Index and User Guide
+GEN                      General
+SEM                      Semi-Submersible Drilling Units
+JAK                     Jack-Up Drilling Units
+ FIX                       Fixed Drilling Units
+FOR                         Forties
+CLY                     Clyde
+BEA                        Beatrice
+MAG                  Magnus
+THI                          Thistle
+MIL                        Miller
+DON                 Don
+BRU                     Bruce
+MAR                   Marnock
+RAV                     Ravenspurn
+AME                    Amethyst
+WYF                  Wytch Farm
+HAR                     Harding
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 31 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Section               Description
+
+6000              STUCK PIPE AND FISHING
+
+6000/GEN                 Stuck Pipe Prevention and Procedures
+
+6005/GEN                  Calculation of Optimum Fishing Time
+
+6010/GEN                  Freeing Differentially Stuck Pipe Using the “U”-Tube Method
+
+6020/GEN                  Freeing Stuck Pipe Whilst Drilling Riserless and From Fixed
+                                Installations
+
+6050/GEN                    Jar Placement and Jarring Practices
+
+6100/GEN                   Effective Pull on Stuck Pipe
+
+6150/GEN                 Free Point Determination and Back-Off Procedures
+
+6200/GEN                  Fishing - Procedures and Tools
+
+6250/GEN                 Stuck Logging Tools
+
+6410/GEN               Casing Milling
+
+6420/GEN                 Section Milling
+
+6430/GEN                 Casing Milling and Underreaming for Open Hole Gravel Pack
+
+6500/GEN                   Bit Nozzle Removal
+
+
+
+
+NOTE: Sections highlighted in bold are those sections which have been modified (or inserted
+          for the first time) in the most recent amendment to this Guidelines for Drilling
+         Operations. Within each such section, the newly modified parts are identified by the
+        bold black marker line on the right side of the text. A brief resume of the changes is
+        provided at the end of this MST section.
+
+         Sections underlined are those items which are available within this version of Acrobat.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  1 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+1.    CAUSES OF STUCK PIPE
+
+1.1    Introduction
+
+       There are numerous causes of stuck pipe; some occur regularly, some may be peculiar to a particular
+       area and some may be unique. A string may become stuck because of any one or combination of
+       these, although historically in BP’s operation stuck pipe due to packing off and differential sticking
+      mechanisms has accounted for approximately 72% of incidences. Industry convention categorises the
+      causes as either differential or mechanical sticking.
+
+1.2     Differential Sticking
+
+       During most drilling operations, the pressure exerted by the mud column is greater than the pressure of
+       the formation fluids.  In permeable formations, mud filtrate will flow from the well into the rock, building
+      up a filter cake. A pressure differential will exist across the filter cake, which is equal to the difference in
+       the pressure of the mud column and the formation.
+
+     When the drill string touches the filter cake, any part of the pipe which becomes embedded in the cake
+          will be subject to a lower pressure than the part which remains wholly in the well.   If the pressure
+        difference is high enough and acts over a sufficiently large area, the pipe may become stuck. See
+       Figure 1.
+
+      The force required to pull differentially stuck pipe free depends on:
+
+        a)  The difference in pressure between the borehole and the formation. Any overbalance adds to side
+            forces which may exist due to the deviation of the hole.
+
+        b)  The surface area of pipe embedded in the wall cake. The thicker the cake or the larger the pipe
+            diameter, the greater this area is likely to be.
+
+        c)  The coefficient of friction between the pipe and the wall cake is a very significant factor, being
+              directly proportional to the sticking force.  It tends to increase with time, making it harder to pull the
+           pipe free.  This is demonstrated clearly in Figure 2, which shows more than a tenfold increase in
+            the coefficient of friction in three hours.  This graph is for a bentonite filter cake and drill pipe.
+             Different filter cakes will give different profiles.
+
+1.3    Mechanical Sticking
+
+       Mechanical sticking results from one, or a combination, of the following:
+
+        a)  Inadequate hole cleaning.
+        b)  Sloughing and swelling formations.
+        c)  Key seating.
+        d)  Running into undergauge hole.
+        e)   Drilling plastic formations.
+           f)   Large boulders falling into the hole.
+
+1.3.1  Inadequate Hole Cleaning
+
+            If cuttings are not removed from the well, they will settle around the drill string, usually the BHA, causing
+       the hole to pack off and the pipe to become stuck. The problem is exacerbated in overgauge sections
+      where the annular velocities are reduced. Cuttings will build up and eventually slump into the hole.
+
+       High angle wells are more difficult to clean than vertical ones, because of the tendency of the drilled
+        solids to fall to the low side of the hole. In a vertical well, provided the circulation rate is higher than the
+         slip velocity of the cuttings, then the hole will be cleaned.  In highly deviated wells, the cuttings have
+       only a short vertical distance to fall, before they will lie on the low side of the hole. Beds of cuttings will
+      be formed which are not easily removed. Problems can be caused when tripping out of the hole, as the
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  2 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                        FIGURE 1
+
+                       DIFFERENTIAL STICKING
+
+
+
+
+                                           MUD CAKE        FORMATION
+          PRESSURE
+              P F
+
+                            MUD
+                                PRESURE
+                                     P M                     BOREHOLE
+                                                     WALL
+                                                 PIPE
+
+
+
+
+
+                              CONTACT ARC
+
+                                  R
+
+
+                  FRICTION COEFFICIENT
+                       C F
+
+
+
+
+                CONTACT AREA Ac            =   R x STUCK LENGTH
+                 PRESSURE DIFFERENTIAL  P   =   P M - P F
+                  STICKING FORCE             =    P x A C
+                FORCE TO PULL PIPE FREE     =    P x A C x C F
+
+
+
+
+
+                                                                                                                                                                      2179/186
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  3 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                        FIGURE 2
+
+
+                    INCREASE IN MUD CAKE FRICTION
+                         CO-EFFICIENT WITH TIME
+
+
+
+
+
+                    5
+
+
+                    4
+                              UNITS)                                                 CO-EFFICIENT      3
+                    (No.                                     CURVE FOR
+                                        BENTONITE MUD
+                    2                                 FRICTION
+
+                    1
+
+
+                    0
+                      0       40       80      120     160      200     240     280
+
+                               TIME (MINUTES)
+
+
+
+
+
+                                                                                                                                                                     2179/187
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  4 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+     BHA will be pulled into the cuttings beds. The cuttings will be dragged up in front of the top collar or
+         stabiliser, until the hole packs off or the pipe is pulled tightly into a plug of cuttings.
+
+1.3.2  Formation Instability
+
+     Some formations can plastically extrude into the hole and close around the pipe, while others can
+       slough and cause a hole to pack off.  For example, coal is prone to sloughing, salt will extrude and
+       shales can do either. Uncemented sands and gravels can slough into the hole, giving large overgauge
+       sections and possible hole cleaning problems. Heavily fractured limestones can result in a succession
+        of boulders falling into the well, jamming around the BHA and causing the pipe to stick.
+
+       Shales
+
+      The stability of shales is governed by several factors, including the weight of overburden, in-situ
+        stresses, angle of bedding planes, moisture content and their chemical composition.  Shales can be
+          split into two categories:
+
+        a)   Brittle or Sloughing Shales
+
+         These shales fail by breaking into pieces and sloughing into the hole.  Sloughing can be
+           recognised by large amounts of shale on the shakers at “bottoms up”, drag on trips and high levels
+             of fill.
+
+        b)  Swelling Shales
+
+        Some shales swell as the result of a chemical reaction with water known as hydration. The clay
+             platelets, which make up shales, are pushed apart by the water and the formation expands. The
+          amount of swelling varies from the highly reactive “gumbos” to shales which hydrate very slowly.
+          However, any swelling shale is a potential cause of stuck pipe.
+
+         Gumbos will swell very rapidly and very dramatically. Given sufficient free water the clay platelets
+               will separate completely, expanding to several times their original volume. The hole can be
+           cleaned at controlled rates of drilling, but it may need to be redrilled after each joint, as the clays
+           continue to swell.
+
+       Hole Orientation
+
+       Shales are weaker along the formation bedding planes than across them. Because of this, holes drilled
+        at different inclinations and directions through the same formation may vary greatly in stability.
+       Increasing the mud weight will help to stabilise a formation, while frequent short trips and careful drilling
+        practices can help to minimise stuck pipe risks.
+
+1.3.3  Key Seating
+
+     A key seat is caused by the drill string rubbing against the formation. The body and tool joints of
+         drillpipe wear a groove in the rock about the same diameter as the tool joints. The wear is confined to a
+       narrow groove, because the high tension in the drill string prevents sideways movement. During a trip
+       out of the hole, the BHA may be pulled into one of these grooves, which may be too small for it to pass
+       through. See Figure 3.
+
+      Key seats are often associated with doglegs, as the drill string will be forced into contact with the
+        formation. The more severe the dogleg, the greater the side load will be and so the faster a key seat
+          will develop.  Other than doglegs, ledges are features which provide points of continuous contact.
+       Further variations include key seats at casing shoes, where the groove is made in metal instead of rock.
+      Development of key seats is dependent upon the number of rotating hours.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  5 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                       FIGURE 3
+
+                     FORMATION OF KEY SEAT
+
+
+
+
+
+                                            SECTION A-A
+
+
+                         A            A
+
+
+                                                                                                                                                                                       COLLAR
+                                                                                                                                                         DRILL
+
+
+          1. ILLUSTRATING                    2. POSITION OF PIPE                  3. DRILL COLLAR
+        KEY-SEATING EFFECT        AFTER KEY SEATING         STUCK IN KEY SEAT
+       ON CROOKED HOLE
+
+
+
+
+
+                                                                                                                                                         2179 / 188
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  6 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+1.3.4  Undergauge Hole and Assembly Changes
+
+       Abrasive hole sections will tend to not only dull bits, but also to reduce their gauge and that of the
+         stabilisers. Attempting to maximise the length of a bit run in an abrasive formation may prove to be a
+        false economy, as undergauge hole will inevitably lead to reaming operations. Reaming a long section
+         will usually wear out a bit very quickly. A driller, tripping in at high speed, can jam a full gauge
+      assembly into an undergauge hole and become stuck. Greater care is all that is needed to prevent this.
+
+     A flexible assembly can “snake” around doglegs which present an obstruction to a stiff assembly.
+       Formation drilled with a limber BHA may appear to be clean when pulling out, but when running a stiffer
+      BHA, the newly drilled hole will act as if it were undergauge. Again there will be a risk of sticking the
+        pipe.
+
+1.3.5   Drilling Plastic Salts
+
+      The plastic nature of salt formations may result in stuck pipe. When drilling into salt, stresses will be
+        relieved and the formation will extrude into the borehole. The encroachment can often be measured in
+        fractions of an inch, but this may be sufficient to cause a bit or stabiliser to become stuck.
+
+      The magnitude of the stresses and hence the rate of movement will vary from region to region but is
+        generally greater for formations below 2000 metres (6500 feet). Abnormal pressures and flowing salts
+     may be experienced anywhere with unequal relieved stresses, but most commonly at the top of a
+       formation or on the flanks of salt domes.
+
+2.    PREVENTION OF STUCK PIPE
+
+2.1    Introduction
+
+      There are very few cases of stuck pipe which are impossible to prevent. Many incidents could be
+       avoided by more careful planning or greater care at the rig site.
+
+       During the planning stage,  it is essential that a study is made of offset well data, to look for potential
+       stuck pipe problems. The Drilling Programme should contain a stuck pipe section, where troublesome
+        formations, past problems and any recommended procedures should be listed. For example, it may be
+       possible to decide at what intervals wiper trips should be made, by looking at their effect on hole
+        conditions on previous wells. This information must be discussed at pre-spud meetings in town and on
+       the rig site, if it is to make the necessary impact on the operation.
+
+     Among the many people involved in the drilling operation, the Driller has a key role in preventing stuck
+        pipe. Thorough planning, good drilling practices and an effective mud system will ensure that the hole
+         is in the best possible condition. However, once a problem exists, the only person who can prevent it
+        resulting in stuck pipe is the Driller. At the instant that the formation grabs the pipe or the hole packs
+          off,  it is the Driller’s reaction which is all important. The BP Representative must be sure that every
+         Driller is aware of any special problems and what his immediate actions should be. The greater the
+         Driller’s understanding of the problems, the greater the chance that he keeps the pipe free. The
+       decision trees illustrated in Figures 4 - 12 illustrate the process required to identify the nature of a tight
+       hole situation encountered when performing a particular operation.
+
+2.2    General
+
+2.2.1  Planning Stage
+
+        a)  Careful attention should be paid to the likelihood of stuck pipe and a special section of the Drilling
+         Programme should be dedicated to it. This would include the identification of the potential trouble-
+         some formations and any special procedures which should be adopted through these zones, such
+          as frequency of wiper trips.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  7 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                        FIGURE 4
+
+
+
+
+
+                           2
+                                                                                                             FIG.                                                                                                                                            CASING                                                                                                                                                             RUNNING
+
+
+
+
+
+                           1
+                                                                                                             FIG.                                                                                                                                                                                                                                                           CIRCULATING
+
+                                                                    OUT
+                           0
+                                        TREE                                                          FIG.                                                                                                                                                                REAMING
+
+
+                                              IN
+
+                           9                                                                               DECISION
+                                                                                                             FIG.
+                                                                                                 OPERATION                                                               REAMING
+                      ON                                                                                                                                                       OPERATION               OUT
+                           8                                                                                                                                           IDENTIFICATION                                                                                                             FIG.                                                      BASED                    OF                                                                                                                                                                                      TRIPPING
+
+
+                                              IN
+
+                           7                                                                                         SELECTION
+                                                                                                             FIG.                                                                                                                                                                                      TRIPPING
+
+
+
+
+
+                           6
+                                                                                                                                                                                          SURVEYS)            FIG.
+                                               (&                                                                                                                                                                                                                                                       CONNECTIONS
+
+
+
+
+
+                           5
+                                                                                                             FIG.                                                                                                                                       ROTARY                                                                                                                                                                                          DRILLING
+
+
+                                                                                                                                                          2179 /189
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  8 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                        FIGURE 5
+                                                                                                                                                                                                    FORMSFORM
+                              ?                                                                                                                                                                                                FORMS                                                                                                                                                                                            FORMS
+                                 N                     DRILLED          FAULTEDMOBILE                                                                               TORQUE                                                                                                            EXPOSED        /                          INFORMATION                                                                                                                                                                                                    PROBLEM                            TO                                                                                                                       BEEN                              NEWLY             MOVING                                                                                         CHANGE                                                                                                                                                                                                                                                                                                 FORMATIONS                                                                                            GEOPRESSURED                                                                                                                HAVE                                                                                                                                 UNCONSOLIDATED                                                                                                                                                                FAST                                                                                                          INCREASE                                                                                                                                                                                                                                FRACTURED                                                                                                  RELATED                                                                                                      ALREADY                                                                                                                                                                                                                                                              MOBILE                         ?      Y                                                                                                       FORMATIONS
+
+                            N                                                                                                                                                                                                                                                              MOVING              Y                                                                    REDUCED                                                                                                                                                                                 FORMATIONS                                                                                                                                                                                 PUMPING                                                                                                                                                                          SLOW     REACTIVE                                                                                                                           DRAGS                                                                                                     WHEN                                                                          ARE                           HOLE
+              ?
+
+
+                            Y
+             A       ?
+                         Y                                                             TORQUE                  CHANGE                                                                                                                                                CLEANING                                                     DRILLING                                                                   THERE                                                                                                                                                                                    INADEQUATE
+                           IS                                                                                                                                                                                                                                     CIRCULATION                                                                                                                                                                                                                        RESTRICTED                                                                                                        FAULTED                                       ROTARY                                          IS
+                                     /                                                                                           INCREASED                                                   BITWORN                                                                                                                               FORMATION
+                                 Y                                                                                                                   THATBEEN?                                                                                                                                       TRI-CONE                                   HAS                                                                             FORMATIONS
+                         N                                  IFBEARINGS                     N                                                        POSSIBLE    DRILLED                                                       FRACTURED                                                          ISFAULT
+                                                          ITA              N                                                                                                                                                                BLOCKS    KEYSEAT
+                                 N                                                                                                                                                                         JUNK
+
+                 Y                      ?                                                                                                              CEMENT    CASING
+                                         BETO
+                                                                                         LEGS
+                      -  Y                                                                                  DRAG                                                                                                                                                                                                                                   WELLBOREGEOMETRY              ?                CANRELATEDDOG                                                                  HOURS
+                                        BIT   N                                                       HOLE ?
+                                                                   UP                                                                                                                              EXCESSIVE                                        ARE               Y                             STABILIZERS                                                                                                                                       HANG
+                     Y                        TO                                                                                UP
+                  ?                                                                                                                                                                                                                                                                                                                                UNDERGAUGE                                                                                                                                                                                                                                      CAUSING                                                                                    DRAGS                   Y                                                                                                                                                                                                                                                                                                                                                                                FORMATIONLEDGES                                                                   HOLE                                                                                                                                                                                                                                           STABILIZERSHANGING                                                                                  ON                                                                                                                                                               EXCESSIVE                           OF ?                                                   ARE   N                        ABRASIVE    DRILLED                                                                                                                                                                                                                                                                FORMATIONSBEEN                                                                                                   HAVE                             N                     HARDNESS                                                                                                                                                                                                                                            DRILLED  N                                                                                                                                                                                                                                                                                   FAILURE                                                                                                                                                                                                                                                                                                                                FORMATIONS                                          STRING    FAILURE                                                                                                                                       BEEN              BIT     COMPONENT                                                                                                                                                                                                                                      VARYING                                                                                                                                HAVE
+                                                                                                                                                          2179 /190
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  9 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                        FIGURE 6
+                                                         ON
+                                                         UP               ?                                                    BLOCKS
+                   N                                                                                               JUNK                                                                                                                                                        STRING    FAILURE        LEDGES                                                                                                                                                                                                                                            COMPONENT      STABLISERS                                                                                                                                                                                                        HANGING                                                                                                         EXPOSED                                                    CEMENT                                                                                                                               PERMEABLE
+                              N                                                                                                                                                                                                                                                                                    STICKING                                          ARE                                                                                                                                                                                                                                                                                                                                                                                                                     DIFFERENTIAL                                                                                                                                                     FORMATIONS
+                         ?
+
+
+
+                   Y                                                                                                                           MOVED                     UP               N                                                                                          DRILLSTRING                                                 BE                                                      BLOCKS
+                              Y                                                                       CAN                                    JUNK             LEDGES
+                                                                          ON                                                                                                                                                                                                                                                                                                                                                                                                     STABILISERSHANGING                                                                                                                                                                                                               CEMENT                AND
+                                                             STRING                 STATICBREAKINGDURING    SURVEY        ?
+
+    /                                                                                             INCREASING                                                                  STATIC            FROM           AFTER                                           TRIPPING            PIPE    OR                  MOVING                                                                                                                     FORMS                                                                                                                                                            CIRCULATION                                                                                                         FORMS                      MAKING                       TREND  FROM                              RESTRICTED
+                            IS                                                  CONNECTIONS                  WHEN                                                                                                                                                                                                                                                                  FORMATIONS                                                DRILLING,                                     DRAG                   N                                FORMATIONSFAULTED                 MOVINGAFTER                                           REAMING                                   /FORMATIONS
+
+
+                         ?
+
+
+               Y                                                                                                                                                                                                                    MOBILE                                                                                                                                                                                                                                                                              REACTIVE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          UNCONSOLIDATED                   N                           REDUCED                                                                                                                                                                            PUMPING                                                                                 FRACTURED                 GEOPRESSURED
+               ?                               DRAG                                                ISWHEN
+                                                                                                                                       HOLE                                                                                                   PROBLEMEXPOSED              Y
+                                                                                                                           FORMS                                                                                                                                   FORMS                                                           CLEANING                                                                       KNOWN                                                                                                                                                                                                                                                                              FORMATIONS                                                          INADEQUATE                                          ARE                                                                                                                                                     FORMATIONS                   Y                                      FORMATIONSFAULTED                         /FORMATIONS
+                                                                                                                                                        MOBILE                                                                                                                                                                                              REACTIVE                                                                                                                                                                                                                                                                                                                                                                              UNCONSOLIDATED                                                                                                                                                                                                                             FRACTURED                 GEOPRESSURED
+
+                                                                                                                                                          2179 /191
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  10 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                       FIGURE 7
+
+
+
+
+                                                                                                                      BHA? Y                           Y            ATRIP                               WELLBOREGEOMETRY                                                                                                                       HOLE
+                                                                                                                                                                 THIS                                                                                                                                                                                                                                                                                                  UNDERGAUGE       Y      BEEN
+                              ?                                           THEREON                                                                                                                      HASCHANGE
+                           N               N                                                                                                                                                                                                                                        DOG-LEGS                                                                                                                                                                                                                                                                                   LEDGES                                                                                                                                                                                                                                                                            EXCESSIVE                                                                                                                                FORMATION                                                                                       ARE
+                         ?
+                                                                                                                                                                         FORMS                      Y                                                                                                                                                                             FORMS                                                                                                                                                                                                 PREVIOUSUNDERGAUGE                                                                         WAS                                                                           BIT    Y              FORMATIONS                                                                                                                                                                                                                                                                                                                                          FORMATIONSFAULTED/            /                                                                             DRAG                                                                                                                                                                       EXCESSIVE
+
+                                            Y                                                                                                                                                                                                      MOBILE        ?                                                                                                                 ERRATIC                                                                                                                        REACTIVE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     UNCONSOLIDATED                                                                                             THEREUPWARD       ?                                                 FRACTURED                                                                                BETO                                          FRACTUREDFAULTEDFORMATIONS
+                                     IS           BETO          N                                                                                                                                                                                                                                                                                                                                                                                                          RESISTENCEDRAG                      N          BRIDGEDTHIS              &RELATED                                                                                                                                                                                                                                                                                                                                                                                                                                  FORMATIONS                                                                                                                                                                                          PROBLEM                                    CAN                                                                                                                                                                                     RELATED                                                                                                                                                                                                                                                                                  FORMATIONS                       LEDGES                                                                                                 HOLECAN                                                                                                                                                                                                           BLOCKS                              N                  GEOMETRY                                                                                                                                                                                                                                                                                        BLOCKS                                                                                                                                          JUNK         N                                                                                                                                                                                              JUNK                                                                                                                                                                                                                                                                                                  STRING    FAILURE                                                                                                                                                                                                           CEMENT                                                                                                                                COMPONENT                                                                                                                                                                                                                                                                                                  FORMATION                                                                                 CEMENT                                                                                                                                                                                                                                                                        WELLBORE
+
+
+
+
+
+                                 Y                 ?                                                                         HOLE                 IN   IN        OR
+
+                               ?                                                                                                                                                                                                                                                                                                                                                                  UNDERGAUGE                                                                                                                           INCREASE                                                                                                                       ERRATIC                                                                     TRIPPING             INCREASEDOWNWARDRESISTANCE   ISSMOOTH
+                           N                                                                                                                                                                                                                                              PREVIOUSUNDERGAUGE
+                         ?           WAS  N                                                                                            BIT                                                                                                                                                                                                                                   LEDGES                                                                                                                                                                                                                                                                                           WELLBOREGEOMETRYFORMATION                      Y                                                                                                                                                                                                                                                                          CIRCULATION                                                                                                                                                                                                                                                          RESTRICTED     ? Y                                                IS                                                                             DRAG                                                                                                                                                                                                                                                                                                                                            CLEANING                                                                                                                                                                       EXCESSIVE                                                                                                                                                                                                                   INADEQUATE                                                                                                 SMOOTH          Y          REDUCEDPUMPING                                        HOLE                                                                                             THEREUPWARD                                     IS                           BEDS)               DRAG                                                                                                                          WHEN                                                                                                 HOLE         IS
+
+
+                      N                                                                                                                                                                                                        (CUTTING       N                                                                                                                                                                                                                              MOBILE                                                                                                                                                                                                                                                                                           REACTIVE                                                                                                                                                                                                                                                                                                                                      FORMATION     FORMATION                                                                                                                                                                                                                                                  INADEQUATE                                                                                                                                                                                                        CLEANING
+
+
+                                                                                                                                                         2179 /192
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  11 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                       FIGURE 8
+
+
+
+
+
+                               ?
+                                  Y             JUNK                                                                                                                                                                                                                          CEMENTBLOCKS
+                                         Y                      N                                                               POSSIBLE                                  KEY                                                                                                                                                                                                                                                                                                                       SEATING
+                    ?                                                                                                                                                                                                                                                   DOWNWARD  N       TO?                                                         NEW                     IS                                      IN                                                                    MOTION                                                                                                                                                                                          ALLOW                                                                                   KNOWN               SECTION                                                                                                                             ROTATING        PASSED N
+
+
+                          /                                                                                                                         PROBLEM                                                                                                                                                                                                                                                                           LEDGES                                                                             BE                                                  ARE                                                                                                                                                                                     FORMATIONS                                                                                                                                                                                                                                                                                                                                                                           WELLBOREGEOMETRY                                                                                                                                                                                                                                                                                                                                                                                                         FORMATION                                                                                                                                    EXPOSEDHOLE                                                                                                                                                 DOESSTRINGOBSTRUCTION              ?                               ?
+                      Y
+                          IN                       ?                  Y                                                            FAULTED                                                                                                                                                                                                                                                                FORMATIONSFRACTURED      FORMATIONS           N                                                                                                 SECTION                                              /                                                                                                                                                                                                                                                                                                                                                           UNCONSOLIDATED                                           POSSIBLE                                        JUNK                                                                                                                                                                                                                                                                 CEMENTBLOCKS                                                                       ERRATIC                                                                                                                                                          DOWNWARD  N                                                                                                         OVERPULLHOLE   N                      N              IS                                                      CIRCULATION  Y                          IS                                                                                                                                                                                                                                       RESTRICTED                                                                                                                                                                                           MOTION        IS                                                                    FAULTED                                          NEW                                   IN                                                                                                                                                                                                                                                                                                                                                                                                                                FRACTURED      FORMATIONS
+                   ?      /      Y  ?
+                                                                         BE  Y     KEY                                                                                                                               DRILLEDBITS                                                                     FREE                                 SEATING                                                                                                                    PROBLEMEXPOSED    Y                                       BHA                                                                                                                                                                                              FAULTED          ?                                                                                                                                             FORMATIONSFRACTURED      FORMATIONS                      CAN                                                                                   KNOWN    SECTIONPREVIOUS                                                                    UNCONSOLIDATED    N                                           ROTATED N                                                                                                                                                                                                               LEDGES                                      BY                                                                                                                                                                                                                                                                  LEDGES                                                  ARE                                                                                                                                                                                                                                                                 WELLBOREGEOMETRYFORMATION                                                                                                                                                                                                                                                                                                                                                              WELLBOREGEOMETRY                          ?                                                                                                                                                                                                                                                                                                                                                                                            FORMATION                                                                                                                                                                             FORMATIONSHOLE        OUT      DRAG                      ERRATIC
+                     OR                                   IN                                                          OVERPULL            OVERPULL                   ?  N
+              OR   IS                                                                                                                                                                                                               MOBILE                      TRIPPING             INCREASED                                                                            BITS                                                     CIRCULATION                                                                                                                                                                                                                                                                RESTRICTED   Y                                                  IS                                                               SMOOTH                                   PROBLEMEXPOSEDDRILLED                                                                                                                                                                                                                                                                                                                                                  STABILISER                                                                                                                                                                                         FORMS
+                                  /                                                                                                                                                                                                                                                                 REACTIVE                          ?                                                                FORMATIONS              FORMATIONS                                                                                                                                       (BITBALLING)        UNCONSOLIDATED                                                                                   KNOWN    SECTIONPREVIOUS                                                                                                                                                                                                                                                        LEDGES                                      BY          N                      Y                                                                                                                              WELLBOREGEOMETRYFORMATION                                                  ARE
+              ?                                                                                                                                                                             FORMATIONSHOLE                                                                                                                                                                                                                                                                                 CIRCULATION                          IN                                                                                                                   RESTRICTED
+                  N            IS    Y                                                                                                 SECTION
+
+
+                          ?                                                             SMOOTH                                                                                                                                                                                                                                     CLEANING                                                                                                         OVERPULLHOLE   Y                          IS                N                                                                                INADEQUATE                      N                                                                  HOLE                                          NEW                    ?                                                                                                                                                                                                                                                                                                                                                     CLEANING                                                                                                                                                                                                                                                                             WELLBOREGEOMETRYFORMATION                                                                                                                                                                                                                                                                                 CIRCULATION                                                         NEW                                                                                                                                                                                                                                                                RESTRICTED                                                                                                                                                                                                                        LEDGES                                                INADEQUATE                                                  IS                              Y                                      IN                                                                                   KNOWN               SECTION             /                               HOLE                                                                                                                         PROBLEM       ?                                                  ARE      FORMATIONS           N                                                                                                                                    EXPOSEDHOLE                                                                                                                                             FORM                      Y                CIRCULATION                                                   WELLBOREGEOMETRYFRACTUREDFAULTED                                                                                                                                                                                                                                                                RESTRICTED
+                                                  IS
+                                                                                                                                                                                                               MOBILE
+                              Y                                                                                                                                                                                                                                                                                                                                                  STABILISER                                  /           FORMS                                                                                                                                                                                                                                                                 REACTIVE                                                                                                                                                                                                                                                                                                                                          FORMATIONS              FORMATIONS                                                                                                                                       (BITBALLING)        UNCONSOLIDATED
+
+                                                                                                                                                         2179 /193
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  12 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                       FIGURE 9
+
+                                                                                                                                                                                                LEDGES                                                                                                                                                                                                         BLOCKS                            N              GEOMETRY                                                                                                                                   JUNK    FAILURE
+                                                                                                       BIT                                                                                                                                                                                                         CEMENT                                                                                                                                                                                                                                                                                                FORMATION                                                                                                                                                                                                                                                         WELLBORE
+
+
+
+
+
+                            Y                                                                                                                                HOLE
+
+                          ?                                                                                                                                                                                                                                                                                                                        UNDERGAUGE
+                      N              PREVIOUS                               BED)                   ?                                                      UNDERGAUGE  N                                                                          WAS                         HOLE                                                                             BIT                                                                                                                                                                                                                                                                      CLEANING                                                                                                                                                                                                                                                                                                                        INADEQUATE                                                                                                                                                                                                                                                                                                              (CUTTINGS
+
+                          ?                                                                                                                                                                                                                                                                                                                 FAULTED                                                                                                          ERRATIC
+                                            /                                                                                                                                                                                                         CIRCULATION                                                                                                                                                                                               RESTRICTED             ? N                                     IS
+                      Y    UP                         WHEN                                                                                                                                                                                                                                                                                                                                                                                                                                           FORMATIONS      FORMATIONS
+                                                                          ARE                                                                                                                                                                                                                                      EXCESSIVE  Y         DRAGS                                                                                                                                         UNCONSOLIDATED                                                                                                                                                                                                                                     PUMPING                                                                                        FRACTURED                                                                                             ARE
+                ?                                                                                                                                DRAGS                                           INCREASENOT Y                                                                                                                                                           HOLE               IN                                                                                                                                                                                                                                                         CLEANING                                                                                                                                                                                                                                                                                                                                                                                            INADEQUATE                                                              TORQUEREAMING                        ERRATIC                                                                                               REQUIRED                               OR                                                                                                                      INCREASE                                    ?)                                                    REAMING            IS             N                                                                       WEIGHT                                                                                                                                      HOLE                                                                                             INCREASEDINCREASED                                                                                             SMOOTH         ?                                     WELLBOREGEOMETRY                                                                                                                                                                                                                                                                                                                                                                                                                                          (SIDETRACKING
+
+
+
+                      N                                                                                                                                                                                                      PREVIOUS                   ?                                                      UNDERGAUGE                                                                          WAS                                                                             BIT  Y          HOLE                                                                                                                                                                                                                                                                                                                        UNDERGAUGE                                                                                           SMOOTH                                                                                                                                                                                                         CIRCULATION                                                                                                                                                                                               RESTRICTED
+                                     IS
+
+                          ?
+
+                            N                                                                                                                                HOLE
+                                   N                                                                                                                                                                                                                                                                                                                                                                                                    FORMATIONS                                                                                                                                                                                                                                                                      CLEANING                                                                                                                                                                                                                                                                                                                                                                                            FORMATIONS                      Y                                                                                  INADEQUATE                                                                                                   HOLE                                                                                                                                                                                                                                      EXCESSIVE                                                                                                                                          FORMATIONS                                                                          ARE       ?                                                                                 UNCONSOLIDATED                                                                                                                                                                                                                                    MOBILE                                                                                                                                                                                                                                                                                                                      REACTIVE                                                                                                                                DRAGS                      WHEN
+
+                            Y                                                                                                                                                            DRAGS                                                                                                                                                                                                                                     PUMPING
+                                                              DO                                                                                                                                                                                                                                                                INCREASENOT Y                                                                                                                                                           HOLE                                                                                                                                                                                                                                                                                                                             CLEANING                                                                                                                                                                                                                                                                                                                                                                                            INADEQUATE
+                                                                                                                                                         2179 /194
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  13 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                      FIGURE 10
+
+
+
+
+
+                              /
+
+
+
+              ?
+
+                  Y                                                                                                                                                                                                                     FAULTED                                                                                                                                                                                                                                                                                                FORMATIONSFRACTURED      FORMATIONS                                                                                                                                             CIRCULATION                                                                                                                                                                                                       UNCONSOLIDATED                                                                                                                                        RESTRICTED
+                          IS
+
+                                                                                             ERRATIC                                                                                                                                           BLOCKS
+                  N                                                                                          JUNK     COMPONENT                                                                                                                                                                              FAILURE
+              ?                                                    CEMENT   Y                                                                                                                                                STRING                             HOLECLEANING             OUT                                                                                                                                                                                                                                                                                                                           INADEQUATE                                                 TORQUE                      TORQUE                                    DRAG                          INERRATIC
+
+
+                        ?                           AND       OR                                   WHEN                               REAMING                  Y                   DRAGS                                                                         INCREASED                                                                                                      INCREASE                          ISSMOOTH                       ARE    PUMPING
+                           N                                                                                                                                                                   REDUCED                                                                                 FORMATIONS                                                                                                                                                                                                                                                                                                                           FORMATIONS
+                                                                                                                                                                                             MOBILE                                                                                                                                                                                                                                                                   REACTIVE
+                                                                                SMOOTH
+
+
+
+
+
+                        ?                                                                                                                                                                                                  LEDGES
+
+                           Y              ?                                                                                                                                       GEOMETRY     COMPONENT                                                                                                                                                                                                                                             FAILURE
+
+                  N                                                                                                                                                                                                                                            RESTRICTED                            WELL                                                                                                                                                                                                      STRING                                                                                                                                                                                      DOWNWARD                                                                             FORMATION
+                                             IS                                                                                                                                             CIRCULATION                                                                                                                                        RESTRICTED                          IS                                                           MOTION
+
+
+
+
+                           N                                                                                                                                                                                                                               SEATING
+                                                                                                KEY
+
+                                                                                                                                                         2179 /195
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  14 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                       FIGURE 11
+                                                                                                                                                 BLOCKS
+                     N                                                                                                    JUNK
+                                                                                                                                                 CEMENT
+
+
+                  ?
+                                                                                                                                                                                          CIRCULATION                                                                                                                                                                                 RESTRICTED
+                                  IS
+                                                                                                ERRATIC                                                                             FAULTED
+
+                          /
+
+                     Y                                                                                                                                                                                                                                                          FORMATIONS      FORMATIONS                                                                                                                                                                                                                                                                                                                                                  UNCONSOLIDATED               ?                                                                                            FRACTURED                                    DRAG        OR
+                                                                                                       INCREASE                                                                                                 RESISTANCE                           ERRATIC                          ISSMOOTH                                                                        CIRCULATING  &                                                                                INCREASED
+
+
+
+
+
+                     N                                                                                                                                                 MOBILE                                                                                                                                                                                                                                                          FORMATIONS
+
+
+
+                  ?                                                                                  SMOOTH                                                                                                                                                                                       FORMATIONS                            N                              FORMATIONS                                                                                                                                                                                                                                                                                                                          FORMATIONS                                                                                                                                                                                          CIRCULATION       ?                                                                                                                                                                                 RESTRICTED
+                                  IS                                                                                                                                                                                            MOBILE                                                                                                                                                                                                                                                                 REACTIVE                                                                                                                                                                                                 INCREASEPUMPING                                                                                    GEOPRESSURED
+                     Y
+                                                                                                                         DRAGSNOT
+                                                DO                                                                                                    WHEN
+
+
+                            Y                                                                                                                                                                                                                                                                 CLEANING                                                                                                                                                                                                                                                                                                                          INADEQUATE                                                                                                                                 HOLE
+
+                                                                                                                                                         2179 /196
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  15 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                      FIGURE 12
+
+                                   RUNNING CASING
+
+
+                                 INCREASE IN DOWNWARD
+                                RESISTANCE WHILE RUNNING
+                               CASING OR AFTER CONNECTION
+
+
+                               CAN PIPE BE WORKED
+                                   UPWARDS ?
+
+
+                            N                   Y
+
+
+                         IS CIRCULATION                                 IS CIRCULATION
+                   RESTRICTED ?                         RESTRICTED ?
+
+
+            Y                N                  N                Y
+
+
+
+
+     HOLE PACKING OFF        ARE PERMEABLE    ARE DOG LEGS    HOLE PACKING OFF
+     REACTIVE FORMATION         FORMATIONS      EXCESSIVE ?    REACTIVE FORMATIONS
+      UNCONSOLIDATED            EXPOSED ?                     MOBILE FORMATIONS
+        FORMATION                                          UNCONSOLIDATED FORM.
+                                                              INADEQUATE HOLE
+                                                                  CLEANING
+
+                   N                 Y
+
+
+
+               SURFACE LOAD         DIFFERENTIAL
+               LIMITATION WITH          STICKING
+                 RESPECT TO
+               LARGER DRAG
+                   (ESP. DIRECTIONAL
+                   WELL)
+              INADEQUATE HOLE
+             CLEANING (CUTTINGS             N                     Y
+               BEDS) CENTRALISERS
+            BROKEN / BUNCHING
+
+
+                                  FORMATION LEDGES       WELLBORE GEOMETRY
+                               FRACTURED / FAULTED FORM.
+                                INADEQUATE HOLE CLEANING
+                                    CENTRALISERS BROKEN /
+                                       BUNCHING
+                                    CASING TOO LIGHT (HAS
+                                  NOT BEEN FILLED)
+                                      JUNK IN HOLE
+                                                                                                                                                         2179 /197
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  16 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+        b)  Top drives have been very successful in reducing problems due to tight hole.  In exploration areas
+          and known problem areas, consideration should be given to selecting a rig with a top drive unit.
+         The additional cost of such a rig has to be compared with the costs that could result from a fishing
+            job or sidetrack. The decision must be a commercial one.
+
+        c)  Ensure that the Rig Contractor’s personnel understand and use BP’s tight hole and stuck pipe
+           procedures.
+
+        d)  BHA design should be given careful consideration. A string with only the required components will
+           give the least risk of getting stuck. Many incidents are contributed to by needlessly long
+           assemblies. The number of collars and particularly large OD elements should be justified.
+
+        e)  When planning a well, be aware of the amount of open hole time for each section. Any reduction in
+              this will help to cut the chance of stuck pipe.
+
+           f)  Mud design is critical in keeping a hole in optimum condition.  Careful consideration of the mud
+          system and planned mud weights will be rewarded by reduced tight hole.
+
+        g)  Although the first priority for a casing design must be to ensure that the well can be drilled safely,
+          one consideration should be stuck pipe. Without compromising safety, the shoe depth should be
+           planned to case off troublesome formations.
+
+2.2.2  Rig Site Precautions
+
+        a)   In tight hole situations, be patient. Time spent conditioning mud and the hole is not wasted time,
+            but is insurance against greater time lost during stuck pipe incidents. Circulate sooner rather than
+              later when tripping, if hole conditions are worsening. A Driller may be reluctant to break circulation
+          and disturb the slug, but it is far easier to re-slug the pipe than to free it once stuck.
+
+        b)  Keep the drill string moving as much as possible in open hole.
+
+        c)  Always ensure that the Drillers are aware of what to do  if the hole becomes tight and of any
+           expected problems.
+
+        d)  At the first signs of tight hole, the BP Representative must be called to the rig floor.
+
+        e)  Always exercise caution when tripping in open hole. The BP Representative should always be on
+            the floor for at least the first 10 stands out, the last 10 stands in and through any problem sections.
+
+           f)   Never try to force the string through a tight spot.  Pulling firmly into tight hole may well lead to the
+             string becoming stuck. Take it carefully and do not overpull more than half the weight of the collars
+          below the jars.   If this rule is followed,  it should always be possible to work the pipe back down.
+           This gives the Driller a figure to work to and will prevent many stuck pipe incidents each year.
+
+          Depending on the situation, the BP Representative has the option of gradually increasing the
+             overpull, each time checking that the pipe is free to go down. At any stage, the kelly can be picked
+          up or the top drive used to wash down and work the pipe. Never pull more overpull than the weight
+             of the collars, as this will almost certainly result in the string becoming stuck.
+
+        g)  Always wash and ream at least the last 3 joints to bottom.
+
+        h)  Before tripping, always endeavour to clean the hole.  This subject is covered at greater length in
+           Section 2.4.
+
+            i)   Minimise time spent in open hole.
+
+            j)   Monitor and record the depths and magnitude of torque and overpull, to help assess the condition
+             of the hole.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  17 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+        k)  Wiper trips should be made regularly, according to predetermined procedures or as hole conditions
+             dictate.  Often the wiper trip will be made back into the previous casing shoe, but short trips
+           through newly drilled hole may be all that is required.
+
+            l)    All Drilling Supervisors should be well versed in how the drilling jars work. The different
+         mechanisms need to be understood because certain situations may arise which require that
+           knowledge. For example, Dailey mechanical jar settings change with torque, while hydraulic jars
+          have an infinite number of settings depending on the pull.   If the string is pulled to the maximum
+          and mechanical jars do not go off, it may be that the amount of overpull needed for the jar to hit has
+            not been reached. With hydraulic jars, it would mean that either the string would be stuck above
+          them or that the tool had failed. The Supervisor must know how each set of jars works to make
+            decisions from this point. Any relevant information should be passed to the Driller.
+
+      m) The shale shakers should be monitored regularly by the BP Representative, as well as by the Mud
+           Engineer. The shape, quantity and condition of the cuttings give valuable indications of what is
+          happening downhole. Most Reps already check the shakers at frequent intervals and this practice
+          must be continued.
+
+        n)  Top drive units have been described earlier as a successful development in reducing stuck pipe
+            incidents.  However,  it must be recognised that the different drilling techniques require some
+            special procedures and the same amount of care.
+
+          Problems peculiar to top drives have doubtless been identified by all operations which have used
+           them. One example was highlighted on a UK Land operation, where the use of the top drive
+             actually increased the amount of tight hole. When drilling in singles with a kelly, the newly drilled
+           hole was wiped at every connection. With a top drive, drilling in stands, the new hole was wiped far
+            less frequently.  This resulted in poor hole conditions and affected drilling performance.  After
+            increasing the frequency of wiping the hole to once every single, hole conditions were significantly
+             better.
+
+          There is a risk of complacency with top drives, as they are sometimes regarded as being capable
+            of keeping pipe moving, however tight the hole becomes.  Consequently, action to improve
+            conditions are delayed or not taken at all.  This is the wrong approach;  top drives are good, but
+           they are not infallible and tight hole must be treated with the same amount of care as it would be if
+               drilling with a kelly. Top drives are a good tool, but must be used astutely.
+
+        o)  On floating rigs, the drill string compensator can play an important role in the prevention of stuck
+           pipe by helping to control sudden movements of the pipe. When drilling, the compensator should
+          be stroked out as far as the heave permits. This prevents the string dropping through a fast drilling
+           break and possibly becoming stuck in an unconsolidated formation.   It is especially applicable for
+            top hole sections, where the reaction time to pick up an almost closed compensator can be too
+           slow to save a stuck pipe incident.
+
+                  If tight hole is expected when tripping out of the hole,  it can be a good idea to keep the
+          compensator unlocked.  This gives the Driller more time to react  if he suddenly runs into a tight
+            spot. The small amount of time gained may make the difference between staying free and getting
+            stuck. Be aware that some compensators’ rating may not permit this.
+
+2.3     Differential Sticking
+
+2.3.1  Planning Stage
+
+        a)   Indicate in the Drilling Programme the presence of any permeable formations which may lead to
+              differential sticking.
+
+        b)  Estimate the pressure of the problem formation, using all relevant nearby well data.   If good and
+            recent RFT, DST or producing well information is available, state the best estimate of the formation
+           pressure in the programme.  If the risk of differential sticking is thought to be high, make this clear
+              in the programme.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  18 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+           Thick reservoirs can give a high risk of sticking, because of the low formation fluid density. Figure
+         13 shows how the overbalance can rapidly increase with depth when drilling through a gas
+             reservoir.
+
+        c)  On an appraisal well where differential pressures are thought to be high across a permeable
+            formation, consider taking a RFT measurement. The risk of getting the logging tool stuck should
+          be taken into account, but this may be outweighed by the value of the information on later wells.
+         The RFT is as useful to a Drilling Engineer as to a Petroleum Engineer.
+
+        d)  When differential pressures are known to be high, give careful thought to the logging programme,
+             particularly the number of pad tools. These are always susceptible to becoming stuck and
+            especially those tools with radioactive sources should be used with discretion.
+
+        e)  Lubricants considerably reduce the force required to free differentially stuck pipe and should
+          always be used in areas where differential sticking is a possibility.  There are a wide range of
+             lubricants available for water based systems.  There are also some lubricants for oil based mud
+           systems.
+
+             In the planning stage, the type of lubricant to be run should be considered. Advice on this subject
+          can be obtained from BPX technical support groups.
+
+         The drilling programme should state the concentration of lubricant to be used.
+
+           f)  The planning stage must consider the type of pipe free agent and the spacer to be used ahead of
+                     it. The formulation of the pill must be checked to ensure that it can support barytes and that there
+              is minimum gelling when mixing with the mud.  There is a considerable difference in the
+          performance of pipe free agents commercially available.  Advice on the type of pill and the
+            formulation must therefore be sought from BPX technical groups.
+
+         The drilling programme must state:
+
+            a)  The pipe free agents to be used and the quantity to be held at the rig site.
+
+            b)  The spacer and pipe free pill formulation.
+
+             c)  Volumes of each to be pumped.
+
+         Note:
+          Displacementprocedureandrequirementsoncirculatingthepilloutaregivenin3.2.4.
+
+        g)  The addition of “bridging” material to the mud can reduce the filter cake thickness and hence
+          reduce the potential for differential sticking. Ground marble should be used in preference to
+           calcium carbonate due to the ability of marble to retain its grind size. A typical concentration for
+              this material is 8.0 ppb. Typical grind size is:
+
+         D10       13 microns
+         D50       50 microns
+         D90      160 microns
+
+         The grind size and concentration are guidelines only.  In the planning stage, the actual grind size
+          and concentration should be considered in detail.  Also in the planning stage, the effect of the
+            addition of this material type on shale shaker screen size selection should be considered. Shaker
+           screens should be selected to prevent a drilled solids build-up.  This however is likely to remove
+            the coarse end of the ground marble.  This should be replaced whilst drilling ahead. The drilling
+         programme should state the rate of addition whilst drilling ahead to replace that taken out at the
+           shale shakers.
+
+        h)  HTHP fluid loss must be run on the mud when drilling in an area where the potential for differential
+             sticking is high regardless of the bottom hole temperature.
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  19 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                       FIGURE 13
+
+                      INCREASE IN OVERBALANCE
+                   THROUGH GAS RESERVOIR
+
+                                                                                                                                                                                 13600
+
+
+                                                                      PPG)                                                                  13400
+                                                                                       (14.9                                                                                                                                     PRESSURESG
+                                                                      1.79
+                                                                                                                                                                                 13200                                   AT
+                                                    MUD                                                                                                                                                                                       HYDROSTATICOF                                                              (PSI)
+                                                                                                                                                                                 13000    PRESSURE                                                                                                                                                                                                                                                                                                                                    OVERBALANCE
+                                                                                        PSI
+                                                                                        750                        12800
+
+
+
+                                  PSI                                                                                                                                                      RESERVOIRPRESSURE                                  200                                                                                                                   12600                                                                                                                                     OVERBALANCE
+
+
+                                                                                                                                                                                 12400                                     (FEET) DEPTH
+
+                                                     16400                  16600                  16800                  17000                  17200
+
+                         SANDSTONE BEARING GAS
+
+                                          5000            5050           5100           5150            5200            5250
+
+                                (METRES) DEPTH
+
+
+
+                                                                                                                                                         2179 / 198
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  20 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+         The drilling programme must state the maximum value for the HTHP fluid loss and low pressure
+               fluid loss.
+
+2.3.2  Rig Site Precautions
+
+        a)  Continuously track the differential pressure across permeable formations, as accurately as
+            possible.  Follow the trends of the D exponent graph, trip gas levels and connection gas levels,
+           whichshould indicate changing pressures.
+
+        b)  Keep the mud weight at the lowest safe level. A widely used rule of thumb is 200 psi static
+           overbalance, although conditions will frequently dictate a different figure. Aim to keep differential
+           pressures across permeable formations to a minimum.
+
+        c)  Maintain all mud parameters within those specified in the drilling programme. In particular:
+
+                    i)    Maintain HTHP and low pressure fluid loss within specification. These values should as a
+              minimum be measured three times perday.
+
+                      ii)   Maintain gel strengths at the minimum possible value consistent with suspension and hole
+                 cleaning requirements. High gel strengths will prevent the efficient functioning of pipe release
+                agents. The 30 minute gel strength should be measured in addition to the standard 10
+               second and 10 minute and should not be significantly higher than the 10 minute value.
+
+                       iii)   Drilled solids content should be minimised.
+
+                iv)   Lubricant concentration should be maintained as specified in the drilling programme.
+
+              v)  When bridging agents are used, the coarse fraction removed at the shale shakers should be
+                 replaced whilst drilling ahead.
+
+        d)  Use spiral collars and stabilisation to centralise the BHA in potential problem areas.
+
+        e)  Keep the pipe moving at all times. Reciprocating is the preferred motion, as it shows that the pipe
+               is free to trip in and out of the hole.  However, when this is not possible (e.g. on connections),
+            rotation is considerably better than leaving the pipe static. Do not programme unnecessary
+           surveys as they are a high risk operation. An MWD surveying tool is less likely to become stuck
+           than a single shot, because the string is stationary for a shorter time. In a high risk area, this alone
+         may justify the additional cost of an MWD.
+
+           f)   Differential sticking regularly occurs during a well kill procedure, due to the increased mud weight.
+          Under no circumstances should the fear of becoming stuck dictate the kill weight to be used.
+          However, excessive safety margins are sometimes used in both kill mud weight and circulating
+            pressures. These increase the change of stuck pipe.
+
+2.4    Inadequate Hole Cleaning
+
+      Poor hole cleaning will usually cause hole conditions to steadily deteriorate, rather than having an
+       immediate effect. Consequently, there should be an opportunity to recognise and react to the problem.
+
+2.4.1  Planning Stage
+
+        a)   In large diameter sections, circulation rates are most important and often need to be kept as high
+          as possible.  If pump pressure is a limiting factor, consider the use of large ID drill pipe, short BHAs
+          and minimum quantities of heavy weight drill pipe to reduce the friction losses.
+
+        b)  Include in the Mud Programme recommended minimum circulation rates. Advice on calculation of
+         minimum flowrates is available from BPX Technical Centres (refer also to Section 4900/GEN).
+           This process is especially important in hole angles of over 30° when cuttings beds start to form.
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  21 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+           Figure 14 shows how flowrates must change relative to hole angle to maintain cuttings removal.
+         The ideal zones to be in are 1 and 2, whereas a flowrate in zone 5 is a guarantee of tight hole
+           problems. The diagram is schematic and should not be used for planning purposes. As a rule of
+          thumb guide, the annular velocity necessary to get cuttings moving in a well inclined at 30° is about
+        20% higher than in a vertical well. Between 50° and 60°, the annular velocity needs to be about
+            twice that in vertical holes.
+
+        c)  Study offset well data for signs of overgauge hole, which may need to be included in minimum
+            flowrate calculations.
+
+        d)  Hole angles between 50° and 60° are the most difficult to clean. Cuttings beds at these angles will
+           tend to slide down the low side of the hole and may accumulate, causing the hole to pack off. The
+              Drilling Programme for wells with these inclinations should highlight this potential.
+
+2.4.2  Rig Site Precautions
+
+        a)   Prior to starting a trip, the hole should be circulated until it is as clean as is practically possible. A
+         minimum circulating time should be predetermined, but a trip should not be started if there are still
+             significant quantities of cuttings coming over the shakers at that time.  It may be beneficial to rotate
+          and reciprocate the string while circulating in inclined wells, as the movement assists hole cleaning
+          by disturbing cuttings beds.
+
+          There are situations where circulation alone could be maintained for days without the hole being
+             effectively completely cleaned. This may often be the case with cuttings beds or wells with severe
+          overgauge sections.  Special tripping procedures may need to be used for this type of well.
+           Solutions such as pumping and backreaming out or the use of undergauge stabilisers in the
+              drillpipe to disturb cuttings beds have been used with success.
+
+        b)  Do not permit the flowrate to drop below the minimum required to clean the hole.   If a mud pump
+          goes down, stop drilling until it is repaired. Trip back into the shoe if the delay is going to be a long
+           one. Do not drill ahead, expecting to clean the hole at a later stage.  It may be too late.
+
+        c)  There are several indicators which can identify hole cleaning problems:
+
+              Excessive overpull on connections and trips.
+             Reduced overpull when pumping.
+              Excessive fill after trips.
+                 Erratic and increasing torque while drilling.
+              Lack of cuttings on shakers.
+
+          These must be recognised and action taken.
+
+        d)   In high angle wells, increasing the viscosity and pumping hi-vis pills may not improve hole cleaning.
+         Where cuttings beds have formed, low viscosity pills giving turbulent flow may improve hole
+            cleaning. These should usually be followed by a heavy pill to “sweep” up the disturbed cuttings.
+
+        e)  Minimise the amount of overgauge hole, where annular flowrates are reduced and cuttings build-up
+               is most likely to occur. Serious problems may result in the next hole section if a very large casing
+         sump is drilled. Always keep the sump to a minimum. Big safety margins are unnecessary.
+
+           Other avoidable causes of overgauge hole are:
+
+               Excessively high flowrates and jet nozzle velocity (washouts).
+                  Insufficient mud weight (cave-ins).
+                 Incorrect mud formulations (soluble formations).
+
+           f)   Control ROP to a level at which the cuttings can be removed.  This must be applied to
+           instantaneous ROP, not average ROP (refer also to Section 4900/GEN).
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  22 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+                                                       FIGURE 14
+
+             MAP OF FLOW PATTERNS IN DEVIATED WELLS
+
+
+
+
+               ZONE 1                                     ZONE 2
+
+
+
+
+                                    GOOD HOLE CLEANING
+                                    WITH MOVING CUTTINGS BED
+                     EFFICIENT
+                HOLE CLEANING
+
+                                 ZONE 4
+
+
+
+                               SOME HOLE CLEANING,
+   INCREASING                     CUTTINGS BED FORMED
+    ANNULAR     ZONE 3
+    VELOCITY
+               SLOW REMOVAL
+                 OF CUTTINGS
+
+
+
+
+
+                                      ZONE 5
+                               NO HOLE CLEANING
+
+
+                  0                        30                        60                        90
+                            WELL INCLINATION (DEGREES)
+
+
+
+
+
+                                                                                                                                                          2179 /199
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  23 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+        g)  Always look at the shakers to get a feel for the effectiveness of the hole cleaning. Does the volume
+             of cuttings seem right for the ROP? Do slugs of cuttings appear followed by very few cuttings?
+         The shakers will give an early indication of a hole cleaning problem.
+
+        h)  When a downhole motor is being used in an inclined well, without rotating the drill string,  it is
+           probable that the cuttings beds are not being disturbed.  If possible rotate the string prior to tripping
+            out of the hole.
+
+2.5    Formation Instability
+
+2.5.1  Planning Stage
+
+        a)  Use nearby well records to identify any unstable formations which have caused problems in the
+            past.  Highlight them in the Drilling Programme.  Overgauge hole shown on caliper logs may
+             indicate sloughing formations. Increasing the planned mud weight may help to control them.
+
+        b)    If gumbos or swelling shales are expected, ensure that the mud formulation is designed to cope
+            with them.
+
+        c)   Eccentric PDC bits have been used successfully in plastic salts and may be applicable for other
+              tight formations. A bit which drills a hole 1/8” larger than the nominal diameter is usually sufficient.
+
+2.5.2  Rig Site Precautions
+
+        a)  Unstable formations can give a variety of combinations of the following.  Recognise them and
+          respond to them:
+
+             Drag on trips.
+                       Fill on trips.
+              Excessive material on the shakers.
+              Excessive torque.
+                Increasing MBT levels which are not due to mud treatments.
+                  Salinity changes in the water phase of oil muds.
+             Out of gauge hole.
+            Shape of the cuttings.
+                Cuttings from an earlier drilled section.
+
+        b)  Mud properties must be maintained, particularly in shales. Even  if  it means tripping back to the
+           shoe, time spent conditioning mud may prevent a stuck pipe incident.
+
+        c)   Trip with caution through swelling formations.
+
+        d)  Ream each single in tight hole. When using a top drive, pick up midway through each stand and
+          ream.   If hole conditions are severe, more frequent reaming may be required. Time spent
+           improving conditions is not time wasted.
+
+        e)  A top drive allows tight sections to be tripped through using slow rotation and circulation.  After
+             pulling into a tight spot, run back into gauge hole and circulate before backreaming out.  Current
+            practice indicates that the pump rate for backreaming should be similar to that used for drilling.
+
+           f)   Sections which proved to be tight during a trip out of the hole should always be reamed on the trip
+               in.
+
+        g)  Tight hole depths must be logged by the Drillers/Tourpushers.
+
+        h)   Drillers should be on the brake when tripping through problem formations, as they will have gained
+          a feel for the hole. Assistant Drillers, Tourpushers and Rig Superintendents should be discouraged
+           from relieving the Driller in open hole.
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  24 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+            i)   At the first indications of tight hole, the Driller should call for the BP Representative and the Rig
+           Superintendent/Tourpusher to go to the rig floor.
+
+            j)   Wiper trips should be conducted regularly according to predetermined procedures, with additional
+              trips being made if required.
+
+        k)   In tight hole situations, consideration of the stuck pipe risk should be made before dropping a
+            single shot survey.
+
+            l)   Never spend unnecessary time in open hole.
+
+2.6   Key Seating
+
+2.6.1  Planning Stage
+
+        a)  Review nearby well data for previous incidents of key seating.  Indicate any occurrences in the
+              Drilling Programme.
+
+        b)  Where key seating is considered to be a potential problem, ensure that a string reamer or key seat
+           wiper is available on the rig for each relevant hole size.
+
+2.6.2  Rig Site Precautions
+
+        a)  Ream any severe doglegs, before key seats have an opportunity to develop.
+
+        b)    If a key seat is suspected or expected to develop, consider using a string reamer in the drill pipe to
+          wipe the build section or dogleg. The reamer must be larger than the drill pipe tool joint and
+            smaller than the collars.
+
+2.7   Bottom Hole Assembly Changes
+
+2.7.1  Planning Stage
+
+        a)  Do not plan a stiff assembly to follow a flexible BHA, without flagging in the Drilling Programme that
+           care should be taken when tripping in.
+
+2.7.2  Rig Site Precautions
+
+        a)  Always gauge bits and stabilisers before and after each trip. Ensure that the correct gauge ring is
+          used for bits, some PDC bits need special rings.
+
+        b)  Unless torque records clearly show the point at which the bit gauge became worn, consider
+          reaming the whole of the section drilled by the bit.
+
+        c)  When running a BHA of increased stiffness, expect to have to ream. Do not trip into the open hole
+             rapidly.
+
+        d)    If the hole is thought to be undergauge, extreme caution must be applied when tripping into the
+            hole.
+
+2.8    Plastic Salts
+
+2.8.1  Planning Stage
+
+        a)  Eccentric bits have been used successfully to combat the problem of extruding salt formations.
+         The eccentric bit drills a hole which is greater than its nominal diameter, typically by 1/8”. With the
+             larger hole, the salt has to move further, before it sticks the pipe. This gives more time to drill the
+            section before a stuck pipe problem will occur. These bits have been used effectively in the
+           Southern North Sea.
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  25 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+        b)  Increasing the mud weight will increase the pressure on the formation and reduce the tendency of
+            the salt to creep into the well.
+
+2.8.2  Rig Site Precautions
+
+        a)  On drilling into a salt formation, it is advisable to pull above it immediately and treat the mud and
+           weight up as required. The top 20 metres (60 feet) should be drilled cautiously with constant
+           reaming, unless the formation is well known.  Salt saturated muds or oil muds are generally used
+              for drilling salts and often need to be weighted up to balance the formation closing pressures.
+
+3.    FREEING STUCK PIPE
+
+3.1    General Procedures
+
+3.1.1    Initial Steps
+
+      The first actions taken when the drill string becomes stuck have the greatest chance of success. The
+         Driller should be aware of the following points to help him make the correct response immediately.
+
+        a)    If the pipe was moving immediately prior to becoming stuck, always try to move in the opposite
+             direction.
+
+        b)  Use the jars as soon as possible, jarring in the opposite direction to the pipe movement before
+          becoming stuck.
+
+        c)  Work the pipe to the limits. The BP Representative must ensure that a maximum safe pull is
+            specified for each assembly run. The Contractor’s overpull figures may contain an additional safety
+           margin, because of the understandable concern about protecting the pipe. The BP Representative
+           should be aware of this, but not necessarily constrained by it.
+
+        d)    If differential sticking is suspected, work in right hand torque and slump the pipe;  if not successful,
+             pull to the maximum.   If the bit is on bottom, continue working the pipe by pulling up to the
+         maximum and by jarring. See also Sections 3.2.2 and 3.2.4.
+
+        e)  Have the chemicals and mud pits ready to make up a pill.
+
+3.1.2  Job Analysis
+
+       During the earliest stages of trying to free the pipe, decide what caused it to become stuck. This may
+        well be obvious from the conditions which have existed previously. However, the diagnostic process
+       should not be taken lightly, as an incorrect identification of the problem lowers the chances of
+        successfully freeing the pipe.
+
+      The following are examples of the type of questions which should be asked, before determining a
+       course of action:
+
+        a)   Is there a potential well control problem?
+
+        b)  What was the operation when the pipe became stuck?
+
+        c)  What do the rig’s data recorders show?
+
+        d)  What recent changes have been made to the mud properties?
+
+        e)  What have the hole characteristics been?
+
+           f)  Where has the pipe become stuck?
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  26 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+3.2     Differential Sticking
+
+3.2.1  Causes
+
+         Differential sticking can be recognised if:
+
+        a)  The pipe was stationary before sticking.
+
+        b)   Full circulation is possible.
+
+        c)  Permeable formations are known to be open.
+
+        d)  There is a significantly overbalanced condition.
+
+3.2.2  Freeing the Pipe Mechanically
+
+      Working the pipe should start immediately. The best chance of success in fully freeing the pipe will be
+        with the Driller’s first response.   If the bit is off bottom, the pipe should be slumped with right hand
+       torque held in  it.  This technique should be applicable in most cases, as differential sticking usually
+       occurs when the slips are set during tripping or connections.
+
+            If the bit is on bottom, the only course of action is to pull and jar.  Right hand torque should again be
+        applied, to try and get movement to the stuck point.  Pipe should be pulled to the maximum limit
+       immediately, using the figure specified by the BP Representative.   If the first attempts to free the pipe
+       are unsuccessful, it should be worked in both directions until alternative action can be taken.
+
+3.2.3  Reducing Hydrostatic Pressure
+
+      Reducing hydrostatic pressure is the obvious way of freeing differentially stuck pipe.  However,  it is
+        essential that all aspects of well control are considered prior to lowering the hydrostatic head. There
+       are several ways of cutting the pressure on the formation, but no single method is the best in every
+       case. The important factors to bear in mind when choosing how to reduce the hydrostatic are the level
+        of control and speed.  Whichever method is selected,  it will be most effective  if the drill string is in
+       compression.
+
+     A standard method which may be used on any rig is to circulate the mud system while cutting back the
+       weight of mud. The minimum mud weight must be pre-determined and close attention must be paid to
+          all kick indicators. When diluting mud it may be difficult to identify a slow influx of formation fluids, as
+       the active volume is being increased continuously.  If it is impossible to monitor total volume, including
+        that of the diluting fluid, extreme caution must be used.  This method has the disadvantage of being
+       slow.
+
+     On floating rigs, depending on the water depth and mud weight, the hydrostatic can be reduced quickly
+      and safely by displacing the choke line to base oil or water. The well would be shut in with the annular
+       preventer and the choke line opened, so reducing the overbalance. Any influx can be easily spotted
+      and the well made safe immediately. Because the active system mud weight has not been cut, the well
+       could be killed by closing the choke line and opening the annular.
+
+            If the pipe is not freed on the first attempt, an equivalent mud weight can be calculated from the known,
+       safe hydrostatic. The weight of the mud can be cut and the process repeated until the pipe is free or
+       the minimum hydrostatic has been reached. The method may not be suitable in shallow or very deep
+       water, where the change in hydrostatic caused by displacing the choke line can be negligible or
+       excessive.
+
+     A third approach to reducing hydrostatic pressure is the U tube method as detailed in Section
+      6010/GEN. Because of well control concerns, this technique should not be used without consultation
+        with the Drilling Office.
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  27 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+3.2.4   Spotting Procedures
+
+         Differentially stuck pipe may be freed by the spotting of pipe release agents. These attack and break
+      down the filter cake reducing the bond between the cake and the pipe.  Pipe release agents are
+        generally oil based although recently water based products have also become available.
+
+      Note:
+     Some of the pipe release agents have a relatively high pour point. They thus become very viscous at
+      low temperatures making pill preparation difficult. These materials must be stored at temperatures
+      wherethiscannotoccur.
+
+      The volume of spotting fluid depends upon the size of hole at the stuck point.  If sticking has occurred
+       around the collars, then sufficient spotting fluid should be pumped to cover the BHA, allowing for some
+       hole enlargement.   It is better to use an excessive amount of fluid rather than insufficient to cover the
+       stuck point.  If the jars have failed to go off during the initial attempts to free the pipe, it is possible that
+       the string is stuck above them. In this case it is advisable to perform a stretch test to try and locate the
+       stuck point.  Stretch tests are not accurate, but can be helpful  if calculated stuck point is close to a
+      known permeable formation.
+
+      Many pipe free pills are ineffective because they fail to contact the filter cake in which the pipe is stuck.
+       This is because high mud gels make removal of the mud from close to the stuck zone very difficult. The
+        following procedures must be followed to improve mud displacement:
+
+        a)  The severity of differential sticking increases with time, therefore action must be taken immediately.
+         As well as working the pipe, preparation of the pill should start as soon as sticking is identified.  In
+           order to prevent the mud in the hole from developing high gels, mud circulation should be
+           maintained as high as possible while mixing the pill.
+
+        b)  A turbulent flow or, as thin a spacer as possible, should be pumped ahead of the pipe free pill.
+
+           This spacer must be compatible with both the mud and the pipe free pill.
+
+           Thinners can be used in the spacer, but only at levels which will not cause problems if incorporated
+             into the active mud system.
+
+         To obtain a stable turbulent flow spacer, it is likely that it will have to be unweighted.  Prior to the
+          use of this type of spacer, the effect on hydrostatic head must be considered. An unstable
+            turbulent weighted spacer must not be used.
+
+        c)  The most effective method of improving the displacement efficiency of the pipe free pill itself is to
+           increase its density above that of the circulating mud. An increase of 0.1 to 0.2 sg is optimum.  In
+            general, an increase of 0.15 sg should be used.
+
+         The pill rheology should be such that it is capable of supporting the weighting agent for extended
+           periods under downhole conditions. A very high YP, however, will prevent the pill flowing into the
+           narrow annulus close to the stuck zone. A value in the range 15 - 25 is recommended.
+
+        d)  The spacer and pill should be placed at the fastest rate possible. This not only improves mud
+           displacement, but also minimises mixing at the interface.
+
+        e)  Once the pill is in place,  it must be left to soak and the pipe worked at regular intervals until the
+           pipe is freed or the decision made to sidetrack/abandon. Soaking times of at least 12 hours should
+          be anticipated.
+
+         Note:
+        The practice of retaining a portion of the pipe-free pill inside the drill pipe and slowly displacing to
+         the annulus during the soak period is ineffective. The slow pump rate used for this practice will
+            resultinthisfluidgoingupthewideannulus.
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  28 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+         There is very little benefit in pumping further pills as there will always be the problem of removing
+           gelled pipe-free agent from the stuck zone. It is better to allow the first pill to soak (while working
+         thepipe)foraslongaspossible.
+
+           f)   After a pill has been spotted, the pipe should be worked, preferably by putting  it in compression.
+           Slack off about 10,000 lbs below the weight of the pipe and put in some right hand torque. The
+          amount of torque should be roughly half a turn for every 300 metres (1000 feet) of pipe above the
+           suspected stuck point. Release the torque and pick up the 10,000 lbs, repeating the cycle every 5
+           minutes.
+
+        g)    If an oil based spotting fluid is used, special precautions must be taken to prevent/minimise
+           discharge to the sea on circulating out.
+
+                   If possible, the pill plus contaminated mud should be isolated when returned to surface and then
+            returned to shore for disposal.  If the pill has become “strung out”, then the percentage of oil in the
+        mud must be determined and reported to the onshore drilling group. Advice will then be issued.
+
+3.3    Soluble Formations
+
+3.3.1  Stuck Pipe in Limestone or Chalk
+
+            If stuck in limestone or chalk, an inhibited hydrochloric acid pill may be spotted around the stuck point.
+            If the pill is going to be successful, then the freeing will take place quickly as the formation is dissolved
+      by the acid. The maximum time for a pill to work is 2 hours.
+
+            If well control considerations permit, the pill should be spotted with a large water spacer ahead and
+       behind it, as the acid can cause severe mud problems. The formulation of the pill should be supplied
+      by the mud company. The technique may corrode high strength tubulars, which should be inspected
+         after the pipe is freed.
+
+       Safety measures needed when handling acid are described in the Safety Procedures Manual. These
+      must be followed.
+
+3.3.2   Plastic Salts
+
+       Stuck pipe in a salt section can usually be freed using a fresh water pill spotted around the stuck point.
+       This dissolves the salt. The stuck point will generally be in the BHA, but similar procedures to those
+       given below may be employed if the string is known to be stuck higher up.
+
+       Typically a fresh water pill large enough to be spotted across the BHA will be pumped, with an
+        additional 20 barrels to be left in the string. An oil based mud system should have a spacer pumped
+      ahead of the pill containing water and detergent.  After the pill is spotted, a couple of barrels should be
+      pumped to move some more fresh water into the hole. Maximum pull should be kept on the pipe while
+       the pill is circulated, so that the string will pull free when sufficient salt has dissolved. The pipe should
+      be freed within 2 hours.   If not, pump a second pill. As always when using unweighted spacers, well
+        control considerations are paramount.
+
+3.4   Key Seating
+
+3.4.1  Key Seat Recognition
+
+       Pipe which is stuck in a key seat can be recognised by the following characteristics:
+
+        a)  Key seating will only give stuck pipe on the trip out, not the trip in.
+
+        b)  Tight hole can be correlated with the downhole positions of the large OD portions of the BHA.
+
+        c)   Tight hole will occur at the same depth on trips.
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 31 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6000/GEN
+
+                                                                  Rev.         :  2 (1/91)
+      DRILLING MANUAL     Page        :  29 of 29
+
+SUBJECT:  STUCK PIPE PREVENTION AND PROCEDURES
+
+        d)  The hole will circulate freely when the pipe is stuck.
+
+3.4.2  Freeing Pipe
+
+            If the pipe is stuck, then it must be worked down in order to free it. There will be occasions on which
+       the pipe will be able to move down and be rotated, but cannot be pulled past the key seat.  In this
+         situation, the string should be slowly rotated with minimum tension applied, in order to try and work the
+        collars and stabilisers past the key seat.
+
+3.5   When to Give Up Attempts to Free the Pipe
+
+        After a certain effort has been put into freeing the pipe, the decision has to be made whether to back off
+        or not. There are likely to be four options:
+
+        a)  Continue attempts to free the pipe.
+
+        b)  Back off above the free point and run in with a fishing assembly.
+
+        c)  Back off above the free point, plug and sidetrack.
+
+        d)  Back off above the free point prior to abandoning the well.
+
+3.5.1  The decision to back off and run in with a fishing string will be made  if  it is considered to offer an
+       increased chance of success. There are too many variables involved for general guidelines to be given
+      and this choice must be based on the experience of the personnel involved.
+
+3.5.2  The option of plugging back and sidetracking should be taken on economic grounds unless there are
+       exceptional circumstances. Safety or legislative reasons would override a financially based decision.
+
+       Before giving up on a fishing job, the cost of sidetracking must be calculated. The following elements
+      must be considered:
+
+        a)  The value of the fish which would be left in the hole and the cost of backing off. The latter will
+            include the cost of the wireline unit for running a free point indicator (if not already run) and back off
+            shot, as well as the rig time used.
+
+        b)  The cost of setting a plug to kick off from.  This is made up from the rig time needed to run in a
+           cementing string; set the plug; trip out; wait on cement;  trip in to tag, test and dress the plug and
+              pull out ready to sidetrack. The cost of the cement job must be included and the risk of a failed
+           plug should be built in to the total. This will have to be estimated from past records.  If the failure
+             rate is taken to be 1 in 5, then for every four successful jobs, five are paid for. The real cost of a
+           plug is therefore 25% higher than the cost of one attempt.
+
+        c)  The cost of sidetracking and redrilling to the original depth.   If no comparable sidetrack has been
+           performed, the redrill cost should be based on the time it took to drill the interval initially.
+
+      The total of these elements gives an estimate of the cost of side-tracking.  This can be used in the
+        following equation to determine the length of time for which it is cost effective to fish.
+
+      Economic Fishing Time     =     Cost of Sidetrack * Probability of Fishing Success
+                                                         Daily Costs While Fishing
+
+      The most difficult part of the calculation is to decide the probability of a successful fishing job.  Local
+       experience is best, but there will be times when there have been insufficient incidents for a probability to
+      be estimated.
+
+3.5.3  The final option to abandon the well will rarely be made by an operational group.
+
+

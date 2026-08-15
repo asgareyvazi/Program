@@ -1,0 +1,505 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  1 of 8
+
+ SUBJECT:  CASING MILLING
+
+  1.    INTRODUCTION
+
+        Casing Milling is the term given to milling substantial, long sections of casing, following retrieval of the
+       uncemented casing string above.
+
+        This has been performed typically on platform wells, where the existing well has been abandoned,
+        across the reservoir. The remaining portion of the well has been utilised to allow a new well to be
+           drilled when no further slots have been available on the platform.
+
+       Long sections of cemented casing have been successfully milled on Magnus (1990) and Clyde (1990
+       and 1991):
+
+       Magnus Well M17 (C5)     580 ft of 9 5/8" 47 lb/ft casing
+        Clyde Well A16Z (25)     1726 ft of 13 3/8" 72 lb/ft casing
+        Clyde Well A22 (19)       909 ft of 9 5/8" 47 lb/ft casing
+
+       Lessons learnt and techniques developed during these operations have been recorded for future
+         reference.
+
+       Optimum overall progress relies on both good downhole milling mechanics (mill cutting characteristics,
+       BHA, operating parameters) and the efficient removal of the milled steel cuttings, or swarf.  Either
+        aspect may prove the factor which effectively limits the net rate of progress.
+
+       The bulk volume of steel produced in milling is substantial. The effectiveness of the operation depends
+         to a large extent on how this material is handled on surface.  Prior to commencement of milling
+         operations, appropriate preparations in a number of areas need to be considered to ensure that the
+        swarf is removed from the milling fluid and disposed of as efficiently as possible. The swarf produced
+        by milling at rates of 20 ft/hr has been effectively handled for several hours without interruptions,
+       however well designed surface facilities are essential to sustain such progress.
+
+       The likelihood and probable severity of hole cleaning problems or of blockages on surface must
+         increase at higher milling rates. The most cost-effective rate lies somewhere between the maximum
+         rate at which steel could be cut and a rate at which progress is virtually continuous. Dayrates and the
+         cost/contribution of surface modifications must be included in the assessment.
+
+  2.    SELECTION OF CASING MILLING INTERVAL
+
+       Once the approximate position of the interval has been determined, a number of points should be
+        considered in determining the exact interval.
+
+          1.  Well status prior to casing milling operations. Consult cement bond logs to assess the degree of
+            casing-cement bonding over the casing section to be milled.  Mechanical performance will be
+            improved across well cemented intervals where lateral play is minimised.
+
+          2.  Consult casing string tally to establish position of casing collars and casing jewellry. The section to
+           be milled should start either 5 ft above or 15 ft below a casing collar to avoid the casing backing off
+            from the coupling.  Plan to mill as few casing collars as possible and finish the milling above a
+              coupling.  Couplings typically contain 80 - 120% more steel per unit length than casing and will
+              rapidly wear cutting blades.
+
+          3.  Avoid having to mill centralisers if possible.  If this is unavoidable, plan to mill the centralisers at the
+            beginning of the section before the blades are dulled. The potential for tool damage is increased
+           by the lack of restraint on centraliser and stop collars being able to spin around the casing. Also
+             they tend to break into larger pieces and can be difficult to remove.
+
+          4.   Establish contents of annulus fluid and consider relevant mud weights for section previously drilled,
+            along with pore pressure, formation integrity and possible zones for potential communication.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  2 of 8
+
+ SUBJECT:  CASING MILLING
+
+          5.  Consider effect of annulus fluids in contaminating selected milling fluids and required steps to be
+             taken.
+
+          6.  The ability to effectively rotate the string and apply milling torque should be assessed by reference
+              to the drilling simulator programme (input milling fluid, drillstring and well trajectory data). The high
+                frictional forces in deep or highly deviated wells may dictate the use of well lubricated oil muds.
+
+  3.    SWARF REMOVAL AND HANDLING
+
+ 3.1     Ideally the majority of the swarf circulated from the well will be removed in a gumbo box arrangement
+         situated close to the bell nipple. However, as this facility will not be available in most cases, the routing
+        through the primary solids control equipment will be crucial, especially the elimination of undesirable
+        swarf traps.
+
+ 3.2     All internal restrictions and instrumentation, metering devices, etc. should be removed from the flowline.
+        Sections with potential for swarf build-up and blockage may need to be temporarily substituted with
+       open trough sections.  Suitable access points for rodding the flowline in order to disturb blockages
+        should be provided.  Facility to jet the flowline may be useful - temporary connection from header box
+           jetting line?
+
+ 3.3    Returns should be directed to feed into the top of shaker header boxes, i.e. "top-dumped".  If practical,
+         the lower regions of the box should be plated off so that the swarf "flows" with the mud to the shakers
+       and does not build up in the sump. Do not seal off the sump completely as draining through the dump
+         valve may be necessary at some stage.
+
+ 3.4   The arrangement for managing flow to the shakers may need attention.  Thule shakers have gates
+        which lift up to open a slot and perforated guide plates, both features tend to trap swarf and cause it to
+          build up.  If not cleared then minor collections of swarf can become major accumulations quite quickly.
+      A weir arrangement is recommended in place of the gates and the perforations should be covered with
+          thin steel plate.
+
+ 3.5    Swarf will tend to bind in the mesh of coarse shaker screens. The finest mesh sizes robust enough to
+         withstand the duty should be established quickly.  It should be practical to use 40 or 60 mesh screens
+       on the top and 80 or 100 mesh on the bottom.
+
+ 3.6       If the cuttings disposal chute is relatively straight, has a large bore and a convenient intersection point,
+                it may be a practical means of transporting swarf away from the shakers.  However, be cautious: a
+        blocked chute can be difficult to clear. A means of getting the swarf from the chute and into skips, and
+          for the regular changing of skips must be devised. A builder's rubbish chute (plastic sections wired
+         together, say 14" minimum ID) is a good means of getting the collected swarf into skips placed on a
+        lower deck.
+
+ 3.7   SAFETYNOTE:
+       Metal swarf from casing/tubing milling operations on a well which may have produced even low
+        levelsofH2S,maycontainIronSulphidescale.Whensuchscaleisallowedtodryandreactwith
+      oxygen in the air, a chemical reaction takes place where the Iron Sulphide is converted to Iron
+      Oxide (common rust), and H2S will be released. The reaction is exothermic, i.e. heat will be
+       generated. In the presence of other flammable material (including gas which has not been fully
+       purged),amoredangeroussituationmaydevelop.
+
+      Measures must be in place to ensure that such swarf and/or joints of casing and tubing is either
+      immersed in water (to prevent the oxygenation of the scale, and must therefore be kept wet
+         thereafter),orstoredinasafelocationandallowedtodrycompletely.
+
+     As the material (whether fully dried, or immersed in water) is still classified (UN-2793) under the
+     UKCarriage of Dangerous Goods Regulations, the back-load manifest MUST be accompanied
+     by a Dangerous Goods Declaration. Arrangements for the safe onshore disposal of the material
+      mustalsobeinplace.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  3 of 8
+
+ SUBJECT:  CASING MILLING
+
+
+      Paragraph 4.5 of BP HSE Practice 10 (Hydrogen Sulphide) contains further details of
+       pyrophoricscale.
+
+ 3.8   As a guide to the number of skips required, allow 5 - 6,000 lbs of in situ casing steel per skip (e.g. 106 -
+       127 feet of 47 ppf 9 5/8" casing). The bulk volume will vary with the form of swarf cut, a skip may be
+         physically full before the allowable load is reached. Weigh a 3/4 full skip on the crane to test the actual
+          situation. Obviously sufficient skips will be required to complete the job or sustain operations until the
+         next scheduled arrival of a supply vessel. As a minimum, maintain sufficient skips on board to sustain 4
+        days milling.
+
+ 3.9    Grating filters or traps should be placed over drains in the vicinity of the shakers to prevent swarf
+         entering and blocking the lines. Simple steel baskets with grating/mesh panels should be fabricated for
+          installation in the mud return lines immediately downstream of the shakers and in the pit room to strain
+         the flow for small pieces of steel. Ditch magnets should also be positioned in both locations, in pairs.  If
+         the facility is available, then mud pump suction strainers should be used - sized for the largest tolerable
+        drop in delivery charge pressure.  Strainers and magnets must be checked and cleaned frequently by
+         organising a planned cleaning schedule.
+
+ 3.10    Milling of long sections of casing results in large transfers of heat energy into the milling fluid - high
+        temperatures can be expected (e.g. 180 deg.F while milling at 5600' tvd (Clyde 1991)).  Efficient fume
+         extraction and ventilation in the shaker/header box area is required if tolerable working conditions are to
+       be maintained. Examine the practicality of improving the natural ventilation by installing louvres or
+         temporarily opening up sections of walls.
+
+ 3.11   Small rakes with round-ended tines assist in moving swarf off the shaker screens. Shovels and potato
+         digging forks will be required for manual handling of swarf.
+
+ 3.12   Cleaning points should be established at locations where swarf can build up and where mud spillages
+      may occur.
+
+ 3.13   The wear bushing profile should present a smooth bore through the wellhead to avoid any tendency for
+        swarf to become trapped and build up.
+
+ 3.14   Unnecessarily functioning BOPs or circulating through additional equipment and valves should be
+        avoided in order to minimise potential damage by swarf to seals and seal areas.
+
+ 3.15   In the interests of subsequent equipment and drilling fluid maintenance, it is important that all remaining
+        pieces of milled swarf be removed from the surface facilities on completion of operations. The mud
+       pumps, lines and valves should be fully inspected. In addition to mud lines and pits, this should include
+         the drip tray, trip tank, areas around and under the shakers and places forming natural traps. BOP ram
+          cavities, kill and choke lines, standpipe and choke manifolds should be flushed.
+
+  4.    HOLE CLEANING/FLUIDS
+
+        Successful milling depends upon the swarf being efficiently removed from the well. The procedures
+        adopted must ensure that the formation of birds nests is avoided.
+
+       The most important criteria for hole cleaning above all others is the annular velocity. At this time, there
+        are no full guidelines available on pump rates, hole inclination and mill rates as there are for drilling.
+        However, individual cases can be addressed.
+
+      THE DRILLING PROGRAMME MUST STATE THE MINIMUM FLOWRATE TO BE USED.
+
+              It should also be noted that at this time the flowrates will be tentative as the simulator used to develop
+         the recommendation is working outside its original design specifications.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  4 of 8
+
+ SUBJECT:  CASING MILLING
+
+       The milling assembly must be designed to minimise pressure loss. Design must centre on maximising
+          flowrate.
+
+       By way of example only, the following illustrations of recent milling operations are given:
+
+       Operation        CasingSize    BehindCasing    Drillpipe     Deviation    Flowrate
+                                                              Deg.      gpm
+
+       Window           9 5/8"          Cemented           5"            50/60        520
+                                       12 1/4" OH
+
+         Slot Recovery      13 3/8"          20" Casing          5"            8/18          1350/1450
+                                      Uncemented
+
+         Slot Recovery      9 5/8"          12 1/4" OH          5"           59           750
+
+ 4.1   Mud System - Selection of Mud Type
+
+       The selection of mud type must take account of the following criteria:
+
+        Surface handling system for swarf removal (personnel contact).
+       Downhole torque (check drillstring simulator).
+         Material behind the casing to be milled (requirement for shale inhibition).
+          Logistics.
+
+         a)   Oil Based/Water Based Mud
+
+              In general, it is recommended that water based fluids are used. During the milling operation, a high
+            degree of personnel contact with the fluid will be unavoidable in clearing birds nests, collecting and
+             disposing of the swarf. Even with the appropriate protective clothing, use of an oil based mud will
+              inevitably result in increased levels of skin complaints.  Additionally, there is an increased risk of
+            environmental pollution when milling with oil based mud.
+
+         b)  Water Based Mud Types
+
+                     If a water based fluid is used, then consideration must be given to possible shale inhibition
+            requirements  if the operation will expose water sensitive formations.  In general,  if the formation
+          was previously drilled with oil based mud, a non-inhibitive water based mud can be used as the
+            near wellbore formation will be oil saturated.   If the formation was previously drilled with an
+               inhibited water based mud, then an inhibitive milling fluid will be required.
+
+            There are several types of water based milling fluid that can be used. These include:
+
+            Bentonite/XC Polymer
+            Bentonite/Sodium Bicarbonate
+             Bentonite/Mixed Metal Hydroxide
+
+           These are basic systems with no shale inhibition properties.  Details on the fluids can be found in
+            Sections 4100/GEN onwards of this manual.   If shale inhibition properties are required, specific
+            advice should be sought.
+
+ 4.2   Mud Properties
+
+         a)  Mud Weight
+
+         When possible an unweighted system should be applied if a water based mud is in use as this will
+              greatly assist logistics. When milling casing across open hole, the mud weight should be that as
+           used to initially drill the section.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  5 of 8
+
+ SUBJECT:  CASING MILLING
+
+
+         b)  Rheology
+
+          The most important characteristics of the fluid from a swarf lifting consideration is its low shear rate
+             rheology. This defines the viscosity of the fluid at the shear rate it experiences in the annulus.
+
+             This is best expressed as the yield stress of the fluid, defined as:
+
+              (2 x 3 rpm reading)  - (1 x 6 rpm reading)
+
+          The following rheological criteria are given as a guideline:
+
+         PV      cP           < 10
+         YP        lbs/100 sq ft    50-70
+            Gels      lbs/100 sq ft    35 - 50
+          Note:
+          Withoilbasedmud,itwillbeimpossibletoachievethelowplasticviscositycriteria.
+
+ 4.3   Mud Contamination
+
+      Mud contamination by cement from behind the casing may require substantial additions of Sodium
+        Bicarbonate to treat the presence of excess Ca ions. A large quantity of sodium bicarbonate should be
+         available offshore as a contingency if required.
+
+        Consideration to pre-treating the milling fluid prior to commencement of the milling may also be
+         required.
+
+       Should oil base fluids be behind the casing, the expected volumes, treatment and disposal, and
+        containment will need addressing.
+
+  5.    MILLING ASSEMBLY
+
+        High steel cutting rates and long mill life cannot be achieved unless
+         the casing mill runs smoothly, good stabilisation is essential.
+
+ 5.1    The following assembly has proved very successful in milling 9 5/8"
+        casing (908 ft milled in 59 rotating hrs, blades 40% worn):
+
+       8 1/2" Taper Mill - 8 1/2" Near Bit Stab - 8 1/2" String Stab - XO - 10
+         3/4" Casing Mill - 10 3/4" String Stab - 3 * 8" DC - Jars - 8" DC - XO
+            - 9 * HWDP.
+
+ 5.2   The components of the pilot assembly (below the mill) should be
+         the same size as the casing drift size. The OD of the casing mill
+        (Barracuda/Piranha etc.) blades should be slightly larger (up to 1/4"
+         greater) than the casing couplings. The stabiliser above the casing
+         mill should have the same OD as the dressed mill blades.
+          Stabiliser blades should have an open spiral design to allow cut
+        swarf to pass freely.  Sharp lead-ins at the start of the blades
+        should be avoided.  Limit the number of drill collars to that required
+          to provide the maximum weight of mill planned.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  6 of 8
+
+ SUBJECT:  CASING MILLING
+
+ 5.3    There is a real danger of the connections below the casing mill
+        backing out with consequent loss of all or part of the pilot assembly.
+              It appears that some of the steel cuttings do fall downhole and can
+        form a bridge. This could result in having to fish a lost assembly in
+         order to allow access for the next milling assembly.
+
+       Use "lock-up type" connections  if available for the pilot assembly,
+        otherwise connections should be made up "dry", use of a thread-
+         locking compound should also be considered.
+
+        Since the crossover below the casing mill is obviously a point of
+         stress concentration and hence is the most susceptible to backing
+          out, it is worth giving thought to having the string stab - xo - casing
+           mill section of the assembly made up onshore and shipped out as a
+           unit.
+
+       Loss of the pilot assembly will cause the mill to wobble or run
+         rough; indicated by uneven drillstring behaviour, erratic torque and
+        reduced rate of progress. The blades become worn in a tapered
+         fashion as the tool is not centralised on the casing stump.
+
+  6.    OPERATING PROCEDURES
+
+       As with any downhole tools, ensure that all lengths and dimensions have been measured before the
+        assembly is run. Also confirm that suitable fishing tools are available.
+
+ 6.1    Space out the string,  if necessary, so that no connection is required during the initial stages of the
+         operation.
+
+ 6.2    Lower the assembly to about 5 feet above the top of the casing.   It is advisable to record all available
+         information to assist in evaluation of the situation if downhole complications develop - check static and
+         rotating hole drags and the free rotating torque.  Record pump pressure at the planned operating
+         flowrate and also at a reduced rate (say 50%).
+
+ 6.3       If it is necessary to tag the casing, be sure whether it is the taper mill or the casing mill which is taking
+         weight. Enter the casing with the pilot assembly - it may be necessary to work the taper mill for a short
+         time to establish clear access.
+
+ 6.4     Start rotation at a moderate rate (say 120 rpm) with the casing mill blades above the top of the casing
+       and slowly run down to touch it with minimum weight. Regard milling as a machining type operation;
+         allow the mill to cut its profile before increasing rotary speed and weight.  Continue at a moderate
+          milling speed (up to 6 ft/hr, say) for some time to establish that the milled cuttings and swarf are being
+       removed from the hole in appropriate volumes.
+
+ 6.5    The best rotary speed and weight have to be determined for each job, experiment systematically to find
+         the parameters which result in smooth running and a good rate of progress. Normally a rotary speed of
+       up to 190 rpm and 4 - 8,000 lbs WOB will be effective.
+
+ 6.6    Feeding the drilling line by allowing the drawworks to creep evenly while maintaining a steady weight
+        should be the objective, do not allow the weight to drill-off.
+
+ 6.7    Increase milling rates only when satisfied that the hole is being cleaned effectively and that the volume
+          of swarf can be handled on surface.
+
+ 6.8    Unless there is evidence that hard cement is taking a significant portion of the load, then the milling
+        weight would not be expected to exceed 10,000 lbs (less for K55 grade material). Slower rotary speeds
+        should prolong the life of the mill when cutting P110 or harder grades of steel.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  7 of 8
+
+ SUBJECT:  CASING MILLING
+
+ 6.9    Mark the pipe at the rotary table in 1' intervals and record casing milling data on a proforma sheet for
+       each increment as the job progresses. Refer to Appendix A at end of section.
+
+ 6.10   Increases in pump pressure are the first indicator of a hole cleaning problem, swarf will aggregate and
+         pack-off the annulus in a downhole "birds nest". Reductions in swarf volume at the shakers suggest a
+        near surface accumulation or blockage.
+
+ 6.11  Pump pressure increases may be small (less than 50 psi) or so large that the pumps have to be slowed
+         or even stopped. Cease milling and work the string to attempt to clear the birds nest.  If the nest is in
+         the riser, a means of disturbing it is to pull back far enough so that a stabiliser can be made up into the
+          string and then worked down to the wellhead.  If a top drive is used, then a stand with a stabiliser at the
+        bottom should be racked back to save time in picking it up.
+
+ 6.12   Removal of a nest around the drillstring at the bell nipple will require some form of grab or a barbed
+        rope spear to be available for running on a drillfloor tugger.
+
+ 6.13   Pumping a hi-vis pill after each casing coupling has been milled is recommended.   If the flowline is
+        prone to blockage, then  it may be advisable to stop milling and flush or rod  it periodically before  it
+         blocks completely.
+
+ 6.14   Casing couplings will mill more slowly and may require reduced rotary speed or greater weight. Most
+         non-integral couplings are not threaded to the very end, as a result the unthreaded portion breaks free
+        as the mill blades approach the lower end of the coupling. The loose ring may break up or become
+        trapped and milled, however it may also start to spin on the top of the remaining casing at any stage,
+         preventing the mill from biting.  If this occurs then gentle spudding on the ring should cause it to break
+       up or become distorted and trapped so that it can be milled up. Stop rings and centralisers can cause a
+          similar result and should be treated accordingly.
+
+ 6.15     If drillstring is bouncing or rough running starts to occur, then the weight and rotary speed should be
+        reduced for a while before attempting to gradually increase the parameters again.
+
+ 6.16   Poorly cemented casing may necessitate lower rotary speeds with less applied weight.
+
+ 6.17    Milling through badly damaged casing may be problematical and should be avoided  if possible.   If
+        unavoidable, then swedging and/or internal dressing may be required to prepare the casing prior to
+          milling. Tearing or splitting of severely corroded casing should be minimised by high speeds and light
+         weights.
+
+ 6.18  On completion of milling, a flat-bottomed junk mill assembly should be run to clean up any debris
+        remaining above the casing stump.  Milling of 13 3/8" casing may result in leaving of a cement sheath
+        from the former annulus.  It may be necessary to remove this sheath after each mill run to minimise the
+          risk of blocks collapsing in on the BHA. The relatively thin sheath around 9 5/8" casing is unlikely to be
+         self-supporting and should be less of a problem.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 8 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6410/GEN
+
+             GUIDELINES FOR           Rev.         :  2 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  8 of 8
+
+ SUBJECT:  CASING MILLING                                APPENDIX A
+
+
+                                                       DESC.                                                                                  CUTTINGS
+
+                                 (%)                                         WEAR
+                                                                                  FLOWRATE                                                                                   SIZE/WEIGHT/GRADE:                                                                  FT/LBS                                                             TORQUE
+                            C.S.G.
+                                 RPM                                                                       AVERAGE
+                               WOMLBS
+                               AV.1,000
+
+                               ROP
+                               NET(FT/HR)
+
+                                                                                                                                            THE      OPERATIONSSHEET              OPERATOR:                                                                                                                                               3B.                                                                             (FT/HR)                                                                                  ROTATING                                                                                                                                              RUN,3A,                                 ROP
+                                                                                                                                            THEe.g.    MILLING                                         TIME          SUMMARY                                                                                                                                                                             OVER                                                       (HRS)                                                   TOTAL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           VARIATIONS,    CASING                                                                                                                                                                                                                                                         TRIP.                                         TIME                                                                                                                                                                                      THESE                                                       (HRS)                                                                                                                 NOT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               SIGNIFICANTLY                                         ROT.
+                                                                                                                                                                                                                                                   TIME. BUT                                NUMBER:                                                                                                                                                                 VARY                                        TYPES:                                                                                                                                                                                                                                                                                                                       INDICATE
+                                                                                               TO                                                   TOTAL                  WELL    MILL                                                                             FOOTAGE                                                                                                                                                                                                                                                                                                                                                     MILLING      LONG.                                                                                               UP
+
+
+                                                   <                               OUT                                                                                                                                                                                                                                                                                                                                                                                                                                                                               CIRCULATING, 2"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   PARAMETERSSPLIT
+                                            (FT)                                                                                                                                                                                                                                                                                                    BOTTOM AND 80%                                                                                               BE
+                                                                                                      IS                                                   DEPTH                                                                           ON                                                                                                                                                                                                                                                                                                                                       MILLING                    IN                                                                                                                THE                                                                                                                                                                                                                                                                                             SHOULD         MILLING                                                                                                                                            THE
+                                                                                                                                               NO.     BOTH                                                   DEPTH(FT)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 DESCRIPTION                                                                                                                                                                                                                                         WHERERUN                                         SER.                                                                                                                                                                                                                                                                                                                                                                                       REPRESENTS                                 (FT):       NO.                                     -                                                                                                                                                                                                                                                                                                                                                                     TYPICAL                                               -                 INCLUDES
+
+                                                  -                                     STARTED:               MILL                                                                                                                                    NOTES                                                   A                                                                                                                                                                                                   TIME -                                                                                                                                            NO.
+                                                                                                                                                                                                       TIME              JOB     DEPTH     RUN                                                                                                                                            RUN                                 NO.
+                                         MILL                  DATE    SHOE                                                                                                                                                                                                                                                                                         GUIDANCE MILL        ROTATING TOTAL CUTTINGS
+
+

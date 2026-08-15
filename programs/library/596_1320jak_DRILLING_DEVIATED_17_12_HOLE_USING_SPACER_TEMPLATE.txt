@@ -1,0 +1,238 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 4 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1320/JAK
+
+                                                                  Rev.         :   0:8:90
+      DRILLING MANUAL     Page        :  1 of 4
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE USING SPACER TEMPLATE
+
+1.    The following assumes that the previous casing string is the 30” conductor and that no 20” casing has
+      been run.
+
+2.    PRE-DRILLOUT OPERATIONS
+
+2.1    Ensure that all drilling tools and equipment, as per the Equipment Check List on page 3, are on board,
+      checked out and in a serviceable condition prior to Casing Drillout.
+
+2.2    Ensure that all fishing tools relevant to Drilling Operations on the 17 1/2” hole section are on board,
+      checked out and in a serviceable condition prior to Casing Drillout (refer to Section 6200/GEN).
+
+2.3    Ensure that logging tools/operators and casing running tools/operators are all on board prior to reaching
+       the section TD.
+
+2.4    Ensure that BOP equipment and drillstring well control equipment is in a serviceable condition.
+
+2.5   Once the diverter is installed ensure that a D3 diverter drill is performed.  Record the details on the
+      IADC and Daily Drilling Reports.
+
+2.6    Check the ID of all downhole equipment for passage of a FPI tool and survey instrument fishing tools.
+
+2.7    Ensure that all General Drilling Instructions, detailed in Section 1000/GEN, are in place and adhered to.
+
+2.8    Ensure that all relevant BOP drills, in accordance with the guidelines listed in the BP Well Control
+       Manual, are understood by all rig personnel and are implemented at the relevant stages of 17 1/2” Hole
+         Drilling Operations.
+
+3.    DRILLING GENERAL
+
+3.1   Make up the following 30” cleanout assembly:
+
+      17 1/2” bit - 26” hole opener - bit sub - 9 x 8” DC - jar - 2 x 8” DC - X/O - 9 x 5” HWDP - DS.
+
+3.2    RIH and drill out 30” shoe and 36” rathole using seawater.
+
+3.3    Displace the well to a bentonite mud system.
+
+3.4   POOH and make up the following kick-off BHA:
+
+      17 1/2” bit (3 x 24’s, 1 x 16) - 9 5/8” multilobe Magnodrill motor - bent sub - X/O - 8” SNMDC - X/O -
+    MWD - UBHO - 2 x 8” NMDC - 6 x 8” DC - jars - 2 x DC - X/O - 9 x 5” HWDP - DS.
+
+3.5     Directionally drill 17 1/2” hole to section TD. Minimise 13 3/8” casing sump.
+
+3.6    Displace well to a mud with minimum density of 1.15 SG.
+
+       Section Notes
+
+            i)    The 17 1/2” section will be surveyed whilst drilling using surface readout gyro shots until clear of
+             magnetic influence. Once clear of interference and the inclination is above 5°, the MWD may be
+             used. Three consecutive MWD readings must correlate with the gyro surveys before the MWD
+              readings will be accepted on their own.
+
+             ii)      All surveying to be carried out as per the BP Standard Surveying Instructions.
+
+              iii)    The mud density is to be maintained as low as possible (max. 1.11 SG).
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 4 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1320/JAK
+
+                                                                  Rev.         :   0:8:90
+      DRILLING MANUAL     Page        :  2 of 4
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE USING SPACER TEMPLATE
+
+          iv)     Bit balling is to be expected.  Attempt to remove the problem by treating the mud with 2%
+              detergent.
+
+        v)   A contingency stock of 40 x 25 kg sacks of Guar Gum is to be held on board.
+
+          vi)       If the mud motor and bent sub need to be pulled for any reason, e.g. bit failure, the following
+               rotary build assembly should be used to continue the build-up:-
+
+            17 1/2” bit - NB stab - 8” SNMDC - X/O - MWD - 17 1/2” NMSS - 8” NMDC - 17 1/2” NMSS - 8”
+         NMDC - 9 x 8” DC - jars - 2 x 8” DC - X/O - 9 x 5” HWDP - DS.
+
+           Note:
+          Theexpectedright-handwalkwiththisassemblyis0.6-0.8deg/30m.
+
+           vii)       If rotary build assembly is run, ream the motor drilled build-up section on the way into bottom.
+
+           viii)  Pump hole cleaning pills as necessary prior to making connections if hole condition dictates. At
+              high angles combined lo-vis and high weighted pills may be considered.
+
+          ix)     Circulate at max. rate to maintain annular velocity for optimum hole cleaning. Account must be
+             taken of the effect of ECD on weak formations.
+
+        x)    17 1/2” bits will have centre nozzles.
+
+          xi)    Penetration rate should be limited to aid good hole cleaning. Refer to the 17 1/2” hole cleaning
+             curves on page 4. Good hole cleaning can be maintained by keeping YP at 30+ but not less
+             than 25.
+
+           xii)  WOB and RPM will be determined by directional requirements and the ROP limit.
+
+           xiii)      If any major problems arise with the mud system or solids control equipment, stop drilling and
+                circulate until rectified.
+
+         xiv)   Keep strictly to hydraulics programme, especially maximum pump rate. Never drill ahead with
+            one pump; pull to the shoe and repair.
+
+        xv)      If hole packs off, attempt to work pipe down in order to regain circulation, prior to attempting to
+                  jar out.
+
+         xvi)   Ensure that the hydraulic configuration between bit and MWD restrictor sub is set up correctly.
+
+4.    EQUIPMENT CHECK LIST
+
+       Item    Quantity      Description
+
+      1       Selection     17 1/2” bits c/w jets (selection) + breaker.
+      2      2           17 1/2” near bit stabilisers.
+      3      3           17 1/2” string stabilisers/gauge tool.
+      4      2             26” hole opener.
+      5      2           Sub 6 5/8” reg box-box (bored to take NRV).
+      6      2              Float sub c/w NRV (6 5/8” reg conns).
+      7      2             Totco ring (crows foot type).
+      8      15 (min.)       8” steel drill collars (6 5/8” reg conns).
+      9      2             X/over 6 5/8” reg pin - 4 1/2” IF box.
+      10     30             5” HWDP (4 1/2” IF conns).
+      11     2             X/over (7 5/8” reg pin/6 5/8” reg box).
+      12     2             X/over (6 5/8” reg pin/pin).
+      13     3              8” DC lift nipples.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 4 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1320/JAK
+
+                                                                  Rev.         :   0:8:90
+      DRILLING MANUAL     Page        :  3 of 4
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE USING SPACER TEMPLATE
+
+      14     1 set           8” DC slips/elevators.
+      15     1         DC safety clamp.
+      16     2 sets      DP elevators/slips.
+      17     1            Gray inside BOP (4 1/2” IF conns).
+      18     1               Circ. head 4 1/2” IF pin - 2” Lo torque valve.
+      19     2               Hydril kelly cock (4 1/2” IF conn).
+      20     2              5” DP pup joints (1 x 1.5m and 1 x 3m).
+      21         -           Dope for DP and DC.
+      22     1            Junk sub (7 5/8” reg conns).
+      23     2                 Drilling jars.
+      24     1               Circulating sub (6 5/8” reg conns).
+      25         -             Casing equipment.
+      26     2          Mud savers (if OBM used).
+      27     1             Dart sub c/w dart.
+      28     2        MWD tool (6 5/8” reg box/box).
+      29     3           17 1/2” NM stabilisers.
+      30     2           9 5/8” Magnadrill motors.
+      31      Selection     Bent subs as required.
+      32     2              8” PONY NM drill collars (6 5/8” reg conns).
+      33     3              8” NM drill collars (6 5/8” reg conns).
+      34     2         UBHO sub (6 5/8” reg conns).
+      35      Set            Fishing tools (refer to Section 6200/GEN).
+
+      Note:
+       All equipment to be dimensionally checked and recorded before running in hole. Requisite fishing
+      equipmentshouldbeonsite.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 4 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1320/JAK
+
+                                                                  Rev.         :   0:8:90
+      DRILLING MANUAL     Page        :  4 of 4
+
+SUBJECT:  DRILLING DEVIATED 17 1/2" HOLE USING SPACER TEMPLATE
+
+
+
+                  DEVIATED 171/2" HOLE CLEANING CHART
+
+
+
+                          Q(gpm) * ESG
+     TRANSPORT INDEX = ———————
+                                  100                           EFFECTIVE SG (ESG)
+                                      TRANSPORT              1.2     1.3    1.4      40                                                                       2.3                                           INDEX
+                                                          17
+                                                                                                                1.5
+      30
+     (m/h)                                                    16                                               SG
+   ROP
+                                                          15      20                                                                       2.2                            1.6                                                          14             CUTTINGS        MAXIMUM                                                    13      10
+                                                          12                                        1.7
+                                                          11
+                                                                                       109
+       0                                                                       2.1
+                                                                                   1.2      1.3      1.4      1.5          30             40             50             60
+                                                 MUD SG               HOLE ANGLE (DEGREES)
+
+
+
+
+
+                                PROCEDURE
+
+                                                  1. ENTER MUD SG AND
+                              CUTTINGS SG ON RH
+                               GRAPH. READ OFF ESG
+                          FROM FAMILY OF
+                             DIAGONAL LINES.
+
+                                                  2. USE BOXED EQUATION
+                           TO DETERMINE
+                             TRANSPORT INDEX FOR
+                                SET FLOW RATE.
+
+                                                  3. READ OFF MAX ROP
+                            FOR HOLE ANGLE
+
+
+
+
+
+                                                                                                                                                         2179 /162
+
+

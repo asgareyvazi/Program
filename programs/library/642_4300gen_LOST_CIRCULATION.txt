@@ -1,0 +1,604 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  1 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+1.    CAUSES OF LOST CIRCULATION
+
+     Mud loss or circulation loss is the loss of mud or cement to the formation during drilling operations.
+      Losses can result from either natural or self induced causes.
+
+1.1    Natural Losses
+
+       Three types of formation can be identified into which losses can occur.
+
+        a)  Coarse Sands and Gravel Beds
+
+           Formation openings into which mud is lost must be about three times larger than the particle size
+           found in the mud. Thus a formation must typically have a permeability in excess of 10 - 25 Darcys
+              for mud to be lost. Therefore, this type of loss is practically confined to gravels and coarse sands
+           near surface.
+
+        b)  Natural Fissures of Fractures
+
+          These can be very permeable under normal conditions and are the source of production in some
+              fields.  In BPX’s world-wide operations, they are the main cause of lost circulation.  Losses can
+           occur at very low overbalance pressure.
+
+        c)  Cavernous Formations
+
+          Caverns are normally found in limestone and dolomite.
+
+1.2    Induced Fractures
+
+        In formations where the difference between pore pressure and fracture pressure is low, losses may
+       occur to formation facture caused by drilling ECD or surge/swab pressures.
+
+1.3    Excessive Overbalance
+
+       Excessive overbalance may in some instances not fracture but losses through the pores may occur.
+
+2.    PREVENTION OF LOST CIRCULATION
+
+       For all drilling operations, lost circulation prevention procedures should be considered. Listed below are
+        potential causes and measures which can be taken to prevent losses occurring.
+
+2.1    Increase in annular mud weight due to drilled cuttings can result in formation breakdown, particularly in
+       surface holes. The effective increase in annular mud weight must be calculated and taken into account.
+
+      Example
+
+     ROP                30 metres/hour
+        Circulation Rate      1200 gpm
+       Hole Size            17 1/2 inches
+        Input Mud Weight      1.08 sg
+       Formation Density     2.30 sg
+
+       Resultant mud weight (MW) = 1.10 sg
+
+2.2     Viscosity and gel strengths of the mud should be maintained within the programme specification.  If the
+        yield point is too high, breaking circulation may induce losses. On breaking circulation, always start
+        circulation slowly and speed up the pump only after returns are obtained.
+
+            If viscosities are very high, circulation should be broken at stages whilst running through the open hole.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  2 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+       High viscosity can increase the ECD to a level which will break down the formation whilst circulating.
+     When calculating ECD values in critical situations, account should be taken of the OD of pipe
+       connections. The effect of drill pipe rubbers should also be considered in such situations.
+
+2.3    Excessive surge pressure whilst running in the pipe can fracture the formation. In areas of potential lost
+        circulation, surge pressure calculations should be performed and the driller instructed as to the
+     maximum allowable speed for running pipe.
+
+      Note:
+      Surgepressureisplacedontheformationthemomentthestringisruninthehole. Inareasofpotential
+       lostcirculation,trippingspeedsmustbecontrolledallthewayto/fromsurface.
+
+2.4     In areas of hole instability sloughing or swelling shales can pack off around the pipe reducing or
+       preventing circulation.  If the pump is not slowed or stopped at this point, the formation can be broken
+      down. The driller should be made aware of areas of potential hole instability.
+
+3.    REPORTING OF LOST CIRCULATION
+
+     When reporting instances of lost circulation, the following is to be included:
+
+        1.   Static Loss Rate         bbl/hr.
+
+        2.  Dynamic Loss Rate     bbl/hr @ gpm.
+
+        3.  Depth.
+
+        4.  Note  if the losses build to the loss rate gradually or suddenly.  This is helpful for distinguishing
+           losses through pores which require only fine LCM and losses into fractures which can require
+           coarser grades.
+
+3.1    Determination of the Source of Lost Circulation
+
+3.2   Non Formation Losses
+
+     When lost circulation occurs the following procedure should be followed:
+
+        1.   Establish loss rate.
+
+        2.  Check all surface equipment to ensure no losses.
+
+        3.  Check with mud logger/mud engineer that no mud has been dumped/transferred or no solids
+             control equipment has been switched on.
+
+        4.  Check that the riser slip joint packing is not leaking.
+
+       Other non formation possibilities are:
+
+        1.  Leaking casing. A packer should be run to determine the loss depth in this instance.
+
+        2.  Riser leaks.
+
+3.3    Formation Losses
+
+            If losses are experienced whilst drilling,  it is likely that the losses are on bottom.   If losses are
+       experienced whilst tripping or whilst increasing mud weight,  it is likely that the loss zone is not on
+       bottom. Methods for establishing the loss zone are:
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  3 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+        a)  Temperature Survey. Normally requires two runs. However, a variation of the technique can be
+          used by stopping the sonde at a certain depth and pumping for a short period.  This will give a
+          temperature change. The instrument is lowered to successive levels in the hole until no
+           temperature change is recorded (i.e. no flow to formation past this point).
+
+        b)  Spinner Survey.  Flowrate is indicated on film according to the speed of a varied rotor on the
+            instrument.
+
+        c)  TracerSurvey. Using a gamma ray log and radioactive material.
+
+          Conventional. Run a base log through the drill pipe. Then pump a slug of mud with radioactive
+            material down the drill pipe and repeat the log. Where the sonde encounters a high radioactivity it
+            indicates the loss point.
+
+            Variation.  If point of loss is suspected near last casing shoe, a small quantity of radioactive iodine
+          can be pumped down the annulus. The sonde is run inside the drill pipe, following the tracer, while
+                      it is being pumped. The loss point has been reached when radioactive contact is lost.
+
+4.    PROCEDURES FOR CURING LOST CIRCULATION
+
+4.1    Reducing Mud Weight
+
+     When lost circulation is experienced, if possible, the mud weight should be reduced. An estimate of the
+     maximum mud weight the formation can stand can be obtained by the method described below.
+
+        1.    If there are returns, fill the annulus with a measured volume of water or base oil, depending upon
+        mud system, and calculate the new gradient.
+
+        2.    If there are no returns when pumping:
+
+            a)  Same as “1”.
+
+            b)  Compare the circulating pressure prior to the losses occurring (Pressure A) with the pressure
+                  at the same circulating rate after the losses have occured (Pressure B).
+
+               Pressure A - Pressure B                                  =   height of empty hole            Mud Weight psi/metre
+
+                           If the position of the loss zone is known a new mud gradient can be calculated to balance the
+             weak formation.
+
+               Reduction of the ECD may be ncessary in some instances.
+
+4.2   Use of Lost Circulation Material
+
+       There are many types of lost circulation material available which have applications according to the type
+        of losses experienced. Typical materials used are:
+
+       Conventional LCM
+
+       Flake         Mica
+                     Cellophane
+
+       Granular        Nutshells
+                     Calcium Carbonate
+                         Salt
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  4 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+       Fibrous        Glass Fibre
+                 Wood Fibre
+                     Animal Fibre
+
+      Note:
+      Inoilbasedmuds,thelistedfibrousmaterialscannotbeusedasthematerialscanseverelyweakenthe
+      emulsionstability.“Ven-Fyber”,acellulosicfibretreatedtorenderitoilwettableisused.
+
+       High Fluid Loss Slurry
+
+       Diaseal M
+        Seelit
+       Sureseal
+
+       Reinforcing Plugs and Cement
+
+        Oil/bentonite plug (water based muds).
+       Water/organophilic clay plug (oil based muds).
+
+      As stated, the choice of pill depends on the type of lost circulation experienced.  In general, the
+        reinforcing plugs and cement formulations are considered to be specialised formulations for severe lost
+        circulation circumstances and should not be used as a matter of routine.
+
+5.    LCM FORMULATIONS AND SPOTTING PROCEDURES (NON-RESERVOIR)
+
+      For each of the following circumstances, two alternative LCM formulations are given. Each is
+       considered to be acceptable.
+
+      Notes:
+      a)  It is considered that LCM concentrations in excess of 30 to 45 ppb are unlikely to have increased
+            benefit.
+      b) When considering concentrations, the density of the LCM must be considered. For example, liquid
+          casing and OM Seal have densities of 1.1 sg compared to 2.7 sg for calcium carbonate. Thus
+          higherconcentrationsofthemoredensematerialarerequiredtoobtainthesamevolumeofLCM.
+
+5.1   Seepage Losses (Losses less than 10 bbl/hour)
+
+       Option 1
+
+      Add mica fine to the circulating system at 4 to 5 x 25 kg per hour for several hours.
+
+       Option 2
+
+      Add liquid casing to the circulating system at 4 to 5 x 25 lbs per hour for several hours.
+
+      Loss Rate (10 - 20 bbl/hour)
+
+       Option 1
+
+      Mica fine                               +/- 15 ppb
+      Mica medium                          +/- 15 ppb
+
+       Option 2
+
+        Liquid casing                   15 ppb
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  5 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+5.2   Loss Rate (Greater than 20 bbl/hour)
+
+       Option 1
+
+      Mica fine                      15 ppb
+      Mica medium                   15 ppb
+       Kwikseal medium                15 ppb
+
+        or for OBM Venfyber at 8 ppb instead of Kwikseal.
+
+      Note:
+      Kwikseal medium can result in excessive filter cable build-up. Care must therefore be exercised when
+       trippingpastthelostcirculationzone.
+
+       Option 2
+
+        Liquid casing                   15 ppb
+    OM Seal                       15 ppb
+       Marble (5 micron median)         10 ppb
+
+      Note
+
+            If these formulations are unsuccessful, an alternative formulation is:
+
+        Liquid casing or mica fine         15 ppb
+       Kwikseal coarse                 25 ppb
+
+       For OBM, replace Kwikseal coarse by Venfyber at 15 ppb.
+
+       Kwikseal coarse may result in nozzle plugging.
+
+5.3    Precautions
+
+        a)  When an MWD tool is the drill string, coarse grade LCM should not be pumped. For materials such
+          as Kwikseal and Venfyber, recommendations of the MWD supplier should be sought.
+
+        b)  Liquid casing and OM seal should not be used above 250°F.
+
+        c)  The pill should be displaced at approximately 200 gpm.
+
+        d)  When lost circulation is expected the minimum nozzle size should be 16/32nd.  If smaller sizes are
+            required, a circulating sub should be incorporated into the string.
+
+        e)  A rule of “thumb” for successful bridging is that the LCM will block an opening three times its
+           diameter.  Whilst this may apply for grannular materials,  it is doubtful  if  it applies to fibrous
+            materials. For these materials, the figure may be in excess of 5 times its size.
+
+5.4    High Fluid Loss Slurry
+
+      These slurries are good for induced fractures where bridging is not paramount but a high pressure drop
+       along the fracture is. Mud solids should provide the fines to bridge with this material.
+
+        Slurry formulations for 1 finished bbl are given below:
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  6 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+      SlurryDensity   DiatomaceousEarth   Barytes  Seawater
+       SG              lbs            lbs       bbl
+
+            1.08                 50.0             0         0.93
+            1.20                 42.6             60.0        0.90
+            1.30                 38.9             120.0       0.86
+            1.45                 35.8             180.0       0.83
+            1.55                 32.7             230.0       0.80
+            1.70                 29.3             290.0       0.76
+            1.80                 26.5             350.0       0.73
+
+        1.  A slurry volume of 50-100 bbl is used.
+
+        2.   Pull off bottom to just above the loss zone.
+
+        3.  Displace slurry with mud out of the drill string.
+
+        4.    If returns are obtained and the hole is full, close the annular preventer and squeeze with a
+         maximum of 500 psi squeeze pressure. The hesitation technique is preferred.   If all the slurry is
+          squeezed to the formation, hold pressure for 30 minutes.
+
+        5.    If no returns are obtained and the hole cannot be filled after displacing the slurry out of the drill
+             string a second LCM slurry should be pumped.
+
+5.4.1  Note When Using High Fluid Loss Slurry
+
+        1.   In zones of low porosity but containing fractures, the slurry will only filter once the fracture width
+           reaches that of the maximum particle size in the slurry. Therefore, there is a need to add additional
+            bridging LCM. A concentration of 10 ppb of fibrous LCM is usually added such as Kwikseal fine.
+           Nothing coarser should be used or it may prevent the ingress of the DE.
+
+        2.  Hydrostatic pressure is often enough to seal the loss zone. A squeeze pressure is applied,
+          however to open up and then seal fractures which would otherwise cause problems later.
+
+        3.  The basic slurry or slurry containing low concentrations of fibre can be pumped through bit jets.
+
+        4.   In oil base muds, the same procedure with some modifications can be used.
+
+            a)  The mixing pit and mixing lines should be cleaned and washed with water.
+
+            b)  Formulate the slurry as previously described.
+
+             c)  Pump a 20 bbl oil spacer in front of the slurry and balance behind.
+
+            d)  The displacement and squeeze procedure is as previously.
+
+         Extreme caution should be exercised during the surface mixing of the slurry to prevent
+           contamination of the mud.
+
+6.    LCM FORMULATIONS (RESERVOIR SECTIONS)
+
+            If losses occur in the reservoir interval, the first step should be to reduce the mud weight.  If this is not
+       possible and after prior approval from the onshore drilling superintendent, the following LCM’s can be
+       used. However, specific permission of the relevant field or exploration groups may be required.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  7 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+       Option 1 (Liquid Casing)
+
+      Loss rate < 20 bbl/hour:       Liquid Casing      15 ppb
+
+      Loss rate > 20 bbl/hour:       Liquid Casing      15 ppb
+                     OM Seal          15 ppb
+                                 Marble (5 micron)   10 ppb
+
+      Notes:
+      1) ThisLCMsystemshouldnotbeusedwithtemperatureabove250°F.
+      2)  Liquid casing/OM seal are only 40% soluble in HCl. They are however almost totally soluble in 2%
+           hypochloritesolution.
+      3)  Although this material is only partially acid soluble, it has been approved for reservoir applications.
+          Thisisduetothefactthatthematerialisveryeasilyback-flowed.
+
+       Option 2 (Marble)
+
+      Seepage (Less than 10 bbl/hour)
+
+      Add (50 micron median size) to the circulating system at 4/5 x 25 kg sacks per hour for several hours.
+
+      Loss Rate 10 - 20 bbl/hour
+
+      50 micron median size       15 ppb
+      150 micron median size      15 ppb
+
+      Loss Rate 20 - 40 bbl/hour
+
+      50 micron median size       15 ppb
+      150 micron median size      15 ppb
+      600 micron median size      15 ppb
+
+      Notes:
+      1) Nozzlesizemustbe3timeslargerthanthelargestparticlesizetobepumped.
+      2) Thematerialisacid(HCl)soluble.
+      3) Marble is preferred to the normal calcium carbonate. This is because the material retains its grind
+          sizeunlikecalciumcarbonatewhichiseasilygrounddown.
+
+7.    SPECIALISED FORMULATIONS
+
+      As discussed in Section 4.2, there are specialised formulations for severe cases of lost circulation.
+      These are discussed below:
+
+7.1    Oil/Bentonite Plug
+
+      The plug uses the fact that bentonite will not hydrate in oil but when water contacts the oil/bentonite
+        mixture, a solid strong material is formed. In seawater based muds, a fresh water spacer is pumped in
+         front of and behind oil spacers to promote the hydration of the bentonite which would be poor in a saline
+       environment.
+
+       Procedure (Displacement)
+
+        1.  The slurry is preferably pumped through open ended pipe.   It can however, be pumped through
+           nozzles if it is not possible to trip out of the hole.
+
+        2.  Flush cement unit, slug pit and all surface lines with base oil - either base oil or diesel.
+
+        3.  Mix 300 ppb bentonite into the base oil: a viscous slurry will result.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  8 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+        4.  Pump 30 bbl of fresh water.
+
+        5.  Pump 10 bbl of base oil.
+
+        6.  Pump the plug.
+
+        7.  Pump 10 bbl of base oil.
+
+        8.  Pump 30 bbl of fresh water.
+
+        9.  Displace the plug to the bottom of the drill string.
+
+      Squeeze Operation
+
+        1.    If the hole is full, close the annular and squeeze at 300 - 500 psi into the formation.
+
+        2.    If the hole is not full, close the annular and pump at the same rate down the annulus and drill pipe.
+
+        3.  Allow four hours for the plug to set.
+
+      Note:
+   A cement squeeze can be used on top of the base oil/bentonite plug, the latter providing a backing for
+      thecementtopreventitslossintotheformation.
+
+7.2   Base Oil/Bentonite/Cement
+
+            If the base oil/bentonite plug does not work, a base oil/bentonite/cement plug is recommended. A
+       concentration of 300 - 500 lbs of bentonite and cement in a 1:1 mixture is mixed into the base oil. The
+       displacement and squeeze procedure is as for the oil/bentonite plug.
+
+7.3    Water/Organophilic Clay Plug
+
+        In oil based muds, the reverse of an oil/bentonite plug is used, the water/organophilic clay plug.  In oil
+      muds, a clay which has been chemically treated to render it oil dispersable is used to provide viscosity.
+       This organophilic clay will not yield in water but will yield in oil in the presence of water.
+
+      Thus if a high concentration of clay dispersed in water is pumped to the loss zone, on contact with oil
+      mud, it will form a strong solid material.
+
+       Formulation (for 1 bbl mix)
+
+                           Unweighted
+
+      Water                    0.72 bbl
+       Caustic                   1.5 lbs
+       Dispersant                3.5 lbs
+       Organophilic Clay       250.0 lbs
+
+       Mixing/Displacement Procedure
+
+        1.  The slurry is preferably pumped through open ended pipe.   It can, however, be pumped through
+           nozzles if it is not possible to trip out of the hole.
+
+        2.  Flush cement unit, slug pit and all surfce lines with a water rig wash mixture to clean the lines.
+        When the lines are deemed to be clean, flush again with water.
+
+        3.  Mix the slurry as previously outlined.
+
+        4.  Pump 10 bbl of base oil.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4300/GEN
+
+                                                                  Rev.         :  2 (11/89)
+      DRILLING MANUAL     Page        :  9 of 9
+
+SUBJECT:  LOST CIRCULATION
+
+        5.  Pump 10 bbl of water.
+
+        6.  Pump the slurry.
+
+        7.  Pump 10 bbl of water.
+
+        8.  Pump 10 bbl of base oil.
+
+        9.  Displace the plug to the bottom of the drill string.
+
+      Note:
+     The function of the base oil spacer is to separate the oil mud and water to prevent gelling in the drill
+        string.
+
+      Squeeze Operation
+
+      The squeeze operation is carried out as per the procedures outlined for the oil/bentonite plug.
+
+      Note:
+     Cementcannotbeusedinwaterorganophilicclayplug.
+
+8.    LOST CIRCULATION WHILST DIVERTER DRILLING
+
+       For drilling top hole sections (26”) where it is believed that mud will help to stabilise the hole the use of
+       the riser/diverter may be programmed.   If losses occur in this situation which cannot be cured by
+       reducing the ROP, it is likely that the only effective course of action to take will be to pull the riser and to
+           drill the section with seawater and viscous pills in the usual way.
+
+8.1    Internal Blowout
+
+       Excessive wellbore pressure, with a closed-in well after a “kick”, can cause a formation breakdown and
+      an internal blow-out.
+
+       This type of lost circulation is difficult to cure. Prepare heavy mud if possible 3 times the volume of drill
+       pipe contents and open hole volume from bottom to the casing shoe. Also prepare 100 bbls pills with a
+       high concentration of LCM to be pumped down the annulus with light weight mud that the hole could
+       stand before the kick.
+
+     Pump heavy mud down the drill pipe and up the annulus to the shoe (or point of losses) and
+       simultaneously pump the 100 bbls of LCM pill down the annulus. Calculate the time and pump speeds
+         in annulus and drill pipe in such a manner that both columns arrive at the point of loss at the same time.
+
+       Fast pumping of the heavy mud and if necessary of the light weight mud initially, whilst slowing down to
+        half speed or less as the plugging material is allowed time to seal off the formation.
+
+      Note that the pressure of the column should be in balance or slightly over balanced to kill the well.
+
+

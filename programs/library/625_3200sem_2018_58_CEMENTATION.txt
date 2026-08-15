@@ -1,0 +1,134 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 2 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3200/SEM
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  1 of 2
+
+SUBJECT:  20"/18 5/8" CEMENTATION
+
+1.1    Perform the general pre-cementing checks as detailed in Sections 3020/GEN, 3030/GEN and
+      3040/GEN.
+
+1.2    The following pre-job calculations are required:
+
+        1.    Lead/tail slurry volumes.
+
+        2.    Lead/tail cement/mixwater/additive volumes.
+
+        3.   Displacement volume.
+
+        4.   Hydrostatic pressure for various cement positions during the job.  Ensure that sufficient
+            overbalance is present at all times.
+
+        5.    Calculate and prepare a graph of pumping pressures versus slurry and displacement volumes.
+
+        6.  ECD during cement job. Ensure that the ECD does not exceed that achieved during drilling the
+            26” hole.
+
+        7.    Differential pressure at end of displacement with TOC at seabed.
+
+        8.    Collapse pressure at 20” shoe.
+
+        9.   Casing load at wellhead after cementing.
+
+       10.  Landing string buoyed weight.
+
+      Note:
+
+      a)  Slurry and displacement volumes to be calculated by the BP Drilling Supervisor, BP Drilling
+          Engineerandthecementer.
+
+      b) For slurry volume calculations, allow 100% excess on the open hole annular volume. The required
+       TOCisseabed.
+
+1.3    The 20”/18 5/8” casing will be cemented using conventional float shoe and float collar one joint apart
+      and an SSR mandrel loaded with a top plug only.
+
+1.4   When running the Dril-Quip SS15 Universal wellhead system ensure that the drill pipe dart on the rig
+          will pass through the ring gauge supplied with the Dril-Quip hydraulic running tool (refer to Section
+      2200/SEM).
+
+1.5    With the 18 3/4” housing landed in the 30” wellhead, establish circulation and circulate casing contents.
+
+1.6   Make up the cement/plug launching head, cement head/cement kelly and lines. Pressure test to 3000
+         psi.
+
+1.7   Pump spacer as per recipe.
+
+1.8    Mix and pump the cement slurry as per the recipe. The standard recipe is:
+
+       Lead:     Class G + 8% Bentonite in seawater
+                 1.58 SG
+                   Yield 1.97 cu.ft/sk
+                 10.88 gal/sk seawater
+                  Thickening time +/- 6-8 hours
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 2 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3200/SEM
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  2 of 2
+
+SUBJECT:  20"/18 5/8" CEMENTATION
+
+         Tail:     100m annular height
+                Neat Class G in seawater
+                 1.92 SG
+                   Yield 1.15 cu.ft/sk
+                 5.07 gal/sk seawater
+                  Thickening time +/- 5 hours
+
+      Note:
+      Ensurethatsamplesofcementslurryaretakenregularlyduringmixingandsetasideforobservation.
+
+1.9    Release the top plug launching dart and displace to the wiper plug with seawater using the cement unit.
+      Shear the wiper plug (+/- 1800 psi) and continue displacing with seawater using the rig pumps.
+
+1.10  Bump the top plug, noting the differential pressure at the end of displacement.
+
+      Note:
+
+      a)  If the plug does not bump after the calculated displacement, do not displace more than half the
+         shoetrackvolume.
+
+      b) Use the ROV or SSTV to verify returns to the seabed. Keep the unit on the seabed to observe the
+            rigidlock-downofthewellhead.
+
+1.11   Bleed off the pressure and check for backflow.
+
+      Note:
+        If the floats do not hold and backflow occurs, re-displace the backflow volume and re-apply surface
+       pressure. Holdthepressureuntilsurfacesamplesset.
+
+1.12   After confirming that the float is holding, activate the rigid lock-down mechanism (refer to Section
+      2200/SEM).
+
+      Note:
+        If the hot line method fails to activate the hydraulic lockdown, drop the Dril-Quip dart for the hydraulic
+      lockdownandpressureuptherunningstringto+/-2000psitoactivatetherigidlockdown. Observethe
+      outer sleeve indicator plate moving down with the ROV. Take a 5000 lbs overpull and rotate the
+      running string 5 turns to the right. POOH. Observe the wellhead with the ROV for any cement
+       deposits. IfnecessaryRIHwiththejetsubandwashawaytheexcesscement.
+
+1.13     If there is any doubt concerning the top of cement in the 36”/30” annulus, run the top-up cementing
+        string as detailed in Section 3100/SEM to tag TOC.  If required, perform a top-up job before running the
+      BOP. POOH.
+
+1.14   Ensure that the following reports have been completed. Copies are to be retained in the offshore well
+           file.
+
+        a)  20” Casing Log.
+        b)  20” Cementation Report.
+        c)  26” Hole Evaluation.
+        d)  20” Casing and Cementing Evaluation.
+
+1.15   Update the drawings of the wellhead/BOP stack-up.
+
+

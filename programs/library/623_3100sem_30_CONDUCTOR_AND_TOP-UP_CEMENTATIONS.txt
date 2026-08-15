@@ -1,0 +1,334 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3100/SEM
+
+                                                                  Rev.         :  1 (1/94)
+      DRILLING MANUAL     Page        :  1 of 5
+
+SUBJECT:  30" CONDUCTOR AND TOP-UP CEMENTATIONS
+
+1.     30" CONDUCTOR CEMENTATION
+
+1.1    Perform the general pre-cementing checks as detailed in Sections 3020/GEN, 3030/GEN and
+      3040/GEN.
+
+1.2    The following pre-job calculations are required:
+
+        1.   Slurry volume.
+        2.   Lead/tail mixwater/additive volumes.
+        3.   Preflush volumes/displacement volume.
+        4.   Differential pressure at end of displacement.
+        5.  Buoyed conductor weight after running casing.
+        6.  Buoyed conductor weight after displacement.
+        7.  Landing string buoyed weight.
+
+1.3     In addition to the above, ensure that the top-up tubing stinger can pass through the PGB in case a top-
+      up cementation is required.
+
+1.4    The 30” is normally run with a guide shoe only (i.e. no float valves). Two joints of 5 1/2” GRP tubing are
+      used in place of DP, as a stinger below the 30” housing hydraulic running tool to help ensure a good
+       conductor cement job. (The fibre-glass casing will be straight forward to drill out should it get cemented
+          in.)
+
+     Make up two joints of GRP casing on the catwalk with chain tongs together with a crossover and
+         drillpipe pup joint. (The pup joint makes handling easier.)
+
+      Run drillpipe using 2 sets of elevators to space the bottom of the stinger 15m above the shoe. The
+       landing plate will take the weight of the stinger, hanging from the DP elevators.
+
+1.5   Make up the housing hydraulic running tool to the stinger and then to the 30” housing.
+
+1.6    With the conductor at setting depth, circulate the casing contents with seawater. Do not exceed a
+        circulating rate of 250 gpm.
+
+1.7    Rig up and pressure test the cement lines.
+
+1.8    Mix and pump spacer and cement as per recipe. The required TOC is seabed.  If it is not possible to
+        clearly identify cement returns, or if no returns are noted, 200% excess slurry (on the open hole volume)
+       should be pumped.
+
+      The standard cement slurry is:
+
+       Lead:     Class G cement
+                 1.92 SG
+                 5.13 gal/sk seawater
+                  Yield 1.17 cu.ft/sk.
+
+         Tail:     500 sks Class G cement
+                 4.88 gal/sk seawater
+           2% BWOC CaCl2
+                  Yield 1.19 cu.ft/sk
+                 1.93 SG
+
+      To eliminate cement fall-back once the cement is in place, and to promote early strength development,
+      an alternative single slurry may be considered:
+
+       Class G cement
+       4.88 gal/sk seawater
+     2% BWOC CaCl2
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3100/SEM
+
+                                                                  Rev.         :  1 (1/94)
+      DRILLING MANUAL     Page        :  2 of 5
+
+SUBJECT:  30" CONDUCTOR AND TOP-UP CEMENTATIONS
+
+        Yield 1.19 cu.ft/sk
+       1.93 SG
+
+      Note:
+       Fluorescentdyeistobeaddedtothefirst20bblofmixwatertoaididentification.
+
+1.9    Displace the cement with seawater at 5 BPM, or as necessary, to 6m above the casing shoe. The
+       annular velocity should not exceed that of the final circulation.  In cases where there is a risk of the
+       casing floating, the cement must be displaced with mud. Use the cement pump for displacement.
+
+      Observe for cement returns at seabed with the SSTV or ROV.
+
+      Note the differential pressure at the end of displacement.
+
+1.10  When displacement is complete, hold back pressure on the drillpipe and WOC.  Hold tension on the
+       running string to ensure that the angle is kept at less than 1 degree until the surface samples have set.
+       Allow a minimum of 6 hours. When the surface samples are hard, slack off the casing string weight.
+     When slacking off the weight, observe the wellhead closely for movement.
+
+      Note:
+        If movement is observed, pick up and continue to hold tension on the wellhead until the cement
+       completelysets.
+
+1.11   Record the angle of PGB from the slope indicator. Release the housing hydraulic running tool.  Pull
+      back the stinger length and circulate seawater to wash the 30” suspension joint. Strap out and record
+       the datum depth.
+
+2.     30” TOP-UP CEMENTATION
+
+2.1   To determine whether a top-up cementation is required, refer to Figure 1.
+
+            If it is visually clear that full returns occurred and that there is still cement at seabed, after releasing the
+       running tool, then it will not be necessary to tag the cement.
+
+2.2       If there is any doubt about the height of cement in the annulus, run the following stinger and tag the
+      cement in the 36”/30” annulus on either side:
+
+          - Diverter sub.
+          - 3 joint x 3 1/2” tubing.
+          - 2 7/8” or 2 3/8” EUE pin x 4 1/2” IF box X/O.
+          - 5” dp.
+
+      To ease detection of hard cement, mark the stinger in metre bands at the rotary table as the pipe enters
+       the PGB funnel. Check the cement level on diametrically opposed sides of the annulus.
+
+      Note:
+     Runthestingerintotheannulusasfaraspossible,withoutputtingany5”drillpipeintotheannulus.
+
+     A top-up cementation should be carried out automatically if:
+
+      Case 1    -   (water depths up to 250m, regardless of whether 20” casing is run).
+
+                 Cement is tagged more than 9m below seabed on either side.
+
+      Case 2    -   (water depths greater than 250m, but only  if the 20” casing is to be used and the
+                    wellhead is pre-loaded into the 30” housing as is the case with the Universal wellhead).
+
+                 Cement is tagged more than 3m below seabed on either side.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3100/SEM
+
+                                                                  Rev.         :  1 (1/94)
+      DRILLING MANUAL     Page        :  3 of 5
+
+SUBJECT:  30" CONDUCTOR AND TOP-UP CEMENTATIONS
+
+2.3    Other factors should be considered at this stage that may lead to a top-up job being performed even if
+       the limits indicated above are not exceeded, e.g. localised seabed currents, or PGB bullseye indicator
+       moving.
+
+2.4    Guidelines for minimum top-up volumes are as follows:
+
+      Penetration  Volume
+
+      0 - 10m        1,000 cu.ft
+      10 - 20m       1,500 cu.ft
+      20 - 30m       2,000 cu.ft
+
+      Note:
+
+      a) Whenrunningthestingerensurethatthestingerconnectionsarestrapwelded.
+
+      b) Forexplorationwellsthatareinlessthan250mofwater,oncompletionofthetop-upjob,placethe
+           stinger 3m below seabed and circulate 10 bbls of seawater to flush/wash cement down to where
+         the 30” will be cut on abandonment. Repeat this operation with the stinger on the other side of the
+           wellhead.
+
+      c) To avoid waiting on cement, the annulus level will be checked after running 20” casing, prior to
+          runningtheBOP.
+
+2.5    Nipple up and pressure test the cement lines.
+
+2.6     Prior to performing the cementation, consideration should be given to spotting a highly viscous LCM
+       plug on top of the existing cement. The stinger should then be withdrawn 1 - 2m before the cement is
+        displaced.
+
+2.7    Mix and pump cement slurry as per the recipe.  During cementing the stinger should be slowly
+       withdrawn from the cement in order to attempt to string out the slurry column.
+
+2.8    Displace the 5” drillpipe with seawater.
+
+      Note:
+        Ifpossible,observereturnsatseabedwiththeROV.
+
+2.9     Pull the 2 3/8”/2 7/8” tubing out of the annulus and circulate to remove any cement left in the string.
+     POOH.
+
+2.10   Ensure that the following reports have been completed. Copies are to be retained in the offshore well
+           file.
+
+        a)  Conductor Log Tally Sheets.
+        b)  Conductor Cementation Report.
+        c)  Pressure recording charts, signed by cementer and BP Drilling Supervisor.
+        d)  36” Hole Drilling Evaluation.
+        e)  Casing and Cementing Evaluation.
+           f)  PGB drawings.
+
+2.11   Prepare a drawing of the 30” housing showing the distance from the top of the housing to the seabed.
+
+      Note:
+      Thisdrawingistobeupdatedaftereverycasingjob.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3100/SEM
+
+                                                                  Rev.         :  1 (1/94)
+      DRILLING MANUAL     Page        :  4 of 5
+
+SUBJECT:  30" CONDUCTOR AND TOP-UP CEMENTATIONS
+
+3.     30" TOP-UP CEMENTATION USING TITUS EQUIPMENT
+
+            If a DrilQuip wellhead system is in use, it may include the TITUS automatic top-up system (see Section
+      2100/SEM for details). In this case, the following procedure should be followed:
+
+3.1    Perform 30" primary cement job as per normal. Displace cement. Check for backflow.
+
+3.2    Drop 2 1/2" steel ball. Open shear sleeve with circa 500 psi.
+
+3.3    Establish circulation through distribution ring.  Circulate at low rate to keep ports open and wash away
+      any cement from the primary cement job.  Continue circulating until approximately 1 hour before
+        anticipated release time of the 30" running tool.
+
+3.4    Perform top-up cement job using quantities advised in 30" conductor cementing programme. Displace
+      cement using calculated string volume to cementing swivel, plus 4 bbls excess. Hold pressure until no
+       backflow is observed.
+
+3.5   Move grouting hose stab handle to unlatch position with ROV; unstab with ROV.
+
+3.6    Release 30" running tool. Pick up string and confirm grouting hose stab is free.
+
+3.7    Thoroughly wash out the cement swivel on recovery.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3100/SEM
+
+                                                                  Rev.         :  1 (1/94)
+      DRILLING MANUAL     Page        :  5 of 5
+
+SUBJECT:  30" CONDUCTOR AND TOP-UP CEMENTATIONS
+
+                                                        FIGURE 1
+
+                             30" CONDUCTOR TOP UP
+                    CEMENT JOB FLOW CHART
+
+
+
+                                       TOP 2 JOINTS OF
+                                                30" COND. SHOULD BE
+                                                                   1. 1/2 " WT X52 WITH A
+                                 HEAVY DUTY CONNECTOR
+                                        NOTE (I)
+
+
+                                      CARRY OUT
+                                                  30" CEMENTATION
+                                      TO SEABED
+                                        NOTE (II)
+
+
+
+
+                                   GOOD VISUAL
+                                      CONFIRMATION OF                        30" CEMENT ATION
+                                   CEMENT TO SEABED                    COMPLETE
+                                    AND NO CEMENT                                                                YES        CONTINUE WITH                                         SLUMP ?                         DRILLING PROG.
+                                        NOTE (III)
+
+
+                                          NO
+                                                                       NO                                     TAG CEMENT IN
+                                                  36" / 30" ANNULUS
+
+
+
+                                       CEMENT
+                                    TAGGED BELOW:                                                                       OTHER                                        CASE 1 or CASE 2                                                                         FACTORS TO                                        9m ON  3m ON
+                                         EITHER EITHER         NO          CONSIDER ?                                                                       NOTE (V)                                              SIDE   SIDE ?
+                                                                   (IV)
+
+
+                                                YES                               YES
+                                    PERFORM TOP UP
+                                    CEMENT JOB ON
+                                         EITHER SIDE OF
+                                                  36" / 30" ANNULUS
+                                        NOTE (vi)
+
+
+
+
+                                   GOOD VISUAL
+                                      CONFIRMATION OF
+                                   CEMENT TO SEABED
+                                    AND NO CEMENT
+                           NO          SLUMP ?
+                                        NOTE (III)
+
+
+                                                YES
+
+                                                              IS IT
+                                    AN EXPLORATION
+                                    WELL IN LESS
+                                       THAN 250m                        NO
+                                     WATER ?
+
+                                                YES
+                                      PLACE STINGER 3m
+                                  BELOW SEABED AND
+                                 PUMP 100BBLS SEAWATER
+                                     REPEAT ON OPPOSITE
+                                             SIDE - NOTE (VII)
+
+
+
+
+                                                                                                                                                         2179 / 80
+
+

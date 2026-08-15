@@ -1,0 +1,621 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  1 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+1.    PRE-DRILLOUT OPERATIONS
+
+1.1    Ensure that all drilling tools and equipment, as per the Equipment Check List on page 5, are on board,
+      checked out and in a serviceable condition prior to Casing Drillout.  Ensure that the gyro survey
+       equipment is available (if required), after cementing the casing but before drilling out the shoe.
+
+1.2    Ensure that all fishing tools relevant to Drilling Operations on the 12 1/4” hole section are on board,
+      checked out and in a serviceable condition prior to Casing Drillout (refer to Section 6200/GEN).
+
+1.3    Ensure that logging tools/operators and casing running tools/operators are all on board prior to reaching
+       the section TD.
+
+1.4    Ensure all BOP equipment and drillstring well control equipment is in a serviceable condition.
+
+1.5   On fixed installations, complete wellhead pressure testing. On semi-submersible units, if the casing has
+      been run with the full bore running tool, set and pressure test the pack-off in the wellhead (refer to
+       Section 2300/SEM).  Perform a BOP test as per Section 0420/FIX or 0420/SEM.  Set wellhead wear
+       bushing. On semi-submersible units install the flex joint wear bushing.
+
+1.6    Check the ID of all downhole equipment for passage of a FPI tool and survey instrument fishing tools.
+
+1.7   On floating units ensure that the emergency hang-off tool is made up in the derrick.
+
+1.8   On floating units, prior to casing drillout, make up the 9 5/8” casing hanger to the running tool complete
+        with pack-off and SSR plug mechanism. Stand back in the derrick or lay down on the pipe rack (refer to
+       Section 2400/SEM).
+
+1.9    Ensure that all General Drilling Instructions, detailed in Section 1000/GEN, are in place and adhered to.
+
+1.10   Ensure that all relevant BOP drills, in accordance with the guidelines listed in the BP Well Control
+       Manual, are understood by all rig personnel and are implemented at the relevant stages of 12 1/4” Hole
+         Drilling Operations.
+
+2.    DRILLING - GENERAL
+
+2.1   Make up the 12 1/4” drilling assembly.
+
+        Vertical Wells
+
+        Typical drilling assemblies for the section are:
+
+        a)   Straight Well Drop-Off Assembly
+
+          12 1/4” bit - Totco - 2 x 8” DC - 12 1/4” SS - 1 x 8” DC - 12 1/4” SS - 11 x 8” DC - Jars - 3 x 8” DC -
+          9 HWDP - DS.
+
+         Note:
+          LocationofDSdependsonIDofHWDPandODofdart.
+
+        b)   Straight Well Stiff Assembly
+
+          12 1/4” bit - Totco - 12 1/4” NBS - 1 x 8” DC - 12 1/4” SS - 2 x 8” DC - 12 1/4” SS - 11 x 8” DC -
+           Jars - 3 x 8” DC - 9 HWDP - DS.
+
+      The normal practice is to run a stiff assembly unless there is angle in the hole or formations expected to
+      be soft.
+
+       For details on turbine drilling, refer to Section 1700/GEN.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  2 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+        Directional Wells
+
+        a)   Drill Collar Spacing to Minimise Wall Contact
+
+          Using the graph of BHA Deflection and Wall Contact vs. Hole Angle (Figure 1, page 10), a
+              stabiliser spacing of 80 ft if necessary to provide zero wall contact in wells up to 30 degrees. For
+             well inclinations up to 60 degrees, 70 ft is the maximum spacing and over 60 degrees it is 60 ft.
+
+        b)  Quantity of Heavyweight in the Assembly
+
+        A report entitled "A Review of Jar Placement Using Jarpro" Doc ID: AM/sb 6 recommends that  if
+           the prime consideration is to jar, while at the same time reducing the likelihood of differential
+             sticking, use a BHA with a hammer composed of 2 off 8" DC's. For the WOB to be maintained, 5"
+       HWDP can be added and is not too detrimental to jarring.  Therefore with respect to jarring and
+              differential sticking, the optimum quantity of 5" HWDP is 5 stands.
+
+          Thus a typical directional tangent hold BHA in a 35 degree deviated hole would be:
+
+              Bit - NBS - NMSDC - UGNMSS - MWD - 12 1/4" NMSS - 2 x 8" NMDC - 12 1/4" SS - 2 x 8" DC -
+          12 1/4" BR - Jar - 2 x 8" DC - 15 x 5" HWDP - HDIS.
+
+      Locked Up Rotary Assemblies
+
+       At commencement of this section the well should be lined up on target, hence the majority of drilling will
+      be with “locked up” tangent assemblies.
+
+        Typical “lockedup”rotaryassemblies are:
+
+        a)  12 1/4” bit - NB stab - SNMDC - NM stab - MWD - NM stab - 8” NMDC - NM stab - 1 x 8” NMDC -
+           stab - 2 x 8” DC - jar - 5 x 8” DC - 12 HWDP - dart sub.
+
+        b)  12 1/4” bit - NB stab - 8” SDC - 11 3/4” to 12 1/4” Andergauge stab (wt. set 30K to 32K) - 8” NMDC
+                - 12 1/4” NMSS - X/O - 8 1/4” MWD - 12 1/4” NMSS - 2 x 8” NMDC - 6 x 8” DC - Jars - 2 x 8” DC -
+         X/O - 1 x 5” HWDP - dart sub - 14 x 5” HWDP.
+
+        In assembly b) the Andergauge stabiliser is run to provide angle control.
+
+        In certain situations it is possible to use a steerable turbine, or a stabilised mud motor. The advantages
+        of the steerable turbine and stabilised mud motor are that small corrections in inclination and azimuth
+      can be made.
+
+      These motors would be used in conjunction with stratapax bits if it is determined to be economic with
+       reduced cost/m.
+
+       Turbine Assembly
+
+      12 1/4” bit - 9 1/2” turbine - NM stab - 8” NMDC - MWD - NM stab - 2 x 8” NMDC - jar - 2 x 8” DC - 12
+    HWDP - dart sub.
+
+       For details on turbine drilling, refer to Section 1700/GEN.
+
+     Mud Motor Assembly
+
+      12 1/4” bit - stabilised mud motor - SNMDC - 12” NM stab - SNMDC - MWD - 12” NM stab - 2 x 8”
+     NMDC - 1 x 8” DC - jar - 2 x 8” DC - 12 HWDP - DS.
+
+       For details of mud motors, refer to Sections 1630/GEN and 1640/GEN.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  3 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+       Rebel Tool Assembly
+
+        In certain situations it is necessary to correct the azimuth in this section after the GCT survey has been
+      made. A typical assembly is as follows:
+
+         Bit - 8 7/8” rebel tool - 8” SNMDC - MWD - 8” NMDC - 12 1/4” NM stab - 2 x 8” NMDC - 12 1/4” stab - 5
+       x 8” DC - jar - 3 x 8” DC - 12 HWDP - dart sub.
+
+      Notes:
+
+      a) The most common spacing for the stabiliser is ± 30m from the bit, a drop of 0.4 deg/30m would be
+            typicalwithwalkratesof4deg/30m.
+
+      b) The position of the first stabiliser above the bit generally controls the characteristics of the
+          assembly.
+
+      c)  Fieldhistorywithrebeltoolrunsshouldbeusedtodetermineexactassembliesineachcase.
+
+      d) Fordetailsofrebeltools,refertoSection1660/GEN.
+
+      e) Jars are to be run in the string, keeping the neutral point away from the jars whilst drilling. It is
+           advisabletousetheJarproprogrammetooptimisejarplacement.
+
+       f)  TheminimumBHAlengthshouldberun,equaltothemaximumWOBthatisrequired.
+
+      g) HWDPwillalwaysberun.
+
+             i)  Minimumnumberofjointswillberuntogiveadequatestressreduction.
+               ii)   If possibility of differential sticking or losses exists, the amount of HWDP is to be increased
+            andthenumberofDC’sdecreased.
+
+      h) On directional wells the rebel tool should be kept on site for any azimuth corrections c/w LH and
+      RHpaddles.
+
+        i) A junk sub should be considered in the BHA prior to using a PDC or diamond bit (corehead),
+           corebarrelorturbine.
+
+        j)  TheOD,IDandlengthofeachstringcomponentistoberecordedbeforeitisRIH. Ensurethatthe
+        ID of all downhole tools, such as bumper subs, jars and shock subs, etc., is large enough to allow
+          FPI,back-offandsurveyrecoverytoolstopass.
+
+      k) EnsurethatthecorrectovershotgrapplesareonboardtocatchalltoolOD’sruninthehole.
+
+        l)  Thelengthofthefishingnecksofeachstringcomponentaretoberecorded.
+
+2.2    RIH.  (Drill out stage cementer  if installed and pressure test casing to 13 3/8” cement plug bump
+        pressure.)
+
+      Note:
+        a) Be aware of the danger of the bit drilling through the centre of the plug, leaving the outer
+          section to ride up above the bit. This may cause a hydraulic piston effect that can result in
+        pumpingthedrillstringoutofthehole.
+
+2.3    RIH and tag TOC (report TOC). Pressure test the casing if required. Perform D5 kick drill and record
+       the details on the IADC and Daily Drilling Reports.
+
+2.4      Drill out 13 3/8” shoe track, closely monitoring torques. Note and report hardness of cement in shoe
+        track.  If required, after drilling half the shoe track, displace well to new mud.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  4 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+      Notes:
+
+      a) Ensurethatthemudispre-treatedagainstcementcontamination.
+
+      b)  It is not recommended to drill the shoe track or stage cementer with a bit softer than that of the
+           1.3.4IADCcategory.
+
+      c)  Confirm float equipment in PDC drillable prior to using PDC bit to drill out. Care must be taken
+        when“bedding”inthebit(seeSection1500/GEN).
+
+      d) Be aware of the danger of the bit drilling through the centre of the plug, leaving the outer
+          section to ride up above the bit. This may cause a hydraulic piston effect that can result in
+        pumpingthedrillstringoutofthehole.
+
+2.5    Clean out the pocket and drill 3m of new hole.  Circulate to clean the hole and balance the mud.  Pull
+      back to the shoe and perform a leak-off test. (Refer to Section 7100/GEN.) This test may be limited on
+       advice from the drilling office, depending on the mud weight and kick margin requirement for the 12 1/4”
+        section.  Fax the leak-off test graph to town and record the results in the well file and Daily Drilling
+       Report.  Re-calculate the kick tolerance and inform the Drilling Superintendent  if less than 100 bbls.
+      The kick tolerance should then be re-calculated every day (refer to Section 0405/GEN). Take SCR’s.
+
+      Notes:
+
+      a) The leak-off test surface pressure is limited to the casing test or cup type test pressure, whichever
+          istheleast.
+
+      b) On exploration wells a gyro survey may be required in the 13 3/8” casing - refer to the survey
+         programme.
+
+2.6   On exploration wells drill/core ahead to TD with magnetic single shot surveys and wiper trips as
+        required. Pit drills are to be carried out every tour.
+
+     On development wells drill ahead 230 - 300m into the section. This is the minimum length permissible
+         for a GCT survey. The hole curvature should not change at more than 0.5 deg/30m.  If the target size
+         is big enough the bit can be dulled before making the survey. Run Schlumberger GCT or equivalent.
+      Ensure hole is clean and mud is in good condition prior to running the GCT. After completing the GCT
+       survey drill/core ahead to the section TD (refer to Section 7000/DEV).
+
+       Section Notes
+
+            i)    On exploration wells BOP tests are to be carried out every 10 - 14 days maximum. On
+            development wells a full BOP test is to be carried out prior to drilling through a reservoir  (if
+             present in this section).  At the same time the MWD tool will be left out of the BHA unless
+              otherwise instructed.
+
+             ii)      Full scale kick drills are to be carried out on trips and reported.
+
+              iii)   On exploration wells a tandem electronic multishot survey will be required, either prior to
+              entering the reservoir, or at 12 1/4” TD. (Refer to the survey programme.) Ensure that the non-
+             magnetic drill collars, etc. are in the BHA prior to reaching the survey point.
+
+          iv)       If the MWD fails on development wells, continue to drill ahead with single shot surveys every
+            90m, unless instructed otherwise.
+
+        v)      All surveying to be carried out as per the Standard Surveying Instructions.
+
+          vi)       If any major problems arise with the mud or solids control equipment, stop drilling and
+             circulateuntilrectified.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  5 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+           vii)   When drilling with high ROP’s, always circulate to ensure hole is clean prior to tripping.
+
+           viii)   Normal circulation rates for this section are 650 - 750 gpm. For optimum circulation rates refer
+                to the 12 1/4” hole cleaning curves on pages 8 and 9.
+
+2.7    At section TD circulate to clean the hole and condition the mud.
+
+     On development wells prior to POH for logging, drop a tandem solid state EMS.
+
+2.8   POH confirming hole depth measurements.
+
+2.9    Log as programmed. A check trip may be required depending on hole conditions and the length of the
+       logging programme. On exploration wells, this will afford the possibility of re-running the magnetic
+        multishot if required.
+
+2.10     If hole conditions dictate, check trip prior to running the casing. Condition the hole and mud to reduce
+       surge pressures.
+
+      Note:
+    Onexplorationwellsifthe121/4”sectionTDisthewellTD,95/8”casingwillonlyberunintheeventof
+    a well test. If the well is to be plugged and abandoned after logging, RIH with the cementing stinger,
+       circulatetoconditionthemudandsetcementplugsasprogrammed(refertoSection3600/GEN).
+
+2.11     If 9 5/8” casing is to be run retrieve the wear bushing(s). On surface stacks change the top pipe rams
+        to 9 5/8” casing rams unless advised otherwise in the Drilling Programme.  Pressure test the bonnet
+       seals against the annular preventer using the test plug assembly - ensure that the string is open when
+        testing.
+
+      Note:
+        If 13 3/8” casing has been omitted then a 21 1/4” BOP might be installed when running 9 5/8” casing.
+     Topramsarelikelytobeblind/shearandthereforecannotbechangedto95/8”casingrams.
+
+2.12   Rig up to run 9 5/8” casing.
+
+3.    EQUIPMENT CHECK LIST
+
+      Item   Quantity      Description
+
+      1        Selection       12 1/4” bits c/w jets (selection) + breakers.
+      2       2             12 1/4” near bit stabilisers.
+      3       4             12 1/4” string stabilisers/gauge tool.
+      4       2             Andergauge stabiliser (11 3/4” to 12 1/4”).
+      5       1             12 1/4” roller reamer plus spare cutters.
+      6       2            Sub 6 5/8” reg box-box bored to take NRV.
+      7       30               8” steel drill collars (6 5/8” reg conns).
+      8       2               X/over 6 5/8” reg pin - 4 1/2” IF box.
+      9       30               5” HWDP.
+      10      3                8” DC lift nipples.
+      11      1 set             8” DC slips/elevators.
+      12      1          DC safety clamp.
+      13      2              Totco ring (ring type).
+      14      1 set        MSS equipment.
+      15      2 sets       DP elevators/slips.
+      16      1             Gray inside BOP (4 1/2” IF conns).
+      17      1                  Circ. head 4 1/2” IF pin - 2” Lo torque valve.
+      18      2                 Hydril kelly cock (4 1/2” IF conns).
+      19         -                 5” DP pup joints.
+      20         -            Dope for DP and DC.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  6 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+      21      2              Junk sub with 6 5/8” reg conns.
+      22      2                   Drilling jars.
+      23      1                 Circulating sub (6 5/8” reg conns).
+      24      1               Dart sub (4 1/2” IF conns).
+      25         -              Casing equipment.
+      26         -              Gyro survey equipment (if required).
+      27         -               Magnetic multishot equipment.
+      28      3                8” non-magnetic drill collars (6 5/8” reg conns).
+      29     As required     12 1/4” non-magnetic string stabilisers (6 5/8” reg conns).
+      30       Selection        8” Pony non-magnetic drill collars (6 5/8” reg conns).
+                              if applicable
+      31           If applicable   MWD tools.
+      32      2 if required    9 1/2” turbines.
+      33      2 if required      Stabilised mud motors.
+      34      2 if required    8 7/8” rebel tools c/w LH and RH paddles.
+      35           If applicable     Corebarrel assembly.
+      36       Selection       Coreheads.
+      37      1             13 3/8” RTTS plus storm valve (or equivalent) and safety joint.
+      38      Set              Fishing tools (refer to Section 6200/GEN).
+      39      2             13 3/8” bridge plug (exploration/appraisal wells) and setting tool.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  7 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+
+
+         EFFECTIVE VISCOSITY                             PROCEDURE          DETERMINATION
+                                                                            1. DRAW LINE FROM MUD YP
+                  50                               THROUGH CUTTINGS SIZE TO                                                  LINE               LINE                                              INTERSECT LH PROJECTION
+                                                LINE AT A*
+
+                  40                                                                                                                            PROJECTION                                     PROJECTION
+                                                                            2. DRAW LINE FROM A* THROUGH                  CUTTINGS               EFFECTIVE
+                    SIZE (in)                 VISCOSITY              HOLE DIAMETER TO CROSS RH
+                             1/4                                  (cP)                 PROJECTION LINE AT B*
+                  30                                 300
+
+                          1/2          17 1/2                                            3. DRAW LINE FROM B* TO MUD PV
+
+                  20                                 200              100
+                                     12 3/4                                           4. READ OFF EFFECTIVE VISCOSITY
+                                      8 1/2                            80           AT CROSS-OVER POINT
+                                 HOLE
+                                 DIAMETER
+                                                                  (in)                           60
+                  10                                 100
+                                                                       40
+
+                                                                       20
+
+                   0                                   0                0
+              YIELD                                 PLASTIC
+              POINT2                                VISCOSITY                     (lb/100ft  )                                                 (cP)
+         CUTTINGS SETTLING
+      VELOCITY DETERMINATION
+
+                                            LINE                              LINE               2.1                               SETTLING
+                                  60  VELOCITY
+                                                  (ft/min)
+                                   50                                                                                    2.2                                                                                                              PROJECTION   40                                                         PROJECTION MUD                                            SG                                                                           1.0                         5. DRAW LINE FROM EFFECTIVE
+                                                VISCOSITY THROUGH MUD SG TO                                     30                                    2.3
+                                               60                       INTERSECT LH PROJECTION LINE
+                 300                                  AT C*
+                                   2.0        20       50                       2.4
+                                  1.5                                                    6. DRAW LINE FROM CUTTINGS SG                 200                                                  40                   THROUGH MUD SG TO INTERSECT
+                                 1.0                                                2.5          RH PROJECTION LINE AT D*
+               MUD                                           10                   SG                                                   30           1.5                                     1/4" CUTTINGS
+                 100                                                            7. JOIN C* AND D*. READ OFF SLIP
+                                                                                    2.6            VELOCITY FOR APPROPRIATE                                                     20
+                                             CUTTINGS DIAMETER
+                                             1/2" CUTTINGS
+                   0                                                   2.0      2.7
+            EFFECTIVE                             CUTTINGS                 8. CONTINUE TO NEXT FIGURE             VISCOSITY                               SG
+                      (cP)
+
+
+
+                                                                                                                                                       2179 /159
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  8 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+
+
+                          12 1/4" VERTICAL HOLE CLEANING
+
+
+
+      CUTTINGS SLIP
+      VELOCITY (ft/min)
+                       5060
+                    40
+                 30
+               20
+
+             10                           PENETRATION RATE (m/h)
+
+                                             60 50   40     30               20             0
+                     PIVOT
+                     POINT
+
+
+                                                                                             10
+
+
+
+
+
+                                           180 140  100  80    60   50      40           30                        20
+                          ANNULAR VELOCITY (ft/min)
+
+
+
+
+                             PROCEDURE (CONT.)
+
+                                                   9. DRAW LINE FROM
+                               CUTTINGS SLIP
+                              VELOCITY THROUGH
+                                PIVOT POINT TO CROSS
+                              PENETRATION RATE
+                                     LINES.
+
+                                             10. FOR APPROPRIATE ROP,
+                            READ MINIMUM
+                            ANNULAR VELOCITY.
+
+
+
+
+
+                                                                                                                                                        2179 /160
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  9 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+
+
+                 DEVIATED 12 1/4" HOLE CLEANING CHART
+
+
+
+
+                          Q(gpm) * ESG
+     TRANSPORT INDEX = ———————
+                                  100                           EFFECTIVE SG (ESG)
+                                      TRANSPORT          1.2     1.3   1.4   1.5      50                                                                       2.5                                           INDEX
+                                                          11
+
+      40                                                                                                                1.6
+     (m/h)
+                                              SG
+   ROP 30                                                  10
+                                                                                 2.4
+      20                                                           9            CUTTINGS                                                                                                                1.7        MAXIMUM
+                                                           8      10
+                                                           7
+
+       0                                                                       2.3
+                                                                                   1.2    1.3    1.4    1.5    1.6          40          50          60          70          80
+                                                 MUD SG               HOLE ANGLE (DEGREES)
+
+
+
+
+                                 PROCEDURE
+
+                                                     1. ENTER MUD SG AND
+                                CUTTINGS SG ON RH
+                                 GRAPH. READ OFF ESG
+                           FROM FAMILY OF
+                              DIAGONAL LINES.
+
+                                                     2. USE BOXED EQUATION
+                             TO DETERMINE
+                               TRANSPORT INDEX FOR
+                                 SET FLOW RATE.
+
+                                                     3. READ OFF MAX ROP
+                              FOR HOLE ANGLE
+
+
+
+                                                                                                                                                       2179 /161
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1350/GEN
+
+                                                                  Rev.         :  5 (12/91)
+      DRILLING MANUAL     Page        :  10 of 10
+
+SUBJECT:  DRILLING 12 1/4" HOLE
+
+
+
+
+
+                                                                        25
+                                                                                                         (FT)
+                          90FT
+                                                                        20                                                                                                                                                                                        CONTACT
+
+
+                                                                        15                                                                                                         WALL
+                           80FTCONTACT                                                                         10
+WALLDC   3/4"
+ 2                                  5ANDx
+  8"
+
+ -              BORE        70FT
+
+
+                                    2   HOLE              WELLDEFLECTION   1/4"                                                                                                                                    (INS)
+  12BHA                           60FT
+OF
+
+
+
+
+
+                                    1PLOT                                                                                                                                                                                                                                                                        DEFLECTION
+                                                                               BHA
+
+
+
+
+
+1                                   0
+
+                 90    80    70    60    50    40    30    20    10  0
+FIGURE                        (DEGREES) ANGLE HOLE
+
+

@@ -1,0 +1,617 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  1 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+1.    PRE-DRILLOUT OPERATIONS
+
+1.1    Ensure that all drilling tools and equipment, as per the Equipment Check List on page 4, are on board,
+      checked out and in a serviceable condition prior to Casing Drillout.  Ensure that the gyro survey
+       equipment, if required, is available after cementing the casing but before drilling out the shoe.
+
+1.2    Ensure that all fishing tools relevant to Drilling Operations on the 8 1/2” hole section are on board,
+      checked out and in a serviceable condition prior to Casing Drillout (refer to Section 6200/GEN).
+
+1.3    Ensure that logging tools/operators, survey tools/operators  (if required) and casing running
+        tools/operators are all on board prior to reaching the 8 1/2” section TD.
+
+1.4    Ensure that BOP equipment and drillstring well control equipment is in a serviceable condition.
+
+1.5    Complete wellhead pressure testing, and carry out a BOP test as per Sections 0420/FIX and
+      0420/SEM. Set wellhead wear bushing. On semi-submersible units install the flex joint wear bushing.
+
+1.6    Check the ID of all downhole equipment for passage of a FPI tool and survey instrument fishing tools -
+       confirm passage of drop-in dart through jars.
+
+1.7   On floating units ensure that the emergency hang-off tool is made up in the derrick.
+
+1.8    Ensure that all General Drilling Instructions, detailed in Section 1000/GEN, are in place and adhered to.
+
+1.9    Ensure that all relevant BOP drills, in accordance with the guidelines listed in the BP Well Control
+       Manual, are understood by all rig personnel and are implemented at the relevant stages of 8 1/2” Hole
+         Drilling Operations.
+
+1.10   Ensure that a 8 1/2” string reamer is on board for the duration of the 8 1/2” hole drilling and 7” casing
+        operations.
+
+2.    DRILLING - GENERAL
+
+2.1   Make up the 8 1/2” drilling assembly.
+
+        Vertical Wells
+
+      Where differential sticking is known not to be a problem.
+
+        Typical drilling assemblies for this section are:
+
+        Straight well drop-off assembly:
+
+      8 1/2” bit - bit sub - Totco - 2 x 6 1/4” DC - 8 1/2” SS - 1 x 6 1/4” DC - 8 1/2” SS - 11 x 6 1/4” DC - DS -
+      6 1/4” jars - 2 x 6 1/4” DC - 3 HWDP.
+
+        Straight well locked-up assembly:
+
+      8 1/2” bit - 8 1/2” NBS - Totco - 1 x 6 1/4” DC - 8 1/2” SS - 2 x 6 1/4” DC - 8 1/2” SS - 11 x 6 1/4” DC -
+     DS - 6 1/4” jars - 2 x 6 1/4” DC - 3 HWDP.
+
+      Notes:
+     -   If it is planned to run a turbine assembly, a stiff assembly should always precede the turbine BHA.
+         FordetailsonturbinedrillingseeSection1700/GEN.
+     -   Ifformationdipshavebeenidentifiedasaproblem,thenastifferassemblyshouldberun.
+     -   Drillcollarsbelowjar,numberdependentondesiredweightonbit.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  2 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+        Directional Wells
+
+     On completion of the previous section, the hole will usually have been lined up on the target, and
+         drilling will be carried out with a “locked-up” assembly.
+
+       Since the 8 1/2” section is normally drilled through the pay, the assembly should be designed to
+       minimise the possibility of differential sticking.
+
+       This is done by:
+
+        a)  Minimising Wall Contact of the Drill Collars:
+
+        A report entitled “BHA Deflection in Deviated Holes” (12/12/90) concluded that, in 8 1/2” hole, a
+              stabiliser spacing of 60 ft is necessary to provide zero wall contact in wells of up to c. 35 degrees
+              inclination. For inclinations greater than 35 degrees, a stabiliser every 30 ft is necessary. Jars are
+             to be considered the same as drill collars. A series of curves showing wall contact for various hole
+           angles and stabiliser spacings can be found at the end of this section. These are to be referenced
+         when high inclinations are anticipated;
+
+           and, since sticking of the Hevi-Wate can occur,
+
+        b)  Minimising the Quantity of Hevi-Wate in the Assembly:
+
+        A report entitled “Drilling Jar Optimisation in 8 1/2” BHA’s” (19/12/90) concluded that, from a jarring
+            viewpoint, the optimum assembly above the jars consists of 2 collars and 3 Hevi-Wate drill pipe.
+
+         Note:
+           AdditionalHWDPreducedjarringeffectiveness.
+
+       Thus, typical assemblies would be:
+
+        1)   Bit - NBS - SDC - SS - DC - SS - 2 DC - SS - 2 DC - SS - 2 DC - SS - Jar - DC - 7 3/4” SS - DC - 3
+       HWDP
+
+              or, where directional information is required:
+
+        2)   Bit - NBS - SNMDC - NMSS - MWD - NMSS - (TR) - 2 NMDC - SS - 2 DC - SS - 2 DC - SS - Jar -
+       DC - 7 3/4” SS - DC - 3 HWDP.
+
+      Note:
+
+      a) AnyadditionalWOBrequiredshouldbeasDCplusstabilisersbelowthejar.
+
+      b) ATotcoringshouldberuninadditiontotheMWDforsingleshot/multishotsurveys.
+
+      c)  Jarswillalwaysberun. Keeptheneutralpointawayfromthejarswhiledrilling(guideline-80%for
+           availableweightonbit-neutralpointfromjar).
+
+      d) Hevi-WateDPwillalwaysberun.
+
+      e) TheminimumBHAlengthsshouldberuntoprovidethemaximumWOBrequired.
+
+       f) A junk sub should be considered in the BHA prior to using a PDC or Diamond bit (corehead), core
+           barrelorturbine.
+
+      g)  Consideration should always be given to using roller reamers in place of stabilisers, particularly
+            directly above the bit, and definitely after coring. The modern sealed bearing roller reamer offers
+        no disadvantages over stabilisers for this purpose, and can considerably reduce required rotating
+           torque.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  3 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+      h)  Stabilisers higher than the first three above the bit do not need to be full gauge, as they fulfil no
+            directionalpurpose.
+
+        i)  The OD, ID and length of each string component is to be recorded before it is run in hole. Ensure
+           thattheIDofalldownholetools,suchasbumpersubs,jarsandshocksubs,etc.islargeenoughto
+          allow FPI, back-off and survey recovery tools to pass. A slimhole wireline overshot may be
+           requiredtorecoversurveyinstruments.
+
+2.2   RIH and drill out Stage Cementer  if installed.  Pressure test casing to 9 5/8” cement plug bump
+       pressure.
+
+      Note:
+
+      a)  Ifagyrosurveyisrequiredinthe95/8”casing,thiswillberunasinstructedbytheDrillingOffice.
+
+      b) Be aware of the danger of the bit drilling through the centre of the plug, leaving the outer
+          section to ride up above the bit. This may cause a hydraulic piston effect that can result in
+        pumpingthedrillstringoutofthehole.
+
+2.3    RIH and tag TOC (report TOC). Pressure test the casing, if required. Perform D4 and D5 kick drill and
+        report the results on the IADC report.
+
+2.4      Drill out the 9 5/8” shoe track, closely monitoring torque. Note and report hardness of cement in shoe
+        track.
+
+      Note:
+
+      a) Ensurethatthemudispre-treatedagainstcementcontamination.
+
+      b)  It is not recommended to drill the shoe track or stage cementer with a bit softer than that of the
+           1.3.4IADCcategory.
+
+      c)  IfdrillingoutwithaPDCbit,refertoSection1500/GEN.
+
+      d)  Ifmudconditioningormudchangeoutisprogrammed,peformthiswhiledrillingouttheshoetrack.
+
+      e) Be aware of the danger of the bit drilling through the centre of the plug, leaving the outer
+          section to ride up above the bit. This may cause a hydraulic piston effect that can result in
+        pumpingthedrillstringoutofthehole.
+
+2.5    Clean out the pocket and drill 3m of new hole.  Circulate to clean the hole and balance the mud.  Pull
+      back to the shoe and perform a leak-off test (refer to Section 7100/GEN). This test may be limited on
+       advice from the drilling office, depending on mud weight and kick margin requirements in the 8 1/2”
+        section. Fax the leak-off test graph to town.  Re-calculate the kick tolerance and inform the Drilling
+       Superintendent if less than 100 bbls (refer to Section 0405/GEN). Take SCR’s.
+
+      Note:
+     Theleak-offtestsurfacepressureislimitedtothecasingtestorcuptypetestpressure,whicheveristhe
+       least.
+
+2.6   On exploration/appraisal wells drill/core to section TD taking surveys as required (refer to Section
+       7000/EXP).
+
+     On development wells drill/core ahead to section TD taking single shot inclination surveys as required
+         (refer to Section 7000/DEV - Standard Survey Instructions).
+
+      Note:
+
+      a) TakeSCR’severy500mdrilledorwhenthemudweightischanged.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  4 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+      b) TheDrillingProgrammewilladvisesectionTD,MWDrequirementsifany,anycoringrequirements,
+           reservoirpressuredata,mudweightdataandpotentialdrillinghazards.
+
+      c) BOP tests are to be carried out every 10 - 14 days maximum. Pit drills are to be carried out every
+            tour.
+
+      d) Kickdrillsaretobecarriedoutontripsandreported.
+
+      e) On exploration/appraisal wells a tandem electronic multishot survey may be required at TD. If so,
+          ensurethatnon-magneticdrillcollarsareintheBHApriortoreachingTD.
+
+       f)  Normal circulation rates for this section are 400 - 450 gpm. For optimum circulation rates refer to
+         the81/2”holecleaningcurvesonpages7and8.
+
+2.7    At section TD circulate to clean the hole and condition the mud.  Survey the hole as directed by the
+         drilling programme.
+
+2.8   POOH confirming hole depth measurements.
+
+2.9    Log as programmed. A check trip may be required depending on hole condition and length of logging
+      programme.
+
+2.10   Check trip prior to running the casing if required. Condition the hole and mud. POOH confirming hole
+       depth measurements and laying out the dart sub  if a liner is to be run. On development wells install
+     NMDC’s on the check trip and drop a tandem solid state EMS before POOH for casing.
+
+2.11   Rig up to run the 7” liner.
+
+      Note:
+
+      a) On exploration/appraisal wells, a 7” liner will normally be run if it is decided to test the well. If the
+           well is to be plugged and abandoned after logging, RIH with the cementing stinger, circulate to
+           conditionthemudandsetcementplugsasprogrammed(refertoSection3600/GEN).
+
+      b)  If a rotating 7” liner is programmed, ensure rotary torque readings are taken on bottom and inside
+      95/8”casingat10,15and20RPMforuseduringlinercementing.
+
+      c)  Insidetrackingorspecialdirectionalsituations,variationstotheabovewillbeadvisedintheDrilling
+         Programme.
+
+3.    EQUIPMENT CHECK LIST
+
+      Item   Quantity     Description
+
+      1       Selection      8 1/2” bits c/w jets (selection) + breakers.
+      2      1            8 1/2” junk mill.
+      3      2            8 1/2” near bit stabilisers.
+      4      4            8 1/2” string stabilisers/gauge tool.
+      5      2 if required   8 1/2” roller reamer + NB roller reamer.
+      6      2                 Bit sub (4 1/2” Reg box/4” IF box).
+      7      30           6 1/4” drill collars.
+      8      5               5” HWDP.
+      9      1         DC safety clamp.
+      10     2             Totco ring (ring type).
+      11     1 set          Totco equipment and overshot (slim hole o/shot/heat shield may be needed).
+      12     1 set       DC slips/elevators.
+      13     2 sets       DP elevators/slips.
+      14     1            Gray inside BOP.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  5 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+      15     1                Circ. head 2” torque valve.
+      16     1                Hydril kelly cock.
+      17         -               5” DP pup joints.
+      18         -           Dope for DP and DC.
+      19     1             Junk sub (connections to match drill collars).
+      20     2            6 1/4” OD drilling jars.
+      21     1               Circulating sub.
+      22     1              Dart sub.
+      23                       Liner equipment (Section 2500).
+      24     3 if required   6 1/4” non-magnetic drill collars.
+      25     1 if required   8 1/2” non-magnetic string stabiliser.
+      26     1 lot          Undergauge stabilisers (if required).
+      27     As required    6 1/4” Pony drill collars (steel and non-mag).
+      28          If required     Gyro survey equipment.
+      29          If required     Magnetic multishot equipment.
+      30         -             Core barrel assembly (typically 6 3/4” OD x 4 3/8”).
+      31      Selection      8 1/2” coreheads.
+                                (Note: a slimhole o/shot required for the core barrel assembly in 8 1/2” hole.)
+      32     1            9 5/8” bridge plug with DP running tool.
+      33     1            9 5/8” RTTS and storm valve (or equivalent).
+      34      Set            Fishing tools (refer to Section 6200/GEN).
+      35     As required   TD logging suite.
+      36     1            7 3/4” string stab.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  6 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+
+
+         EFFECTIVE VISCOSITY                             PROCEDURE          DETERMINATION
+                                                                            1. DRAW LINE FROM MUD YP
+                  50                               THROUGH CUTTINGS SIZE TO                                                 LINE               LINE                                              INTERSECT LH PROJECTION
+                                                LINE AT A*
+
+                  40                                                                                                                          PROJECTION                                     PROJECTION
+                                                                            2. DRAW LINE FROM A* THROUGH                  CUTTINGS               EFFECTIVE
+                    SIZE (in)                 VISCOSITY              HOLE DIAMETER TO CROSS RH
+                             1/4                                  (cP)                 PROJECTION LINE AT B*
+                  30                                 300
+
+                           1/2         17 1/2                                            3. DRAW LINE FROM B* TO MUD PV
+
+                  20                                 200              100
+                                    12 1/4                                           4. READ OFF EFFECTIVE VISCOSITY
+                                      8 1/2                            80           AT CROSS-OVER POINT
+                                 HOLE
+                                 DIAMETER
+                                                                 (in)                           60
+                  10                                 100
+                                                                      40
+
+                                                                      20
+
+                   0                                   0                0
+              YIELD                                 PLASTIC
+              POINT2                                VISCOSITY                    (lb/100ft  )                                                 (cP)
+         CUTTINGS SETTLING
+      VELOCITY DETERMINATION
+
+                                           LINE                              LINE               2.1                              SETTLING
+                                  60  VELOCITY
+                                                  (ft/min)
+                                   50                                                                                   2.2                                                                                                             PROJECTION   40                                                         PROJECTION MUD                                           SG                                                                          1.0                         5. DRAW LINE FROM EFFECTIVE
+                                                VISCOSITY THROUGH MUD SG TO                                     30                                    2.3
+                                               60                       INTERSECT LH PROJECTION LINE
+                 300                                  AT C*
+                                   2.0        20       50                       2.4
+                                  1.5                                                    6. DRAW LINE FROM CUTTINGS SG                 200                                                  40                   THROUGH MUD SG TO INTERSECT
+                                1.0                                                2.5          RH PROJECTION LINE AT D*
+               MUD                                          10                   SG                                                   30           1.5                                    1/4" CUTTINGS
+                 100                                                            7. JOIN C* AND D*. READ OFF SLIP
+                                                                                   2.6            VELOCITY FOR APPROPRIATE                                                    20
+                                             CUTTINGS DIAMETER
+                                             1/2" CUTTINGS
+                   0                                                   2.0      2.7
+            EFFECTIVE                             CUTTINGS                 8. CONTINUE TO NEXT FIGURE            VISCOSITY                               SG
+                      (cP)
+
+
+
+                                                                                                                                                      2179 /156
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  7 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+
+
+                           8 1/2" VERTICAL HOLE CLEANING
+
+     CUTTINGS SLIP
+     VELOCITY (ft/min)
+                       60                     50
+                   40
+                30
+              20
+
+           10                            PENETRATION RATE (m/h)
+                                                      40          30              20           0
+                     PIVOT
+                     POINT                                                                                                                    10
+
+
+
+
+
+                                            180 140  100  80    60   50      40           30                        20
+                                 ANNULAR VELOCITY (ft/min)
+
+
+
+
+                               PROCEDURE
+                                          (CONT.)
+
+                                                  9. DRAW LINE FROM
+                              CUTTINGS SLIP
+                             VELOCITY THROUGH
+                               PIVOT POINT TO CROSS
+                             PENETRATION RATE
+                                    LINES.
+                                           10. FOR APPROPRIATE ROP,
+                            READ MINIMUM
+                           ANNULAR VELOCITY.
+
+
+
+
+
+                                                                                                                                                       2179 /157
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  8 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+
+                DEVIATED 8 1/2" HOLE CLEANING CHART
+
+
+
+
+
+                           Q(gpm) * ESG
+      TRANSPORT INDEX = ———————
+                                   100                           EFFECTIVE SG (ESG)
+                                       TRANSPORT               1.4   1.6  1.8  2.0        40                                                                      2.7                                           INDEX
+
+
+        30                                                 6
+       (m/h)                                               SG                                2.2
+    ROP
+        20                                                                      2.6                                                           5               CUTTINGS          MAXIMUM        10
+
+                                                           4
+                                                           3
+         0                                                                      2.5                                                                                    1.2   1.4   1.6   1.8   2.0           30      40      50      60      70      80      90
+                                                 MUD SG                HOLE ANGLE (DEGREES)
+
+
+
+
+                                PROCEDURE
+                                1.ENTER MUD SG AND
+                               CUTTINGS SG ON RH
+                               GRAPH. READ OFF ESG
+                          FROM FAMILY OF
+                             DIAGONAL LINES.
+                                   2.USE BOXED EQUATION
+                            TO DETERMINE
+                             TRANSPORT INDEX FOR
+                                SET FLOW RATE.
+                                                   3. READ OFF MAX ROP
+                            FOR HOLE ANGLE
+
+
+
+
+
+                                                                                                                                                       2179 /158
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  9 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+                                                       FIGURE 1
+            PLOT OF BHA DEFLECTION AND WALL CONTACT
+                    8 1/2 " HOLE – 6 1/2 " x 2 3/4 " DRILL COLLARS
+
+
+
+
+
+                                                     40
+                  FT
+                  90
+
+
+
+                                                     30 )                  FT
+                  80                                                                                                                   FEET
+
+                             (
+
+
+                                                     20
+                  FT                  70                                                                                                                                  CONTACT
+                                                                                                                   WALL
+                                                     10
+                  FT
+                  60
+                            BORE
+                           1
+                             )
+                  FT                                                        INS                            WELL                     (
+                  50                                                                  0.75
+
+                                                                                                           0.50                                                                                                                                                                                                                                                                                               DEFLECTION                  FT                                                                  0.25
+                  30                                                                                      BHA
+
+                           0
+
+                        100  90 80  70 60 50 40  30 20  10 0
+
+                                                      ) DEGREES ( ANGLE HOLE
+
+
+
+
+
+                                                                                                                                                       IAJ / 03 / KR-1
+                                                                                                                                      910032 / 2
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 10 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1400/GEN
+
+                                                                  Rev.         :  6 (12/91)
+      DRILLING MANUAL     Page        :  10 of 10
+
+SUBJECT:  DRILLING 8 1/2" HOLE
+
+                                                       FIGURE 2
+            EFFECT OF DECREASING COLLAR O.D. IN 8 1/2 " HOLE
+                  6" AND 6 1/2 " DRILL COLLARS WITH 2 3/4 " I.D.
+
+
+
+                                                      60
+                                                                                                                                        COLLAR                                                                                                                                             COLLAR
+                                                      50                                                                                                                  DRILL
+                                                                                                                      DRILL                                                                                           O.D.
+                       "                                                                                              O.D.                                                                    1/2
+                       66"
+                                                      40
+                FT
+                90                    )
+                                                                                                                   FEET
+
+                             (
+
+
+                                                      30
+                FT
+                80                                                                                                                                                                                                          CONTACT
+                                                                                                                   WALL
+
+                                                      20
+                FT
+                70
+
+
+
+
+
+                                                      10
+                FT
+                60
+
+
+
+
+
+                           0
+
+                    100  90  80  70  60  50  40  30  20  10 0
+
+                                                 ) DEGREES ( ANGLE HOLE
+
+
+
+                                                                                                                                                      IAJ / 03 / KR-06
+                                                                                                                                      910032 / 1
+
+

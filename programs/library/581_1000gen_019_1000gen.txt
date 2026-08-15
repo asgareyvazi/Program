@@ -1,0 +1,529 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 9 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Index Prefixes
+
+ 0000                       Safety and Administration
+
+ 1000                         Drilling
+
+ 2000                      Casing and Tubing
+
+ 3000                     Cementing
+
+ 4000                         Drilling Fluids
+
+ 5000                      Wellheads, Packers, Tools and Equipment
+
+ 6000                      Stuck Pipe and Fishing
+
+ 7000                     Well Evaluation
+
+ 8000                     Marine and Miscellaneous
+
+
+Index Suffixes
+
+MST                     Master Index and User Guide
+GEN                      General
+SEM                      Semi-Submersible Drilling Units
+JAK                     Jack-Up Drilling Units
+ FIX                       Fixed Drilling Units
+FOR                         Forties
+CLY                     Clyde
+BEA                        Beatrice
+MAG                  Magnus
+THI                          Thistle
+MIL                        Miller
+DON                 Don
+BRU                     Bruce
+MAR                   Marnock
+RAV                     Ravenspurn
+AME                    Amethyst
+WYF                  Wytch Farm
+HAR                     Harding
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 9 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Section               Description
+
+ 1000                DRILLING
+
+1000/GEN                   Drilling - General
+
+1010/GEN                Depth Referencing
+
+1020/GEN            BP Pipe Tally Procedure
+
+1050/JAK                Well Establishment - Dril-Quip 3 Well Spacer Template
+
+1060/SEM                Well Establishment - Running TGB
+
+1070/SEM                Well Establishment - 12.1/4" Pilot Hole
+
+1100/JAK                    Drilling 36" Hole - Jack-Ups
+
+1100/SEM                   Drilling 36" Hole - Semi-Submersibles
+
+ 1110/FIX                 Conductor Installation - Run/Drill/Run/Cement
+
+ 1130/FIX                 Conductor Installation - Drill/Drive
+
+ 1200/FIX                     Drilling Surface Hole - Multi-Well Installations
+
+1200/SEM                   Drilling 26" Hole - Semi-Submersibles
+
+1280/GEN                Underreaming in Top Hole
+
+1300/GEN                   Drilling Vertical 17.1/2" Hole
+
+1310/GEN                   Drilling Deviated 17.1/2" Hole
+
+1320/JAK                    Drilling Deviated 17.1/2" Hole Using Spacer Template
+
+1350/GEN                   Drilling 12.1/4" Hole
+
+1400/GEN                   Drilling 8.1/4" Hole
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 9 ]
+────────────────────────────────────────────
+               UK Operations
+
+                GUIDELINES FOR
+
+             DRILLING OPERATIONS
+
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+
+1450/GEN                   Drilling 6" Hole
+
+1500/GEN                   Drilling Casing Flotation Equipment with PDC Bits
+
+1630/GEN            Mud Motors
+
+1640/GEN            Mud Motors Used with MWD Tools
+
+1660/GEN                Rebel Tools
+
+1700/GEN                  Turbodrilling Procedures
+
+1750/GEN                  Sidetracking Procedures
+
+1800/GEN                 Suspension and Abandonment Procedures
+
+1850/SEM                Wellhead Severance
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 9 ]
+────────────────────────────────────────────
+               UK Operations
+
+                GUIDELINES FOR
+
+             DRILLING OPERATIONS
+
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+
+1160/CLY                    Drilling Top Hole & Running Conductor Clyde
+
+1160/MAG                   Drilling Top Hole & Running Conductor Magnus
+
+ 1160/THI                    Drilling Top Hole & Running Conductor Thistle
+
+1160/MIL                    Drilling Top Hole & Running Conductor Miller
+
+1160/BRU                   Drilling Top Hole & Running Conductor Bruce
+
+1160/AME              Top Hole & Conductor - Amethyst
+
+1160/HAR                  Drilling Top Hole, Running Conductor and Cementing
+                        Harding
+
+1210/FOR                    Drilling 24" Hole Forties
+
+1210/WYF                   Drilling 24" Hole Wytch Farm
+
+1220/BRU                   Drilling 24" Hole Bruce
+
+1310/AME                   Drilling 17.1/2" Surface Hole - Amethyst
+
+1310/WYF                   Drilling Deviated 17.1/2" Hole Section Wytch Farm
+
+1350/AME                   Drilling 12.1/4" Hole - Amethyst
+
+1350/WYF                   Drilling Deviated 12.1/4" Hole Section Wytch Farm
+
+1400/AME                   Drilling 8.1.2" Hole - Amethyst
+
+1400/WYF                   Drilling Deviated 8.1/2" Hole Wytch Farm
+
+
+NOTE: Sections highlighted in bold are those sections which have been modified (or inserted
+          for the first time) in the most recent amendment to this Guidelines for Drilling
+         Operations. Within each such section, the newly modified parts are identified by the
+        bold black marker line on the right side of the text. A brief resume of the changes is
+        provided at the end of this MST section.
+
+         Sections underlined are those items which are available within this version of Acrobat.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1000/GEN
+
+                                                                  Rev.         :  5 (11/90)
+      DRILLING MANUAL     Page        :  1 of 5
+
+SUBJECT:  DRILLING GENERAL
+
+1.    THE EQUIPMENT
+
+        1.    All downhole tools to be visually inspected by the BP Drilling Supervisor prior to running in the
+             hole, i.e. thread condition, seal areas, jet size and bit type.
+
+        2.   Ensure the Drilling Contractor and Service Company maintain records of equipment usage and
+            inspections and records are available on the rig, i.e. block line ton miles, DP, DC and jar rotating
+            hours, and pump hours.
+
+        3.  The dimensions of any item run in the hole are to be recorded and fishing tools are to be available
+          on board to catch all sizes. DP and DC connections are often overlooked, these should be
+           checked on deck and sorted so a single over shot grapple size will catch all DP used to a known
+             point in the string.
+
+        4.   Items used continously in the hole to be checked periodically on trips, i.e. DP and DC connections.
+
+        5.   Pressure control equipment to be function tested daily and pressure tested every 14 days.
+
+        6.  When 13.5/8” BOP’s in use: any line/outlet exposed to well pressure must have a double valve
+           arrangement.
+
+        7.    All mud volume monitoring equipment, i.e. flo-show and PVT, to be checked at various
+           rates/volumes prior to drilling out casing and twice daily thereafter to ensure measurements
+             indicated are correct and alarms are functioning.
+
+        8.   Ensure all gas detection equipment and alarms are functioning.
+
+        9.   Ensure all rig floor gauges, recorders and alarms are functioning.
+
+       10.  Ensure the solids control system is serviced/cleaned immediately upon shutdown.
+
+       11.  Ensure mud pumps and mud system are personally inspected by the Drilling Contractor
+           Toolpusher on a daily basis.
+
+       12.  The rig maintenance staff should have records of all scheduled maintenance. The Chief Engineer
+          must personally make a daily inspection of major equipment and keep the BP Drilling Supervisor
+            informed on work pending.
+
+       13. A Crown-o-matic or equivalent safety brake will be installed on the drawworks and be operational
+              at all times whilst drilling and tripping.   (It may occasionally be disconnected for short periods of
+            time whilst handling BHAs).
+
+       14.  Only drill pipe with either:
+
+             a)  No hard banding.
+
+             b)  Smooth grained, fine particle, flush ground hard banding may be used.
+
+       15.  Only “fit for purpose” drill pipe must be used (as defined in the latest edition of API RP7G).
+
+       16.  Drill pipe must be NDT inspected at least every three wells drilled, or 12,000 metres drilled
+           whichever is the later. Bottom hole assembly components should be NDT inspected regularly on
+           Category A wells. This is usually prior to each well.
+
+       17. No BHAs may be strapped or welded.
+
+       18.  Inspection of drilling lifting equipment must be performed on all wells at five monthly intervals
+            according to the BP colour code system.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1000/GEN
+
+                                                                  Rev.         :  5 (11/90)
+      DRILLING MANUAL     Page        :  2 of 5
+
+SUBJECT:  DRILLING GENERAL
+
+       19.  Any drilling elevators in use should be subjected to 6 monthly inspections using 100% MPI (wet
+          mag) and a certificate of fitness issued as per BP Drilling Inspection Procedure No. 9 (Elevators).
+
+       20.  Rotary tongs of a rating higher than normal break-out torque must be available on wells which
+            experience high drilling torque.
+
+       21.  The following safety equipment must be on the Drilling Unit at all times and be fully functional:
+
+             a)  Full-opening inside BOP counterbalanced appropriate.
+
+             b)  Surface installed NRV (i.e. Gray type).
+
+              c)  Crossovers to allow the installation of a) and b) into any type of connection to be used in the
+                         drill string, tubing or completion string.
+
+             d)  Drop-in-subs and darts (e.g. Hydril type) are to be available for each assembly run.
+
+       22. A trip tank must be available and be complete with a mechanically operated indicator of the trip
+            tank level, visible from the Driller’s position.
+
+       23.  Continuous monitoring and recording of the following parameters must be available on the drilling
+               site for any wells:
+
+            Active pit volume.
+         Mud weight in.
+         Mud weight out.
+             Total gas (in percentage) at the header box.
+         H2S (in ppm) - Alarm.
+           Weight on bit.
+           Hookload.
+            Rotary torque.
+            Rotary speed.
+           Standpipe pressure.
+           Rate of penetration.
+         Pump SPM.
+            Flowline monitor.
+
+          The mud logging unit on any well must be capable of direct communication with the rig floor at all
+             times.
+
+       24.  Kick detection equipment must be operational at all times.
+
+       25.  The following minimum kick detection equipment is required to be operational:
+
+            Active pit volume monitors.
+         Gas detection at header box.
+        ROP recorder.
+         Mud weight in.
+         Mud weight out.
+             Trip tank with a system for accurately monitoring returns during tripping.
+
+2.    DRILLING OPERATIONS
+
+        1.  The Drilling Supervisor must ensure he gives the Drilling Contractor written instructions prior to
+                drilling any section. These instructions must include:
+
+             a)  The drilling parameters, e.g. WOB and maximum penetration rate.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1000/GEN
+
+                                                                  Rev.         :  5 (11/90)
+      DRILLING MANUAL     Page        :  3 of 5
+
+SUBJECT:  DRILLING GENERAL
+
+             b)  Contingency operations  if a known problem could be encountered, e.g. losses, connection
+                  overpull, etc.
+
+        2.  The Drilling Contractor is to be given written instructions prior to any trip out of the hole. These
+             instructions to include:
+
+             a)  Sequence of operation, i.e. flow check, drop survey.
+
+             b)  Maximum allowed overpull and procedures required  if tight hole is encountered (refer to
+                Section 6000/GEN).
+
+              c)  Preparation of equipment for following operations, e.g. prepare bit.
+
+             d)  Special instructions, e.g. check for swabbing.
+
+        3.  The successful drilling of any section of hole will depend to a large extent upon the personnel on
+           board noticing the problem with equipment or hole conditions prior to  it developing to a serious
+             level and taking action appropriately, e.g. increasing levels of connection overpulls, slow
+             deterioration of mud properties, increasing levels of background gas, etc.
+
+              In all situations the BP Drilling Supervisor must ensure that he is informed immediately of any
+             deviation from normal routine which threatens the continuity of the operation, safety or overall cost.
+
+        4.  The efficiency of a rig will depend upon a high degree of organising and equipment preparation by
+            the Drilling Supervisor.
+
+        5.   Ensure rig personnel are familiar with equipment and standard drilling practices, i.e.
+
+             a)  Perform a D5 well kill drill prior to drilling out the intermediate and production casing strings.
+                This should never be carried out when open hole sections are exposed (refer to BP Well
+                 Control Manual, Volume I).
+
+             b)  Flow checks to be made prior to any trip out of the hole and again at the casing shoe  if
+               hydrocarbon bearing zones have been penetrated.
+
+              c)   Trip tank to be used on all trips.
+
+          Note:
+             Drilling Supervisor will be present on the rig floor to observe the first 10 stands pulled on every trip
+          outofthehole,anduntilsuchtimeasheissatisfiedthattheholefillvolumeiscorrect.
+
+        6.  A trip sheet will be filled out by the Driller on every trip in and out of the hole.
+
+        7.  Any deviation from expected hole fill-up volumes must be investigated and resolved.
+
+        8.   Slow circulation rates must be taken at least:
+
+                    i)  Once per tour.
+                      ii)   At a bit change.
+                       iii)  At a BHA change.
+                iv) When the mud weight is changed.
+
+        A minimum of two pump rates will be used. Pressures must be recorded using the gauge to be
+          used during well kill operations.
+
+        9.  On floating drilling units, choke line pressure losses must be determined and recorded:
+
+                    i)   Prior to drilling out casing.
+                      ii)  On any significant increase in mud weight.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1000/GEN
+
+                                                                  Rev.         :  5 (11/90)
+      DRILLING MANUAL     Page        :  4 of 5
+
+SUBJECT:  DRILLING GENERAL
+
+       10. On all wells the mud logging unit must be manned at all times, during drilling, testing, completion
+          and workover operations.
+
+       11.  Ensure at all times adequate weight material, chemicals and LCM are available on board for
+           ongoing operations. A minimum of 100 tonnes of barytes and sufficient chemical is required on
+           board if drilling is to continue.
+
+       12.  Bore protectors must be installed in the wellhead during all drilling operations. The wellhead
+            design should take this into account. Bore protectors should be inspected at regular intervals as
+           determined by the Drilling Supervisor.
+
+       13.  Daily meetings should be held between the Company Drilling Supervisor, Rig Geologist and
+             contractor’s personnel to discuss topics including:
+
+                    i)  The forward programme.
+                      ii)  Equipment out of commission that may affect drilling operations.
+                       iii)  Any other matter that may affect the ongoing operation or safety.
+
+       14. The time spent with pipe out of hole must be reduced to an absolute minimum. Whenever
+             possible, operations such as routine BOP testing, repairs and slipping and cutting of blockline,
+            should be undertaken with tools in the casing.
+
+       15. A minimum of one complete hole circulation is to be performed prior to pulling out of the hole after
+            completing all well kills.
+
+       16. When a drop-in sub is used in the drill string, the dart should be checked to ensure that it will pass
+            through the kelly cock, the full opening safety valve and all subs used in the string. The dart and
+            the drop-in sub should be checked for compatibility.
+
+       17.  Jars should be run when drilling 17 1/2” and smaller hole sizes. They should be run in the drill
+              collars and be sized to the drill collars.
+
+       18.  In fast drilling sections from 17 1/2” hole downwards, check trips should be considered every
+          300m. On exploration/appraisal wells, surveys will be taken on these trips. Surveys will always be
+            taken on bit trips.
+
+       19.  Consideration should be given to running a junk sub prior to drilling with diamond or PDC bits and
+           coreheads.
+
+       20.  Ensure that, at all stages during the drilling operation, the mud condition is appropriate to the task
+               in hand;  drilling, tripping, logging, casing or cementing.
+
+       21.  Prior to entering a prognosed reservoir, or setting casing, a magnetic multishot may be required.
+            This will be advised in the drilling programme.
+
+       22.  While drilling critical hole sections:
+
+                •   Keep the active mud system surface area as small as is practical to ease kick detection. Any
+                reserve mud stocks in tanks should be positively isolated from the active system. Ensure that
+                 the gates on the trough are sealing properly.
+
+                •   Adequate reserve stock of mud should be held;  the volume and weight of which will be
+               determined by the nature of the next hole section.
+
+                •   Ensure all pit level systems and tank isolating valves are working correctly before drilling into
+                 possible gas-bearing zones.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 9 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  1000/GEN
+
+                                                                  Rev.         :  5 (11/90)
+      DRILLING MANUAL     Page        :  5 of 5
+
+SUBJECT:  DRILLING GENERAL
+
+                •   Keep all mud treatments and pit transfers to the absolute minimum at critical sections of the
+                   well.  Ensure that the Driller and the Mud Logging Engineer are aware in advance of any
+              changes to the system.
+
+                •   Crew safety meetings should discuss the problem of gas kicks, especially if oil based mud is
+                   in use, and emphasise the importance of early detection. Mud engineering and logging
+                personnel should attend these meetings.
+
+                •    Possibilities of pipe sticking should be discussed and any concerns addressed.
+
+3.    WELL CONTROL
+
+            It is the BP Drilling Supervisor’s responsibility to ensure that AT ALL TIMES a flowing well can be
+        controlled.
+
+       Well control must be discussed with the contractor toolpusher to ensure:
+
+        1.  The BP Well Control Manual is understood and STRICTLY adhered to by all rig supervisory
+            personnel.
+
+        2.  The rig and its ancillary equipment is competent and pre-tested to ensure a flowing well could be
+              controlled.
+
+        3.  The well status and all operations are constantly reviewed to ensure well control is not impaired.
+
+        4.   That all relevant BOP Drills are conducted throughout drilling operations in accordance with the
+             instructions included in the BP Well Control Manual.
+
+4.    DRILLING PROGRAMME
+
+      The Drilling Manual gives guidance and procedures to be adopted for drilling wells on a section by
+        section basis. Any additional information required to drill a particular well, or any deviations from this
+       Manual, will be highlighted in the Drilling Programme for that well.
+
+

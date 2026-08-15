@@ -1,4 +1,4 @@
-# 📚 Document Library — 560+ Real Programs, Procedures, Problems & Price Tables
+# 📚 Document Library — 690+ Real Programs, Procedures, Problems & Guidelines
 
 > Extracted text documents uploaded by the user (combined_1.txt + Combined_2.txt).
 > Used as reference knowledge base to enrich wizard output and master programs.
@@ -9,6 +9,12 @@
 |---|---|---|
 | 215 | ROPE Manual (Rig Operations Performance Execution) — 55+ checklists | 28 |
 | 216 | AZNS F-20 Price Table Rev#07 — 22 sheets (Time Breakdown + full cost breakdown: rig, services, materials, rig-less stimulation) | 79 |
+
+## BP UK Operations Guidelines (NEW — 127)
+
+| # | Document | Size (KB) |
+|---|---|---|
+| 563–689 | 127 BP drilling guidelines (generalized): Master Index 0000-8000 — H2S, Well Control, Shallow Gas (incl. deepwater DP), BOP Testing, Hole Sections (36", 26", 17-1/2", 12-1/4", 8-1/2"), Conductor & Well Establishment (TGB, pilot hole), Casing Design & Running (30", 20", 13-3/8", 7" + liners), Cementing (checklists, 30"/20"/9-5/8"/7" cementations), Drilling Fluids (spud mud, KCl, OBM, barytes plugs, lost circulation, solids control), Packers & Tools (tie-back, bridge plugs, jars, check valves, heave compensation), Stuck Pipe & Fishing (U-tube method, free point, milling, section milling), Well Evaluation (LOT, coring, mud logging, e-logs), Marine (jacking, heavy weather) | — |
 
 ## Drilling Problems & Solutions (NEW — 12)
 

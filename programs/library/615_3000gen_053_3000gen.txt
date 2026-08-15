@@ -1,0 +1,436 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 8 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Index Prefixes
+
+ 0000                       Safety and Administration
+
+ 1000                         Drilling
+
+ 2000                      Casing and Tubing
+
+ 3000                     Cementing
+
+ 4000                         Drilling Fluids
+
+ 5000                      Wellheads, Packers, Tools and Equipment
+
+ 6000                      Stuck Pipe and Fishing
+
+ 7000                     Well Evaluation
+
+ 8000                     Marine and Miscellaneous
+
+
+Index Suffixes
+
+MST                     Master Index and User Guide
+GEN                      General
+SEM                      Semi-Submersible Drilling Units
+JAK                     Jack-Up Drilling Units
+ FIX                       Fixed Drilling Units
+FOR                         Forties
+CLY                     Clyde
+BEA                        Beatrice
+MAG                  Magnus
+THI                          Thistle
+MIL                        Miller
+DON                 Don
+BRU                     Bruce
+MAR                   Marnock
+RAV                     Ravenspurn
+AME                    Amethyst
+WYF                  Wytch Farm
+HAR                     Harding
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 8 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Section               Description
+
+3000              CEMENTING
+
+3000/GEN                Cementing - General
+
+3010/GEN                Cementing - Responsibilities
+
+3020/GEN                Cementing - Pre-Job Checklist
+
+3030/GEN                Cementing - Operations Checklist
+
+3040/GEN                Cementing - Programme Checklist
+
+3050/GEN                Cementing - Cement and Additives
+
+3100/JAK                 30" Cementation Using Stab-In Technique
+
+ 3100/FIX                 30" Cementation - Fixed Installations Run/Drill/Run/Cement
+
+3100/SEM                30" Conductor and Top-Up Cementations
+
+3200/SEM                  20"/18.5/8" Cementation
+
+ 3200/FIX                   20"/18.5/8" Cementation Using Stab-In Technique
+
+ 3210/FIX                   20"/18.5/8" Cementation Using a Casing Pack-Off
+
+3300/GEN                  13.3/8" Cementation
+
+3350/GEN                   9.5/8" Cementation
+
+3450/GEN                 7" Liner Cementation and Clean-Out
+
+3500/GEN                   5"/4.1/2" Liner Cementation and Clean-Out
+
+3550/GEN                  Liner Pressure Testing
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 8 ]
+────────────────────────────────────────────
+               UK Operations
+
+                GUIDELINES FOR
+
+             DRILLING OPERATIONS
+
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+
+3560/GEN                  Liner Drawdown Testing
+
+3600/GEN               Cement Plugs
+
+3610/GEN               Parabow Cementing Tool
+
+3650/GEN                Squeeze Cementing
+
+3750/GEN                 Losses During Cementation
+
+3780/GEN               Cement Contaminated Oil Based Mud
+
+3800/GEN                  Evaluation of Primary Cementing
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 8 ]
+────────────────────────────────────────────
+               UK Operations
+
+                GUIDELINES FOR
+
+             DRILLING OPERATIONS
+
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+
+3100/AME                 30"/27" Conductor Cementation
+
+3200/AME                20" Cementation Using Stab-In Technique - Amethyst
+
+3200/WYF                 18.5/8" Cementation Using an Inner String Method - Wytch
+                    Farm
+
+3300/AME                  13.3/8" Cementation - Amethyst
+
+3310/WYF                 13.3/8" Cementation Using an Inner String Method - Wytch
+                    Farm
+
+3350/AME                  9.5/8" Cementation - Amethyst
+
+3350/WYF                 9.5/8" Two Stage Cementation - Wytch Farm
+
+3450/AME                7" Liner Cementation and Clean-Out - Amethyst
+
+3500/AME                  4.1/2" Liner Cementation and Clean-Out - Amethyst
+
+3500/WYF                 5.1/2" Liner Cementation and Displacement of Liner and
+                            9.5/8"  - Wytch Farm
+
+3510/WYF               Liner Cement Cleanout - Wytch Farm
+
+3520/WYF                Post Perforation Cleanout - Wytch Farm
+
+
+NOTE: Sections highlighted in bold are those sections which have been modified (or inserted
+          for the first time) in the most recent amendment to this Guidelines for Drilling
+         Operations. Within each such section, the newly modified parts are identified by the
+        bold black marker line on the right side of the text. A brief resume of the changes is
+        provided at the end of this MST section.
+
+         Sections underlined are those items which are available within this version of Acrobat.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 8 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3000/GEN
+
+                                                                  Rev.         :  2 (8/91)
+      DRILLING MANUAL     Page        :  1 of 4
+
+SUBJECT:  CEMENTING: GENERAL
+
+1.1    The following cementing section provides details of cements, additives, slurry designs and cementing
+       procedures.  Particular attention should be paid to the section on responsibilities and to the handling
+      and packaging of materials for testing.
+
+      The Drilling Supervisor/Engineer should consult the cementing flowchart, page 4. The flowchart will
+        assist the planning and successful execution of the cement job.
+
+            It is standard practice to use a cementing kelly for all SSR jobs.  This assists in handling the surface
+       equipment and allows the casing running tool to be backed out with the rotary.
+
+1.2    Planning
+
+      The success of a cement job will be dependent upon the Drilling Representatives supervision of 3 main
+       areas:
+
+        a)  Inspection and testing of equipment.
+        b)  Calculations.
+        c)  Pre-planning of contingency operations.
+
+      These are outlined in Section 3010/GEN.
+
+      Sending in correctly packaged and labelled samples of cement, mix water and additives for testing well
+         in advance of the cement job is crucial to the success of the operation (see Section 3040/GEN).
+
+1.3    Calculations/Bulk Volumes
+
+      By tradition all cement slurry calculations are referenced to the unit 1 sack of cement. This unit is 94 lb
+        of cement and 1 cubic foot of packed volume. However, when aereated in a bulk system the average
+       density is usually found to be +/- 75 lb/cu  ft.  Silo contents are usually derived from volume
+      measurements and as such should be equated to the lower density figure to calculate the number of
+       sacks available.
+
+1.4   Cement Excesses
+
+       For casing cementations,  it is normal in most circumstances to use an excess on top of the caliper
+       volume.
+
+       For liner cementations, it is normal to use 30% excess on the caliper volume with (in some cases) an
+        extra 10 bbl or 100 - 150m liner lap volume.
+
+1.5    Blended Cements
+
+      The blended cements commonly used are Class G cement mixed with 35% BWOC of silica flour and
+       Class G cement with 8% BWOC bentonite.
+
+      The bulk density of silica flour is 70 lb/cu ft.
+
+      1 sack of cement is equivalent to   94 lb  = 1 cu ft
+     35% silica                     33 lb  =  0.47 cu ft
+
+       Nett bulk density is 86.4 lb/cu ft for the blend.
+
+      The bulk density of bentonite is 60 lb/cu ft.
+
+      1 sack of cement is equivalent to   94 lb  = 1 cu ft
+     8% bentonite                       7.5 lb =  0.13 cu ft
+
+       Nett bulk density is 89.8 lb/cu ft for the blend.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 8 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3000/GEN
+
+                                                                  Rev.         :  2 (8/91)
+      DRILLING MANUAL     Page        :  2 of 4
+
+SUBJECT:  CEMENTING: GENERAL
+
+      Notes:
+
+      AeratedbulkdensityofcementandblendsislessthantheNettbulkdensity.
+
+    A bulk tank will start venting at 80% of tank volume. Aerated bulk density is therefore approximately
+    80%ofnettbulkdensity. Forexample,usingG+35%silicaflour,
+
+       Aeratedbulkdensity=0.8x86.4=69lb/cuft.
+
+      Usinganotherexample,a1000cuftsilowillonlytake800sksofneatG(800cuftwiththeairoff).
+
+      For slurry calculations all concentrations (gallons/sk) and yield figures refer only to the cement in the
+       blend.
+
+     Soifwerequire750cuftofslurryhavingayield1.48cuft/skthenwerequired507sacksofcement.
+
+      For a blend of cement plus silica flour 507 sacks cement is contained in 507 x 1.47 = 745 cu ft of blend
+       (atabulkdensityof86.4lb/cuft).
+
+       Correcting for the effect of aereation the required silo capacity for the above case would thus be +/-
+     930cuft.
+
+1.6    Standard Casing Volumes and Dimensions
+
+       Refer to Section 2800/GEN.
+
+1.7   Cement Additives
+
+      Cement additives are almost without exception used in a liquid form and metered into the slurry mix via
+       the liquid additive system on the cement unit, the concentration (gallons per sack) being converted into
+        gallons per (10 bbl) displacement tank of mix water.
+
+      Note:
+     Thecapacityofmostcementunitdisplacementtanksisgreaterthan10bbl. Thetruevolumeshouldbe
+      checkedpriortothefirstfilltoavoiddilutionofliquidadditives.
+
+        Allcementadditivestobeusedinaforthcomingcementingoperationmustbephysicallycheckedusing
+    ahydrometer.
+
+      To prepare the mixwater in the case of prehydrated bentonite, prehydrate all the bentonite in a volume
+        of freshwater equivalent to half the total mixwater volume, then after hydration (up to 4 hours) top up
+        with seawater to the total volume.
+
+       Mixwater and additive volumes will be included in the cementing telex to the rig.
+
+1.8   Cement Tests
+
+      The following cement tests are normally performed and results reported in the cement telex.
+
+        a)  Thickening time (70 bcs and 100 bcs).
+        b)  Operating free water (ml).
+        c)  Compressive strength (8 hrs and 24 hrs in PSI).
+        d)  Rheology (Fann).
+        e)  API fluid loss (ml/30 min).
+
+        Total mix fluid requirement (gal/sk) and slurry yield (cu ft/sk) are also reported.  Further tests may be
+       performed to investigate gellation tendencies.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 8 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3000/GEN
+
+                                                                  Rev.         :  2 (8/91)
+      DRILLING MANUAL     Page        :  3 of 4
+
+SUBJECT:  CEMENTING: GENERAL
+
+1.9   Subsea Release Cementing System
+
+      Ensure an SSR top plug only is used. This should be shear pinned to the SSR mandrel to give a shear
+       out pressure of +/- 1850 psi (for 13 3/8” and 9 5/8” size).
+
+       Place a kelly cock below the dart release assembly at the rig floor and test the whole assembly
+        including the cement line to 1000 psi above plug bump pressure.
+
+      Check that the wiper plug is properly shear pinned and that a dart has been correctly loaded and is the
+        correct size for the drill pipe in use. Ensure that the DP landing string has been drifted to the correct
+       diameter for the dart.
+
+      The sequence of events when cementing with SSR equipment is as follows:
+
+        a)  Pump spacer.
+
+        b)  Mix and pump the required volume of cement slurry.
+
+        c)  With the cement line to the rig floor full of cement, release the pump down dart.
+
+        d)  Pump 2-3 bbl of water (or base oil  if OBM is being used) to clear the cementing line of cement,
+            followed by the required volume of mud to latch the dart into the SSR wiper plug. This should be
+          done at 4-6 BPM to avoid bypassing the dart.
+
+        e)  Observe the wiper plug shear, change lines at the rig floor and continue the displacement with the
+               rig pump.
+
+      The complete cementing operation, including wiper plug shear, is to be, recorded on an ancillary
+       pressure recorder.
+
+1.10   Surface Release Cementing System
+
+       For cementations on fixed installations and on semi-submersibles using full bore wellhead running
+       equipment, a top and bottom cement plug is to be installed.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 8 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  3000/GEN
+
+                                                                  Rev.         :  2 (8/91)
+      DRILLING MANUAL     Page        :  4 of 4
+
+SUBJECT:  CEMENTING: GENERAL
+
+
+
+                                                                              DRILLING MANUAL
+     PLANNING                                                           SECTION
+
+               Ensure all Team Members are aware/                                     3010
+                  understand their responsibilities
+
+
+
+
+
+                   Complete Pre-Job Checklist                                         3020
+
+
+
+
+
+                 Complete Programme Checklist                                       3040
+
+
+
+
+                  Complete Planning Sections in                                     3100 - 3650
+                  Manual for relevant Job Type
+
+
+
+
+     OPERATION                                                                                             Drilling
+                                                               Programme
+
+                     Follow detailed instructions                       Operations                                                                                         3030
+                    issued by Drilling Supervisor                         Checklist
+
+                                                                          Relevant Job                                                                                      3100 - 3650                                                                             Section
+
+
+     EVALUATION                                                                Drilling
+                                                               Programme
+
+                     Follow detailed instructions                       Relevant Job      3100 - 3650
+                    issued by Drilling Supervisor                         Section
+
+                                                                       Primary Cement                                                                                         3800                                                                              Evaluation
+
+

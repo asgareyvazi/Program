@@ -1,0 +1,171 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 3 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/SEM
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  1 of 3
+
+SUBJECT: SUBSEA BOP TESTING - GENERAL
+
+1.    GENERAL
+
+1.1    Refer to the BPX General Drilling Policy Document.
+
+1.2     All wellhead BOP’s, valves, failsafes and risers shall be pressure tested from the direction they would
+      be exposed to well pressure.
+
+1.3    Each rig is required to have a detailed pressure testing procedure which complies with BPPD Standard
+        Health, Safety and Environment Regulations.
+
+1.4   No personnel are to be in the vicinity of pressure testing operations or equipment.  Notices should be
+       posted and an announcement made on the public address system to warn all personnel of the test.
+
+1.5   When test plugs are landed off in the wellhead, confirm the hang-off depth before commencing the test.
+
+1.6    Record the volume of fluid pumped for each test, the closing/opening times of all functions and
+       accumulator volume pumped for all BOP functions.
+
+1.7     After a BOP test is complete, function test the remote operating panel(s). Do not allow preventers to
+       close fully.
+
+1.8     After each BOP test all rams are to be opened and the valves on the standpipe manifold and choke
+       manifold set in the required positions for the next operation.
+
+1.9    The Drilling Supervisor will witness the integrity of the tests and operation of all equipment.
+
+2.    TEST PRESSURES
+
+2.1     All well control equipment, except annular BOP’s and blind/shear rams is to be pressure tested to the
+       lowest of the following criteria:
+
+        a)  Maximum anticipated wellhead pressure, based on the casing design data included in the drilling
+          programme.
+
+        b)  80% of casing burst pressure.
+
+        c)  Wellhead rated working pressure.
+
+        d)  BOP rated working pressure.
+
+      N.B.
+      Equipmentnotindirectcontactwiththewellmaybetestedtoitsratedworkingpressureifrequired.
+
+2.2    The annular preventer must only be closed when pipe is in the hole and must never be tested to more
+       than 70% of the manufacturer’s rated working pressure during routine testing.
+
+2.3    Blind/shear rams need only be pressure tested during casing pressure tests after installation of the
+     BOP stack on the wellhead.
+
+2.4       If a retrievable packer is set to test the BOP’s, the test pressure must not exceed 80% of casing burst
+       pressure.
+
+3.    FREQUENCY AND TEST DURATIONS
+
+3.1    The BOP test frequency will be:
+
+        a)   Prior to installation of the BOP stack, on the test stump.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 3 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/SEM
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  2 of 3
+
+SUBJECT: SUBSEA BOP TESTING - GENERAL
+
+        b)   After installation of the BOP stack on the wellhead.
+
+        c)  Every 14 days thereafter.
+
+        d)  Following any BOP repair.
+
+3.2    Each test shall consist of two parts:
+
+        a)  A 5 minute, 300 psi low pressure test.
+
+        b)  A 10 minute, rated pressure test.
+
+4.    TEST PROCEDURES
+
+4.1   Where possible all tests are to be done with clean water. When displacing BOP and manifolds from
+     mud to water, the minimum amounts must be used to minimise contamination and losses.
+
+4.2    Before filling the stack with water or installing pipe through rams, perform a full function test. (Do not
+       allow rams or annular to close fully.)
+
+4.3    Before the test can begin, the test line must be pressure tested to the highest planned pressure of the
+     BOP test.
+
+4.4   When testing with plug type testers, any valves or kelly cocks run below test plugs must previously have
+      been tested and run closed.
+
+4.5    Whenever possible, routine testing is to be carried out with tools in the casing, and not when out of the
+        hole.
+
+4.6   Once the BOP is landed and latched, conduct an overpull test to 30,000 lbs.  Using the test plug,
+       pressure test the connector and one set of 5” pipe rams to the maximum test pressure that will be
+       experienced by that connector during all subsequent operations. This pressure will be specified in the
+       data sheet for the well in question.
+
+      Note:
+
+      a)  Untiltheintegrityoftheconnectorsealisestablished,pressuretestingvolumesshouldbekepttoa
+         minimumtoreducetheriskofwashingoutBOP/wellheadconnectors.
+
+      b) TheconnectorshouldbemonitoredusingtheROV/SSTVduringtheinitialinstallationtest. Ifaleak
+          isdetectedpumpingmustceaseimmediately.
+
+4.7   Once the BOP stack is landed and the connector seal confirmed, a full stack test will be performed.
+
+4.8   When various ram sizes are installed, only the rams that may be required in the current hole section
+      need to be pressure tested during routine tests.
+
+4.9   When operations permit all rams should be function tested in rotation and the operating volumes
+       recorded.
+
+4.10  When performing fortnightly routine BOP tests, the control pods must be alternated with each test.
+
+4.11   Test pressures are to be built-up in increments and stabilised at each stage prior to reaching the
+       required test pressure.
+
+      Note:
+     TheBOPmustbeobservedwiththeROV/SSTVandthetestpluglandingstringfilledandmonitoredfor
+       leaks.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 3 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0420/SEM
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  3 of 3
+
+SUBJECT: SUBSEA BOP TESTING - GENERAL
+
+4.12    All high pressure connections associated with the well control equipment are to be pressure tested
+      upon the installation or re-installation of each connection.
+
+4.13    All test pressures will be specified on the data sheets.
+
+5.    TEST EQUIPMENT
+
+5.1    Refer to manufacturers’ specifications for BOP operating pressures.
+
+5.2   Two separate gauges, showing the test pressure, must be visible from the test pump to prevent
+       overpressuring due to gauge failure or inaccuracy.
+
+5.3    The condition of all sealing faces of BOP test plugs must be checked before and after they are run.
+
+5.4    Ensure all drillpipe used for testing is in good condition, smooth and is of the correct weight and grade
+        to take the pressure testing loads.
+
+5.5     All temporary high pressure lines must be fitted with cross coupling restraints.
+
+

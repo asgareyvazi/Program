@@ -1,0 +1,433 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6430/SEM
+
+                                                                  Rev.         :  0 (9/92)
+      DRILLING MANUAL     Page        :  1 of 7
+
+SUBJECT: CASING MILLING AND UNDERREAMING FOR OPEN HOLE GRAVEL PACK
+
+1.    INTRODUCTION
+
+       Casing Section milling operations are comprehensively discussed in Section 6420/GEN of the Drilling
+       Manual. This section gives additional guidance on section milling and underreaming operations from a
+       Semi-Submersible required to open a section of casing in order to complete an open hole Gravel Pack
+       Operation.  It should be read in conjunction with the Section 6420/GEN and 6300/GEN.
+
+        Milling and underreaming operations for an open hole gravel pack have been carried out on the Sea
+       Explorer in 1992 as follows:
+
+      Donan Well 15/20a-6RE   14m of 29 lb/ft L80 VAM liner at 51 degrees deviation
+
+      The lessons learnt and the techniques followed during this operation are recorded for future use.
+
+      The major operational differences between the Gravel Pack operation and conventional milling
+       operations are:
+
+        1.  Accuracy of milled section. The milled section required for gravel pack operations is equivalent to
+            the perforated interval required on conventional wells, therefore similar accuracies to ensure the
+            milled section is on depth are needed.
+
+        2.  The required interval for carrying out a gravel pack operation will not always coincide with the
+          optimum location for section milling operations. The section milling operation may therefore involve
+             additional risks that would be avoided on normal section milling jobs.
+
+        3.  Rig Movement.  Operations must take account of the rig movement when milling from a Semi-
+           Submersible Unit.  This is especially relevant in highly deviated wells. The combination of high
+           drags and rig heave can seriously hamper depth control and the overall success of the milling and
+          underreaming operation.
+
+        4.   Solids Contamination of the System. The milled section is required to be used for Gravel Pack
+           Operations, consequently all operations required to achieve this must be planned to minimise any
+            formation damage.
+
+        5.  The section to be milled will generally be across a hydrocarbon bearing reservoir.  Although well
+             control measures should be considered in all section milling operations, they become more critical
+              in the reservoir section.
+
+        6.  The section to be drilled will generally have a small ID, requiring small, fragile tools, which are very
+            sensitive to applied loads.
+
+2.    SELECTION OF INTERVAL
+
+      The interval to be milled is dependent on the required Gravel Pack Interval as determined by
+       Petroleum/Reservoir Engineering considerations, however at the planning stage  it is critical to assess
+       the additional risks of milling the desired section, i.e:
+
+        1.  Condition of cement behind casing. Consult CBL/VDL and CET logs to determine the condition of
+          cement behind the casing.  It is unlikely that the Petroleum/Reservoir Engineering requirements for
+          zone isolation would be satisfied  if the cement bond was poor, however poorly cemented casing
+                will result in possible milling difficulties due to lateral play of the cut casing.
+
+        2.  Consult the casing tally to determine the position of casing collars and cementing jewellery behind
+            the casing.  If the selected interval starts immediately below a casing collar, there is additional risk
+             of the casing stub backing out and dropping onto the cutting assembly.  In well cemented casing,
+            the milled section has been successfully milled from 3m below a casing collar.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6430/SEM
+
+                                                                  Rev.         :  0 (9/92)
+      DRILLING MANUAL     Page        :  2 of 7
+
+SUBJECT: CASING MILLING AND UNDERREAMING FOR OPEN HOLE GRAVEL PACK
+
+        3.    It is not necessary to mill a large safety margin above the milled window. Both the section milling
+             tool and underreamer will be referenced to the same depth and should be successfully open within
+          0.3m of the required depth. The underreaming operation should be designed to start about 0.5
+          below the top of the milled window.
+
+        4.  Avoid milling and subsequently underreaming mudstone sections at the top and bottom of the
+             interval as this will incorporate unwanted drilled solids into the fluid system which may result in
+            formation damage.
+
+        5.    If the section to be gravel packed has been identified prior to running casing/liner, Bakerlock the
+           casing joints at the top of the window. Ensure the casing is well centralised immediately above and
+          below the section to be cut but minimise the use of bowspring centralisers and stop collars in the
+            section to be cut.  All cementing jewellery across the section should be selected to minimise the
+             possibility of rotating when being milled.  Ensure a Radioactive marker is run in the casing
+           approximately 60m above the top of the interval.
+
+3.    PREPARATION
+
+        1.  The interval to be milled and underreamed should be agreed with Petroleum/Reservoir Engineering
+          and the Asset Group and should be referenced to a specific Log.
+
+        2.  A good copy of the CBL/VDL/GR showing the RA marker, interval to be cut and the top of the liner
+        PBR should be available on the rig. EnsurethatthislogisondepthwiththeReferenceLog.
+
+        4.  The top of the liner PBR should have been dressed off to ensure that there is no cement above the
+            top of the PBR as this will be the reference depth where the cutting assembly will land off.
+
+4.    SWARF REMOVAL AND HANDLING
+
+        1.  The initial cut should be made in a separate run using a casing cutter and marine swivel assembly
+              in order to compensate for the effects of heave. The distance from the PBR to the casing cut
+           should be accurately determined from the CBL/VDL log. A casing cutter will be used to make the
+                initial cut in order to give at least a 4 inch cut to ensure that the following section mill run will
+             positively locate in the cut section. Use of a section mill to make the initial cut would result in a
+            smaller cut being made and may result in difficulty locating the cut section, especially if the well is
+            highly deviated.
+
+        2.  Recommended general assembly:
+
+           For cutting 7" liner:
+
+            6" (for 29 lb/ft casing) Taper Mill with stabilised section
+          5 9/16" Pipe Cutter c/w 11 1/2" opening knives
+            6" stabiliser (for 29 lb/ft casing)
+          1 stand 3 1/2" drillpipe
+          3 1/2" IF RA marker sub
+          3 1/2" Drillpipe and pup joints
+          8 1/4" OD Marine Swivel
+          1 x HWDP
+        DS
+          14 x HWDP
+            5" DP to surface
+
+         The length of 3 1/2" drillpipe and pup joints should be chosen so that the cutter knives are on depth
+            with the Marine Swivel landed on the PBR. Ensure a good selection of different length pup joints is
+            available on the rig.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6430/SEM
+
+                                                                  Rev.         :  0 (9/92)
+      DRILLING MANUAL     Page        :  3 of 7
+
+SUBJECT: CASING MILLING AND UNDERREAMING FOR OPEN HOLE GRAVEL PACK
+
+           For cutting full string 7" casing:
+
+         The appropriate Marine Swivel to land in the wellhead should be used. 3 1/2" pup joints should be
+           placed at the top of the string to allow them to be changed out if the string is pulled back to adjust
+            the spaceout. Due to stretch in the string and the effect of torque and pumping forces shortening
+            the string, this spaceout will not be as accurate as when the Marine Swivel is landing on the liner
+             top.
+
+         The length of knives used should be long enough to produce a minimum 4" high cut in the casing
+             to enable the section mill to locate positively in the cut.
+
+              All tubulars between the casing cutter and the RA Marker sub should be measured and tallied
+           independently by the Drilling Contractor and the BP Rep/DE to ensure that the critical spaceout is
+             correct. Steel line strap the string from the casing cutter to the Marine Swivel.
+
+               Drift the string to ensure GR/CCL tool will pas through string to top of cutter.
+
+          There is a danger of connections below the section mill working loose with consequent loss of part
+             of the pilot assembly. Lock up type connections should be used if available, otherwise connections
+           should be made up "dry".
+
+        3.  Function test the operation of the cutter on surface prior to running. Wedge or tape the knives back
+              in place. Do not break circulation when running in the hole as the knives are likely to open,
+            preventing the string from entering the PBR.
+
+        4.  Record up/down/rotating weights prior to landing the Marine Swivel. 40 ft bails should be rigged up
+              for wireline logging before landing.
+
+        5.  Rotate the string slowly and land off the Marine Swivel on the PBR. Slack off 10,000 lbs.
+
+        6.  Rig up electric wireline through drillstring. Run GR/CCL log to confirm depth of casing cutter.
+          Ensure the wireline is compensated relative to the string.   If the casing cutter is not on depth, the
+             string will have to be pulled back to below the Marine Swivel and the spaceout adjusted using pup
+              joints.
+
+        7.  Rig down the wireline and 40 ft bails and make up top drive/kelly.
+
+        8.  Rotate the string slowly and re-land the Marine Swivel with 6-8000 lbs. The response of motion
+          compensators with low applied weight is often poor.   If the rig heave dictates, slack off additional
+           weight on the Marine Swivel, within its operating limits, to ensure the swivel does not bounce
+            during the cutting operation, leading to failure of the knives.  Slack off weight should not exceed
+           15,000 lbs.
+
+        9.  Make the cut as per Section 6300/GEN.
+
+5.    SECTION MILLING OPERATION
+
+       Section milling operation should be carried out in accordance with Section 6420/GEN.
+
+        1.  Recommended General Assembly:
+
+           For Section Milling 7" Liner
+
+            6" Taper Mill (for 29 lb/ft 7" liner)
+          5 1/2" Section Mill
+            Jetted Top Sub
+         X/O as required
+          1 x 4 3/4" DC
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6430/SEM
+
+                                                                  Rev.         :  0 (9/92)
+      DRILLING MANUAL     Page        :  4 of 7
+
+SUBJECT: CASING MILLING AND UNDERREAMING FOR OPEN HOLE GRAVEL PACK
+
+        RA Marker Sub
+          8 x 4 3/4" DCs
+            Jar
+          2 x 4 3/4" DCs
+          3 1/2" DP
+            5" DP
+
+         The use of a circulating sub (preferably a re-cockable sub, as supplied by PBL) is strongly
+          recommended, to allow a high rate clean-up above the PBR, and the break up of birdsnests.
+
+         The jetted top sub is run to increase the circulating rate to improve hole cleaning whilst ensuring
+              sufficient differential pressure is applied across the section milling tool for it to operate.  Sizing of
+            the jets should be carried out in conjunction with the Section Milling Service Company, based on
+            the recommended flowrate required to keep the hole clean.  Ensure the top sub is jetted to the
+         minimum acceptable size, and that at least 30% of the flow is directed through the section mill tool,
+           otherwise there may be insufficient hydraulic horsepower available to keep the cutters open, and
+               tell-tale pressure drops will be less evident.
+
+        A dart sub should be run in the string.
+
+        2.  The cutting structure of the Servo "Millmaster" has a proven track record in producing small metal
+            chippings; this is essential for good hole cleaning.
+
+        3.   After section milling the required interval, perform a cleanout trip to remove any cuttings and swarf
+             in the milled section. Use a taper mill/string mill assembly. A PBR dressing mill should be
+            available on the rig to clean up the top of the liner.  Whilst running in hole, break circulation and
+             circulate regularly to prevent running into swarf and packing off.
+
+        Drilling Fluid Requirements
+
+        1.  Section milling fluid systems are discussed in Section 6420/GEN. Ensure that any filtrate invasion
+           from the selected fluid will be non-damaging to the reservoir.
+
+        2.  The combination of high YP (50-70) required for hole cleaning and swarf removal, the small
+           annular clearance between the section mill assembly and the selection of the section mill fluid
+          bypass area will result in a considerable swab and surge pressure being generated when moving
+           the assembly.  There is also the possibility of swarf birdsnests forming which will also create
+          swabbing problems.
+
+                   It is critical that swab and surge calculations are performed in the planning stage when specifying
+            the density of the milling fluid.  Sufficient trip margin must be allowed for. The normal 200 psi
+               drilling overbalance will not be sufficient in many cases. Trip speeds must be restricted to ensure a
+           safe overbalance is maintained.
+
+        3.  High mud YPs may also result in oil or gas entrainment in the mud which will be difficult to remove.
+         The mud should be routed through the degasser to remove the gas, however progressive
+             circulations may not bring the gas levels down quickly.
+
+        4.  Fine milled cuttings may be produced during the section milling operation which will increase
+            formation damage. Returns should be routed through the mud cleaner to maximise removal of all
+              drilled/milled solids. Ensure ditch magnets are located in the returns trough throughout the milling
+          and underreaming operations.
+
+        5.  When section milling 7" liner or casing, due to the low circulating rates and annular velocity, it will
+          be necessary to circulate the riser clean using a riser boost line or through the kill or choke line.
+           This will help in the prevention of a birdsnest forming in the riser.
+
+        6.  The milling fluid should be displaced to a non-damaging underreaming fluid during the cleanout trip
+             at the end of milling operations. The mud pits and entire surface circulating and mixing system
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6430/SEM
+
+                                                                  Rev.         :  0 (9/92)
+      DRILLING MANUAL     Page        :  5 of 7
+
+SUBJECT: CASING MILLING AND UNDERREAMING FOR OPEN HOLE GRAVEL PACK
+
+           should be thoroughly cleaned and flushed to remove all solids contamination that may result in
+            formation damage. The Fluids policy should identify all measures to be taken to clean the mud
+          system and displace to the underreaming fluid.
+
+        7.  Operate BOP rams during flushing process to remove swarf from cavities.
+
+6.    UNDERREAMING OPERATION
+
+        In order to underream the gravel pack zone to the required hole diameter, a 3 bladed drag type
+      underreamer will be required.  Cutters should be selected to be able to cut and remove any steel
+       remaining in the interval without destruction of the blades, i.e. Smith tungsten "Millmaster" cutters with
+      diamond enhanced gauge protection.
+
+      The cutter opening diameter will be dependent upon the gravel packing requirements. The 5 7/8"
+       Servco underreamer provides a maximum cut of 14". This maximum cut should be avoided due to the
+        additional stresses on the blades when underreaming in the presence of junk, and in unstabilised over
+      gauge hole.  Over stressing of the blades may lead to a failure of the body or blades.  Select the
+      minimum blade size required to satisfy the gravel pack criteria.
+
+     A full NDT inspection of the Drag type underreamer high stress areas should be carried out before
+       shipping to the rig.  This should include the internal areas at the reduced cross section of the blade
+        retaining pins.
+
+        Full material traceability of the underreamer is required.  It is recommended for work in small diameter
+        holes, that the tool is especially manufactured from a high strength alloy  (if time allows).  Particular
+        attention should be paid to Charpy notch toughness values.
+
+        1.  Recommended General Assembly:
+
+           For 7" liner
+
+          5 3/4" drag type underreamer
+              Bit Sub
+           Short DC
+            6" String Stab
+           Short DC
+            6" String Stab
+          1 x 4 3/4" DC
+            6" String Stab
+          1 x 4 3/4" DC
+        RA Marker Sub
+          11 x 4 3/4" DC
+            Jar
+          2 x 4 3/4" DC
+          3 1/2" DP
+         X/O
+          8 1/2" Soft Bladed Stab
+          1 x HWDP
+        DS 2 x HWDP
+            5" DP to surface
+
+         The 8 1/2" stabiliser is run to correlate the depth relative to the top of the PBR.  It should be spaced
+            out to tag the top of the PBR when the underreamer is approximately 20m below the bottom of the
+          underreamed section. This will allow the string to be worked below the cut section if required.  If a
+                 full string of casing has been run, then the stabiliser will not be run.  Correlation will have to be
+         made with a GR/CCL logging tool using the RA marker subs in the casing and underreaming string.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6430/SEM
+
+                                                                  Rev.         :  0 (9/92)
+      DRILLING MANUAL     Page        :  6 of 7
+
+SUBJECT: CASING MILLING AND UNDERREAMING FOR OPEN HOLE GRAVEL PACK
+
+              All tubulars between the casing cutter and the RA marker sub should be measured and tallied
+           independently by the Drilling Contractor and the BP Rep/DE to ensure that the spaceout is correct.
+            Steel line strap the string from the underreamer to 8 1/2" stabiliser.
+
+               Drift the string to ensure GR/CCL tool will pass through the string to the top of the underreamer.
+
+             In high angle holes, or when the underreamed section is greater than 15m long, a pilot assembly
+          below the underreamer may be necessary to prevent the risk of sidetracking. A taper mill and 6"
+              stabiliser should be used below the underreamer.  There is a danger of connections below the
+          underreamer working loose with consequent loss of part of the pilot assembly. Connections should
+          be made up "dry".
+
+        2.  Function test the operation of the underreamer on surface prior to running.  Ensure the knives
+             retract when the pumps are stopped.  If the underreamer does not have a positive opening system,
+           tape or wedge the knives in the closed position. Do not break circulation when running in the hole
+          as the knives are likely to open preventing the string from entering the PBR.  If the string has to be
+               filled whilst running in the hole, ensure the fluid density is the same as that in the hole. A
+            hydrostatic differential between the string and the annulus may be sufficient to open the knives
+            preventing entry into the PBR.
+
+        3.  Record up/down rotating weights prior to entering the open hole section.
+
+        4.  Rotate the string slowly and tag the PBR with the 8 1/2" stabiliser to give an accurate depth for the
+          underreamer.  Strap out of the hole to put the underreamer at the top of the section to be
+          underreamed. Hold the string in this position until the arms have fully opened. Adjust the pipe tally
+             to ensure the maximum interval can be underreamed prior to making the first connection.
+
+         Note:
+        The response of motion compensators to low applied weight on bit is often poor. Success of the
+           operation relies heavily on maintaining steady operating parameters. The underreaming operation
+          shouldthereforenotbeattemptedinmorethan2-3feetofrigheave.
+
+        5.  Bring up the pumps without string rotation and record the pressure with the underreamer arms in
+            the closed position. Stop the pumps. Start rotating the string. Bring up the pumps smoothly to the
+           pre-recorded rate to start opening the underreamer. Monitor the pump pressure closely to observe
+            the tell-tale pressure drop indicating when the knives have fully opened. Slowly set weight on bit to
+            establish a cutting shelf.
+
+         Note:
+       Do not rely solely on the tell-tale pressure drop to indicate the arms are fully open. The pressure
+         drop may not be very evident, and at the beginning of circulation other factors may cause pressure
+          drops.
+
+        6.  Continue underreaming the interval. As soon as a steady underreaming torque has been
+            established, set the torque limiter to slightly above this level to keep the string rotating.  Monitor
+            closely the torque and progress when approaching milled casing collars, centralisers or other signs
+             of junk.
+
+        7.  At the end of the interval, stop rotating and with pumps on tag the top and bottom of the
+          underreamed interval to confirm the full interval has been cut.
+
+        8.  Perform a cleanout run with a taper mill and string mill assembly to ensure there are no
+            obstructions through the underreamed section.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6430/SEM
+
+                                                                  Rev.         :  0 (9/92)
+      DRILLING MANUAL     Page        :  7 of 7
+
+SUBJECT: CASING MILLING AND UNDERREAMING FOR OPEN HOLE GRAVEL PACK
+
+7.    CONFIRMATION OF UNDERREAMED INTERVAL
+
+        1.  A GR/CCL/CAL log can be run to confirm the hole gauge and section length over the underreamed
+              interval.
+
+        2.  To allow for tide, run a line from the top of the riser to the drill floor. Knot the line, and mark the drill
+            pipe.
+
+                Drill the required interval, and check directly against the position of the knot.
+
+

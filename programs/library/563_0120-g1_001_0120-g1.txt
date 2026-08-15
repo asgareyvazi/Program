@@ -1,0 +1,1130 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 19 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Index Prefixes
+
+ 0000                       Safety and Administration
+
+ 1000                         Drilling
+
+ 2000                      Casing and Tubing
+
+ 3000                     Cementing
+
+ 4000                         Drilling Fluids
+
+ 5000                      Wellheads, Packers, Tools and Equipment
+
+ 6000                      Stuck Pipe and Fishing
+
+ 7000                     Well Evaluation
+
+ 8000                     Marine and Miscellaneous
+
+
+Index Suffixes
+
+MST                     Master Index and User Guide
+GEN                      General
+SEM                      Semi-Submersible Drilling Units
+JAK                     Jack-Up Drilling Units
+ FIX                       Fixed Drilling Units
+FOR                         Forties
+CLY                     Clyde
+BEA                        Beatrice
+MAG                  Magnus
+THI                          Thistle
+MIL                        Miller
+DON                 Don
+BRU                     Bruce
+MAR                   Marnock
+RAV                     Ravenspurn
+AME                    Amethyst
+WYF                  Wytch Farm
+HAR                     Harding
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 19 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Section               Description
+
+0000               SAFETY AND ADMINISTRATION
+
+0120/GEN              H2S (Hydrogen Sulphide) Procedures
+                                 Section A - Wildcat/Exploration Area
+                                  Section B - Known H2S Areas
+                              Appendices
+
+0160/GEN               Use of Explosives in Drilling Operations
+
+0300/GEN                 Daily Reports from Rig
+
+0310/GEN              Weekly Reports from Rig
+
+0320/GEN               General Reports from Rig
+
+0400/GEN                Well Control Procedures
+
+0402/GEN                Well Control in High Angle or Horizontal Wells
+
+0403/GEN                Well Control Whilst Logging
+
+0405/GEN                 Limited Kick Tolerance
+
+0410/GEN                Shallow Gas Procedures
+
+0413/SEM                Shallow Gas Procedures (Deepwater in DP Mode)
+
+0415/GEN               The Effect of Cold Weather on BOP Stacks and Control Lines
+
+ 0420/FIX                   Surface BOP Testing - General
+
+0420/SEM                Subsea BOP Testing - General
+
+0440/JAK                   Pressure Testing 21 ¼” BOP
+
+0441/JAK                   Pressure Testing 13 5/8” BOP
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  1 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+ These procedures have been drawn up to ensure that the working environment of the Company’s operations is
+  effectively controlled.
+
+ This document in no way detracts from the Contractor’s responsibilities in law.
+
+  It is the responsibility of the Drilling Contractors to produce a written plan describing specific procedures to be
+ followed in the event of an H2S escape for each drilling site.
+ In addition to the procedures identified here, further information and procedures are contained in the BP HSE
+ Practices, Number 10.
+
+                                  H2S PROCEDURES
+
+                                       INDEX
+
+                                                                                 Page
+
+ INTRODUCTION.                                                                       4
+
+ SECTION A - WILDCAT/EXPLORATION AREAS.                                             5
+
+ A.1     Equipment.                                                                     5
+
+ A.1.1   Detection Systems.                                                               5
+
+          a)  Fixed Systems.                                                               5
+          b)  Portable Equipment.                                                           6
+           c)  Sensor Testing and Calibration.                                                  6
+          d)  Records.                                                                    6
+          e)  Alternative Detection Methods.                                                   6
+
+ A.1.2   Personal Protection.                                                              7
+
+          a) Type of Equipment.                                                            7
+          b)  Respiratory Protection.                                                         7
+           c)  Safe Briefing Area.                                                            7
+          d)  Additional Equipment.                                                          8
+          e)  Audible Alarm.                                                                8
+
+ A.2    Emergency Procedures and Contingency Plans.                                     8
+
+ A.2.1   General Procedures.                                                              8
+ A.2.2    Specific Procedures.                                                             11
+ A.2.3   Clearance to Safe Conditions.                                                      13
+ A.2.4   Reporting of H2S Incidence.                                                       13
+ A.3     Training.                                                                      14
+
+ A.4    Equipment Checklist.                                                           14
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  2 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+                                    INDEX (cont'd)
+
+                                                                                 Page
+
+ SECTION B - KNOWN H2S AREAS.                                                       15
+ B.1     Equipment.                                                                    15
+
+ B.1.1   Detection Systems.                                                              15
+
+          a)  Fixed Systems.                                                              15
+          b)  Portable H2S Detectors.                                                       16
+           c)  Sensor Testing and Calibration.                                                 16
+          d)  Records.                                                                   16
+          e)  Other Detection Systems.                                                      17
+
+ B.1.2   Contracted Safety Equipment and Personnel.                                          17
+
+          a) Compressor Unit/Units.                                                        17
+          b)  Air Storage Cylinders.                                                         17
+           c)  Self-Contained Compressed Air Breathing Apparatus (CABA).                         17
+          d)  Cascade/Distribution System.                                                   18
+          e)  Portable H2S Detectors.                                                       19
+               f)  Personnel.                                                                  19
+
+ B.1.3   Required Procedures.                                                            19
+ B.1.4   Accommodation.                                                                20
+ B.1.5    Training.                                                                       20
+ B.1.6   General Safety.                                                                 20
+ B.1.7   Communications.                                                                21
+
+ B.2    Emergency Procedures and Contingency Plans.                                     21
+
+ B.2.1   General Procedures.                                                             22
+ B.2.2    Specific Procedures.                                                             25
+
+ B.3     Training.                                                                      31
+
+ B.4    Equipment Checklist.                                                           31
+
+ B.5     Mobile Rig Checklist Guide for Testing H2S Prospects.                               31
+
+
+ APPENDIX 1 - Properties of Hydrogen Sulphide.                                            34
+
+ 1.   Characteristics.                                                                     34
+ 2.   Physiological & Long Term Effects - Table of Concentrations (Table 1).                         35
+ 3.   First Aid.                                                                          35
+
+ APPENDIX 2 - Drilling Fluid and H2S Control.                                               37
+ 1.   Principles.                                                                         37
+ 2.  Monitoring of H2S in Drilling Fluids.                                                     38
+ 3.  Stocking of Materials.                                                                39
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  3 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+                                    INDEX (cont'd)
+
+                                                                                 Page
+
+ APPENDIX 3 - Effects of H2S on Drilling Equipment.                                         40
+ 1.  Sulphide Stress Cracking (SSC).                                                       40
+ 2.  Factors Affecting Failure.                                                             40
+ 3.  Standards Applying to Metals for H2S Situations.                                           40
+ 4.  Metals for Use in H2S Environments.                                                    40
+ 5.   Drilling Components for Use in H2S Environments.                                         41
+ 6.  Precautions Against H2S Corrosion.                                                     41
+
+ APPENDIX 4 - List of Useful Contacts.                                                    45
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  4 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+                                  INTRODUCTION
+
+ Hydrogen Sulphide (H2S) is found in detectable concentrations in oil and gas deposits throughout the World. In
+ the UKCS, there have been relatively small numbers of wells tested which have produced H2S in significant
+ amounts, but reservoirs containing high percentages of H2S have and are being successfully and safely
+ produced in other parts of the World.
+
+ These are not reasons to show any complacency towards H2S, the effect to both human life and equipment, at
+ even low concentrations, can be devastating.
+
+ These procedures are designed for normal drilling and testing activities. The document is divided into two
+ major sections which cover the following areas of operations:
+
+ A.  WILDCAT/EXPLORATION AREAS
+
+      In unexplored areas the occurrence of H2S is a possibility.  Similarly in exploration areas, even though
+     nearby wells would seem to indicate that it does not exist.  It is expected that all drilling rigs engaged in this
+     area will carry the minimum levels of equipment and follow the procedure in this document.
+
+ B. KNOWN H2S AREAS
+    Where the occurrence of H2S is considered a distinct possibility, additional safety equipment will be
+      required.
+
+      This document outlines the extra equipment and stricter procedures that will be necessary.
+
+     These are additional to the minimum levels of equipment and procedures suggested for exploration areas.
+
+     There are included a number of Appendices giving background information on the effects of H2S on
+      personnel, drilling muds and drilling equipment.
+
+    Note:
+
+     There is a possibility of H2S occurring during well servicing operations of existing static wells, which
+      formally showed no indication of the gas.  Sulphur Reducing Bacteria (SRBs) may be present in the
+      reservoir, or may have been introduced during earlier work. These SRBs can produce H2S from sulphur
+      containing compounds present within the reservoir or formation.
+
+     Personnel must always be prepared for the presence of H2S during operations on existing wells and follow
+     procedures laid down in Section A, should it be detected.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  5 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+                                    SECTION A
+
+                           WILDCAT/EXPLORATION AREAS
+
+ This section is intended to cover the minimum equipment, training and procedure levels that will be applied to
+  all mobile rigs being used by BP Petroleum Development Limited in the UKCS area.
+
+ A.1    EQUIPMENT
+
+ A.1.1   Detection Systems
+
+         Both portable H2S gas detectors and a fixed automatic monitoring and alarm system are required,
+         although their accuracy and reliability must first be ascertained particularly in the case of fixed
+          detectors.
+
+        Flammable gas detection systems that may be installed in these areas should not be considered as
+         being suitable for toxicity monitoring of H2S concentrations.
+          a)  Fixed Systems
+
+           The number and location of sensors should be sufficient to cover expected areas of accumulation
+           and must be tested for their accuracy and reliability.
+
+           The sensors should be collectively monitored at a central point, in a safe area. For example, the
+          Mud Logging unit or rig control room.
+
+           The system should be arranged to provide continuous monitoring of those parts of the installation
+                listed below.
+
+            BellNipple       This is the best location for early warning, but may not be practicable.  In this
+                            case the sensor should be as close as possible.
+
+           ShaleShakers/HeaderBox
+
+        MudPitArea    Return and suction pits.
+
+              DrillFloor      Two sensors.
+
+                       If possible, the system should have at least two spare channels to allow extra sensors to be fitted
+            as required, e.g. on the trip tank.
+
+             Additionally and depending on rig design and positioning of living quarters’ air intakes,
+              consideration should be given to installing H2S sensors at the air intakes.
+             Since H2S is heavier than air, sensors must be as close to floor level or mud level as practicable.
+           The system should be set to detect H2S at any individual sensor at 10 ppm. This should sound an
+             alarm and register an alarm at the central monitoring point and at the remote alarm stations.
+
+           Remote alarms, giving both visual and audible alarm on detection of the preset limit of H2S, should
+           be placed at the following positions:
+
+                   -   Drillers console.
+                   -   Control room.
+                   -  Mud logging unit.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  6 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+          b)  Portable Equipment
+
+               In addition to the fixed automatic H2S detection system, portable detectors, both electronic and
+            manual, should be available.
+
+             Portable Continuous Monitor (Electronic)
+
+           The instrument provided should be continuous and automatic in operation, tamper proof and
+               suitable for use by non-technical personnel. The instrument should give a clear audible and visual
+             alarm in the presence of H2S concentrations at or above 10 ppm.  Additionally the unit should be
+               suitable for hazardous areas, of robust construction, easily handled in one man operation, integral
+            power supply and internal function testing.
+
+              Typical models are:
+
+                   -  Compur 4100.
+                   -  TAC Model 701.
+
+          Two detectors should be provided, one in the toolpushers/OIM’s office and one in the control
+            room.
+
+          H2S Detector Tubes (Manual)
+          H2S detector tubes should meet the current British Standard BS 5343 (1976) Gas Detector Tubes.
+           The detector should be accurate and simple to operate.   It should incorporate a hand-operated
+              aspirating pump and colour indication tube graduated directly in ppm H2S.
+             At least one detector set should be provided and normally kept in the contractor toolpusher/OIM’s
+                office.
+
+         A minimum of 6 tubes are to be kept with the detector at all times.
+
+         A minimum stock of 50 tubes, range 0 - 60 ppm, of H2S should be maintained on board in a cool
+             place below 68°F.
+
+           c)  Sensor Testing and Calibration (Fixed and Portable)
+
+                 All H2S detection systems and equipment should be tested and calibrated, in accordance with
+             manufacturer’s instruction manuals, on installation and weekly thereafter or as often as necessary
+            depending on the reliability of the detectors. Tests should be a functional simulation to test both
+            accuracy and operational efficiency of the system and equipment.  Detector tubes should be
+            checked that they are not out of date, and are suitable for H2S.  This will be the responsibility of
+              the OIM.
+
+          d)  Records
+
+                 All testing and calibration results should be recorded. These records should be available for
+              inspection at all times.
+
+          e)  Alternative Detection Methods
+
+             Smell
+
+          Sense of smell is not a reliable method of detecting H2S (see Appendix 1).   If any crew
+          member believes that they can smell H2S, they should immediately inform the Contractor
+             toolpusher/OIM. He will then arrange for the area to be investigated using Draeger tubes, or
+               similar devices.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  7 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+          Mud Analysis
+
+           By analysis of the drilling mud, either by using a Garrett gas train on routine inspections or a Mud
+           Duck for continuous monitoring, it is possible to determine the level of sulphides in the mud. From
+                this it is possible to infer the amount of H2S in solution in the mud. Variations in the sulphide level
+                  will be significant. See also the section on mud systems.
+
+ A.1.2   Personal Protection
+
+        The provision of breathing apparatus and its location on the rig is based upon the following premises.
+
+        Any release of H2S will be detected sufficiently early for BA equipment to be worn.
+           In the event of a substantial release of H2S, the rig will shut down operations and make the well safe.
+        The number of sets is based on the minimum number of personnel to make the well safe.
+
+          a) Type of Equipment
+
+               In view of the highly toxic nature of H2S,  it is recommended that only BA equipment with a
+              protection rating of 2000, as defined by BS 4275 : 1974, should be used. Such BA equipment
+             should be designed to BS 4667 Part 2 : 1974, or similar standards.
+
+          b)  Respiratory Protection
+
+                 All installations will have at least twelve sets of self-contained BA to the appropriate standard.
+           These sets should have sufficient spare cylinders to allow at least one hour of continuous hard
+             work. This would be two spare bottles for each 1200LBA set, this means a minimum of 36 bottles
+                in total.
+
+           The sets should be positioned, as far as possible, as follows:
+
+          RigFloor/Doghouse/Derrick
+           6 sets (Driller, Asst. Driller, 3 x Floormen, Derrickman)
+
+         Mudroom
+           1 set (Derrickman/Mud Watcher)
+
+           ToolpushersOffice
+           3 sets (Toolpusher, BP Representative, Mud Engineer)
+
+           ControlRoom
+           1 set (Spare/Monitor)
+
+        MudLoggingUnit
+           1 set (Mud Logger)
+
+             Consideration should also be given to providing a further six sets, three at each of the outdoor
+            Safe Briefing Areas (see definition below).
+
+               Additionally, 10 minute escape BA sets should be available in the derrick, mud pit area and
+            depending on risk, the shaker area.
+
+         BA equipment will be checked regularly in accordance with manufacturer’s recommendations and
+           a record kept of all inspections. This is the responsibility of the OIM.
+
+           c)  Safe Briefing Area
+
+               In general, it is the responsibility of the OIM to define three safe briefing areas onboard the rig.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  8 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+          Two of these safe briefing areas will be in the open air on opposite sides of the rig so that at least
+           one will be upwind of any incident. These areas will be used to muster essential personnel. In the
+             event of an incident, a tannoy message will designate which safe briefing area is to be used.  In
+              the event that both are unusable, a tannoy message will give the location of an alternative site,
+               e.g. Helideck.
+
+           The third safe briefing area will be within the accommodation of the rig and will be used to muster
+                   all non-essential personnel.  It is suggested that the messroom or cinemas would be suitable.
+
+          d)  Additional Equipment
+
+             Extra wind socks or flags should be provided so that at least one can be seen from all points on
+              the rig. This is to enable personnel to determine the upwind side of the structure to proceed to the
+              correct safe briefing area. Actual location depends on rig design.
+
+              Retrieval ropes and harnesses need to be available to recover incapacitated personnel.  This is
+             normally part of rig equipment.
+
+           Each rig will have two approved resuscitation units.  These, also, are part of the normal rig
+             equipment.
+
+          e)  Audible Alarm
+
+             Consideration should be given to the use of the drill floor horn or similar type of audible alarm, in
+             preference to the General/Fire Alarm, as a means of alerting on-duty personnel to the impending
+            danger of H2S.
+
+ A.2   EMERGENCY PROCEDURES AND CONTINGENCY PLANS
+
+                It is the responsibility of the Drilling Contractor to produce a written plan describing specific procedures
+           to be followed in the event of an H2S escape for each rig. This plan should be discussed and agreed
+          with BP. These plans must be prominently displayed on the rig.
+
+        The following notes are intended as guidelines for plans of action. These will need to be modified for
+        each individual rig.
+
+ A.2.1   General Procedures
+
+         Condition 1
+       NormalOperationH2SLessThan10ppminAiratSensors
+         Well Condition         Normal work, hole open, drilling ahead.
+
+         Alarm                None.
+
+          Characteristics            Drilling operation under control. This condition will be in effect from surface
+                                 casing shoe to TD unless it is necessary to go to Condition 2.
+
+         General Action           1. Be alert for a condition change.
+
+                                      2. Check and maintain all sensors and safety equipment.
+
+                                      3.  Designate three Safe Briefing Areas (SBA) or Muster Points in the event
+                                          of an incident. Two SBA’s should be in the open air on opposite sides of
+                                      the rig so that at least one will be upwind of the incident.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  9 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+                                      4.  Continue training of all personnel on the dangers and reaction to H2S.
+                                    Carry out training drills, as suggested below, to ensure personnel are
+                                            familiar with alarms, etc.
+
+                                      5. Though not reliable, smelling H2S may be a first indication and must be
+                                      reported and investigated. The odour threshold of H2S is very low, i.e.
+                                     approximately 0.01 ppm.
+
+                                      6. Any occurrence of H2S should be reported on the daily Drill Data report
+                                   from the Mud Loggers.
+                              See also A.2.4 - Reporting of H2S Incidence.
+         Condition 2
+      H2SLevelsBetween10ppmand25ppminAiratSensors
+         Well Condition            Prior to reaching this condition, the hole is open and circulating normally.
+
+         Alarm                     In mud log unit, drill floor, control room, etc.
+
+          Characteristics            Drilling operations under control. H2S concentrations at threshold levels.
+         General Action           1.  Drill floor personnel to don BA sets, but not mask up. Mud Room
+                                    personnel to don BA sets and mask up.
+
+                                      2. Mud log unit to telephone rig floor, control room, toolpushers/OIM’s office
+                                and BP Reps.
+
+                                      3.  Shut well in (conforming with standard BOP procedures to make the well
+                                          safe).
+
+                                      4. Shut down all accommodation ventilation systems. Make general
+                                announcement for all non-essential personnel to return to, and remain in,
+                                  accommodation.
+
+                                      5. Announce which safe briefing area will be used by essential personnel.
+
+                                      6.  Increase mud room ventilation to maximum.
+
+                                      7.  Switch on degasser, any gas being released in Derrick vent line.
+
+                                      8.  Using portable equipment, determine levels of H2S in free air at the drill
+                                             floor and mud room.
+
+                                      9. Commence circulating treatment mud. Suggested treatments include:
+
+                                        a)  Increasing mud pH.
+                                        b)  Increasing mud weight.
+                                          c)  Using scavengers if available.
+
+         Normally after a few hours circulation H2S level should decrease to below 10 ppm.  In this case
+          continue circulation without choke system until the mud is free of entrained gas.  If H2S level does not
+               fall, continue circulation and the BP Rep. will inform the responsible Drilling Superintendent or the duty
+            Drilling Superintendent, outwith office hours.
+
+          Possible actions by essential personnel:
+
+            Driller                      Will don BA. Raise pipe off bottom to enable use of BOP rams.
+
+          Asst. Driller               Will don BA. Stand by on BOP controls, until driller is free to stand by.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  10 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+       Mud Engineer             Will don BA, mask up and go to mud room. Commence pH and H2S checks.
+                              Stand by to start treatment.
+
+       Mud Logger           Main operator will don BA and remain in unit.  Other personnel will go to
+                              accommodation.
+
+         Toolpusher                Will don BA and go to drill floor.
+
+       BP Representative       Will don BA and go to drill floor.
+
+         Derrickman           As soon as practicable, will take BA set from drill floor, don, mask up and
+                                     report to mud room. Prepare to start treatment.
+
+         Floormen                  Will don BA and await orders on the rig floor.
+
+         OIM/Barge Eng.          Will don BA and go to control room.
+
+       Mud Watcher             Will don BA set, mask up and assist with mud treatment.
+
+         Radio Operator/         Notify standby vessel of situation and to go upwind.  Inform incoming
+          Control Room            helicopters. Make necessary announcements.
+
+         Condition 3
+      H2SLevelsBetween25ppmand50ppminAiratSensors
+         Well Condition          Well shut in, circulating through choke system.  All essential personnel
+                                having donned BA sets.
+
+                                           All non-essential personnel in accommodation.
+
+         Alarm               As Condition 2.
+
+          Characteristics            Drilling operations under control. As Condition 2.
+
+         General Action           1.  All essential personnel to mask up after tannoy instructions.
+
+                                      2.  Control room to instruct all non-essential personnel to go to safe briefing
+                                   area within the accommodation.
+
+                                      3.  Continue circulation of treatment mud.
+
+          Specific Action:
+
+         Barge Engineer/       Take control at Safe Briefing Area within the accommodation.
+        Crane Operator
+
+          Asst. Drill/Rig Crew     Continue with circulation.
+
+         Radio Operator/         Inform standby boat, incoming helicopters if not already informed.
+          Control Room
+
+       BP Representative     Consult with Duty Drilling Superintendent or Responsible Drilling
+                                 Superintendent on the situation.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  11 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+         Condition 4
+      H2SLevelsGreaterthan50ppm
+          Status of Well          Shut in, circulating through choke system.  Essential personnel masked up
+                                         in BA equipment. Non-essential personnel in accommodation Safe Briefing
+                                 Area.
+
+         Alarm               As Condition 2.
+
+          Characteristics            Critical well operation, well control problems.
+
+         General Actions          1.  Shut the well in completely. Monitor drill pipe and annulus pressure.
+                                      2.  Re-assess the situation.
+
+                               The following points need to be considered:
+
+                                     Location of sensor giving high readings.
+                               Wind directions/weather conditions.
+                             H2S neutraliser availability.
+                                 Equipment status (BA etc.).
+                             Known helicopter movements.
+                                     Possible evacuation of non-essential personnel.
+
+                               Based on the current situation, a procedure will be agreed to remedy the
+                                   problem.  For example,  if wind is adequately dispersing the H2S and
+                                             sufficient chemicals are available, it may be possible to remove all non-
+                                        essential personnel, bring in back-up BA equipment and reduce the H2S
+                                           level by circulation, with increased mud weight.
+
+ A.2.2   Specific Procedures
+
+        H2S Detection While Drilling
+         Proceed as for Conditions 1 to 4.
+
+        H2S Detection While Tripping
+         Stop tripping and proceed to circulate as per Conditions 1 to 4. Once the level is reduced, go to
+         bottom and complete circulation and condition mud.
+
+          Consideration may be given to stripping in under special circumstances.
+
+           Circulating Out Trip Gas
+
+          Maintain vigilance when trip gas is expected to surface. Have degasser running. In the event of H2S,
+         proceed with Conditions 1 to 4.
+
+           Circulating Out a Kick
+
+          Follow normal well kill procedures.   If H2S becomes apparent, proceed as per Conditions 1 to 3 and
+          continue to circulate until the kick is out.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  12 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+         Coring
+                If there is a possibility of H2S being present in a reservoir, and there is a requirement for cores to be
+          taken, the following procedures should be applied to ensure that the core is handled safely.
+
+           1.  All BA equipment (including cascade lines) to be checked and confirmed operable while running in
+             hole for core run No. 1.
+           2. FSO to be requested to provide brief summary of H2S effects/precautions at pre-shift safety
+             meetings.
+
+           3.  Tripping to stop when corebarrel 1000ft below rotary, to allow a Safety meeting to be held, with
+         FSO in attendance.
+
+           4. A tannoy announcement must be made, informing all of the imminent core recovery operation, and
+             the associated potential for an H2S gas release. All unauthorised personnel to remain clear of
+                    drill floor.
+           5.  Continuous H2S detector to be installed near rotary.
+           6. FSO to take a gas sample in each box connection when pulling BHA.
+
+           7. Once the core barrel is at the table, the rig floor is to be cleared to minimum personnel, with at
+               least two portable H2S detectors.
+           8.  Floormen don BA. Break safety joint and pull back 90ft of inner. Clamp and break same. FSO to
+            sample for H2S.
+           9.   If ANY test result for the presence of H2S is positive, the following actions apply:
+               (a)   All personnel handling or supervising core operations on drillfloor to wear BA until advised by
+                  the FSO.
+
+               (b)  Core laydown area to be cordoned off. Boxes to be flushed with compressed air by deck
+                  operator wearing BA, until FSO confirms that the samples are free of H2S.
+                (c)  Floormen to be rotated regularly.
+
+          10. If all tests are negative, the following actions apply:
+
+               (a)  Personnel handling core may work without BA, but these sets must be rapidly to hand and in
+                 usable condition.
+
+               (b)  Samples to be taken by FSO complete with BA when breaking each further inner barrel.
+
+        Downhole Samples
+
+            All downhole samples are to be tested for H2S gas prior to them being removed to the mud logging
+           unit for testing, e.g. Repeat Formation Tester (RFT) samples.
+
+          Testing
+
+                It is possible that the first indications of H2S will be during the well testing phase. Well testing will be
+           carried out as normal unless H2S was evident during drilling. However, all test equipment will be H2S
+          proof in wildcat/exploration areas. Separator gas will be routinely checked for H2S.
+           In the event that the concentrations of H2S increase to above 10 ppm in free air or 25 ppm in stream,
+          the test string will be shut in at the manifold and surface equipment flushed through with diesel.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  13 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+       On condition that the test string can withstand the H2S, the flow will be held closed in. Otherwise the
+           test will be terminated. A report of the conditions will be made to the relevant Drilling Superintendent
+        and the Senior Petroleum Engineer.  Consideration will be given to continuing the test  if suitable
+         equipment, as shown in Section B, can be mobilised.  If it is not possible, consideration will be given to
+          aborting the test until a suitable plan of action can be made.
+
+        Note:
+         AcidisinglimestonemaygenerateH2Suntilcleanedup.
+ A.2.3   Clearance to Safe Conditions
+
+        The exact sequence of action to clear an alarm will depend upon the reason for it (e.g. drilling through
+        a sulphurous zone, sampling sour crude, etc.).
+
+        The general procedure will be:
+
+           1.  Stop the source of the H2S.
+           2.  Monitor for H2S near the source. Give clearance there when it stays below 10 ppm.
+           3.  Monitor for H2S downwind and downstream of the source. Give clearance in each area when  it
+             stays below 10 ppm.
+
+          Following an H2S incident, all low lying areas of the rig will be inspected by two persons working a
+        buddy system using the portable electronic and/or manual detectors and equipped with BA.  Areas
+          inspected should include rig legs, tanks, thruster pods, cellar deck, void spaces, etc.
+
+ A.2.4   Reporting of H2S Incidence
+       When H2S is detected in a wildcat/exploration well, and appropriate actions have been taken, a report
+        on the incident must be immediately forwarded to the relevant Drilling Superintendent by the BP
+          Representative.
+
+          Information sent should include:
+
+         Hole condition, i.e. drilling, tripping.
+         Depth.
+       Maximum level of H2S encountered in free air.
+         Source of maximum level, i.e. flowline, mud pits.
+          Geological structure being drilled.
+          Action taken.
+
+         Copies should be sent to the following:
+
+           1.  Drilling Superintendent.
+           2.  Senior Drilling Engineer/Office Drilling Engineer.
+           3.  Senior Operations Geologist.
+           4.  Senior Petroleum Engineer.
+           5.  Senior Safety Adviser, Drilling.
+
+          This is a reportable incident as per PON 11. A report will be made by BP to the Department of
+         Energy.
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  14 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+ A.3    TRAINING
+
+            All essential personnel, i.e. Contractor drill crews, BP Representative, etc. will be instructed in the use
+           of BA equipment.
+
+            All supervisory personnel will be instructed on the correct use of the portable H2S gas detectors on the
+             rig.
+
+        H2S drills should be carried out prior to drilling out of the 13-3/8” and 9-5/8” casing shoes. This will be
+           part of the D5 drill.
+
+          Information relating to safety measures in the event of H2S should be prominently posted around the
+            rig by the Drilling Contractor.
+
+           In addition it is strongly recommended, in order to promote efficient safety procedures, that an on-site
+        H2S training programme be established by the Drilling Contractor.
+        As a general outline, the programme should include instruction on the dangers of H2S and Sulphur
+          Dioxide (SO2), the detection systems, alarms, safe briefing areas, actions during Conditions 2 and 3
+        on H2S alert. Instruction should also be given on rescue and first aid of H2S victims.
+       A list of possible training companies is given in Appendix 4.
+
+        The OIM is responsible to ensure that training and drills are being satisfactorily carried out. A record
+             will be kept.
+
+ A.4    EQUIPMENT CHECKLIST
+
+        The following is a summary of equipment that will need to be provided under Section A. Responsibility
+            for provision will depend on the rig contract but it is likely to be as shown.
+
+       Equipment                                                      ProvidedBy
+
+          a)  Fixed H2S detector system with 6/7 sensor points and 1 central                  Drilling Contractor
+             monitor point and 4 remote alarm points.
+
+          b) Two hand portable continuous electronic H2S detectors.                          Drilling Contractor
+           c) One set of H2S detector tubes and pumps, plus 50 tubes of 0 - 60 ppm         Drilling Contractor
+             range.
+
+          d) 12 BA sets plus 24 spare bottles of 1200L capacity.                                Drilling Contractor
+
+          e) 1 x 10 minute escape BA set.                                                         Drilling Contractor
+
+               f)  Wind socks (as required) and fluorescent streamers.                 BP
+
+          g) H2S proof testing gear.                                     BP
+          h) 6 hand portable continuous electronic H2S detectors.                 BP
+                 i)  1 pallet of zinc carbonate (25 x 25 kg sacks) (see Appendix A2.5).         BP
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  15 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+                                    SECTION B
+
+                          KNOWN H2S AREAS
+
+ This section applies to work within known H2S quadrants. For known quadrants at present with concentrations
+ above 50 ppm.
+
+ In writing these guidelines, it is assumed that H2S will occur in the target or reservoir zone. This may not be the
+ case and each well should be individually planned. The general philosophy for drilling in known H2S areas
+  is that the basic conditions of Section A will be followed until some point prior to entering the H2S section, say
+ 9–5/8” casing shoe. After that point these extra regulations will apply.
+
+ The extra equipment etc. will be supplied by BP for known H2S quadrants.
+
+ B.1    EQUIPMENT
+
+ B.1.1   Detection Systems
+
+         Both portable H2S gas detectors and a fixed automatic monitoring and alarm system are required and
+        must be tested for their accuracy and reliability.
+
+        Flammable gas detection systems that may be installed in these areas should not be considered as
+         being suitable for toxicity monitoring of H2S concentrations.
+          a)  Fixed Systems
+
+           The number and location of sensors should be sufficient to cover expected areas of accumulation.
+
+           The sensors should be collectively monitored at a central point, in a safe area. For example, the
+          Mud Logging unit or rig control room.
+
+              If sensors cannot be collectively monitored at a central point, reporting procedure must be
+           inplacetoensureimmediateandeffectivecommunicationtocontrolarea.
+
+           The system should be arranged to provide continuous monitoring of those parts of the installation
+                listed below.
+
+            BellNipple          This is the best location for early warning, but may not be practicable.  In
+                                          this case the sensor should be as close as possible.
+
+           ShaleShakers/HeaderBox
+
+        MudPitArea      Above all active pits.
+
+              DrillFloor         Minimum of two sensors, one in vicinity of dog-house.
+
+        MudPumproom    Minimum of one sensor.
+
+          Accommodation   One sensor at each main ventilation intake.   It should be proved that the
+                                  fans do trip on monitoring any concentrations of H2S or gas.
+           WellTestArea     Where possible in vicinity of separator and sampling point.
+
+       BACompressor    At air intakes for main cascade system compressor.   If two air intakes are
+                                     required, both should be fitted with sensors and proved to trip compressor
+                             on detection of H2S.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  16 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+           TripTank           Consideration to be given to the monitoring of H2S when the trip tank is
+                              exposed to the well.
+
+            Spare detector heads should be onboard to enable replacement of defective units.
+
+             Since H2S is heavier than air, sensors must be as close to floor level or mud level as practicable.
+           The system should be set to detect H2S at any individual sensor at 10 ppm.  This should sound
+           and register an alarm at the central monitoring point and at the remote alarm stations.
+
+           Remote alarms, giving both visual and audible alarms on detection of the preset limit of H2S,
+             should be at the following positions as a minimum requirement:
+
+                   -  Drillers console.
+                   -  Control room.
+                   - Mud logging unit.
+
+          b)  Portable H2S Detectors
+               In addition to the fixed H2S detection system, portable detectors, both electronic and manual, must
+           be available and must be tested for their accuracy and reliability.
+
+             Portable Continuous Monitors (Electronic)
+
+           The instrument provided should be continuous and automatic in operation, tamper proof and
+               suitable for use by non-technical personnel. The instrument should give a clear audible and visual
+             alarm in the presence of H2S concentrations at or above 10 ppm.  Additionally the unit should be
+               suitable for hazardous areas, of robust construction, easily handled in one man operation, integral
+            power supply and internal function testing.
+
+          H2S Detector Tubes (Manual)
+          H2S detector tubes should meet the current British Standard BS 5343 (1976) Gas Detector Tubes.
+           The detector should be accurate and simple to operate.   It should incorporate a hand-operated
+              aspirating pump and colour indication tube graduated directly in ppm H2S.
+             At least two detector sets should be provided and normally kept in the Control Room and BP Rep’s
+                office.
+
+         A minimum of 6 tubes are to be kept with each detector at all times.
+
+         A minimum stock of 50 tubes, range 0 - 60 ppm, of H2S should be maintained on board in a cool
+             place below 68°F.
+
+           c)  Sensor Testing and Calibration (Fixed and Portable)
+
+                 All H2S detection systems and equipment should be tested and calibrated, in accordance with
+             manufacturer’s instruction manuals, on a weekly basis or as often as necessary depending on the
+                 reliability of the detectors.  Tests should be a functional simulation to test both accuracy and
+              operational efficiency of the system and equipment. Detector tubes should be checked that they
+             are not out of date, and are suitable for H2S. This is the responsibility of the OIM.
+          d)  Records
+
+                 All testing and calibration results should be recorded. These records should be available for
+              inspection at all times.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 19 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  0120/GEN
+             GUIDELINES FOR           Rev.         :  3 (10/95)
+BP EXPLORATION   DRILLING OPERATIONS     Page        :  17 of 46
+
+ SUBJECT:  H2S (HYDROGEN SULPHIDE) PROCEDURES
+
+          e)  Other Detection Systems (Fixed and Portable)
+
+           The fixed flammable gas detection system, as installed, should be calibrated, tested and fully
+              operational.   It is recommended that sensors should also be calibrated and cover the same
+             general areas as for fixed H2S sensors.
+            There should be 4 portable meters onboard, two for measuring oxygen and two for measuring
+            flammable concentrations of gas.
+
+             This is a legal requirement.
+
+          CAUTION:
+
+           Sense of smell is not a reliable method of detecting H2S.  If any crew member believes that
+            they can smell H2S, they should immediately inform the Contractor toolpusher/OIM. He will
+            then arrange for the area to be investigated using Draeger tubes, or similar devices.
+
+ B.1.2   Contracted Safety Equipment and Personnel
+
+        Dependent on hazard expected or perceived, the following equipment should be considered to reduce
+           potential risk to onboard personnel during well test periods.
+
+          a) Compressor Unit/Units
+
+              Suitable compressor unit producing breathing air to, or exceeding, BS 4275.
+
+          Two air intakes for supply air to compressor unit, situated at opposite sides of the rig.
+
+          b)  Air Storage Cylinders
+
+           To BS 5045 or equivalent, sufficient quantity to provide 140 manhours of compressed air to the
+              cascade/distribution system.
+
+           c)  Self-Contained Compressed Air Breathing Apparatus (CABA)
+
+           Above to include the following:
+
+                       i)    Sufficient 30 minute CABA suitable for inter connection to air line cascade system c/w one
+                 spare cylinder for each set.
+
+                        ii)    Sufficient 10 minute hip set suitable for inter connection to air line cascade system.
+
+                         iii)   Sufficient 10 minute escape sets for evacuation only.
+
+            Suggested distribution of apparatus is as follows:
+
+             For Controlled Situation When Gas is Expected
+
+              Essential Personnel : Rig Floor
+
+            Derrickman (1)             Monkey Board - use escape set
+                  Drill Crew (6)                        Drill Floor - use air outlets
+             Toolpusher                Use 30 min. set from Drilling Office
+           Subsea Eng.              Use 30 min. set from Drilling Office
+         BP Rep.                  Use 30 min. set from Company Office
+                Drilling Eng.               Use 30 min. set from Company Office
+              Pet.Eng./Geologist          Use 30 min. set from Company Office
+             Contract Service Personnel    Use 30 min. set from Contractors Unit
+             Well Test Personnel         Use air outlets
+
+

@@ -1,0 +1,626 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  1 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+1.    INTRODUCTION
+
+         Differentially stuck pipe is generally associated with one or more of the following conditions:
+
+        1.  Mud hydrostatic pressure in the wellbore is greater than the formation pressure at the stuck point.
+
+        2.  The formation opposite the stuck point is usually porous and permeable.
+
+        3.  A thick, weak filter cake has built up across the formation. A slight mud loss may be noticed.
+
+        4.  The pipe (drill collars or casing) has been left stationary for several minutes opposite the porous
+          and permeable zones.
+
+        5.  There is free circulation around the stuck pipe.
+
+2.     MINIMISING THE RISK OF DIFFERENTIALLY STUCK PIPE
+
+       Procedures which minimise the risk of differentially stuck pipe include:
+
+        1.  Minimise the pressure differential between the mud column and the formation - the sticking force is
+            proportional to differential pressure.
+
+        2.  Reduce the effective formation permeability by controlling the mud properties - i.e. minimise mud
+               fluid loss, and keep the solids content as low as is mechanically and economically practical.
+
+        3.  Minimise the contact area of the string against the formation by reducing the number and diameter
+             of the drill collars, using spiral cut drill collars, centralise the drill collars with stabilisers, centralise
+           casing strings with accessories, control the mud filter cake so that it is thin and tough.
+
+        4.  Minimise the time the string is static - for example, rotate during connections.
+
+        5.   In the planning and drilling of a well consideration should be given to casing off low pressured,
+          permeable formations before penetrating higher pressured formations.
+
+        6.  Use an oil based mud and maintain an optimum hydraulic programme.
+
+        7.  Do not use a float valve in the string.
+
+3.    THE “U”-TUBE METHOD
+
+      The object of the U-Tube method is to free differentially stuck pipe safely without losing control of
+      thewell.  If a water based mud is in use, a weighted mud filter cake destroying agent should be spotted
+       across the permeable interval prior to employing the U-Tube method.  However, under certain
+       circumstances it may be determined that employing the U-Tube method as early as possible would be
+       preferable since filter cake agents can take several hours to “tighten-up” the cake to an acceptable
+       degree.
+
+     A procedure to free a drill string which has become differentially stuck is given below. (N.B. Procedure
+      assumes no float valve is installed.)
+
+        1.    If at all possible, attempt to space out so that the top of the string is at a working height above the
+              floor and that the annular preventer is located mid-joint in the drill pipe. On fixed units this is likely
+             to be impossible. However, on semi-submersible units it may be possible to change the draught of
+            the rig to achieve a space-out. Ensure that there is a full opening kelly cock valve made up to the
+            top of the string below the circulating head or kelly.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  2 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+        2.  While preparing to pump light fluid, the maximum allowable right-hand torque should be worked
+             into the drill string.
+
+        3.   Calculations:
+
+          Step 1      Calculate the heads of base oil or water and mud in the annulus which, when
+                      combined, balance the formation pressure at the top of the permeable zone (see page
+                    5 or 8).
+
+          Step 2      Calculate the required volume in the choke line and drill pipe/casing annulus to give
+                        the head of base oil or water calculated in Step 1.
+
+          Step 3      Calculate the head(s) of mud (and air) in the drillpipe that balances the formation
+                       pressure at the top of the permeablezone (see page 5 or 8).
+
+          Step 4      Calculate the volume of air in the drill pipe above the mud after U-Tubing.
+
+          Step 5      Calculate the total volume of base oil or water to be pumped, i.e. the sum of volumes
+                      from Step 2 and Step 4.
+
+          Step 6      Calculate the differential pressure that will be imposed on any other permeable
+                        formations after U-Tubing (see page 5 or 8).
+
+          Step 7      Calculate the back pressure held on the choke after displacing base oil or water to the
+                       annulus.
+
+        4.  Close the annular preventer (with minimum closing pressure) and reverse circulate (with minimum
+         pump pressure) the volume of base oil or water calculated in Step 5 down the choke line. Check
+            the back pressure against the value calculated in Step 7.
+
+        5.  With down weight, assuming the pipe is off bottom, and right hand torque applied, vent the drill pipe
+          above the kelly cock through the standpipe to allow air to be sucked into the drill string. Bleed off
+            the back pressure in stages through the choke to the trip tank, allowing the mud level in the drill
+             string to fall. The volume of base oil or water returned through the choke should be closely
+           monitored.   If a stripping tank is installed,  it can be used for this purpose. Monitor drill pipe to
+          determine whether  it is “sucking or blowing”.   If heavier mud weights are in use,  it may be
+           necessary to crack open a top drive or kelly connection above the kelly cock to allow the drill string
+             to “U”-tube. Work the pipe vigorously between the neutral weight and maximum allowable down
+            weight.
+
+        6.   a)    If the pipe is freed, continuously move and  fill the drill string with mud (venting the air).
+                Circulate out the base oil or water from the annulus and continue to circulate bottoms up
+               (through the choke  if there is a chance of gas being produced). Open the annular and
+                continue to work the pipe.
+
+            b)    If the pipe remains stuck (note that release might not be instantaneous - drawdown should be
+                applied for at least 2 hours before the attempt is considered to have failed), the mud should be
+                reconditioned and one more attempt made with a bigger reduction in hydrostatic, however
+                 extra caution will be required as this may result in a hydrostatic pressure less than formation
+                pressure.   If this second attempt fails  it is suggested that the pipe is severed immediately
+             above the stuck point and the well sidetracked. The decision to abandon or continue the
+                  fishing attempts will be made by town.
+
+4.    SPECIAL CONSIDERATIONS
+
+       Factors that should be considered before employing this technique include:
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  3 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+        1.  The amount of open hole and likely effects of sharp reduction in hydrostatic pressure on stability of
+                all exposed formations.
+
+        2.   Is there geological closure at the depth of the permeable formation? Is it likely to contain gas or oil?
+
+        3.  Are there any other permeable zones exposed? What effect will the reduction in mud head have
+          on them?
+
+        4.  How much confidence is there in the accuracy of formation pressure estimates?
+
+        5.  The volumes of base oil or water required - this might necessitate modification to the procedure.
+
+        6.  How much confidence is there in the pressure control equipment and personnel?
+
+5.    VARIATIONS OF THE “U”-TUBE METHOD
+
+        Variations on the standard technique include:
+
+        1.  When the volume of base oil water required presents insurmountable handling problems (perhaps
+          where the annular area is large, or the height of the choke line available is small), the base oil or
+           water can be pumped to drill string to induce a drop in annulus level after U-Tubing. However, this
+           provides less control over the operation (unable to ascertain the level in the annulus) and incurs a
+            greater chance of plugging the bit. In this instance it may be advisable to reduce the mud weight in
+            the whole system such that when U-Tubing is initiated then the drop in the annulus level will be
+           reduced.
+
+        2.  When there is a float valve in the drill (or casing) string and there is considerable height of choke
+              line available, the choke line can be displaced to base oil or water, the annular preventer closed
+         and the preventer would support the hydrostatic pressure in the riser sufficiently to allow the
+          premeable formation to be drawn down.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  4 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+CALCULATIONS (METRIC UNITS)
+
+KNOWN DATA
+
+Pf     =   The formation pressure at the top of the permeable zone.       psi
+D     =   The true vertical depth of the top of the permeable zone.    m
+
+SGm   =   The mud density.                            SG
+SGf   =   The fluid density of the base oil or water.              SG
+SGa   =   The density of air.                                         0.001 SG
+Lcl    =   Height of the choke line.                     m
+Ccl    =   The capacity of the choke line.                              bbl/m
+Cann   =   The capacity of the drill pipe/casing annulus.                  bbl/m
+Cdp   =   The capacity of the drill pipe.                                bbl/m
+
+CALCULATIONS REQUIRED (Refer to Figure 1)
+
+STEP 1
+
+Calculate the heads of base oil/water and mud in the annulus after “U”-Tubing (i.e. after flowback).
+
+                 Pf
+                                - (D x SGm)       ( 1.421 )X2    =
+                 (SGf  - SGm)
+
+Y2    =  D  - X2
+where:  X2  =  The head of base oil or water in the annulus (m).
+        Y2  =  The head of mud in the annulus (m).
+
+STEP 2
+
+Calculate the required volume of base oil/water in the choke line and drill pipe/casing annulus to give the head
+of base oil calculated in Step 1.
+
+V  =    (Lcl x Ccl) +  ( (X2  - Lcl) x Cann )
+where:  V = Volume of base oil/water (bbl).
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  5 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+STEP 3
+
+Calculate the heads of air and mud in the drill pipe after “U”-Tubing.
+
+                 Pf
+                                - (D x SGm)A     =  ( 1.421 )
+                 (0.001  - SGm)
+
+B     =  D  - A
+
+where:  A   =  The head of air in the drill pipe (m).
+
+      B   =  The head of mud in the drill pipe (m).
+
+STEP 4
+
+Calculate the volume of air in the drill pipe above the mud after “U”-Tubing.
+
+Vair  =  A  x Cdp   (bbls)
+
+STEP 5
+
+Calculate the total volume of base oil/water required to obtain the head of oil/water after displacement.
+
+Voil  =  V +  Vair
+where:  Voil = The total volume of oil/water required (bbl).
+
+STEP 6
+
+Calculate the maximum drawdown imposed on any other permeable formations after “U”-Tubing.
+
+∆P  =   Pf  - Phyd
+where:   Pf    =  Formation pressure at the other permeable formation.
+         Phyd  =  Hydrostatic pressure due to the fluids in the annulus after “U”-Tubing.
+
+Phyd  =  (X2 x SGf x 1.421) + ((D2 - X2) x SGm x 1.421)
+
+N.B.   If D2 is less than X2, then:
+Phyd =  D2 x SGf x 1.421
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  6 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+STEP 7
+
+Calculate the back pressure held on the choke after pumping the base oil or water.
+
+Pchoke  =  (D x SGm x 3.281 x 0.433)
+                  - ((Y1 x SGm x 3.281 x 0.433)
+          + (X1 x SGf x 3.281 x 0.433))
+                     VairX1   =  X2  +                Cann
+
+                     VairY1   =  Y2   -                Cann
+
+(D   =  X1 + Y1)
+
+where:   Pchoke   =    Backpressure on choke (psi).
+        X1      =   The head of base oil or water in the annulus after pumping the base oil or water (m).
+        Y2      =   The head of mud in the annulus after pumping the base oil or water (m).
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  7 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+CALCULATIONS (IMPERIAL UNITS)
+
+KNOWN DATA
+
+Pf      =  The formation pressure at the top of the permeable zone.       psi
+D      =  The true vertical depth of the top of the permeable zone.            ft
+
+PPGm  =  The mud density.                                     ppg
+PPGf   =  The fluid density of the base oil or water.                   ppg
+PPGa   =  The density of air.                                          0.01 ppg
+Lcl     =  Height of the choke line.                                                               ft
+Ccl     =  The capacity of the choke line.                                         bbl/ft
+Cann    =  The capacity of the drill pipe/casing annulus.                        bbl/ft
+Cdp    =  The capacity of the drill pipe.                                           bbl/ft
+
+CALCULATIONS REQUIRED (Refer to Figure 1)
+
+STEP 1
+
+Calculate the heads of base oil/water and mud in the annulus after “U”-Tubing (i.e. after flowback).
+
+                 Pf
+                                - (D x PPGm)       ( 0.052 )X2    =
+               (PPGf  - PPGm)
+
+Y2    =  D  - X2
+where:  X2  =  The head of base oil or water in the annulus (ft).
+        Y2  =  The head of mud in the annulus (ft).
+
+STEP 2
+
+Calculate the required volume of base oil/water in the choke line and drill pipe/casing annulus to give the head
+of base oil calculated in Step 1.
+
+V  =    (Lcl x Ccl) +  ( (X2  - Lcl) x Cann )
+where:  V = Volume of base oil/water (bbl).
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  8 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+STEP 3
+
+Calculate the heads of air and mud in the drill pipe after “U”-Tubing.
+
+                 Pf
+                                - (D x PPGm)A     =  ( 0.052 )
+                 (0.01  - PPGm)
+
+B     =  D  - A
+
+where:  A   =  The head of air in the drill pipe (ft).
+
+      B   =  The head of mud in the drill pipe (ft).
+
+STEP 4
+
+Calculate the volume of air in the drill pipe above the mud after “U”-Tubing.
+
+Vair  =  A  x Cdp   (bbls)
+
+STEP 5
+
+Calculate the total volume of base oil/water required to obtain the head of oil/water after displacement.
+
+Voil  =  V +  Vair
+where:  Voil = The total volume of oil/water required (bbl).
+
+STEP 6
+
+Calculate the maximum drawdown imposed on any other permeable formations after “U”-Tubing.
+
+∆P  =   Pf  - Phyd
+where:   Pf    =  Formation pressure at the other permeable formation.
+         Phyd  =  Hydrostatic pressure due to the fluids in the annulus after “U”-Tubing.
+
+Phyd  =  (X2 x PPGf x 0.052) + ((D2  - X2) x PPGm x 0.052)
+
+N.B.   If D2 is less than X2, then:
+Phyd =  D2 x PPGf x 0.052
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  9 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+STEP 7
+
+Calculate the back pressure held on the choke after pumping the base oil or water.
+
+Pchoke  =  (D x PPGm x 0.052)
+                  - ((Y1 x PPGm x 0.052)
+          + (X1 x PPGf x 0.052)
+                     VairX1   =  X2  +                Cann
+
+                     VairY1   =  Y2   -                Cann
+
+(D   =  X1 + Y1)
+
+where:   Pchoke   =    Backpressure on choke (psi).
+        X1      =   The head of base oil or water in the annulus after pumping the base oil or water (ft).
+        Y2      =   The head of mud in the annulus after pumping the base oil or water (ft).
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  10 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+EXAMPLE CALCULATION
+
+KNOWN DATA
+
+The drill string is suspected to be stuck across a permeable zone. The top of the stuck zone is thought to be
+4000m.
+
+Last casing = 9 5/8”, 47 lb/ft at 3600m.
+
+D =  4000m.
+
+Pf at 4000m = 8800 psi.
+
+Cdp    =  0.0587 bbl/m.
+Cann   =  0.1604 bbl/m (5”/9 5/8” casing).
+SGm   =   1.6 SG.
+SGf   =   0.8 SG.
+Lcl    =  100m.
+Ccl    =  0.0128 bbl/m.
+
+Objective: To reduce the hydrostatic at the top of the stuck point to the formation pressure of 8800 psi.
+
+STEP 1
+
+Head of base oil in annulus (X2).
+X2    =  (8800/1.421)  - (4000 x 1.6)
+                    0.8  - 1.6
+
+      =  258.75m
+
+Head of mud in annulus (Y2).
+Y2    =  4000  - 258.75
+      =  3741.25m
+
+STEP 2
+
+Volume of base oil in choke line and drill pipe/casing annulus.
+
+V     =  (100 x 0.0128) + ((258.75  - 100) x 0.1604)
+
+      =  26.74 bbl
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  11 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+STEP 3
+
+Heads of air and mud inside drill pipe after “U”-Tubing.
+
+A     =  (8800/1.421)  - 4000 x 1.6
+                  0.001 - 1.6
+
+      =  129.6m
+
+B     =  4000  - 129.6
+
+      =  3870.4m
+
+STEP 4
+
+Volume of air in drill pipe after “U”-Tubing.
+
+Vair    =  129.6 x 0.0587
+      =   7.6 bbl
+
+STEP 5
+
+Total volume of base oil required.
+
+Voil    =  26.74 + 7.6
+      =  34.34 bbl
+
+STEP 6
+
+A second permeable zone exists below the shoe at 3700m. The estimated pore pressure is 8000 psi.
+
+Phyd   =  (258.75 x 0.8 x 1.421) + ((3700  - 258.75) x 1.6 x 1.421)
+      =  8118 psi
+
+∆P    =  8000  - 8118
+
+      =  -118 psi    i.e. still overbalance, no drawdown.
+
+STEP 7
+
+Back pressure on choke after displacing the annulus to base oil.
+
+                          7.6X1    =  258.75 +             ( 0.1604 )
+
+      =  306.13m
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  12 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+
+                          7.6Y1    =  3741.25  -             ( 0.1604 )
+
+      =   3693.9m
+
+Pchoke   =   (4000 x 1.6 x 3.281 x 0.433)
+                    - ((3693.9 x 1.6 x 3.281 x 0.433)
+
+           + (306.13 x 0.8 x 3.281 x 0.433))
+
+        =   347.95 psi
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 13 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6010/GEN
+
+                                                                  Rev.         :  0 (7/90)
+      DRILLING MANUAL     Page        :  13 of 13
+
+SUBJECT:  FREEING DIFFERENTIALLY STUCK PIPE USING THE "U"-TUBE METHOD
+
+                                                       FIGURE 1
+            SEQUENCE OF BASE OIL DISPLACEMENT TO FREE
+                     DIFFERENTIALLY STUCK PIPE
+
+
+
+             A
+
+
+               psi
+     0
+
+                             AIR         MUD     MUD                                                                                                   MUD
+                psi          MUD                MUD
+     0                     D                        CHOKE
+     P                 FLOWBACK                                            CSG                                                                          FREE?
+           AFTER
+    3.               OIL    2                 2
+                                    BASE  X          Y
+
+
+
+
+
+                      MUD                MUD                                                                                                   MUD
+                      MUD                MUD
+
+                           D                        CHOKE
+     P                     DISPLACING                                            CSG                                                                                                                                                                             STUCK
+           AFTER
+    2.             OIL      1                 1
+                                BASE   X          Y
+
+
+
+
+               psi
+     0
+
+                      MUD                MUD                                                                                                   MUD
+                      MUD                MUD
+                             psi                D
+          0                     DISPLACING                                                        CSG                                                                                                                                                                             STUCK
+             BEFORE
+    1.             OIL
+                                BASE
+
+                                                                                                                                                            2179 /142
+
+

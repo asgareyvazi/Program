@@ -1,0 +1,551 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  1 of 9
+
+ SUBJECT:  SECTION MILLING
+
+  1.    INTRODUCTION
+
+        Section Milling is the term given to removing a section of casing, usually cemented, without disturbing
+         the casing string above in "cutting a window".
+
+       The window can then be used as an exit point to allow a new hole section to be drilled by kicking off
+        through the window.
+
+       The tools used are commonly known as "section mills" although they are also used effectively in cutting
+        casing strings prior to retrieval.
+
+        Section milling operations have been successfully performed on Clyde during 1991:
+
+        Well A22/19       - 125 ft of 13 3/8" 72 lb/ft N80 at 22° deviation
+        Well A16Y(25)    -  80 ft of 9 5/8" 53.5 lb/ft N80 at 63° deviation
+
+       Lessons learnt and techniques developed during these operations have been recorded for future
+         reference.
+
+       Optimum progress relies on good downhole milling mechanics (mill cutting characteristics, BHA,
+         operating parameters) and the efficient removal of the milled steel cuttings, or swarf.
+
+       The cutting of a window will produce substantial volumes of swarf, the removal of which will require
+         planning to ensure efficient hole cleaning and effective collection and disposal on surface. Section mills
+        are less robust and have much less cutting structure than casing mills;  steel cutting rates will be lower
+       and run lengths very much shorter. However, the form of swarf cut may be finer, less spiralled, and
+        consequently less prone to tangling. These factors are influences in the selection of milling fluids and in
+        determining the extent of modifications justified in surface handling facilities.  Although the emphasis
+      may be less critical than for casing milling, the principles remain valid and proper planning should not
+       be overlooked.
+
+  2.    SELECTION OF WINDOW INTERVAL
+
+       Once the approximate position of the window has been determined, a number of points should be
+        considered in determining the exact interval.
+
+          1.  Well status prior to section milling operations. Consult cement bond logs to assess the degree of
+            casing-cement bonding over the casing section to be milled.  Mechanical performance will be
+            improved across well cemented intervals where lateral play is minimised.
+
+          2.  Consult casing string tally to establish position of casing collars and casing jewellry. The section to
+           be milled should start either 5 ft above or 15 ft below a casing collar to avoid the casing backing off
+            from the coupling.  Plan to mill as few casing collars as possible and finish the window above a
+              coupling.  Couplings typically contain 80 - 120% more steel per unit length than casing and will
+              rapidly wear cutting knives.
+
+          3.  Avoid having to mill centralisers if possible.  If this is unavoidable, plan to mill the centralisers at the
+            beginning of the section before the knives are dulled. The potential for tool damage is increased by
+             the lack of restraint on centraliser and stop collars being able to spin around the casing. Also they
+            tend to break into larger pieces and can be difficult to remove.
+
+          4.   Establish contents of annulus fluid and consider relevant mud weights for section previously drilled,
+            along with pore pressure, formation integrity and possible zones for potential communication.
+
+          5.  Consider effect of annulus fluids in contaminating selected milling fluids and required steps to be
+             taken.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  2 of 9
+
+ SUBJECT:  SECTION MILLING
+
+          6.  The ability to effectively rotate the string and apply milling torque should be assessed by reference
+              to the drilling simulator programme (input milling fluid, drillstring and well trajectory data). The high
+                frictional forces in deep or highly deviated wells may dictate the use of well lubricated oil muds.
+
+  3.    SECTION MILLS - TOOL OPERATION
+
+      A typical section mill tool is shown opposite along with its basic design and operating
+          principles.
+
+        Tungsten carbide coated knives are hinge-pinned to the tool and are hydraulically
+        actuated to make contact with, and abrade, the casing wall. Depending on its size
+       and design, the section mill generally has 3 or 6 knives.
+
+       The basic operating principle is similar to that of underreamers.
+
+      A downward force is created by the pressure drop in the circulating fluid as  it flows
+        through an interval nozzle or orifice. The force acts upon a simple piston/cam
+        arrangement to open out the knives until they are wedged into contact with the casing
+          wall.
+
+       The maximum cutting circle diameter is fixed by selecting knives of the required
+         length or by setting a stop to limit the opening travel of the knives. Once opened,
+       most tools allow a portion of the fluid flow to bypass the nozzle or even directly onto
+        the face of the knives. The consequent reduction in pressure drop is a positive
+         surface indication that the initial cut of the casing has been completed.
+
+  4.    SWARF REMOVAL AND HANDLING
+
+ 4.1     Ideally the majority of the swarf circulated from the well will be removed in a gumbo
+        box arrangement situated close to the bell nipple. However, as this facility will not be
+         available in most cases, the routing through the primary solids control equipment will
+       be crucial, especially the elimination of undesirable swarf traps.
+
+ 4.2     All internal restrictions and instrumentation, metering devices, etc. should be removed from the flowline.
+        Sections with potential for swarf build-up and blockage may need to be temporarily substituted with
+       open trough sections.  Suitable access points for rodding the flowline in order to disturb blockages
+        should be provided.  Facility to jet the flowline may be useful - temporary connection from header box
+           jetting line?
+
+ 4.3    Returns should be directed to feed into the top of shaker header boxes, i.e. "top-dumped".  If practical,
+         the lower regions of the box should be plated off so that the swarf "flows" with the mud to the shakers
+       and does not build up in the sump. Do not seal off the sump completely as draining through the dump
+         valve may be necessary at some stage.
+
+ 4.4   The arrangement for managing flow to the shakers may need attention.  Thule shakers have gates
+        which lift up to open a slot and perforated guide plates, both features tend to trap swarf and cause it to
+          build up.  If not cleared then minor collections of swarf can become major accumulations quite quickly.
+      A weir arrangement is recommended in place of the gates and the perforations should be covered with
+          thin steel plate.
+
+ 4.5    Swarf will tend to bind in the mesh of coarse shaker screens. The finest mesh sizes robust enough to
+         withstand the duty should be established quickly.  It should be practical to use 40 or 60 mesh screens
+       on the top and 80 or 100 mesh on the bottom.
+
+ 4.6       If the cuttings disposal chute is relatively straight, has a large bore and a convenient intersection point,
+                it may be a practical means of transporting swarf away from the shakers.  However, be cautious: a
+        blocked chute can be difficult to clear. A means of getting the swarf from the chute and into skips, and
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  3 of 9
+
+ SUBJECT:  SECTION MILLING
+
+          for the regular changing of skips must be devised. A builder's rubbish chute (plastic sections wired
+         together, say 14" minimum ID) is a good means of getting the collected swarf into skips placed on a
+        lower deck.
+
+ 4.7   SAFETYNOTE:
+       Metal swarf from casing/tubing milling operations on a well which may have produced even low
+        levelsofH2S,maycontainIronSulphidescale.Whensuchscaleisallowedtodryandreactwith
+      oxygen in the air, a chemical reaction takes place where the Iron Sulphide is converted to Iron
+      Oxide (common rust), and H2S will be released. The reaction is exothermic, i.e. heat will be
+       generated. In the presence of other flammable material (including gas which has not been fully
+       purged),amoredangeroussituationmaydevelop.
+
+      Measures must be in place to ensure that such swarf and/or joints of casing and tubing is either
+      immersed in water (to prevent the oxygenation of the scale, and must therefore be kept wet
+         thereafter),orstoredinasafelocationandallowedtodrycompletely.
+
+     As the material (whether fully dried, or immersed in water) is still classified (UN-2793) under the
+     UKCarriage of Dangerous Goods Regulations, the back-load manifest MUST be accompanied
+     by a Dangerous Goods Declaration. Arrangements for the safe onshore disposal of the material
+      mustalsobeinplace.
+
+      Paragraph 4.5 of BP HSE Practice 10 (Hydrogen Sulphide) contains further details of
+       pyrophoricscale.
+
+ 4.8   As a guide to the number of skips required, allow 5 - 6,000 lbs of in situ casing steel per skip (e.g. 106 -
+       127 feet of 47 ppf 9 5/8" casing). The bulk volume will vary with the form of swarf cut, a skip may be
+         physically full before the allowable load is reached. Weigh a 3/4 full skip on the crane to test the actual
+          situation. Obviously sufficient skips will be required to complete the job or sustain operations until the
+         next scheduled arrival of a supply vessel. As a minimum, maintain sufficient skips on board to sustain
+       4 days milling.
+
+ 4.9    Grating filters or traps should be placed over drains in the vicinity of the shakers to prevent swarf
+         entering and blocking the lines. Simple steel baskets with grating/mesh panels should be fabricated for
+          installation in the mud return lines immediately downstream of the shakers and in the pit room to strain
+         the flow for small pieces of steel. Ditch magnets should also be positioned in both locations, in pairs.  If
+         the facility is available, then mud pump suction strainers should be used - sized for the largest tolerable
+        drop in delivery charge pressure.  Strainers and magnets must be checked and cleaned frequently by
+         organising a planned cleaning schedule.
+
+ 4.10    Milling of long sections of casing results in large transfers of heat energy into the milling fluid - high
+        temperatures can be expected (e.g. 180 deg.F while milling at 5600' tvd (Clyde 1991)).  Efficient fume
+         extraction and ventilation in the shaker/header box area is required if tolerable working conditions are to
+       be maintained. Examine the practicality of improving the natural ventilation by installing louvres or
+         temporarily opening up sections of walls.
+
+ 4.11   Small rakes with round-ended tines assist in moving swarf off the shaker screens. Shovels and potato
+         digging forks will be required for manual handling of swarf.
+
+ 4.12   Cleaning points should be established at appropriate locations where swarf can build up and where
+      mud spillages may occur.
+
+ 4.13   The wear bushing profile should present a smooth bore through the wellhead to avoid any tendency for
+        swarf to become trapped and build up.
+
+ 4.14   Unnecessarily functioning BOPs or circulating through additional equipment and valves should be
+        avoided in order to minimise potential damage by swarf to seals and seal areas.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  4 of 9
+
+ SUBJECT:  SECTION MILLING
+
+ 4.15   In the interests of subsequent equipment and drilling fluid maintenance, it is important that all remaining
+        pieces of milled swarf be removed from the surface facilities on completion of operations. The mud
+       pumps, lines and valves should be fully inspected. In addition to mud lines and pits, this should include
+         the drip tray, trip tank, areas around and under the shakers and places forming natural traps. BOP ram
+          cavities, kill and choke lines, standpipe and choke manifolds should be flushed.
+
+  5.    HOLE CLEANING/FLUIDS
+
+        Successful milling depends upon the swarf being efficiently removed from the well. The procedures
+        adopted must ensure that the formation of birds nests is avoided.
+
+       The most important criteria for hole cleaning above all others is the annular velocity. At this time, there
+        are no full guidelines available on pump rates, hole inclination and mill rates as there are for drilling.
+        However, individual cases can be addressed.
+
+      THE DRILLING PROGRAMME MUST STATE THE MINIMUM FLOWRATE TO BE USED.
+               It should also be noted that at this time the flowrates will be tentative as the simulator used to develop
+         the recommendation is working outside its original design specifications.
+
+       The milling assembly must be designed to minimise pressure loss. Design must centre on maximising
+          flowrate.
+
+       By way of example only, the following illustrations of recent milling operations are given:
+
+       Operation        CasingSize    BehindCasing    Drillpipe     Deviation    Flowrate
+                                                              Deg.      gpm
+
+       Window           9 5/8"          Cemented           5"            50/60        520
+                                       12 1/4" OH
+
+         Slot Recovery      13 3/8"          20" Casing          5"            8/18          1350/1450
+                                      Uncemented
+
+         Slot Recovery      9 5/8"          12 1/4" OH          5"           59           750
+
+ 5.1   Mud System - Selection of Mud Type
+
+       The selection of mud type must take account of the following criteria:
+
+        Surface handling system for swarf removal (personnel contact).
+       Downhole torque (check drillstring simulator).
+         Material behind the casing to be milled (requirement for shale inhibition).
+          Logistics.
+
+         a)   Oil Based/Water Based Mud
+
+              In general, it is recommended that water based fluids are used. During the milling operation, a high
+            degree of personnel contact with the fluid will be unavoidable in clearing birds nests, collecting and
+             disposing of the swarf. Even with the appropriate protective clothing, use of an oil based mud will
+              inevitably result in increased levels of skin complaints.  Additionally, there is an increased risk of
+            environmental pollution when milling with oil based mud.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  5 of 9
+
+ SUBJECT:  SECTION MILLING
+
+         b)  Water Based Mud Types
+
+                     If a water based fluid is used, then consideration must be given to possible shale inhibition
+            requirements  if the operation will expose water sensitive formations.  In general,  if the formation
+          was previously drilled with oil based mud, a non-inhibitive water based mud can be used as the
+            near wellbore formation will be oil saturated.   If the formation was previously drilled with an
+               inhibited water based mud, then an inhibitive milling fluid will be required.
+
+            There are several types of water based milling fluid that can be used. These include:
+
+            Bentonite/XC Polymer
+            Bentonite/Sodium Bicarbonate
+             Bentonite/Mixed Metal Hydroxide
+
+           These are basic systems with no shale inhibition properties.  Details on the fluids can be found in
+            Sections 4100/GEN onwards of this manual.   If shale inhibition properties are required, specific
+            advice should be sought.
+
+ 5.2   Mud Properties
+
+         a)  Mud Weight
+
+         When possible an unweighted system should be applied if a water based mud is in use as this will
+              greatly assist logistics. When milling casing across open hole, the mud weight should be that as
+           used to initially drill the section.
+
+         b)  Rheology
+
+          The most important characteristics of the fluid from a swarf lifting consideration is its low shear rate
+             rheology. This defines the viscosity of the fluid at the shear rate it experiences in the annulus.
+
+             This is best expressed as the yield stress of the fluid, defined as:
+
+              (2 x 3 rpm reading)  - (1 x 6 rpm reading)
+
+          The following rheological criteria are given as a guideline:
+
+         PV      cP           < 10
+         YP        lbs/100 sq ft    50 - 70
+            Gels      lbs/100 sq ft    35 - 50
+
+          Note:
+          Withoilbasedmud,itwillbeimpossibletoachievethelowplasticviscositycriteria.
+
+ 5.3   Mud Contamination
+
+      Mud contamination by cement from behind the casing may require substantial additions of Sodium
+        Bicarbonate to treat the presence of excess Ca ions. A large quantity of sodium bicarbonate should be
+         available offshore as a contingency if required.
+
+        Consideration to pre-treating the milling fluid prior to commencement of the milling may also be
+         required.
+
+       Should oil base fluids be behind the casing, the expected volumes, treatment and disposal, and
+        containment will need addressing.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  6 of 9
+
+ SUBJECT:  SECTION MILLING
+
+  6.    SECTION MILLING ASSEMBLY
+
+ 6.1     Efficient operation requires the tool to be well centralised.
+
+       The taper mill and pilot stabilisers should be the same size as the casing
+            drift diameter.
+
+       The section mill body diameter should be the largest available to
+         comfortably run inside the casing so that the knives are as short, and as
+         strong, as possible.
+
+         Limit the number of drill collars to that required to provide the maximum
+        anticipated milling weight.  Jar placement should be determined for
+         operating effect (keep above top of window at all times).
+
+ 6.2   Recommended general assemblies (add crossovers as necessary):
+
+         a)   Straight Hole
+
+            Taper Mill - Near Bit Stabiliser - Section Mill - 4-6 DC - Jars - 1-2 DC -
+         HWDP.
+
+         b)  Deviated Hole
+
+            Taper Mill - Near Bit Stabiliser - Short DC - String Stabiliser - Section
+                Mill -  4-6 DC - Jars - 1-2 DC - HWDP.
+
+         Alternatives may be justified for specific tasks and sets of circumstances.
+
+ 6.3    There is a danger of the connections below the section mill working
+        loose with consequent loss of all or part of the pilot assembly.  "Lock-up"
+        type connections should be used  if available, otherwise connections
+       should be made up "dry" and use of a thread-locking compound
+         considered.
+
+  7.    OPERATING PROCEDURES
+
+ 7.1     Fluid circulation rates through section mills are limited by the size of the fluid courses and by the knife-
+         actuating forces developed.  If the tool features an interchangeable nozzle/orifice then the size selected
+        should be consistent with a flowrate adequate for hole cleaning purposes.
+
+ 7.2    The required diameter of the knife cutting circle will depend on casing string to cut/mill across an open
+         hole section. The cut should be positioned 10 -1 5 feet below a casing coupling to make best use of the
+        enforced stand-off between the strings.
+
+ 7.3    Sets of knives can vary in shape, excessively high point-loading could result;  check that each set,
+         including spares, are similar.
+
+        Hinge pins do sometimes bend in service; confirm that spares are available.
+
+               If more than one style of tungsten/carrier matrix is available, confirm that the most suitable is used -
+         generally the hardest, most resilient category.
+
+ 7.4   As with any downhole tools, ensure that all lengths and dimensions have been recorded before the
+        assembly is run. Also confirm that suitable fishing tools are available.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  7 of 9
+
+ SUBJECT:  SECTION MILLING
+
+ 7.5    Function test the tool at surface. Pump through the tool at the "cutting-out" flowrate with the knife travel
+          restricted to the casing ID  (if practical) and then fully opened.  Increase circulation to the full milling
+          flowrate.
+
+       Record the pressures at each stage, this is useful information when starting the actual operation.
+       Check that the knives have opened fully to an even cutting circle.
+
+ 7.6    Pin the knives back into the body with insulating tape, string or slivers of wood.  If left loose, the knives
+        are prone to hanging up in the wellhead and recesses in the casing string.
+
+ 7.7     Drift the whole drillstring with proper, near-size rabbits. Loose cement or scale may block the tool or
+         impair its operation.
+
+ 7.8   Run the mill to the bottom of the proposed window to ensure that the casing bore is clean.
+
+ 7.9     Pull back and take string up, down and rotating drags - without pumps.
+
+ 7.10   Attempt to locate a casing collar so that the window may be accurately positioned.
+
+        Using the casing running tally depths as a guide, start 20 feet above the expected collar depth and
+       open the knives with a low pump rate. Run down slowly, without rotation, watching for a loss of string
+        weight as the knives drop into a collar recess. Repeat the procedure to be sure.
+
+         Finding the recess between Buttress-threaded joints should be straight-forward. Do not be surprised if
+                it proves impossible to locate the relatively slight recess in a Vam casing coupling (try across a 90 foot
+          interval to include 2 couplings).
+
+ 7.11   Space out the drillstring to give maximum working height above the rotary table at the start of the cut.
+         Floating rigs can be (de)ballasted to increase the interval between connections.
+
+ 7.12  A marine swivel landed in the wellhead is required in making the initial cut from floating rigs. The other
+        response of motion compensators when relatively low applied weight is required restricts the use of
+         section mills to conditions of low heave amplitude.  Repeated spudding/weight surging of the knives
+        onto the open cut is likely to result in premature failure of the cutting structure.
+
+  8.    CUTTING AND MILLING OPERATION
+
+ 8.1     Position the mill knives at the selected cut point and start rotation at 50 - 80 rpm, note the free rotating
+         torque.
+
+         Bring the pumps up to the "cut-out" rate (dependent on the size of tool and the internal nozzle fitted),
+        note the pump pressure and the increase in rotating torque. Provided the torque fluctuations are within
+        acceptable limits and the drillstring is running smoothly, allow the tool to make the initial cut - be patient,
+         the cut may take 5 - 30 minutes.
+
+               If the tool has a feature increasing the flow area when the knives fully extend (see Introduction, para. 2),
+       a pressure drop will clearly indicate when the cut is completed. Torque changes will also be apparent.
+       Be wary of heavy annulus fluids U-tubing into the well. Do not move the tool but increase pump speed
+          to give the full operating flowrate while the cut is fully opened so that the knives can sit evenly on the
+         casing.
+
+ 8.2    Increase rotary speed and apply weight gradually to initiate a moderate milling rate (4 - 5 ft/hr, say).
+        Continue at this rate for some time to establish that the milled cuttings and swarf are being removed
+        from the hole in appropriate volumes. Once satisfied that the hole is being cleaned and that the volume
+          of swarf can be handled on surface, the milling rate can be further increased.
+
+ 8.3    The best rotary speed and weight on mill have to be determined for each job, experiment systematically
+          to find the parameters which result in smooth running and a good rate of progress.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  8 of 9
+
+ SUBJECT:  SECTION MILLING
+
+ 8.4    Maintain a steady weight by allowing the drawworks to creep and feed drilling line evenly. Do not allow
+         the weight to drill-off each time before slacking off line.
+
+ 8.5    Mark the pipe at the rotary table in 1' intervals and record milling data on a proforma sheet for each
+         increment:
+
+          Depth      Time     ROP     RPM    WOB     Torque    Flowrate   Pressure
+
+
+ 8.6    Increases in pump pressure are the first indicator of a hole cleaning problem, swarf will aggregate and
+         pack-off the annulus in a downhole "birds nest". Reductions in swarf volume at the shakers suggest a
+        near surface accumulation or blockage.
+
+ 8.7   Pump pressure increases may be small (less than 50 psi) or so large that the pumps have to be slowed
+         or even stopped. Cease milling and work the string to attempt to clear the birds nest.  If the nest is in
+         the riser, a means of disturbing it is to pull back far enough so that a stabiliser can be made up into the
+          string and then worked down to the wellhead.  If a top drive is used, then a stand with a stabiliser at the
+        bottom should be racked back to save time in picking it up.
+
+ 8.8    Removal of a nest around the drillstring at the bell nipple will require some form of grab or a barbed
+        rope spear to be available for running on a drillfloor tugger.
+
+ 8.9    Pumping a hi-vis pill after each casing coupling has been milled is recommended.   If the flowline is
+        prone to blockage, then  it may be advisable to stop milling and flush or rod  it periodically before  it
+         blocks completely.
+
+ 8.10   Casing couplings will mill more slowly and may require reduced rotary speed or greater weight. Most
+         non-integral couplings are not threaded to the very end, as a result the unthreaded portion breaks free
+        as the mill knives approach the lower end of the coupling. The loose ring may break up or become
+        trapped and milled, however it may also start to spin on the top of the remaining casing at any stage,
+         preventing the mill from biting.  If this occurs then gentle spudding on the ring should cause it to break
+       up or become distorted and trapped so that it can be milled up. Stop rings and centralisers can cause a
+          similar result and should be treated accordingly.
+
+ 8.11     If drillstring is bouncing or rough running starts to occur, then the weight and rotary speed should be
+        reduced for a while before attempting to gradually increase the parameters again.
+
+ 8.12   Poorly cemented casing may necessitate lower rotary speeds with less applied weight.
+
+ 8.13  As the knives become completely worn down, the casing will be skimmed for a while before the tool
+          starts to fall down inside - watch for torque changes and increased ROP at low weights.  Pull back and
+         locate the true lower end of the window by running down without rotation to sit the worn knife stubs on
+         the casing.
+
+ 8.14  Once the window is complete, or the knives worn out, ensure that the hole is circulated clean before
+      POOH. The point at which changes in swarf size/form and volume is observed at the shakers can
+         provide a good indication of the efficiency of hole cleaning. Turn off the pumps and rotate the string for
+       a few minutes to persuade the knives to collapse into the tool body. Take care when withdrawing the
+           mill and stabilisers back through the top of the window.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 9 ]
+────────────────────────────────────────────
+            UK Operations              Section    :  6420/GEN
+             GUIDELINES FOR           Rev.         :  1 (04/97)
+BP EXPLORATION   DRILLING OPERATIONS                                                         Page        :  9 of 9
+
+ SUBJECT:  SECTION MILLING
+
+ 8.15     If the window is not completed with the first mill run, then the following precautions should be observed
+       on subsequent runs:
+
+         a)  Break circulation above the casing window to confirm that the knives do close again afterwards.
+
+         b)  Open the knives at the top of the window and lightly ream through the section - set torque limiter at
+          minimum position to maintain rotation only.
+
+          c)  Cut a profile on the casing stump with the new knives at minimal weight before resuming the
+            window.
+
+ 8.16  A subsequent run with a rock-type underreamer may be considered if it is vital to remove all debris from
+         the window or to produce a consistent open hole diameter.
+
+

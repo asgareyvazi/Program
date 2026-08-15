@@ -1,0 +1,268 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  1 of 5
+
+SUBJECT:  CALCULATION OF OPTIMUM FISHING TIME
+
+The decision to stop fishing and initiate sidetrack or re-spud operations in most cases is based on minimising
+the cost of the incident. A statistical analysis of previous incidents has been used to develop a tool to estimate
+optimum fishing time.
+
+An analysis of 209 stuck pipe incidents has resulted in the formulation of the following fishing equation. The
+equation is based on economics and on statistical analysis.
+
+It is recommended that the following summary be used to calculate the optimum fishing time as soon as the
+pipe becomes stuck.
+
+There is also an equation which has been deduced from the statistics analysed to predict sidetrack costs. This
+equation may also be used to determine the optimum fishing time.
+
+Case examples are included in this operational summary of a recent report (November 1990) produced by
+Drilling and Completions Branch in Sunbury.
+
+1.    RECOMMENDATIONS
+
+        1.  The equation should be used to calculate optimum fishing time before sidetrack options are
+           considered.
+
+        2.   Alternatively the sidetrack costs can be estimated using the normalised equation. From knowledge
+             of the operations planned, a cost can be calculated. The optimum fishing time can also then be
+          deduced from the cost ratio graph.
+
+        3.  The knowledge gained in a development area, from offset data or from the actual situations, should
+           always be considered when deciding if there are any overriding factors that affect the decision to
+              fish for a shorter or longer period of time.
+
+        4.  The equation must be ignored if safety considerations or Government regulations call for a different
+           course of action.
+
+2.    CALCULATION OF OPTIMUM FISHING TIME
+
+        a)  Calculation of Cost Ratio For Potential Sidetrack
+
+                                       1.43R          Cost Ratio  =                                                                                                      ...(1)                     V + 56R + 5D + (7RD/1250) + 7,000 + TR
+
+       R  =  Hourly Rig Operating Rate (£).
+
+       D  =  Estimated Measured Depth of Stuck Point (Metres).
+
+        V  =  Value of Drillstring Below Stuck Point (£).
+
+         T  =  Time Taken to Drill Original Hole from Stuck Point to Depth where Sticking took place
+                   (Hours).
+
+         Key to derivation of constants used in the equations:
+
+          1.43R    -  On investigation of cases when pipe was freed the time taken to get back to the same
+                      depth prior to getting stuck consisted of 43 pc remedial work.
+
+         56R      -  Time taken for post sticking operations. Severance, cement plug, kick-off etc.
+
+        5D        -   Back-off depth related costs.
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  2 of 5
+
+SUBJECT:  CALCULATION OF OPTIMUM FISHING TIME
+
+        b)  Calculation of Cost Ratio for Wells Requiring Respud
+
+                   If failure to retrieve the fish will result in a re-spud and not a sidetrack, the following equation may
+          be used:
+
+                                1.43R          Cost Ratio   =                                                                                                     ...(2)                     V + Cost of Re-spud
+
+        c)  Graphical Determination of Optimum Fishing Time (OFT)
+
+           Using the calculated Cost Ratio, draw a line vertically upwards on the graph, Figure 1, until it meets
+            the curve (i.e. A ¡ B). Draw a horizontal line from this point (i.e. B ¡ C) and read off the value of
+         OFT. This gives the time (in hours) which should be used for fishing before starting a sidetrack.
+
+3.    CASE EXAMPLE (PART 1)
+
+     JOHN SHAW (BRUCE DEVELOPMENT) WELL 9/9A-A04 (D3)
+
+        Calculation of Optimum Fishing Time
+
+      As per formula in Section 2:
+
+                                    1.43R       Cost Ratio  =                 V + 56R + 5D + (7RD/1250) + 7,000 + TR
+
+     R  =  Operating Rate (£2,059).
+     D  =  Stuck Point (1781m).
+     V  =  Value of Lost Drillstring (£281,192).
+      T  =  Time taken to Drill from stuck point to TD (24 hours).
+
+       Therefore Cost Ratio = 0.0061.
+      Hence (reading off graph), Optimum Fishing Time = 23 hours.
+
+        In this particular case the stuck pipe scenario was such that no rotation or circulation was possible from
+       the point of sticking.  Prior to sidetracking the time spent attempting to work the string free was 19.5
+       hours.  This shows that although this formula is based on statistical analysis of historic events, there
+     may be situations in which the drilling team can judge better the probabilities. The drilling team still can
+       estimate probabilities and take advantage of previous experience in known areas in the field as an
+        overriding factor whether to keep on fishing or to opt straight for the sidetrack operation which is still an
+      economic decision.
+
+4.    CALCULATION OF SIDETRACK COSTS
+
+      Of the 209 stuck pipe cases between January 1987 and June 1990, an analysis was made of all the
+        wells sidetracked. The results led to equations being formulated to give a reasonable sidetrack cost
+        estimate.
+
+      The cost equation omits certain costs which were deemed to be low in relation to those rig-time related
+         (e.g. special helicopter/personnel costs).
+
+      The results are as follows:
+
+       Back-Off/Severance Cost:     17R + 5D + 4000
+
+                               RD        Trip Out Of Hole:           3R +                                       1250
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  3 of 5
+
+SUBJECT:  CALCULATION OF OPTIMUM FISHING TIME
+
+                                       2 RD       Cementing:                10R +      + 2900                                       1250
+
+                                       2 RD       Dress-Off Trip:             8R +                                       1250
+
+                                       2 RD        Kick-Off Cost:              18R +                                       1250
+
+        Redrill Cost:                       Redrill Time x R
+
+      The Combined Equation
+
+                                       7 RD       Sidetrack Cost   =                                                                                                     ...(3)                       56R + 5D + 1250 + 7,000 + Redrill Time.R
+
+     R = Hourly Rig Operating Rate (£).
+     D = Stuck Point (m).
+
+       Note: As expected this ties into the Optimum Fishing Time Equation.
+
+                        1.43 R      Cost Ratio  =                                                                                                            ...(4)                 C
+
+       where:
+
+     C = Value of Fish Lost Downhole + Cost to Sidetrack to Original Depth.
+
+5.    CASE EXAMPLE (PART 2)
+
+     JOHN SHAW (BRUCE DEVELOPMENT) WELL 9/9A-A04 (D3)
+
+       Leading on from Case Example Part 1, a comparison can be made with the sidetrack costs and the
+       costs determined by the graph.
+
+      As shown in Section 3, the sidetrack costs can also be used to calculate the optimum fishing time. This
+        calculation has been performed, and a comparison made with that determined by the graph in the Case
+      Example Part 1.
+
+        a)  Anticipated Sidetrack Costs (£):
+
+                      7 RD         56R + 5D +      + 7,000 + Redrill Time.R                     1250
+
+       R = £2,059.
+       D = 1781m.
+             Redrill Time = 24 hours.
+
+         Note:
+            Redrill Time is the anticipated actual time spent redrilling the section, after kick off - best estimate
+             willoftenbethetimeittooktodrilltheoriginalsection.
+
+            Anticipated Sidetrack Cost = £201,728.
+
+         The actual anticipated was £285,904.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  4 of 5
+
+SUBJECT:  CALCULATION OF OPTIMUM FISHING TIME
+
+        b)  The optimum fishing time can be calculated from:
+
+                              1.43 R          Cost Ratio   =                      C
+
+       C =  Value of Fish Lost Downhole + Cost to Sidetrack to Original Depth.
+
+       C =  £281,192 + £201,728 = £482,920 (Estimated Cost)
+       C =  £281,192 + £285,904 = £567,096 (Actual Cost)
+
+            Therefore:
+
+          Cost Ratio = 0.0061 (for the Estimated Cost)
+          Cost Ratio = 0.0052 (for the Actual Cost)
+
+         From the curve shown below,  it can be seen that the difference between the estimated cost
+          optimum fishing time and the anticipated actual cost optimum fishing time is negligible.
+
+                i.e.  Optimum Fishing Time (Estimated Cost) = 23 hours
+              Optimum Fishing Time (Actual Cost) = 26 hours
+
+           For a detailed description on the derivation of the equations, refer to Document No. DCB/75/90/BR,
+              Drilling and Completions Branch, Section 152, November 1990, “A New Fishing Equation”.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 5 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  6005/GEN
+
+                                                                  Rev.         :  0 (4/91)
+      DRILLING MANUAL     Page        :  5 of 5
+
+SUBJECT:  CALCULATION OF OPTIMUM FISHING TIME
+
+                                                                       FIGURE 1
+
+                                                                                                                                              0.020
+
+                                                                                                                                              0.018
+
+    Data                                                                                                                          0.016
+   All                                                                                                                          0.014
+
+ -
+                                                                                                                                              0.012    Time
+                                                                                                                 Ratio                                                                                                                                              0.010
+                                                                                           Cost       Fishing                                                                                                                                              0.008
+
+                             B   A    0.006       Optimum                                                                                                                                              0.004
+
+                                                                                                                                              0.002
+
+
+
+
+                            C
+                                                                                                                                              0.000
+
+                           0               120    108  96  84  72   60  48  36  24  12
+
+                          (hours) OFT
+
+

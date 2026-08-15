@@ -1,0 +1,386 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 7 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Index Prefixes
+
+ 0000                       Safety and Administration
+
+ 1000                         Drilling
+
+ 2000                      Casing and Tubing
+
+ 3000                     Cementing
+
+ 4000                         Drilling Fluids
+
+ 5000                      Wellheads, Packers, Tools and Equipment
+
+ 6000                      Stuck Pipe and Fishing
+
+ 7000                     Well Evaluation
+
+ 8000                     Marine and Miscellaneous
+
+
+Index Suffixes
+
+MST                     Master Index and User Guide
+GEN                      General
+SEM                      Semi-Submersible Drilling Units
+JAK                     Jack-Up Drilling Units
+ FIX                       Fixed Drilling Units
+FOR                         Forties
+CLY                     Clyde
+BEA                        Beatrice
+MAG                  Magnus
+THI                          Thistle
+MIL                        Miller
+DON                 Don
+BRU                     Bruce
+MAR                   Marnock
+RAV                     Ravenspurn
+AME                    Amethyst
+WYF                  Wytch Farm
+HAR                     Harding
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 7 ]
+────────────────────────────────────────────
+              UK Operations
+
+               GUIDELINES FOR
+            DRILLING OPERATIONS
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+Section               Description
+
+ 5000               WELLHEADS, PACKERS, TOOLS & EQUIPMENT
+
+5010/SEM                Subsea Guideline Wellhead Systems - General
+
+5030/JAK                Mudline Suspension Systems
+
+5035/JAK                   Prep. & Run PLEXUS “CENTRIC 15”, Mudline Suspension
+                         System
+
+5200/GEN                  Packers: Baker (Brown) JM Compression Set Tie-Back Packer
+
+5205/GEN                  Packers: Baker (Brown) CPH Hydraulic Set Tie-Back Packer
+
+5210/GEN                  Packers: TIW SN-6 Retrievable Tie-Back Packer
+
+5215/GEN                  Packers: Bridge Plug Setting General
+
+5220/GEN                  Packers: EZ-Drill-SV Squeeze Packer
+
+5225/GEN                  Packers: Bobcat Retrievable Bridge Plug
+
+5227/GEN                  Packers: Arrow DLT Packer, Unloader and Storm Valve
+
+5230/GEN                  Packers: Johnson Hurricane Packer
+
+5235/GEN                  Packers: Halliburton RTTS Packer
+
+5237/GEN                  Packers: BJ Services Mode 1223 Packer
+
+5400/GEN                   Drilling Jars
+
+5410/GEN                  Hydril Retrievable Drop-In Check Valves
+
+5420/GEN                    Drill Stem Ciruculating Subs
+
+5440/GEN                Bypass Valves
+
+5460/GEN                    Drill String Lifting and Handling Equipment
+
+5500/SEM               Heave Compensation Systems
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 7 ]
+────────────────────────────────────────────
+               UK Operations
+
+                GUIDELINES FOR
+
+             DRILLING OPERATIONS
+
+
+
+SUBJECT:   MASTER INDEX OF GUIDELINES FOR DRILLING OPERATIONS
+
+
+
+
+5050/FOR                Wellhead System Forties FA/FC
+
+5050/CLY                Wellhead System Clyde
+
+5050/MAG               Wellhead System Magnus
+
+5050/BRU                Wellhead System Bruce
+
+5050/AME                Wellhead System Amethyst
+
+5050/WYF              Wellhead System Wytch Farm
+
+5051/FOR                Wellhead System Forties FB/FD
+
+
+
+NOTE: Sections highlighted in bold are those sections which have been modified (or inserted
+          for the first time) in the most recent amendment to this Guidelines for Drilling
+         Operations. Within each such section, the newly modified parts are identified by the
+        bold black marker line on the right side of the text. A brief resume of the changes is
+        provided at the end of this MST section.
+
+         Sections underlined are those items which are available within this version of Acrobat.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5010/SEM
+
+                                                                  Rev.         :  2 (8/94)
+      DRILLING MANUAL     Page        :  1 of 4
+
+SUBJECT: SUBSEA GUIDELINE WELLHEAD SYSTEMS - GENERAL
+
+1.    GENERAL
+
+      The standard subsea wellhead system used by XEU for exploration and appraisal drilling is the
+       Universal Wellhead system.
+
+      The following text clarifies the use of the individual components used in the Universal Wellhead system.
+       Technical details of the components can be found in the latest revision of the Universal Wellhead
+        Specification DTG/D/29/89.  All components will be supplied by the manufacturer according to the
+        Specification.
+
+2.    COMPONENTS
+
+      The components will be run as described below.  Drawings and vocab numbers are not included
+      because of the differences in detail between individual manufacturers’ systems. Equipment details can
+      be found in the respective operating manuals, which are specific to each rig.
+
+2.1   TGB
+
+      The TGB will only be used if an operational area has a particularly high seabed slope, weak soil and/or
+              if water depth conditions dictate. A TGB will only be supplied to the rig if such conditions exist.
+
+      To accommodate a large seabed slope, the TGB has a receiver for the PGB gimbal to permit angular
+       misalignment between the TGB and PGB.
+
+2.2   PGB
+
+      The PGB shall be run on all wells.
+
+      The PGB has a detachable gimbal to land in the TGB gimbal receiver.  If the TGB is not required then
+       the PGB gimbal should not be ordered with the PGB. The standard PGB latch mechanism for the 30”
+       housing allows the housing to be stabbed in place without aligning lockdown bolts. The underside of
+       the PGB has locating bars to stop the PGB from skidding on the spider beams when making up the 30”
+       housing.
+
+      The PGB carries locating points for bullseyes and acoustic beacons.
+
+      The PGB has standard guide posts fitted with Regan style post tops for reconnecting guidelines in the
+       event of breakage;  the posts are numbered to be consistent with present subsea numbering practise
+      and are replaceable with ROV/diver assistance. The guide posts have guideline attachment points
+         directly underneath the posts so that guidelines can be run when the TGB is not run.
+
+      Cement top-up is provided for by stinger guide funnels fitted in the four quadrants of the PGB.
+
+2.3    30” Housing
+
+      The 30” housing and conductor string shall be run on all wells.
+
+      The 30” is run on a cam actuated running tool which is latched into the top of the 30” housing. The 30”
+       housing is then latched into the PGB.
+
+      The extension joint is a welded extension to the 30” housing and is a standard component consisting of
+      a Vetco RL-4 connector box down with heavy wall (1.5”, 456.57 lbs/ft, X52) 9m long joint. A second
+      heavy wall joint is normally run to accommodate the load transfer from the rigid lockdown in the well
+      body and to allow for cement shortfalls.
+
+      The length, weight and grade of the 30” conductor and connectors below the extension joint will be
+        specified in the drilling programme.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5010/SEM
+
+                                                                  Rev.         :  2 (8/94)
+      DRILLING MANUAL     Page        :  2 of 4
+
+SUBJECT: SUBSEA GUIDELINE WELLHEAD SYSTEMS - GENERAL
+
+      The 30” can accept a standard internal latch (pin connector) to allow mud returns when drilling the 26”
+       hole section. The profile of the internal latch will be specific to individual manufacturers.
+
+2.4    Wellhead Body
+
+      The 18 3/4” 15,000 psi Universal Wellhead body shall be run on all wells, whether they are single or
+       dual BOP stack systems. The wellhead has a connector profile compatible with a Cameron Ironworks
+      model 70, 10,000 psi connector or a model HC, 15,000 psi connector. No other connector profile can
+      be used.
+
+      The wellhead body has a rigid lockdown mechanism which is used and activated on each well. The
+         rigid lockdown is used to transfer operational loads from the wellhead into the 30” conductor away from
+       the surface casing.
+
+      The wellhead body extension joint shall be run as detailed in the Specification (20” x 0.812”, 166.4 lbs/ft
+       X56, 2m long using a Vetco RL-4S pin down connection). However, the surface casing and connectors
+       are unspecified to allow flexibility for the individual well and will be indicated in the drilling programme.
+       This flexibility allows 20” or 13 3/8” surface casing to be run. The 20” can be run connected to the
+       wellhead extension joint by the RL-4S connector. The 13 3/8” can be run by connecting a 20” x 0.625”
+      pup joint plus crossover joint with a 13 3/8” buttress casing thread to the extension joint. This crossover
+         is a standard BP component.
+
+      The Universal Wellhead body has provision for running dual or single stack (13 5/8” or 18 3/4”)
+       components.  This maintains exploration and completion flexibility and compatibility with BP’s single
+      and dual BOP stack drilling rigs. The design of the wellhead body ensures that it will be compatible with
+        existing completion options used by BP.
+
+2.5    Casing Hangers
+
+      The following casing hangers can be suspended within the Universal Wellhead body: 13 3/8”, 9 5/8”
+      and 7”. An option exists to run 16” as a liner below the wellhead and a 10 3/4” hanger in the wellhead
+         in place of the 9 5/8” hanger.
+
+         All casing hangers have standard extension joints and, like the 30” housing and wellhead body, allow
+          flexibility for choosing the relevant casing.
+
+      The casing hangers are run on tools which run and set the pack-off at the same time, i.e. single trip.
+      Each hanger can also be run on full bore running tools but in this case the pack-off has to be run
+        separately.
+
+2.6    Pack-Offs
+
+         All pack-offs shall be run as a matter of course to seal the respective hanger and wellhead annulus.
+      The pack-offs are recoverable and do not restrict retrieval of the casing hanger system.  All pack-offs,
+      except the emergency pack-off, have metal-to-metal seals. Each casing hanger pack-off is
+       interchangeable (except dual to single stack systems) so that stock levels can be rationalised.
+
+         All pack-offs are weight set and require straight pull to retrieve.
+
+      Note:
+    When pulling annulus pack-offs (particularly during abandonment operations), there is a strong
+       likelihood of an accumulation of gas underneath the pack-off. Caution should be observed to
+      ensurethegasiscontainedbyclosingBOPsanddiverteratappropriatetimesimmediatelyprior
+     topullingthepack-offs.
+
+      Consideration should be given to punching the casing below the pack-off and venting the gas
+     undercontrolledconditionspriortopullingthepack-off.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5010/SEM
+
+                                                                  Rev.         :  2 (8/94)
+      DRILLING MANUAL     Page        :  3 of 4
+
+SUBJECT: SUBSEA GUIDELINE WELLHEAD SYSTEMS - GENERAL
+
+2.7   Wear Bushings and Bore Protectors
+
+       For all operations wear bushings and bore protectors are run to protect the casing hangers and bore of
+       the wellhead.
+
+      The design of the components means that BOP stack testing can be carried out with the wear bushing
+         in place. They are also held positively in place once run.
+
+        Isolation (of the uppermost pack-off) pressure testing and non-isolation pressure testing can be
+       achieved with the wear bushings run or retrieved. The bore protector has to be removed to do any
+       pressure testing.
+
+2.8   Running and Test Tools
+
+      The number of running tools has been kept to a minimum so that any one tool will carry out many
+        functions.
+
+         All tools have a positive method of indicating that they have been activated correctly.  In the case of
+        pack-off running tools, the pack-off will always be recovered on the running tool if it does not set, even if
+      a positive pressure test is achieved.
+
+       Right hand rotation is standard and the use of “J” activated tools is minimised.
+
+        Full bore casing hanger running tools are available to maintain flexibility in cementing and designing
+        casing.
+
+2.9    Dual BOP Stack System Conversion Components
+
+      The use of dual BOP stack rigs is currently limited to BP’s two rigs - the Sea Explorer and the Sedco/BP
+       711.   If contracted, other dual BOP stack rigs would have to be fitted with crossover wellhead
+       connectors. In all cases the Universal Wellhead conversion components would be run.
+
+      The UWHD system allows crossover to the dual BOP stack system from a single BOP stack system
+       wellhead. The single BOP stack wellhead size is 18 3/4” nominal ID and the dual BOP stack sizes are
+      21 1/4” and 13 5/8” nominal ID respectively.
+
+      The standardised nominal size of the wellhead body is 18 3/4” which is applicable to dual and single
+     BOP stack bodies. The 21 1/4” BOP stack uses a wellhead connector, with an internal crossover from
+      21 1/4” nominal ID to 18 3/4” nominal ID. Likewise, the 13 5/8” BOP stack uses a wellhead connector
+        with an internal crossover from 13 5/8” nominal ID to 18 3/4” nominal ID.
+
+     When using a dual stack rig the 18 3/4” wellhead bore is reduced to 13 5/8” for running the 9 5/8” and
+       the 7” components.  Tubing hanger adapters for SWOPS, the CTH or conventional dual bore
+       completions are also available.
+
+2.10   Debris Cap
+
+      The debris cap is provided to allow suspension of the well for future possible development. The debris
+      cap is simple to use and one design and size can be run on either single or dual BOP stack systems.
+
+      The cap is run and landed on the outside of the wellhead body by a straight stab and retrieved by
+        overpull.  If it is not set correctly, then it will be retrieved on the running tool.
+
+        Anti-corrosion fluid can be injected through the drill pipe running string into the debris cap to protect the
+       casing hangers and seal areas during suspension.
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 7 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  5010/SEM
+
+                                                                  Rev.         :  2 (8/94)
+      DRILLING MANUAL     Page        :  4 of 4
+
+SUBJECT: SUBSEA GUIDELINE WELLHEAD SYSTEMS - GENERAL
+
+2.11   Tie-Back Facility
+
+       Tie-back facilities are not required for exploration or appraisal drilling but by specifying the UWHD the
+       wellhead will be suitable for subsequent tie-back if the well is to be developed.
+
+2.12   Completion Requirements
+
+       Completion requirements are not required for exploration or appraisal drilling. However, by specifying
+       the UWHD the wellhead will be suitable for all subsequent completions involving SWOPS and CTH (or
+       other methods, by design).
+
+      Once the well has been drilled, tubing hanger adapter sleeves require to be run into the wellhead to
+       permit completion by the chosen method, e.g. SWOPS or the CTH.
+
+

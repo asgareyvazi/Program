@@ -1,0 +1,65 @@
+# ============================================================================
+# SCRUB PROCEDURES DATABASE — remove company/well/reservoir names everywhere
+# File: scrub_procedures_db.py
+# Runs generalize_text (from cbs_db) over ALL procedures, steps and
+# checklist items so the procedures database stays 100% general.
+# Run after any seeding.
+# ============================================================================
+
+import re
+import sys
+
+from cbs_db import generalize_text
+from procedures_db import ProcedureDatabase
+
+
+def scrub(db: ProcedureDatabase) -> dict:
+    stats = {"procedures": 0, "steps": 0, "checklist": 0}
+
+    # 1) procedures (name, description, tags)
+    rows = db.conn.execute(
+        "SELECT id, name, description, tags FROM procedures").fetchall()
+    for r in rows:
+        n_name = generalize_text(r["name"])
+        n_desc = generalize_text(r["description"] or "")
+        n_tags = generalize_text(r["tags"] or "")
+        if (n_name, n_desc, n_tags) != (r["name"], r["description"], r["tags"]):
+            db.conn.execute(
+                "UPDATE procedures SET name=?, description=?, tags=? WHERE id=?",
+                (n_name, n_desc, n_tags, r["id"]))
+            stats["procedures"] += 1
+
+    # 2) steps
+    rows = db.conn.execute("SELECT id, text FROM procedure_steps").fetchall()
+    for r in rows:
+        nt = generalize_text(r["text"])
+        if nt != r["text"]:
+            db.conn.execute("UPDATE procedure_steps SET text=? WHERE id=?",
+                            (nt, r["id"]))
+            stats["steps"] += 1
+
+    # 3) checklist items
+    rows = db.conn.execute(
+        "SELECT id, text, category FROM checklist_items").fetchall()
+    for r in rows:
+        nt = generalize_text(r["text"])
+        nc = generalize_text(r["category"] or "")
+        if (nt, nc) != (r["text"], r["category"]):
+            db.conn.execute(
+                "UPDATE checklist_items SET text=?, category=? WHERE id=?",
+                (nt, nc, r["id"]))
+            stats["checklist"] += 1
+
+    db.conn.commit()
+    return stats
+
+
+if __name__ == "__main__":
+    db = ProcedureDatabase()
+    try:
+        stats = scrub(db)
+        print("scrubbed:", stats)
+        total = db.conn.execute("SELECT COUNT(*) AS c FROM procedures").fetchone()["c"]
+        print(f"procedures total: {total}")
+    finally:
+        db.close()

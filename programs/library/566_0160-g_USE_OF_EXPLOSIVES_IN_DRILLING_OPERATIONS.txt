@@ -1,0 +1,935 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  1 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+1.    INTRODUCTION TO OFFSHORE EXPLOSIVE TECHNIQUES
+
+       Explosives can be divided into two broad categories - low and high explosives.
+
+1.1   Low Explosives
+
+     Low explosives are employed where their ability to produce large volumes of gas is required as a
+       source of energy.  This can be as a propellant to force a projectile in the desired direction or as a
+      means of inflation, e.g. in a packer. Low explosives are said to be deflagrating and are initiated by
+         ignition (although this may start as impact, e.g. percussion cap). By comparison with high explosives,
+       they generate a slow, heaving action.
+
+1.2    High Explosives
+
+       High explosives are used where an instantaneous shattering action - brisance - is required. They are
+         initiated by detonation, i.e. by an explosion, and the speed and power of the means of detonation is
+        reflected in the speed of the shock waves produced by the high explosive.
+
+1.3    Detonators
+
+      The selection and correct use of an appropriate combination of detonators and accessories is essential
+         in achieving a safe and effective result, whilst minimising the physical and environmental hazards.
+
+1.4    Primers
+
+       Primers are used to boost the detonation wave for efficient propagation to the less sensitive explosive
+       charges. There are special purpose boosters available, but in most cases detonating cord is used as
+       the priming medium.
+
+1.5     Initiation Methods
+
+       Detonators are the most sensitive components in the explosives train. Modern systems have been
+       devised to decrease their sensitivity to handling and to make operations involving explosives safer and
+      more predictable.
+
+       For underwater explosives operations, the use of straight-forward electrical detonators, which are prone
+        to the effects of radiation, has virtually been discontinued. As these detonators could be prematurely
+        triggered by voltages induced in the firing circuit from radiating sources such as radar, radio, navigation
+       systems, etc., they required radio silence at critical periods.
+
+      They have been replaced by three basic types of detonator:
+
+        a)  The high threshold detonator which employs a resistor to filter stray voltages.
+
+        b)  The magnetically induced detonator which utilises a magnetite ring to induce a current from a
+           predetermined cycle surged through a circuit.  This momentarily turns the ring into a transformer
+             resulting in initiation of the detonator.
+
+        c)  The exploding bridge wire system which depends on a high voltage and high amperage applied
+           over a short time. This ruptures a bridge wire at such a velocity as to produce a detonating wave.
+
+      These systems have been developed to provide a higher degree of safety andreliability.
+
+1.6    Shaping a Charge
+
+      An explosion exerts force in all directions.  Although the explosion from a cartridge in a firearm may
+      seem to direct all the force towards propelling the projectile along the barrel, this is not so. Much of the
+       energy is absorbed in the breech or chamber, and more is spent in the recoil.   It has been made
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  2 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+       possible to use all the energy shaped or focused into a jet by having the explosive packed behind a
+        conical liner. This effect is illustrated in Figure 1.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  3 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+                                                       FIGURE 1
+
+
+             SHAPED CHARGE - FORMATION OF JET AND SLUG
+
+
+
+
+                                   METAL LINER
+
+                                                                        (1) BEFORE FIRING
+        EXPLOSIVE
+
+
+
+                                                                        (2) DURING FIRING
+
+         DETONATION
+         FRONT
+
+                                                                        (3) DURING FIRING
+
+
+
+
+                                                                        (4) AFTER FIRING
+
+
+
+
+
+                                                                                                                                                         2179 /147
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  4 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+2.    THE APPLICATION OF EXPLOSIVES IN DRILLING
+
+2.1    Perforating
+
+        Perforating was originally carried out using a propellant cartridge to fire a solid ball into the formation
+       through tubing.  This method is still available, but is little used. The Kinley Perforator, however, still
+      uses this principle to perforate tubing where bridging problems interrupt circulation.  Nearly all
+        perforating is now carried out using shaped charges run on either wireline or drill pipe.  In the former
+       method, initiation is by means of a detonator fired by the wireline, and in the latter by firing a cartridge
+      by means of impact or pressure.  In both cases a series of shaped charges is detonated virtually
+       instantaneously by means of detonating cord, itself detonated by the described initiation methods.
+
+2.2    Pipe Back-Off
+
+       Pipe back-off is achieved by setting off a controlled explosive jarring action to loosen a selected joint.
+
+2.3    Pipe Cutting
+
+       Pipe cutting is possible by means of a shaped charge which has an outward facing circular liner
+        providing all round shaping of the charge to give a clean cut on detonation (Figure 2).
+
+2.4    Collar Cutting
+
+        Collar cutting is more difficult to accomplish because of the thickness of metal involved. A technique
+       using a collision charge is used.  This involves a container of explosives with a detonator above and
+       another below the charge (Figure 3). Simultaneous detonation results in two shock waves converging
+      and colliding with the result that they force each other sideways, thus cutting the chosen collar.
+
+2.5    Side-Wall Coring
+
+        Side-wall coring is used to obtain small samples of the formation.  It is accomplished by firing a hollow
+         “bullet” into the formation. The bullet, with its formation sample, is held captive by short cables and is
+       recovered by pulling the gun out of the hole.
+
+2.6   Junk Shot
+
+      Where undrillable junk, e.g. twisted-off rock bit, is preventing drilling and cannot be fished, a large
+      shaped charge can be used to shatter the obstruction. The fragments are then retrieved with a magnet
+        or junk basket. The junk shot is either run on drill pipe or wireline. A built-in stand-off ensures that the
+       charge is at the correct distance from the obstruction.
+
+2.7    Wellhead Recovery from a Drilling Rig
+
+     On abandonment, wellhead recovery from a drilling rig can be accomplished using explosives to sever
+       casings in much the same way as collar cutting, but using a much larger collision charge (Figure 4).
+
+2.8    Wellhead Removal from a Diving Support Vessel (DSV)
+
+      Wellhead recovery from a Diving Support Vessel (DSV) is carried out when the rig has moved off
+        location.  It is not unusual to contract a DSV to recover more than one wellhead in an operation. The
+      method of severing the casings is similar to collar cutting. The main difference is that divers guide the
+       charge assembly into the hole as it is being lowered on the load-line from the DSV. A “cross-piece” is
+         fitted to the load-line to give the correct distance the charge must be in the hole, which is usually 5m
+        (Figure 5). When the Diving Supervisor is satisfied the charge is correctly placed, he will recover the
+        diver/diving bell to the surface before the charge is fired.
+
+            If a corrosion cap is set, the divers will be required to remove it before cutting operations begin.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  5 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+                                                          FIGURE 2
+               JET TUBING CUTTER         JET CASING CUTTER
+
+
+
+
+
+                                                          FIGURE 3
+                          COLLAR CUTTER
+                   SANDLINE
+                    (OR DRILL-PIPE)
+
+
+                                                        FIRING LINE
+
+
+
+
+
+                           EXPLOSIVE
+
+
+                                                 DETONATORS
+
+
+
+
+
+                                                                                                                                                                2179 /146
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  6 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+                                                            FIGURE 4
+                     WELLHEAD SEVERING CHARGE
+                                                    DRILL PIPE
+
+                                                      FIRING MODULE
+                                                        INITIATING CABLE
+                                               VENTED TOOL
+                                             ATTACHMENT
+
+
+
+                                                 BALLAST CONTAINER
+
+                                                   EXPLOSIVE CONTAINER
+                                                    CASINGS
+
+
+
+
+
+                                                            FIGURE 5
+                    DIVER GUIDING CHARGE INTO WELLHEAD
+
+
+                 LOADLINE
+
+                   FIRING
+                CABLE
+
+                                                                    DIVING                 CROSS                                                               BELL                  PIECE
+
+
+                DEPTH CHARGE
+                    IN THE HOLE
+
+                 BALLAST DRUM
+
+                 EXPLOSIVE
+               CHARGE
+
+
+
+
+
+                                                                                                                                                                     2179 /145
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  7 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+     When the wellhead has been severed the diver will connect the DSV crane to the base.   It is then
+       recovered to the surface. The crane should be rated to a minimum of 60t SWL to overcome the weight
+        of grout, cement and effects of suction.
+
+3.    INFORMATION REQUIRED TO PERFORM EXPLOSIVE OPERATIONS
+
+      The work to be done must be specified in sufficient detail to allow the explosives service company to
+      produce procedures. The procedures should be submitted to Drilling for approval and any major
+      changes to the procedures must be agreed before implementation.
+
+3.1    Perforating
+
+     A large range of shaped charges is available to suit different tubular sizes. A charge’s performance is
+       governed by the angle of the conical liner.
+
+            It is the responsibility of the Petroleum Engineering Department to:
+
+          •  Specify which charges are required to optimise performance in the formation to be perforated.
+
+          •  Provide the explosives service company with information on the zone or zones to be perforated and
+          the spacing and direction of the charges.
+
+          •  Provide an engineer to look after their interests on the rig during perforating operations.
+
+      The Drilling Supervisor is responsible for the running of the operation.
+
+      Note:
+       Top-driveisolation-seeNote4.3.
+
+3.2    Pipe Back-Off
+
+      Assuming the Free Point Indicator tool has indicated the free point, it will be necessary to work out the
+        point at which back-off is to be attempted. Since this is most likely to be successful at a joint which is
+       normally broken when tripping, the joint nearest above the free point should be identified and its depth
+       given to the service company. A discussion should take place on the type of thread, torque used in
+      make-up and the reverse torque turns required to achieve back-off on firing the jarring charge.
+
+3.3    Pipe Cutting
+
+      Where back-off is unsuccessful, a severing charge can be used at the chosen joint.   It is obviously
+       easier to cut the drill pipe in the middle section rather than at a connection.
+
+3.4    Collar Cutting
+
+      The information required by the service company is again the identification of the most suitable free
+          joint.
+
+3.5    Side-Wall Coring
+
+      The cores are required by Geology Department who will specify the depths at which cores are to be
+       obtained and will witness the operation. Drilling will be responsible for the running of the operation.
+
+3.6   Junk Shot
+
+      The explosives service company require to know the nature of the junk material in order to decide the
+        size of junk shot required.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  8 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+3.7    Wellhead Recovery from a Rig
+
+       Information required by the explosives service company includes:
+
+        a)  Number of casings to be cut.
+        b)  Grade of casings to be cut.
+        c)  Water depth.
+
+3.8    Wellhead Recovery from a DSV
+
+        a)  Well locations and number.
+        b)  Number of casings.
+        c)  Grade of casings.
+        d)  Water depth.
+        e)  Condition and weight of wellhead.
+           f)   Proximity to other wellheads, debris, etc.
+        g)  Where the wellheads are to be off-loaded.
+        h)  Depth of cut required.
+
+4.    SAFETY CONSIDERATIONS
+
+4.1    General
+
+      The following safety points offer guidance to the BP Drilling Supervisor and OIM’s involved in
+       overseeing explosives operations, and should be read in conjunction with BPPD Standard HS&E
+       Regulations, Chapter 30.
+
+4.2    Responsibilities
+
+      The BP Drilling Supervisor and OIM in an operation involving the use of explosives have a
+       responsibility to be fully aware of all the aspects and limitations connected with their
+       applications, and a duty to ensure the rigid enforcement of safety regulations.
+
+      An Explosives Engineer experienced in the safe handling and use of explosives should be placed in
+        overall charge of the explosives operation and be responsible to the BP Drilling Supervisor/OIM for its
+       conduct and the health and safety of all personnel involved.
+
+       His responsibilities will include:
+
+          •  Advising the OIM/Drilling Supervisor on aspects of the explosives operation.
+
+          •  Ensuring the explosives are “fit for purpose” and correctly stored.
+
+          •  Making-up and deploying the charges.
+
+          •  Supervision of all persons involved in explosives handling.
+
+          •  Implementation of the Service Company Regulations.
+
+          •  Ensuring that all explosives that are to remain onboard are correctly stored and accounted for.
+
+          •  Preparing surplus explosives for back-loading and ensuring that they are correctly labelled and
+          manifested.
+
+      The allocation of responsibility must be clear and should be published and distributed to ensure that all
+       the appropriate parties are informed.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  9 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+4.3   Ready Use Storage on Site
+
+      The storage area selected for the explosives and accessories required to be used on site should fulfil
+       the following minimum requirements:
+
+          •  Remote from any Hazardous Area.
+
+          •  Remote from the living accommodation.
+
+          •  Remote from any source of heat or flame.
+
+          •  Insulated against shock.
+
+          •  Protected from blast debris.
+
+          •  Well ventilated and dry.
+
+          •  Remote from possible Electro Magnetic emission hazards.
+
+        Note:
+      On rigs equipped with an electric top-drive, the top-drive motor must be electrically isolated before
+         runningexplosivesonelectricwireline.
+
+          •  Free of grit, or the explosives must be mounted on wooden pallets with a grit free surround.
+
+          •    If a storage area is on a vessel, it must have wooden walls and floor and offer secure storage in the
+          event of rough weather.
+
+          •  The exterior should be painted red with the word “DANGER” painted by the door of the magazine or
+           container. Appropriate hazard labels should also be displayed on the vertical sides of the magazine
+           or container.
+
+        In addition, the area must be clearly marked with warning and “No Smoking” signs in white letters on a
+       red background.  There must be separate storage for detonators, and all storage areas must be
+       secured and locked against unauthorised entry.
+
+4.4    Issue of Stores
+
+      The OIM should authorise all issues of explosives and accessories and ensure that:
+
+          •  The explosives are not approached or handled by unauthorised persons.
+
+          •  Surplus stores are returned to the magazine/explosives container prior to firing.
+
+          •  The “explosive register” is kept up-to-date and all issues and returns noted, including material
+        damaged and destroyed.
+
+          •  Detonators are drawn only immediately prior to firing by the Explosives Engineer.
+
+4.5    Explosives Register
+
+      An explosives register shall be kept by the OIM for the purpose of complying with the Health & Safety at
+      Work etc. Act 1974, and shall be maintained at those locations where the explosives certificate holders
+       are based.  It shall contain the following information:
+
+        a)   Details of all receipts.
+        b)   Details of all issues, and where being used.
+        c)   Details of all explosives used in each operation.
+        d)   Details of all misfired shots.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  10 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+        e)   Details of all explosives returned.
+           f)   Details of disposal and destruction of old stock.
+
+4.6    After Firing
+
+     On completion of explosives work, all unused and misfired explosives must be returned to the
+        store/freight travel container and the “Explosives Register” updated. Any shortage must be the subject
+        of an immediate enquiry conducted by the OIM. Unless this resolves the situation, the Police must be
+       informed by the OIM.
+
+      Note:
+      Explosives must not be stored on offshore installations for longer than is absolutely necessary.
+       Explosivessostoredshallbetheminimumquantitydeemednecessarytocarryoutthejob.
+
+4.7    Radio/Radar Silence During Explosives Operations
+
+       During operations involving explosives, sources of “stray” induced currents, e.g. welding sets or
+       cathodic protection which may be deemed as possible “triggers” to detonators, must be shutdown/
+       switched off beforemakingup any explosive tool or device (see 4.3 - electrical isolation of top-drive).
+
+      These limitations must be enforced from the time when the Electro Explosives Devices (EED’s) are
+      removed from the store until the time when the armed charge is 100 metres or more below the seabed
+        or ground level.
+
+      The limitations must be re-imposed at the 100 metre level when the shot, fired or not, is being brought
+      back to the surface, until it is declared safe by the Explosives Supervisor.
+
+      The OIM is responsible for ensuring that the correct procedures are instituted by way of the Control
+     Room and Radio Operators (see BPPD HSE Regulations, Appendix 30.3 “Radio Silence Whilst
+       Operations Involving the Use of Explosives are in Progress”).
+
+      The offshore installation’s standby vessel should be in visual signalling distance of the installation
+       during such periods of radio silence.
+
+4.8    Safety Distances
+
+     An underwater explosion will create shock waves and other forces which could damage rigs,
+        installations and vessels. To avoid damage, tables have been evolved by vessel and rig owners
+        indicating safe distances from explosions.
+
+      Dependent on the weight, type and the location of the charge, the Explosives Engineer will calculate the
+       predicted pressure and bubble effects. He will advise the OIM/Master of the required safety distance
+       from the charge. The BP Drilling Supervisor should ensure that the safety distances are adhered to.
+
+      The intended weight and type of explosives will be determined in the approved procedures.   If  it is
+       considered necessary by the Explosives Engineer to increase the agreed charge weight or type of
+        explosives, it must be justified and endorsed by the Drilling office.
+
+      The maximum weight of explosives used during wellhead severing operations is about 35 lbs (TNT
+        equivalent).  It should be noted that the effects of the shock waves on the hull of a vessel or rig from 35
+        lbs TNT set in the hole for wellhead severing operations is approximately equal to 2 lbs TNT detonated
+      on the seabed.
+
+4.9    Legislation and Guidance
+
+        a)  XTC Drilling Policy & Guidelines Manual.
+
+        b)  Petroleum (Production) (Seaward Areas) Regulations, 1988.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  11 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+        c)  The Offshore Installations (Construction & Survey) Regulations 1974.
+
+        d)  The Offshore Installations (Operational Safety Health & Welfare) Regulations 1976.
+
+        e)  The Explosives Acts 1875 and 1923.
+
+           f)  UKOOA Council Minutes of 13th June 1979.
+
+        g)  Continental Shelf Operations Notice No. 11.
+
+        h)  The Classification and Labelling of Explosives Regulations 1983.
+
+            i)  BPPD Standard HS & E Regulations, Chapter 30.
+
+            j)   D.O.T. “Carriage of Dangerous Goods in Ships” (The Blue Book).
+
+        k)  The Air Navigation (Dangerous Goods) Regulations, 1984.
+
+            l)  The Dangerous Substances in Harbour Areas Regulations, SI 37/87.
+
+      m) Exemption from the Requirements of Article 44 of the Air Navigation Order 1985, CAA Ref.
+          000583.
+
+        n)  BPPD (HTH) Safety Flash 3/86. Perforating gun trapped pressure hazard.
+
+5.    RESTRICTED AREAS
+
+5.1    Rig Floor
+
+     When operations are about to begin on the rig floor, the area must be cleared of all non-essential
+       personnel. While the Explosives Engineer is making up the charges or mixing two-part liquid explosive,
+       only service company operative(s) and a rig supervisor (OIM’s competent person or BP Drilling
+       Supervisor) should be present.
+
+5.2   DSV
+
+     When operating from a vessel, the designated area where the explosives container and magazine is
+        sited should be restricted to personnel as for rig floor operations.
+
+6.    DIVING OPERATIONS USING EXPLOSIVES
+
+6.1   When divers are required to place explosives, i.e. wellhead removal from a DSV, they will remain under
+       the control and responsibility of the Dive Supervisor. The Dive Supervisor will take advice from the
+       Explosives Supervisor as to how and where the charges will be deployed and placed.
+
+      The Dive Supervisor must have custody of the dynamo exploder and firing key at all times when the bell
+         is unmated from the dive system and/or when divers are in the water.
+
+      The bell must be on-deck or mated to the system before the explosives are fired.
+
+6.2    Commercial divers must never be called upon to handle unexploded bombs, mines or other military
+       explosive devices.  If explosives are found during diving operations, the Drilling Supervisor/OIM should
+       contact his management during working hours and the Dyce Operations Control Centre (to contact the
+       Duty Diving Operations Superintendent), out of working hours. The site should be cleared until the
+       appropriate authorities declare it safe to continue work.
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  12 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+6.3    Diving/Perforating Operations
+
+            It is acceptable to carry out diving and perforating operations simultaneously providing the following
+       precautions are observed.
+
+      The Dive Supervisor must satisfy himself that the rig is observing radio silence.
+
+     He should ensure that the “firing key” is removed from the firing panel and in his custody.
+
+      The Diver is to return into the bell during the period of radio silence including the retrieval of the gun to
+       the surface.
+
+      The Diver must return to the bell stage before the gun is fired.
+
+      Note:
+        Itisadvisabletopositionthebellasfaraspracticablefromthewellheadduringperforatingoperations.
+
+7.    PRECAUTIONS DURING EXPLOSIVES OPERATIONS
+
+        Prior to explosives operations, ensure that the following measures are taken:
+
+        a)  Inform all shipping and installations in the area that subsea explosives operations will commence in
+           approximately 30 minutes (repeat at 5 minutes before firing).
+
+        b)  Withdraw hot work permits for welding work.
+
+        c)  Ensure that there is no smoking in the area where charges are being made up.
+
+        d)  Ensure that radio/radar restrictions are in force.
+
+        e)  Ensure that fire extinguishers are placed near the explosives container.
+
+           f)   Ensure that warning signs are prominently placed and red flags are displayed.
+
+        g)  Ensure that rig/vessel transducers, transponders (including radio and radar DP beacons) are
+            hoisted inboard and shutdown.  If acoustic beacons are used as in DP vessels, there is no need to
+           shut them down.
+
+        h)  Broadcast to all personnel that explosives will be fired within 30 minutes, and the siren will be
+          sounded 1 minute before blasting.
+
+            i)   Ensure that prior to helicopter operations the rig/vessel instructs the pilot to switch off all of the
+              aircraft’s transmitting systems.
+
+            j)   Ensure that the vessel/rig is the correct distance from the charge.
+
+        k)  Ensure that all loose explosives and detonators are correctly stored.
+
+            l)   Ensure that, on completion of operations, shipping and installations are informed.
+
+      m)  Ensure that, on completion of operations, it is broadcast to personnel that it is “all clear”.
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  13 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+8.    EXPLOSIVES HANDLING, LEGAL AND PROCEDURAL ASPECTS
+
+8.1    Legal
+
+      The Legislation requires that there be written instructions “specifying practices to be observed to ensure
+       the safety of the installation and safe use of the equipment thereon”.  This is the responsibility of the
+         Installation Owner. The written instructions should include:
+
+       Appointment of a “competent person” who will be responsible for the handling, storage, issuing, use of,
+       documentation and transport of explosives within the sphere of responsibility of the OIM.
+
+      As Concession Owners, BP have the responsibility to ensure that the Installation Owner (OIM) carries
+       out his duties and provides a Safe System of Work.
+
+9.    PROCEDURES AND AUDITS
+
+9.1    Audits
+
+       For all explosives operations, BP will contract a company specialising in such work.
+
+      The explosives service company will be audited by BP to ensure that they are responsible and capable
+        of carrying out work on BP sites and that they meet the legal and BP requirements. The audit will be
+        carried out annually or as deemed necessary by BP.
+
+9.2    Requirements of Audits
+
+     A requirement of the audit is that the explosives service company submit to BP copies of their Company
+        details and procedures, including:
+
+          •  Safety Manuals and Contingency Plans.
+          •  CV’s of Operations staff.
+          •  Management Organigram and Responsibilities.
+          •  Base Facilities.
+          •  Magazine and Explosives Storage Facilities.
+          •  Transport arrangements for explosives to and from BP Sites.
+          •  Training methods for Company personnel.
+
+9.3    Procedures
+
+      The explosives service company will be required to submit details and procedures for the particular
+      worksiteandoperation, including:
+
+          •  Safety and Contingency Plans.
+          •  Personnel, Responsibilities and Qualifications.
+          •  Work plan including type and weights of explosives.
+          •   Certification of Plant and Equipment.
+          •  Transport and Storage of Explosives.
+
+     When the details and procedures have been agreed by Drilling Department, they will be copied to the
+     BP Drilling Supervisor onsite and should be considered as the formal Guidelines for the work. Any
+       major changes from the agreed procedures should be confirmed with Drilling Department before
+       implementation.
+
+       While BP have a responsibility to ensure that the work is carried out safely in accordance with a permit
+        to work and a written safe procedure etc., we should not interfere in the technical expertise for which we
+      have contracted and for which the explosives service company is responsible in law.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  14 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+9.4    Post Operations Report
+
+     On completion of the work, the explosives operating company will compile an “Operations Report”. The
+         Drilling Supervisor should ensure that he receives a copy of the report, and forwards a copy to LOG
+       (Explosives Advisor) for information and filing.
+
+9.5    Offloading and Storage
+
+      The area in which explosives are stored must be chosen to comply with legislation and be marked on
+       the rig plans as required by Legislation (SI 1019).  Consignments of explosives arriving on the
+         installation should be craned to this dedicated area, and, if not already in weatherproof containers, the
+       contents should be transferred to the explosives store and the explosives register updated accordingly.
+            If the consignment must be kept elsewhere on the rig (e.g. carrier guns), then that place must be
+       demarcated.  In all cases, the crane operator must be aware that he is handling explosives which may
+      be sensitive to impact.
+
+10.   PERSONNEL
+
+10.1  Manning Levels
+
+       For safety and operational reasons consideration must be given to the practice of employing only one
+       Explosives Operator on sites where  it can be expected that he will be working for abnormally long
+        periods. An error due to tiredness could be catastrophic.
+
+            It is desirable to deploy a minimum of two explosives personnel, one being the Explosives Engineer
+        with specific duties and responsibilities, the other being his assistant with sufficient knowledge and
+        maturity to carry out work unsupervised upon the Engineer’s instructions.
+
+10.2   Qualifications
+
+       For wellhead severing operations, demolition and cutting work, the Explosives Engineer will be an
+        individual Member of the Institute of Explosives Engineers with at least three years experience of
+        offshore explosives work.
+
+       Other personnel working to the instructions of the Explosives Engineer should ideally be associate
+      Members of the Institute, or experienced in offshore explosives operations.
+
+     When wireline operations are used with explosives, i.e. perforating, etc., it is unlikely that the personnel
+         will need formal explosives qualifications. The Drilling Superintendent or others responsible for
+       contracting explosives users should use their discretion in ensuring that the operators are suitably
+        qualified and experienced for such specialist operations.
+
+       Only personnel who have been approved for explosives work will be allowed to work on BP sites.
+
+10.3  Log Books
+
+     A scheme has been introduced by the major explosives operating companies and in conjunction with
+       the Institute of Explosives Engineers whereby all operatives keep a Log Book of their work experience
+      and training. Since BP are required by law to employ offshore only those experienced in that operation,
+       the log book will assist greatly in ensuring that operatives proposed in contract bids comply with this
+       requirement. The Log Book is not a legal document, but it will offer the onsite BP Drilling Supervisor the
+        opportunity to assess the experience and capabilities of the explosives operatives under his control.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  15 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+11.   REPORTING PROCEDURES
+
+     When near seabed use of explosives is planned the MOD must be informed by telex.  This will be
+       undertaken by the drilling office. Refer to the BP Reporting Procedures Manual for the required telex
+         details.
+
+12.   CONTROL AND MOVEMENT OF EXPLOSIVE MATERIALS
+
+12.1  Road
+
+            It is essential that a record of control shall be kept of the movement of explosive materials. A simple
+      system has been devised to ensure that this control is maintained.
+
+            It is the responsibility of the Field Group/Divisional Safety Officer to maintain a record of this control but
+         this does not preclude interested parties maintaining a similar control should they so wish.
+
+      The driver should have a statement of the quantity and description of the explosives being carried. This
+       should be checked with the person taking delivery who should sign the statement as a form of receipt
+         for the driver.
+
+      The Department, Contractor or Supplier concerned in the despatch of explosive materials will advise
+       the Field Group/Divisional Safety Officer, Stores Department (Receiving Warehouse) and the recipient
+        at the final destination by telex giving the following information:
+
+        a)  Nature of explosives, e.g. shaped charge, flare, rockets, etc.
+
+        b)  Time and date sent and by what mode of transportation.
+
+        c)   Destination - final and interim.
+
+      Where the explosive material is handled at interim destinations, the same procedures will be carried
+        out.
+
+     When the explosive material has reached its final destination, the recipient shall forward a telex
+       confirming its receipt.
+
+     A maximum 6 hour time delay is allowed from each ETA at each given destination before a search
+       action shall be initiated by the Field Group/Divisional Safety Officer in conjunction with Stores
+       Department to establish the whereabouts of the explosive material and the cause of delay.
+
+12.2  Sea
+
+      The explosives service company must present the explosives package(s) at the BP Base properly
+       packaged, labelled and documented to comply with the IMDG Code. On completion of the explosives
+        operations, the senior operative must prepare his stores for the return trip and assist the OIM (or his
+       competent person) with the documentation, labelling, etc.
+
+      Note:
+     Whenexplosivesarebackloadedfromtherig,theBPDrillingSupervisor/OIMshouldensurethatatelex
+       is sent to the BP Base, who will then advise the service company of the ETA so that they may collect
+       theirexplosivesonthevessel’sarrival.
+
+12.3   Air
+
+       Generally transportation of explosives is forbidden in both passenger and cargo aircraft. However, the
+         Civil Aviation Authority granted certain exemptions from the Air Navigation Order 1985, quote: “Please
+        find enclosed an exemption from the above order enabling ............... Ltd. to carry limited quantities of
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 16 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  0160/GEN
+
+                                                                  Rev.         :  2 (7/91)
+      DRILLING MANUAL     Page        :  16 of 16
+
+SUBJECT:  USE OF EXPLOSIVES IN DRILLING OPERATIONS
+
+       explosives on board helicopters engaged on offshore operations in support of the oil and gas industries”
+          - unquote.
+
+       Copies of the CAA exemptions are distributed to Drilling Department by LOG as required.
+
+      The limited quantities of explosives allowed to be transported will vary depending on classification.
+
+        In compliance with legislation all packaging and documentation must comply with the “Technical
+        Instructions for the Safe Transport of Dangerous Goods by Air” approved and published by decision of
+       the Council of the Inter- national Civil Aviation Organisation - the ICAO Handbook.
+
+      Both the helicopter company and the explosives operating company have responsibility for the
+       packaging and labelling of the explosives to be transported. The BP Central Receipt Point (CRP) have
+         staff trained to standards required by ICAO to receive and ensure that the cargo is correctly labelled,
+        etc.
+
+            It is not acceptable practice to use BP transport to collect explosives from the explosives operating
+      company base.
+
+

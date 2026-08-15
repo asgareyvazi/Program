@@ -1,0 +1,2207 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  1 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+1.    POLICY
+
+       There are no BP policies on drilling hydraulics.
+
+2.    HYDRAULICS PLANNING
+
+      The circulating mud system fulfills 3 major hydraulic functions:
+
+          •  Maintains well control without exceeding fracture gradient.
+
+          •  Provides adequate hole cleaning.
+
+          •  Provides hydraulic energy to keep the bit face clean.
+
+      The above 3 functions are interrelated and in practice cannot all be optimised simultaneously.
+       Generally some form of compromise is necessary, although naturally well control remains of paramount
+       concern.
+
+        In practice factors such as: hole angle, hole size, fracture gradient, formation hardness and anticipated
+       penetration rate will all influence the route for optimum hydraulics.  There is no point in designing
+      optimum hydraulics for maximum energy at the bit if the hole cannot be adequately cleaned. Similarly it
+         is wasteful to provide a higher flowrate than necessary, and increase the risk of hole erosion.
+
+      The overall strategy for developing an optimised hydraulic plan is outlined in Figure 1. The hydraulics
+      on a well need to be individually assessed for each bit run. The following section of the Manual
+       provides the means to achieve this.
+
+3.   MUD RHEOLOGY
+
+3.1    Rheological Measurement
+
+        Viscosity of the drilling fluid is determined by 2 rig site methods:
+
+        a)  Marsh Funnel - This is a quick test which indicates a relative change in fluid viscosity since the
+           previous measurement.   It gives no meaningful value other than this, and should never be totally
+             relied upon for maintaining the quality of fluid in circulation.
+
+        b)  Rotational Viscometer (Fann VG Meter) - The mud sample is sheared over a range of speeds
+          between a rotating outer sleeve and an inner stationary bob. The torque measured on the inner
+          bob is a measure of the fluid viscosity. Measurements are made at six discrete speeds (600, 300,
+           200, 100, 6 and 3 rpm) which correspond to shear rates in the range 5 - 1022 s-1. The procedure
+              for using the rotational viscometer is given in Section 4500/GEN.
+
+      Data from the Fann viscometer are converted to a shear stress vs. shear rate diagram (rheogram) by
+        multiplying by the appropriate instrument constants viz:
+
+      Shear Stress      :   τ (lb/100 ft2) = θ  x 1.067
+      Shear Rate         :    γ (s-1) = rpm x 1.703
+
+      An example rheogram is illustrated in Figure 2.
+
+3.2    Fluid Models
+
+       There is a wide choice of rheological models which describe the non-Newtonian behaviour of drilling
+      muds.  Traditionally, however, because these models are needed to calculate circulating system
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  2 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+       pressure losses, only the simplest models have been used in practice.  With the advent of readily
+        available computing power, this restriction is becoming less severe.
+
+       For the purposes of “hand calculations”, the most commonly used rheological models are the Bingham
+        Plastic and Power Law. These are both 2-parameter models. BP’s Toolkit hydraulics program uses a
+       3-parameter model referred to as the Modified Power Law or Generalised Bingham.  Pressure drops
+        calculated by the Bingham Model will tend to be higher than those calculated using the Power Law, with
+       the Generalised Power Law giving values intermediate.
+
+3.2.1  Bingham Plastic Model
+
+     A Bingham Plastic fluid is characterised by a non-zero intercept on the shear stress axis referred to as
+       the yield point (YP). Beyond the YP the relationship between the shear stress and shear rate is linear.
+      The slope of this line is the plastic viscosity (PV).
+
+      The equation relating shear stress and shear rate is:
+
+            τ  = YP + PV γ
+
+      The geometry and spring constant of the Fann viscometer has been designed so that:
+
+        PV   =  θ 600  -  θ 300   cP
+        YP   =  θ 300  - PV      lb/100 ft2
+     PV is a measure of the base fluid viscosity and the flow resistance due to mud solids; YP is a measure
+        of the interactive forces within the flowing system.
+
+3.2.2  Power Law Model
+
+        In a Power Law fluid the shear stress and shear rate are related by a non-linear function which goes
+       through the origin and falls off as the shear rate is increased. Such fluids are said to be shear thinning
+        or pseudoplastic. Their viscosity decreases as the shear rate increases.
+
+      The relationship between shear stress and shear rate for a Power Law fluid is:
+
+            τ   =   k γ n
+
+      The values of n (power law index) and k (consistency index) are calculated from the Fann as follows:
+
+          n   =   1.44 ln θ 600       (Dimensionless)
+                         θ 300
+
+           k   =    θ 300                 (lb sn/100 ft2)
+                     (511)n
+
+       Small values of “n” indicate that a fluid is highly shear thinning. The k factor is a measure of the fluid
+        viscosity at low shear rate. The value of k can be raised by the addition of viscosifiers or reduced by
+         dilution.
+
+3.2.3  Modified Power Law
+
+       This model represents hybrid behaviour of the Bingham and Power Law. The fluid exhibits non-linear
+       shear stress/shear rate behaviour, together with a yield point.
+
+       Mathematically the relationship between shear stress and shear rate is expressed:
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  3 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+            τ   =   τ o + k γ n
+      Because this is a 3-parameter model, a minimum of 3 Fann readings are required to establish the
+      model parameters. The standard rig-site procedure is to set τ  o equal to the Fann 3 rpm reading, and
+       then perform the conventional power law calculations viz:
+
+            τ o =  θ 3                           (lb/100 ft2)
+          n   =   1.44 ln  (θ 600  - θ  3)        (Dimensionless)
+                               (θ 300  - θ  3)
+           k   =  θ 300  - θ 3                      (lb sn/100 ft2)
+                      (511)n
+
+      The flow curves for each of the fluid models are shown in Figure 3.
+
+4.    PRESSURE LOSSES IN THE CIRCULATING SYSTEM
+
+4.1    Flow Regimes
+
+      The pressure drop relationships for flow through pipes and annuli vary depending upon whether the
+        flow is laminar or turbulent. In laminar flow the fluid streamlines are very ordered and the pressure drop
+      depends strongly upon the viscous properties.  In contrast, turbulent flow is chaotic, with pressure drop
+       influenced by inertial forces (i.e. flowrate and density) rather than viscosity.
+
+      The flow regime is determined by the Reynolds Number (Re).  This dimensionless quantity is a
+      measure of the ratio of inertial to viscous forces and is defined (for a Newtonian fluid in pipe flow) as:
+        Re  =    –V d W      (Dimensionless)
+                   µ
+
+        (Descriptions for non-Newtonian fluids differ because of the viscosity term.  However, corresponding
+       expressions for non-Newtonian fluids in pipes/annuli do exist and so the principles are still the same.)
+
+      Change from laminar flow to turbulent flow begins at Re ~ 2100 and passes through a transition zone
+         prior to full turbulence.  For the purposes of the hydraulic calculations,  it has been assumed that the
+        laminar/turbulent transition occurs at Re = 3000. The normal flow regimes for the various parts of the
+         drilling fluid circulation system are given in the table below:
+
+         Surface Hose   -  Turbulent
+            Drill Pipe          -   Transitional or Turbulent
+            Drill Collars      -  Turbulent
+           Bit Nozzles       -  Turbulent
+        Annulus           -  Laminar or Transitional
+
+
+4.2    Pressure Drop Distribution
+
+       Since the returning mud at the flowline is at atmospheric pressure, the discharge pressure delivered by
+       the pump has been totally dissipated throughout the system. The pressure drops may be denoted by:
+
+        a)  PSURF    -    the pressure loss in the surface connections (e.g. standpipe, kelly hose, etc.). This is
+                         generally small in comparison to other components (< 100 psi).
+
+        b)  PDS       -    the pressure loss in the drillstring (i.e. inside the drill pipe and BHA).
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  4 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+        c)  PB         -    the pressure loss through the bit nozzles.  This is where most of the pressure drop
+                       should occur for efficient drilling.
+
+        d)  PA         -    the pressure drop in the annulus.
+
+       Therefore Total Pressure Drop (PT) is:
+
+      PT  =  PSURF + PDS + PB + PA
+        Typically in the complete circulating system, the distribution of pressure drops is as follows:
+
+       Surface Hose    3 - 5%
+          Drill Pipe        30 - 40%
+         Bit Nozzles      50 - 65%
+       Annulus        5 - 10%
+
+        In deeper sections of the well, the system pressure loss should be controlled so that most of the total
+       pressure delivered by the pump is used across the bit.  In upper hole sections, the bit pressure loss is
+        less critical and should be minimised to allow maximum flowrate for hole cleaning (see Section 5).
+
+4.3    Pressure Drop Calculations
+
+      The following section contains simple pressure drop calculations which can be done using a hand-held
+        calculator. These calculations should provide a good estimate of the overall pressure drop and how the
+       pressure is distributed. Generally the Bingham model will give higher pressure losses than the Power
+      Law model.
+
+      The equations for the Generalised Power Law model have not been included since they are not readily
+       solved using a hand-held calculator. These equations can be accessed through BP’s Drilling Engineers
+        Toolkit.  Predictions from the Generalised Power Law model generally lie between the Bingham and
+      Power Law extremes.
+
+       Experience has shown that pressure losses in oil based muds for shallow wells (< 3000m) are some
+      15 - 20% higher than in equivalent water based systems.
+
+      The following hydraulic equations can be used for estimating total system pressure losses at the
+       planning stage of a well.  At the rig site, the equations should be used to determine the additional
+      system loss which will occur as drilling progresses and more drillpipe is added to the string.
+
+4.3.1  Surface System Pressure Losses
+
+      The following table gives the surface system pressure coefficients for the standard API designations.
+
+        Case    Standpipe     Hose       Swivel        Kelly     C
+
+          1        40’ x 3”        45’ x 2”         4’ x 2”      40’ x 2 1/4”     1.0
+          2      40’ x 3 1/2”     55’ x 2 1/2”     5’ x 2 1/2”    40’ x 3 1/4”    0.36
+          3        45’ x 4”      55’ x 2 1/2”     5’ x 2 1/2”    40’ x 3 1/4”    0.22
+          4        45’ x 4”        55’ x 3”         6’ x 3”        40’ x 4”      0.15
+
+       PSURF  =  C x W   Q   1.86                  (   )                         32
+
+       PSURF (psi); W (SG); Q (gpm).
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  5 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+       For rigs with top drive and platforms with lengthy surface pipework, the coefficient C needs to be
+       determined on site.  This requires subtracting the spp from the pump pressure reading at a known
+        flowrate.
+
+     EXAMPLE
+
+       For a Case 4 type surface system, circulating at 650 gpm with 1.44 SG mud, the following pressure loss
+      can be expected:
+       PSURF  =   0.15 x 1.44 x (650)1.86                              32
+
+            =   58 psi
+
+       (PSURF is measured at the standpipe gauge; there will be an additional pressure drop in the lines from
+       the mud pumps.)
+
+4.3.2  Pipe Flow
+
+      The effect of tool joints should be taken into account when calculating PDS.  This can be done by
+      summating all the tool joint lengths in the string and calculating the pressure drop through this smaller
+       ID for that length.
+
+     BINGHAM PLASTIC MODEL
+
+        1.  Determine Average Velocity:
+                V–    =   24.5Q                                                                                     (ft/min)
+                        d2
+
+        2.  Determine Critical Velocity (Re = 3000):
+
+           Vc   =   11.65 PV + 11.65 {(PV)2 + 68.3 W d2 YP}1/2                                        (ft/min)
+                     W d
+
+        3.    If V– > Vc, Flow is turbulent; use:
+          Pd   =   1.594 x 10-3 W0.8 Q1.8 (PV)0.2 L                                                        (psi)
+                                              d4.8
+
+        4.    If V– < Vc, Flow is laminar; use:
+          Pd   =   L PV  V–   +  L YP                                                                      (psi)
+                    27,400 d2      69 d
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  6 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+     POWER LAW MODEL
+
+        1.  Determine n and k:
+
+          θ 600  =  2 PV + YP
+          θ 300  =  PV + YP
+
+          n   =   1.44 ln   θ 600                                                      (Dimensionless)
+                  (θ 300 )
+           k   =    θ 300                                                                                    (lb sn/100 ft2)
+                     (511)n
+
+        2.  Determine Average Velocity:
+                V–    =   24.5Q                                                                                     (ft/min)
+                        d2
+
+        3.  Determine Critical Velocity (Re = 3000):
+                                          1                              n
+                                                      (2-n)                                    (2-n)                                                                                                                       (ft/min)           Vc   =     6.99 x 103 K                  1.6  3n +                                                             •              (               W                       )         ( d     4n 1)
+
+        4.    If V– > Vc, Flow is turbulent; use:
+          Pd   =   1.594 x 10-3 W0.8 Q1.8 (PV)0.2 L                                                        (psi)
+                                              d4.8
+
+        5.    If V– < Vc, Flow is laminar; use:
+
+                                       n      K L                                                        (psi)          Pd   =      1.6 V–  (3n + 1                                                              •              (              ))                      d       4n            91.4d
+
+4.3.3  Annular Flow
+
+     BINGHAM PLASTIC MODEL
+
+        1.  Determine Average Velocity:
+                V–    =      24.5 Q                                                                                  (ft/min)
+                       (dh2  - dp2)
+
+        2.  Determine Critical Velocity (Re = 3000):
+
+           Vc   =   14.3 PV + 14.3 {(PV)2 + 42.5 W (dh  - dp)2 YP}1/2                                 (ft/min)
+                    W (dh  - dp)
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  7 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+        3.    If V– > Vc, Flow is turbulent; use:
+          Pd   =   1.594 x 10-3 W0.8 Q1.8 (PV)0.2 L                                                        (psi)
+                          (dh  - dp)3 (dh + dp)1.8
+
+        4.    If V– < Vc, Flow is laminar; use:
+          Pd   =      L PV  V–      +      L YP                                                       (psi)
+                   18300 (dh  - dp)2       61 (dh  - dp)
+
+
+     POWER LAW MODEL
+
+        1.  Determine Average Velocity:
+                V–    =      24.5 Q                                                                                  (ft/min)
+                       (dh2  - dp2)
+
+        2.  Determine Critical Velocity (Re = 3000):
+                                          1                                        n
+                                                     (2-n)                                                 (2-n)                                                                                                                       (ft/min)           Vc   =     5.70 x 103 K                     2.4      2n +                                                             •              (               W                       )         ( (dh  - dp) (  3n 1))
+
+        3.    If V– > Vc, Flow is turbulent; use:
+          Pd   =   1.594 x 10-3 W0.8 Q1.8 (PV)0.2 L                                                        (psi)
+                          (dh  - dp)3 (dh + dp)1.8
+
+        4.    If V– < Vc, Flow is laminar; use:
+
+                                           n      K L                                                   (psi)          Pd   =        2.4 V–    (2n + 1              (                  ))                        (dh  - dp)     3n        91.4 (dh  - dp)
+
+
+4.3.4  Pressure Drop Across Bit
+
+        1.   Pbit  =    Pstandpipe  -  (Psurf + Pds + PA)
+
+            or
+
+        2.   Pbit  =   W Q2                                                                                       (psi)
+                   1303 An2
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  8 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+        3.  Nozzle Velocity:
+          Vn   =   11.6 ( PbitW )1/2                                                                            (ft/sec)
+
+        4.   Total Area of Nozzles:
+
+          An   =   0.32 Q                                                                                      (ins2)
+                        Vn
+
+4.4   Use of Flow Equations
+
+       Example: Pressure Loss for Bingham Plastic Model
+
+     A deviated 12 1/4” hole section is being drilled which requires a minimum flowrate of 700 gpm to
+       provide adequate hole cleaning.
+
+       Using the Bingham Model determine the pressure drops throughout the system and hence the smallest
+          bit nozzles which can be run without exceeding the maximum surface pressure.
+
+     Mud Properties:
+
+        Plastic Viscosity (PV)       =    31 cP
+        Yield Point (YP)           =    27 lb/100 ft2
+       Weight (W)               =    1.38 SG
+
+         Drilling Parameters:
+
+       Flowrate (Q)              =    700 gpm
+        5” Drill Pipe ID            =    4.276 in
+
+       Length of 5” DP (L) at       =   1975m
+      programmed end of bit run
+
+        8” Drill Collars ID          =    2.875 in
+       Length of 8” DC (L)        =   189m
+
+      13 3/8” Casing ID          =    12.565 in
+      13 3/8” Shoe at           =   777m
+
+      2 Pumps operating at Max.
+       Standpipe Pressure        =    3000 psi
+
+       Surface Equipment Type    =    4
+
+      Using the Bingham Plastic Model
+
+       A.  Surface Losses
+          PSURF  =  C W ( 32Q)1.86
+
+                                                          1.86
+                =  0.15 x 1.38( 700)32
+          PSURF  =  64 psi
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  9 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+       B.  Pipe Losses
+
+                   i)    Inside Drillpipe
+              Average Velocity V–  =  24.5Q  =   24.5 x 700
+                                           d2         (4.276)2
+
+                              =  938 ft/min
+
+                    Critical Velocity Vc   =   11.65 PV + 11.65 {(PV)2 + 68.3 W d2 YP}1/2
+                               W d
+
+                              =   11.65 x 31 + 11.65 {(31)2 + 68.3 x 1.38 x (4.276)2 x 27}1/2
+                                                                   1.38 x 4.276
+
+                              =  491 ft/min
+
+               Since V– > Vc, flow is TURBULENT, ∴
+              Pd   =   1.594 x 10-3 W0.8 Q1.8 (PV)0.2 L
+                                                  d4.8
+
+                  =   1.594 x 10-3 x (1.38)0.8 x (700)1.8 x (31)0.2 x 1975
+                                                      (4.276)4.8
+
+                  =   1001 psi
+
+                     ii)   Inside Drill Collars
+              Average Velocity V–  =   24.5 x 700
+                                             (2.875)2
+
+                              =  2075 ft/min
+
+                    Critical Velocity Vc   =   11.65 x 31 + 11.65 {(31)2 + 68.3 x 1.38 x (2.875)2 x 27}1/2
+                                                               1.38 x 2.875
+
+                              =  527 ft/min
+
+               Since V– > Vc, flow is TURBULENT, ∴
+              Pd   =   1.594 x 10-3 x (1.38)0.8 x (700)1.8 x (31)0.2 x 189
+                                                        (2.875)4.8
+
+                  =   644 psi
+
+             Hence total pressure loss in drill string:  PDS =  1645 psi.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  10 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+       C.  Annular Losses
+
+           Pressure Losses Around 5" Drillpipe
+
+                   i)   Cased Hole Section
+                       V–   =     24.5 x 700    =  129 ft/min
+                          (12.565)2  - (5)2
+
+               Vc  =   14.3 x 31 + 14.3 {(31)2 + 42.5 x (12.565  - 5)2 x 1.38 x 27}1/2
+                                                1.38 x (12.565  - 5)
+
+                 =  457 ft/min
+
+               Since V– < Vc, flow is LAMINAR, ∴
+              Pd  =      L . PV . V–      +      L YP
+                     18300 (dh  - dp)2        61 (dh  - dp)
+
+                 =    777 x 31 x 129    +     777 x 27
+                     18300 (12.565  - 5)2       61 (12.565  - 5)
+
+                 =  47 psi
+
+                     ii)  Open Hole Section
+                       V–   =    24.5 x 700    =  137 ft/min
+                           (12.25)2  - (5)2
+
+               Vc  =   14.3 x 31 + 14.3 {(31)2 + 42.5 x (12.25  - 5)2 x 1.38 x 27}1/2
+                                               1.38 x (12.25  - 5)
+
+                 =  459 ft/min
+
+               Since V– < Vc, flow is LAMINAR, ∴
+              Pd  =   1198 x 31 x 137    +    1198 x 27
+                     18300 (12.25  - 5)2        61 (12.25  - 5)
+
+                 =  78 psi
+
+                Therefore Total Pressure Loss Around Drillpipe is:
+
+              47 + 78 = 125 psi.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  11 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                      iii)   Pressure Loss Around 8" Drill Collars
+                       V–   =    24.5 x 700    =  200 ft/min
+                           (12.25)2  - (8)2
+
+               Vc  =   14.3 x 31 + 14.3 {(31)2 + 42.5 x (1.38) x (12.25  - 8)2 x 27}1/2
+                                               1.38 x (12.25  - 8)
+
+                 =  495 ft/min
+
+               Since V– < Vc, flow is LAMINAR, ∴
+              Pd  =   189 x 31 x 200    +      189 x 27
+                     18300 (12.25  - 8)2        61 (12.25  - 8)
+
+                 =  23 psi
+
+                Therefore Total Annular Losses PA =  125 + 23 =  148 psi.
+
+       D.  Pressure Drop Across Bit
+
+           Since    PT   =   PSURF + PDS + PA + PB =  3000 psi
+      ∴       PB  =   3000  - (64 + 1645 + 148)
+                      =   3000  - 1857
+
+                      =   1143 psi
+
+       E.  Nozzle Velocity
+          Vn   =   11.6 ( PB)W   1/2
+              =   11.6 ( 11431.38 )1/2    =   334 ft/s
+
+        F.  Total Area of Nozzles:
+
+          An   =   0.32 Q
+                      Vn
+              =   0.32 x 700
+                      334
+
+              =   0.670 in2
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  12 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+           Nozzle Sizing (in 1/32 nd)   =   32 ( 34An)π   1/2
+
+                               =   17.08
+
+      Hence 3 x 17 nozzles can be selected to remain within the surface pressure limitations. Note that for
+      an OBM where the frictional pressure drop is assumed to be 20% higher, the allowable PB = 3000 -
+       (1857 x 1.2) = 772 psi. In this case 2 x 18 and 1 x 20 nozzles would be required.
+
+4.5   Pump Performance Characteristics
+
+     Pump Discharge Pressure (psi)
+
+     Pump Discharge Volume (gal/stroke) (based on 90% Mechanical and 100% Volumetric Efficiency)
+
+
+ Manufacturer: NATIONAL SUPPLY  - Triplex
+                                   Liner Size (in)
+          Rated Rated  Stroke
+ Model    IHP   SPM   Length  4 1/2  4 3/4  5     5 1/4  5 1/2  5 3/4  6     6 1/4  6 1/2  6 3/4  7    7 1/4
+
+ 8-P-80   800   160    8 1/2    4395  3945  3560  3230  2940  2690  2470  2280   -         -         -        -
+                                     1.8    2.0    2.2    2.4    2.6    2.9    3.1    3.4     -         -         -        -
+
+ 10-P-130 1300  140    10                       5000  4645  4250  3900  3595  3325  3085   -        -
+                                                         2.5    3.1    3.4    3.7    4.0    4.3    4.6     -        -
+
+ 12-P-160 1600  120    12                                      -     5000  5000  4670  4305  3980  3690  3430 3200
+                                                                3.7    4.0    4.4    4.8    5.2    5.6    6.0    6.4
+
+
+ Manufacturer: OIL WELL  - Triplex
+                                      Liner Size (in)
+             Rated Rated  Stroke
+ Model       IHP   SPM   Length  5     5 1/2  5 3/4  6     6 1/2  6 3/4  7     7 1/4  7 1/2
+
+ HD 1400 PT  1400  120    12      5000  4861       4085  3481        3001       2614
+                                       3.06   3.7          4.4    5.2           6.0           6.9
+
+ A1400-PT    1400  150    10      5000  4723  4321  3968  3381  3135  2915  2718  2540
+                                         2.6    3.1    3.4    3.7    4.3    4.6    5.0    5.4    5.7
+
+ A1700-PT    1700  150    12      5000  4723  4321  3968  3381  3135  2915  2718  2540
+                                         3.1    3.7    4.0    4.4    5.2    5.6    6.0    6.4    6.9
+
+
+
+5.    HOLE CLEANING
+
+5.1   How Cuttings are Transported
+
+       Figure 4 is a schematic representation of the transport mechanism for a range of well inclinations.  In
+       holes inclined less than 30 degrees, the cuttings are effectively suspended by the fluid shear and beds
+      do not form (Zones 1 and 3). Beyond 30 degrees the cuttings form beds on the low side of the hole
+      which can slide back down the well, causing the annulus to pack-off. These cuttings have been
+       observed to be transported out of the well by a combination of two different mechanisms.  Cuttings
+       which form on the low side of the hole can either slide as a block (Zone 4), or alternatively may be
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  13 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+       transported at the bed/mud interface as ripples or dunes (Zone 2).  This latter transport mechanism,
+        referred to as saltation, is best induced by low viscosity fluids pumped in turbulence (high flowrate).
+
+      The ideal zones for good hole cleaning are 1 and 2, whereas Zone 5 is virtually a guarantee of tight
+       hole problems.
+
+5.2    Influence of Drilling Variables on Hole Cleaning
+
+    HOLE ANGLE:  Generally as hole angle increases, cuttings removal becomes more difficult. Angles
+      between 50 - 60 degrees present most problems because of the tendency of the cuttings to slide down
+       the annulus and cause packing off. In wells deviated beyond 60 degrees, the cuttings form stable beds
+       which are supported by the sliding friction against the wellbore.
+
+     ROP: Increases in penetration rate result in higher cuttings concentrations in the annulus. For vertical
+      and near vertical wells, experience has shown that the maximum allowable annular concentration for
+         efficient drilling is 5%. For deviated wells, increases in penetration rate correspond to deeper cuttings
+       beds. These deeper beds require higher flowrates to remove.  In deviated holes,  it is important to
+        control and limit instantaneous ROP’s since deep beds are difficult to remove.
+
+    MUDRHEOLOGY: Mud viscosity affects cuttings slip velocity and so has a large influence on transport
+        efficiency in vertical and near-vertical wells.  However, once cuttings beds form (> 30 degrees),
+      changes in conventional mud rheology have little benefit.  At angles above 30 degrees, low viscosity
+         fluids are most effective since they induce turbulence and encourage cuttings removal by saltation.
+
+    PUMP RATE: Mud flow is the single most crucial factor for successful hole cleaning.  This is
+        particularly true for deviated holes. As a rough guide, the annular velocity needed for cleaning wells
+       deviated 50 - 60 degrees, is approximately twice that required for the vertical case.  All reasonable
+       steps must be taken to ensure frictional pressure losses are reduced, thus extending the range of
+       available flowrate.  In critical cases careful consideration should be given to BHA design, nozzle
+        selection and additional losses due to mud motors/MWD tools (see Section 7). The use of 6 5/8”
+         drillpipe significantly reduces pressure drop, thus allowing higher flows to be achieved.
+
+    MUD WEIGHT: Mud weight influences hole cleaning by affecting the buoyancy of the drilled cuttings.
+       This is true both for vertical and deviated holes. For small changes in density, the flowrate required to
+       maintain adequate hole cleaning is directly proportional to the cuttings-mud density differential.
+
+     CUTTINGS TYPE:  Formation density will affect hole cleaning in the same way as changes in mud
+       weight.  For both vertical and inclined wells, increases in cuttings density make hole cleaning more
+          difficult. Cuttings shape and size play an important role in vertical transport - the larger more rounded
+        particles being the hardest to remove.  In highly deviated wells, shape and size have little influence
+      because the cuttings move in blocks rather than discrete particles.
+
+     DRILLPIPE ROTATION: Rotation of the drill string will assist in mechanically disturbing cuttings beds
+         in deviated wells. The action of the rotating pipe forces cuttings upwards to the high side of the hole
+      and into the fast moving mud stream. In addition, rotation of the drillpipe will encourage mud flow in the
+       narrow gap between the pipe and the settled bed. When a downhole motor is used in a deviated well, it
+         is probable that the cuttings beds are not being disturbed. Rotation of the string prior to tripping should
+      be considered.
+
+5.3    Hole Cleaning Calculations
+
+5.3.1   Vertical Holes
+
+      The calculation for vertical holes is based on a maximum allowable cuttings concentration of 5% in the
+       annulus. This concentration is related to the cuttings generation rate (ROP); mud flowrate and cuttings
+         slip velocity. For simplicity, the equations have been converted into graphical form which can be used
+        to determine the optimum flowrate for hole cleaning.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  14 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+     PROCEDURE
+
+        1.  Enter Figure 5(a). Draw line from mud YP through cuttings size to intersect left hand projection line
+            (Point A).
+
+        2.  Draw line from Point A through hole diameter to intersect right hand projection line at Point B.
+
+        3.  Draw line from Point B to mud PV. Read off Effective Viscosity (cP) at the crossover point.
+
+        4.  Enter Figure 5(b). Draw line from Effective Viscosity through mud SG to intersect left hand
+            projection line (Point C).
+
+        5.  Draw line from cuttings SG through mud SG to intersect right hand projection line at Point D.
+
+        6.   Join line from Point C to Point D. Read off cuttings slip velocity (Vs) for the appropriate cuttings
+             size.
+
+        7.  Enter Figure 6 at appropriate hole size. Draw line from cuttings slip velocity through pivot point to
+           cross penetration rate lines.
+
+        8.  For appropriate ROP, read off minimum annular velocity required.
+
+     EXAMPLE 1
+
+      17 1/2” vertical hole:
+
+     PV      :  40 cP
+     YP      :  20 lb/100 ft2
+     SG     :  1.4
+
+       Cuttings SG  : 2.5
+       Cuttings Size  : 1/2”
+
+       Determine annular velocity required to clean hole at penetration rate of 30 m/h.
+
+        1.  Using Figure 5(a) - Effective Viscosity - 140 cP.
+
+        2.  Using Figure 5(b) - Settling Velocity = 45 ft/min.
+
+        3.  Using Figure 6(a) - Annular Velocity @ 30 m/h = 82 ft/min.
+
+5.3.2  Low Angle Wells (< 30 degrees)
+
+       Wells inclined between 0 and 30 degrees require higher flowrates than the corresponding straight
+        holes. The recommended procedure is based on the same criteria as vertical holes, except the cuttings
+         slip velocity is modified to allow for the increased angle (1% increase per degree of inclination).
+
+     PROCEDURE
+
+        1. - 6.  Follow procedure for vertical holes in 5.3.1 above.
+
+        7.  Calculate Effective Slip Velocity = Vs * (1 + Inclination/100).
+
+        8.  Enter Figure 6 and draw line from effective slip velocity through pivot point to intersect penetration
+             rate lines.
+
+        9.  For appropriate ROP read off annular velocity required.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  15 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+     EXAMPLE 2
+
+       Using same data for Example 1 above, what annular velocity is required to clean the hole if the angle is
+       increased to 20 degrees?
+
+        a)  Using Figure 5(a) - Effective Viscosity = 140 cP.
+
+        b)  Using Figure 5(b) - Slip Velocity = 45 ft/min.
+
+        c)   Effective Slip Velocity = Vs * 1.2 = 54 ft/min.
+
+        d)  Using Figure 6(a) - Annular Velocity at 30 m/h = 94 ft/min.
+
+5.3.3  High Angle Wells (> 30 degrees)
+
+      The recommended model for angles above 30 degrees assumes that all the cuttings generated at the
+          bit instantaneously fall to the low side of the hole and form a bed.  It is then assumed that cuttings will
+       only be removed when the driving force exerted by the circulating mud exceeds the frictional resistance
+        force of the cuttings against the open hole.
+
+      The model does not take account of drillpipe rotation nor does it allow for supplementary transport by
+        particle saltation. Both of these mechanisms will improve hole cleaning. The model should therefore
+       overestimate the necessary flowrate and so err on the conservative side.
+
+     PROCEDURE
+
+        1.  Use mud logger to determine cuttings bulk density (Cuttings SG).
+
+        2.  Enter right hand Figure 7 and read off effective mud SG (ESG) from known cuttings density and
+        mud weight.
+
+        3.  Calculate the mud Transport Index from:
+
+           Transport Index  =  Q (gpm) * ESG
+                                 100
+
+        4.  Enter left hand graph at appropriate Transport Index and hole angle and read off the maximum
+            allowable ROP for the set flowrate.
+
+        5.  To calculate the required flowrate for a known ROP, the above procedure is followed in reverse.
+
+     EXAMPLE 3
+
+      17 1/2” hole at 40 degrees to be drilled with conventional 5” drillpipe. Mud weight is 1.4 SG and
+        cuttings density 2.3 SG. What is the maximum safe ROP at a flowrate of 950 gpm?
+
+        a)  Use Figure 7(a). Enter right hand graph at mud weight 1.4 SG, cuttings SG 2.3 and read effective
+        mud density (ESG) from the family of diagonal lines.
+
+        ESG = 1.32.
+
+        b)  Calculate the Transport Index at 950 gpm:
+
+           Transport Index  =  Q (gpm) * ESG  =  950 * 1.32  =   12.5
+                                 100            100
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  16 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+        c)  Enter left hand graph at Transport Index = 12.5 and read off maximum ROP for hole angle of 40
+           degrees.
+
+         Maximum ROP = 23 m/h.
+
+     EXAMPLE 4
+
+       For the same conditions above, conventional drillpipe is replaced by 6 5/8” dp. What is the maximum
+     ROP if:
+
+        a)  Flowrate is maintained at 950 gpm.
+        b)  Flowrate is increased to 1100 gpm.
+
+        1)  Determine ESG as above.
+
+        2)  The hole cleaning charts printed are for conventional 5” dp. Therefore, the Transport Index needs
+             to be modified to allow for effective increased annular velocity.  This is done by calculating the
+           annular area ratio (AAR).
+
+        3)  For 17 1/2” hole and 6 5/8” pipe, the ratio of annular area is:
+
+        AAR  =   (17.52 - 6 5/82)  =   1.07
+                          (17.52 - 52)
+
+        4)  At 950 gpm the effective Transport Index with 6 5/8” dp is:
+
+           Transport Index  =  Q (gpm) * AAR * ESG  =  950 x 1.07 x 1.32
+                                   100                    100
+
+                       =  13.4
+
+           At 1100 gpm the effective Transport Index is:
+
+           Transport Index  =  Q (gpm) * AAR * ESG  =  1100 x 1.07 x 1.32
+                                   100                    100
+
+                       =  15.5
+
+        5)  From the left hand Figure 7(b) the maximum allowable ROP’s at 40 degrees are:
+
+            a)  30 m/h @ 950 gpm.
+
+            b)  40 m/h @ 1100 gpm.
+
+       (N.B. The upper limit of 40 m/h in 17 1/2” hole has been imposed to prevent unacceptably high cuttings
+       loading in the annulus.)
+
+5.3.4  Cuttings Transport in Riser
+
+     When drilling from a semi-submersible, it is important that the annular velocity in the riser is sufficient to
+        carry the cuttings out of the well. In practice this is generally only a problem for 8 1/2” hole sections and
+       below, where flowrates fall below 400 gpm.
+
+     PROCEDURE
+
+        1.  Use Figure 5 to determine cutting slip velocity.
+
+        2.  Compare Vs with annular velocity in riser.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  17 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+        3.    If Vs exceeds riser velocity then either increase mud YP to reduce Vs, or consider using a riser
+           booster pump.
+
+5.4    Supplementing Hole Cleaning
+
+5.4.1  Cuttings Bed Suppression
+
+      The formation of cuttings beds in deviated holes can be suppressed by using muds with exceptionally
+      good suspension characteristics. High flows are however still necessary since the beds can never be
+         totally eliminated. For water based mud the best conventional additive for this purpose is XC polymer.
+       With oil muds all the major service companies offer low shear enhancers (sometimes referred to as
+       rheology modifiers).
+
+     A simple force balance approach can be used to determine the minimum mud rheology necessary to
+       maintain drilled cuttings in suspension:
+
+      2 * θ 3  - θ 6  =  110 * (Cuttings SG  - Mud SG) * Dp
+       where:
+
+       θ 6  =  Fann 6 rpm reading.
+       θ 3  =  Fann 3 rpm reading.
+     Dp   =   Cuttings diameter (in).
+
+       For example, a 1.4 SG mud, with Fann 6/3 readings of 21/20 lb/100 ft2, will support a 1/4” cuttings with
+      an SG of 2.1.
+
+5.4.2  Fluid Pills
+
+       For wells deviated below 30°, the use of conventional high viscosity/high weight slugs will assist in
+       removing cuttings from the annulus.
+
+       For wells deviated above 30°, viscous pills will have limited  if no effect on hole cleaning.  This will
+      become more pronounced as the hole angle increases.
+
+      Low viscosity pills or low viscosity followed by high density pills are NOT TO BE USED to assist hole
+        cleaning. Use of these pill types has in the past resulted in hole pack-off due to a cuttings bed slump.
+
+5.4.3  Circulation Prior to Tripping
+
+      The minimum “on-bottom” circulation time prior to tripping will be influenced by hole size and inclination.
+      The figures in the table below are guidelines based on simple slip velocity considerations and field
+       experience.
+
+
+                                        Section Length Factor
+        Well Inclination Range
+                             17 1/2” Hole  12 1/4” Hole  8 1/2” Hole
+                 0° - 10°               1.5            1.3            1.3
+               10° - 30°              1.7            1.4            1.4
+               30° - 60°              2.5            1.8            1.6
+                 60° +                3.0            2.0            1.7
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  18 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+       Since in practice not all of the section back to surface will be deviated at the same angle, the overall
+      minimum circulation time prior to tripping should be apportioned in direct relation to the relative lengths
+        of section at each angle. This is illustrated in Figure 8 for tripping out of 17 1/2” hole at 2350m.
+
+     Mud circulation significantly in excess of the above guidelines is unlikely to have any real benefit.   If
+        cuttings beds have formed in the deviated sections and have not been removed by circulation while
+         drilling, then these will only be removed by a combination of pills and mechanical methods (e.g.
+      pumping out of the hole).
+
+5.5   Summary of Recommended Hole Cleaning Practices
+
+5.5.1   Drilling
+
+          •  Higher flowrates required for deviated wells (use method in 5.3.3).
+
+          •  Design BHA’s for minimum pressure loss in critical wells (see 4.3).
+
+          •  Hole angles 50° - 60° are most difficult to clean (see 5.3.3).
+
+          •  Control instantaneous ROP’s (use method in 5.3.3).
+
+          •  Use increased flowrate rather than changes in rheology for cleaning deviated wells (see 5.3.3 and
+            5.4.1).
+
+          •  Increased mud weight assists cuttings removal (see 5.3.3).
+
+          •   Drillpipe rotation assists hole cleaning in deviated holes. A minimum of 60 rpm is recommended.
+          Higher rpm’s assist.
+
+          •  Minimise hole washouts by good hydraulic design (see 6.3).
+
+          •   Drill minimum rat hole consistent with safe running of casing.
+
+          •    If necessary use a riser booster pump on semi-submersibles (see 5.3.4).
+
+5.5.2  Tripping
+
+          •  Always circulate the hole clean prior to tripping. Use minimum circulation times given in 5.4.3.
+
+          •  Rotate the pipe at maximum of 60 rpm when circulating prior to tripping.
+
+          •  Use low vis/high wt pills for wells > 30°. Volumes to be calculated using method in 5.4.2.
+
+          •  Make a rotary wiper trip after long section drilled with downhole motor.
+
+6.     BIT HYDRAULICS OPTIMISATION
+
+6.1    Optimisation Methods
+
+      The design of an efficient hydraulics programme is an important element in planning and drilling a well.
+         Bit hydraulic optimisation involves making best use of the power developed by the mud pumps and
+       ensuring that the bottom of the hole is cleaned effectively. This is particularly important for deep hard
+       rock sections where wasteful regrinding of cuttings will severely limit ROP.
+
+      The most commonly used methods of optimising drilling hydraulics and hence penetration rates are
+          firstly maximising bit hydraulic horsepower (HHP) and secondly maximising bit hydraulic impact force
+        (HIF).  Maximising hydraulic horsepower assumes that the best method of cleaning the hole is to
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  19 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+       concentrate as much fluid energy as possible at the bit.  Hydraulic impact force maximises the force
+        with which the fluid hits the bottom of the hole.
+
+        In both of these methods, there is only one circulation rate at which the hydraulics are optimised for a
+       given maximum pump discharge pressure. For the case of maximum HHP this generally occurs when
+     65% of the total system pressure loss is at the bit nozzles.  For maximum HIF the value is
+       approximately 49% of total system pressure.  In practice there is little to choose between the two
+       procedures.  If HHP is a maximum, the HIF will be within 90% of the maximum and vice versa. For this
+       reason the pro- posed procedure details only optimisation based on Hydraulic Horsepower.
+
+6.2    Field Method of Optimising Bit Hydraulics (HHP)
+
+       For proper optimum hydraulics design, the pressure drops throughout the circulating system must be
+       accurately determined.  Rather than rely solely upon theoretical pressure loss calculations,  it is
+        preferable to measure the actual parasitic losses directly at the rig site.  This is achieved by directly
+       measuring the standpipe pressure and subtracting the calculated bit pressure loss. The advantage of
+         this method is that since the bit pressure loss is independent of viscosity, it reduces errors due to the
+      non-Newtonian nature of the drilling mud. The method also eliminates uncertainties due to out-of-
+      gauge hole and temperature/pres- sure effects on viscosity.
+
+      RIG SITE PROCEDURE
+
+        1.   Prior to POOH for a bit change, run the pumps at three or four different speeds and record the
+             resulting standpipe pressures.
+
+        2.  From current nozzle size and mud weight determine pressure losses across the bit for each value
+             of flowrate. From this value the parasitic loss (Pp) can be calculated by subtracting (PB) from
+           standpipe pressure (PT).
+        3.   Plot the graph of parasitic pressure loss (Pp) against Q on log-log graph paper and determine the
+           slope of this graph, which is the index U in the following equation:
+
+         PB   =   U   PT
+              U + 1
+
+        4.  From the above equation, PB can be calculated and hence the corresponding parasitic pressure
+            loss (PP).
+         PP   =   PT - PB
+        5.  The flowrate corresponding to this PP value can be read from the (PP) Vs (Q) plot.
+        6.   Finally the correct nozzle area can be calculated from:
+          An   =  ( 1303W Q2PB )1/2
+          and nozzle size from:
+           Nozzle Sizing (in 1/32nd)  =   32 (43An)π   1/2
+
+         Note:
+          Nozzlesizeshouldberoundeddowntonearestvalue.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  20 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+     EXA MPLE:
+
+      The following information is recorded prior to tripping for a bit change:
+
+     SPM                         140          70    35
+    GPM                         692         346   173
+       Standpipe Pressure, PT (psi)     3400 (max)   1000   350
+      Using standard oilfield hydraulics equations, the bit pressure loss for the given flowrates can be
+        calculated, i.e.
+
+      PB   =   W Q2
+               1303 AN 2
+       where:
+
+    W           -   1.37 SG
+       Nozzles   -  3 x 16/32”
+
+       Having calculated the bit pressure loss, we can compile the following table:
+
+      SPM  140                   70     35
+
+      GPM 692                  346    173
+
+         Standpipe Pressure, PT      3400   1000  350
+           Bit Pressure Drop, PB        1451    363   91
+          Parasitic Loss, PP = PT - PB   1949    637  259
+
+       This table can be represented graphically. See Figure 9(a). From the graph we see that the slope “U”
+        of the log (PP) vs. log (Q) line is 1.46.
+       Therefore for maximum hydraulic horsepower:
+
+      PB  =  U   PT
+          U + 1
+
+      The desired surface pressure is 3400 psi.
+    ∴  PB   =  ( 1.461.46+ 1 )  x  3400
+
+          PB   =   2018 psi
+          PP   =   PT - PB =  1382 psi
+       This corresponds to a flowrate (QOPT) of 560 gpm. (Read off PP vs. Q line.)
+       Therefore, the nozzle size required to give this pressure loss can be determined by re-arranging the bit
+       pressure loss equation to give:
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  21 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+      An  = ( 1303W Q2PB )1/2
+
+      An  = ( 13031.37 xx 56022018 )1/2
+
+      An  =  0.404 in2
+       This area corresponds to 3 x 13/32” nozzles.
+
+      Note:
+     The accuracy of this procedure is very dependent on gauge calibration and precise nozzle size
+      measurement.
+
+6.3   Recommended Nozzle Sizes
+
+      The table below gives general guidelines on the normal range of nozzle sizes used for drilling various
+       diameter holes.  For top hole sections a high TFA should be used to provide maximum flow for hole
+       cleaning (see Section 5).
+
+        Hole Size    Nozzle Size (1/32 in)
+             (ins)      Min.    Opt.   Max.
+           26      3 x 18       -    3 x 28
+         17 1/2    3 x 18       -    3 x 24
+         12 1/4    3 x 12       -    3 x 20
+          8 1/2     3 x 11       -    3 x 16
+           6       3 x 8        -    3 x 11*       * Open if LCM required.
+
+     When smaller jet nozzles are installed, it is necessary to inspect the delivery strainer on the mud pumps
+        to ensure that it is not damaged. Any holes in the strainer may result in blocked nozzles. Consider also
+       using strainers in the drillpipe (cf. downhole motors).
+
+      Note:
+     To prevent hydraulic washouts in soft formations, flowrate and nozzle combinations should be selected
+      tomaintainmaximumjetvelocitiesbelow300-400ft/s.
+
+7.    PRESSURE LOSSES IN DOWNHOLE MOTORS AND MWD TOOLS
+
+7.1   Downhole Motors
+
+      As fluid is pumped through the mud motor with the tool running free off bottom, the pressure across the
+        tool is constant provided the pump rate remains constant.  This pressure represents the total system
+       losses plus pressure drop across the bit and will vary with tool size and type. As the bit touches bottom
+      and weight is added, the fluid circulating pressure increases.  This increase in pressure is directly
+        proportional to the additional bit weight or the drilling torque required. As more weight is added, the
+      gauge pressure will increase until the maximum recommended pressure increase is reached.  At this
+        point the optimum torque is produced and the addition of more weight will increase gauge pressure until
+      a point is reached where maximum design pressure is exceeded and stall may occur.
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  22 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+      The output rotational speed depends directly on flowrate, and the delivered torque is directly related to
+       the pressure differential across the motor.
+
+      To evaluate the pressure drop through a particular mud motor, the performance curve of the motor
+       should be used.  Table 7.1 gives an indication of the pressure drops occurring through tools when
+       operating at optimum and maximum rates.
+
+Table 7.1 - Pressure Losses Through Mud Motors
+
+
+                                         Bit Differential               Motor Pressure Drop
+               Motor             Pressure Range    Flowrate             (psi)
+                 Size    Length                    Range
+  Company     (inches)       (ft)    Min.   Opt.  Max.   (GPM)    Min.   Opt.     Max.
+
+  Drilex         3 1/2      12.5        -         -    500    80-110        -         -     625-850
+               4 3/4      21.0        -         -    1500   100-250        -         -    800-1000
+               6 3/4      24.0        -         -    1500   200-650        -         -    800-1000
+               8 1/4      23.5        -         -    1500   200-650        -         -    800-1000
+               9 1/2      24.0        -         -    1500   500-850        -         -    800-1200
+
+  Dyna-Drill     5          19.8    150       -    500    180-250        -    360           -
+  (Delta 500)    6 1/2      19.9    150       -    500    250-350        -    360           -
+               7 3/4      21.0    150       -    500    325-450        -    360           -
+
+  (Standard)     9 5/8      26.5        -    200       -     500-800        -    360           -
+
+  (Delta 500)    12         33.2    150       -    500   800-1200       -    360           -
+
+  (Delta 500)    6 1/2     23.73   150       -    500    250-350        -    500           -
+  Plus 4        7 3/4     25.21   150       -    500    325-450        -    500           -
+
+  Delta 1000     3 7/8      22.5    200       -    1000   100-150        -    625           -
+               5          21.5    200       -    1000   180-250        -    375           -
+               6 1/2     24.75   200       -    1000   250-350        -    500           -
+               7 3/4      27.0    200       -    1000   325-450        -    500           -
+
+  Delta 1000     6 1/2     19.21   200       -    1000   250-350        -    300           -
+  Slo-Speed     7 3/4     25.21   200       -    1000   350-600        -    390           -
+
+  Christensen    3 3/4      16.1        -         -         -     75-145        -         -       640
+  Mach 1       4 3/4      17.4        -         -         -     80-185        -         -       580
+               6 3/4      20.0        -         -         -     185-370        -         -       580
+               8          23.0        -         -         -     315-610        -         -       465
+               9 1/2      24.6        -         -         -     395-635        -         -       640
+               11 1/4     26.6        -         -         -    525-1055       -         -       520
+
+  Christensen    1 3/4       8.9         -         -         -      20-45         -         -       465
+  Mach 2       2 3/8      13.1        -         -         -      29-73         -         -       695
+               3 3/4      19.4        -         -         -     75-185        -         -       580
+               4 3/4      20.0        -         -         -     100-240        -         -       580
+               6 3/4      26.6        -         -         -     200-475        -         -       580
+               8          26.9        -         -         -     245-635        -         -       465
+               9 1/2      32.8        -         -         -     395-740        -         -       695
+               11 1/4     32.2        -         -         -    525-1055       -         -       465
+
+  Christensen    3 3/4      16.7        -         -         -     60-145        -         -       580
+  Mach 3       4 3/4      17.4        -         -         -     80-185        -         -       580
+               6 3/4      21.7        -         -         -     160-395        -         -       465
+               8          23.6        -         -         -     200-475        -         -       465
+               9 1/2      24.6        -         -         -     240-610        -         -       465
+               11 1/4     26.6        -         -         -     290-685        -         -       465
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  23 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+7.2  MWD Tools
+
+       Table 7.2 indicates the pressure drops that can be expected through various MWD tools.
+
+Table 7.2 - Pressure Losses Through MWD Tools
+
+
+                Tool                                       Pressure Drop
+                 Size    Length   Flowrates
+  Company    (inches)       (ft)      (gpm)     Fluid Type    (psi)  @  (gpm)
+
+  Teleco        9 1/2      30      320-1100     Water     100         450
+
+               8 1/4      30      320-1100     Water     100         450
+
+               7 3/4      30      320-1100     Water     100         450
+
+               6 3/4      30      250-500      Water      60         250
+
+  Eastman      9 1/2      18        N/A     10 ppg mud   150        1100
+  Christensen                                             80         750
+               9         18        N/A     10 ppg mud   150        1100
+                                                        80         750
+               8         18        N/A     10 ppg mud   150        1100
+                                                        80         750
+               6 3/4      18        N/A     10 ppg mud   150        1100
+                                                        80         750
+
+  Gearhart      9 1/2      33      250-1100   10 ppg mud   120         700
+
+               8         33      250-1100   10 ppg mud   120         700
+
+               6 3/4      33      250-1100   10 ppg mud   120         700
+
+  Anadrill        9         40      330-1200     Water      80         550
+
+               8         40      210-750      Water      90         350
+
+               7         40      210-600      Water      90         350
+
+  Exlog         9 1/2      36      250-1500   10 ppg mud   115         700
+
+               8         36      250-1500   10 ppg mud   115         700
+
+               6 1/4      36      200-800   10 ppg mud    45         300
+
+  Dynadrill       9 1/2      20      250-1200     Water      48         750
+
+               8 1/4      20      250-1200     Water      48         750
+
+               6 1/2      18      200-600      Water     127         750
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  24 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+8.    HYDRAULICS NOMENCLATURE
+
+       PSURF   =   Pressure Loss in Surface Equipment      (psi)
+      PDS    =   Pressure Loss in Drill String                (psi)
+      PB     =   Pressure Loss Across the Bit               (psi)
+      PA     =   Pressure Loss in Annulus                   (psi)
+      PT     =    Total System Pressure Drop                (psi)
+      PP     =    Parasitic Loss (= PT  - PB)                 (psi)
+      Pd     =   Pressure Drop                               (psi)
+    W      =   Mud Weight                         (SG)
+
+     PV     =    Plastic Viscosity                         (cP)
+
+     YP     =    Yield Point                                (lb/100 ft2)
+
+    Q      =   Flowrate                            (gpm)
+
+     V      =    Velocity                                       (ft/min)
+          V–      =   Average Velocity                             (ft/min)
+
+       Vc     =    Critical Velocity                              (ft/min)
+      Vn     =   Nozzle Velocity                               (ft/sec)
+       Vs     =    Cuttings Slip Velocity                        (ft/min)
+      L      =   Length of Pipe                        (m)
+
+     Re     =   Reynolds Number                      (Dimensionless)
+
+      dh     =   Hole Diameter (or Casing ID)             (inches)
+
+      dp     =   Pipe Diameter                            (inches)
+
+      An     =    Total Nozzle Area                        (inches2)
+     K      =   Consistency Index                            (lb sn/100 ft2)
+
+      n      =   Flow Behaviour Index                   (Dimensionless)
+
+       θ 600   =   600 Reading on V-G Meter               (lb/100 ft2)
+       θ 300   =   300 Reading on V-G Meter               (lb/100 ft2)
+       θ 3     =   3 Reading on V-G Meter                  (lb/100 ft2)
+       θ 6     =   6 Reading on V-G Meter                  (lb/100 ft2)
+     Dp     =   Diameter of Cuttings                     (inches)
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  25 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                        FIGURE 1
+
+                HYDRAULIC PLANNING DECISION TREE
+
+
+
+
+
+                             IS PENETRATION RATE
+                     LIMITED BY FORMATION
+                   HARDNESS OR ABILITY TO
+                     CLEAN THE HOLE?
+
+
+            FORMATION                  HOLE
+              HARDNESS                  CLEANING
+
+
+             HYDRAULIC                        IS THE HOLE
+             OPTIMISATION               VERTICAL OR
+                                         DEVIATED?
+
+          SELECT BIT NOZZLES
+            BASED ON FIELD
+        HYDRAULICS TECHNIQUE
+                       ( SEE SECTION 6 )                VERTICAL                                                     DEVIATED
+
+
+                                   DETERMINE MINIMUM                                          DETERMINE MINIMUM
+                               FLOWRATE AT EXPECTED                                     FLOWRATE AT EXPECTED
+                                        ROP. ( SEE SECTION 5 )                                         ROP FOR THE HIGHEST
+                                                                                          HOLE ANGLE. ( SEE
+                                                                                                        SECTION 5 )
+
+
+                                     SELECT SURFACE &                                              SELECT SURFACE &
+                              DOWNHOLE EQUIPMENT                                    DOWNHOLE EQUIPMENT
+                                TO MATCH FLOWRATE.                                       TO MATCH FLOWRATE.
+                                                                        ( SEE SECTIONS 4 & 7 )                                                                                        ( SEE SECTIONS 4 & 7 )
+
+
+                                  DETERMINE PARASITIC                                          DETERMINE PARASITIC
+                                     PRESSURE LOSSES AT                                             PRESSURE LOSSES AT
+                                  END OF BIT RUN FOR                                          END OF BIT RUN FOR
+                                   GIVEN FLOWRATE. ( SEE                                           GIVEN FLOWRATE. ( SEE
+                                         SECTION 4 )                                                      SECTION 4 )
+
+
+                                      DETERMINE                                                  DETERMINE
+                                                      Pbit ( SEE SECTION 4 )                                                                   Pbit ( SEE SECTION 4 )
+
+
+                                                     IS Pbit POSITIVE?                                                                   IS Pbit POSITIVE?
+
+
+
+                             YES                        NO                          NO                            YES
+
+
+                         SELECT BIT                      PRACTICE                        PRACTICE                     SELECT BIT
+                       NOZZLES ( SEE                 CONTROLLED                   CONTROLLED                  NOZZLES ( SEE
+                          SECTION 6 )                     DRILLING OR                      DRILLING OR                     SECTION 6 )
+                                                 CHANGE MUD                   CHANGE MUD
+                                                        PROPERTIES                      PROPERTIES
+
+
+                                                                       IS NOZZLE VELOCITY                     IS NOZZLE VELOCITY
+                                                   LIKELY TO CAUSE HOLE             LIKELY TO CAUSE HOLE
+                                                    WASH-OUT? ( SEE                  WASH-OUT? ( SEE
+                                                        SECTION 6 )                       SECTION 6 )
+
+
+
+                                                YES                 NO       NO                   YES
+
+
+
+
+
+                                                                                                                                                         2179 /166
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  26 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                       FIGURE 2
+                     EXAMPLE RHEOGRAM
+       80   KCL/POLYMER MUD: 25 DEG C
+
+       70
+
+  2) 60                                                                          SHEAR  SHEAR                                                                          DIAL                                                      RPM           RATE   STRESS                                                                   READING            -1                      2                                                                                                                    (S  )     (lb/100ft  )          (lb/100ft 50
+                                                                                    3         3         5         3
+       40                                                                                    6         4         10         4       STRESS
+       30                                                                        100        20        171        20
+                                                                                   200        31        342        31      SHEAR 20                                                                        300        39        511        39
+                                                                                   600        58       1022       58
+       10
+
+        0
+          0        200      400      600      800      1000      1200
+                      SHEAR RATE (s -1)
+
+                                                       FIGURE 3
+                     FLUID RHEOLOGICAL MODELS
+
+          100
+                                             BINGHAM PLASTIC           90
+     2) 80
+           70                                       GENERALISED BINGHAM
+                                              NEWTONIAN                         (lb/100ft 60
+           50                                  POWER LAW                 STRESS           40
+
+           30              SHEAR
+           20
+
+           10
+
+            0
+               0       200      400      600      800      1000     1200
+                          SHEAR RATE (s -1)
+
+
+
+
+
+                                                                                                                                                         2179 /167
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  27 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                       FIGURE 4
+
+                  HOLE CLEANING MECHANISMS
+
+
+
+
+               ZONE 1                                     ZONE 2
+
+
+
+
+                                   GOOD HOLE CLEANING
+                                    WITH MOVING CUTTINGS BED
+                     EFFICIENT
+               HOLE CLEANING
+
+                                ZONE 4
+
+
+
+                              SOME HOLE CLEANING,
+   INCREASING                     CUTTINGS BED FORMED
+    ANNULAR     ZONE 3
+    VELOCITY
+               SLOW REMOVAL
+                 OF CUTTINGS
+
+
+
+
+
+                                      ZONE 5
+                               NO HOLE CLEANING
+
+
+                  0                        30                        60                        90
+                           WELL INCLINATION (DEGREES)
+
+
+
+
+
+                                                                                                                                                         2179 /168
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  28 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                     FIGURE 5(A)
+                   EFFECTIVE VISCOSITY EXAMPLE 1
+
+
+                                                        50
+                                                                                                        LINE               LINE
+
+
+
+                                                        40                                                                                                                                                                                                                                                                     PROJECTION                                     PROJECTION
+                                               CUTTINGS               EFFECTIVE
+                                                      SIZE (in)                 VISCOSITY
+                                                                                                              1/ 4                                 (cP)
+                                                        30            POINT A          300
+
+
+                                                                                                                                           1
+                                                                                                          1/ 2               17 / 2                    140 cP
+                                                                    POINT B
+                                                        20                                          1       200              100                                                                                 12 / 4
+                                                                                   8 1/ 2                       80
+                                                                 HOLE
+                                                                  DIAMETER
+                                                                                                                               (in)                           60
+                                                        10                                 100
+                                                                                                             40
+
+                                                                                                             20
+
+                                                         0                                   0                0
+                                            YIELD                                 PLASTIC
+                                            POINT2                                VISCOSITY                                                                    (lb/100ft )                                                 (cP)
+
+                                                     FIGURE 5(B)
+               CUTTINGS SETTLING VELOCITY EXAMPLE 1
+
+                                                                                                  LINE                              LINE               2.1
+
+
+                                                                                                                                 2.2
+                                                            MUD                                                                                                                                                                                                                                                      PROJECTION     SETTLING                PROJECTION                                                                         SG
+                                                          VELOCITY                1.0
+                                                                                                (ft/min)
+                                                                                                                                 2.3
+                                                                                     60                                                       300
+                                                 POINT C
+
+                                                                                      50                       2.4
+
+                                                                               1.5                                                       200
+                                                                                        40                                                                           45 ft/min
+                                                                              1.0                                                2.5
+                                       MUD                 POINT D
+                                                SG                                                                                         30           1.5
+                                                       100
+                                                                                                                                 2.6
+                                                                                           20
+
+                                                                                                                                         1/2 " CUTTINGS
+                                                         0                                                   2.0      2.7
+                                          EFFECTIVE                             CUTTINGS
+                                           VISCOSITY                               SG
+                                                                  (cP)
+
+                                                                                                                                                        2179 /169
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  29 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                     FIGURE 5(C)
+                 EFFECTIVE VISCOSITY DETERMINATION
+
+
+                                                          50
+                                                                                                           LINE               LINE
+
+
+
+                                                          40                                                                                                                                                                                                                                                                           PROJECTION                                     PROJECTION
+                                                CUTTINGS               EFFECTIVE
+                                                       SIZE (in)                 VISCOSITY
+                                                                                                                 1/ 4                                 (cP)
+                                                          30                                 300
+
+
+                                                                                                                                              1
+                                                                                                             1/ 2               17 / 2
+
+                                                          20                                          1       200              100                                                                                   12 / 4
+                                                                                    8 1/ 2                       80
+                                                                  HOLE
+                                                                    DIAMETER
+                                                                                                                                 (in)                           60
+                                                          10                                 100
+                                                                                                              40
+
+                                                                                                              20
+
+                                                           0                                   0                0
+                                             YIELD                                 PLASTIC
+                                             POINT2                                VISCOSITY                                                                      (lb/100ft )                                                 (cP)
+
+
+                                                     FIGURE 5(D)
+             CUTTINGS SETTLING VELOCITY DETERMINATION
+
+                                                                                                     LINE                              LINE               2.1                                                              SETTLING
+                                                                          60  VELOCITY
+                                                                                                   (ft/min)
+                                                                           50                                                                                                                                   2.2                                                                                                                                                                                                                                                             PROJECTION   40                                                         PROJECTION MUDMUD                                                                          SGSG                                                                                                                           1.01.0
+
+                                                                             30                                    2.3
+                                                                                       60                                                         300
+
+                                                                                   2.0        20       50                       2.4
+
+                                                                                  1.5                                                         200
+                                                                                          40
+                                                                                1.0                                                2.5
+                                         MUD
+                                                                                  10                                                 SG          1                                                                                           30           1.5                                                                                                                                      /4 " CUTTINGS
+                                                         100
+                                                                                                                                   2.6
+                                                                                            20
+
+                                                                                                                                            1/2 " CUTTINGS
+                                                           0                                                   2.0      2.7
+                                           EFFECTIVE                             CUTTINGS
+                                             VISCOSITY                               SG
+                                                                    (cP)
+
+                                                                                                                                                         2179 /170
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  30 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                      FIGURE 6(A)
+                 VERTICAL HOLE CLEANING EXAMPLE 1
+      CUTTINGS SLIP
+      VELOCITY (ft/min)
+                      405060
+                   30
+                 20
+               10                   PENETRATION RATE (m/h)
+
+                                                                            30               0                         PIVOT
+                         POINT
+
+
+
+
+
+                                              140 100 80    60  50     40          30                      20
+                          ANNULAR VELOCITY (ft/min)
+
+                                                     FIGURE 6(B)
+                      17 1/ 2" VERTICAL HOLE CLEANING CHART
+      CUTTINGS SLIP
+      VELOCITY (ft/min)
+                       405060
+                   30
+                 20
+               10                    PENETRATION RATE (m/h)
+
+                                                            50    40        30                  20               0
+                           PIVOT
+                           POINT
+
+
+
+                                                                                                            10
+
+
+
+
+
+                                              140 100 80    60  50     40          30                      20
+                          ANNULAR VELOCITY (ft/min)                       2179 /171
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  31 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                     1                                  FIGURE 6(C)                      12  /4" VERTICAL HOLE CLEANING CHART
+
+        CUTTINGS SLIP
+        VELOCITY (ft/min)
+                  405060
+               30
+             20
+            10                        PENETRATION RATE (m/h)
+                                            60 50   40    30             20            0
+                     PIVOT
+                     POINT
+
+                                                                                       10
+
+
+
+
+
+                                  180140100 80   60  50   40       30                 20
+                               ANNULAR VELOCITY (ft/min)
+
+                                                     FIGURE 6(D)
+                       8 1 /2" VERTICAL HOLE CLEANING CHART
+        CUTTINGS SLIP
+        VELOCITY (ft/min)
+                     60
+                   4050
+               30
+             20
+            10                        PENETRATION RATE (m/h)
+                                          40       30          20            0
+                     PIVOT
+                     POINT                                                                                       10
+
+
+
+
+
+                                  180 140100 80   60  50   40       30                 20
+                               ANNULAR VELOCITY (ft/min)                                  2179 /172
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  32 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                    FIGURE 7(A)
+                 DEVIATED HOLE CLEANING EXAMPLE 3
+
+                          Q(gpm) * ESG                                                                ESG = 1.32     TRANSPORT INDEX = ———————
+                                  100
+                                                                                            1.2     1.3   1.4       40                                                                       2.3
+
+                                STEP 2
+                                                                                                                 1.5
+                                         950 * 1.32       30                        TI = ———————
+      (m/h)                                      100
+                                =       12.5             SG               STEP
+    ROP                                                                                   1
+       20                                                                       2.2                            1.6
+                                      TRANSPORT                                           INDEX         CUTTINGS         MAXIMUM                 STEP                          13
+       10                     3                                                          12                                        1.7
+                                                          10
+                                                           9
+        0                                                                       2.1
+                                                                                    1.2      1.3      1.4      1.5          30             40             50             60
+                                                 MUD SG               HOLE ANGLE (DEGREES)
+
+                                                     FIGURE 7(B)
+                      17 1/ 2" DEVIATED HOLE CLEANING CHART
+
+                          Q(gpm) * ESG
+     TRANSPORT INDEX = ———————
+                                  100                          EFFECTIVE SG (ESG)
+                                      TRANSPORT              1.2     1.3    1.4       40                                                                       2.3                                           INDEX
+                                                          17
+                                                                                                                 1.5
+       30
+      (m/h)                                                    16                                               SG
+    ROP
+                                                          15       20                                                                       2.2                            1.6                                                          14             CUTTINGS         MAXIMUM                                                    13       10
+                                                          12                                        1.7
+                                                          11
+                                                                                        109
+        0                                                                       2.1
+                                                                                    1.2      1.3      1.4      1.5          30             40             50             60
+                                                MUD SG               HOLE ANGLE (DEGREES)
+                                                                                                                                                          2179 /173
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  33 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                     FIGURE 7(C)
+                           12 1/4" HOLE CLEANING CHART
+                           Q(gpm) * ESG
+     TRANSPORT INDEX = ———————
+                                  100                           EFFECTIVE SG (ESG)
+                                      TRANSPORT          1.2     1.3   1.4   1.5       50                                                                       2.5                                           INDEX
+                                                           11
+
+       40                                                                                                                 1.6
+       (m/h)
+                                               SG
+    ROP 30                                                  10
+                                                                                  2.4
+       20                                                            9            CUTTINGS                                                                                                                 1.7         MAXIMUM
+                                                            8       10
+                                                            7
+
+        0                                                                       2.3
+                                                                                    1.2    1.3    1.4    1.5    1.6           40          50          60          70          80
+                                                 MUD SG               HOLE ANGLE (DEGREES)
+
+                                                     FIGURE 7(D)
+                            8 1/ 2" HOLE CLEANING CHART
+
+                           Q(gpm) * ESG
+     TRANSPORT INDEX = ———————
+                                  100                          EFFECTIVE SG (ESG)
+                                      TRANSPORT               1.4   1.6  1.8  2.0       40                                                                       2.7                                           INDEX
+
+
+       30                                                   6
+       (m/h)                                               SG                                2.2
+    ROP
+       20                                                                       2.6                                                            5            CUTTINGS         MAXIMUM       10
+
+                                                            4
+                                                            3
+        0                                                                       2.5
+                                                                                    1.2   1.4   1.6   1.8   2.0           30      40      50      60      70      80      90
+                                                 MUD SG               HOLE ANGLE (DEGREES)
+
+                                                                                                                                                          2179 /174
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  34 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                       FIGURE 9
+
+              CIRCULATION PRIOR TO TRIPPING EXAMPLE
+
+
+
+
+
+                              850m x 1.5
+                                                       ( 0 deg )         NO. OF CIRCULATIONS
+
+                                              EFFECTIVE LENGTH
+                                               = ———————————
+                                          ACTUAL LENGTH
+
+                                                                5185 m
+                                               =    ————
+                                                                2350 m
+
+        18 5/8" csg                                =          2.2 * B/U
+                              300m x 1.7
+                                                        ( 10 - 30 deg )
+
+
+
+
+                                    400m x 2.5
+                                                                   ( 30 - 60 deg )
+
+
+
+
+
+                                                             800m x 3.0
+                                                                                                              ( 60 deg )
+
+
+
+
+
+                                                                                                                                                        2179 /175
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  35 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                      FIGURE 9(A)                  BIT HYDRAULIC OPTIMISATION EXAMPLE
+        PRESSURE (PSI)
+           5000
+
+           4000
+                 P max = 3400 PSI
+           3000
+               OPTIMUM
+                   BIT LOSS                                  PARASITIC
+                   Pb 2018 PSI                               PRESSURE LOSS
+           2000
+
+
+
+           1382
+
+           1000
+            900
+            800
+            700
+            600
+
+            500
+
+            400
+
+
+            300
+                           SLOPE
+                               = 1.46
+
+            200
+                100             200      300    400  500 600700   900
+                                                               800  1000
+                     CIRCULATION RATE (gpm)     Q OPT = 560 gpm
+
+
+                     RIG               WELL NO.
+                   DATE              HOLE SIZE
+                 MUD TYPE          MUD WEIGHT: 1.37 SG
+                   DEPTH                    T.F.A:  3 x 16/32 ins 2
+
+                   PUMP RATE (SPM)             140   70   35
+                   PUMP RATE (GPM)            692  346  173
+                     STANDPIPE PRESSURE, P T    3400 1000  350
+                       BIT PRESSURE DROP, PB      1451  363   91
+                      PARASITIC LOSS, PP =PT -PB    1949  637  259
+                                                                                                                                                         2179 /176
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 36 ]
+────────────────────────────────────────────
+           BP EXPLORATION                              Section    :  4900/GEN
+
+                                                                  Rev.         :  1 (9/91)
+      DRILLING MANUAL     Page        :  36 of 36
+
+SUBJECT:  DRILLING HYDRAULICS
+
+                                                      FIGURE 9(B)
+                 BIT HYDRAULIC OPTIMISATION WORKSHEET
+
+                     5000
+
+                     4000
+
+
+                     3000
+
+
+
+                     2000
+
+
+
+                  PSI
+
+                     1000
+                      900                                               PRESSURE   800
+                      700
+                      600
+
+                      500
+
+                      400
+
+
+                      300
+
+
+
+                      200
+                         100              200       300    400  500  600 700   900
+                                                                           800  1000                                  CIRC RATE G.P.M.
+
+
+
+                       RIG              WELL NO.
+                     DATE             HOLE SIZE
+                   MUD TYPE         MUD WEIGHT
+                     DEPTH                    T.F.A.           ins 2
+
+                    PUMP RATE (SPM)
+                    PUMP RATE (GPM)
+                       STANDPIPE PRESSURE, P T
+                          BIT PRESSURE DROP, P B
+                        PARASITIC LOSS, P P =P T -PB
+                                                                                                                                                         2179 /177
+
+

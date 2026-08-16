@@ -201,6 +201,18 @@ WELL_PATTERNS = [
     (r"\bWeco\b", ""),
     (r"\bVarco\b", ""),
     (r"\bKhazar\b", "the field"),
+    (r"\bADCO\b", ""),
+    (r"\bSaudi Aramco\b", ""),
+    (r"\bAramco\b", ""),
+    (r"\bNimir\b", ""),
+    (r"\bPETROM\b", ""),
+    (r"\bExxonMobil\b", ""),
+    (r"\bExxon\b", ""),
+    (r"\bMobil\b", ""),
+    (r"\bIADC\b", ""),
+    (r"\bDevereux\b", ""),
+    (r"\bWell Control School\b", ""),
+    (r"\bAberdeen\b", ""),
 ]
 
 SERVICE_NAMES = [

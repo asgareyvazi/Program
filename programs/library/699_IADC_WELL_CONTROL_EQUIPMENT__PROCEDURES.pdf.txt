@@ -1,0 +1,2083 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 35 ]
+────────────────────────────────────────────
+                 WELL CONTROL
+                 EQUIPMENT &
+                 PROCEDURESWC
+
+
+
+
+
+     IADC Drilling Manual 12th Edition
+
+
+
+
+                            IADC Drilling Manual • Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 35 ]
+────────────────────────────────────────────
+Proven Leadership
+Then. Now. Always.
+
+Covering well control events of all magnitudes for the past 40
+years, our experience and dedication to quality, timely execution
+of operations has positioned us as industry leaders.
+
+When the largest of the world’s oilfield disasters calls for a
+company that can take on the impossible, Wild Well is there.
+There then, here now, and always ready with innovative solutions.
+
+wildwell.com
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES       WC-i
+
+
+                 C H A P T E R
+
+                   WELL CONTROL
+                    EQUIPMENT &
+                    PROCEDURESWC
+
+
+ T  heexpertiseIADC spanningDrilling Manuala broadisrangea seriesof topics.of referenceThese volunteersguides assembledcontributedbytheirvolunteertime, energydrilling-industryand knowledgeprofessionalsin developingwith
+the IADC Drilling Manual, 12th edition, to help facilitate safe and efficient drilling operations, training, and equipment mainte-
+nance and repair.
+
+The contents of this manual should not replace or take precedence over manufacturer, operator or individual drilling company
+recommendations, policies or procedures. In jurisdictions where the contents of the IADC Drilling Manual may conflict with
+regional, state or national statute or regulation, IADC strongly advises adhering to local rules.
+
+While IADC believes the information presented is accurate as of the date of publication, each reader is responsible for his own
+reliance, reasonable or otherwise, on the information presented. Readers should be aware that technology and practices ad-
+vance quickly, and the subject matter discussed herein may quickly become surpassed. If professional engineering expertise is
+required, the services of a competent individual or firm should be sought. Neither IADC nor the contributors to this chapter war-
+rant or guarantee that application of any theory, concept, method or action described in this book will lead to the result desired
+by the reader.
+
+
+CONTRIBUTORS
+  Fred Mueller, Chevron
+  Lachelle Ahmed, GE Oil & Gas
+  Richard Grayson, Nabors Offshore Drilling
+  David Cormack, Auriga Training Limited
+  Arash Haghshenas, Boots & Coots A Halliburton Service
+  Bhavesh Ranka, Cudd Well Control
+  Mel Whitby, Cameron Drilling Systems
+  Darren Mourre, National Oilwell Varco
+
+REVIEWERS
+  Jason Sasarak, BP
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 35 ]
+────────────────────────────────────────────
+WC–ii      WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+
+
+
+This is a chapter of the IADC Drilling Manual, 12th edition.
+
+Copyright © 2015 International Association of Drilling Contractors (IADC), Houston, Texas.
+All rights reserved. No part of this publication may be reproduced or transmitted in any form
+without the prior written permission of the publisher.
+
+International Association of Drilling Contractors
+10370 Richmond Avenue, Suite 760
+Houston, Texas 77042
+USA
+
+ISBN: 978-0-9909049-4-6
+
+
+
+
+
+Printed in the United States of America.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 35 ]
+────────────────────────────────────────────
+                        WELL CONTROL EQUIPMENT & PROCEDURES Contents       WC-iii
+
+
+ C H A P T E R W C
+
+WELL CONTROL EQUIPMENT &
+PROCEDURES         Contents
+
+
+
+
+
+Introduction.................................................................. WC-1     Typical diverter system for onshore and/or
+Blowout preventer stack equipment...................... WC-1    bottom-supported offshore installations............WC-26
+Typical stack arrangement.......................................WC-5     Typical diverter system
+                                                              for floating installations...........................................WC-27BOP design considerations.......................................WC-5
+                                                         Diverter system maintenance................................WC-27BOP arrangement considerations...........................WC-6
+                                        BOP performance characteristics.........................WC-28BOP arrangements: surface stacks........................WC-7
+                                                  Blowout preventer control systems.....................WC-29Testing surface stacks with one pipe size..........WC-11
+                                                         Diverter types............................................................ WC-41BOP arrangements: subsea stacks.......................WC-15
+                                                  Well control procedures......................................... WC-47Inside blowout preventers......................................WC-17
+                                                Appendix 1: Glossary..............................................WC-A1Choke manifold..........................................................WC-19
+                                                Appendix 2: IADC Kill sheets...............................WC-A3Diverter systems.......................................................WC-22
+
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 35 ]
+────────────────────────────────────────────
+        IADC
+          Safety Toolbox
+
+                                Essential safety alerts
+                         and other tools for the
+                          crew on the rig floor
+
+IADC SAFETY TOOLBOX
+DESIGNED TO SHARPEN SAFETY SKILLS
+
+Sharpen your safety skills with the new IADC Safety Toolbox. Available at no charge
+at www.IADC.org/safety-toolbox, the searchable IADC Safety Toolbox provides easy
+access to key IADC safety information, including safety alerts, safety meeting topics,
+near miss/hit forms, safety posters and more.
+
+The IADC Safety Toolbox is easy to use. Users can narrow their search by type of
+operation (rigging up, lifting, etc), incident classification (LTI, equipment damage,
+etc.), body part, location (rig type, etc.), incident type (slip, etc.) and equipment.
+
+The Online Safety Toolbox provides a practical, user-friendly resource that will
+seamlessly integrate into daily drilling operations. Contents include:
+
+   •  700 IADC Safety Alerts;
+
+   •  125 Safety Meeting Topics for JSAs or other meetings;
+
+   •  Near Miss/Hit Report forms for both drilling and well servicing/workover;
+
+   • 60 IADC Safety Posters.
+
+The Online Safety Toolbox puts critical safety related tools and resources directly in
+the hands of the rig crew, and is one of several IADC initiatives aimed at enhancing
+safety in the industry. Access it today!
+
+
+
+
+
+             www.iadc.org/safety-toolbox
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES       WC-1
+
+Introduction
+Preventing and, when prevention is not sufficient, respond-
+ing to potential uncontrolled releases of oil or gas ("blow-
+out") is critical to safe drilling operations. A kick is an influx
+of formation fluids into the wellbore. A blowout is an uncon-
+trolled kick exiting the well at surface.
+
+Well control is a process that begins with spudding the well
+and is not complete until the well is put on production and all
+drilling operations cease.
+
+This chapter will examine equipment commonly used in well
+control and processes used to control kicks of oil or gas.
+
+Blowout preventer stack equipment
+Annularblowoutpreventer
+The annular blowout preventer is installed at the top of the
+BOP stack (Figure WC-1) and has the capability of closing
+(sealing off) on anything in the bore or completely shutting
+off (CSO) the open hole by applying closing pressure.
+
+The sealing device of an annular blowout preventer is re-
+ferred to as the “packing element”.  It is basically a do-
+nut-shaped element made out of elastomeric material. To
+reinforce the elastomeric material, different shapes of me-
+tallic material are molded into the element. This keeps the
+elastomeric material from extruding when operating system
+pressure or wellbore pressure is applied to the bottom of the
+packing element. Since the packing element is exposed to
+different drilling environments (i.e., drilling fluid/mud, cor-
+rosive H2S gas and/or temperature of the drilling fluid), it is                                                                        Figure WC-1: Schematic (top) and photo of annular blowoutimportant to make sure that the proper packing element is                                                                         preventers. Photo courtesy GE Oil & Gas. Top image, IADC drawing.
+installed in the annular preventer for the anticipated envi-
+ronment of the drilling operation.                             anything in the bore or on the open hole. Compression of
+                                                            the elastomer throughout the sealing area assures a strong,
+During normal wellbore operations, the preventer is kept ful-                                                           durable seal off against almost any shape, even with a previ-
+ly open by applying hydraulic pressure to position the piston                                                             ously used or damaged packer.
+in the open (down) position. This position permits passage
+of drilling tools, casing, and other items which are equal to    The piston is moved to the closed position by applying hy-
+the full bore size of the BOP. The blowout preventer is main-     draulic pressure to the closing chamber. Guidelines for clos-
+tained in the open position by relaxing all hydraulic control     ing pressures are contained in the operational section for
+pressures to the closing chamber and applying hydraulic    each manufacturer’s type of annular blowout preventer and
+pressure to the opening chamber. Application of hydraulic     in the Operator’s Manual. The correct closing pressure will
+pressure to the opening chamber ensures positive control    ensure long life, whereas excessive or deficient closing pres-
+of the piston.                                                sures will reduce packer life. The pressure regulator valve of
+                                                            the hydraulic control unit should be adjusted to the manu-
+Closepreventeroperation                                  facturer’s recommended closing pressure.
+In order for the annular BOP to close on anything in the bore
+or to perform a complete shut-off, CSO or open-hole clo-   As the packing element rubber deteriorates, higher closing
+sure, closing pressure must be applied. A CSO is typically    pressures may be required to effect a seal. Subsea applica-
+limited to 50% of the annular rated working pressure, RWP.     tions may require an adjustment of closing pressure due to
+As the piston is moved to the closed position, the elastomer     effects of the hydrostatic head of the control fluid and of the
+packer is squeezed inward to a sealing engagement with      drilling fluid column in the marine riser. Some manufactur-
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 35 ]
+────────────────────────────────────────────
+WC-2      WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+
+
+
+     Figure WC-2: Schematic of ram-type BOP. IADC drawing.
+
+
+
+
+
+          Video WC-1: Animation shows internal BOP
+               action. Courtesy National Oilwell Varco.
+ers may also require limiting the closing pressure depending
+upon the diameter and wall thickness of casing or large di-
+ameter tubulars. The applicable operator’s manual will ex-
+plain these requirements.
+
+StrippingwithanannularBOP
+Drillpipe can be rotated and tool joints stripped through a
+closed packer while maintaining a full seal on the drillpipe.
+Longest packer  life  is obtained by adjusting the closing
+chamber pressure just low enough to maintain a seal on the
+drillpipe with a slight amount of drilling fluid leakage as the
+tool joint passes through the packer. The leakage indicates
+the lowest usable closing pressure for minimum packer wear
+and provides lubrication for the drillpipe motion through the
+packer.                                                             Figure WC-3: Schematic (top) and photo of typical subsea BOP
+                                                                                stack. Photo courtesy GE Oil & Gas. IADC drawing at top.
+A pressure regulator valve should be set to maintain the
+proper closing pressure. For stripping purposes, the reg-     ping. Check manufacturer’s recommendations for proper
+ulator valve is usually too small and cannot respond fast     nitrogen precharge pressure for your particular operating
+enough for effective control, so a surge bottle is connected    requirements. In subsea operations, it is advisable to add an
+as closely as possible to the BOP closing port (particular-    accumulator to the opening chamber line to prevent unde-
+ly for subsea installations). The surge bottle is pre-charged     sirable pressure variations.
+with nitrogen, and is installed in the BOP closing line in order
+to reduce the pressure surge which occurs each time a tool
+joint enters the closed packer during stripping. A properly
+installed surge bottle helps reduce packer wear when strip-
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-3
+
+
+
+
+
+             Figure WC-4: Blind rams. IADC drawing.                           Figure WC-6: Variable bore rams. IADC drawing.
+
+
+
+
+
+             Figure WC-5: Pipe rams. IADC drawing.
+
+Ram-typeblowoutpreventer
+A ram-type blowout preventer is basically a large bore valve
+(Figure WC-2). The ram blowout preventer is designed to
+seal off the wellbore when pipe or tubing is in the well. In a             Figure WC-7: Schematic (top) and photo of Upper
+BOP stack, ram preventers are located between the annular             and lower shearing blind rams. Photo courtesy
+BOP and the wellhead. (See schematic of a typical subsea               GE Oil & Gas. IADC drawing at top.
+BOP stack in Figure WC-3.) The number of ram preventers
+                                                                  include production tubing, drill pipe, drill collars, andin a BOP stack ranges from one to eight depending on appli-                                                                casing that will seal off the wellbore around it (Figure
+cation and water depth. Flanged or hubbed side outlets are                                                       WC-5);
+located on one or both sides of the ram BOPs. These outlets                                                                               y  Variable bore rams: Sealing element is much more
+are sometimes used to attach the valved choke and kill lines       complex and allows for sealing around a particular
+too. The outlets enter the wellbore of the ram preventer im-       range of pipe sizes (Figure WC-6);
+mediately under the ram cavity.                                        y  Shearing blind rams: Blade portion of the rams shears or
+                                                                cuts the drillpipe, and then a seal is obtained much like
+Other than sealing off the wellbore, rams can be used to        the blind ram (Figure WC-7);
+hang-off the drillstring. A pipe ram, closed around the drill-      y  Casing shear rams: Casing shear rams are typically
+pipe with the tool joint resting on the top of the ram, can hold        shearing rams only and will not seal. They are
+up to 600,000 lb of drillstring.                                        specifically designed to cut large diameter tubulars that
+                                                                are incapable of being sheared by blind shear rams.
+Several different types of rams are installed in the ram type
+BOP body. The five main types of rams are blind rams, pipe    Note: Shear rams are also available that are capable of
+rams, variable bore rams, shearing blind rams, and casing    shearing multiple tubing strings and large diameter tubulars
+shear rams. Following is a brief description of each type:        while maintaining a reliable wellbore pressure seal.
+y  Blind rams: Rubber sealing element is flat and can seal
+    the wellbore when there is nothing in it, i.e., “open hole”    Operation and use of pipe rams
+    (Figure WC-4);                                 As described earlier, pipe rams are designed to fit around
+y  Pipe rams: Sealing element is shaped to fit around a                                                                certain diameter tubulars to seal off the wellbore (annulus)
+    variety of tubulars with a particular diameter, which                                                                       in a blowout situation. Most pipe rams are designed with re-
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 35 ]
+────────────────────────────────────────────
+WC-4      WELL CONTROL EQUIPMENT & PROCEDURES
+
+placeable elastomer packers and top seals. Besides sealing   Ram locking device
+off the wellbore in an emergency situation, the pipe rams   A ram locking device must be fitted to all ram blowout pre-
+can be used for stripping. Use of two ram-type preventers     venters. This device is used whenever it is necessary to re-
+would only be resorted to if the annular preventer was bad-   move hydraulic operating pressure from the “close” side of
+ly worn. However, stripping drillpipe through rams can be    the ram operating system, but maintain the ram preventer in
+done with less string weight than if the annular preventer is    the close position. Ram locking devices are used when rams
+used, since there is no closure around the larger diameter of      will be closed in for a long period of time as a contingency
+the tool joints. One additional ram-type BOP must always    plan for a loss of hydraulic pressure scenario.
+remain available below any used for stripping, to allow the
+well to be closed in safely.                         On BOP stacks that are used in a surface application, the
+                                                 ram locking device is a threaded rod, referred to as a “lock
+Stripping with ram-type BOPs                              screw”. This lock screw reacts between the operating pis-
+Stripping through ram-type BOPs requires at least three    ton in the ram operating system, and the housing of the lock
+preventer ram cavities fitted with the proper size rams for    screw. The locking device on a ram preventer that is used in
+the pipe to be stripped. If the pipe string is a tapered string,    a subsea application must be designed to be remotely actu-
+i.e., having more than one size pipe in the string, two pre-    ated by either the BOP hydraulic control unit, or by the ac-
+venter ram cavities will be required for each size of pipe in     tual movement of the operating piston in the ram operating
+the string. A tapered pipe string can be stripped using only    system.
+two preventer ram cavities provided variable (multiple) bore
+rams are used. Variable bore rams have a specified pipe size    Operation and use of shearing blind rams
+range and will seal off on any size pipe within the size range.    Under normal operating conditions, shearing blind rams are
+The two preventer ram cavities used for stripping should    used as blind rams. The large front packer in the upper shear
+be spaced sufficiently far apart so that closed rams in each    ram seals against the front face of the lower shear ram, re-
+preventer cavity will clear the length of a pipe connecting     sulting in prolonged packer life similar to that of standard
+joint. This also includes any upset (increased pipe diameter)     blind packers.
+portions adjacent to the connection. The distance between
+                                                                                               If emergency conditions make  it necessary to shear thethe two preventer ram cavities should provide enough addi-
+                                                                          drillpipe, the closing shearing blind rams will shear the pipetional space so that positioning the pipe joint between the
+                                                    and seal the wellbore whether the fish (the lower sectioncavities does not require an excessive amount of precise
+                                                                  of sheared pipe) is suspended on the lower pipe rams orpositioning.
+                                                         dropped. If the fish is not dropped, the lower shear ram will
+When operations indicate that a considerable amount of    bend the sheared pipe over a shoulder and away from the
+stripping may be required, it is advisable to include a third     front face of the lower shear ram which then seals against
+preventer ram cavity fitted with pipe rams for added safety    the packer in the upper shear ram.
+and to permit replacement of the ram packers in the strip-
+                                                                                               If different grades, weights, or large diameter pipe has to beping preventers. The pipe rams in the upper two preventer
+                                                            sheared, each oil tool manufacturer has a variety of shearcavities would be considered the “stripping” rams while the
+                                                   rams available to perform the shearing operation.pipe rams in the third preventer cavity would be “safety”
+rams. Stripping pipe through ram packers causes wear on     »»Recommendedshearingprocedures
+the packers and packer replacement is sometimes required.       1. Raise the bit off the bottom and position the pipe in the
+The safety rams in the third preventer cavity will permit well    preventer so that the tool joint is positively NOT in the shear
+pressure to be shut in below the stripping preventers when    ram cavity.
+required. The preventer with safety rams is only closed on a
+stationary pipe string and therefore the rams do not receive     2. To ensure proper alignment for shearing, a set of pipe
+much wear, thus always providing a reliable backup closure.    rams may be closed before the shearing blind rams are
+                                                                closed. Also, if the fish is not to fall downhole after being
+Stripping requires no special equipment beyond what is nor-    sheared, a tool joint may be landed on closed and locked
+mally available on a drilling rig; however, as the pipe string    pipe rams at least 30 in below the shear rams. The tool joint
+                                                    and upset portion of the drillpipe must be below the low-becomes insufficient to overcome the upward force of the
+                                                                er edge of the shear ram cavity to ensure that the pipe iswell pressure acting on the pipe, provisions must be made
+                                                        sheared successfully.
+for restraining the pipe string against upward movement. At
+this point, the stripping operation becomes a “snubbing” op-     3. Close the shearing blind rams with 3,000 psi on the BOP
+eration. Capability for pipe snubbing is also required when    operating system. The accumulator system should be sized
+starting a pipe down into the wellbore against well pressure.    such that the pressure does not fall below 2,700 psi during
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-5
+
+
+the shearing operation. The hoses for
+the open and close functions of the            Figure WC-8: Typical blowout preventer arrangement
+BOP are recommended to be at least                 for 10,000-psi and 15,000-psi working pressure
+one inch in diameter.                                     service surface installations. IADC drawing.
+
+4. Lock the shearing blind rams in the
+closed position by actuating the man-
+ual lock or applying locking (closing)
+pressure to the appropriate locking
+mechanism as required.
+
+5.  If the lower fish is suspended in
+pipe rams below the shearing blind
+rams, killing mud may be circulated
+through a BOP outlet between the
+shearing blind rams and the pipe rams
+and into the lower fish in order to cir-
+culate a kick out of the hole in the con-
+ventional manner.
+
+Care and maintenance of
+all blowout preventer stack
+equipment
+Each manufacturer has individual care
+and maintenance manuals for each
+product  of  the blowout  preventer
+stack. They should be contacted for
+detailed information regarding their
+specific  recommendation on  each
+piece of equipment. Proper care and
+maintenance is essential to keep the
+equipment working.                      * Annular preventer A and rotating head G can have lower pressure ratings.
+Typical stack arrangement                 ExampleAPIBOPstack
+and testing procedures for a surface stack    "5M - 13 5/8 in. SRRA" describes a 5,000-psi W.P., 13 5/8-in.,
+                                      5M bore stack with components from bottom up, consisting
+                                                                  of a drilling spool, two single rams and an annular BOP.The American Petroleum Institute has established standard
+nomenclature for describing BOP components and ratings,                                                            For control of any well, blowout preventer stacks and as-
+including the following information:                                                             sociated kill/choke lines and valving must be arranged to
+                                                            provide a high degree of backup and flexibility. Figure WC-8
+BOPcomponentcodes                                        illustrates typical arrangements for BOP and choke/kill
+                                                              manifolds. However, this API standard deals with the sub-Code   Component
+                                                                     ject only in a general way. The majority of this section willA       Annular
+                                                    be devoted to analyzing several specific BOP stack arrange-G        Rotating Head
+                                                        ments. Before doing this, first consider certain general factsR        Single Ram
+                                                          concerning BOP design and arrangements.Rd      Double Ram
+Rt        Triple Ram
+S         Drilling Spool                     BOP design considerations
+                                                  The principal BOP design considerations are to:
+Pressure code                                                           y  Confine wellbore pressure;
+                                                                               y  Provide for passage of tools.M = 1,000-psi rating
+    working pressure
+                                                                Controlling bottomhole pressure while killing a well is the
+                                                         primary purpose of a BOP. In most cases, the BOP working
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 35 ]
+────────────────────────────────────────────
+WC-6      WELL CONTROL EQUIPMENT & PROCEDURES
+
+pressure exceeds the limit of all other well control system    Flexibilityandsafety
+elements. A BOP stack should be able to contain the max-                                                  The rest of this section will analyze two BOP stack arrange-
+imum anticipated surface pressure, which is essentially the                                                   ments used for maintaining control below surface casing on
+full bottomhole formation bore pressure.                                                               non-floating type rigs.
+
+Obviously, the BOP bore must be large enough for passage                                                        Both arrangements consist of a singular annular and three
+of anticipated tool sizes. On occasion, underreamers must                                                         rams. The advantages and disadvantages of these arrange-
+be used to open the hole because of BOP bore restrictions.                                                   ments in terms of flexibility and safety will be discussed.
+Pilot holes are sometimes drilled to investigate formation
+pressure and the BOP is removed to open the hole and run     Also, included are recommendations for developing a safe,
+casing. This practice could be disastrous. The BOP bore     efficient BOP test procedure and the description of a specific
+should be sufficient to provide protection during any drilling     test sequence for one of the subject stack arrangements.
+process.
+                                                       There can be no “best” standard stack arrangements, since
+BOP arrangement considerations                each drilling environment and rig influences, to some de-                                                                 gree, BOP equipment configuration. But a closer look at sev-
+Specific BOP arrangements are based on the following con-
+                                                                    eral good hookups highlights principles that will be helpful to
+siderations:
+                                                     anyone responsible for arranging or inspecting BOP stacks.y  Governmental regulations;
+y Company policy;
+y  Physical size and cost;                    BOP arrangements: surface stacks
+y  Flexibility and safety.                               The drilling business is often a series of compromises, both
+                                                                       in equipment and practices. This is certainly true with BOP
+Governmentalregulations                              stack arrangements.
+Rules and regulations governing the operation of a BOP in
+the USA outer continental shelf areas are contained in the   Locationoftheshear/blindram
+Bureau of Safety and Environmental Enforcement (BSEE) 30    Consider placement of blind rams in a 3-ram surface BOP
+code of Federal Regulations Part 250. These rules and reg-     stack. If blind (or shear) rams are placed at the bottom of the
+ulations must be complied with. Likewise, in other areas of     stack, with no flowlines below, then the BOP stack has the
+the world, governments will usually have local regulations    advantage of a “master valve” for open hole situations or a
+governing the use and testing of BOP stacks.                      last resort valve if all else fails during a kick. But this place-
+                                                 ment also imposes limitations on stack use.
+Companypolicy
+                                                            For example, drillpipe cannot be hung off on pipe rams be-Both the Operator and the Contractor will usually have their
+                                                       low the blind ram and the well killed by circulating throughown policies concerning BOP stack configuration and test-
+                                                            the drill stem. This arrangement may also force placementing. The operator should be made aware of the contractor’s
+                                                                  of pipe rams so close together that adequate space is notpolicies prior to the occurrence of any kick.
+                                                                  available for ram-to-ram stripping.
+Physicalsizeandcost                                          On the other hand, if blind rams are placed at the top of the
+If physical size and cost is no consideration, the ideal sit-                                                 ram BOP stack, they can be replaced with pipe rams for ram-
+uation would be to have only one BOP stack of sufficient                                                        to-ram stripping operations to either protect the lower pipe
+bore, working pressure and backup components to  drill                                                 ram or in the event of a tapered string, to furnish the pipe
+the complete well. Such stacks are actually being built for                                                 ram size that will fit the size of drillpipe being stripped. But
+deepwater subsea operations where such designs can be                                                                       this arrangement also presents a problem because it pre-
+justified. Most non-floating rig BOPs are surface mounted.                                                           vents the utilization of the blind ram as a master valve in
+Two independent stack arrangements are normally used.                                                   open hole situations, for repair of items above it or changing
+A large-bore, relatively low-pressure stack consisting of an                                                                to casing rams. It also may force spacing of pipe rams so
+annular only, or an annular plus one or two rams, is used                                                              close that the ram-to-ram stripping is impossible.
+for well control until surface casing is set. This large bore
+stack sometimes is used as part of a diverter system. After    The question arises as to how to best maximize advantages
+setting surface casing, a small bore stack of higher working     of both of these placements and minimize disadvantages.
+pressure is normally used to TD.                         The two compromise arrangements illustrated in this sec-
+                                                                   tion (Figures WC-9 and WC-10) place blind rams on top
+                                                                     for tapered string drilling and in the middle when one size
+                                                                        drillpipe is being used. This allows hanging off pipe in the
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-7
+
+
+pipe rams and circulation through the drill stem when kill
+and choke lines are placed properly, adequate clearance for
+                                                                                                                                 To Test Manifold
+ram-to-ram stripping and partial utilization of the blind ram                                                                                   Vent
+                                                                                    P  P
+as a master valve for equipment out of hole repairs (top ram
+change to casing size obviously being safer with the blind
+ram in the middle).
+                                                                                                                                                           To
+                                                                                                                                                         Shaker
+Arrangementofadoubleandasingleramunit
+A standard size 13  5/8-in., 5,000-psi flanged double ram                                                                                  From    From                                                                                                          5                  P                                                                                 Cement                                                                                 Mud
+should be mounted on top of a single ram unit. This provides               Unit    Pumps      Annular                                                                                                                                   Top Pipe
+sufficient space for shearing above a standard 5–in. API                                         Ram
+NC50 connection hung in the bottom pipe ram as illustrated                                 Shear/
+                                                                                                                                 Blind                    2a
+in Figure WC-11. This is the best arrangement for use with a                       Ram                         Alternate
+                                                                                                1                                       location
+single drillpipe size.
+                                                                                                          Bottom                          2                                                                                                             Pipe Ram                        4Figure WC-11 depicts a standard length API NC50 pin and
+box joint. An extra-long joint would probably not clear the
+                                                                                                        3
+shear ram in a standard 5,000-psi BOP. Each arrangement
+must be reviewed on a case-by-case basis.                        Figure WC-9: BOP arrangement for one pipe size. IADC drawing.
+
+Some contractors prefer to assemble the single on top so
+that the annular and the single can be separated from the                                                To Test Manifold                                                                                                                                                                    Vent
+double for purposes of easier handling. Trade-offs may be
+                                                                                   P Pnecessary in this matter. The primary aim here is not to de-
+bate each point, but to emphasize the importance of critical-
+ly reviewing BOP arrangements.
+                                                                                                                                                          To
+                                                                                                                                                        Shaker
+Activities possible: One pipe size
+                                                                                 From    From
+Refer to Figure WC-9:                                                      Cement   Mud        5                  P
+                                                                                                          Unit    Pumps                                                                                                                    Annular
+1. Normal kill down drillpipe using either pipe ram;                                  1                                    Blind Ram
+      a. Choke flowlines 2 and 4 below each pipe ram.                                                                      SmallPipe
+2. Kill with blind or shear ram closed;                                                                 Ram
+      a. Double ram unit must be on top of single ram to pro-
+       vide sufficient space for hang off and shear;                                      Large                                                                                                           Pipe Ram                         4 2
+      b. Kill flowline 1 and choke flowline 4 must be arranged
+       as shown.                                                                                                       3
+3. Ram-to-ram stripping;
+      a. Blind ram must be in middle to provide sufficient     Figure WC-10: BOP arrangement for two pipe sizes. IADC drawing.
+       space;
+      b. Kill flowline 1 to equalize pressure before opening
+                                                                                                                                                   Must Shear      bottom ram;                                                                                                                                                              Upset                                                                                                                     Annular                                Above
+      c. Choke flowlines 2 and 4 to bleed fluid and monitor
+                                                                                                                                                                                       Pipe
+       pressures below each ram during stripping;                           Top Pipe Ram                                                            Upset
+     d. Kill flowline 3 to lubricate in fluid (volumetric method                                                                                             Pin
+     when bleeding gas) or kill below bottom ram;                           Shear Ram                               14.56”       25”
+      e. Could also strip between annular and either ram and
+      do items 2, 3, or 4 above.                                                          Bottom                                 25.56”                         Box
+4. Location of blind ram in the middle.                                       RamPipe
+      a. More room for ram-to-ram stripping as previously                                                                   SetRamon
+      mentioned;                                                                                                                               PipeRam
+      b. Safe “out of hole” top ram change, annular element                                                                              5” XH Tool Joint (standard)                                                                                       CIW 13 5/8” 5000 psi Type-U Double and Single
+      change or repairs to the single ram unit or annular.
+                                                                    Figure WC-11: Clearance for shearing. One pipe size. IADC drawing.
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 35 ]
+────────────────────────────────────────────
+WC-8      WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+                                               NOTE: Location of primary choke flowline 2 at alternate lo-
+                                                               cation 2a will allow all previously mentioned activities but is
+                                                 somewhat more exposed to mechanical damage.
+
+                                                     Double ram units can be special ordered with enough room
+                                                    between rams to hang-off and shear. This special “long
+                                                        neck” double ram unit could be put on bottom, best satisfy-
+                                                                ing both single and tapered string application. This discus-
+                                                               sion considers standard height double and single BOP units
+                                                                     only, with no spool or special stacks, so the most practical
+                                                    compromise is to place the double ram unit on top.
+
+                                                              Activities possible: Two pipe sizes
+                                                             Refer to Figure WC-10:
+
+                                                                                           1. Normal kill down drill pipe using either pipe ram;
+          Figure WC-12: Normal kill down drill pipe using                      a. Choke flowlines 2 and 4 below each pipe ram.
+               ram. One pipe size. IADC drawing.                      2. Kill with blind or shear ram closed;
+                                                                             b. Can hang off in large pipe (bottom) rams, shear, and
+                                                                                                           kill;
+                                                                                  c. Can hang off in small pipe (top) rams but cannot
+                                                                 shear due to small space so must back off before
+                                                                       closing blind rams;
+                                                                            d. Kill flowline 1 and choke flowlines 2 and 4 must be
+                                                                arranged as shown.
+                                                                       3. Ram-to-ram stripping;
+                                                                                a. Could change blind ram to large pipe size and strip
+                                                             ram-to-ram but the arrangement shown provides in-
+                                                                             sufficient space to strip small pipe ram-to-ram;
+                                                                             b. Kill flowline 1 to equalize pressure before opening
+                                                          bottom rams;
+                                                                                  c. Choke flowlines 2 and 4 to bleed fluid and monitor
+                                                                  pressures below each ram during stripping;
+                                                                            d. Kill flowline 3 to lubricate in fluid (volumetric method
+                                                    when bleeding gas) or kill below bottom ram;
+            Figure WC-13: Kill with blind or shear ram                                                                               e. Could also strip between annular and either small or
+               closed. One pipe size. IADC drawing.
+                                                                        large ram and do items 2, 3 and 4 above.
+
+                                               NOTE: Relocation of kill flowline 1 required to accomplish kill
+                                                         procedures mentioned in items 2c and 3b;
+
+                                                                 4. Location of blind rams on top:
+                                                                                a. Can accomplish kill with either size pipe hung off;
+                                                                             b. Can change to large pipe size for ram-to-ram strip-
+                                                                         ping;
+                                                                                  c. Can change to either pipe size thereby minimizing
+                                                          wear on lower pipe rams, which inevitably occurs
+                                                    when pipe is worked with rams closed;
+                                                                            d. A disadvantage is open-hole exposure while install-
+                                                                       ing casing rams while out of hole.
+
+                                               NOTE: If the single ram unit were arranged on top of the
+                                                        double unit or there was enough space between the top and
+ Figure WC-14: Ram-to-ram stripping. One pipe size. IADC drawing.     the middle ram provided some other way, then small pipe
+                                                       ram-to-ram stripping might be possible.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-9
+
+
+NOTE: Refer to items 2b and 3a for Figure WC-10: Arrange-
+ment for tapered strings indicates that space between the
+blind rams and small pipe rams limits certain activities.
+For tapered string application, this space problem could be                                                                                                                             Annular
+eased by stacking the single ram unit on top of the double
+ram unit. Figure WC-3 shows the double on top, another                                                                           Blind Ram
+compromise. In field use it is not practical to rearrange the
+BOP stack just before picking up a smaller drillpipe string.
+                                                                                                            1                                       2
+Double ram units can be special ordered with enough room                   Small Pipe Ram
+between rams to hang-off and shear. This special “long                   Large Pipe Ram                              Flowsmall withram annularclosed or
+neck” double ram unit could be put on bottom, best satisfy-                                                                4
+ing both single and tapered string applications. This discus-
+                                                                                                              3sion considers standard height double and single BOP units                                                             Flow with large ram closed
+only, with no spool or special stacks, so the most practical
+compromise is to place the double ram unit on top.
+                                                                              Figure WC-15: Kill down drill pipe using either
+Choke and kill flowlines                                                     ram. Two pipe sizes. IADC drawing.
+Arranging rams is important, but choke and  kill flowline
+(wing valves) placement is equally important to fully utilize
+the BOP. Again, compromises are made between the most
+conservative position of having no flowlines below the bot-
+                                                                                                                            Annular
+tom ram and a middle road position of arranging the flowline
+for maximum BOP usage.                                                                                                                                      Blind Ram
+
+Figures WC-9 and WC-10 illustrate two BOP and wing valve
+arrangements. Activities possible with each of these two                          1                                       2
+arrangements are summarized near the figures and further                   Small Pipe Ram
+illustrated in Figures WC-12 through WC-17.                                          Large Pipe Ram
+                                                                                                                                                 4
+Check (non-return) valves, are located in each “kill” wing
+valve assembly for the following reasons:                                                     3
+
+y  To stop backflow in case the kill flowline ruptures while
+   pumping into the well at high pressure;
+y  Other kill flowline gate valves between the check valve                  Figure WC-16: Kill blind or shear ram closed.
+   and BOP can be left open during kicks for pumping into                  Two pipe sizes. IADC drawing.
+   the well whenever desired without personnel having to
+   open them. Kill lines should not be used as fill-up lines.
+   Constant use could result in erosion of lines and valves
+   which would result in an unsuitable kill flowline. A
+   separate line from the mud standpipe (independent of
+     all choke and kill flowlines) is desirable for filling the                                        Annular
+   hole during trips.                                                                                                                            Large Pipe
+                                                                                                                Ram
+Inboard valves adjacent the BOP stack on all flowlines are
+manual operated “master” valves to be used only for emer-                           1
+gency. Outboard valves should be used for normal killing                                                                    2
+operations. Hydraulic operators are generally installed on                     Small Pipe Ram
+the primary (flowlines 1 and 2 in Figures WC-9 and WC-10)                    Large Pipe Ram
+                                                                                                                                                   4
+choke and kill flowline outboard valves. This allows remote
+control during killing operations. Choke/kill flowlines are
+generally not connected to the casing wellhead outlets but                             3
+valves and unions are provided there as:
+
+                                                                    Figure WC-17: Ram-to-ram stripping. Two pipe sizes. IADC drawing.
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 35 ]
+────────────────────────────────────────────
+WC-10     WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+
+
+                  Alternate
+
+
+                            P  P                                                                               P  P                         Lift
+                                                                                                                                                                                                                                                  Drill
+                                                                                                                                                                      Pipe
+
+                    From
+                   Cement
+                           Unit
+                                                                                                            From                   Test                                                                                                           Cement                                                                                                                      From                                                                                                                                          P               Pressue                         From                                                                                                                                              Unit                                                         P               From                                                                                                          Mud         Annular                                                                                                              Pumps                       Mud          Annular              Cement                       Pumps
+             Pump                                                                    Top Ram                                                                                                 TopPipeRam                                                                         Pipe
+
+                                              Blind                                                                                                                       Blind
+                             Ram                                                                           Ram
+
+
+
+                                Bottom                                                                                                    Bottom
+                                  Pipe Ram                                                                                                       Pipe Ram
+
+                                                                      Casing Head
+
+
+
+          Figure WC-18: Testing entire casing string and                           Figure WC-19: Testing upper casing joints
+                casing head valves. IADC drawing.                                          after drilling shoe. IADC drawing.
+
+y  Reserve outlets for emergency use only;                      4. All connections in choke, kill and relief lines, and the
+y  Relief openings to prevent pressurizing of casing and          choke manifold should have a pressure rating at least
+   open hole should a casing head plug tester leak during                                                              equal to the rating of the BOP stack;
+   BOP testing.
+                                                                       5. Choke and kill wing valves are subjected to severe me-Flowing through a casing head outlet should be avoided.
+                                                                  chanical and vibrational stresses during drilling opera-Should this connection be ruptured or cut out, there is no
+                                                                     tions and when handling or controlling a “kick”. Wherecontrol. Therefore, primary and secondary choke and kill
+                                                                          practical, all overhanging valves, piping and connectionsflowlines should all be connected to heavy duty BOP out-
+                                                             should be supported.lets (or spool outlets) with wellhead outlets used only in an
+emergency.                                               NOTE: When operating wing valves that have pressure on
+                                                        them, proper manufacturer procedures should be observed
+Suggestionsforriggingupsurfacestacks                                                                to prevent explosive decompression of the elastomer.
+The following practices and principles should be considered:
+
+  1. All ring grooves should be cleaned of heavy grease. A ring      6. Swivel joint pipe sections in flowlines are necessary for
+     will not seal properly if the ring groove is full of grease or       ease of rig-up, but where practical, “choke” flowlines
+   “puddled” oil. A “light” film of oil only should be applied       from BOPs to manifold should be straight or curved
+    to ring grooves before nippling up. Avoid using a wire        (hoses). Sharp turns should be minimized, and where
+   brush which would damage seal surfaces;                         practical, targeted tees with lead-filled bull plugs should
+                                                       be used to minimize flow stream erosion. Using swivel
+  2. To achieve proper make-up torque on flange, clamp or         joint pipe in kill flowlines is not as bad, because of less
+   BOP bonnets, a power torque wrench is useful. Bonnet        severe vibrations and fluid conditions.
+    bolt makeup torque is high and, if not properly tightened,
+    could vibrate loose during drilling. Makeup torque tables       7. Choke flowlines conduct well fluid under pressure from
+    are available from BOP manufacturers. Most tables give        the well to the choke manifold. Flow velocities are some-
+    required torque using either API 5A thread lube or Mo-       times greater than through the kill line by virtue of the
+    ly-lube. Torque requirements using Moly-lube are much       expansion of gas in the annulus, so small lines may cre-
+    less so always be aware of the relationship between the        ate high pressure drops and erosion. By sizing the prima-
+    lubricant and the torque requirement;                          ry choke line to a larger size (minimum 3–in. I.D. instead
+                                                                      of 2–in.), the line will have greater strength, less friction-
+  3. Plug all BOP control lines not in use to prevent acciden-          al pressure loss and be subjected to less wear. All lines
+     tal loss of accumulator fluid. Do not couple unused open       should be properly secured.
+   and close control lines together. Plug them!
+                                                                    8. Where applicable, all connections, piping and valves in
+                                                                     flowlines should be protected from freezing by draining,
+                                                                heating or keeping the line filled with non-freezing fluid.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES       WC-11
+
+
+
+
+
+                            P  P                                                                                       P  P                 Test                                                                                                                                                                                  Pressure
+                                                                                                                                                                        Through
+                                                                                                                                                                                                                                                                   Drill Pipe
+
+
+                    From
+                   Cement
+                  Test   Unit                                                                                                                       From               Pressure                          From                 from                                                                                                                                  From                                                                                                                                                            Unit             Cement                                                                                                                     Mud         Annular                    P                       Mud         Annular                         P                                                   Cement                       Pumps             Pump                                                                                                                         Pumps
+                                                                    Top Ram                                                                                                            Top
+                                                                         Pipe                                                                                     Ram
+                                                                                                                                                                                                     Pipe
+                                              Blind                                                                                                                                   Blind
+                             Ram                                                                                   Ram
+
+
+
+                                                                                                                Remove                                                                                                                                    Checks                                                                                                                      When                                Bottom
+                                                                                                                                                         Testing Kill                                                                                                                                  Wing                                  Pipe Ram                                                                                                                                                             Valves                                     BottomPipe Ram
+
+                      Open Casing Head                           Open Casing Head                                                     Keep Open                            Keep Open
+                           Casing Head Plug Tester
+                                                                Stand of Drill Collars                                                                                                    Casing Head Test Plug with Port
+
+         Figure WC-20: Testing blind ram. IADC drawing.                Figure WC-21: Testing pipe rams, annular and all choke and kill
+                                                                            manifolds, flow lines, and BOP wing valves. IADC drawing.
+
+                                              Rams and choke manifold should be tested to full working  9. The gas/mud separator (gas box), vessel diameter, gas
+                                                           pressure upon:   vent exhaust and mud seal at the discharge should be
+                                                                               y  Initial installation of BOP on wellhead;   designed to separate the maximum expected influx and                                                                               y  Maintenance or repair. Only test the affected
+   not allow gas to exit the mud discharge or mud to exit                                                            component(s).
+    the gas vent.
+                                                           Routine ram and choke manifold maximum test pressure
+                                                          should be limited to the lesser of:Testing surface stacks with one pipe size
+This section contains a typical BOP test procedure using the      y 70% of rated working pressure;
+                                                                               y  Wellhead rated working pressure;Figure WC-9 (one pipe size) arrangement. Figures WC-18
+                                                                               y 70% of casing minimum internal yield strength.through WC-21 illustrate each test step. The objective of this
+test example is to focus on principles that could apply for                                                       However, in no case should these or subsequent test pres-
+testing any BOP systems.                                                            sures be less than the maximum anticipated surface pres-
+                                                                  sure.
+Testfrequency,pressuresandfluids
+BOP test pressure and frequency requirements vary among    The annular BOP maximum test pressure should not exceed
+governmental regulators, operators and contractors.       70% of rated working pressure or 70% of casing minimum
+                                                             burst strength, whichever is less. If governmental regula-
+The following are general recommendations.                                                                 tions or the operator does not stipulate annular BOP test
+                                                              pressures, do not exceed 50% of working pressure.
+Frequency
+y  After initial installation;                                        All well control system components should be tested in the
+y  After each casing setting operation;                         direction normally felt by wellbore pressure during a kick.
+y  Before drilling into any known or suspected high-
+   pressure zones;                                       Test fluidsy  Routine test no less than once each seven days of                                                                               y  For water-based muds, use water.
+    operation;
+                                                                               y  For oil-based muds, use diesel or acceptable alternative.y  After a ram change, maintenance or BOP repair, test the
+   component that was affected;
+y  Prior to a production test.                       Generaltestingprocedures
+                                                                               y  All choke manifold and choke and kill flowlines should
+Test pressures                                          be flushed out before each test and clean water be
+                                                                     inside all systems being tested when pressure isThe rams and annulars should betested in two stage, at a                                                                     applied. Drilling mud is a good sealant, which makes it
+low pressure test of 200-300 psi and then at maximum test                                                        an unsuitable test fluid.
+pressure. Both pressure holding periods should not be less                                                                               y  Pipe-rams should be closed only when there is pipe in
+than three minutes. A 5 or 10 min holding period is common.        the hole. Closing rams on the wrong size pipe or ON
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 35 ]
+────────────────────────────────────────────
+WC-12     WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+                                                              a swab and must have the proper OD to fit upper size
+                                                          and weight casing joints. This test should be per-
+                                                           formed regularly. However, actual test interval de-
+                                                           pends upon regulations and company policy.
+
+                                                        The appropriate cup tester is made up on drill pipe
+                                                          and lowered approximately 90 ft (two casing joints)
+                                                            below the casing head. Some operators require that
+                                                                   the cup tester be run into the casing to a point below
+                                                         cement on the outside. After filling the stack with
+                                                                    clean water, the top pipe rams or annular is closed.
+                                                                  Pressure is built up by either pumping down the flow-
+                                                                             lines or by hoisting the drill string slowly (as shown
+                                                                               in Figure WC-19) to provide desired pressure. Hoist-
+                                                                       ing the drillstring is preferred over pumping, because
+                                                                    there is less chance of accidentally exceeding casing
+                                                                            yield or drillpipe strength.
+
+                                                                  Pressure applied to the cup tester directly imposes
+                                                              a load on the drillpipe test string which could cause
+                                                                                drillpipe failure, particularly with Grade E. The usual
+                                                            problem is collapsed pipe due to a combination of
+                                                                    outside crushing forces and pull.
+
+                                            A safe approach is to use Grade S135 or heavy wall
+                                                                                drillpipe for all casing tests. Another technique is to       Figure WC-22: Cup-type       Figure WC-23: Test plug. IADC drawing.
+          tester. IADC drawing.                                        run a casing head plug tester in combination with a
+                                                           cup tester. The casing head plug would be spaced
+   OPEN HOLE could result in ram front packer damage.                                                                 out 90 ft above the cup with heavy wall pipe. After
+    This fact is often overlooked.                                                              landing the casing head plug, test pressure would be applied
+y  To prevent collapsed pipe, vent the annulus when
+                                                         through the casing head outlets. This allows the cup-in-    closing a pipe ram. If a ram is forced into a closed BOP
+                                                     duced forces to be supported by the casing head.    bore, the trapped fluid pressure will rise rapidly as the
+    operating cylinder rod enters the BOP cavity.                                                           Regardless of the approach, remember that all cup testers
+                                                             are swabbing devices. To prevent swabbing, pull the cup
+ABOPtestsequence                                                             slowly and never run a test string that is not fully open to
+Figures WC-18 through WC-21 provide schematics for test-                                                        atmosphere. In other words, the underside of the cup must
+ing BOP stacks and casings. Explanations and reasoning be-                                                         always be open through the test string bore.
+hind the different schematics and procedures are discussed
+briefly in this section.                                                               1. Before drilling out any casing shoe, test entire casing to
+                                                                   operator’s specifications, but never exceed 70% of rated
+Entire casing string and casing head valves                  casing burst pressure;
+
+Figure WC-18 shows the schematic for testing the BOP and       2. Flush all lines and fill BOP with test fluid. (Test fluid might
+casing. There is no cup tester in the BOP stack. To avoid       be water or diesel, depending on the type of fluid, as dis-
+exerting external pressure to the formation, this test is per-       cussed on page WC-11 ["Test fluid"].) Close blind ram.
+formed after cementing the casing and when the bumped        Pressure up using cementing pump through kill manifold
+cement plugs are sealing. Some operators prefer to apply        or a special test pump through (alt.) point. This tests en-
+casing test pressure when the cement plug bumps. The rea-          tire casing string plus casing head valves.
+soning is that micro-cracks in the cement may occur if test
+pressure is applied after cement has set up.               NOTE: Casing tests are the only tests where casing head
+                                                              valves are closed. These valves should always be open for
+Upper casing joints after drilling the shoe                 other tests to prevent casing or formation rupture should
+See Figure WC-19. After drilling the casing shoe, all future    casing head plug tester leak.
+tests of casing and casing head requires use of a casing cup
+tester (Figure WC-22). The cup tester is nothing more than
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-13
+
+
+ 3. Run appropriate size and weight casing cup tester on          Wellbore test pressure, psi
+    drillpipe to approximately 90 ft below casing head. Fill     5,000
+   annulus with water and close top ram;                      GK       k                                                                                                                              psi
+                                                                                                                                 kic                                                                      4,000                                                                                    50           psi                                                                                                              13-5/8”,
+ 4. Build up test pressure to operator’s specifications by lift-                                                             min.actual                 psi    ing drilling pipe, being careful not to exceed 70% of rat-                            16-3/4”       to               5,000
+   ed casing burst pressure or tensile strength of drill pipe                                                                      3,000                  5,000          Limitduring                          5,000                                                                                    psi                               18-3/4”   being used.                                                                                                                                                                                                                                                                                                                                             13-5/8”,                                                                      2,000                      MSP                                                                                                                                                                                                                                                                                                 16-3/4”,    GL
+Testing BOP stack                                                                                                2,000 GL
+Most  kill and choke manifold valves, flowlines, and BOP                                                                      1,000                                                                                                                                                    21-1/4”        50029-1/2”wing valves could be pressured during the Figure WC-20                                                                                  MSP
+test. However, the test string arrangement in Figure WC-21
+(pressuring down the drillpipe which simulates a well kick) is        0
+best suited for this purpose because all valves can be tested         1,500   1000    500     0     500    1,000   1,500
+                                                                     Opening pressure       Closing pressure
+in the direction that the pressure is applied during a kick.
+Therefore, Figure WC-20 test is designed primarily to test                       Opening pressure, psi
+the blind ram only by pressuring down a kill flowline.                     * Operating pressure may vary with individual packing elements (bags).
+                                                                                    Adjust operating pressures accordingly, but do not exceed maximum
+See Figure WC-21. Some casing head plug testers are man-             closing pressure of 1,500 psi except on CIW Type-D annulars.
+ufactured with an integral port which allows the BOP bore           ** During actual kick situations, for safety’s sake, operating pressure
+cavity to be pressured by pumping down the drillpipe test            should not be applied to the OPENING chamber of wellbore pressure.
+string. If the plug tester is not equipped with an integral port,                                                                        Figure WC-24: Annular operating characteristics with 5-in.
+a perforated sub could be used with the test plug. Be sure                drillpipe.* (Actual values may vary.) IADC drawing.
+the casing head outlet is open to prevent pressuring casing
+and open hole.                                                    Failure to select the proper size and style test plug can cause
+                                                          problems. Casing head hanger contours vary. For example, a
+Because the BOP bore is being pressured through the drill-                                          CIW Type “F” 5,000-psi tubing head has tapered contours,
+pipe, all valves can be tested in the normal well kick direc-                                                             while the Type DCB head is straight contoured.
+tion. By sequencing valves, open and closed in proper order,
+a minimum of repressuring will be necessary. Always leave     Insert a Type “F” plug tester in a Type DCB head, pressure
+downstream valves open and remove the spring loaded     up, and the two will become almost inseparable. Always
+check in the check valve (when applicable) to ensure a valid     consult with the casing head manufacturer to ensure that
+test on each kill valve. It is important that all manifolds and    the appropriate plug tester is being used.
+flowlines be flushed out before this test so that all are clear
+and full of water.                                     The rams, annular, and hydraulic operated valves should be
+                                                             tested in two stages. API Standard 53 (4th edition, section
+Several precautionary notes are necessary for test steps il-     6.5.3.2) recommends a low pressure test of 250-350 psi
+lustrated in Figures WC-20 and WC-21.                       held for at least 5 minutes before pressuring up to full test
+                                                              pressure.
+  1. Ensure that casing head valves are always open when a
+   casing head plug tester is in use. This allows detection    There are several reasons for this. Many preventers are de-
+    of a plug tester seal leak and prevents over pressuring of    signed such that the wellbore pressure (test pressure) caus-
+   casing or open hole;                                    es a closing force, so the BOP may be more likely to leak at
+                                                      low pressure than at full test pressure. Because actual well
+ 2. Casing head plug testers come in many shapes and sizes.     kicks are normally closer to 300 psi than full working pres-
+   Figure WC-23 illustrates a test plug. Some have special     sure, the low pressure test is significant. Also, mud solids
+   features such as integral ports. Some have open bore    sometimes plug a potential leak hole. A low pressure test
+   with bull plugs provided for testing the blind rams while      will come closer to uncovering this hole than the full test
+   others are solid bore. Some function as combination plug     pressure.
+    testers and wear bushing retrievers.
+                                             Some annular preventers will hold maximum test pressure
+                                                           with no more than 700-1,000 psi operating pressure. Be-
+                                                       cause of special design features, operating pressure (from
+                                                          accumulator) should be reduced on Hydril GK and 21 1/4–in.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 35 ]
+────────────────────────────────────────────
+WC-14     WELL CONTROL EQUIPMENT & PROCEDURES
+
+          Table WC-1: Schedule of operating vs. test pressure               »»High-pressuretest
+      Psi-regulated       Operating pressure        Opening                 1. All equipment in this test should be tested to rated work-
+       Psi pressure           closing test side              side                ing pressure of the weakest member;
+       0             700*           N/A
+                                                                        2. From previous test, open blind rams, install appropriate
+       1,000           300           N/A                                                                       test string and screw into plug tester. Fill BOP with water
+       1,500            50           N/A             and close top pipe ram.
+      2,000           N/A             50**
+                                                                        3. Apply test pressure down drill pipe and through perfo-
+      2,500           N/A           300               rated sub or plug tester if it has an integral port.
+      3,000           N/A           500
+                                                                  4. Bottom ram can be tested in similar manner. Test string
+      3,500           N/A           700            must fit ram size.
+
+MSP annulars as the test (wellbore) pressure increases. This      5. Annular preventer can also be tested similarly, but do
+greatly reduces element stress. For example, on a GK 16 3/4–        not test to more than 70% of rated working pressure in
+in. 5,000-psi annular, if operating pressure is held at 700        the U.S. Gulf or 50% of rated working pressure where
+psi (closing chamber), the compression force on the element        regulations do not specify.
+increases from approximately 380,000 lb at zero test pres-
+sure to about 780,000 lb at 3,500-psi test pressure.         NOTE: Most annular preventers will hold maximum test
+                                                           pressure with no more than about 700-psi regulated accu-
+On the other hand, if operating pressure is reduced accord-    mulator operating pressure. Reducing accumulator operat-
+ing to Figure WC-24, compression force on the element will     ing pressure as the test pressure increases is recommended
+actually reduce to about 180,000 lb. If an annular BOP of     for some annular preventers. This can greatly reduce ele-
+this type is tested, use an operating pressure versus test    ment stress. Where applicable, use an operating pressure
+pressure chart to minimize element stress. Alway consult    versus test pressure chart during testing.
+the operating manual and/or the manufacturer for testing
+procedure and operating recommendations.                                                                                             1. All equipment in this test should be tested to rated work-
+                                                                    ing pressure of the weakest member.From Figure WC-24, the schedule for test pressure vs op-
+erating pressure shown in Table WC-1 was developed for a
+                                                                        2. Pick up kelly, install full open safety valve on bottom of13 5/8–in. or 16 3/4–in. GK 5,000-psi annular on 5–in. drillpipe.
+                                                             lower kelly valve. Using an adapter, connect to an inde-Notice that at test pressures higher than about 2,000 psi,
+                                                         pendent test pump or cement pump.regulated operating pressure is applied to the OPENING
+chamber instead of the closing chamber.
+                                                                        3. Open appropriate standpipe valves and all kelly valves.
+»»Low-pressuretest                                                                 Fill system with water and close standpipe and kelly. By
+                                                                        alternatively closing upstream and opening downstream
+  1. All equipment in this test should be tested to 200-300         valves, all kelly valves could be tested without pressuring
+     psi;                                                up again, although it may not be possible to operate the
+                                                          upper kelly valve under pressure.
+  2. Install one stand drill collars below appropriate casing
+   head plug tester. Land plug tester and back off running      4. Although not shown, the inside BOP (float-type) can be
+     joint. NOTE: Open bore-type plug testers can be provid-        tested similarly by installing below the safety valve and
+   ed with a plug to test blind rams with drillstring removed.       opening all valves through the standpipe.
+     Fill BOP with water and close blind rams;
+                                               Remember that each make, size and model annular pre-
+                                                             venter may have unique characteristics. For example, most  3. Open casing head valves to prevent casing rupture or
+                                                            annulars require increasing, not decreasing, closing pressure    formation break-down should the plug tester leak;
+                                                                to prevent leaks as test pressure increases. Using incorrect
+                                                         procedures could cause damage or be unsafe. Always con- 4. Apply test pressure as illustrated. Although test pres-
+                                                                      sult the manufacturer for testing recommendations.    sure is applied to a number of flowlines and valves, the
+   primary purpose of this test is to evaluate blind rams and
+    certain BOP connections as indicated by the arrows.        Casing sizes larger than 7 in. might be collapsed by annular
+                                                       element forces if the operating pressure is too high. Recom-
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-15
+
+
+
+                                                                                                                                                                   Riser                                                                                                                          Line
+                                                    Rotary Hose                                                                                        Adaptor
+                                                                                                                                                                                                                                                        Line                                                                                                Choke/                                                                                                                                                                  Flex
+                                                                                                                                                                                    Joint                                                     Choke/                                                                             Kill Alternate                         Mud
+                                    Standpipe                                                                                                                                                                                             Kill
+                                                             Upper                                                      Swivel
+                          P   P                                                                             Kelly                                                                                 PreventerAnnular                                                  Lower                                                                     Valve                                                               Kelly
+                                                        Valve       Full                                                        Open                                                                          ConnectorHydraulic                                                                      Safety
+                                                                    Valve
+                                                                      Pressure                                                                          Annular
+                                                             From                                                                            Preventer
+                                                                           Test Pump   P
+       From
+      Cement
+          Unit          From                                                                                                            Ram-type Preventer
+                   Mud                                                                                                                      Pipe    Rams
+                   Pumps
+                                           Annular
+                                                                                                                                      Ram-type Preventer
+                                                                       Top Ram Pipe                                                            Blind/Shear Rams
+
+                                          Blind Ram                                                                                           Ram-type Preventer
+                                                                                                                                                   Pipe     Rams
+
+
+                                                                                                                                      Ram-type Preventer
+                                                                                                                                                   Pipe     Rams
+
+                                  Bottom
+                                    Pipe Ram                                                                                                                  Hydraulic
+                                                                                                                                                   Connector
+
+                                                                                Figure WC-26: Typical subsea BOP arrangement. IADC drawing.
+
+         Figure WC-25: Testing inside BOPs, kelly valves,
+              swivel and rotary hoses. IADC drawing.
+
+mended maximum operating pressures for closing on var-
+ious manufactures size casing can be obtained from most
+annular preventer manufacturers.
+
+Testing inside BOPs, kelly valves, swivel sand rotary
+hoses
+
+Refer to Figure WC-25. Although only one mud standpipe
+and rotary hose test is shown, the other side should be test-
+ed before being put into service.
+
+Instead of using an adaptor sub as illustrated, an alternative                                                                            Figure WC-27: Deepwater BOP stacks are built in two,
+method for testing this equipment would be to move directly          sometimes three, sections to facilitate transport. Here,
+from the test illustrated to Figure WC-21. Pick up the kelly, if            the top half of a 20,000- psi BOP stack is loaded onto
+it was not already connected, and apply test pressure down            a trailer for transit to port. Courtesy GE Oil & Gas.
+a kill flowline with the cement pump or special test pump (at
+                                                                               y  Blind shear rams are generally set high in the stack toan alternate inlet location). The perforated test sub or plug                                                               provide more pipe hang-off options below. With the
+tester ingetral port will allow the test string to be pressured                                                                     blind shear rams closed over hung-off pipe, the well can
+in the direction normally felt during an actual kick.                                                       be monitored or circulated in pipe or annulus;
+                                                                               y  Choke and kill lines are dual purpose, i.e., either can be
+                                                         used to kill (pump in) or choke (direct to chokeBOP arrangements: subsea stacks
+Figure WC-26 illustrates a typical subsea BOP arrangement.        manifold);
+                                                                               y Two fail-safe valves for each choke and kill BOP outletFigure WC-27 shows only a portion of a 20,000-psi subsea
+                                                                   that are fail-safe in the closed position;BOP. Note how it towers over the attendants.Some of the
+                                                                               y Two hydraulic or electro hydraulic control PODs each
+differences when compared to surface stacks are:                                                              with 100% redundancy;
+y More backup units needed because of the difficulty of         y  All rams equipped with remote operated ram locks.
+    retrieving and deploying a subsea BOP;
+y  Upper annular(s) can be recovered with the riser for      TestingsubseaBOPstack
+    repairs without removing the “big” stack;                   Test pressures and test frequency are similar to surface
+y Do not normally pull BOP for casing ram change so two     stacks with the following notable exception.
+   annulars are needed for back-up;
+y  Variable bore rams usually installed in one of the ram        All subsea BOP stack rams and valves are generally tested
+    cavities to provide redundancy when tapered strings         at surface (on a test stump) to their rated working pressure.
+   are used or when running production casing;
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 35 ]
+────────────────────────────────────────────
+WC-16     WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+                                                  The choke manifold, valves, kill and choke lines and fail-safe
+            Table WC-2: 'Inside' BOPs—Rigs with Kelly drive
+                                                              valves should be pressure tested with water to the rated
+    Inside BOP       Normal                                                           Figure        working pressure of the ram type preventers, or the rated                          Common type
+     name           location                             Illustration       working pressure of the manifold, whichever is the lower.
+  Upper kelly                 Between swivel   Flapper or full  valve or upper                                           Figure WC-28                 and kelly        open ball                     The kelly or top drive and kelly stopcocks should be pressure  kelly cock
+                                                              tested to their rated working pressure with a test sub.
+  Lower kelly       Between kelly
+  valve or upper    and kelly saver     Full open ball      Figure WC-29
+  kelly cock        sub                                          Tests during lowering and after connecting the BOP stack,
+                                                                                            kill and choke lines, marine riser and operating hoses.
+                       In front of  Safety valve                              Full open ball      Figure WC-29                  drawworks
+                                          When running the BOP stack on riser joints, the kill and
+                                                      choke lines should be pressure tested at least when the
+            Table WC-3: 'Inside' BOPs—Rigs with top drive
+                                                             stack is below the splash zone and both before and after
+    Inside BOP       Normal                                                          Figure          landing. More frequent testing may be stipulated, i.e., each                          Common type     name           location                             Illustration
+                                                   5 or 10 riser joints.
+                 Between main Upper remote                                           Figures                     shaft and lower    Full open ball  safety valve                                       WC-30 & -31        After the BOP stack is connected to the wellhead, a full                     valve
+                                                              function test on both pods and a low pressure test should  Lower safety     Below upper                         Figures                                              Full open ball  valve              safety valve                                       WC-30 & -31       be conducted.
+
+        Table WC-4: 'Inside' BOPs—Kelly drive or top drive rigs         The pressure test upon initial and any subsequent mating of
+                                                            the BOP and wellhead should be performed with sea water
+    Inside BOP       Normal                            Figure                          Common type     name           location                                                                Illustration        to the maximum anticipated pressure at TD of the well to
+                      In front of                                     confirm connector/wellhead integrity. This pressure is only  Inside BOP                       Poppet check      Figure WC-32                 drawworks                                      required against one pipe ram if the stack has been com-
+  Drop-in check                                                      pletely stump-tested prior to running. For routine tests, the                 Top of BHA        Ball check          Figure WC-33
+  valve                                        BOP will be tested with the fluid in the hole at the time of
+                      Installed in bit    Flapper or                        the test.  Bit float                                                 Figure WC-34                  sub             poppet check
+                                                                    In deep water, a serious well control problem could develop
+                                                    due to loss of hydrostatic head, with the choke and kill lineThe annular is generally tested to 70% of rated working
+                                                                                   full of water. Therefore, after initial and subsequent matingpressure. The subsea stack, once deployed and connected
+                                                                  of the BOP on the wellhead, the choke and kill lines will beto the conductor casing wellhead is not disconnected until
+                                                           kept full of in-hole drilling fluid. All lines should be flushedthe well is complete. Therefore, a higher stump test pressure
+                                                                    daily to ensure they are not blocked.is required than is normal for surface stacks.
+
+                                                                    In shallow water (less than 1,500 ft), operators may preferTestingprocedureforsubseaBOPs                                                                to keep the choke/kill lines filled with sea water to prevent
+                                                                   solids from settling out. Blind shear rams are normally test-
+Tests before lowering the BOP stack                                                    ed against casing prior to drilling out, first at low pressure
+All subsea BOP stack components should be installed,                                                    and again at a higher pressure, as indicated on the actual
+checked, and pressure tested to their rated working pressure                                                                            drilling prognosis. The blind shear rams are generally not re-
+and to a low pressure of 250 psi while the stack is mounted                                                              tested during the normal test intervals as is done with the
+on the test stump. After the surface tests, all clamp connec-                                                             other BOP components unless the seal integrity is in ques-
+tions and all studded connections should be checked for                                                                         tion, but will be retested prior to drilling out of subsequent
+tightness. The complete BOP operating unit should be test-                                                             casing strings.
+ed in accordance with manufacturer’s recommendations
+and pressure tested to its rated working pressure. The test    Routine tests
+should include at least the following:                                                  The opening/closing times and the volumes of hydraulic
+                                                             operating fluid required for the operation of the various un-y  Test every BOP control;
+y  Check that each function is properly connected;           derwater stack components (i.e., rams, kill and choke line
+y  Activate the functions which are indicated from both        valves, annular preventers, hydraulic connectors, etc.) shall
+    control pods;                                       be recorded during testing of the stack underwater. These
+y  Check and record test volumes and response times for       results shall be compared with the normal opening/closing
+   each function.                                          times and volumes required of the hydraulic system. Any
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-17
+
+
+major differences are an in-
+dication that the system is
+not operating “normally” and
+shall require further inves-
+tigation and possible repair.
+Pressures of the wellhead or
+preventers should be to the
+anticipated  wellhead  pres-
+sure with a maximum limit
+for the annular preventer of
+70% of its working pressure.
+It should also be pressure
+tested at low pressure, as
+described earlier.
+
+"Inside" blowout
+preventers
+There are several pieces of
+equipment in addition to the
+primary blowout prevention
+equipment that are some-
+times necessary to control
+
+a kick. The equipment which
+furnishes closure inside the
+drill string is called an “in-
+side” blowout preventer.
+
+A number of devices serve
+this purpose. The “names” of
+these devices are often con-
+fusing. Tables WC-2 through
+WC-4 classify inside BOPs to
+eliminate this confusion.
+
+UpperKellyvalve
+The upper kelly valve, or kelly
+cock (Figure WC-28), is in-
+stalled between the kelly and
+the swivel and normally has
+left hand threads. Because it
+is installed above the kelly, it
+is always available. The basic
+purpose of this valve is to iso-
+late the fluid in the drillstring
+from the swivel, rotary hose
+or standpipe and to prevent
+                                                  The most common design has a flapper as shown in Figure
+leaks or rupture under well conditions. If the drillpipe pres-
+                                                 WC-28. The other design is a full open ball similar to the
+sure exceeds the rating of the rotary hose, closing the valve
+                                                          lower kelly valve.
+allows a safe change to higher pressure connections. It also
+permits removal of the swivel so that wire lines or tools may    The upper kelly valve should have a WP rating equal to or
+be run into a pressurized drillstring.                            greater than that of the blowout preventer assembly being
+                                                            used, and should have an inside opening equal to that of the
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 35 ]
+────────────────────────────────────────────
+WC-18     WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+                                                                              kelly. To operate this valve, a special wrench is required, and
+                                                          should be kept in an accessible place on the rig floor.
+
+                                      LowerKellyvalve
+                                       A lower kelly valve (Figure WC-29), sometimes called a low-
+                                                                er kelly cock. It is installed on the lower end of the kelly, and
+                                                                                 is used when the upper kelly valve is damaged or not easily
+                                                                 accessible. If the kill pressures approach the rotary hose rat-
+                                                                     ings, this valve is closed, the kelly broken out and set back
+                                                    and the cement standpipe hose is connected via a circulat-
+                                                                ing head to the lower kelly valve.
+
+                                            Safetyvalve
+                                                         During trips on rigs with kelly drive, the kelly and both up-
+                                                          per and lower kelly valves are stored in the rat hole. For this
+                                                              reason, another valve, identical to the lower kelly valve, is
+                                                             stored close by so it can be quickly installed on the drillpipe
+                                                            during a trip should a kick occur. When used in this manner,
+                                                                                               it is called a safety valve.
+
+                                                                                               If a tapered drillstring is being used, then a safety valve for
+                                                      each size pipe and crossovers to drill collar connections
+                                                   must be available on the rig floor.
+
+                                                                      All of these kelly and safety valves should be operated at the
+                                                           beginning of each tour. They should be tested when the BOP             Figure WC-30: Safety valves installed in
+                top drive system. IADC drawing.                         is tested and the pressure should be applied in the direction
+                                                           pressure would be felt should the well be closed.
+
+                                      Upperremotesafetyvalveandlowersafetyvalve
+                                                   The upper and lower safety valves on top drive systems are
+                                                        connected together. They are a ball type design. Both are very
+                                                                              likely to be inaccessible should a kick occur during drilling op-
+                                                                    erations, so the upper valve is remote operated as shown in
+                                                             Figure WC-30. The body on this particular design is splined to
+                                                  accommodate the pipe handler system. Some top drive units
+                                                        use a different kind of torquing mechanism which does not
+                                                                 require a special OD profile on the upper safety valve. In these
+                                                                cases, the upper and lower safety valves may be identical ex-
+                                                            cept that the upper is fitted with a remote actuator crank and
+                                                             the lower is plain manual operated. Figure WC-30 illustrates
+                                                             the two valves installed in the top drive assembly. Figure WC-
+                                                           31 show these two valves separated.
+
+                                                          During trips with the top drive system, the swivel and safety
+                                                                valves are not set back but rather are hoisted with the drill-
+                                                                          string. Should a kick occur during the trip, the safety valves
+                                                              are immediately connected to the drillstring, and the upper
+                                                                valve remotely closed. There is no need to have another safe-
+                                                                  ty valve on standby as with kelly drive operations.
+
+               Figure WC-31: Splined and plain top-                Should a top drive require repairs, it's recommended to stab
+                  drive safety valve. IADC drawing.                 a safety valve atop the drillpipe, should there be a need to
+                                                              close the drillpipe.
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-19
+
+
+
+
+
+            Figure WC-32: Inside BOP. IADC drawing.                             Figure WC-33: Wireline retrieval and drop-
+                                                                                                     in check valve. IADC drawing.
+
+InsideBOP                                          sembly of the drillstring. These inside BOPs are often used                                                                       in stripping operations and particularly stripping “out” oper-
+Although all valves that secure the drillstring bore are “in-
+                                                                   ations. Some are wireline retrievable. Figure WC-33 shows
+side” BOPs, the check valves discussed in the following
+                                                    one type of drop-in check valve.
+paragraphs are — confusingly — the only ones commonly
+called “inside BOPs” (Figure WC-32). They are normally     Bit floatused for stripping in the hole under pressure when a kick oc-
+                                       A bit float (Figure WC-34) may be considered an “inside”
+curs off bottom during a trip.                                                                preventer. It is basically a flapper or poppet-type check valve
+                                                                that is installed in the bit sub to prevent backflow duringBy utilizing a special tool, the inside BOP or check valve may
+                                                             connections; however, it is subjected to severe wear by thebe kept open to permit stabbing into the drillstring when the
+                                                                            drilling mud and may not function when needed. A commonwell is kicking. Once made up in the drillstring, the tool is
+                                                                practice is to use a slotted flapper. This reduces backflow toreleased and the check valve closes. The inside BOP on the
+                                                       a minimum, yet allows stabilized closed-in pipe pressure torig floor should be kept in open position, as a guard against a
+                                                    be easily read should the well kick.kick or flow through the drillpipe.
+
+                                                 Most operators discontinue the use of bit floats after settingHowever, check valves are more difficult to stab against drill
+                                                             surface casing. Kicks are more likely to occur below surfacepipe flow than are full open ball valves. Therefore, the full
+                                                             casing and the bit float might interfere with a good stabilizedopen safety valve should be installed first and then the “in-
+                                                               closed-in drillpipe pressure reading. Bit floats are most use-side” BOP (check valve) installed if it is necessary to strip
+                                                                            ful in top-hole drilling where backflow during connections isback in the hole.
+                                                 more likely due to imbalanced annular fluid density.
+Drop-in check valve
+Another type inside BOP is the pump down or drop-in type
+which requires a special sub near or in the bottomhole as-
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 35 ]
+────────────────────────────────────────────
+WC-20     WELL CONTROL EQUIPMENT & PROCEDURES
+
+                                      Choke manifold
+                                                                                               If the hydrostatic head of the drilling fluid is insufficient to
+                                                                control subsurface pressure, formation fluids will flow into
+                                                            the well. To maintain well control, back pressure is applied
+                                                      by routing the returns through adjustable chokes until the
+                                                                well flow condition is corrected. The chokes are connect-
+                                                    ed to the blowout preventer stack through an arrangement
+                                                                  of valves, fittings and lines which provide alternative flow
+                                                             routes or permit the flow to be halted entirely. This equip-
+                                                 ment assemblage is designated the “choke manifold.”
+
+                                         DesignConsiderations
+                                                   Choke manifold design should consider such factors as an-
+                                                                   ticipated formation and surface pressures, method of well
+                                                                control to be employed, surrounding environment, corrosiv-
+                                                                                       ity, volume, toxicity, and abrasiveness of fluids.
+
+                                                    Installationguidelines
+                                               Recommended practices for planning and installation of
+                                                      choke manifolds for surface installations include:
+                                                                               y  Manifold equipment subject to well and/or pump
+                                                               pressure (normally upstream of and including the
+                                                             chokes) should have a working pressure equal to the
+                                                                 rated working pressure of the blowout preventers in
+                                                                   use. This equipment should be tested when installed to
+                                                               pressures equal to the rated working pressure of the
+                                                           blowout preventer stack in use.
+                                                                               y Components should comply with applicable
+                                                                     specifications to accommodate anticipated pressure,
+                                                            temperature and corrosivity of the formation fluids and
+                                                                                drilling fluids.
+                                                                               y  For working pressures of 3,000 psi and above, flanged,
+                                                        welded or clamped connections should be employed on
+                                                      components subjected to well pressure.
+                                                                               y  The choke manifold should be placed in a readily
+                                                                  accessible location, preferably outside of the rig
+      Figure WC-34: Clockwise from top left: Bit float, poppet-             substructure.
+         type, flapper-type and plunger type. IADC drawing.
+
+
+
+
+
+                                                                                       Figure WC-35:
+                                                                                            Typical 2,000-psi
+                                                                                            (13.8 MP) manifold.
+                                                                    IADC drawing.
+
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 35 ]
+────────────────────────────────────────────
+                             WELL CONTROL EQUIPMENT & PROCEDURES      WC-21
+
+
+
+
+
+                                                                         Figure WC-36: Typical
+                                                                        5,000-psi (34.5 MPs)
+                                                                            manifold. IADC drawing.
+
+
+
+
+
+  Figure WC-37: Typical
+   10,000-20,000-psi
+(69.0-138.0 MP) manifold.
+    IADC drawing.
+
+
+
+
+
+                               IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 35 ]
+────────────────────────────────────────────
+WC-22     WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+
+                                                                       Packing unit/
+                                                                       Packing element/
+                                                                            Sealing element
+
+
+                                                                                Piston
+
+
+
+
+                                                                         Vent
+                                                                                   outlet
+
+
+
+                                                                     Lower piston
+                                                                                        seal seat
+
+               Figure WC-38: Diverter with annular                                Figure WC-39: Diverter with insert-type
+                packing element. IADC drawing.                                     packing element. IADC drawing.
+y  The choke line (which connects the blowout preventer        y  All choke manifold valves subject to erosion from well
+    stack to the choke manifold) and lines downstream of          flow should be full-opening and designed to operate in
+    the choke should:                                            high pressure gas and drilling fluid service. Double,
+     y  Be as straight as practicable; turns, if required,              full-opening valves between the blowout preventer
+       should be targeted;                                       stack and the choke line are recommended for
+     y  Be firmly anchored to prevent excessive whip or              installations with rated working pressures of 3M and
+        vibration;                                               above.
+     y  Have a bore of sufficient size to prevent excessive          y  For installations with rated working pressures of 5,000
+       erosion or fluid friction.                                       psi and above the following are recommended:
+y Minimum recommended size for choke lines is 3-in.                y One of the valves should be remotely actuated.
+   nominal diameter (2-in. nominal diameter is acceptable           y  Double valves should be installed immediately
+    for Class 2M installations).                                  upstream of each choke.
+y Minimum recommended size for vent lines downstream          y  At least one remotely operated choke should be
+    of the chokes is 3-in. nominal diameter.                                installed. If prolonged use of this choke is
+y  For high volumes and air or gas drilling operations, 4-in             anticipated, a second remotely operated choke
+   nominal diameter lines are recommended.                       should be used.
+y  Alternate flow and flare routes downstream of the                  y A valve should be installed downstream of the choke
+   choke line should be provided so that eroded, plugged              to provide isolation from the buffer tank when
+    or malfunctioning parts can be isolated for repair                 changing wear items while circulating through the
+   without interrupting flow control.                             second choke.
+y  Consideration should be given to the low temperature             y Downstream of the choke, a decrease of one
+    properties of the materials used in installations to be              pressure rating, i.e., 5,000 psi down to 3,000 psi,
+   exposed to unusually low temperatures.                       10,000 psi down to 5,000 psi, etc., may be
+y  The bleed line (the vent line which bypasses the                  considered for the valves and buffer tank.
+   chokes) should be at least equal in diameter to the             y  Spare parts for equipment subject to wear or damage
+   choke line. This line allows circulation of the well with          should be readily available.
+    the preventers closed while maintaining a minimum of        y  Testing, inspection, and general maintenance of choke
+   back pressure. It also permits high-volume bleed-off of         manifold components should be performed on the
+    well fluids to relieve casing pressure with the preventers      same schedule as employed for the blowout preventer
+    closed.                                                      stack in use.
+y  Although not shown in the typical equipment                   y  All components of the choke manifold system should be
+    illustrations, buffer tanks are sometimes installed              protected from freezing by heating, draining or filling
+   downstream of the choke assemblies for the purpose of        with proper fluid.
+    manifolding the bleed lines together. It also provides a         y  Figures WC-38 through WC-40 illustrate typical choke
+    large chamber for gas expansion and reduction in gas          manifolds for various working pressure service.
+    velocity. When buffer tanks are employed, provisions          Refinements or modifications such as additional
+   should be made to isolate a failure or malfunction               hydraulic valves and choke runs, wear nipples
+   without interrupting flow control.                         downstream of chokes, redundant pressure gauges
+y  Pressure gauges suitable for drilling fluid service should be       and/or manifolding of vent lines will be dictated by the
+    installed so that drillpipe and annulus pressures may be           conditions anticipated for a particular well and the
+    accurately monitored and readily observed at the station         degree of protection desired. The guidelines discussed
+   where well control operations are to be conducted.             and illustrated represent typical industry practice.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES     WC-23
+
+
+
+         Side                                                                                                                                         Flow Line
+        View                                                                                                                                 Fill-Up Line
+
+
+                                                                                                                                                          Bell Nipple
+        A-A                                                                                                                                                         30”Annular- 1,000Preventerpsi W.P.
+
+                                                                                                                          Hydraulic-Operated
+                                                                                                                                             Ball Valve                                                 Hydraulic Operated
+                                                                                                                                                                                                              Ball Valve
+
+                                                                                                                         Diverter Vent Line                                                                Diverter Vent Line
+
+
+
+                                                                                                                                                                             30” - 1,000 psi W.P.
+                                                                                                                        30” Conductor Pipe                                             Drilling Spool/Mud Cross                                                                                                                                  with 30” - 1,000 psi W.P.
+                                                                                                       Welded on Top
+     View A-A
+
+                                                                           Figure WC-41: Typical diverter system with control-
+                                                                         sequenced flow system. IADC drawing.
+        Overboard                                     Overboard
+          Vent                                           Vent
+                                                                      Packing unit/
+                                                                      Packing element/
+                                                                           Sealing element
+
+
+                                                                              Piston
+               Two-Position
+                Target Plug    Diverter Exhaust
+
+   Figure WC-40: Switchable 3-way target valve. IADC drawing.
+                                                                       Vent
+                                                                                  outlet
+For economic reasons, it may be desirable at the beginning
+of a drilling operation to install a manifold with a pressure
+rating equivalent to that of the highest pressure rated sys-           Lower piston
+tem which will be used on that well. This will preclude the             seal seat
+necessity of always matching manifolds with BOP stack
+                                                                          Figure WC-42: Example of purpose-designed diverter
+ratings, minimizing time lost changing choke manifolds and                                                                                with built-in vent valving. IADC drawing.
+reduce the number of manifolds held in inventory.
+Screwed connections are optional for only the 2,000-psi   Annularsealingdevice
+manifold; all others shall be welded or flanged. Suggested    The annular sealing device is available in three different de-
+configurations are shown in Figures WC-38, WC-39 and     signs.
+WC-40 as 2,000-psi and 3,000-psi, 5,000-psi, 10,000-
+psi, and 15,000-psi manifolds.                      Annularpackingelement
+                                                            Figure WC-41 is an example of an annular sealing device
+Diverter systems                                         that utilizes an annular packing element as the sealing
+The function of a diverter system  is to provide a low    mechanism. The annular packing element can effect a seal
+pressure well flow control system to direct controlled or    on any pipe or kelly size in the wellbore, or can effect a seal
+uncontrolled wellbore fluids or gas away from the im-    on open hole where no pipe is present. This is often times
+mediate  drilling area  for the  safety  of personnel and     referred to as “complete shut-off” (CSO).
+equipment involved in the drilling operation. The divert-
+er system  is not designed to shut in or halt well flow.   Insert-typepackingelement
+                                                            Figure WC-42 is an example of an annular sealing device
+                                                                that utilizes an insert-type packing element as the sealing
+Diverter system equipment that can be exposed to a hydro-
+                                                     mechanism.
+gen sulfide environment should comply with NACE MR-01-
+75: Material Requirements Sulfide Stress Cracking Resistant                                            An insert-type packing diverter element uses a group of in-
+Metallic Materials for Oil Field Equipment, latest edition.                                                                     serts. The inserts are placed one inside the other. Each in-
+                                                                 sert in the group is designed to close and seal on different
+A diverter system comprises the following components:        ranges of pipe diameters. A hydraulic or mechanical func-
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 35 ]
+────────────────────────────────────────────
+WC-24     WELL CONTROL EQUIPMENT & PROCEDURES
+
+
+tion serves to latch each insert in place. The correct size in-     full-opening, have at least the same through-bore opening
+sert should be in place for the pipe size in use. In order to    as the vent outlet that it is attached to, and should be capa-
+pass large bottomhole assemblies, it is necessary to remove     ble of opening with maximum anticipated pressure across
+some or all of the inserts. An insert-type packing element    the valve sealing mechanism. Several types of full-opening
+cannot CSO.                                                  valves which can be used in this application are gate valves
+                                                                (various types), ball valves, knife valves, switchable 3-way
+Rotatinghead                                            targeted valves (Figure WC-40), and valves that are integral
+A rotating head can be used as a diverter to complement a     to the annular sealing device. Any valve used in a diverter
+blowout preventer system. The stripper rubber is energized    system application should be fitted with remote actuators
+by the wellbore pressure to seal the rotating head element    capable of operation from the rig floor. The actuators can
+against the drillpipe, kelly or other pipe to facilitate divert-    be operated either with hydraulics or pneumatics. The ac-
+ing return wellbore media and can be used to permit pipe     tuator should be sized to open the valve with the maximum
+movement.                                            system rated working pressure across the closed valve seal-
+                                                                ing mechanism, with hydraulic or pneumatic pressure that is
+Ventoutlet(s)                                               available from the diverter system remote control unit. The
+Vent outlet(s) for the diverter system are located below the     trim of the internal components of the valve actuator should
+annular sealing element. One or more vent outlets can be    be suitable for the media that is going to be used to operate
+used in a system. Vent outlet(s) may either be incorporated    the actuator. If a water-based fluid is the media, the actuator
+in the housing of the annular sealing device, or may be an     trim should be suitable for water service, corrosive. Exces-
+integral part of a separate drilling spool/mud cross that is     sive resistance due to drilled solids in the valve should be
+assembled using a flange or clamp type connection just be-    kept in mind, especially if using a pneumatic system where
+low the annular sealing device.                                  variations in rig air pressure are common.
+Design considerations for the connection between the vent   Ventlinepiping
+outlet(s) and the vent line(s) should include ease of instal-    There are various considerations that need to be investigat-
+lation, leak-free construction and freedom from solids accu-    ed for the vent line piping in a diverter system. These consid-
+mulation. Regarding the size of the vent outlet(s), different     erations are as follows:
+regulator bodies have different requirements, depending
+on the area of operation. For example, the requirements for
+drilling operations that utilize a surface wellhead configura-    Sizing
+tion in areas regulated by the U.S. Minerals Management                                                  The vent line piping in a diverter system should be sized
+Service (reference CFR 30, Chapter II, 7-1-88 Edition, para-                                                                to minimize back pressure on the wellbore while diverting
+graph 250.59) require that no spool outlet or diverter line                                                            wellbore media. The vent line should be run as straight as
+shall have an internal diameter less than 10 in.; except in the                                                                  possible, keeping in mind that bends, tees and elbows not
+case where dual outlets are provided, in which case the min-                                                             only create higher back pressure than straight pipe, but are
+imum internal diameter of each vent outlet is 8 in. For drill-                                                 more susceptible to erosion during a diverting operation
+ing operations where a floating or semi-submersible type                                                          than straight piping. Just as with the vent outlet(s) discussed
+drilling vessel is used, the vent outlet internal diameter shall                                                                       in the above paragraph, government regulatory bodies have
+not be less than 12 in. For drilling activity outside the United                                               minimum requirements for the internal diameter of the vent
+States, the drilling contractor is advised to become familiar                                                                        line piping. The drilling contractor should be familiar with
+with the regulations for that particular area of operation.                                                            the requirements for the area where the drilling operation is
+                                                           going to take place.
+Drillingspool/mudcross
+If a drilling spool/mud cross is utilized under the annular    Flexible lines
+scaling device, the through-bore diameter of the drilling     Flexible lines with integral end couplings can be employed in
+spool/mud cross should be equal to the through-bore diam-    a diverter vent line piping system. If used, the flexible lines
+eter of the annular sealing device. The design working pres-    should have the same or larger internal diameter as the vent
+sure rating of the drilling spool/mud cross should be equal     outlet and valve, they should be resistant to fire and erosion,
+to the design working pressure rating of the annular sealing    have end couplings that are compatible with those utilized in
+device.                                                     the hard piped section(s) of the vent line piping system, and
+                                                        supported adequately.
+Valves
+Valves used in a diverter vent line(s), or in the flow line to
+the shale shaker in a floating drilling operation, should be
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES     WC-25
+
+Routing                                              Volumetric capacity
+The vent line(s) used in a diverter system should be rout-   As a minimum, the volumetric capacity of the diverter con-
+ed so that at all times, one line can vent wellbore media to     trols system accumulators should be sufficient to provide
+the downwind side of the rig. Routing changes should be as    the usable fluid volume (with pumps inoperative) required
+gradual as possible. Long radius bends are preferred over     to close and open all functions in the diverter system and
+short radius bends. In the case of a 90° bend, it is preferred       still retain a 50% reserve. Usable fluid volume is defined
+to use a targeted tunning tee equipped with a blind flange or    as the  fluid recoverable from an accumulator between
+plug to minimize effects of erosion. If the vent line is required   maximum operating pressure of the system (the pressure
+to change direction two times in one location, it is preferred     at which the pumps automatically shut off) and 200 psi
+to use a “y-type” branch over a tee. The vent line (s) should    above the gas pre-charge pressure. The API RP-16E, Recom-
+be sloped along their entire run in order to eliminate low   mended Practices for Design of Control Systems for Drill-
+spots which may accumulate drilling media and debris.          ing Well Control Equipment, latest edition, should be used
+                                                                to assist in determining the accumulator volume required.
+Support                                                   For a control system that incorporates an integral divert-
+The vent lines should be firmly secured. The dynamic ef-     er system with the blowout preventer control system, the
+fects of high-volume fluid/gas flow and the impact of drilling    accumulators required for the diverter system should have
+solids are to be considered in the vent line(s) support. Sup-     their supply isolated from the accumulators required for the
+ports located at points where piping direction changes must    blowout preventer system by a check valve. On systems uti-
+be capable of restaining pipe deflection. Special attention     lizing pneumatically-operated valves, an independent power
+should be given to the supports located at the end sections    source should be provided to supply the necessary air/gas
+of the vent line(s). This area will tend to whip and vibrate     required in the event of reduction or loss of rig air pressure.
+during a diverting operation.
+                                              Response time
+Cleanouts                                         The diverter control system should be capable of operating
+Provisions for cleaning and flushing any accumulated debris    the vent line valve(s) and the flow line valve (if so equipped),
+from the vent line(s) should be made. Cleanouts should be    and closing the annular sealing device packing element on
+placed upstream of all valves and sharp direction changes,    pipe in use within 30 seconds if the packing element of the
+with flushing jets located to aid removal of sharp debris and    annular sealing device has a nominal open bore of 20 inches
+drilling solids. Cleanouts and flushing ports should be ade-     or less. For annular sealing devices that have a packing ele-
+quately sealed to prevent the escape of any wellbore media    ment nominal open bore greater than 20 inches, the diverter
+when the diverter is in use. The cleanout should have the     control system should be capable of operating the vent line
+same rated working pressure as the piping into which they     valve(s) and flow line valve (if so equipped), and closing the
+are installed. Well-monitoring devices (flow indicators, etc.),    annular sealing device packing element on pipe in use within
+gumbo busters, etc., which are exposed to diverting media    45 seconds.
+should be able to withstand the anticipated back pressure
+without leaking or failing.                        Pump requirements
+                                                  The pump(s) used in a diverter control system should be
+Fill-up lines                                              capable of recharging the diverter control system accu-
+If a fill-up line is positioned below the annular sealing device,    mulator system to full system operating pressure within 5
+it should be valved. The valve can be either a remote-operat-    minutes after one complete divert mode operation of the
+ed gate, ball or knife-type valve, or a check valve. The pres-     diverter control system. The discharge pressure rating of
+sure rating of the valve should be equivalent to the pressure    the pump(s) should be equal to the rated working pressure
+rating of the rest of the diverter system valve components.      of the diverter control system. Power supply to the pumps
+                                                          should be available to the diverter control system at all
+Control system                                              times, such that the pump(s) will automatically start when
+The diverter control system is usually hydraulic or pneumat-    the system supply pressure in tile accumulator(s) decreas-
+ic, or a combination of both. The system should be capable    es to less than 90% of the accumulator operating pressure.
+of being controlled from two or more remote units. All units    The pump(s) should automatically stop when the full design
+should be available for ready access by operating personnel.    operating pressure is reached. An over-pressure protection
+The diverter control system may be a completely self-contained    device (i.e., relief valve) should be set to function at no more
+system, or it may be an integral part of the blowout preventer    than 110% of the design operating pressure. The overpres-
+control system. In some cases, the blowout preventer control    sure protection device should be designed to automatically
+system can double as the diverter control system. This is de-    shut off and reset within 25% decrease of the design oper-
+pendent on the type/configuration of diverter system used.        ating pressure.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 35 ]
+────────────────────────────────────────────
+WC-26     WELL CONTROL EQUIPMENT & PROCEDURES
+
+Back-up system                                          not practical. The complexity of the control sequencing sys-
+An alternate means, or back-up system, should be employed    tem is dependent on the design of the diverter system and
+to permit operation of the diverter system should the pri-    the components selected to be used in the diverter system.
+mary control system become inoperative. This can be ac-
+complished by use of an alternative pump source, separate    Control system location
+isolated accumulator capacity, bottled nitrogen, or other    The main pump/accumulator/control manifold unit should
+means. The back-up system need not be automatic, but    be located in a safe place which is easily accessible to rig
+should be available if the need arises.                        personnel in an emergency. It should also be located such
+                                                                that maintenance to the components on the system can be
+Valves, fittings, lines, and manifolds                   done in an easy manner. The distance of the main unit from
+All valves, fittings, lines and manifolds should have the same    the diverter system components will determine the sizing of
+rated working pressure as the pump(s). Sizing of valves, fit-    the control lines between the two, keeping in mind the re-
+tings, lines and manifolds should be adequate enough to    sponse time requirement for operating the annular sealing
+supply the diverter system components volume enough    device and vent line valve(s). In addition to the main pump/
+to satisfy the response time required. Pressure-regulating    accumulator/control manifold unit, remote control units
+valves should be provided for the annular sealing device, and    should also be incorporated. These too should be located
+for all other components in the diverter system. Accurate     in a position that is readily accessible by the rig person-
+pressure gauges should be incorporated to indicate critical     nel in an emergency. At least one of these remote control
+system pressures. Pressure regulating valves utilized in the     units should be located a safe distance from the rig floor.
+system should have the capability to be manually operated    The design of all components utilized in the diverter control
+within their rated operating pressure range should the re-    system should comply with the area classifications found
+mote control capability fail.                                         in API RP 500B, Recommended Practice for Classification
+                                                                  of Locations for Electrical Installations on Drilling Rigs and
+Fluid reservoir capacity                                   Production Facilities on Land and Marine Fixed and Mobile
+The reservoir capacity of the diverter control system should     Platforms, latest edition.
+be equal to at least 2 times the usable fluid capacity of the
+diverter control system accumulator system.               Mounting of diverter
+                                            An important consideration for diverters is to structural-
+Fluid recommendation                                              ly secure the mounting, since the device receives the full
+A suitable hydraulic fluid (nonflammable petroleum or wa-     force of diverted wellbore media. If the diverter is mounted
+ter-based) should be used as the operating fluid. In cold     utilizing API or MSS/ANSI type flanges, refer to the appro-
+ambient environments, sufficient volume of glycol should be     priate standards for these flanges to determine the proper
+added to the operating fluid in order to keep the fluid from     bolting material and method of making up the flange. If the
+freezing. Use of diesel oil, motor oil, chain oil or any other     diverter is attached to the rig floor structure (e.g., rotary ta-
+similar fluid is not recommended due to the possibility of ex-     ble beams), the connection should be designed so that the
+plosion or resilient seal damage.                          upward force is directed back into the structure.
+Control sequencing                              Typical diverter system for onshore and/or
+The diverter control system should have the capability to be   bottom-supported offshore installationsoperated such that the well can never be shut in with the
+                                          When diverter systems are deemed necessary, they shoulddiverter system. For installations where the annular sealing
+                                                    be installed on the drive or conductor pipe.device is located below the flow line, the control sequencing
+should be that the vent line valve(s) always open before the                                               System arrangementannular sealing device is closed. If more than one vent valve
+                                                       There are various arrangements of diverter systems for on-is installed, both valves should remain open during the ini-
+                                                          shore and/or bottom-supported offshore installations. Thetial closing of the annular sealing device, and then allow for
+                                                   most common of these consists of an annular sealing de-closure (either automatic or manual) of the upwind vent line
+                                                                 vice attached to a drilling spool/mud cross (Figure WC-41).valve, if so desired. On installations where the flow line is
+                                                  The drilling spool/mud cross generally has one or two ventbelow the annular sealing device, the desired vent valve(s)
+                                                                     outlets. The annular sealing device often times used is anshould be opened (if not already open) while simultaneously
+                                                            annular type blowout preventer. The typical sizes of annularclosing the shale shaker/flow line valve and annular sealing
+                                                            preventers used are:device. If possible, the design of the control system and/or
+the vent line piping system should allow that the vent(s) fail      y 29 1/2-in. - 500-psi W.P.
+to the open position. Although desired, this is sometimes      y  30-in. - 1,000-psi W.P.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 35 ]
+────────────────────────────────────────────
+                               WELL CONTROL EQUIPMENT & PROCEDURES      WC-27
+
+
+y 20 3/4-in. - 3,000-psi W.P.
+y  21 1/4-in. - 2,000-psi W.P.
+
+There are insert-type preventers that are available for this
+application. The typical size for this type of diverter is a 30-
+in., - 2,000-psi W.P.
+
+Also available for onshore and bottom-supported off- shore
+installations are annular preventers purpose designed for a
+diverter application, in that the vent valving has been de-
+signed into annular preventer (Figure WC-42).
+
+Additionally, substructure mounted diverter systems are
+also available for onshore and/or bottom-supported off-
+shore installations (Figure WC-43). These are similar in
+design to the diverters that are designed for floating drilling
+rigs. One of the major advantages of this design system is
+that it allows the diverter, overshot spool and overshot pack-
+er assembly to be pulled or run without having to connect
+or disconnect flow line, fill-up line and diverter vent lines.
+Hydraulic-actuated seals are used to isolate the flow line,
+diverter vent lines and fill-up lines by providing a reliable,      Figure WC-43: Substructure-mounted diverter system for onshore
+positive seal between the diverter and the support hous-          or bottom-supported offshore installations. IADC drawing.
+ing. The diverter assembly is mechanically locked into the
+support housing with a right-hand “J” which also positively
+aligns the outlets of the diverter with the outlets in the sup-
+port housing. The overshot packer, which is used to connect
+the diverter to the conductor pipe, is a stab-over and seal
+mechanism, thereby eliminating the need for welding and/
+or making up flanges each time different size casing is run.
+The overshot packers and spools are connected utilizing a
+stab-type casing connector. Tools are available that allow
+testing the diverter assembly seals, insert packer(s), and all
+flow line and diverter vent valving. These types of diverter
+systems are available for use with 37 1/2-in. and 49 1/2-in. ro-
+tary tables. This diameter is not the internal diameter of the
+diverter, but the minimum internal diameter of the support                                                                           Figure WC-44: Substructure mounted diverter with
+housing. These types of diverters are available with either an                  annular packing element. IADC drawing.
+annular packing element (Figure WC-38 and WC-44) or in-
+sert-type packing elements (Figure WC-39). Compare Fig-    Installation
+ures WC-42 and WC-44 to see diverter vent connections     Diverter systems on floating drilling rigs are typically mount-
+for two different systems.                               ed to the drill floor substructure (rotary support beams). The
+                                                                  diverter system is the upper end of the marine drilling riser
+Typical diverter system for floating rigs         system. A floating drilling operation requires equipment
+Floating drilling operations include operations from drill-     that allows for relative motion between the subsea blowout
+ships and semi-submersibles that drill in the floating mode.    preventer stand and the drilling vessel. A flex/ball joint is
+These vessels are distinguished from other types of drilling     usually located above the blowout preventer stack (at the
+units by the use of subsea blowout preventer stacks. The    bottom of the marine drilling riser system) to allow for this
+subsea blowout preventer stack and associated equipment    motion. An additional flex/ball joint may be located at the
+are connected to the drilling vessel via the marine drilling    top of the marine drilling riser package as well in order to re-
+riser system.                                           duce bending stresses caused by vessel offset, vessel surge
+                                                    and sway motions, and environmental forces. This flex/ball
+                                                                        joint is usually located between the bottom of the diverter
+                                                    and the top of the telescopic joint.
+
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 35 ]
+────────────────────────────────────────────
+WC-28     WELL CONTROL EQUIPMENT & PROCEDURES
+
+                                           Flow Line                Diverter system maintenance          Packing                Unit                               A schedule for routine check-out and maintenance of
+                                                                  diverter systems equipment should be implemented and
+       Ported Valve                                               kept by the rig operating personnel. Specific guidelines for
+           Sleeve
+                                                      each diverter component or subsystem should be based on
+                                                       maintenance manuals and recommendations provided by
+         Vent Line                                               the equipment manufacturer.
+
+         Side Seal                                                   Visually inspect the rubber components of the system after
+             Piston                                           each test to verify that they are in good working condition.
+                                                          Packer components should be replaced when their proper
+                                                               functioning is questionable due to damage, wear, and/or
+                                                              age. The diverter system should be function tested on a pe-
+                                                                     riodic basis. During diverter function tests, observe all com-
+                                                       ponents of the diverter system including the diverter, valves,
+                                                               valve actuators, valve actuator piping, and control panel to
+                                                                     verify that there are no leaks in the system. In the event a
+     Figure WC-45: Diverter for floater installations with built-
+                                                               leak is discovered, it should be repaired immediately.            in flow line and vent line valving. IADC drawing.
+
+                                                                                               If the diverter system utilizes a separate control system from
+Systemarrangement                                   the blowout preventer control system, the unit requires peri-
+Diverter systems used on floaters are similar in design to the     odic maintenance including such items as checking various
+substructure mounted systems used on bottom-supported     fluid levels, cleaning air strainers, cleaning pump strainers
+offshore installations. In fact, the idea for the substructure    and cleaning filter elements.
+mounted diverter systems used on bottom-supported off-
+shore installations came from the floating installation de-    Tightening of packing and lubrication of power actuating
+sign. Because of the large diameter of the marine drilling     cylinders should be performed. The nitrogen precharge in
+riser that is used today, the most common size of diverter    the system accumulator bottles should be checked as well.
+system is one that is designed to work with a 49 1/2-in. ro-
+                                                            Control hoses, tubing, vent line piping support brackets,tary table. This diameter is not the internal diameter of the
+                                                             targeted fittings, valves, fittings, etc., should be visually in-diverter, but the minimum internal diameter of the sup-
+                                                         spected on a routine basis. Due to the difficulty in hydro-port housing. This large diameter allows conductor casing
+                                                                        statically pressure testing of the vent line(s) of a diverterand marine drilling riser to be pulled or run without having
+                                                          system, it is recommended that the wall thickness of theseto connect or disconnect flow line, fill-up line and diverter
+                                                                     lines and their associated fittings be checked using ultrason-vent lines. Hydraulic actuated seals are used to isolate the
+                                                                             ic inspection devices. These lines are not only highly suscep-flow line, diverter vent lines, and fill-up lines by providing a
+                                                                          tible to erosion due to high velocity flows, but they are highlyreliable, positive seal between the diverter and the support
+                                                               susceptible to material loss due to corrosion.housing. The diverter assembly is hydraulically locked into
+the support housing with hydraulic operated dogs. When                                                            Control system pressure gauges should be calibrated and
+properly installed and locked in place, the diverter outlets                                                        tagged at intervals not to exceed 12 months.
+are positively aligned with the outlets in the support hous-
+ing. Tools are available that allow testing the diverter as-  BOP performance characteristicssembly seals, insert packer(s) and all flow line and diverter
+                                                       Blowout preventers are valves which can close off the annu-vent valving. Diverters for floating installations are available
+                                                                   lus space between the BOP bore and drillpipe, or as in thewith either an annular packing element (Figure WC-44) or
+                                                         case of blind rams and annular blowout preventers, close offinsert-type packing elements (Figure WC-39). Additionally
+                                                            the well when the hole is open. As with any valve, a pressureavailable for floaters are diverters that incorporate automat-
+                                                                       differential can exist across the valve that opposes its open-ic valving for the flow line and diverter vent line. A single hy-
+                                                                ing or closing. This differential was not formerly considereddraulic function is used to close the diverter and at the same
+                                                       a factor to reckon with when BOPs were only rated at 5,000-time close off the flow line to the shale shakers and open the
+                                                                   psi MWP (maximum working pressure). The design of thediverter vent line. Figure WC-45 shows an example of this
+                                                       BOP, depending on manufacture, generally ranged from acomponent. The figure does not show the support housing
+                                                                     4.5:1 to a 6.8:1 closing ratio. With the high closing ratio andthat the diverter fits into. This housing is similar in design to
+                                                       low MWP rating of the BOP, and the advent of the 3,000-psithe substructure mounted insert-type diverter.
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 35 ]
+────────────────────────────────────────────
+                                                                                           Next Page
+
+                               WELL CONTROL EQUIPMENT & PROCEDURES     WC-29
+
+
+closing units in 1953, there was always sufficient pressure to     Prior to consideration of 10,000 psi and higher maximum
+close the BOP against its full rated working pressure.          working pressure BOPs, the accumulators on the BOP clos-
+                                                                ing unit were precharged and the minimum working pressure
+The closing ratio is a product of the area on the ram side     of the accumulator calculated to optimize the fluid capacity
+which is exposed to wellbore pressure versus the area of the     of the accumulator system, and simplify the calculations us-
+operator piston exposed to operating pressure. BOP manu-     ing Boyles Law. The minimum pressure was established at
+facturers calculate and publish the opening and closing ra-    1,200 psi (200 psi above precharge). The precharge pres-
+tios. Since pressure in psi times area in inches equals force    sure was established at 1,000 psi. When the accumulator
+in pounds,  it is easy to recognize that wellbore pressure    was charged with hydraulic pressure to 3,000 psi, 50% of
+versus operator pressure oppose each other. For example,    the accumulator fluid volume could be discharged down to
+if the difference in area exposed to operator pressure pro-    the pressure at which the poppet valve in the accumulator
+duces seven times greater force than the area exposed to    closed and shut off flow. This would be between 1,200 psi
+wellbore pressure, the ratio is said to be 7:1. This means op-    and 1,000 psi. The minimum working pressure (1,200 psi)
+erator pressure produces seven times the force to close as    was used in calculations to ensure a margin of safety.
+the wellbore side produces to resist closing. Another factor
+that affects closing force is inherent friction; however, this    The recommended practice for design of control systems for
+is considered minimal and is not normally figured into the      drilling well control equipment API RP16E, 1st edition, Octo-
+closing characteristics of the BOP.                            ber 1, 1990, recognized the operating characteristics of the
+                                                      BOP. The applicable reference today is API Spec 16D, 2013.
+Simple calculations divide the BOP maximum working pres-
+sure by the opening or closing ratios to determine the min-    Opening or closing the ram BOPs at maximum rated well-
+imum operator pressure required to open or close the BOP    bore pressure is not recommended. However, operators
+against full wellbore pressure.                               should be aware of the operating characteristics and lim-
+                                                                     itations of the well control equipment so that surprises can
+With the advent of 10,000-psi and higher maximum work-    be avoided when encountering well control problems. Users
+ing pressure BOPs, the closing ratio does become a factor to    should contact the manufacturers for any information not
+reckon with if the BOP must be closed against high wellbore    contained in the equipment users manual.
+pressure. The following examples show the effect of closing
+against full rated wellbore pressure assuming closing ratios    To prepare for emergency operations, should the accumula-
+of 4.5:1 and 6.8:1                                                  tor pumps be out of service and wellbore pressure increases,
+                                                           operators should isolate the pumps and, using the accumu-
+4.5:1 Closing ratio                                               lators only, create a table to show actual performance of the
+MWP (psi)     Operator Pressure Req’d (psi)               system. This can be accomplished during initial installation
+5,000                               1,111                         by checking the accumulator precharge then charging them
+10,000                   2,222                             to full design pressure. Then isolate the pumps and chart the
+15,000                    3,333                               finishing pressure each time a ram BOP is closed (exclude
+                                                          shear rams).
+6.8:1 Closing ratio
+MWP (psi)     Operator Pressure Req’d (psi)             The resulting table will show what the final pressure will be
+5,000                   735                                after certain numbers of ram closures based on the result-
+10,000                    1,470                             ing decrease in accumulator pressure as volume is expelled.
+15,000                   2,205                       With the known closing ratio of the BOP, the operator can
+                                                                divide specific wellbore pressures by the BOP closing ratio
+It must be noted that the BOP also has an opening ratio. The    and know before attempting to do so if there will be suffi-
+opening ratio is less than the closing ratio since the ram face     cient accumulator pressure to effect closing and seal off
+is sealed off against the drill pipe or the other blind ram block,     against whatever elevated wellbore pressure is in the hole.
+and is not exposed to wellbore pressure until this seal is bro-    Most BOP closing units are equipped with a manifold pres-
+ken. Prior to opening then, the ram block area is not exposed    sure reducing and regulating valve that supplies the hydrau-
+to wellbore pressure, thus the pressure in the ram cavity      lic pressure to operate the ram BOPs, kill and choke valves.
+actually assists in maintaining the ram in the closed posi-    This device normally limits pressure to a maximum of 1,500
+tion. This means the operator pressure must be increased     psi and may often be regulated lower than that. There is also
+to open against wellbore pressure. In some cases, this is a    a manifold regulator bypass valve. When this valve is in the
+moot point since the components for ram block retraction     “high” pressure position, the ram control valves receive full
+are not designed to pull the block open under pressure and    accumulator pressure for operation. The bypass valve can
+damage to the BOP would result if it were attempted.         be placed in the “high” position anytime wellbore pressure
+
+
+
+                                 IADC Drilling Manual     Copyright © 2015
+
+

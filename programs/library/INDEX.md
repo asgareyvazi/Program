@@ -1,4 +1,4 @@
-# 📚 Document Library — 690+ Real Programs, Procedures, Problems & Guidelines
+# 📚 Document Library — 705+ Docs incl. Major-Operator Reference Books
 
 > Extracted text documents uploaded by the user (combined_1.txt + Combined_2.txt).
 > Used as reference knowledge base to enrich wizard output and master programs.
@@ -9,6 +9,24 @@
 |---|---|---|
 | 215 | ROPE Manual (Rig Operations Performance Execution) — 55+ checklists | 28 |
 | 216 | AZNS F-20 Price Table Rev#07 — 22 sheets (Time Breakdown + full cost breakdown: rig, services, materials, rig-less stimulation) | 79 |
+
+## Major-Operator Reference Books (NEW — 13)
+
+| # | Document | Size (KB) |
+|---|---|---|
+| 690 | ADCO Drilling Manual Vol.1 (419 pp) | 1144 |
+| 691 | Saudi Aramco Drilling Engineering Course (443 pp) | 1014 |
+| 692 | Nimir Petroleum Drilling Operation Manual (447 pp) | 1567 |
+| 693 | Halliburton Drilling Operations Guidelines (302 pp) | 752 |
+| 694 | PETROM Drilling Operations Manual (498 pp) | 1082 |
+| 695 | Drilling Practices Course (334 pp) | 1016 |
+| 696 | ExxonMobil SOM — Jack-up / Platform / Barge (318 pp) | 856 |
+| 697 | HPHT Course — Aberdeen (288 pp) | 540 |
+| 698 | IADC Drilling Manual 12th Ed. (1114 pp) | 5447 |
+| 699 | IADC Well Control Equipment & Procedures (35 pp) | 179 |
+| 700 | Master Index of Guidelines (947 pp) | 3020 |
+| 701 | Practical Well Planning & Drilling — Devereux (548 pp) | 1336 |
+| 702 | Stuck Pipe Prevention — Well Control School (54 pp) | 155 |
 
 ## BP UK Operations Guidelines (NEW — 127)
 

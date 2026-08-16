@@ -1,0 +1,2261 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 54 ]
+────────────────────────────────────────────
+STUCK PIPE PREVENTION
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 54 ]
+────────────────────────────────────────────
+[صفحه 2: خالی]
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 54 ]
+────────────────────────────────────────────
+Stuck Pipe Prevention
+                 Well Control School
+                    Houston, Texas
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 54 ]
+────────────────────────────────────────────
+Revised November 2015
+Printed 2008, 2015
+Printed in the United States of America
+
+Well Control School
+16770 Imperial Valley Drive, Suite 290
+Houston, TX 77060
+
+Phone: 713.849.7400
+Fax: 713.849.7474
+eMail: staff@wellcontrol.com
+Website: www.wellcontrol.com
+
+
+
+WCS MAN-013 REVISION 2
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 54 ]
+────────────────────────────────────────────
+     ofTable   Contents
+
+
+
+    Abbreviations                                                                                                    iv
+   Chemical Elements                                                                                              vi
+
+    Introduction                                                                                                            vii
+ Section 1 – Causes of Stuck Pipe                                                          9
+   Differential Sticking                                                                  9
+   Formation-Related Sticking                                                            9
+   Mechanical Sticking                                                                 12
+
+ Section 2 – Identifying Stuck Pipe Mechanisms                                             17
+   Conditions and Warning Signs of Differential Sticking                                      19
+   Conditions and Warning Signs of Formation-Related Sticking                                19
+   Conditions and Warning Signs of Mechanical Sticking                                      22
+ Section 3 – Stuck Pipe Prevention                                                        25
+   Planning a Stuck Pipe Prevention Program                                               25
+  Good Drilling Practices                                                              33
+  Good Tripping Practices                                                             34
+   Prevention Techniques for Differentially Stuck Pipe (Wall Sticking)                            34
+   Guidelines for Good Mud Maintenance                                                 35
+   Prevention Techniques for Formation-Related Stuck Pipe                                    36
+   Prevention Techniques for Mechanically Stuck Pipe                                         37
+
+ Section 4 – Freeing Stuck Pipe                                                          43
+   Freeing Differentially Stuck Pipe                                                       44
+   Freeing Mechanically Stuck Pipe                                                       44
+
+ Appendices                                                                         49
+   Appendix I – Stuck Pipe Identifier                                                      49
+   Appendix II – Overpull Calculation                                                    49
+   Appendix III – Jarring Calculation                                                     49
+   Appendix IV – Back-off Shots                                                         50
+
+
+
+
+
+Discalimer: The material contained here, is based on the best sources available to the authors. WCS does not warrent
+or guarantee any procedures or information presented in this text. By the very nature of the oil industry, procedures,
+equipment, standards and practices vary widely. It is not the intent of WCS to endorse policies and procedures, but
+rather to communicate to readers generally accepted practices.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 54 ]
+────────────────────────────────────────────
+             and  Abbreviations    Acronymns
+
+
+       API     American Petroleum Institute                    F        force
+      APL    annular pressure loss                                    fp       freezing point
+      AFPL   annual friction pressure loss                     FPL     friction pressure loss
+      A        area                                                             gal.      gallon(s)
+         bbl.      barrel(s)                          GOR    gas-to-oil ratio
+           bbl./ft.   barrel(s) per foot                                            h./hr.   hour
+          bbl./in.  barrel(s) per inch                                            hrs.     hours
+          bbl./stk. barrel(s) per stroke                             hp      horsepower
+     BOP    blowout preventer                             H2S    hydrogen sulfide
+     BHA   bottomhole assembly                     HP      hydrostatic pressure
+      BP     bottomhole pressure                                          in.       inch(es)
+       bhp     brake horsepower                             ICP      initial circulating pressure
+     BTU    British thermal unit                         IMSP    initial maximum static pressure
+      BF     buoyant force                              ID       inside diamter
+      CP      circulating pressure                                   ISIP     instant shut-in pressure
+     CR      closing ratio (BOP)                      K       Kelvin
+     CT      coiled tubing                    KMW   kill mud weight
+     Z        compressibility factor                                                         l        length
+      CTLS  CT length - swivel to gooseneck                  L          liter
+      CTLT  CT length - total                                 max.   maximum
+      CTLW  CT length in well                        MASP  maximum allowable surface pressure
+         cu.      cubic                        MD    measured depth
+       cm3     cubic centimeter (in scientific context)            MPa    megapascal
+         cc       cubic centimeter (in clinical context)            mp     melting point
+                º C      degree Celcius                     m      meter
+                º F       degree Fahrenheit                                  min.   minimum
+            ° R      degree Rankine                                mo.    month
+     D       diameter                        MHA   motor-head assembly
+      ∆        delta “p” or differential (usually pressure)       MW   mud weight
+         d./day   day                           Ω     ohm
+     ECD    equivalent circulating density              OD     outside diameter
+      ESFD   equivalent static fluid density                      ppb      parts per billion
+     FSW     field salt water                            ppm     parts per million
+      FCP     final circulating pressure                         p        pascal
+      FMSP   final maximum static pressure              ∏       pi
+            ft.        foot/feet                             PBTD  plug back total depth
+        FI      formation integrity                                             lb.      pound(s)
+       FIT     formation integrity test                                           lb./ft.   pound(s) per foot
+      FP      formation pressure                                   ppf     pound(s) per foot
+
+
+
+iv
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 54 ]
+────────────────────────────────────────────
+ppg    pounds per gallon                                        yrs.      years
+psi     pounds per square inch                    YP       yield point
+PKCP   pre-kill circulating pressure
+PMW   present mud weight
+P        pressure
+psi/bbl.  psi per barrel
+psi/ft.    psi per foot
+Gradient  psi/foot or psi/ft.
+RP       reservoir pressure
+RBP     retrievable bridge plug
+rpm     revolutions per minute
+sx       sacks
+SM      safety margin
+sec.     second
+secs.     seconds
+SIAP    shut-in annulus pressure
+SICP    shut-in casing pressure
+SICTP  shut-in coiled tubing pressure
+SIDPP  shut-in drill pipe pressure
+SITP    shut-in tubing pressure
+SIWHP shut-in wellhead pressure
+∑       sigma or (“sum of’)
+SCR    slow circulating rate
+sq.      square
+sq. ft.    square foot/feet
+sq. in.   square inch
+stk      stroke
+spm     strokes per minute
+T       temperature
+temp.   temperature
+TD      total depth
+TMD   true measured depth
+TVD    true vertical depth
+V      volume
+wt.      weight
+WCS   Well Control School
+w       width
+WP     working pressure
+yr.       year
+
+
+
+                                                                                                        v
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 54 ]
+────────────────────────────────────────────
+  Chemical Elements
+
+
+       Ac      actinium                Hs      hassium                Rh     rhodium
+        Al      aluminum (US)            He     helium                  Rg      roentgenium
+               aluminium (IUPAC)       Ho     holmium               Rb     rubidium
+     Am     americium          H      hydrogen               Ru     ruthenium
+       Sb      antimony (stibium)           In      indium                     Rf      rutherfordium
+       Ar      argon                              I        iodine                Sm     samarium
+       As       arsenic                              Ir       iridium                     Sc      scandium
+        At       astatine                     Fe       iron (ferrum)                Sg      seaborgium
+       Ba      barium                   Kr      krypton                     Se      selenium
+       Bk      berkelium                  La      lanthanum                      Si        silicon
+       Be      beryllium                    Lr      lawrencium               Ag        silver (argentum)
+        Bi      bismuth                  Pb       lead (plumbum)           Na     sodium (natrium)
+      Bh     bohrium                      Li       lithium                        Sr       strontium
+      B      boron                   Lu      lutetium                   S        sulfur
+        Br      bromine             Mg     magnesium                 Ta      tantalum
+      Cd     cadmium            Mn     manganese                Tc      technetium
+      Ca      calcium               Mt     meitnerium                 Te       tellurium
+       Cf      californium           Md     mendelevium            Tb      terbium
+     C       carbon                Hg     mercury (hydrargyrum)        Tl       thallium
+      Ce      cerium              Mo    molybdenum              Th      thorium
+       Cs      cesium               Nd    neodymium            Tm     thulium
+       Cl       chlorine                Ne     neon                     Sn       tin (stannum)
+       Cr     chromium             Np     neptunium                  Ti      titanium
+      Co      cobalt                    Ni       nickel           W      tungsten (wolfram)
+      Cu      copper             N       nitrogen                Uub    ununbium
+     Cm     curium                No     nobelium               Uuh    ununhexium
+      Ds      darmstadtium             Os     osmium                Uuo    ununoctium
+     Db     dubnium           O      oxygen                 Uup    ununpentium
+      Dy     dysprosium               Pd      palladium               Uuq    ununquadium
+        Es       einsteinium              P       phosphorus               Uus    ununseptium
+        Er      erbium                       Pt      platinum                 Uut    ununtrium
+       Eu     europium                 Pu      plutonium           U      uranium
+     Fm     fermium                  Po      polonium             V      vandium
+       F        fluorine              K       potassium (kalium)          Xe     xenon
+        Fr      francium                     Pr      praseodymium            Yb      ytterbium
+      Gd     gadolinium            Pm     promethium             Y       yttrium
+      Ga      gallium                     Pa      protactinium             Zn      zinc
+      Ge     germanium               Ra     radium                    Zr      zirconium
+      Au      gold (aurum)            Rn     radon
+      Hf     hafnium                  Re     rhenium
+
+
+vi
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 54 ]
+────────────────────────────────────────────
+Introduction
+
+Stuck pipe is the inability to move a work string into or out of a well. Worldwide, it is the most common cause
+of downtime in drilling and workover operations today. Statistics indicate that it is also one of the most costly
+events that can occur during rig operations. Once the pipe is stuck, the cost of getting unstuck and back on track
+can exceed the amount budgeted for the entire operation. If the decision is made to back off, or if the string is
+parted, there is usually less than a 50% chance of getting the fish out of the hole. Time and money are not the
+only cost. Crew morale sags when problems occur and nobody does their best when morale is low.
+Statistical data from operations conducted in the Gulf of Mexico and in the North Sea reveal some striking
+similarities. For example, it is interesting to note that statistics for one major operator in the Gulf of Mexico
+indicate that most stuck pipe incidents (68%), occurred on crew change day, within about 2 hours of the fresh
+crew coming to work.
+In both the Gulf and the North Sea stuck pipe incidents were on the increase throughout the 1990s until
+training programs were established. After the companies began to emphasize stuck pipe training, there was a
+noticeable reduction in these incidents. This was the case even though the areas of operation are vastly different
+and the specific drilling problems, including stuck pipe, vary widely. Today the incidents in both areas are on
+the rise again. Demand for rigs and crews is steadily increasing and the inexperience of crews is showing up in
+the number of stuck pipe incidents.
+Most cases of stuck pipe are avoidable; therefore the most important factor in preventing stuck pipe is a
+well trained rig crew that understands how and why a drillstring gets stuck. A trained crew recognizes the
+warning signs and communicates with their supervisors. A formal stuck pipe prevention plan creates a sense of
+interdependency and teamwork among all rig personnel, whatever their job position. There is abundant proof
+that a rig crew that has been trained to work together as a team, a team that shares information up and down
+the chain of command, can often avoid stuck pipe situations.
+
+
+
+
+
+                                                                                                                                                          vii
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 54 ]
+────────────────────────────────────────────
+[صفحه 10: خالی]
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 54 ]
+────────────────────────────────────────────
+      ofCauses   Stuck Pipe                1
+Although there are many individual situations in which a workstring may become stuck in a well, there are three
+main causes:
+
+    •   Differential sticking, sometimes called wall-sticking
+    •   Sticking as a result of, or related to, the drilled formation
+    •   Mechanical sticking
+
+Differential Sticking
+Differential sticking, as the name implies, is a result of the difference between the hydrostatic pressure exerted
+by the working fluid and the formation pressure. The solids content of the fluid, the fluid density, wall cake
+thickness and quality, formation permeability, the length and components of the bottomhole assembly (BHA)
+and hole inclination all contribute to the likelihood of differential sticking. In a permeable formation, especially
+sandstone, the liquid phase of the fluid enters the formation depositing solids on the wall of the hole. The greater
+this water loss, the thicker and softer the wall cake deposit. The portion of the BHA that lies on the low side of
+the hole can become embedded into the soft wall cake. If the hydrostatic pressure of the fluid is greater than the
+formation pressure, the net force exerted on each square inch of the embedded BHA can be tremendous and
+no practical amount of vertical pull will free the string and it cannot be rotated although full circulation is still
+possible. It is unlikely that the string will stick differentially when it is in motion, so experienced drillers keep
+connection times to a minimum and keep the pipe moving whenever possible.
+
+
+                   Build up of                                                  Contact area will
+                low-gravity solids                                                     increase with time
+                                                       Filter cake
+                            Excess mud
+                              pressure
+
+                                                                                           Diﬀerential
+                                                                                             Sticking
+
+
+
+                                     String
+                                                                               String             Permeable
+                                           Gelled, stagnant mud             Formation                                                                   Deviation                                                                String will sag and fully
+                                                               penetrate FC                                     Time
+
+
+
+Formation-Related Sticking
+Formation-related sticking refers to the several ways in which the drilled formation can contribute to pipe
+sticking problems. Five of these are discussed on the following pages.
+
+
+
+
+                                                                                                                             9
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 54 ]
+────────────────────────────────────────────
+        1.  Geopressured Sticking
+                                                          Geo-Pressured Sticking
+     When   drilling  an  impermeable
+       formation like shale, pieces of the
+        rock can be forced into the wellbore                                                                                                        Pull
+            if the formation pressure is greater                                                                                            Hydrostatic                                            Over       than the hydrostatic pressure exerted                 Formation     Pressure     5000                                                                        Pressure                       psi
+       by the working fluid. This condition                 Stress     5000 psi
+           is  referred to  as overpressured or                Crack
+         geopressured. As the cavings build up      5500
+                                                                        psi         5500 psi                            Pack       around the work string, especially          Stress                                                 Off
+                                            HSP          Pore
+       around the BHA, the  string can                  Pressure                                                                                                                                   Stuck
+       become stuck.
+                                                             Hole
+                                                                  Wall
+
+
+
+
+
+                                                                               Reactive Formations
+        2.  Reactive Formations
+      Some formations react to the liquid phase of the working fluid causing the
+       formation to hydrate, or “swell”. When this happens, some sections of the
+        hole will be undergauge. These bentonitic, swelling clays, called gumbo,
+         are common in offshore drilling, especially at shallow depths. The soft,
+        hydrated clay not only reduces the wellbore diameter, but can also cling to
+        the bit, the BHA, and the drill pipe, thus increasing the potential for stuck
+        pipe. The bit and string is said to be “balled up”.
+
+
+
+
+
+                                           Reactive Formations
+
+                 Shale                                      1 Day                               3 Days                                     Pull      5 Days                Breaking
+                  Apart                  Exposure        Clay                   Exposure                              Exposure                                                                  Balls                                                                              Over
+
+                      Water
+                                                                                                                      Stuck
+                     Absorbed                                                        Pack                                                                                          Off
+                    By Shale
+
+
+                    Hole
+                     Wall
+
+
+
+
+
+10
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 54 ]
+────────────────────────────────────────────
+3.  Unconsolidated Formations                                      Unconsolidated Formations
+Some formations, for example, unconsolidated sandstone or gravel can
+collapse around the work string. When this happens a packed-off section
+or a bridge is formed. If the pack-off is severe, it may be impossible to pull
+the work string out of the bridge.                                                                                                                              Pull
+                                                                                                                              Over
+
+
+
+
+
+                                                                               Pack                Stuck
+                                                                                                Off
+
+
+
+
+                                                                         Plastic Formations
+4.  Plastic Formations
+Various   salt  formations  and  some  shale
+formations are referred to as being plastic. That              Over                            Weightis, they will move or “flow” into a wellbore                   Pull                            Formation
+when it is drilled and the restraining force is           Plastic Salt
+                                                                                 or Shale
+removed. The work string can become stuck in
+these formations as it is trapped by the decreased                                                                                           Stuck            SqueezingForcediameter of the hole.
+
+                                                                                                                    Stuck                                                                                        SqueezingForce
+
+
+
+
+
+                                                               Fractured Formations
+5.  Fractured Formations
+Pieces   of   naturally   fractured   formations,                                                                                                                           Pullespecially limestone and shale formations that
+                                                                                                                                 Fracturedare in or near a fault zone, can break off and cause                                                Over                Limestone
+a work string to be jammed and then eventually                                                                                                    Stuck
+stuck in a wellbore.                                                              Bridged
+
+
+
+
+
+                                                                                                                            11
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 54 ]
+────────────────────────────────────────────
+      Mechanical Sticking
+       Mechanical sticking is man-made, that is, it is a result of drilling practices employed when drilling a well. Seven
+        of the many specific causes of mechanical sticking are discussed below.
+
+
+        1.  Keyseats
+     A keyseat is an undergauge groove cut into the side of the wellbore that runs parallel to the axis of the hole. It
+           is caused by rotating the string on a sharp bend in the wellbore. When a tooljoint or the BHA is pulled up into
+        the keyseat, the work string can become stuck since the keyseat groove has been worn by the smaller body of
+        the drill pipe.
+
+                                                 Keyseats
+
+
+
+
+
+                                                                               Doglegs
+        2.  Wellbore Geometry
+       Sudden large changes in wellbore inclination are called doglegs. When
+                                                                                                                                                                                     Pull       running into a well the work string is in compression and is fairly flexible.
+                                                                                                                                                                                     Over       However, when the string is pulled out it is in tension, and therefore, less
+          flexible. It may be difficult to pull stiff bottomhole assemblies through the                         Stuck
+        sharp doglegs. Dogleg severity is a consideration in all directional wells.
+
+                        Wellbore Geometry                                                           Drag
+
+
+
+
+
+                                                                                                     Drag
+
+
+                                                                                                                                 Stuck
+
+
+
+
+
+12
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 54 ]
+────────────────────────────────────────────
+Also, when drilling through formation changes, that  is,             Undergauge Hole
+from a hard formation to a softer formation or vice versa,
+                                                                                                                                                                  Down                                                                                                                              Abrasiveledges can be formed. The ledges created by the washout                                                                                                                                                                                                                                                       Weight         Sandstone                                                                                                                         Seteither side of the hard formations, can cause the work string
+to hang up on the ledges of harder rock.
+
+
+3.  Undergauge Hole
+Drilling long sections in an abrasive formation can result                                                                                                  Stuck
+in effectively wearing the gauge protection off a bit. This
+may not present a problem when the string is pulled from
+the well, however when a new bit is run into the well, care
+must be taken not to jam the new bit into the undergauge
+section.
+
+
+
+4.  Inadequate Hole Cleaning
+                                                               Inadequate Cleaning
+There are many factors that determine the efficiency of
+removing cuttings as a well is being drilled. Some of the                                                 > 40°factors that must be considered when designing the drilling
+program are fluid properties in the various sections of the
+well, hole inclination, and the various formations to be
+penetrated. The carrying capacity of the working fluid is
+estimated by considering a combination of two separate
+things: the viscosity of the fluid and the annular velocity
+(the rate at which the fluid is moving up the annulus). Both
+considerations are complex.
+There is no one true viscosity that can be applied to most
+drilling fluids. The viscosity of shear thinning fluids varies as
+it moves up the annulus. Generally speaking we can say that
+the faster the fluid moves, the lower the viscosity of fluid.
+Also, the annular velocity of the fluid is variable because of
+changes in the wellbore diameter.
+For  example,  at  a  constant
+pump rate the cuttings would                                                Cutting Beds Form While Drilling
+move upward much  faster in
+the  small  space  around  the
+BHA than in the larger annular
+space inside the surface casing.
+
+
+
+                                                                        Frequent Problems While POOH
+
+
+
+
+
+                                                                                                                            13
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 54 ]
+────────────────────────────────────────────
+        In directional wells, cuttings may build up on the low side of the hole. Also, the workstring, lying on the low
+         side of the hole, prevents good circulation around the string. In certain wells the cutting beds may move up the
+        hole and form hills like sand dunes. Obviously the formation characteristics and the size and shape of the bit
+         cuttings influence this “dune effect”. Inadequate hole cleaning eventually results in increased drag and rotary
+        torque, all warnings of potential pipe sticking problems.
+
+
+                                                                      Junk
+        5.  Junk
+       Junk may be defined as any metal debris that has                                                                                                                           Pull
+         fallen into a well. Downhole clearances are often
+        very close. For example, the clearance between                                           Over
+       8½-inch drill collars and 9⅝-inch, 47 ppf casing
+           is barely more than an inch. The drill string may
+       become stuck if it “hangs up” on a piece of junk.                    Stuck
+                                                                                                                   Hard
+                                                                                                                          Formation
+
+
+        6.  Cement Problems
+       Sometime chunks of hardened cement in the
+         vicinity of a casing seat can break off and fall
+       downhole. When this happens, the effect is the
+       same as junk in the well. Also, it is possible that
+        the string is run into soft (green) cement. It is
+       not always easy for the driller to recognize the
+         soft cement when the pipe is lowered into  it.
+         Later, when pressure is applied, the cement can “flash set”, resulting in stuck pipe.
+
+                                         Cement Problems
+
+                                           Down                                                                                                      Pull
+                                Set                                                                                                      Over
+
+
+
+
+
+                                                  Pump                       Flash
+                                                                Pressure                     Set
+                                                                                                                         Stuck
+                         Soft                                                                                     Firm
+                 Cement                                                                      Cement
+
+
+
+
+
+14
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 54 ]
+────────────────────────────────────────────
+7.  Collapsed Casing
+When the formation pressure exceeds the casing collapse pressure rating, the inside diameter of the casing will
+be reduced. When this occurs the pipe may become stuck if run in fast enough to jam it into the casing, or when
+pulling out of the hole, if the string is pulled too far into the collapsed section.
+
+
+
+                                        Collapsed Casing
+
+
+
+                                                                                           Casing            Pull
+                                                                                           Rat Hole
+                               Squeezing                                         Salt                                                                                     Over
+
+
+
+
+         Drill Pipe
+
+                                                                                    Squeeze
+                                                                                                 Plug        Casing
+                                                                                                             Stuck
+                                                                                          Bridged
+
+
+       BHA
+
+
+
+
+
+                                                                                                                            15
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 54 ]
+────────────────────────────────────────────
+       NOTES
+
+
+
+
+
+16
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 54 ]
+────────────────────────────────────────────
+Identifying Stuck Pipe Mechanisms                2
+It can be said that the work string is not stuck in a well so long as it is possible to move the pipe up or
+down. Before the pipe is actually stuck there are almost always rig floor indicators that can be observed by
+experienced personnel. Once the potential for stuck pipe is recognized and identified, preventive action can
+be taken. The three basic types, or mechanisms, of stuck pipe were discussed in Section I. These mechanisms
+are differential sticking, formation related sticking, and mechanical sticking. Each of the mechanisms exhibits
+certain characteristics that can be used to help identify a developing stuck pipe incident.
+Most stuck pipe problems are preventable if the operator and the contractor make stuck pipe prevention a
+priority before a well is drilled. It all begins with the well program itself. Obviously pertinent geological data and
+field history are considered when a well is designed. The types of formations to be penetrated and the anticipated
+formation pressures are always predicted. Each well interval can be analyzed from the standpoint of stuck
+pipe prevention. An alert driller who is properly trained in stuck pipe prevention can save a well. Nowadays,
+sophisticated downhole tools may be run in the work string. These tools can relay drilling data to the surface in
+real time but the data does little good if it is not properly interpreted and appropriate action is not taken.
+
+
+
+
+
+In most drilling operations a driller is given instructions to achieve optimum rates of penetration (ROP). These
+include the weight to be run on the bit (WOB), rotary rpm, and the circulating pump pressure (or pumping
+rate). The idea is that if these parameters are maintained within certain tolerances an experienced driller is able
+to “feel the hole” as drilling progresses. When there are significant changes in downhole conditions, some, or all
+of the indications observed on the surface will change. In this way developing stuck pipe incidents can often be
+recognized.
+When the drill string hangs in a vertical well the driller’s weight indicator displays the buoyed weight of the
+string suspended in the fluid. As the driller touches bottom and then slacks off to allow the predetermined
+weight with which to drill, the indicator reflects the change. The actual weight displayed may vary depending
+on the true hookload. It can be seen that in a directional well some of the weight may be resting on the low side
+
+
+
+
+                                                                                                                            17
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 54 ]
+────────────────────────────────────────────
+                 of  the    Overpull Limit       wellbore. However much the displayed weight may be, when the driller lifts
+                                              the string, as when making a connection, there will always be a certain                          Overpull             0
+                                  10           10       amount of overpull, or drag, as the string is lifted. In other words,
+               Up Drag     20                     20                                     400    500             the weight indicator briefly displays some weight greater than the
+                                 MARTIN   Normal Rotating Weight    30                                                        30     actual hookload. Under normal conditions, the overpull will drop                                300  DECKER                                                600
+          Down Drag                                         off as the bit clears the new, gauge hole. Although the total string
+                        40                                                         40     weight increases as a vertical well is deepened and more drill pipe              Set Down                               200                700
+                                             added to the string, the overpull should remain approximately          Set Down Limit    50                     THOUSAND POUND
+                                  100         800            the same provided that downhole conditions have not changed.       Empty Block Weight                  0
+                             60                       There may be some gradual increase in overpull in directional wells,
+                                  70                                         80             but the increases should be nearly constant. Changes in overpull,
+                                          whether sudden or gradual, should alert the driller to some changing
+              condition            downhole.
+              Sometimes the driller finds increasing fill on bottom after making a connection and especially after
+             making a routine round trip. Although fill is not necessarily directly related to increases in overpull,
+            many times it is a signal that something is amiss downhole.
+
+                                   Over
+                                            Pull
+
+
+
+
+
+                                                                   45º
+
+                                                                  0º
+                                                                                     Stuck
+
+
+
+
+
+            Once the rotary is engaged and the correct weight is applied to the bit the rotary torque developed
+                      is displayed to the driller. Depending on the rig, torque may be measured in the electrical current
+               (amperage) drawn by the rotary motor or expressed as work, e.g., foot-pounds. In any case the torque
+                                readout should remain relatively stable at a constant rotation rate (rate per minute or
+               500             rpm) once the weight on bit is stabilized and the fluid circulation rate is established.
+          400       600        Sudden or erratic fluctuations in rotary torque indicate that the rotating drill string
+        AMPS      300               700         is encountering increased resistance for some reason. Often increases in torque while
+                                   rotating and increased overpull on connections warn of impending pipe sticking
+    200                  800    problems.
+                                   Drilling rigs use positive displacement pumps, that is, a specific amount of liquid is
+      100               900
+                                  displaced for each pump stroke. If the strokes per minute (spm) do not change, then
+          0        1000          the rate of return flow at the shale shaker should remain constant. Also, the pressure
+                             drop in the system, which is a result of friction, should remain approximately the
+
+
+
+18
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 54 ]
+────────────────────────────────────────────
+          Shale Shaker                            Cuttings                        Cavings
+
+
+
+
+
+same. It is true that as drilling continues and more pipe is added to the workstring, friction increases slightly but
+this increase is gradual and does not radically change the pressure observed on the standpipe gauge. Sudden or
+erratic changes in pump pressure may be caused by changes downhole. Experienced drillers note these changes
+and try to determine the cause.
+Careful observation of the return flow at the shale shakers can often yield important information about changing
+downhole conditions. Changes in fluid density (mud weight) and funnel viscosity, the size, shape, and volume
+of bit cuttings as well as the changes in return flow, are all good clues as to downhole conditions.
+Taken alone, none of the common symptoms of developing “hole trouble” discussed previously are necessarily
+indicative of stuck pipe. However careful observation and analysis of these warning signs may help identify some
+of the conditions for the various stuck pipe mechanisms. Common symptoms for each mechanism are listed on
+the following pages.
+
+Conditions and Warning Signs of Differential Sticking
+    •   The hydrostatic pressure of the working fluid (mud
+        weight) is significantly greater than the anticipated                                          ViewTop
+        formation pressure                                                                                    StaticFilter
+                                                                                            Cake
+    •   The BHA is across a permeable formation e.g., sandstone
+    •   Drag (overpull) is increasing after connections                        Formation                     HSPHSP
+                                                                                                   Pressure            4”           50005000
+    •   Rotary torque is increasing                                              4000 psi                                   psipsi
+    •   Circulating pressure is not affected
+    •   The string begins to stick any time it is stationary                         Low                                                                                                           Pressure
+    •   Decrease in overpull after reaming                                                Area
+
+                                                                                                                   Side
+                                                                                                           View
+Conditions and Warning Signs of Formation-Related
+Sticking                                                                                                                             Pull
+1.  Geopressured Sticking                                                                                               Over                            4”
+    •   Large, brittle cuttings at the shale shaker
+    •  High drag (overpull) on connections
+                                                                                                                                                                                1200 sq in
+    •   Restricted returns                                                           Stuck                                                 ContactArea
+                                                                                                                                                                     Differencial              25’
+                                                                                                                                                                                                 (300”)    •   Increase in pump pressure                                                                                       1,200,000Force lbs
+    •   Increased rotary torque                                                 Sand
+                                                                                         4000 psi
+    •   Pipe sticks shortly after pumps are shut down
+
+
+
+
+
+                                                                                                                            19
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 54 ]
+────────────────────────────────────────────
+                                                                                                                                                         Pull
+                                                                    Hydrostatic                                            Over
+                                                 Formation     Pressure     5000                                                  Pressure                       psi                                                         5000 psi                                               Stress
+                                           Crack
+
+                                   5500
+                                              psi         5500 psi                            Pack                                         Stress                                                 Off
+                            HSP          Pore
+                                              Pressure                                                                                                             Stuck
+
+                                        Hole
+                                           Wall
+
+
+
+
+
+                                                                               Reactive Formations
+        2.  Reactive Formations
+             •   Large clumps of clay (gumbo) at the shale shaker
+             •  ROP slows due to less weight on bit
+             •  BHA packed off with balled clay
+             •   Increased pump pressure
+             •   Increased rotary torque due to reduced annular diameter
+             •   Circulation is not possible
+             •   Increase in drag (overpull)
+
+
+
+
+
+                   Shale                                        1 Day                               3 Days                                     Pull      5 Days                  Breaking
+                    Apart                  Exposure                                                           Clay                                                                               Exposure                                   Over      Exposure                                                                    Balls
+
+                        Water
+                                                                                                                        Stuck
+                       Absorbed                                                        Pack                                                                                            Off
+                      By Shale
+
+
+                      Hole
+                        Wall
+
+
+
+
+
+20
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 54 ]
+────────────────────────────────────────────
+3.  Unconsolidated Formations                                   Unconsolidated Formations
+    •  High drag (overpull) on connections
+    •   Increased pump pressure
+    •   Unconsolidated, un-cemented sands in the cuttings
+                                                                                                                             Pull
+    •  When stuck, circulation is not possible
+                                                                                                                             Over    •   Pipe sticks shortly after pump is shut down
+
+
+
+
+
+                                                                               Pack                Stuck
+                                                                                               Off
+
+
+
+
+                                                                      Plastic Formations
+4.  Plastic Formations
+    •   Increased/high chloride content in
+        the drilling fluid                             Over                            Weight                                                           Pull                            Formation    •  High drag (overpull) at connections
+    •   Increased pump pressure                          Plasticor ShaleSalt
+    •   Rotation                        is possible but only with
+        high torque                                                                                   Stuck            SqueezingForce
+    •  ROP decreases
+    •   Pipe sticks shortly after the pump is                                                      Stuck                                                                                SqueezingForce        shut down
+
+
+
+
+                                                            Fractured Formations
+5.  Fractured Formations
+                                                                                                               Pull    •   Large, blocky cuttings at the shale shaker
+
+                                                                                                                       Fractured    •   Hole fill on connections                                                                Over                Limestone
+    •   Possible fluid loss (or gain)                                                                                           Stuck
+    •   Sudden increase in drag                                       Bridged
+    •   Sudden increase in torque
+
+
+
+
+
+                                                                                                                            21
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 54 ]
+────────────────────────────────────────────
+      Conditions and Warning Signs of Mechanical Sticking
+        1.  Keyseats
+             •   Highly deviated wells
+             •   Erratic overpull
+             •   Severe doglegs in the borehole
+             •   Circulation is normal
+             •   Pipe sticks while on trips in or out of the well
+
+                                                 Keyseats
+
+
+
+
+
+        2.  Wellbore Geometry                                                                         Wellbore Geometry - Doglegs
+             •   Sudden, erratic overpull
+             •   Problems at certain specific depths                                                                         Pull
+             •   Pipe sticks after a change in bottomhole assembly                                             Over
+             •   Pipe sticks during trips out of the hole                                                    Stuck
+
+                             Wellbore Geometry
+                                                                                                       Drag
+
+
+
+
+
+                                                                                               Drag
+
+
+                                                                                                                           Stuck
+
+
+
+
+
+22
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 54 ]
+────────────────────────────────────────────
+3.  Undergauge Hole
+    •   Undergauge bit
+    •   Undergauge stabilizers
+    •   Reduced ROP
+    •   Bit takes weight before touching bottom when running in the hole
+    •   Rotation is difficult if not impossible
+    •   Cannot pull or rotate out of the stuck spot                                                                          Down                                                                                                                                                                                                                                                               Weight                                                                                                                             Set                                                                                                                             Abrasive
+                                               > 40°                                         Sandstone
+
+
+
+
+
+                                                                                                     Stuck
+
+
+
+     In vertical holes cuttings fall        In deviated holes, cuttings also fall
+      vertically.                               vertically, but form cuttings beds
+                                 where they meet the wellbore wall
+                                and then “avalanche” downhole.
+
+
+
+4.  Inadequate Hole Cleaning
+    •   Increased pump pressure
+    •   Spikes in pump pressure
+    •   Drag (overpull) is reduced when pumping
+    •   Decrease in amount of cuttings returning at the shale shaker
+    •  May see increase in pump pressure
+    •   Increase in torque
+    •   Decrease in ROP
+                                                                                                                                 Pull    •   Excessive drag (overpull) on connections and trips
+    •   Lost circulation                                                                                               Over
+                                                                                                               Hard
+    •   Pipe sticks shortly after the pump is shut down                                                     Formation
+
+                                                                                              Stuck
+5.  Junk
+    •   Missing equipment from the rig floor
+    •   Metal shavings at the shale shaker
+    •   Sudden, erratic rotary torque
+    •   Sudden increase in drag
+    •  ROP decreases
+    •   Pipe sticks shortly after a failure of downhole equipment
+
+
+
+                                                                                                                           23
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 54 ]
+────────────────────────────────────────────
+        6.  Cement Problems
+             •  Cement blocks, fragments at the shale shaker
+             •   Erratic rotary torque
+             •   Increase in drag
+             •   Soft (green) cement in the returns at the shale shaker
+
+                                         Cement Problems
+
+                                       Down                                                                                                      Pull
+                             Set                                                                                                      Over
+
+
+
+
+
+                                               Pump                       Flash
+                                                             Pressure                     Set
+                                                                                                                      Stuck
+                     Soft                                                                                     Firm
+              Cement                                                                      Cement
+
+
+
+
+
+        7.  Collapsed Casing
+             •   Bottomhole assembly hangs up when running into the well
+             •   Caliper logs indicate casing collapse
+                                              Collasped Casing
+
+
+
+
+
+                                                           Squeezing
+                                                                           Salt
+
+
+
+
+                                                    Drill Pipe
+
+
+                                    Casing
+
+
+
+
+
+                             BHA
+
+
+
+
+
+24
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 54 ]
+────────────────────────────────────────────
+Stuck Pipe Prevention                3
+Planning a Stuck Pipe Prevention Program
+An effective stuck pipe prevention program can be compared to a good football team. The various members of
+the team have separate responsibilities which, when put together as a whole, results in winning the game and all
+members of the team share the benefits of winning.
+The following chart lists job positions for a typical crew on a drilling rig. All crewmembers are also members
+of the stuck pipe prevention team. Each team member must understand his or her role in preventing stuck
+pipe if the plan is to work effectively. Since there is a great variety in drilling rigs and drilling operations, some
+operations do not have all the positions listed; some have more, some less. In any case, the drilling supervisor
+and toolpusher will assign the duties and responsibilities according to the specific needs of the job.
+
+Drilling Manager/Engineer
+A drilling operation only begins after an overall well plan has been developed. The operating company usually
+assigns a manager working at the company office, to head up the project. The manager receives constant reports
+and updates from the field. As drilling progresses, the manager, conferring with engineers and geologists, offers
+guidance as needed throughout the entire project.
+
+                           Drilling Manager/Engineer
+
+                                Drilling Supervisor
+
+
+      Mud Engineer       Toolpusher       Mud Logger      Directional Driller
+
+
+                                        Driller
+
+                            Assistant Driller
+
+                           Derrickman
+
+                           Floorman
+
+                        Shakerman
+
+
+Drilling Supervisor
+The drilling supervisor, usually called the company man, is employed by the operator to oversee the daily
+operations on the rig and reports to manager(s) at the home office. The drilling supervisor manages the entire
+field operation. With regard to a stuck pipe prevention plan, the drilling supervisor is the team leader. As
+leader, all pertinent drilling data is relayed up the established reporting chain to him/her. The drilling supervisor
+consults with, and advises the toolpusher and service personnel throughout the drilling operation.
+
+
+
+                                                                                                                            25
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 54 ]
+────────────────────────────────────────────
+                                                                                                                                             - Feedback from Rig
+                                                                                                                                             - Daily Drilling Report
+                                                                                                                                             - MWD & Electric Logs
+                                                           Drilling              RIG
+                                                     Engineer
+                          TEAM
+                   - Historical Data                - Drilling Fluids
+                   - Predictive Data                - Specialist Service Companies
+                   - Actual Data                     - Advise from Sr. Drilling Supt.                                              - Drilling Program
+                                                         - Company Personnel Consultation
+         Gathering              Interpretation       Communication
+
+      Toolpusher
+       The toolpusher, employed by the drilling contractor, is responsible for the rig and all the contractor’s equipment
+      on location. All contractor employees (drillers and crews) report to the toolpusher. The toolpusher works closely
+        with the drilling supervisor in order to carry out the operator’s well program. With regard to a stuck pipe
+        prevention plan, the toolpusher is responsible for seeing that drillers understand their role in the plan and that
+           all members of the drill crews are trained to their level of responsibility.
+
+        Driller
+        Since a drilling operation goes on around the clock, there is always a driller and his crew on shift (tour). It is
+        the driller who actually operates the drilling equipment and therefore he is the person who is in a position to
+        detect symptoms of a potential stuck pipe problem first. The driller is directly responsible for the safety and
+       performance of his crew. Rig floor housekeeping, efficient pipe handling practices, and good record keeping
+         are all part of the driller’s job. Experienced drillers learn to “feel the hole” or “listen to the hole”. In other
+        words, drillers monitor a host of data which, when properly analyzed, can help to estimate changing downhole
+        conditions.
+         Shift change is a critical time on the rig floor. Communication between drillers at shift change is crucial. It
+         requires more than passing hard data. Good drillers chat about all they have experienced during their shift
+        before leaving the floor at the end of their shift. Some companies require drillers to use a standardized “handover
+        note”. This is a good idea because a lot can happen in a long, hard shift. It’s asking a lot of a tired driller to
+       remember everything that went on during the past 8 or even 12 hours.
+        Rigs may use a conventional rotary table and kelly system in which drilling progresses by drilling one joint of
+        pipe at a time, but some rigs are fitted out with complex top drive systems. Top drives are similar to rotating
+         swivels but they are much larger and stronger. Using a top drive, the driller picks up and drills with an entire
+        stand, often three joints of drill pipe.
+      Top drive systems offer many advantages over conventional kelly systems, but they do cause a driller to think
+         differently with regard to stuck pipe. For example, circulating and back reaming tight spots on trips can be done
+        with a top drive but care must be taken so that back reaming does not mask a developing problem. The bit is
+      much closer to bottom on connections when using a top drive and that may limit the use of jars. A top drive
+         creates greater drillstring vibrations that can result in accelerated drillpipe fatigue. Lastly, special care must be
+        taken when cutting long, 90-foot cores.
+
+
+
+
+
+26
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 54 ]
+────────────────────────────────────────────
+27
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 54 ]
+────────────────────────────────────────────
+        Rigfloor instruments and gauges available to the driller include:         A             170  160
+                                                                                                                                   180          150
+                                                                                                                                40                 140
+                                                                                                                                          500
+                                                                                                                             30     400                                                                                                                                               600                                                                                                                       MARTIN
+                                                                                                                                                        120       A.     Weight Indicator                                                                             20        DECKER        130
+               Measures suspended weight of the drill string. It is the                           10     300               700    110
+                 indicator of overpull (drag) when making connections                            0     200               800   100
+                or tripping as well as detecting cuttings or “fill” falling                             10                           90
+                 to bottom.                                                                                         20    100   0   900    80
+                                                                                                                                 30               70
+                                                                                                                                      40   50   60
+
+                                                B       B.     Geolograph Recorder:
+               Records various drilling parameters, most importantly, ROP,
+               hookload, rotary torque, and pumping rate. Charts from a
+               geolograph are included as part of the permanent record of
+                the well.
+
+
+
+                                                C       C.    Mud Pump Pressure Gauge or Standpipe Gauge:                                     3000
+               Measures pump pressure on the drill pipe. Also referred to as                2000          4000
+            “Pump Pressure” or “Standpipe Pressure”. Pump pressure is a
+               primary indicator in determining the potential for stuck pipe
+              and defining which stuck pipe mechanism is likely.                          1000              5000
+
+
+                                                                                                      0      6000
+                                                                                                              psi
+
+                                                D             50
+       D.    Mud Pump Stroke Indicator:
+                                                                SPM              Counts the number of strokes or cycles (SPM) being produced
+                                                                                              25                     75              by the mud pumps each minute. When analyzed in conjunction
+               with pump pressure, the stroke counter can be used to detect
+               changes that occur downhole.
+
+                                                                                                   0            100
+
+
+                                                    E
+                                                                                                         500
+       E.     Rotary Torque Indicator:                                                         400       600
+                                                                 AMPS
+               Measures relative torque developed by the rotary table or top               300               700
+                 drive to rotate the drill string. Rotary torque may be in foot/
+                                                                                              200                  800
+              pounds or amperes (amps) depending on  rig equipment.
+                 Increasing or erratic torque is a definite indication of changing                                                                                                100               900
+                hole conditions.
+                                                                                                    0        1000
+
+
+
+
+28
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 54 ]
+────────────────────────────────────────────
+Nowadays many drilling operations use measurement while drilling (MWD) or logging
+while drilling (LWD) tools in the drill string. These sensitive tools relay data to the driller
+and other locations on the site via computer screens. They present accurate, real time data.
+These sophisticated tools can also be used to transmit directional information and changes in
+formation pressure as well as monitoring and reporting common rigfloor data.
+
+Assistant Driller
+The assistant driller (A/D) is often a driller-in-training. The assistant driller’s primary task is to
+aid and assist the driller during rig operations. The A/D relieves the driller from time to time
+and also keeps records, handles technical details, and, in general, keeps track of all phases of
+the operation. The A/D serves as the driller’s “eyes and ears” as he/she moves about the location
+checking on various tasks delegated to the drill crew by the driller.
+
+Derrickman
+The derrickman handles the upper end of the drill string from a platform up in the derrick
+(monkey board) as it is being hoisted out of or lowered into the hole. The derrickman is also
+responsible for maintaining the mud pumps and associated circulating equipment. On most
+land rigs he/she is also responsible for maintaining the drilling fluid, a vital component of any
+stuck pipe prevention program. Larger rigs may have a special crewmember assigned to the mud system but that
+person usually reports directly to the derrickman.
+
+Shakerman
+Some rigs assign one member of the driller’s crew to maintain the shale shakers and any mud separation
+equipment that might be located in the shaker area. The shakerman man usually also monitors a trip tank
+during trips. Observing and analyzing returns at the shakers can play a vital role in stuck pipe prevention. The
+crew member assigned to watch the shakers has the responsibility of keeping the driller and service personnel
+informed of returns at the flowline.
+
+Floorman
+Reporting directly to the driller, the floormen, or roughnecks do the heavy work on the drillfloor. A good stuck
+pipe prevention program stresses cross training of floormen. For example, working in the shale shaker or mixing
+mud material. It is the floormen who learn and perform good rigfloor housekeeping practices to the company
+standards.
+
+Mud Logger
+Mud loggers are usually graduate geologists who contract out to the operator. Working in an enclosed unit fitted
+with various instruments and testing equipment, they monitor all drilling
+trends and create a log, which is essentially a picture of technical data that
+presents essential information as a well is drilled. Mud loggers also collect
+and analyze drilled cuttings from the shale shakers. It is the mud logger
+who identifies changes in formation as drilling continues. Oftentimes the
+data gathered by a mud logger is used to predict the potential for stuck
+pipe incidents.
+
+
+
+
+
+                                                                                                                            29
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 54 ]
+────────────────────────────────────────────
+                         DRILLER HANDOVER NOTES
+
+Date:                                         Driller:                                 A/D:
+
+Well:                                                        Rig:
+
+CSG OD:                   Shoe Depth:                     Shoe Test:                 PPG:
+
+Initial Max Overpull:                                                                     #1 SPR       #2 SPR
+
+Jar Type & Size:                                                     SPM  Press  SPM  Press
+
+Mech. Jar Trip Load Up:                              DN:
+
+Air Weight Below Jar:                            Ten/Comp:
+
+Jar Max Overpull:                            Depth of SPR:
+
+
+Tour Start Time:                         To:                        Operation:
+
+Hole ID:                Depth: FM:                            To:                        Last Trip Depth:
+
+Hole Angle @ TD:           KOP Depth: FM:                            To:                       Deg/100::
+
+Mud Wt.                      Funnel VIS:                     PV:             YP:            GELS:        /       /
+
+Pump Press                           #1 SPM:                  #2 SPM:               GPM:
+
+ROT Wt:                             P/U Wt:                             S/O Wt:
+
+RPM:                   Off/B TQ:                 WOB:                           On/B TQ:
+
+Press Trend:                           Drag Trend:                      TQ Trend:
+
+Shaker Evidence:
+
+Notes:
+
+
+Time: FM:                         To:                        Operation:
+
+Hole ID:                 Depth: FM:                          To:                         Last Trip Depth:
+
+Hole Angle @ TD:           KOP Depth: FM:                            To:                       Deg/100::
+
+Mud Wt.                      Funnel VIS:                     PV:             YP:            GELS:        /       /
+
+Pump Press                           #1 SPM:                  #2 SPM:               GPM:
+
+ROT Wt:                             P/U Wt:                             S/O Wt:
+
+RPM:                   Off/B TQ:                 WOB:                           On/B TQ:
+
+Press Trend:                           Drag Trend:                      TQ Trend:
+
+Shaker Evidence:
+
+Notes:
+
+
+
+30
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 54 ]
+────────────────────────────────────────────
+Time: FM:                         To:                        Operation:
+
+Hole ID:                Depth: FM:                            To:                        Last Trip Depth:
+
+Hole Angle @ TD:           KOP Depth: FM:                            To:                       Deg/100::
+
+Mud Wt.                      Funnel VIS:                     PV:             YP:            GELS:        /       /
+
+Pump Press                           #1 SPM:                  #2 SPM:               GPM:
+
+ROT Wt:                             P/U Wt:                             S/O Wt:
+
+RPM:                   Off/B TQ:                 WOB:                           On/B TQ:
+
+Press Trend:                           Drag Trend:                      TQ Trend:
+
+Shaker Evidence:
+
+Notes:                                                                                    #1 SPR       #2 SPR
+
+                                                               SPM  Press  SPM  Press
+
+
+
+
+                                     Depth of SPR:
+
+
+
+ Time: FM:                       Tour End Time:                        Operation:
+
+ Hole ID:                 Depth: FM:                          To:                         Last Trip Depth:
+
+ Hole Angle @ TD:           KOP Depth: FM:                            To:                       Deg/100::
+
+ Mud Wt.                      Funnel VIS:                     PV:             YP:            GELS:        /       /
+
+ Pump Press                           #1 SPM:                  #2 SPM:               GPM:
+
+ ROT Wt:                             P/U Wt:                             S/O Wt:
+
+ RPM:                   Off/B TQ:                 WOB:                           On/B TQ:
+
+ Press Trend:                           Drag Trend:                      TQ Trend:
+
+ Shaker Evidence:
+
+ Problem Form(s) Drilled:
+
+
+
+ Problem Form(s) Prognosed:
+
+ Notes:
+
+
+
+
+
+                                                                                                                                    31
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 54 ]
+────────────────────────────────────────────
+                                                                                                                  Junk  Salt
+                          o o
+                                                FT:                                              Cmt.        Seat
+                                                                   Length:  DN:                                                                  Trend:                  Soft   Ledges Key                                                                                                     Length:             WT:                                              TQ    o o o           Unsuccessful                                                       Design:                                 S/O           o            Time:              Kelly                                                                                                                                               Form.  Hole      o BHA                                                                                               Trend:                    Hour:                                                                                                                                                            Blocks                                                Size:     Load:UP:                                   OD/Grade:                                                                        Size:                       TQ:   Press                                                                                                                                                                                                                                     Reactive   U/Gauge  Cmt.                   DC   Trip        DP                       Change                 Jar                                            ON/B    o o o                                                          HWDP                                        Jets:                                                                                                                                                                                                                                                                                                                                               Successful                Tour      Drive                                     WT:                                                                                                                                                                            Solids   o                    Top                                     P/U
+                                                FT:  FORM                                                                                                   GPM:      o                                                                     TQ:                               Settled      Geo-pressured     Frac/Faulted            Date:                                     Size:                                                                   Length:                                        Type:                                  Data:                 OFF/B            Stuck            Bit                                                                                                                                  Mechanism: o o o   REPORT                                                                                                                                                      Coll.                                                                             Equip:                                                                                                                                                  Technique:                       Data:                                                                                                                                                                                                                                                            Assembly                                                                                                                                                     Press:                                      BHA                                                            WT:    Trend:                #:   Size:   Type:                                   OD/Grade:                                                                                                                                          Differential   Tophole  Stiff                                          Rep:                           String Bit DC  Jar   Other     DP          Operational ROT   Drag   RPM:   Pump        Suspected o o o    Freeing                         Co.    INCIDENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Toolpusher:
+                Supv
+  HOLE        Drlg                                                                                                                                                                                Drag)                 Torque)                      pressure.
+            Date:                                                                                                                                                                                                                                                                                                 versus              backand  TIGHT  Rpt                                                                                                                                                                                                                                                 (Smooth/                             Test:  MD:                                               Sand:                                                                SPM          the                                                                                                     Deg/100’:                                                                                             Inhibitor:                                                                                                                                                     (Erratic/Smooth                                                                                   on                                                                                                                                                                                                                                                                                                                                                                                                                                          lithology,                                Shoe   Trip                            API                                                                                                          Torque)                 Report  PIPE                                      Last       TD:                                                                                                                                           depth                                                                                                                                                                                                                                                 note:                                                                                                                                                                                                                                                                                                                             Possible)             @                                                                                                                                                                                        (Erratic                                                    depths,
+                                  MD:                            pH:                                                                                                stuck                                                                                                                                                                                (Down              (High)  STUCK                                                       Angle                                                                                                                             the
+
+
+                     /                                  KOP                                                                                   at                                                                               Vis:                                                                                                                                                                                                                                                                                                                                                                                               formation                                                    Hole                                                                                                                                                                                Down)          (No)                                  (Unrestricted)                                TVD:                      #2
+                                                                                                                                and                Crew                TVD:                            Fun /                                                                                                                                                                                                                                                                                          (Limited                                                                                                         drillstringwell          Rig:                Drlg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        (Restricted)          theall                                                                                                           Gels:                              Up)
+                                                                                   of                                                                                                                                                                                                                                                                               Possible?                            (No)                DAY:       MD:                                                                                                                                                                                                                                                                                                          Include                                                            Wt:                                                                                              (Limited                                                                                                     Deg/100’:                                                                                                                                                                                                                                                                                                    picture                                Shoe  MD:                                                                                             (No)                                                                                                                                                                                                                     form.                                                                                                                                                                                                                                                                Sticking:                                                                                                                                                                                                                                                Movement                                                                                                                                                                              Symptoms: to                                                                                                                                             dimensions                       CHANGE                                                YP:                                                                 Shoe:                                                                                                                                                                                                                              detailed                                                                                                                        Pipe                                          areport             @                                                                                                                                                                                                                                                                                                                                     Possible?          Trip?                                                                                                                                              Prior
+                                                                                                                                the                                                                             Pipe                                           Possible?                                                                                                                     Jar                                  MD:                   Form(s):                                                                    Evidence:                                                                  Data:                CREW    Data:                                                                                                                                                                       Drawofdrillstring                                                                                                                        Down                                                                 Angle                                                                                                   Type:                        ID:                                                            or                        the                             ID:  KOP            Well:  LAST   Well Csg   Hole #1   Hole     Problem      Mud Mud  PV:    Shaker    Notes:    Stuck Operation Up                Rotation                      Circulation        Will        Note:
+
+
+32
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 54 ]
+────────────────────────────────────────────
+Mud Engineer
+Like mud loggers, mud engineers (drilling fluid technicians) are contracted to the operator. Mud engineers may
+work for a company that also supplies mud material, but many are private consultants that have no economic
+interest in the materials themselves. The drilling fluid is one of the primary communicators directly from the
+bottom of the well. The test results and guidance offered by the mud engineer often reveals a great deal about
+the conditions downhole. He or she occupies a unique position on a drilling location. Mud engineers act on
+behalf of the operator but must rely on contractor personnel to actually perform recommended mud treatments.
+As can be seen, a good prevention program depends on the entire rig crew working together as a team. One
+common component of a successful program stands out. Without good communications the program will be
+less than the best. The team members, each on their own, have certain specific responsibilities. The degree to
+which they are able to carry out these tasks and communicate to supervisors contributes to the program as a
+whole. All information, both good and bad, should be reported to others, whether it is in reports or word of
+mouth. A good way to pass this information on is through the uses of a Stuck Pipe/Tight Hole Incident Report.
+One may be filled out and passed along to the toolpusher and the oncoming crew.
+
+Stuck Pipe Prevention Program
+The most important component of a stuck pipe prevention plan is communication. An effective prevention
+program includes service personnel as well as the rig crew and the operator’s representative. Mud loggers,
+mud engineers, and directional hands have important roles in any stuck pipe prevention program. Although
+there are similarities between the various stuck pipe mechanisms, there are also differences. The following
+discussion keeps with the established pattern of discussing each mechanism separately even though there is
+some overlap in warnings and prevention activities. All drilling programs are made up of compromises. They are
+developed with the hopes of getting optimum results within an established budget. Stuck pipe prevention
+programs are no different. The perfect BHA or the perfect mud weight may not be practical, or even possible.
+Developing a stuck pipe prevention program is a matter of risk assessment and, like the overall well program, is
+the result of trade-offs and compromises. It goes without saying that good drilling and tripping practices and a
+properly maintained mud system are a key element in any stuck pipe prevention program.
+
+Good Drilling Practices
+    •   Always maintain circulation on connections for as long as possible.
+    •   Always maximize pipe motion when in open hole.
+    •   Always begin pipe motion in a downward direction once slips are pulled.
+    •    If pump repairs are necessary stop drilling.
+    •   Monitor and record the depths of higher torque.
+    •    If hole conditions dictate invest in wiper trips. These may be to the casing shoe or only through newly
+         drilled hole.
+    •   Always monitor the shakers.
+    •   Use top drives with care.
+    •   Be prepared to limit penetration rate.
+    •  On floaters use the motion compensator to minimize sudden pipe movements.
+    •   Always leave sufficient room on the kelly to allow jars to operate.
+    •   Never force the kelly bushings into the rotary if fill is encountered.
+    •   Always wipe the hole before making a connection.
+
+
+
+
+
+                                                                                                                            33
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 54 ]
+────────────────────────────────────────────
+     Good Tripping Practices
+             •   Before tripping ensure that the shakers are clean.
+             •   Acknowledge increasing hole drags.
+             •   Monitor and record the depths and magnitude of overpulls.
+             •   Never fight your way into or out of the hole – be patient.
+             •    If possible, always use circulation to work the string through a tight spot.
+             •    Initially limit overpulls to half the drill collar weight below the jars.
+             •   Always insert slips when the pipe is moving in a downward direction.
+             •   Swabbing indicates tight hole.
+             •   In problem sections keep the string moving in the slips.
+             •   Always ream at least the last three singles to bottom.
+             •   Minimize time spent in open hole.
+             •  Know how the jars work.
+
+       Prevention Techniques for Differentially Stuck Pipe
+      (Wall Sticking)
+         Differential sticking occurs when the workstring, usually the BHA, is held imbedded into the wall cake that
+       forms on a wellbore when a permeable formation is drilled. If the hydrostatic pressure of the working fluid in the
+        well is greater than the formation pressure the string is held against the wellbore. If the difference between the
+        hydrostatic pressure and the formation pressure were 100 psi, then every square inch of the imbedded portion
+        of the BHA would have 100 pounds of force holding it against the wall of the hole. The lifting force required
+        to pull wall-stuck pipe free can easily be greater than the tensile strength of the drillpipe. Since the cause of
+         differentially stuck pipe is well known, it is a simple matter to make recommendations in order to avoid the
+       problem. However, it is not always practical, or even possible to follow them.
+       The components of the BHA have a major influence on the potential for differential sticking. The assembly
+        should be no longer than required to achieve the drilling objectives and spiral drill collars are always preferred
+        over a slick assembly.
+        Fluid density recommendations are an important part of any drilling program. The mud weight must be
+         carefully controlled as the bit penetrates permeable formations. The density (mud weight) must be great enough
+        to protect against potential blowouts with a margin for safe tripping, and yet if the mud weight is too great,
+        the drillstring might become differentially stuck. The most damaging contaminate of all drilling fluids is drilled
+          solids. Experienced mud engineers use the shale shakers, desanders, desilters, and perhaps mud centrifuges
+       whenever the fluid is being circulated. The goal is to keep the percentage of low gravity, undesirable solids at a
+         practical minimum. The consistency of the wallcake deposited on the borehole is thought to be dependent on
+       two primary factors, 1) the percentage of undesirable solids in the fluid and, 2) the “water loss” to the formation.
+     When drilling fluid comes in contact with a permeable formation, some of the liquid phase of the fluid is forced
+        into the formation, leaving solids on the wellbore. The liquid that enters the formation is called the water loss.
+           It is reasonable to assume that the lower the water loss is, the thinner the deposited wallcake will be. Considering
+        stuck pipe, the most desirable filter cake would be thin and tough. Mud engineers use special chemicals in
+        order to lower the water loss in tests at the surface. The tests in the mud lab do not necessarily reflect exactly
+       what is happening downhole, but there is a great deal of empirical data that indicates that stuck pipe incidents
+         are reduced when water loss is reduced. Drilling fluid programs often recommend reducing the water loss
+        dramatically before entering a permeable formation in which differentially stuck pipe is considered likely. Even
+       though the percentage of undesirable solids is low, it may take several circulations, or several days, in order
+
+
+
+34
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 54 ]
+────────────────────────────────────────────
+for the mud engineer to achieve the recommended water loss. Chemical treatments must begin before the
+permeable zone is penetrated. Unfortunately, lower water loss often results in lower penetration rates. This is one
+of those trade-offs referred to earlier.
+
+Guidelines for Good Mud Maintenance
+
+
+              Preventative
+              Measure                             Increase      Increase      Increase     Decrease         Tight                    Mud Weight     Viscosity       Gels        Fluid Loss       Hole
+      Cause
+         Differential
+         Sticking
+        Reactive
+       Formations
+        Fractured/
+        Faulted Formation
+        Mobile
+       Formations
+        Unconsolidated
+       Formations
+       Geo-pressured
+       Formations
+       Inadequate Hole
+        Cleaning – High
+        Deviation
+       Inadequate Hole
+        Cleaning – Low
+        Deviation
+
+                         KEY
+
+                                         Improvement
+
+
+
+Attempts to free differentially stuck pipe often call for spotting special chemicals in the annulus across the
+problem area. A thorough prevention program would specify that sufficient amounts of the spotting material be
+kept on location at all times. If possible, plans for mixing a stuck pipe spot should be worked out in advance.
+For example, the pit(s) to be used to mix the spot, the formulation of the spot, special mixing equipment if any,
+should all be considered.
+Even if the bottomhole assembly is optimized and the mud program is executed perfectly, the string can become
+differentially stuck in a permeable zone if good drilling practices are ignored. Once the permeable formation is
+penetrated, the rate of penetration (ROP) must be controlled in order to allow time for the formation of a good
+wallcake and to make sure the annulus is cleaning up as it is drilled. It may be necessary to pause and circulate
+
+
+
+                                                                                                                            35
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 54 ]
+────────────────────────────────────────────
+        the well clean from time to time, especially before pulling out of the hole. Frequent wiper trips are often helpful.
+       Connection time should be kept as short as possible because if conditions are ripe for wall sticking, the string
+         will stick very quickly if it is not kept moving.
+             •   Keep pipe moving whenever possible.
+             •   Rotate string on connections.
+             •  Make frequent wiper trips.
+             •   Maintain careful control of mud weight.
+             •   Use shortest practical BHA.
+             •   Avoid surveying methods which result in pipe remaining static for long periods.
+             •    If necessary, place the jars in the hevi-wate drill pipe.
+
+       Prevention Techniques for Formation-Related Stuck Pipe
+     When a driller experiences increasing fill on bottom after connections and the shale shakers begin to load up
+       with large, misshapen cuttings, it is a good indication that the formation is overpressured. Usually the best way
+        to ease the problem is by increasing the mud weight. The additional hydrostatic pressure will often help support
+        the walls of the hole.
+             •   Control ROP.
+             •   Monitor cuttings carefully.
+             •   Optimize hole cleaning techniques.
+             •  Ream each single.
+             •   Perform regular wiper trips.
+             •   Minimize open hole time.
+             •   Recognize increasing overpull trends and stop drilling until hole is clean.
+             •   Ensure mud specifications are maintained.
+         Soft, reactive shales, like gumbo, may also be overpressured but in this case increased mud weight alone is
+        usually not an effective solution. There may be large chucks of soft clay returning at the shale shakers followed
+       by periods of virtually no cuttings at all. Sometimes chemicals are added to the drilling fluid in order to inhibit
+        the hydration of the swelling formation. Bottomhole assemblies should be as short as practical. Frequent wiper
+         trips often help, and if possible, the length of open hole sections should be as short as possible.
+             •   Minimize the time in the hole.
+             •   Plan regular wiper trips.
+             •   Recognize the potential increase in swab/surge pressures.
+             •  Wipe hole regularly while drilling.
+             •   Use inhibitive mud.
+             •   Limit BHA length.
+             •   Keep open hole sections to a minimum.
+             •   Avoid other open hole operations as far as possible.
+       Unconsolidated formations, such as pea gravel or loose sand are often drilled with a higher viscosity fluid than
+         usual. Careful control of the annular velocity and fluid viscosity is one key to successfully preventing stuck pipe
+        in these sections. Circulating at one depth for a long time will cause large washed out areas that not only increase
+        the potential for stuck pipe, but will also cause problems when casing is run and cemented. Occasional high
+
+
+
+
+36
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 54 ]
+────────────────────────────────────────────
+viscosity pills can be circulated carefully from time to time in order to lift or “sweep” the loose cuttings out of
+the annulus.
+    •   Identify the formation.
+    •   Monitor pump pressure carefully.
+    •   Monitor shale shakers carefully.
+    •   Use high viscosity mud.
+    •   Control penetration rate.
+    •   Avoid excessive periods of circulation opposite these formations.
+    •   Pick up and circulate often.
+    •  Wipe each connection.
+Plastic formations, such as salt domes present unique drilling challenges. Drilling fluids must be designed to
+be nonreactive with the formation. Oil-based muds or saturated salt fluids are common. The drilling program
+usually recommends frequent reaming. Normal tripping practices are modified to accommodate conditions.
+    •   Identify salt domes.
+    •   Monitor chloride content of mud carefully.
+    •   Monitor resistivity of mud carefully.
+    •   Condition mud prior to penetrating the formation.
+    •  Make round trips slowly with frequent reaming.
+    •   Minimize open hole time.
+    •   Consider the use of eccentric PDC bits.
+Tripping speed should be reduced in highly fractured or faulted formations. Care must be taken not to knock
+large chunks of rock off the wall of the hole. Drill string vibration should be minimized as much as possible in
+these formations.
+    •   Control ROP.
+    •   Monitor the shale shakers carefully.
+    •   Modify hole-cleaning techniques.
+    •   Clean out annulus at a slow, controlled rate (remember – lost circulation potential).
+    •   Minimize surge pressures – restrict tripping speeds.
+    •  Run a jar in the upper assembly.
+    •   Be prepared to wash/ream when tripping in.
+    •   Design BHA to minimize risk of ledge formation.
+
+Prevention Techniques for Mechanically Stuck Pipe
+A keyseat is a groove worn into one side of a wellbore due to a sharp change in direction. If possible, changes
+in hole inclination and azimuth should be limited to no more that 3 degrees per 100 foot of hole length.
+Directional engineers must confer with drillers often, keeping them informed of the calculated keyseat severity.
+Potential keyseats should be recognized early and wiped (reamed) before the problem becomes severe.
+    •   Avoid severe hole deviation.
+    •  Run keyseat wipers in the BHA.
+    •   Consider BHA design/configuration.
+
+
+
+
+                                                                                                                            37
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 54 ]
+────────────────────────────────────────────
+             •   Minimize length of rathole below casing.
+             •    If problem recognized attempt to cure before drilling ahead.
+             •    If problem is anticipated have a surface jar on location.
+       Weather keyseats develop or not, the potential for stuck pipe is always increased in high angle wells or when
+        wellbore geometry changes for any reason. Drillers must look out for tight spots and ream or back-ream tight
+         places before tripping out of the hole. This is especially true after changes are made in the bottomhole assembly.
+        Great care should be taken when moving a changed BHA into the well for the first time.
+             •   Avoid severe hole deviation.
+             •   Minimize doglegs to programmed limits.
+             •  Ream the hole often.
+             •   Minimize changes to the BHA.
+             •   Whenever possible simplify BHA configuration.
+             •   Consider a hole opening trip.
+             •  Do not run stabilizers above the jar.
+       Hard, abrasive formations may tend to wear away the gauge protection on the bit if the drilling assembly has
+       been in the hole for a long period of time. Some of the newer polycrystalline diamond compact (PDC) bits are
+        designed for long life in hard formations, but in time, the gauge protection on these bits will also wear. It goes
+        without saying that all bits should be gauged when they are pulled out of a well. If a new bit is suddenly jammed
+        into an undergauge section the result will likely be an expensive stuck pipe problem. To avoid this problem, trips
+        should be made slowly, tight spots reamed, and care taken when running back into the well.
+             •   Identify hard/abrasive formations.
+             •  Make trips slowly.
+             •  Ream frequently.
+             •  Gauge bit and stabilizers accurately going in and coming out of the hole.
+             •   Never attempt to force.
+             •   Never attempt to force bit to bottom.
+             •   Select bits with good gauge protection.
+             •   Be careful when running PDC bits after TRI-cone bits.
+       Sometimes stuck pipe can result from inadequately cleaning the hole while drilling. Controlling the drilling
+         rate is one way to help. Also, if hole cleaning is a problem, the well should be circulated until the shale shakers
+        clean up before starting a trip out of the hole. Rotating the drillstem helps in cleaning drilled cuttings out of
+        the annulus because as the pipe rotates, it causes some of the cuttings that are near the walls of the hole to move
+       toward the center, where the annular velocity and the flow pattern is more efficient. Although downhole motors
+         are remarkable tools and have greatly improved directional drilling, hole cleaning can become a problem when
+        the string is not rotated. The string should be rotated while circulating before tripping out of a well if rotation
+         will not affect the directional work.
+             •    If a downhole motor is in string, rotate before trips.
+             •   Circulate bottoms up frequently and before trips – ensure shakers are clean.
+             •   Keep pumping whenever possible.
+             •   Always reciprocate and rotate pipe while circulating.
+             •   Maintain correct mud specifications.
+             •   Maintain programmed annular velocities.
+
+
+
+38
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 54 ]
+────────────────────────────────────────────
+    •   Select the optimum (recommended) viscous sweeps (directional /straight holes).
+    •   Control ROP.
+    •   Recognize the significance of hole deviation.
+    •   Plan regular wiper trips.
+Junk is the general term used to describe anything that is left in a well accidentally. It might be part of the drillstring
+itself, components of a downhole tool, or even an item inadvertently dropped into the well from the rig floor.
+There is virtually no excuse for dropping hand tools or other small items into a well. This is one hundred percent
+avoidable. The hole should be covered at all times when the drillstem has been removed and no other tools are
+being run. There is no replacement for a properly trained crew and good rigfloor housekeeping. Careful inspection
+of all equipment before it is run into a well may alert supervisors to the potential of leaving junk in the hole. If the
+string is stuck on junk there are actually two problems, freeing the pipe and fishing out the junk.
+    •  Good rigfloor housekeeping.
+    •   Inspect all equipment before running it into a well.
+    •   Leave hole covered as long as possible.
+    •    Install drill pipe wiper on the hole whenever possible.
+Sometimes chunks of cement can break off from around the casing seat and fall to the bottom of a well.
+Although drillable, these chunks may be quite large and if the BHA gets pinched between the junk and the
+casing or a hard formation, it may be impossible to pull it free. Limiting the rathole below casing as much as
+possible is a good practice since there is less chance of having long sections of cemented hole.
+    •   Allow sufficient curing time for cement.
+    •   Use good cementing practices.
+    •   Minimize rathole below casing shoe.
+    •  When drilling casing ratholes or cement plugs always ream section thoroughly before drilling ahead.
+    •   Beware when tripping back through the casing shoe or past cement plugs.
+Running the drillstring into green (unset) cement is another problem that has occurred. When the pump is
+started up, the additional pressure may cause the cement to set, effectively cementing the string in the well.
+Although it seems unlikely that this could happen, if sufficient time is not allowed for the cement to harden the
+driller may not be able to detect any unusual change on the weight indicator as the pipe is lowered into the well.
+The green cement is actually liquid and may take no significant weight off the hookload.
+    •   Allow sufficient curing time for cement.
+    •   Pretreat the mud if green cement is suspected.
+    •  Do not rely on the weight indicator.
+    •  Know the theoretical top of cement.
+    •   Begin circulating 2 or more stands above the estimated top of cement.
+    •   Check for cement returns at the shakers.
+    •   Restrict ROP when cleaning out cement.
+    •   Use good cementing practices.
+More than one string of pipe has been stuck in collapsed casing. The well program should call for the casing
+to be callipered if it is subject to wear for a long time. The collapse rating should be downgraded with a safety
+margin as the wall thickness is worn away. Trips into a well in which the casing has been subject to wear should
+be made carefully so as not to jam the bit into a narrow, collapsed portion. Among other things, casing is a
+vitally important part of handling well control incidents and therefore it must be protected from severe damage.
+
+
+
+
+                                                                                                                            39
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 54 ]
+────────────────────────────────────────────
+             •   Avoid casing wear when possible.
+             •   Use only smooth, polished hardbanding on tool joints.
+             •   Use good cementing practices.
+             •   Caliper casing after long periods of wear.
+             •   Review inflow and production testing requirements. Modify if casing wear is evident while drilling.
+           It can be seen that an effective program for preventing stuck pipe must include all personnel from the engineers
+       and geologists who design the well program, to a young floorhand who may be assigned to watch the shale
+         shakers. A complete program includes good drilling practices and housekeeping, things that should be common
+      on all rigs, plus technical information about the formations and how they will be drilled. The one, consistent
+       component of an effective plan is free, open, and constant communication from top to bottom and bottom to
+         top. The initials, C. A. R. E. can be used to sum up the main components of a good stuck pipe prevention plan.
+            •  C is for Communication
+               Constant two-way communication between rig supervisors and crewmembers is essential if a prevention
+              program is to be successful.
+            •  A is for Awareness
+                  All personnel involved in the operation must understand their individual responsibilities and be
+                 constantly on the lookout for potential warning signs of stuck pipe.
+            •  R is for Reporting
+                     It goes without saying that written reports are important, but verbal reports should also receive high
+                   priority. It does little good if a worker notices some change at the shale shakers but does not report the
+               change to his supervisor.
+            •  E is for Education
+                     If a serious stuck pipe prevention plan is adopted, all personnel must be trained in their respective
+                   responsibilities. No one can be expected to know what to do and how to do it if they are not properly
+                  trained.
+
+
+
+
+
+40
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 54 ]
+────────────────────────────────────────────
+NOTES
+
+
+
+
+
+                                                                                                                            41
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 54 ]
+────────────────────────────────────────────
+       NOTES
+
+
+
+
+
+42
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 54 ]
+────────────────────────────────────────────
+Freeing Stuck Pipe                4
+It would be wonderful if there were a magic formula that would provide a standard guide for freeing all stuck
+pipe. Unfortunately, no such formula exists. However, the industry has gathered a tremendous amount of stuck
+pipe data over the years because stuck pipe has been a major problem since rotary drilling was first developed,
+more than 100 years ago.
+Analysis of statistical data, specific field experience, and advances in equipment and engineering know-how,
+have enabled us to approach pipe sticking problems in a systematic manner. The first response is always for the
+driller to attempt to free the pipe mechanically. Freeing force should be applied in the opposite direction from
+the direction the pipe was moving immediately before it got stuck. If tripping into the well, try overpull and
+jar upwards.  If the pipe becomes stuck while tripping out, slack off and jar downwards.  If possible, circulation
+should be established with consideration given to the effect that circulation might have on jarring.
+When working the pipe, downward, torque is applied (about 3/4 turns per thousand feet) to the stuck point,
+and then the pipe is slumped, allowing the jars to fire downward. When working the pipe upwards it must first
+be decided whether to apply maximum force from the start, or to increase the pull gradually. If gradual force
+application is thought to be best, the pipe is worked to about 40/50 thousand pounds over the force required to
+trip the jars. The force is increased gradually over an hour. Care must be taken to ensure the maximum overpull
+is not exceeded. If it is decided to work with maximum force initially, the pipe is worked allowing the jars to fire.
+The pipe is then worked to the limit with the jars uncocked.
+As the driller works the pipe, an estimation of the stuck point should be made and the stuck mechanism should
+be identified. The stuck point may be estimated by running a wireline free point instrument or by pipe stretch
+calculations. Appendix I can be used to determine the stuck pipe mechanism. The next step usually involves
+making an estimate of how much time can be spent on freeing activities before the cost of the operation
+precludes continuing, and some sort of abandonment plan is adopted.
+The time estimates are purely economic and do not take into consideration safety or local regulations. Obviously
+these concerns outweigh any rigsite operation. More than one mathematical model has been developed to
+determine the feasibility of freeing activities. The math, although elemental, requires information not readily
+available to contract employees. The oil company, or operator, tracks the various cost estimates associated with
+the drilling program. In this computer age, involved economic and engineering computations can be completed
+in the time it takes to enter the numbers.
+The equation below has been used to determine the economical time limit to allot for freeing stuck pipe. It
+must be remembered that when using the formula, specific field experience might affect the actual decision to
+abandon or sidetrack a well. The equation is shown here only to provide an example.
+
+     ND = (VF + CRD) ÷ CD
+
+Where:
+     ND = Maximum number of fishing days
+       VF = Total replacement value of fish in hole ($)
+      CRD = Total estimated operational cost to re-drill interval
+           (i.e. sidetrack), $
+      CD = Daily operational cost plus additional daily cost of fishing tools and services, ($/day)
+After the estimated optimum time has elapsed, an alternative plan to sidetrack or abandon the well is adopted.
+
+
+
+                                                                                                                            43
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 54 ]
+────────────────────────────────────────────
+       Freeing Differentially Stuck Pipe
+       The differential mechanism is well understood and usually an experienced driller recognizes the tendency to
+         stick when drilling ahead and making connections. If the pipe does become stuck the driller’s first action should
+       be to slump the pipe and try to rotate. Once the pipe becomes firmly stuck the only way to free it is to relieve
+        or equalize the pressure differential that is holding the string, usually the bottomhole assembly, against the wall
+        of the hole.
+       Sometimes the drillstring can be freed quickly by unbalancing the annulus/workstring configuration of a U-tube.
+       Although this method is often effective, it should never be considered if there is any chance of inducing a well
+        control incident. Consideration should be given the possibility of shocking unstable formations. U-tubing
+       cannot be used if there is a float (check valve) in the drill string. The technique involves reversing a calculated
+       volume of light fluid into the annulus through the choke line and then allowing the drill string to vent through
+        the standpipe. The back-pressure trapped in the choke line is then bled off periodically while monitoring returns
+       and working the drill string. If the pipe comes free or begins to move, every effort should be made to keep it
+       moving and circulate the well with the original fluid.
+        There are a variety of stuck pipe release agents (PRAs) available from fluid service companies and their technicians
+         usually make recommendations as to the best agent to use considering the specific problem as well as any
+        environmental concerns. Unlike U-tubing, there are no hydrostatic pressure reduction concerns when using
+       PRAs. Some general guidelines for spotting PRAs are listed on the following page, however a drilling fluid
+        technician will make specific suggestions according to the spotting material and techniques tailored to the
+         specific job.
+             •  PRAs are usually weighted up to a density 1 to 2 pounds per gallon greater than the working fluid in the well.
+             •   The volume of the spots should be about 1½ times the annular volume of the uppermost permeable
+               zone in which the pipe is stuck.
+             •  A low-viscosity spacer should be pumped ahead of the spotting pill. The spacer should be compatible
+               with the working fluid as well as the PRA. Since the spacer is usually unweighted, well control issues
+              must be considered.
+             •   The spacer and the pill should be spotted at the maximum rate possible in order to try to get the spot
+               behind the stuck pipe.
+             •  Once the pill is in place, the pipe is worked by slacking off, applying right hand torque. The torque is
+               then released and the string pulled upward. The goal is to work the stuck point down the hole a little
+                  at a time until it pulls free.
+             •   The pipe is soaked until the pipe is free or until some other decision has been made. Circulating the pill
+               out and then spotting another pill is not considered effective.
+       Data indicates that best results are obtained if the pill is spotted within 4 hours of the pipe having become stuck.
+        There is not much likelihood of a PRA pill being effective after about 16 hours. Usually the stuck string is soaked
+         for a minimum of 20 hours and a maximum of about 40 hours. The chart below can be used as a guide as to the
+         probability of success and estimating the maximum soaking time before giving up and backing off the string.
+
+       Freeing Mechanically Stuck Pipe
+        Since there are various causes for mechanically stuck pipe, freeing techniques vary depending on the identified
+       mechanism. Many of the mechanisms are related, therefore there is overlap in freeing techniques. However,
+       once the mechanisms are identified there are some general established guidelines. These guidelines are discussed
+      on the following pages.
+
+
+
+
+
+44
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 54 ]
+────────────────────────────────────────────
+Keyseating
+Work the string downward                              80increasing the weight gradually
+while rotating.
+                                                                             Freeing
+Undergauge Hole                60
+Work the  string upward using   Pipe                                   51.4%    Minimum Soaking Time
+maximum force from the start.   of
+                                   45.4%
+                              40
+Wellbore GeometryWork the pipe in the opposite       Probability
+direction from when the sticking
+occurred  while  increasing  the     20    18.2%                   Maximum Soaking Timeforce gradually.                                            Percent
+
+
+Salt
+Work the pipe with maximum        0     10  16 20     30     40     50
+force  immediately.    Consider                  Soaking Time (Hours)
+pumping a fresh water pill.
+These four mechanisms are often formation related, i.e., salt, clay, or limestone formations. In these cases, fresh
+water or acid pills are sometimes spotted around the pipe.
+Fresh water pills are used when the pipe is stuck in a salt formation. Some important concerns when considering
+a fresh water pill are:
+    •   Be certain that the pill will not induce a well control incident.
+    •   The pill volume should cover the entire stuck zone and leave about 20 barrels inside the string.
+    •   Consider adding a drilling detergent to the pill in order to help clean the walls of the hole.
+    •   In the case of oil base mud, pump a viscous, weighted spacer ahead of the pill.
+    •  Work the pipe while the pill (and spacer) is being prepared and pumped.
+    •   Maintain maximum pull on the string while the pill is soaking.
+    •    If the pipe does not come free after about two hours, pump it out and repeat the procedure.
+Inhibited hydrochloric acid (HCL) pills are sometimes used in limestone and chalk formations and when the
+pipe is stuck in cement. Important points to consider are:
+    •   Be certain that the pill will not induce a well control incident.
+    •   The pill volume should be sufficient to cover the entire stuck zone. A fluid service company should be
+        consulted on the exact pill formulation (often 7.5 to 10% HCL).
+    •  Pump the pill quickly in order to minimize contamination of the drilling fluid.
+    •  Work the pipe as the pill soaks. The pipe should come free in a few minutes; the acid works quickly.
+      Pump the pill out after about 5 minutes.
+    •  HCL can weaken tool joints and high strength pipe.
+
+
+Unconsolidated Formations
+Work the pipe up and down increasing the force gradually while circulating at the maximum rate.
+
+
+
+                                                                                                                            45
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 54 ]
+────────────────────────────────────────────
+       Hole Cleaning
+      Work the string down while increasing circulation to prevent the hole from packing off.
+
+
+       Geopressured Formations
+      Work the pipe up and down increasing the force gradually while circulating at the maximum rate.
+
+
+        Reactive Formations
+      Work the pipe up and down increasing the force gradually while circulating at the maximum rate.
+       The four stuck pipe mechanisms listed above result when the borehole is partially or completely packed off,
+         therefore the freeing practices are similar. Below is a suggested procedure for re-establishing circulation.
+             •  Hang the string at the free point weight.
+             •   Apply right hand torque.
+             •   Apply low pump pressure.
+             •  Work the string up and down with low pull/slack-off forces.
+             •    If there  is some movement or circulation, increase the pull and pressure until full circulation  is
+                  established.
+             •    If there is no initial progress, increase the torque gradually while working the pipe with the same forces.
+             •    If circulation still cannot be established, continue to increase torque, pull/set down weight, and pump
+                 pressure gradually to the agreed maximum limit.
+           If the string is stuck in cement (either green or hardened) and the pipe cannot be worked free, consideration
+        should be given to pumping an HCL pill as discussed earlier.
+
+
+       Green Cement
+         Pull upward with maximum force while jarring.
+
+
+      Cement Blocks
+      Work the string up and down.
+     When the pipe becomes stuck in plastic clay formations, spotting a pill will usually not free the pipe.
+
+
+        Plastic Clay
+      Work the string up and down, increasing the force gradually.
+       Junk in the hole and collapsed casing are special cases and often require the assistance of trained service personnel.
+
+
+       Junk
+      Work the string up and down, increasing the force gradually. Run in to an over-gauge section of the wellbore if
+         possible, in hopes of losing the junk.
+
+
+       Collapsed Casing
+        Collapsed casing is a specialized problem and will likely require offsite decisions. Work the string downward,
+        applying force gradually.
+
+
+
+46
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 54 ]
+────────────────────────────────────────────
+Summary
+Since there are many causes of stuck pipe, there can be no one tried-and-true method for freeing a drillstring
+once it becomes stuck. It is obvious that the best thing is to avoid becoming stuck in the first place. There is
+no substitution for a well-designed stuck pipe prevention program and a properly trained crew. Although it is
+unlikely that this problem will be completely eliminated so long as wells are drilled, there is ample evidence
+that when the symptoms of stuck pipe are recognized early by a trained, alert driller and freeing activities begin
+immediately, stuck pipe incidents can be kept to a minimum.
+
+                                                      Calculator
+                                                          Stuck Pipe Mechanism
+Instructions                                  Pipe Motion When Sticking Is The Worst:
+ 1.  Answer the questions in each                                Moving Up                  2          0          2
+    row by circling all the numbers
+      in the row that apply to the   Rotation Up                 0          0          2
+      situation.                                Moving Down               1          0          2
+ 2.  Add the columns, the column   Rotating Down               0          0          2
+     with   the   highest    totals                                         Static                      2          2          0
+     indicates the type of sticking
+    mechanism.               Can You Move Down?
+                           Down Freely                0          0          2 3.  See the charts below or the
+     quick  reference  pages  for  Down Restricted             1          0          2
+     suggestions on freeing stuck                                      Restricted on Connection      2          2          0
+     pipe.
+                            Can You Rotate?
+                                   Rotate Free                 0          0          2
+                                   Rotate Restricted            2          0          2
+                                      Restricted on Connection      2          2          0
+                            Can You Circulate?
+                                        Circulation Free              0          2          2
+                                        Circulation Restricted         0          0          0
+                                        Circulation Impossible         2          0          0
+                     TOTALS:
+                                  Probable Cause            Pack-Off/    Differential   Wellbore
+                                                                Bridge               Geometry
+
+
+
+
+
+                                                                                                                            47
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 54 ]
+────────────────────────────────────────────
+                                                             Freeing Wellbore                Freeing Hole Pack-Off/Bridging                                          Freeing Differential                                                         Geometry
+       Stuck while MOVING UP or with      Stuck while MOVING DOWN         If sticking occurred while moving      Initial Action:
+                  String STATIC           Action to Establish Circulation:    up, apply torque and JAR DOWN    Circulate at maximum allowable
+      Action to Establish Circulation:    Apply low pump pressure 300        with maximum jar action.              rate.
+      Apply low pump pressure 300 to      to 400 psi. Maintain pressure if           If sticking occurred while moving    Work MAXIMUM limit torque down
+     400 psi. Maintain pressure if re­       restricted circulation is possible.     down, do not apply torque and JAR   to the stuck depth and hold the
+       stricted circulation is possible. DO  DO NOT JAR DOWN! APPLY     UP with maximum jar action.         torque in the string. Stop or reduce
+    NOT JAR UP! APPLY TORQUE!   TORQUE!                        Stop or reduce circulation when    pump speed to minimum. Slack off
+      Slack off to MAXIMUM set down    Apply MAXIMUM overpull to jar    cocking the jar and when jarring      to MAXIMUM set-down limit. Allow
+       weight. Allow sufficient time for jars  and jar up.                      down.                                    sufficient time for the jars to trip. If                                                                                                                   the                                                                                                                                       string                                                                                                           does                                                                                                                                  not                                                                                                     come                                                                                                                                                                 free,                                                                                                                                              hold       to            trip.                      If the                     string                     does                              not come                                                             Pump                                                                                        pressure                                                                                                                                        will                                                           NOTE:                                                                       If                                             the                                                       string                                              does                                                           not                                                come                                                                                free,                                                                                                                 torque                                                                                                                                                 in the                                                                                                                                                 string                                                                                                               and continue       free,       DO          NOT              JAR                    UP!                                                                                           the                                                                                                                      jar                                                                                          up-blow                                                                                        and                                                         INCREASE                          DO                               NOT                                    JAR                                      DOWN!                                             JAR                                                        UP!                                                                                                                                       jarring                                                                                              down                                                                                                                                     with                                                                                                   maximum                                                                                                                                                                      jarring    JAR        DOWN!                                                                                            the                                                                                        down-blow.                                                     DECREASE                                        Continue                                                              this                                                                       until                                                                     string                                                     becomes                                                                                                                               action.      Continue this until string becomes    free or an alternative decision is     Continue jarring until the string is
+       free or an alternative decision is     made.                                 free or an alternative decision is     Secondary Action:                                                                                                                                                                                                If                                                                                                                     the                                                                                                                                         string                                                                                                            does                                                                                                                                    not                                                                                                       come free     made.                             When Circulation is Established:  made.                                                                                                                                     after                                                                                                    5                                                                                                                                        to 10                                                                                                                             blows,                                                                                                                                   continue                                                                                                                                                                       jarring
+    When Circulation is Established:   Slowly increase pump speed to     Secondary Action: Spot acid is      while preparing a pipe releasing
+      Slowly increase pump speed to     maximum rate, DO NOT SHUT      stuck in limestone or chalk. Spot        pill.
+     maximum rate, DO NOT SHUT    DOWN! Work pipe and circulate      fresh water with mobile salt.
+    DOWN!                            hole clean.                  When the String Comes Free:    WhenRotate Stringand workis Free:the string.     Work pipe and circulate hole clean.  Ream the section until the hole is    Increase circulation to maximize
+    Ream the section until the hole is     clean.                                   rate, rotate and work the string.       Circulate at maximum rate to clean
+       clean. If POH to log and/or run cas­                                                                           the hole.                                        Continue RIH until excessive set    Ream/backream the hole section       ing, return to bottom and circulate                                                               Check the proper mud specifica­                                 down weight is observed, circulate    thoroughly.      the hole clean.                                                                                                              tions.
+                                          hole clean.                           Circulate the hole clean.
+
+
+
+
+
+48
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 54 ]
+────────────────────────────────────────────
+APPENDIX I
+Stuck Pipe Identifier
+
+APPENDIX II
+Overpull Calculations
+The initial overpull should be either ½ of the BHA weight below the jars in air or 85% of the tensile strength of
+the weakest component in the string.
+To estimate the maximum allowable overpull:
+1.  Estimate the weakest point in the string. This is usually, but not always, the drillpipe at the surface (e.g. a
+    tapered string). The maximum overpull at the weak point is 85% of the tensile strength at the weak point.
+    (Tm)
+2.  Calculate the weight of the string in air above the weak point. (Wsw) Note that if the weak point is at the
+    surface Wsw = 0.
+3.  Calculate the maximum overpull on the weight indicator (Wim).
+    Block weight = Wb therefore Wim = Wb + Tm + Wsw
+4.  Calculate the overpull at the stuck point.
+
+        To = Wi – Wb - Ws
+
+Where:
+     Wb = block weight
+      Wi = weight indicator reading
+      Ws = weight of the string in air above the stuck point.
+       Note: Wi must never exceed Wim
+
+APPENDIX III
+Jarring Calculations
+Let:
+         Ls = surface load to operate the jars (lb)
+      Wi = weight indicator reading (lb)
+          Lj = desired jar load (lb)
+      Dh = hole drag (lb)
+      Wj = weight of BHA in air below the jars (lb)
+         Pf = pump open force (lb)
+
+Load required to trip the jars upwards
+
+         Ls = Wi – Wj + Lj + Dh – Pf
+
+
+
+
+
+                                                                                                                            49
+
+
+────────────────────────────────────────────
+[ صفحه 52 از 54 ]
+────────────────────────────────────────────
+       Load required to trip the jars downward
+
+                  Ls = Wi – Wj - Lj - Dh - Pf
+
+       Note:
+             •   Ensure that the jars are uncocked before working the pipe to the limit.
+             •   Tripping out – jar down
+             •   Tripping up – jar up
+             •  Pump open force only applies when circulating.
+
+       Effects of Circulation on Jars
+     When jarring up, hydraulic jars are more difficult to cock but deliver greater impact and impulse forces. When
+         jarring down, they are easier to cock but deliver less impact and impulse forces.
+       Mechanical jars are more difficult to cock when jarring upwards but easier to trip. The forces are unaffected.
+     When jarring down they are easier to cock, but more difficult to trip.
+
+     APPENDIX IV
+          Backoff Shots
+       The time between the free-point survey and running the back-off charge should be held to a minimum because
+        the free point can move up the hole with time or in an unstable wellbore. Back-offs are almost always successful
+            if the pipe torque and stretch are 80 - 85% free. In deviated wells back-offs should not be attempted unless there
+           is at least 50% free torque. A backoff is possible with less than 25% free stretch.
+      Work left hand torque down to the back-off point as recommended in the table below. Limit the torque to 80%
+        of the drill pipe makeup torque.
+
+
+                         DEPTH (ft)           TURNS/1,000 ft
+                                   Below 4,000               0.25 – 0.50
+                                    4,000 – 9,000               0.50 – 0.75
+                                       9,000 +                  0.75 – 1.00
+
+        Calculate the string weight in air to the backoff point and pull on the string to ensure neutral weight at the
+        back-off point when firing. Incorrect weight is a common cause of back-off failure. If the back-off is successful,
+         pull up and work the pipe while the wireline is removed. Circulate bottoms up before tripping the pipe out of
+        the well.
+
+
+
+
+
+50
+
+
+────────────────────────────────────────────
+[ صفحه 53 از 54 ]
+────────────────────────────────────────────
+NOTES
+
+
+
+
+
+                                                                                                                            51
+
+
+────────────────────────────────────────────
+[ صفحه 54 از 54 ]
+────────────────────────────────────────────
+[صفحه 54: خالی]

@@ -4,5 +4,6 @@ python-docx>=1.0
 openpyxl>=3.1
 
 # Optional (AI insights in Risk Analyzer)
-# requests>=2.31        # Gemini / HuggingFace backends
+google-generativeai>=0.7    # Gemini backend (free key from aistudio.google.com)
+# requests>=2.31        # HuggingFace backend
 # ollama                # local AI backend

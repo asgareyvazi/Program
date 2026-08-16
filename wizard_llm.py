@@ -15,30 +15,45 @@
 import json
 import re
 import urllib.request
+from pathlib import Path
 from typing import Dict, List, Optional
 
-# ----------------------------------------------------------------------------
-# SETTINGS (shared with the risk analyzer AI config)
-# ----------------------------------------------------------------------------
+SETTINGS_FILE = Path.home() / ".drilling_program" / "llm_settings.json"
+
 
 def load_settings() -> Dict:
-    """Load AI settings from the risk analyzer module (or defaults)."""
+    """Load saved LLM settings from disk (or defaults)."""
     try:
-        from drilling_risk_analyzer import AIBackend  # noqa
+        if SETTINGS_FILE.exists():
+            data = json.loads(SETTINGS_FILE.read_text(encoding="utf-8"))
+            return {"backend": data.get("backend", "none"),
+                    "api_key": data.get("api_key", "")}
     except Exception:
         pass
-    # We keep our own lightweight settings mirror
     return {"backend": "none", "api_key": ""}
+
+
+def save_settings(backend: str, api_key: str = ""):
+    """Persist LLM settings to disk (survives restarts)."""
+    try:
+        SETTINGS_FILE.parent.mkdir(exist_ok=True)
+        SETTINGS_FILE.write_text(
+            json.dumps({"backend": backend, "api_key": api_key}),
+            encoding="utf-8")
+    except Exception:
+        pass
 
 
 def set_backend(backend: str, api_key: str = ""):
     global _BACKEND, _API_KEY
     _BACKEND = backend
     _API_KEY = api_key
+    save_settings(backend, api_key)
 
 
-_BACKEND = "none"
-_API_KEY = ""
+_SAVED = load_settings()
+_BACKEND = _SAVED.get("backend", "none")
+_API_KEY = _SAVED.get("api_key", "")
 
 
 # ----------------------------------------------------------------------------
@@ -57,10 +72,25 @@ def _query_ollama(prompt: str, model: str = "llama2") -> str:
 
 
 def _query_gemini(prompt: str, api_key: str) -> str:
-    import google.generativeai as genai
+    try:
+        import google.generativeai as genai
+    except ImportError:
+        raise RuntimeError(
+            "Package 'google-generativeai' is not installed.\n"
+            "Install it with:  pip install google-generativeai")
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.0-flash")
-    return model.generate_content(prompt).text
+    last_err = "unknown error"
+    for model_name in ("gemini-2.0-flash", "gemini-1.5-flash", "gemini-pro"):
+        try:
+            model = genai.GenerativeModel(model_name)
+            return model.generate_content(prompt).text
+        except Exception as e:
+            last_err = str(e)
+            if "404" in last_err or "not found" in last_err.lower() or \
+               "model" in last_err.lower():
+                continue
+            raise RuntimeError(f"Gemini API error: {last_err}")
+    raise RuntimeError(f"Gemini API error: {last_err}")
 
 
 def _query_huggingface(prompt: str, api_key: str) -> str:
@@ -81,19 +111,34 @@ def _query_huggingface(prompt: str, api_key: str) -> str:
 
 
 def query_llm(prompt: str, backend: str = "", api_key: str = "") -> str:
-    """Query the configured LLM backend; returns '' on any failure."""
+    """Query the configured LLM backend; returns '' on any failure.
+
+    Stores the last error in LAST_LLM_ERROR so the UI can explain why the
+    LLM call failed instead of failing silently.
+    """
+    global LAST_LLM_ERROR
     backend = backend or _BACKEND
     api_key = api_key or _API_KEY
+    LAST_LLM_ERROR = ""
+    if backend in ("None (use raw content)", "none", "", "None"):
+        LAST_LLM_ERROR = "No LLM backend selected (using raw content)."
+        return ""
+    if backend in ("Gemini", "HuggingFace") and not api_key:
+        LAST_LLM_ERROR = f"{backend} selected but no API key entered."
+        return ""
     try:
         if backend == "Ollama":
             return _query_ollama(prompt)
-        if backend == "Gemini" and api_key:
+        if backend == "Gemini":
             return _query_gemini(prompt, api_key)
-        if backend == "HuggingFace" and api_key:
+        if backend == "HuggingFace":
             return _query_huggingface(prompt, api_key)
-    except Exception:
-        pass
+    except Exception as e:
+        LAST_LLM_ERROR = str(e)
     return ""
+
+
+LAST_LLM_ERROR = ""
 
 
 # ----------------------------------------------------------------------------
@@ -182,6 +227,10 @@ class LLMSettingsDialog(QDialog):
 
     def __init__(self, parent=None, backend: str = "", api_key: str = ""):
         super().__init__(parent)
+        if not backend:
+            saved = load_settings()
+            backend = saved.get("backend", "none")
+            api_key = saved.get("api_key", "")
         self.setWindowTitle("🤖  LLM Settings — Knowledge Rewriting")
         self.setMinimumWidth(520)
         self.setStyleSheet(
@@ -254,9 +303,15 @@ class LLMSettingsDialog(QDialog):
         if resp and "OK" in resp.upper():
             QMessageBox.information(self, "Test", "✅ Connection OK")
         else:
+            err = LAST_LLM_ERROR or "No response."
             QMessageBox.warning(
                 self, "Test",
-                "⚠️ Not reachable.\n\n" + (resp or "No response."))
+                "⚠️ Not reachable.\n\n"
+                f"{err}\n\n"
+                "Tips:\n"
+                "• Gemini: pip install google-generativeai, then check the key\n"
+                "• Ollama: is the local server running on port 11434?\n"
+                "• HuggingFace: token from huggingface.co/settings/tokens")
 
     def get_values(self):
         backend = self.backend.currentText()

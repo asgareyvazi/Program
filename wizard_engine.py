@@ -877,6 +877,148 @@ class _TemplatePage(QWizardPage):
                 f"{n_sections}  •  Fields to fill: {len(t.inputs)}</span>")
 
 
+class _WellProfilePage(QWizardPage):
+    """Page 2: well profile — the engineer's basis of design.
+
+    The user (as a drilling engineer) specifies the well type, environment
+    and operation. This (a) is written into the document as a BASIS OF
+    DESIGN section, (b) filters which knowledge documents are used for
+    enrichment, and (c) highlights recommended templates.
+    """
+
+    # operation -> recommended template keys (in priority order)
+    OP_TEMPLATES = {
+        "Drilling": ["drilling_program", "offshore_drilling_program",
+                     "advanced_drilling_program"],
+        "Workover": ["workover_program", "offshore_workover_program"],
+        "Re-Entry": ["reentry_program"],
+        "Sidetrack": ["reentry_program"],
+        "Completion": ["esp_workover", "offshore_workover_program"],
+        "P&A": ["abandonment_program"],
+        "Well Testing": ["well_testing_program"],
+        "Stimulation": ["stimulation_program"],
+        "Fishing": ["fishing_program"],
+    }
+
+    def __init__(self, parent=None):
+        super().__init__(parent)
+        self.setTitle("2. Well Profile (Basis of Design)")
+        self.setSubTitle(
+            "Define the well like a drilling engineer would: well type, "
+            "environment and operation. The software uses this to filter "
+            "the right knowledge documents and pre-fill the document.")
+
+        lay = QVBoxLayout(self)
+
+        grid = QGridLayout()
+        grid.setHorizontalSpacing(14)
+        grid.setVerticalSpacing(10)
+
+        grid.addWidget(QLabel("Well Type:"), 0, 0)
+        self.well_type = QComboBox()
+        self.well_type.addItems(["Vertical", "Deviated", "Horizontal", "ERD",
+                                 "HPHT", "Deepwater", "Multi-lateral"])
+        grid.addWidget(self.well_type, 0, 1)
+
+        grid.addWidget(QLabel("Environment:"), 1, 0)
+        self.environment = QComboBox()
+        self.environment.addItems(["Onshore", "Offshore Jack-up",
+                                   "Semi-submersible", "Fixed Platform",
+                                   "Caspian Sea"])
+        grid.addWidget(self.environment, 1, 1)
+
+        grid.addWidget(QLabel("Operation:"), 2, 0)
+        self.operation = QComboBox()
+        self.operation.addItems(list(self.OP_TEMPLATES.keys()))
+        grid.addWidget(self.operation, 2, 1)
+
+        grid.addWidget(QLabel("Hole Sections (optional):"), 3, 0)
+        self.holes = QLineEdit()
+        self.holes.setPlaceholderText("e.g. 36\", 26\", 17-1/2\", 12-1/4\", 8-1/2\"")
+        grid.addWidget(self.holes, 3, 1)
+
+        lay.addLayout(grid)
+
+        # knowledge match label
+        self.lbl_match = QLabel("")
+        self.lbl_match.setWordWrap(True)
+        self.lbl_match.setStyleSheet(
+            "background:#0f3460;color:#e0e0e0;border-radius:6px;"
+            "padding:8px;font-size:11px;")
+        lay.addWidget(self.lbl_match)
+
+        self.lbl_templates = QLabel("")
+        self.lbl_templates.setWordWrap(True)
+        self.lbl_templates.setStyleSheet("color:#8a8a9a;font-size:11px;")
+        lay.addWidget(self.lbl_templates)
+
+        for w in (self.well_type, self.environment, self.operation):
+            w.currentTextChanged.connect(self._update_matches)
+
+        self._catalog = None
+        lay.addStretch(1)
+
+    def _get_catalog(self):
+        if self._catalog is None:
+            try:
+                from document_catalog import get_catalog
+                self._catalog = get_catalog()
+            except Exception:
+                self._catalog = False
+        return self._catalog or None
+
+    def _update_matches(self):
+        cat = self._get_catalog()
+        if not cat:
+            self.lbl_match.setText("Knowledge catalog not available.")
+            return
+        n = cat.matched_summary(
+            well_type=self.well_type.currentText(),
+            environment=self.environment.currentText(),
+            operation=self.operation.currentText())
+        self.lbl_match.setText(
+            f"📚 {n} matching knowledge documents in the internal library "
+            f"({self.well_type.currentText()} well / {self.environment.currentText()} "
+            f"/ {self.operation.currentText()}). These will be used to enrich "
+            f"your document.")
+        # recommended templates
+        keys = self.OP_TEMPLATES.get(self.operation.currentText(), [])
+        names = []
+        try:
+            wiz = self.wizard()
+            page0 = wiz.page(0)
+            for k in keys:
+                t = page0._by_key(k) if hasattr(page0, "_by_key") else None
+                if t:
+                    names.append(f"{t.icon} {t.name}")
+        except Exception:
+            pass
+        self.lbl_templates.setText(
+            "💡 Recommended document types: " + (" | ".join(names)
+                                                 if names else "—"))
+
+    def initializePage(self):
+        self._update_matches()
+
+    def profile(self) -> Dict:
+        return {
+            "well_type": self.well_type.currentText(),
+            "environment": self.environment.currentText(),
+            "operation": self.operation.currentText(),
+            "holes": self.holes.text().strip(),
+        }
+
+    def profile_markdown(self) -> str:
+        p = self.profile()
+        holes = p["holes"] or "As per casing design"
+        return ("## WELL PROFILE & BASIS OF DESIGN\n\n"
+                "| Parameter | Value |\n|---|---|\n"
+                f"| Well Type | {p['well_type']} |\n"
+                f"| Environment | {p['environment']} |\n"
+                f"| Operation | {p['operation']} |\n"
+                f"| Hole Sections | {holes} |\n")
+
+
 class _SectionsPage(QWizardPage):
     """Page 2: user picks which sections go into the document."""
 
@@ -1207,8 +1349,8 @@ class _RiskReviewPage(QWizardPage):
         tdef = self._selected_template()
         if tdef is None:
             return
-        sec_page = wiz.page(1)
-        in_page = wiz.page(2)
+        sec_page = wiz.page(2)
+        in_page = wiz.page(3)
 
         values = dict(in_page.values()) if hasattr(in_page, "values") else {}
         selected = sec_page.selected_heads() if hasattr(sec_page, "selected_heads") else []
@@ -1580,7 +1722,7 @@ class _GeneratePage(QWizardPage):
         tdef = self._selected_template()
         if tdef:
             wiz = self.wizard()
-            sec_page = wiz.page(1)
+            sec_page = wiz.page(2)
             n_sel = len(sec_page.selected_heads()) if hasattr(sec_page, "selected_heads") else 0
             self.status.setText(
                 f"Document: <b>{tdef.icon} {tdef.name}</b><br>"
@@ -1603,9 +1745,9 @@ class _GeneratePage(QWizardPage):
             return
 
         wiz = self.wizard()
-        sec_page = wiz.page(1)      # sections
-        in_page = wiz.page(2)       # inputs
-        opt_page = wiz.page(4)      # options
+        sec_page = wiz.page(2)      # sections
+        in_page = wiz.page(3)       # inputs
+        opt_page = wiz.page(5)      # options
 
         values = dict(in_page.values()) if hasattr(in_page, "values") else {}
 
@@ -1645,6 +1787,17 @@ class _GeneratePage(QWizardPage):
             selected = sec_page.selected_heads() if hasattr(sec_page, "selected_heads") else []
             md = render_selected(md, selected)
 
+            # 2b) Well profile section (basis of design) from page 1
+            try:
+                profile_page = wiz.page(1)
+                if hasattr(profile_page, "profile_markdown"):
+                    pmd = profile_page.profile_markdown()
+                    if pmd:
+                        md = pmd + "\n\n---\n\n" + md
+            except Exception:
+                import traceback
+                traceback.print_exc()
+
             # 3) Web research section (field/formation introduction)
             web_notes = values.get("web_notes", "")
             if web_notes:
@@ -1654,7 +1807,7 @@ class _GeneratePage(QWizardPage):
             QApplication.processEvents()
 
             # 4) Risk review section (automatic, before final output)
-            risk_page = wiz.page(3)
+            risk_page = wiz.page(4)
             if (hasattr(risk_page, "_results") and risk_page._results
                     and getattr(risk_page, "chk_include", None)
                     and risk_page.chk_include.isChecked()):
@@ -1682,7 +1835,15 @@ class _GeneratePage(QWizardPage):
                     }.get(in_page.enrich_level.currentText(), "moderate")
                     op_name = meta.get("operator", "")
                     con_name = meta.get("contractor", "")
-                    chunks = get_chunks_for(tdef.key, level)
+                    profile = {}
+                    try:
+                        profile_page = wiz.page(1)
+                        if hasattr(profile_page, "profile"):
+                            profile = profile_page.profile()
+                    except Exception:
+                        pass
+                    chunks = get_chunks_for(tdef.key, level,
+                                            profile=profile or None)
                     if chunks:
                         kn = rewrite_chunks(
                             chunks, tdef.name,
@@ -1833,11 +1994,12 @@ class GeneratorWizard(QWizard):
             list(PROCEDURE_TEMPLATES) + list(OFFSHORE_TEMPLATES)
 
         self.addPage(_TemplatePage(templates))   # 0 type
-        self.addPage(_SectionsPage())            # 1 sections
-        self.addPage(_InputsPage())              # 2 inputs
-        self.addPage(_RiskReviewPage())          # 3 risk review
-        self.addPage(_OptionsPage())             # 4 options
-        self.addPage(_GeneratePage())            # 5 generate
+        self.addPage(_WellProfilePage())         # 1 well profile (new)
+        self.addPage(_SectionsPage())            # 2 sections
+        self.addPage(_InputsPage())              # 3 inputs
+        self.addPage(_RiskReviewPage())          # 4 risk review
+        self.addPage(_OptionsPage())             # 5 options
+        self.addPage(_GeneratePage())            # 6 generate
 
         self.setStartId(0)
 
@@ -1846,7 +2008,7 @@ def run_wizard(parent=None) -> Optional[str]:
     """Launch the wizard; returns the generated document path if any."""
     wiz = GeneratorWizard(parent)
     if wiz.exec() == QDialog.Accepted:
-        gen_page = wiz.page(5)
+        gen_page = wiz.page(6)
         if hasattr(gen_page, "_last_path") and gen_page._last_path:
             return gen_page._last_path
     return None

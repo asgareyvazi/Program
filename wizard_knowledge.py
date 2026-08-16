@@ -250,10 +250,48 @@ def semantic_rerank(chunks: List[str], query: str,
 # CHUNK RETRIEVAL (used by the LLM rewriter)
 # ----------------------------------------------------------------------------
 
+def filter_refs_by_profile(refs, profile: Optional[Dict] = None):
+    """Filter (num, label) reference list using the document catalog.
+
+    profile: {"well_type", "environment", "operation", "holes"}
+    Documents that match the profile are kept first; if nothing matches,
+    the original list is returned (fallback).
+    """
+    if not profile or not refs:
+        return refs
+    try:
+        from document_catalog import get_catalog
+        cat = get_catalog()
+        matched = []
+        for num, label in refs:
+            row = cat.conn.execute(
+                "SELECT * FROM docs WHERE num=?", (int(num),)).fetchone()
+            if not row:
+                continue
+            ok = True
+            if profile.get("operation") and profile["operation"] != "Undefined":
+                if row["operation"] != profile["operation"]:
+                    ok = False
+            if ok and profile.get("environment") and \
+                    profile["environment"] != "Undefined":
+                if row["environment"] not in ("Undefined", profile["environment"]):
+                    ok = False
+            if ok:
+                matched.append((num, label))
+        return matched or refs
+    except Exception:
+        return refs
+
+
 def get_chunks_for(template_key: str, intensity: str = "moderate",
                    max_docs: int = 2, use_ml: bool = True,
-                   max_chunks: int = 8) -> List[str]:
-    """Return the top-ranked library chunks (raw text) for a template."""
+                   max_chunks: int = 8,
+                   profile: Optional[Dict] = None) -> List[str]:
+    """Return the top-ranked library chunks (raw text) for a template.
+
+    profile (optional): dict with well_type/environment/operation/holes —
+    filters the reference documents to the closest matches first.
+    """
     try:
         from wizard_references import get_reference_docs
     except Exception:
@@ -261,6 +299,7 @@ def get_chunks_for(template_key: str, intensity: str = "moderate",
     refs = get_reference_docs(template_key)
     if not refs:
         return []
+    refs = filter_refs_by_profile(refs, profile)
     keywords = KEYWORD_PROFILES.get(template_key,
                                     ["drilling", "procedure", "checklist", "test"])
     query = " ".join(keywords)

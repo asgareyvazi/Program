@@ -1,4 +1,4 @@
-# 📚 Document Library — 705+ Docs incl. Major-Operator Reference Books
+# 📚 Document Library — 855+ Docs incl. Major-Operator Reference Books & Handbooks
 
 > Extracted text documents uploaded by the user (combined_1.txt + Combined_2.txt).
 > Used as reference knowledge base to enrich wizard output and master programs.
@@ -9,6 +9,12 @@
 |---|---|---|
 | 215 | ROPE Manual (Rig Operations Performance Execution) — 55+ checklists | 28 |
 | 216 | AZNS F-20 Price Table Rev#07 — 22 sheets (Time Breakdown + full cost breakdown: rig, services, materials, rig-less stimulation) | 79 |
+
+## Operator Practices & Handbooks (NEW — 50)
+
+| # | Document | Size (KB) |
+|---|---|---|
+| 753–802 | 50 operator handbooks & practices: Casing Design (Applied Drilling Eng., Statoil, Baker), BP Completion Design, BP Stuck Pipe Manual, Chevron Drilling Fluids, Drilling Cost Control/Estimation/Economics, Drilling Data Handbook, Directional Drilling, ERD Guidelines (BP), Fishing (Weatherford / مختار رجبی), Hole Opening, Maersk Drilling Calculations, Offshore Ops Manual, SLB Drilling Practices & Bit Running, Shell Safety, Side-tracking (cased/open hole), Stuck Pipe (Total/Comprehensive/Poster/Persian), Torque & Drag, UB Drilling, Workover & Testing | — |
 
 ## Major-Operator Reference Books (NEW — 13)
 

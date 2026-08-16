@@ -92,6 +92,63 @@ BOOK_PROCEDURES = [
       "Equipment inspection: BOP stack, accumulators, choke line per schedule"]),
 
     # --- from 697 HPHT Course ---
+    ("book_stuck_pipe_types",
+     "Stuck Pipe Types & Freeing Methods",
+     "Fishing & Remedial",
+     "801",
+     "Types of stuck pipe (differential, mechanical, key-seat, "
+     "formation-related) and freeing methods — generalized.",
+     ["Differential sticking: pipe static across permeable zone with "
+      "overbalance; no rotation, no circulation",
+      "Mechanical sticking: junk, key seat, ledges, collapsed casing, "
+      "undergauge hole",
+      "Key seating: pipe stuck while POOH at a dogleg; rotation possible",
+      "Formation-related: swelling shales, mobile salt, unconsolidated "
+      "sands, caving",
+      "Identify the mechanism from symptoms before attempting to free",
+      "For differential: spot pipe-free agent, reduce MW if safe, jar down",
+      "For key seat: work down, rotate, spot lubricant, ream through",
+      "For junk: mill or fish the obstruction",
+      "For collapse: circulate heavy viscous pill, ream, condition hole",
+      "Use jars with accelerator; avoid overpull that wedges the pipe",
+      "Free point determination before back-off if fishing required",
+      "Prevention: keep pipe moving, thin filter cake, hole cleaning, "
+      "gauge trips"]),
+    ("book_torque_drag",
+     "Torque & Drag Management",
+     "Drilling Operations",
+     "796",
+     "Torque and drag in drilling: causes, modeling, prevention and "
+     "remedial actions.",
+     ["Understand torque & drag sources: friction, hole tortuosity, "
+      "cuttings bed, differential sticking",
+      "Model torque & drag before drilling and calibrate with actual data",
+      "Monitor torque/drag trends — sudden increase signals hole problems",
+      "Keep hole clean: adequate flow, sweeps, rotation while "
+      "reciprocating",
+      "Minimize tortuosity: smooth trajectory, controlled DLS",
+      "Use lubricants / low-friction mud additives in deviated sections",
+      "For cuttings beds: high-vis sweeps, back-reaming, wiper trips",
+      "For key seats: ream through doglegs, key-seat wipers",
+      "Avoid overpull; use jars for freeing",
+      "Record and review torque/drag after each trip for trends"]),
+    ("book_fishing_ops",
+     "Fishing Operations — Tools & Techniques",
+     "Fishing & Remedial",
+     "798",
+     "Fishing operations: tools, assemblies, techniques and decision "
+     "process — from a fishing reference, generalized.",
+     ["Safety first: clear drill floor, inspect derrick before jarring",
+      "Prepare fishing assembly: overshot / bumper sub / jar / "
+      "accelerator / HWDP",
+      "Use spiral grapple in preference to basket grapple",
+      "Run extension on overshot; catch on unmilled pipe",
+      "For washed-out hole: bent sub or wall hook to locate fish",
+      "Circulate and spot viscous pill before POOH on twist-off",
+      "Free point & back-off to recover upper string",
+      "Mill / washover to clean around fish",
+      "If fish not recoverable: cement plug and sidetrack",
+      "Document fish geometry and assembly for planning"]),
     ("book_hpht_course",
      "HPHT Well Operations (Course)",
      "Well Control",

@@ -1,0 +1,1386 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 25 ]
+────────────────────────────────────────────
+Chapter 2    DRILLING COST CONTROL
+
+INTRODUCTION
+
+There are few, if any, drilling operations in the world where cost is not important. There are few,
+if any, drilling circumstances where costs are not important.    If we as drilling people lose
+consciousness of drilling costs, management  will remind us in a very short time.  Cost is
+important!   It is our responsibility as drilling people to accomplish the tasks before us at an
+optimum cost - a minimum cost to safely develop the reserve and produce the asset at an
+optimum level.
+
+The responsibilities on drilling people are greater than ever in our history. The significance of
+good drilling practices has never been more important.  Many in responsible positions are
+suffering from hypertension and stress. Wells are deep and complicated and many thousands
+of dollars can be lost in just minutes.  The daily cost of some operations is as high as US
+$500,000. With deep wells come higher pressures. There are more pressure control problems
+today than ever before. With the emphasis on environmental protection, there is the constant
+threat of expensive litigation over even the most insignificant spill. A minimal pressure control
+problem can cost hundreds of thousands of dollars.  The most expensive pressure control
+problem to date costs in excess of US $250 million. These costs do not include the value of the
+reserves lost forever to the atmosphere.  Finally, during pressure control problems there is
+always the potential for loss of life. Few executives in any industry bear such burdens.  It's a
+BIG JOB - AN IMPORTANT JOB.
+
+Drilling operations continue around the clock in what is often the most hostile environment.
+Cost control is difficult at best due to the expense involved in even the simplest operation.
+Currently, operating costs vary from less than $10,000 per day for simple land based operations
+to more than $500,000 per day for deep water floating operations or Canadian Arctic operations
+in the Beaufort Sea. Keeping daily costs is an absolute must if cost control is to be effective.
+The effectiveness of various drilling techniques must be measured in total cost or in cost per
+unit of length. Perhaps the two most important equations in all of drilling are:
+
+         CT = C B + C r ( t + T )                                            Equation 2-1
+
+             C B + C r (t + T )         CT =
+                   F                                                 Equation 2-2
+
+Example 2-1 illustrates the use of these equations.
+
+Example 2-1
+
+       Given:         Bit # 4
+
+                    Rig cost = $2,000 per hour
+
+                         Bit cost = $4,000
+
+                     Rotating time = 100 hrs
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                 1
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+                   Footage = 3000 feet
+
+                  Depth = 10,000 feet
+
+                       Trip time = 2 hr per 1000 feet
+
+                    Rotary speed = 100 rpm
+
+       Determine:   The cost of the bit run in terms of total costs and cost per foot.
+
+        Solution:    CT = C B + C r ( t + T )
+
+                                                 ⎡       ⎛ 2hr           ⎞ ⎤
+                 CT = $ 4000 + $ 2000 100 + ⎜     x10000 ⎟                                                                                                   ⎢⎣       ⎝ 1000         ⎠ ⎥⎦
+
+              CT = $ 244,000
+
+                 C B + C r (t + T )              CT =
+                         F
+
+                                                  ⎡       ⎛ 2hr           ⎞ ⎤
+                      $ 4000 + $ 2000 ⎢⎣100 + ⎜⎝ 1000 x10000 ⎟⎠ ⎥⎦                 CT =
+                                   3000 ft
+
+                 CT = $ 81 . 33 / ft
+
+The total cost of the operation would be given by Equation 2-3.
+              ∑ C B + C r (∑ t + ∑ T )         CTC =
+                          Total Depth                                                                           Equation 2-3
+
+
+Example 2-2
+
+       Given:      The rig cost and trip time are given in Example 2-1
+
+                         Bit # 5
+
+                   Footage = 1300 feet
+
+                     Rotating time = 63 hrs
+
+                  Depth = 11,300 feet
+
+                         Bit cost = $4,000
+
+
+
+
+
+2                                                         Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+       Determine:    1.    The cost per foot for bit # 5.
+
+                        2.    The cumulative cost per foot for bit # 4 and # 5.
+
+        Solution:      1.    The cost per foot for bit #5.
+                      C B + C r (t + T )                  CT =
+                              F
+
+                                                        ⎡     ⎛  2            ⎞ ⎤
+                            4000 + 2000 ⎢⎣ 63 + ⎜⎝ 1000 x11300 ⎟⎠ ⎥⎦                       CT =
+                                        1300
+
+                       CT = $ 134 . 77 / ft
+
+                        2.    The cumulative cost per foot for bit #4 and #5.
+
+                                                    ⎧              ⎡⎛  2   ⎞                  ⎤ ⎫                                                 (4000 + 4000 ) + 2000 ⎨(63 + 100 ) +  ⎜       ⎟ (10000 + 11300 ) ⎬                                                    ⎩                            ⎢⎣⎝                                                          1000 ⎠                                     ⎥⎦ ⎭                  CTC =
+                                                3000 + 1300
+
+
+                        CTC = $ 97 . 49 / ft
+
+The arithmetic would indicate that bit run # 4 cost $81.33 per foot while bit run # 5 cost $134.77
+per foot. However, the cumulative cost over the interval 7000 feet to 11,300 feet is calculated to
+be $97.49 per foot.
+
+The total project cost would include all costs attributable to the well from staking location to
+putting the product into the pipeline.  In addition, the cost over the life of the well must be
+considered.  For example, in Greece, initial drilling and completion costs had to be increased
+due to the presence of plastic salt flows, which resulted in the loss of the earlier wells.
+Therefore, the success or failure of any drilling technique such as bit selection, mud type, casing
+program or any facet must be measured in terms of current cost per foot in relation to the total
+cost over the life of the project.
+
+FACTORS AFFECTING PENETRATION RATE
+
+It is generally true that time is money and that improving the penetration rate will reduce costs.
+It is also true that the total cost includes the cost of various auxiliary functions. The factors that
+effect drilling time and costs are as follows:
+
+       •   Bit type/formation hardness
+
+       •   Bit weight
+
+       •  Rotary Speed
+
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                 3
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+       •  Bottom hole cleaning
+
+       •  Mud properties:
+
+                1.     weight
+
+                2.     type
+
+                3.      solids
+
+                4.       fluid properties
+
+       •   Auxiliary practices:
+
+                1.     formation evaluation
+
+                2.     casing strings
+
+                3.     hole sizes
+
+                4.       trip time
+
+                5.     connection time
+
+                6.     bottom hole assemblies
+
+                7.     short trips
+
+                8.     reaming connections
+
+                9.       rig limitations
+
+As we shall see, these factors are both independent and interrelated.
+
+BIT TYPE AND FORMATION HARDNESS
+
+Obviously, a geothermal well drilled in granite is going to be more expensive over any interval
+than a comparable depth well  drilled  in the  soft sediment of the Gulf Coast.    It  is the
+responsibility of the drilling personnel to match the formation with the proper bit.  Bit selection
+and drilling bits are a topic for an entire chapter. However, for the purpose of further discussion,
+it is assumed that the proper bit has been selected for the formation being penetrated.
+
+BIT WEIGHT
+
+Assuming all other factors affecting drilling rate are adequate and constant, the relationship
+between bit weight and drilling rate is given by:
+
+         D R ∝ W d                                                     Equation 2-4
+
+         D R = KW d                                                   Equation 2-5
+
+
+
+4                                                         Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+The exponent 'd' to bit weight has been found in the laboratory to range between 0.95 and 2;
+however, field data has not substantiated this range. That is, weight on bit is linearly related to
+drilling rate.
+
+The slope 'K  ' is not constant and is a function of:
+
+       •  Hole size
+
+       •   Drilling fluid type and properties
+
+       •  Formation characteristics
+
+       •   Bit type
+
+Generally, drilling rate is plotted linearly versus bit weight - divided by hole size. Experience has
+shown that this relationship is valid over small ranges of changes in hole size. Black1 observed
+in  tests  ranging from 6½  to 11½ inches  that
+diameter had a statistically significant effect on rate
+of penetration.  Black concluded that variations
+over these sizes were a function of the cutting
+structure design for various bits. For example, the
+7⅞ inch  bit tested had fewer  inserts per inch
+diameter and  therefore,  higher  load per  insert
+resulting in higher drilling rates.  Field experience
+has shown that while correlation can be drawn
+over  the  range  from 6  to 11  inches,  these
+correlations   might   not  be   accurate  when
+extrapolated to a 17½ to 26 inch hole size.
+
+Laboratory and field tests have illustrated that fluid
+type has a significant effect on the relationship
+between drilling rate and weight on bit.  Figure 2-1
+summarizes typical field data taken in the Atoka
+shale of Southeastern Oklahoma.  As illustrated,
+the relationship between drilling rate and bit weight
+per diameter inch is linear for both mud and air.
+However, it is particularly interesting that the slope
+'K  ' of the mud curve is essentially  '1' while the
+slopes 'K  ' of the air curves are almost twice that
+value (1.08 vs. 1.85).  For example, doubling the
+bit weight while drilling with mud would increase
+the penetration rate from 3.5 fph to 25 fph.  A
+similar  increase  while  drilling  with  air  would
+increase the penetration rate from 20 fph to 54 fph.
+Drilling with mud and increasing the  bit weight
+1,000# per inch, increases drilling rate 10.8 fph.
+Increasing the  bit weight 1,000# per inch and        Figure 2-1. Field Data for Atoka Shale
+drilling with air, increases the drilling rate 17.2 fph.
+In the example at 2,000# per inch, air will drill 26.5 fph (30 - 3.5) faster than mud. At 4,000# per
+inch, air will drill 39 fph (64 - 25) faster than mud.  It is observed, therefore, that there are more
+benefits from higher bit weights in air drilling than in mud drilling.
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                 5
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+Doty2 offered similar observations.  In his full laboratory tests, various drilling parameters were
+compared as a function of the drilling fluid being used.  Doty used four drilling fluids - clear
+brine, brine with drilled solids, lignosulfonate water base mud and oil base mud. As Figure 2-2
+illustrates, WOB vs. DR is essentially linear in the
+presence of water mud,  oil mud and brine with
+drilled solids.  In these tests, the relationship was
+quite  different  in  the  presence  of  brine.   As
+illustrated in Figure 2-2, the exponent 'd' to WOB is
+approximately two  in the presence  of the  clear
+brine. However, again it must be stressed that field
+data does not verify an exponent value greater than
+one.  It has been suggested that the exponent 'd' to
+WOB would approach a value of two for perfect
+cleaning.  However, as   illustrated, even with the
+perfect cleaning of air drilling, the exponent 'd' was
+measured to be exactly equal to one.
+
+Formation characteristics and type will also affect
+the response of drilling rate to bit weight.  Figure
+2-2 illustrates the typical differences.  In addition to
+tests using Berea sandstone, Doty made the same
+tests in Pierre shale.  The results for clear brine
+drilling in Mancos shale have been superimposed in
+the figure to  illustrate the differences caused by
+formation characteristics. These differences are not
+always predictable, but do routinely exist.  These
+potential  differences  stress  the  importance  of            Figure 2-2. Laboratory Data
+obtaining good field data for any area.
+
+The response in drilling rate to increases in bit
+weight is also affected by bit type. Drag bits
+such as diamond and polycrystalline diamond
+bits drill as a result of the gouging or tearing
+action of the cutting structure on the bottom of
+the hole. Roller bits combine a limited amount
+of the dragging mechanism with the intrusion
+of the teeth. Figure 2-3 illustrates typical drag
+response  in  drilling  rate  to changes  in  bit
+weight.   It is not uncommon in the laboratory
+to measure the exponent to bit weight to be
+less than one (0.736, in this instance) using a
+drag  bit.   Field data, however, has always
+resulted in an exponent value of one at least
+in  this  writer’s experience.   Generally, the
+slope  of  the  response  is  less  than  that
+recorded for roller bits. Figure 2-3 compared a
+hypothetical drag  bit response  with  actual
+responses for roller bits. A limited amount of              Figure 2-3. Drag Bit Response
+data  collected  in  the  Middle  East  using
+diamond bits, illustrated that a dramatic change in the response of drilling rate to bit weight
+occurred at a high (+10,000#/in.) weight on bit.  In these tests 14¾ inch diamond bits were run
+
+
+
+6                                                         Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+at over 10,000#/ in. diameter. Cost per foot was significantly reduced although bit life averaged
+less than 20 hours.
+
+Recently, Black, et.al.3 have demonstrated in the laboratory that when using PDC bits, the
+relationship between bit weight and drilling rate is a function of the rotary speed.  Figure 2-4
+summarizes and  illustrates  the work.   In
+these tests, a stereotype PDC bit was used
+to  drill the Mancos shale at constant mud
+type, borehole pressure, confining pressure
+and overburden pressure.  As illustrated in
+Figure 2-4, a rather unimpressive response
+in drilling rate with increases in bit weight is
+obtained  at 50 rpm  with the  drilling  rate
+increasing from essentially '0' feet per hour at
+2,000 pounds bit weight to 20 feet per hour
+at 8,000 pounds bit weight. However, at 900
+rpm,  the response  to  bit  weight  is  very
+impressive.  As illustrated, the  drilling rate
+increases from essentially zero feet per hour
+at 2,000 pounds bit weight to 120 feet per
+hour at 8,000 pounds bit weight.
+
+In  the  past,   it was  popular  to  develop                                                         Figure 2-4. PDC Performance for Various Rotary
+equations    for   optimizing    bit   weight.
+However, too many variables are associated with the  life  of modern  bits  to make any
+mathematical analysis meaningful. In time past, bit life was expressed as follows:
+
+                 1
+            L ∝          Equation 2-6
+         W b N
+
+The exponent, b ranges form 1.0 ≤ b ≥ 3.0
+as shown in Figure 2-5.
+
+Simply speaking, the bit lasted for a finite
+number of total revolutions at a constant bit
+weight.     This   philosophy  was  even
+extrapolated and some  finite number  of
+revolutions was used to determine when a
+bit should be pulled.  While this practice,
+however poor, had some validity 20 years
+ago,    it   is   virtually  without  foundation
+considering modern bits.
+
+Equation 2-6 was developed for and based
+on  experience  with  ordinary   bits  with
+exposed roller bearings and remains valid                        Figure 2-5
+only  for  these  type  bits.   The  failure
+mechanism of the roller bearing is fatigue.  With each rotation, the roller is compressed and
+relaxed. A very simple illustration is the breaking of a piece of wire by bending it first one way
+and then the other. The bearing life is inversely proportional to the total load on the bit raised to
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                 7
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+the power  ' b '. The exponent  ' b ' is a function of the solids in the mud and is considered to vary
+from 1 for solids free, clear water to 3 for mud systems having high solids content. Although no
+provision is made in Equation 2-6, experience has shown that bearing life in air drilling is even
+longer than that obtained using water.  Further, experience has shown that smaller solids
+reduce the life of the bearing. For example, the percent solids smaller than 10 microns is more
+detrimental to bit life than 10 percent solids larger than 150 microns.
+
+In modern roller bits, the bearing is usually not a roller bearing but rather some form of bushing
+type bearing.  In addition, the bearing is protected from the mud solids by a seal.  Therefore,
+bearing life also becomes a function of seal life. Seal life is a function of many things including
+solids in the mud (i.e. higher solids mean shorter seal life). Once the seal has failed, the mud
+solids have a more detrimental effect on the bushing bearing due to the comparatively close
+tolerances.  To further complicate matters, the bearing life is shortened by higher orders of
+magnitude of rotary speed.  At higher rotary speeds, more heat is generated because of close
+bearing tolerance thereby reducing bearing life.
+
+It should be obvious that the failure mechanism of bushing bearing bits is very complicated and
+defies rigorous mathematical description or prediction. A complete discussion of bit  life, bit
+bearing, cutting structures, and when to pull a bit is given in the chapter on drilling bits. Further,
+recommended bit weights and rotary speeds are discussed in the bit chapter. At this point, it is
+sufficient to point out that the bit weight offering the lowest cost per foot is the optimum bit
+weight and can  usually be determined  through  trial and  error  for a  particular  drilling
+environment.  In general, the optimum weight is that which imparts the most energy to the bit
+consistent with the integrity of the bearing structure and the cutting structure.
+
+Undoubtedly, bit weight is the most significant factor affecting penetration rate.
+
+
+
+
+ROTARY SPEED
+
+The relationship between rotary speed and drilling rate is given by Equation 2-7 and ideally
+illustrated by Figure 2-6.
+
+         D R ∝ N a
+
+The exponent to rotary speed, a , ranges from 0.5 ≤ a ≥ 1.0.
+
+As illustrated in Figure 2-6, in soft formations, the drilling rate is linearly related (i.e. a=1) to
+rotary speed, 'a', may be as low as 0.5.  That is, increasing the rotary speed by a factor of 2
+would only increase the drilling rate by square root of 2 or 1.41. The actual value of 'a' must be
+determined for each drilling environment in order to evaluate the economics of selected drilling
+rates.
+
+In most drilling environments, the exponent to rotary speed, 'a ', is less than 1.  Figure 2-7
+illustrates actual field data obtained while drilling the Atoka shale in southeastern Oklahoma. In
+view of the nonlinear response, it is easy to jump to the conclusion that higher rotary speeds are
+not as economical as lower rotary speeds. However, Example 2.3 illustrates that each instance
+must be evaluated on it's own merit.
+
+
+
+
+8                                                         Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+
+
+
+
+  Figure 2-6. Penetration Rate Response to
+                                                                    Figure 2-7. Field Data in the Atoka Shale              Rotary Speed
+
+Example 2-3
+
+       Given:      The conditions in Example 2-1.
+
+       Determine:   The cost per foot if the rotary speed is reduced to 50 rpm assuming the
+                       relationship that L ∝ 1 / N as in Equation 2.6.
+
+                 The exponent to rotary speed, ' a ', is 0.5.
+
+        Solution:      In Example 2-1, the bit life is 100 hours at a rotary speed of 100 rpm.   If
+                     the rotary speed is cut to 50 rpm, the bit life should double since bit life is
+                      inversely proportional to rotary speed.  At 50 rpm, the bit life will be 200
+                     hours.
+
+                 The exponent to rotary speed can be used to find the new penetration
+                         rate.
+
+
+                                        0 . 5
+                                   ⎛ 50 ⎞
+                DR 50 = ⎜     ⎟   × 30fph = 21 . 2fph
+                                   ⎝ 100 ⎠
+
+                 The footage drilled at 100 rpm was 3000 feet.
+
+                 The footage drilled at 50 rpm will be:
+
+                F = 21 . 2 fph x 200 hours = 4243 feet
+
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                 9
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+                     Calculate the cost per foot at 50 rpm.
+                 C B + C r (t + T )              CT =
+                         F
+
+                                                ⎡       ⎛  2            ⎞ ⎤
+                       4000 + 2000 ⎢⎣ 200 + ⎜⎝ 1000 × 10000 ⎟⎠ ⎥⎦                  CT =                              = $ 104 .65 / ft
+                                    4243
+
+The cost per foot at 100 rpm was calculated in Example 2-1 to be $81.33 per foot.  In this
+example, the bit life is doubled while the total interval is increased by almost one-half. These
+facts alone appear impressive and might result in a decision that lower rotary speeds were more
+desirable. In fact, the cost per foot increased from $81.33 per foot to $104.65 per foot or almost
+30% when the rotary speed was reduced by one-half.
+
+Rotary speed using sealed bearing, bushing type bits are currently limited by bearing design to
+something less than 150 rpm. The close tolerance of the bushing bearing causes excessive
+heat and premature failure at higher rotary speeds.  However, rotary speeds for conventional
+roller bearing bits, diamond bits and PDC bits do not suffer this limitation and should not be
+confined to the limit. In all instances, the cost in terms of dollars per foot must dictate the drilling
+practices for a given area.
+
+BOTTOM HOLE CLEANING
+
+The importance  of bottom hole  cleaning  to  efficient  drilling  operations cannot be over
+emphasized. Too often, in actual field operations, the question of the importance of hydraulics
+continues to be debated. The chapter on hydraulics and the design of hydraulics illustrate that
+no purer application of science is used in all of the drilling industry. Why does the debate
+continue?  It is senseless.  I have heard a myriad of excuses for not using good hydraulics; but
+I've never heard a good excuse. A multi-million dollar operation is grossly inefficient without the
+proper use of those tiny jet nozzles costing but a
+few dollars each.
+
+The result of inadequate bottom hole cleaning is
+what is termed "hydraulic flounder".  Graphically,
+Figure 2-1 and Figure 2-6  illustrate the linear
+relationship between drilling rate and bit weight
+and drilling rate and rotary speed respectively.
+Quite simply, with rotary bits and drag bits, these
+relationships are not linear  if the hydraulics  is
+inadequate.  This principle was established prior
+to the advent of the jet bit in 1949 and continues
+to be proven almost daily.  This principle is true
+and provable for all drilling environments.
+
+Typical examples can be found in almost any
+publication.  Figure 2-8 adopted from Warren4
+illustrates the typical response of drilling rate to
+changes in bit weight as a function of hydraulics.    Figure 2-8. Response due to Inadequate Hydraulics
+In this figure, the drilling rate could be improved
+
+
+
+10                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+from 60 feet per hour with 40,000 pounds bit weight and poor hydraulics, as evidenced by the
+deviation from linearity, to 160 feet per hour at the same bit weight utilizing better hydraulics.
+The response of drilling rate to rotary speed is similarly affected. As Figure 2-9 adopted from
+Black5 illustrates, drilling rate is linearly related to rotary speed at lower bit weights and lower
+rates of cutting generation.  However, at higher rates of cutting generation resulting from
+increased bit weight and rotary speed, the relationship ceases to be linear.  That is, hydraulic
+flounder results.  Figure 2-10 also adopted from Black further illustrates the hydraulic flounder
+phenomena.
+
+
+
+
+
+      Figure 2-9. Response due to Inadequate
+                                                                  Figure 2-10. Poor Hydraulics        Hydraulics at Higher WOB and RPM
+
+Over the past 40 years, field data has substantiated laboratory data without exception.  Figure
+2-11 from Kexiang6 is typical of field data. Bottom hole
+cleaning is usually expressed in terms of bit hydraulics
+horsepower per square inch of hole diameter which is
+abbreviated "HHP/in2". Bottom hole cleaning is defined
+as "adequate" when the response drilling rate to weight
+on bit is linear.  Generally, 3-5 HHP/in2 is found to be
+"adequate" depending upon such variables as hole size,
+formation hardness and  drilling rate.  Hole size  is a
+variable since nozzles clean a specific area.  Therefore,
+three nozzles more than adequately cover an 8 in. hole
+while four nozzles might better cover the bottom of a
+17½ inch  hole.   Formation hardness  is an obvious
+variable affecting cutting size.  Generally, higher values
+of HHP/in2 are required for adequate cleaning in soft
+formations.   Drilling rate affects the required cleaning
+because of the volume of cuttings generated at higher
+penetration  rates.   As shown  in  Figure  2-11,  5.41
+HHP/in2 is adequate for drilling rates up to approximately
+15 feet per hour which corresponds to a bit weight of 16.        Figure 2-11. Field Data Showing
+                                                                Response to Hydraulics
+At higher  bit weights, hydraulic flounder  is observed.
+Notice that bit weights above 19 result in reduced drilling
+
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                11
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+rates and a negative slope. Actual field tests have observed the drilling rate decreasing to zero
+as a result of the phenomena of hydraulic flounder.
+
+Effects of Increased Hydraulics and Extended Nozzles
+
+A consistent question among drilling people concerns the effect of hydraulic horsepower over
+and above that required for "adequate" bottom hole cleaning.  Maurer7 demonstrated that all
+rocks, even granite, exhibited a "threshold pressure" defined as that point at which the impact of
+the fluid on the rock caused the rock to be eroded away.  Obviously, the threshold pressure is
+very low for soft formations and very high for hard rocks such as granite.  The effect for
+conventional roller bits is clearly depicted in Figure 2-11.  At a constant bit weight of 20, the
+drilling rate is approximately 15 fph with 5.41 HHP/in2, 21 fph with 9.74 HHP/in2 and 27 fph for
+11.22 HHP/in2.  Alternatively, in this case, the drilling rate was increased 80% by doubling the
+hydraulics. As always, success must be measured in terms of cost in dollars per foot. As a
+practical matter, up to 20 HHP/in2 have been routinely and successfully used in actual field
+operations and without hole enlargements or nozzle erosion.
+
+A very definitive work in this area was described by Deily8, et.al.  In these actual field tests, five
+wells were drilled in East Texas using both conventional and extended nozzle bit and pressures
+to 12,000 psi. Extended nozzles were developed to increase the impact force from the jet onto
+the bottom of the hole. As illustrated in Figure 2-12, with conventional bits, approximately 65%
+of the total impact force remains when the mud reaches bottom.  With extended nozzles,
+approximately 90% of the total impact force is available for cleaning the bottom of the hole.
+Figure 2-13, (adopted from Deily), illustrates that the soft, shallow shale formations exhibiting
+low threshold pressures, the drilling rates were dramatically improved from 60 fph to 220 fph by
+increasing the pressure from 2,500 psi to 11,000 psi, using conventional bits and extended
+nozzles.  Note that by 6,000 feet the drilling rate using 12,000 psi was  little more than that
+obtained using 2,500 psi.  The response for drilling in sand is shown in Figure 2-14 and
+illustrates that by 6,000 feet no advantage was observed using the high pressure, extended
+nozzle bits.
+
+
+
+
+
+                           Figure 2-12. Effect of Extended Nozzles on Impact Force
+
+
+
+12                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+
+
+
+
+   Figure 2-13. Effect of Increased Impact Force on       Figure 2-14. Effect of Increased Impact Force in
+                   Soft Formations                                   Sandstone
+
+
+Figure 2-15 illustrates data from the same work collected between 4000 feet and 8000 feet for
+conventional and extended nozzle bits in sand.  As shown, using conventional bits, surface
+pressures were 2,000 psi, 3,000 psi and 6,000 psi corresponding to  bit hydraulics of 5.1
+HHP/in2, 6.8 HHP/in2 and 16.8 HHP/in2 respectively. Note that no improvement was observed
+at higher pressures using conventional bits and that by 8000 feet no improvement was observed
+using extended nozzle bits.  Similar results are illustrated in Figure 2-16 for performance of
+shale.  It is reasonable to expect that at some depth, the performance curves would overlay.
+
+
+
+
+
+   Figure 2-15. No Improvement due to Extended                                                        Figure 2-16. Extended Nozzles in Shale
+        Nozzles below 8,000 ft in Sandstone
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                13
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+In these cases as in any case, the practicality must be determined in terms of cost, $/ft.  In
+general, higher pressures and/or extended nozzles should be economical in  soft, shallow
+formations.  However, in deep, hard formations, high pressures and/or extended nozzles are
+probably a waste of money.  This theory is substantiated in the field tests reported by Pratt.
+Figure 2-17 illustrates that at the Pachuta Creek Field in Clark County, Mississippi, extended
+nozzle bits improved performance to almost 10,000 feet.  Beyond 10,000 feet, there was no
+advantage with extended nozzle bits. In this author’s experience, the hydraulics generally used
+by the industry world-wide are only adequate for hole sizes of approximately 8 inches. For hole
+sizes less than 6 inches, the presence of adequate hydraulics in routine drilling operations is
+virtually nonexistent. The same is true for hole sizes larger than 9 inches. The routine use of
+higher values of hydraulics horsepower at the bit is equally rare.  The conscientious drilling
+engineer can be an instant success by properly designing hydraulics for the 12¼ to 17½ inch
+surface holes and the 6 inch production hole.  In one actual incident in the deep Anadarko
+basin, the drilling cost in the 6 inch hole was reduced from $300 per foot to $70 per foot by
+merely utilizing reasonable hydraulics.
+
+
+
+
+
+                   Figure 2-17. Increased Penetration Rate to 10,000 ft with Extended Nozzles
+
+
+
+
+
+14                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+HYDRAULICS AND PDC BITS
+
+The use of PDC bits is relatively recent. However, considerable research, both in the laboratory
+and in the field, has clearly demonstrated that hydraulics is even more important to successful
+PDC bit operations. The effect of hydraulic horsepower on PDC operations is well established.
+
+A good example  is the work performed and summarized by Holster and Kipp9.  These
+researchers performed  laboratory  studies  of  the  affect  of  bit  hydraulic horsepower on
+penetration rate using  oil base and
+water base muds  in three different
+type formations - Pierre shale which
+is very soft, Mancos shale and Berea
+sandstone.     Typical   results  are
+illustrated  in Figure  2-18.   In  this
+case,   the   laboratory   research
+confirmed       field      experience.
+Performance  using PDC  bits was
+acceptable using oil base mud and a
+dismal   failure  using  water  base
+muds.  Prior to 1984, the use of bit
+hydraulic   horsepower  was   not
+considered important. From analysis
+of Figure 2-18,  it is obvious that bit
+balling  using  water muds  at  low
+values  of  bit  hydraulic horsepower
+causes   unacceptable   penetration
+rates.     It  is equally clear  that the
+drilling rate is linearly related to  bit
+hydraulic horsepower at the higher
+values.   It is interesting that with oil
+mud   in  the  Mancos  shale,  the
+penetration  rate  is  unaffected  by
+hydraulic horsepower.  Figure 2-19
+suggests that in extremely soft shales
+such as the Pierre,  oil muds might
+offer acceptable drilling rates without
+attention to hydraulics. However, it is
+indicated that the most economical
+operation would be obtained using
+water muds  at  high values  of  bit
+hydraulic horsepower. As illustrated
+in Figure 2-19, the penetration rate is                                                       Figure 2-18. Effect of Hydraulics on PDC Bits
+doubled from 50 fph at 1 HHP/in2 with
+oil base mud  to 100 fph  at 8-10
+HHP/in2 with water base mud.  In more competent formations such as Berea sandstone, little
+difference was observed when comparing oil and water muds with water exhibiting a slight
+advantage at higher values of HHP/in2 (see Figure 2-20).
+
+In the Berea sandstone, both muds balled the bit at lower values of bit hydraulic horsepower.  It
+is extremely important to note that drilling rate increased linearly with bit hydraulic horsepower
+above 2 HHP/in2.
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                15
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+
+
+
+
+           Figure 2-19. Hydraulics for PDC Bits in              Figure 2-20. Hydraulics for PDC Bits in
+                      Soft Formations                                Harder Formations
+
+Field  results substantiate these laboratory  results.   Onisko10 reported  that  bit hydraulics
+horsepower in the range of 17-19 HHP/in2 was required for successful, economical application
+of the PDC bits.
+
+MUD PROPERTIES
+
+It is extremely difficult to define the specific effects of the mud properties on drilling rate because
+it is virtually impossible to completely isolate each variable. The effect of some properties is
+rather obscure while others only affect performance because of an adverse affect on some
+other mud property. The effect of still other properties is quite well defined.
+
+Mud Weight
+
+Specifically,  it is not mud weight, which effects penetration rate.  Rather,  it is the difference
+between mud weight and formation pore pressure. A typical response between drilling rate and
+differential pressure is illustrated in Figure 2-21.  In this figure, adopted from Cunningham,11 the
+relationship between drilling rate and differential pressure for laboratory tests on soft Duval
+County shale indicates that the drilling rate can be reduced in soft formations ten fold! In fact, in
+other laboratory tests, the differential pressure was increased until the penetration rate was
+reduced to zero. The hyperbolic relationship continues with negative differential pressures (i.e.
+formation pressure greater than drilling fluid hydrostatic).  Drilling under-balanced and ultimately
+drilling with air result in substantially improved penetration rates. As illustrated earlier in Figure
+
+
+
+
+16                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+2-1 , drilling with air in the Atoka shale of southeastern Oklahoma improved penetration rates by
+a factor of sixteen (4-66 fph at 2000#/in).
+
+Cunningham further demonstrated that the characteristics of Figure 2-21 are a function of
+formation hardness.   Figure 2-22 adopted from Cunningham's work  illustrates  that  the
+differential pressure has very  little effect on penetration rate in the very dense Ellenberger
+Dolomite.
+
+
+
+
+
+     Figure 2-21. Drilling Rate versus Overbalance         Figure 2-22. Effect of Formation Hardness on
+                                                                                     Drilling Rate
+
+It has been suggested that the reduction in drilling rate is a result of an instantaneous filter cake
+along with a "chip hold down" effect which is related to the differential pressure across the chip.
+In a very good paper by Black, et.al.12, laboratory tests relating rate of penetration and filter cake
+differential pressure with various muds are discussed. The researchers tested the relationship
+between penetration rate and filter cake differential pressure using low solids, non-dispersed
+(LSND), low solids, non-dispersed (LSND-SPA), dispersed (Disp) and oil emulsion.
+
+The compositions and properties of the muds used in the tests are given in Table 2-1 and Table
+2.2. As illustrated in Figure 2-23, the mud type had a greater affect (80 fph-100 fph) at lower
+differentials than at higher differential (20-23 fph).    It is equally interesting that the poorer
+performer was the oil emulsion mud followed closely by the low solids, non-dispersed mud
+containing the sodium polyacrylate filter loss additive. Undoubtedly, the oil emulsion filter cake
+was least permeable of all muds tested. This effect is discussed further in the section dedicated
+to filtration rate effects on rate of penetration.
+
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                17
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+                            Table 2-1. Composition of the Muds used in the Tests
+
+
+           MATERIAL                 CONCENTRATION PER BARREL
+
+                               LSND   LSND-SPA    DISP    OIL EMUL
+
+Water, bbl                                  0.94        0.94        0.93        0.82
+Bentonite, lbm                             10.00       10.00       22.00       14.00
+Caustic soda, lbm                           0.05        0.05        1.00        0.50
+Barite, lbm                                35.00       35.00       25.00       45.00
+Simulated Drill Solids (Rev Dust), lbm        25.00       25.00       25.00       25.00
+Beneficiating Polymer (Benex), lbm           0.01        0.01        0.005       0.005
+Sodium Polyacrylate (SPA), lbm              0.00        1.25        0.00        0.00
+Lignite, lbm                                 0.00        0.00        4.00        4.00
+Lignosulfonate, lbm                          0.00        0.00        6.00        0.50
+
+Diesel, bbl                                  0.00        0.00        0.00        0.10
+Cellulosic Polymer (Drispac Superlo), lbm     0.00        0.00        0.00        0.50
+
+
+
+                             Table 2-2. Properties of the Mud Used in the Tests
+
+
+                    LSND       LSND-SPA        DISP        OIL EMUL
+
+
+                       Before    After   Before    After   Before    After   Before    After
+
+Test Temperature, °F    110    110    110    110    110    110    110    110
+Density, lbm/gal          9.5      9.5      9.5      9.5      9.5      9.5      9.5      9.5
+
+Plastic Viscosity, cp      9      10     14     14     17     23     16     15
+Yield Point, lbf/100 ft2     14     10      6      7      13     13     13     12
+
+Apparent Viscosity, cp    16.0    15.0    17.0    17.5    23.5    28.5    22.5    21.0
+Initial Gel, lbf/100 ft2      12      5      4      4      4      5      5      4
+10 Min. Gel, lbf/100 ft2    24     19      6      6      9      13      8      9
+
+pH                       8.0      8.0      8.0      8.0      9.5      9.5      9.5      9.5
+API Filtration Rate,                          1.0      0.9     0.43    0.43    0.41    0.41    0.43    0.43
+       in3/30 min.
+API Filtration Rate,                        16.4    14.8     7.0      7.0      7.0      6.8      7.1      7.0
+       cc's/30 min.
+
+
+
+
+
+18                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+
+
+
+
+                Figure 2-23. Penetration Rate as a Function of Mud Type and Pressure Differential
+
+Mud Type
+
+It is well established that mud type significantly affects penetration rate.   It is indisputable in
+laboratory tests and field experience that air drills much faster than any other media.  Of the
+liquid systems commonly used, performance is much better with clear water free of all solids.
+As typified in Figure 2-2, water with solids generally drills considerably slower than solid free
+water while most water with inert solids.  Oil muds are always the poorest performers with
+penetration rates 10-30% slower than water muds.  The reasons for these differences will
+become clearer as the effects of other mud properties are discussed.  It should be noted that, as
+discussed in the bit chapter, bit life and performance decreases in the presence of different
+drilling fluids and in the same order. So, the effect is compounded. That is, air drills faster and
+bits last longer. Water drills faster than mud and bits last longer in water than in mud.
+
+Solids
+
+That solids effect the penetration rate is well defined and  little understood.  As Figure 2-2
+illustrated, solids free water drills faster than water containing inert solids that drills faster than
+water containing active solids. Therefore, once solids are introduced to the system, the activity,
+size and numbers affect the drilling rate.
+
+Since solids contribute to mud weight,  their mere presence  will reduce penetration  rate.
+Typically, the mere presence of solids will reduce drilling rate by as much as 30%.  Figure 2-24
+adopted from Nelson,13 typifies the effects of solids types on penetration rate. As illustrated, the
+clays with particle sizes less than 30 microns and being most reactive have a greater effect than
+less reactive drill solids with particle sizes in the range of 44 microns. Barite has the least effect
+illustrated because it is essentially inert.  It has been shown that dispersed clays will drill slower
+than non dispersed clays, which drill slower than flocculated clays. Basically being, the reasons
+are relative particle size, effective numbers of solids and water required to wet the solids.
+
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                19
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+                                                             Fluid Properties
+
+                                                           Viscosity:
+
+                                            The viscosity of the drilling fluid in the
+                                       mud tanks has  little or no effect on
+                                                       penetration   rate.     However,  as
+                                                                illustrated in Figure 2-25, drilling fluids
+                                                    are shear  thinning  fluids.   That  is,
+                                                                     drilling mud setting in a mud tank is
+                                         much  thicker  than  that same  fluid
+                                                   passing through a jet nozzle.  In the
+                                                  concept of "chip hold down", the ability
+                                                            of  the  drilling  fluid  to  equalize  the
+                                                    pressure around a chip and allow  its
+                                                 removal  from  bottom   is  inversely
+                                                         related  to  the  viscosity  of  the  fluid
+                                               coming from the nozzle.  Pursuant to
+                                                            that concept and, water muds shear  Figure 2-24. Effect of Solids Type and Content on Penetration
+                           Rate                           thinner than  oil muds and would  drill
+                                                            faster which is true.
+
+In  addition,  viscosity   is  usually
+caused by the addition of solids to
+the   system.      Therefore,   the
+reduction in drilling rate would be
+contributable  to  the  increase  in
+solids as previously discussed and
+the increase in mud weight caused
+by the  solids.   This  is a  further
+illustration   of   the   difficulty   in
+nullifying    the    interaction    of
+variables.     It must be concluded
+that for reasons that may even be
+unrelated  to  the  viscosity  of  the
+system, as a practical matter, when
+the viscosity of the mud in the field
+is increased, the penetration rate
+will be reduced.
+
+Filtration Rate:
+
+It can and has been shown that no
+relationship     exists    between      Figure 2-25. Shear-Thinning Characteristics of Drilling Fluids
+penetration rate and API  filtration
+rate.  However,  it  is equally well
+known in field operations that lowering the filtration rate dramatically reduces drilling rates.
+
+One factor is related to the concept of chip hold down. Many researchers have observed an
+instantaneous mud filter cake on the bottom of the hole.   It is the presence of this filter cake
+along with the magnitude of the  differential pressure between mud hydrostatic and pore
+pressure that contributes to the chip hold down or inability of the mud to remove a cutting in
+
+
+
+20                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+order for the bit to generate a new cutting.  The ability of the mud to equalize the pressure
+around the cutting reduces the chip hold down, permits the chip to be transported from bottom
+and allows the  bit to generate new cuttings.  As previously described, an increase in the
+viscosity of the mud despite shear thinning at the nozzle reduces the ability of the mud to
+equalize the pressure around the chip. Since most filtration control agents merely thicken the
+liquid phase of the mud system, the viscosity at the bit is also increased which reduces the
+ability of the mud to equalize pressure around the chip (i.e. increases chip hold down) and
+reduces penetration rate.  In addition, as filtration is reduced by thickening the liquid phase, the
+mud  entrains  more  small  particles,
+which reduce penetration  rate.  Note
+that  in  Figure  2-23,  the  dispersed
+system performed better than the LSND-
+SPA.  Note also in Table 2-1 that with
+the LSND-SPA,  filtration  control was
+accomplished with the polymer sodium
+polyacrylate which thickens the  liquid
+phase while with the dispersed system
+filtration  control was  obtained  using
+lignite and lignosulfonate which function
+as a result of dispersing the clays.   It is
+also  interesting  that  the  oil emulsion
+mud contains cellulosic polymer, which
+also thickens the liquid phase.
+
+A more tangible aspect of the effect of
+filtration  control  on   drilling  rate   is
+illustrated in Figure 2-26 adopted from
+Doty.14  In this figure, the drilling rate is
+directly proportional to bit filtration rate
+or  the  filtration  rate beneath  the  bit
+which was calculated as the difference
+between  the   drilling  and  circulating
+filtration rates.  These data support the
+chip hold down concept since reduced
+pressure drop across the newly formed
+chip occurs with increased bit filtration
+                                                  Figure 2-26. Drilling Rate as a Function of Filtration Rate
+rate, permitting faster chip displacement
+from beneath the bit.
+
+AUXILIARY PRACTICES
+
+The following are termed auxiliary practices because they affect overall cost, efficiency and
+performance.  Perhaps  it is even more important that these practices affect attitude toward
+drilling operations.
+
+Short Trips
+
+There is no operation in the entire history of the industry that is performed more routinely with
+less justification. There is no known economic justification for the short trip before logging, drill
+stem testing or running casing.  In fact, the very limited data available suggest that the success
+of logging is unrelated to short trips and that more hole problems occur when short trips are
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                21
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+made. Why does our industry rely on fear and superstition? Why do we believe in the mystic?
+Why are we unwilling to apply the cost tests instead of blindly moving on the same road?
+
+Short trips have a place and a purpose in drilling on selected occasions.  Routine short trips
+during drilling to "keep the hole open" are usually symptomatic of poor drilling practices in other
+areas.  Routine short trips before logging,  if truly required, are usually symptomatic of poor
+drilling practices and probably a waste of money.
+
+Reaming connections consists of passing the bit up and down the hole prior to making a
+connection.  In one operation in Central America, ten minutes were required to drill a joint and
+twenty minutes were consumed passing the bit up and down over the 30 feet just drilled. In that
+particular instance,  drilling costs were up 600%  overall and practices such as reaming
+connections were the reason why. Normally, it should not be necessary to ream connections.
+
+Trip time and connection time has become excessive in recent years. Round trip times of one
+hour per thousand feet are considered good. Anything in excess of two hours per thousand feet
+should be considered excessive.
+
+The rig chosen should be that rig best designed to fit the particular job specification. There is no
+economic advantage in having too much rig. Neither is there any advantage in having a rig that
+is under-designed for the project.
+
+Bottom Hole Assemblies
+
+As in all other aspects of drilling, cost and overall economics must be the ultimate measure.
+Stabilizers in bottom hole assemblies should only be used in directional wells or in wells where
+deviation problems are common.   Stabilizers in holes where deviation is not common are
+usually a waste of money.  There are some that suggest that a stabilizer above a drag bit is
+necessity or improves performance enough to pay for the stabilizer - a concept of doubtful
+validity. However, a stabilizer above a roller bit will not improve performance or life enough to
+pay for the stabilizer. In very hard formations that exhibit a tendency to cause gauge problems,
+stabilizers may prove cost effective.  Generally, blade stabilizers are more expensive than
+replaceable wall stabilizers (about 30%) which are more expensive than roller equipment which
+is more expensive than rubber sleeve stabilizers.
+
+In directional wells, it is now well established that control is maintained in the bottom ninety feet
+of assembly.  Any use of stabilizers more than 90 feet from bottom is probably a waste of
+money. The most cost effective bottom hole assembly in directional wells appears to be one
+stand of drill collars and heavy drill pipe.
+
+In the last fifteen years, it has become common to run drilling jars in the string. The routine use
+of drilling jars is without economic justification. Another case in point is the routine use of shock
+subs.  If the vibration is so severe that it is not possible to keep the rotary drive bushings in the
+rotary table, a shock sub is warranted.  Otherwise,  it will not withstand the economic test.
+These may seem like insignificant issues; however, cost consciousness must apply to all areas.
+
+Casing Strings/Hole Sizes
+
+Casing strings are run for a variety of reasons, and a complete discussion is given in the
+chapter on casing design. Some of the poorer reasons for running casing are:
+
+       •  We don't like a lot of open hole.
+
+
+
+22                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+       •  We've been doing it this way since 1939 and ...
+
+Sometimes, we are compelled by some primeval force to run casing.  There exists the
+"international casing string" which is the combination of 20 inch, 13⅜ inch, 9⅝ inch and 7 inch.
+Almost by definition, this combination is mindlessly run in international operations no matter
+whether well is 2,000 feet deep or 20,000 feet deep,  it must have the "international casing
+string". There is only one good reason for running casing below surface pipe. That reason is
+that it would be impossible to drill any deeper without setting pipe!
+
+The hole sizes should be dictated by need. Large holes are more expensive to drill, case and
+cement than are small holes.  It would be economic madness to drill a small hole in the Middle
+East where large production volumes are
+anticipated.  However, there  is a subtle
+efficiency  in  designing  wells  to  meet
+needs.  For example, during the late 50's
+and early 60's, a 12,000 foot gas reservoir
+was being developed in the Midwest. The
+first   ten   wells  were  completed  as
+illustrated   in  Figure  2-27   (A)   with
+completed   costs   ranging   between
+$230,000 and $290,000 with the average
+being $260,000.  An enterprising young
+drilling engineer analyzed the peculiarities
+and needs for the field and recommended
+the program and combination illustrated in
+Figure 2-27 (B). The remaining ten wells
+in the  field were  drilled, completed and
+equipped for an average cost of $190,000
+with the high being $192,000 and the low
+being $188,000. The $70,000 savings per
+well represented one free well out of every
+four.  Some were  quick  to  prophesy
+disaster in the future.  I have followed this
+field throughout its history.  It is now in the
+latter stages of depletion.  Only one well
+experienced  tubular problems and was
+lost - one of the original ten.   It is equally
+interesting that no one did or could have
+prophesied the savings experienced. That
+is, the sum of the parts added to less than  Figure 2-27. Casing Program Comparison for the Same Well
+the  total   -  a common  experience  in
+economizing drilling operations.
+
+SUMMARY
+
+Efficiency in drilling must be a team effort. Everyone involved from top level management to the
+roughneck must have the same priorities to be successful.  Success is as much attitude as
+engineering. Good, new ideas must be given every opportunity to be successful. The industry
+can  ill afford the hard-headed, old stereotype that hasn't learned anything new in thirty years
+and refuses to consider anything different.  That is not to say that experience is not valuable.
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                23
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 25 ]
+────────────────────────────────────────────
+D r i l l i n g P r a c t i c e s
+C h a p t e r 2
+
+Experience  is extremely valuable and should be coupled with an open mind and sound
+engineering to continue to bring new technology to drilling.
+
+In an Arctic operation, the first well was drilling at 7,000 feet at a rate of two feet per hour. Good
+drilling people were involved and suggestions were made. Those involved could have adopted
+the attitude that they were doing the best that could be done and continued. However, to their
+credit, they admitted that it was a poor drilling operation and opened their hearts and minds and
+dug into their experiences in an effort to improve.  Their efforts were rewarded. The first well
+was at 9,173 feet in 125 days and 11,044 feet in 168 days. The second well was drilled to
+9,123 feet in 78 days, saving 47 days at $30,000 per day for total savings of $1,410,000. The
+third and final well was drilled to 13,522 feet in 92 days at estimated savings of more than
+$3,000,000!  All this resulted because a few good drilling people adopted the attitude that they
+could do better and dedicated themselves to doing better.
+
+One final observation. A drilling operation cannot be economized or optimized in part.  To
+obtain the ultimate benefit, all the factors must be optimized together. The whole is inevitably
+greater than the sum of the parts. In all the illustrations, minimum benefit could only be gained if
+the other variables had been optimized. For example, Figure 2-1, the best response between
+drilling rate and bit weight was obtained when the best fluid (air) was used at higher rpm. The
+same is true for Figure 2-2 where the best response to bit weight was obtained for clear water
+with the worst being obtained in the presence of the poorest drilling fluid - oil mud. In Figure 2-4
+for drag  bits, increasing  bit weight  is almost insignificant unless the rotary speed  is also
+increased.  It should be obvious that without good hydraulics, nothing works - and so it goes. In
+all, remember the old KISS rule - Keep It Simple, Stupid!
+
+NOMENCLATURE
+
+          a  =  Exponent to rotary speed, usually between 0.5 and 1.0
+          b  =  Bearing wear factor
+      C B  =   Bit cost
+       C r  =  Hourly rig cost
+       CT  =  Cost or Cost per foot
+      CTC  =  Total cost per foot for the entire well
+
+         d  =  Exponent to bit weight
+      D R  =   Drilling rate
+
+         F  =  Footage drilled, ft
+        K  =  Slope
+          L  =  Bearing life
+       N  =  Rotary speed (rpm)
+                    t  =  Rotating time (hours)
+
+        T  =  Trip time (hours)
+     W  =  Weight on bit
+
+
+
+24                                                        Copyright © 2003 OGCI/PetroSkills. All rights reserved
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 25 ]
+────────────────────────────────────────────
+                                                         D r i l l i n g P r a c t i c e s
+                                                      D r i l l i n g C o s t C o n t r o l
+
+SI UNITS
+
+No conversion necessary
+
+
+REFERENCES
+
+
+1Black, Alan, et.al., "Effects of size on Three-Cone Bit Performance in Laboratory Drilled Shale",
+ SPE 11231, 1982.
+2Doty, P.A., "Clear Brine Drilling Fluids: A Study of Penetration Rates, Formation Damage and
+  Well Bore Stability in Full Scale Drilling Tests", SPE Drilling Engineering, February, 1986, pp
+  17.
+3Black, A.D., et.al., "PDC Bit Performance for Rotary Mud Motor and Turbine Drilling
+  Applications", SPE Drilling Engineer, December, 1986, pp 409.
+4Warren, T.M., "Penetration Rate Performance of Roller-Cone Bits", SPE Drilling Engineering,
+  March, 1987, pp 9.
+5Black, A. D., et.al.
+6Kexiang, Li, "Current Status and Future Trends of Jet Bit Drilling in China", SPE Drilling
+  Engineer, August, 1986, pp 257.
+7Maurer, W.C., "High Pressure Drilling", Journal of Petroleum Technology, July 1973, pp 851.
+8Deily, F.H., et.al., "Five Wells Test High-Pressure Drilling", Oil and Gas Journal, July 4, 1977,
+  pp 74.
+9Holster, Jesse L. and Kipp, Robert J., "Effect of Bit Hydraulic Horsepower on the Drilling Rate
+  of a Polycrystalline Diamond Compact Bit", Journal of Petroleum Technology, December,
+  1984, pp 2114.
+10Onisko, J.E., "Application of Polycrystalline Diamond Compact Bits in the Kuparuk River Field,
+  Alaska", Journal of Petroleum Technology, July, 1985, pp 1220.
+11Cunningham, R.A., "An Empirical Approach for Relating Drilling Parameters", Journal of
+  Petroleum Technology, July, 1978, pp 987.
+12Black, A.D., et.al., "Effects of Pore Pressure and Mud Filtration on Drilling Rates in a
+  Permeable Sandstone", Journal of Petroleum Technology, September, 1985, pp 1671.
+13Nelson, M.D., "Drilling Impedance of Mud Solids", World Oil, February, 1975, pp 55
+14Doty, P.A., et.al.
+
+
+
+
+
+Copyright © 2003 OGCI/PetroSkills. All rights reserved.                                                25
+
+

@@ -1,0 +1,532 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 51 ]
+────────────────────────────────────────────
+DRILLING COST ESTIMATION
+
+
+
+          WDE
+            M.I.T-WPU
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 51 ]
+────────────────────────────────────────────
+        AFE- authority for expenditure
+
+•   Preparing  cost  estimates  for  a  well and  getting management
+   approval in the form of an AFE is the final step in well planning.
+•  The AFE is often accompanied by a projected payout schedule or
+   revenue forecast.
+•   Although an essential part of well planning, the cost estimate is
+   often the most difficult to obtain with any degree of reliability.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 51 ]
+────────────────────────────────────────────
+•  A properly prepared well  cost estimate may require  as much
+   engineering work as the well design.
+•  The costs should address dry holes and completed wells.
+•   In  addition,  accounting  considerations  such  as  tangible and
+   intangible items must be taken into account.
+•   Unfortunately, many  cost  “guestimates”  are  the “back  of the
+   napkin” type, with only a small amount of engineering work used
+   in the process.
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 51 ]
+────────────────────────────────────────────
+•  The cost estimate is the last item to be considered in the well plan,
+   because  it  is heavily dependent on the technical aspects of the
+   projected well.
+•   After  the  technical  aspects  are  established, the expected time
+   required to drill the well must be determined.
+•  The actual well cost is obtained by integrating expected drilling
+  and completion times with the well design.
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 51 ]
+────────────────────────────────────────────
+       Factors/cost estimates evaluated in an AFE
+The following are some of the major cost estimates captured in the AFE:
+•   Projected drilling time
+•   Time categories/ time considerations
+•   Location preparation
+•    Drilling rig and tools
+•    Drilling fluids
+•   Rental equipment
+•   Cementing
+•   Support services
+•   Transportation
+•   Supervision and administration
+•   Tubulars
+•   Wellhead equipment
+•   Completion equipment
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 51 ]
+────────────────────────────────────────────
+              Cost estimate categories
+
+
+Engineering considerations include:
+1. Dry-hole and completed costs
+2. Logical grouping, such as completion equipment or tubular goods
+3. Convenience groupings, such as rental equipment
+Accounting considerations include:
+1. Tangible items
+2. Intangible items
+3. contingency items
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 51 ]
+────────────────────────────────────────────
+[صفحه 7: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 51 ]
+────────────────────────────────────────────
+            Tangible And Intangible Costs
+
+
+•   Accounting and tax principles treat tangible and intangible costs
+   in different ways.
+•  As a result, they must be segregated in the cost estimate.
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 51 ]
+────────────────────────────────────────────
+Although intangible costs are difficult to define precisely, they include
+   expenditures incurred by the operator for:
+1. Labor
+2. Fuel
+3. Repairs
+4. Hauling
+5. Supplies
+These expeditures are generally used for:
+1.  Drilling, perforating, and cleaning wells.
+2. Preparing the surface site prior to drilling.
+3. Construction derricks, tanks, pipelines, and other structures erected in
+   connection with drilling, but not including the cost of the materials
+   themselves.
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 51 ]
+────────────────────────────────────────────
+The fundamental test is defining the salvage value of the item. If the
+   item does not have a salvage value, it is an intangible.
+Intangible drilling and development costs do not include the
+   following:
+1. Tangible property ordinarily considered as having salvage value.
+2. Wages, fuel, repairs, hauling, supplies, etc., in connection with
+   equipment facilities or structures not incident to or necessary for
+   the drilling of wells, such as structures for storing oil.
+3. Casing, even though required by state law.
+4. Installation of production facilities.
+5. Oilwell pumps, separators, or pipelines.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 51 ]
+────────────────────────────────────────────
+Detailed cost analysis
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 51 ]
+────────────────────────────────────────────
+[صفحه 12: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 51 ]
+────────────────────────────────────────────
+    COST ESTIMATION/ AFE – Problem
+
+•  A recommended bit program is being prepared for a new oil well
+   using. A bit performance recoeds from nearby offset wells. Drilling
+   performance record for their bits in thick limestone formation @
+   9000  ft  is being  provided. Determine which  bit  gives  lowest
+   drilling cost. Operational cost of rig is 400 dollars per hour. Trip
+   time is 7 hours. Connection time is 1 min / connection. Assume
+   that each   of the  bit was operated at near minimum cost/  ft
+   attainable for that bit.
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 51 ]
+────────────────────────────────────────────
+           DATA
+
+
+
+
+
+SR NO       BIT COST    ROATATION  CONNECTIO  PENETRATI   BIT
+           DOLLAR     TIME      N TIME    ON TIME
+                       (HOURS)     (HOURS)     (FT/HR)
+
+1           800          14.8          0.1           13.8       A
+
+2           4900         57.7          0.4           12.6        B
+
+3           4500         95.8          0.5           10.2        C
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 51 ]
+────────────────────────────────────────────
+           DATA
+
+
+
+
+
+SR NO       BIT COST    ROATATION  CONNECTIO  PENETRATI   BIT
+           DOLLAR     TIME      N TIME    ON TIME
+                       (HOURS)     (HOURS)     (FT/HR)
+
+1           800          14.8          0.1           13.8       A
+
+2           4900         57.7          0.4           12.6        B
+
+3           4500         95.8          0.5           10.2        C
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 51 ]
+────────────────────────────────────────────
+      CALCULATE FOR EACH BIT
+
+•  ROTATING COST
+•  TRIPPING COST
+•  DRILLING COST
+•  TOTAL COST
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 51 ]
+────────────────────────────────────────────
+             Trip Time
+
+• The  time  required  for  tripping  operations  depends
+   primarily on the depth of the well, the rig being used, and
+  the drilling practices followed. The time required to change
+  a bit and resume drilling operations can be approximated
+   using the relation-
+
+
+where,
+tt is trip time required to change bits and resume drilling,
+ts is average time required to handle one stand of drillstring,
+ls is average length of one stand of drillstring.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 51 ]
+────────────────────────────────────────────
+             Drilling cost
+
+The drilling cost per foot can also be found using,
+
+
+
+
+where,
+Cf is drilled cost per unit depth,
+Cb is cost of bit,
+Cr is rig cost,
+tb is bit run time, tt trip time
+tc is non rotating time,
+∆D is footage drilled.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 51 ]
+────────────────────────────────────────────
+             Drilling cost
+
+CT = (B + CR (t + T)) ÷ F
+Where:
+  CT = drilling cost per foot
+  B = bit cost
+   t = drilling time
+  CR = Rig cost per hour. This number must include
+   all fixed daily cost not just only drilling contractor
+  rate.
+  T = round trip
+  F = footage drill
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 51 ]
+────────────────────────────────────────────
+         PROBLEM
+
+•   Penetration rate for gas, foam, mud in an area are 10 ft/hr, 5 ft/hr, 1
+   ft/hr respectively. If gas is used, each water zone encountered must be
+   sealed out. Cost of plugging treatment is 2000 dollar and 25 hour of
+   additional  rig time  is required to complete sealing operation. The
+   normal operating cost of air drilling is 200 dollar/ hr. The use of foam
+    drilling agents require 60 dollar/ hr additional. The normal operating
+   cost of (mud) 160 dollar/hr. That is regardless of d/p used. Bit cost is
+   1000 dollars. Bit life is 25hrs. Average trip time is 6 hours.
+•   Determine: 1. fluid yielding lowest drilling cost if  one water zone is
+   encountered per 1000 ft drilled. 2. If 5 water zones are encountered /
+   1000 ft Drilled for 10000 ft
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 51 ]
+────────────────────────────────────────────
+          SOLUTION
+
+• TOTAL COST FOR ALL THREE CONDITIONS
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 51 ]
+────────────────────────────────────────────
+           Example:
+
+Determine the drilling cost per foot (CT) using
+  the following data:
+Bit cost (B) = 27,000 $
+  Drilling time (t) = 50 hours
+  Rig cost (CR) = $3500/hour
+  Round trip time (T) = 12 hours
+  Footage per bit (F) = 5000 ft
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 51 ]
+────────────────────────────────────────────
+CSD
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 51 ]
+────────────────────────────────────────────
+[صفحه 24: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 51 ]
+────────────────────────────────────────────
+[صفحه 25: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 51 ]
+────────────────────────────────────────────
+KT
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 51 ]
+────────────────────────────────────────────
+          CSD 2
+
+
+
+
+                                 Overburden      Overburden pressure                                  Fracture Gradient
+Depth (ft)         Poisson’s ratio                                  Mud wt operating (ppg)
+                                     pressure (psi)          gradient (ppg)                                           (ppg)
+
+
+
+ 1640            0.319         1422         16.67448405             9.26          14.71835198
+
+ 4264            0.392         4068         18.34680329             9.75           16.6956177
+
+ 7380            0.43         8275         21.56295601            10.17          19.85079989
+
+
+ 8200            0.44         8969         21.03424015            11.75          19.84912221
+
+
+ 9840            0.45         10242        20.01641651            13.34          19.27585843
+
+
+ 11152            0.46         11608        20.01710628            15           19.55087428
+
+
+ 12956            0.47         14225        21.11436341             17.5          20.84778926
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 51 ]
+────────────────────────────────────────────
+KT 2
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 51 ]
+────────────────────────────────────────────
+[صفحه 29: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 51 ]
+────────────────────────────────────────────
+Formulas
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 51 ]
+────────────────────────────────────────────
+Formula
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 51 ]
+────────────────────────────────────────────
+Gas Behaviour in open and closed
+           system
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 51 ]
+────────────────────────────────────────────
+[صفحه 33: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 51 ]
+────────────────────────────────────────────
+Problem
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 51 ]
+────────────────────────────────────────────
+DSF
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 51 ]
+────────────────────────────────────────────
+Problem
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 51 ]
+────────────────────────────────────────────
+Problem
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 51 ]
+────────────────────────────────────────────
+Problem
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 51 ]
+────────────────────────────────────────────
+Problem
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 51 ]
+────────────────────────────────────────────
+Problem
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 51 ]
+────────────────────────────────────────────
+Problem -7
+
+
+────────────────────────────────────────────
+[ صفحه 42 از 51 ]
+────────────────────────────────────────────
+[صفحه 42: اسکن/تصویر — برای استخراج متن OCR را فعال کن (pytesseract + Tesseract)]
+
+
+────────────────────────────────────────────
+[ صفحه 43 از 51 ]
+────────────────────────────────────────────
+Problem-8
+
+
+────────────────────────────────────────────
+[ صفحه 44 از 51 ]
+────────────────────────────────────────────
+Problem-9
+
+
+────────────────────────────────────────────
+[ صفحه 45 از 51 ]
+────────────────────────────────────────────
+Drill cost-10
+
+
+────────────────────────────────────────────
+[ صفحه 46 از 51 ]
+────────────────────────────────────────────
+        BREAK-EVEN ANALYSIS
+
+•  The  break-even  analysis   is  usually  used  to  investigate  the
+   economics of replacing a current cheap bit by a more expensive bit
+   or vice versa. The comparison is normally based on a graph of
+   footage against rig hours. The graph is established as follows:
+
+
+────────────────────────────────────────────
+[ صفحه 47 از 51 ]
+────────────────────────────────────────────
+2.Add  trip time  to A  to obtain the  total number  of  rig hours
+corresponding        to        the         cost         of        the
+new           bit         before          drilling        commences.
+Call                     this                 time                  B.
+
+
+────────────────────────────────────────────
+[ صفحه 48 از 51 ]
+────────────────────────────────────────────
+2.Add  trip time  to A  to obtain the  total number  of  rig hours
+   corresponding        to       the        cost        of       the
+  new          bit        before          drilling       commences.
+   Call this time B.
+
+
+────────────────────────────────────────────
+[ صفحه 49 از 51 ]
+────────────────────────────────────────────
+      Break even analysis
+
+
+
+
+
+This line is the breakeven line. Any footage and hour combination on
+this line is a break-even point. Above this line, the new bit will produce
+lower cost/ft than the offset bit and below this line the new bit is more
+expensive to run.
+
+
+────────────────────────────────────────────
+[ صفحه 50 از 51 ]
+────────────────────────────────────────────
+Problem-11
+
+
+────────────────────────────────────────────
+[ صفحه 51 از 51 ]
+────────────────────────────────────────────
+[صفحه 51: خالی]
+
+

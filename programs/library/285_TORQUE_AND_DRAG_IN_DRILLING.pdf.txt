@@ -1,0 +1,422 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 22 ]
+────────────────────────────────────────────
+ TORQUE AND DRAG IN DRILLING
+
+
+
+
+
+Courtesy
+Drilling Manual
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 22 ]
+────────────────────────────────────────────
+•  Drag is an axial force, generated between the contact force between the drill string when
+    it's moving and the formation or the casing.
+•  Torque, is the rotational force between the drill string and the formation. There are two
+  main causes of torque and drag, side forces and friction.
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 22 ]
+────────────────────────────────────────────
+•  Drill string drag is the incremental force required to move the pipe up or down in the hole; torque is the moment
+  required to rotate the pipe.
+• Drag forces usually are given relative to the string weight measured with the string rotating but not reciprocating.
+• Torque and drag are the results of friction caused by a moving pipe inside the wellbore: torque occurs when rotating
+  the pipe along the wellbore and drag occurs when moving the pipe.
+Drill pipe torque calculated
+• Force = Torque ÷ Length of the tong
+• Force is perpendicular to the tong length.
+• Example: Connection 4-1/2” IF – required make up torque = 30,700 ft-lb
+Slack off weight in drilling
+• Set-down weight, also referred to as slack-off or released drillstring weight, is the weight of the drillstring and BHA
+  available at the stuck point or at bottomhole if the pipe is free.
+Reactive torque
+• Reactive torque is created by the drilling fluid pushing against the stator. Since the stator is bonded to the body of the
+  motor, the effect of this force is to twist the motor and BHA anti-clockwise;
+Make up torque
+• The rotational force used to make up a connection in the string. Drill pipe failure may occur when the make-up torque
+  of a connection is exceeded.
+Gyroscopic effect
+• Gyroscopic effect is ability (tendency) of the rotating body to. maintain a steady direction of its axis of rotation. The
+  gyroscopes. are rotating with respect to the axis of symmetry at high speed.
+• This gives them big kinetic energy.
+Torque angle
+• When tightening and measuring Torque, 'Angle' is the degrees of rotation that a fastener turns during its rundown
+  process.
+• For example, if a Torque Wrench was to turn and tighten a bolt in one full rotation, this would be 360 degrees
+Gyroscopic torque
+• A gyroscopic torque will result if the axis of the flywheel is rotated and it acts perpendicular to the rotor axis.
+• The magnitude of the torque is the product of the flywheel rotor moment of inertia, the flywheel angular velocity and
+  the angular velocity of the flywheel axis
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 22 ]
+────────────────────────────────────────────
+                        Newton-metre
+
+•  The newton-metre is a unit of torque in the SI system. One newton-metre is equal to the torque resulting
+   from a force of one newton applied perpendicularly to the end of a moment arm that is one metre long.
+•  The nonstandard notation Nm occurs in some fields.
+
+
+
+
+                      3 units of torque
+
+• Because torque is a product of length and force. The units used to describe torque reference both a force and a
+  length.
+• There are three common torque units:
+   o  SI (International Standard) based on Newton meters,
+   o  Metric based on kilogram force centimeters, and
+   o  American/ English based on inch pounds
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 22 ]
+────────────────────────────────────────────
+               Torque (moment/moment of force)
+
+•  Is the tendency of a force to cause or change the rotational motion of a body. It is a twist or turning force on an
+  object.
+• Torque is calculated by multiplying force and distance.
+•  It is a vector quantity, meaning it has both a direction and a magnitude.
+Relationship between force and torque
+• Torque is defined as       Γ=r×F=rFsin(θ).
+• Torque is the cross product between the distance vector (the distance from the pivot point to the point where force
+   is applied) and the force vector, 'a' being the angle between r and F.
+• Mathematically, horsepower equals torque multiplied by rpm.
+                  H = T x rpm/5252,
+• where H is horsepower, T is pound-feet, rpm is how fast the engine is spinning, and 5252 is a constant that makes
+  the units jibe.
+• So, to make more power an engine needs to generate more torque, operate at higher rpm, or both.
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 22 ]
+────────────────────────────────────────────
+                        Torque and drag analysis
+• Torque and drag modeling is very important to analyze the mechanical behavior of the drill string and the
+  wellbore condition, hence, to predict and prevent downhole problems.
+• There have been a number of different approaches to the way that torque and drag has been modeled in the well
+   drilling industry.
+                            Over Torque
+
+• Over torque can cause significant drill pipe thread damage.
+• Over torqueing typically occurs when the drill pipe under torqued before its run down the hole.
+• In these conditions the pipe continues tightening down the hole and can easily be over tightened
+
+                Reaction torque and Active torque
+
+ • Similar to this a couple is needed to be applied on the axis of spin where the disc is rotating.
+ • This is called active gyroscopic torque.
+ • Reactive gyroscopic torque- Similarly when a body is rotating centrifugal force acts opposite to that of
+   centripetal force.
+ • So an opposite reactive torque acts on the axis of spin
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 22 ]
+────────────────────────────────────────────
+                        Calculation of reactive torque
+
+
+
+• Measure the distance, r , between the pivot point and the point the force is applied.
+• Determine the angle θ between the direction of the applied force and the vector between the point the force is
+  applied to the pivot point.
+• Multiply r by F and sin θ and you will get the torque.
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 22 ]
+────────────────────────────────────────────
+Drilling Torque and Drag Calculations
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 22 ]
+────────────────────────────────────────────
+                                  Drilling Drag
+• Consider an object of weight W is resting on a horizontal plane. In order to slide the object a force Ft must be
+  exerted to overcome the force of friction Ff between the object and the plane surface.
+• The magnitude of the frictional force is as following
+•  Ff = μ W
+• where,
+         Ff = frictional force, lb
+     µ = Friction Coefficient, dimensionless is a constant that depends on the roughness of the
+       object and plane surface, Determined experimentally.
+   W = normal force acting perpendicular to the surface, lb
+• Therefore, the force Ft (Drag Force) required to slide the object should be slightly greater than Ff (friction Force)
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 22 ]
+────────────────────────────────────────────
+                          Drilling Drag Calculations
+• 1- A The buoyed weight of the Drill Pipes (W) is acting vertically
+  downward and can be resolved into two forces
+• Fn (normal force acting perpendicular to the hole)
+• Fx (the weight component acting parallel to the hole axis).
+                           Fn = W sin θ
+                             Fx = W cos θ
+• 2- The frictional or drag force Ff is the normal force times the Friction
+  Coefficient.
+                                 Ff = Fn µ =W µ sin θ
+• 3- The force Ft required to move the Drill Pipes is determined by
+  making a force balance
+                                Ft = Fx + Ff
+                           Ft = W cos θ + W µ sin θ
+• The frictional force or drag always acts in the opposite direction of the
+  pulling force Ft.
+•  If the Drill Pipes is lowered into the hole, the frictional force will act in a
+  direction opposite to that.
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 22 ]
+────────────────────────────────────────────
+                Drill String Drag Calculations In Deviated Hole
+
+• In a curved section of the wellbore where inclination and azimuth change across
+  the section, the calculation of the drag force is more difficult.
+• The forces acting on a short slightly curved element of the Drill String.
+   1- The weight of the element
+   2- Normal forces from the tension forces Ft and Ft + ΔFt as a result of the change
+    in the angle of inclination and the azimuth of the wellbore.
+• The magnitude of the resultant normal force can be estimated by an equation
+  presented by Johancsik, Friesen, and Dawson,
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 22 ]
+────────────────────────────────────────────
+•  If the Drill String is moved uphole (or downhole) while being rotated as in back reaming, the drag force is
+  calculated by using the following equation,
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 22 ]
+────────────────────────────────────────────
+   Relation Between Critical Hole Angle And Drill String drag force
+
+
+
+• When the weight component of the drill string in the direction of the hole axis is equal to the drag force-resisting
+  downhole movement, the drill string is not able to slide downhole by its own weight and when drilling in the
+  sliding mode the drill string will require pushing with pipe higher in the hole.
+• The angle at which downhole movement becomes impossible is called the critical hole angle,
+                               θcr = arctan ( 1 / µ )
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 22 ]
+────────────────────────────────────────────
+                          Torque Calculations
+
+Drill string Torque
+•  Drill string torque as it is the rotational force that is required to overcome all the frictional forces between the drill string and
+  the formation while drilling string rotation.
+• The drilling Torque Calculations part will give a hand in understanding how to calculate the torque required to turn the drill
+   string.
+Torque Calculations Equation
+• The torque required to turn the drill string is calculated by the following equation,
+                          Torque = Fn r µ (A/V)
+Where:
+T   =    Torque, ft-lb
+Fn  =   normal force as defined
+R    =   Radius of drill string component ft (for drill collars use outer radius of collar, for DP, HWDP and casing use outer radius of tool joint)
+µ   =    Coefficient of friction
+A   =    Angular speed
+V   =    Resultant speed
+• From drill string torque definition, If the drill string is not tripped while rotating, then T = 0 and A is equal to V and The
+  Equation reduces to
+                          Torque = Fn R µ
+•  If the torque acting on the lower end of the drill string element is M, then the torque acting at the top of the element is M
+  + ΔM .
+• The torque increment ΔM is
+                 ΔM = Fn R µ
+Where :
+Fn: is the normal force exerted on the element.
+• The torque required to turn the entire drill string is the sum of all torque increments for all the elements.
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 22 ]
+────────────────────────────────────────────
+               TorqueDrag2013.zip
+             Compressed Archive (.ZIP)
+
+             https://www.mediafire.com/file/99bmc4169x8kvi1/TorqueDrag2013.zip/file
+
+
+•  Compressed archives combine multiple files into a single file to make them easier to transport or save on
+   diskspace.
+•  Archiving software may also provide options for encryption, file spanning, checksums, self-extraction, and
+    self-installation.
+•  Zip is the most-widely used format, used by the Windows operating system and more recently by OSX as well.
+•  RAR is also a very popular and flexible format. Unix uses the tar file format, while Linux uses the tar and gz
+   format.
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 22 ]
+────────────────────────────────────────────
+            Factors Affecting Torque And Drag In Drilling
+
+• When planning a 3D well trajectory, one of the most important considerations is torque and drag. If the torque
+  and drag are not carefully considered, the drill string might fail.
+• The torque and drag model used makes special assumptions that simplify the analysis and are used to model
+  real drill strings.
+• The most important factor influencing the torque and drag forces is the hole curvature.
+• The well path should be redesigned with a smaller build-up rate if the drill string seems to fail when simulating
+  these forces during the design stage.
+• There are many causes for excessive torque and drag such as sliding friction, tight hole, collapsing or swelling
+  clay/shale, key seats, differential sticking, and cuttings build-up.
+• The minimum curvature method assumes the bending part in the equilibrium equation used to calculate torque
+  and drag is discontinuous at survey stations.
+• Some authors mean this is one of the main weaknesses of using the minimum curvature method. Due to the
+  missing bending stresses, the method might not represent the real drill string configuration.
+Kick-Off Point affect torque and drag in Drilling
+• The kick-off point is often the major factor influencing Drill String Torque and Drag in a well.
+• This is due to the fact that shallow doglegs combined with pipe tension will cause a high normal force, thus a
+  high drag and torque at that point.
+• In deep directional wells, the kick-off point should be considered from a Torque and Drag standpoint, in addition
+  to the other factors influencing the kick-off point.
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 22 ]
+────────────────────────────────────────────
+Wellbore Tortuosity / Dogleg Severity
+• Tortuosity can be defined as a measure of deviation from a straight line.
+•  It is the ratio of the actual distance traveled between two points, including any curves encountered, divided by
+  the straight line distance.
+• Tortuosity is used by drillers to describe wellbore trajectory, by log analysts to describe electrical current flow
+  through rock and by geologists to describe pore systems in rock and the meander of rivers.
+• As directional wells become deeper and sophisticated, unwanted deviations from the pre-planned well
+  trajectory occur frequently.
+• Any unwanted deviation from the wellbore trajectory is regarded as wellbore tortuosity.
+• The change in inclination and azimuth influence the normal force acting on the Drill Pipe.
+• The larger the change in either, meaning increasing dogleg severity, the larger the normal force and the larger
+  the increase in drag due to that point.
+• Smaller doglegs lead to less Torque and Drag.
+The effect of Mud Lubricity on torque and drag analysis
+• Mud lubricity is a term generated from a lab test (on a specific piece of equipment) that is intended to minimize
+  the Drill Pipe /casing interaction.
+• The lubricity is scaled opposite the friction factor, increasing lubricity reduces the friction factor.
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 22 ]
+────────────────────────────────────────────
+Hole Cleaning
+• Hole cleaning is an important factor.
+• A proper hole cleaning is a must during drilling operations to reduce the unwanted cuttings in the Mud Circulating System as
+  these cuttings have the potential to resist in drill string rotation and movement.
+•  In a directional wellbore, cuttings tend to accumulate up in the high angle build section; this is why removing the cuttings
+  from the hole is difficult.
+• Improper hole cleaning also brings the risk of damaging downhole tools such as MWD tools and mud motors.
+• However, if an MWD tool is employed on the drill string, cuttings intensity in the mud can be monitored by following the
+  parameter called Equivalent Circulating Density (ECD), which is the apparent drilling fluid density.
+• An increasing trend of ECD will imply the accumulation of cuttings in the wellbore.
+•  Cuttings beds will locally change the effective Friction Coefficient and can be modeled in that manner if the location, length,
+  and friction factor of the cuttings bed is known.
+•  Unfortunately, these parameters continually change in the presence of a cuttings bed.
+• The typical technique is to deduce the presence of a cuttings bed when unexplained trends in Torque and Drag develop in
+   well.
+•  This would be seen very practically on a trip out of the hole when pick-up weight begins increasing during the trip, rather
+  than decreasing, then suddenly returns to the baseline trend.
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 22 ]
+────────────────────────────────────────────
+Drilling Tools
+•  It is not hard to imagine that the influence of a Drilling Stabilizer on drag would be much greater than that of a
+  similar length of Drill Pipe or Drill Collar and that the interaction of the stabilizer with the well-bore may include
+  additional components than does the simple model we have been working with Drilling tools can greatly impact
+  Torque and Drag are stabilizers, Drill Pipe protectors, Drilling Bits Type (roller cone vs. drag type), drill collars (flex
+   vs. slick) and hard banding on Drill Pipe.
+Hole Instability
+• Hole instability is a displeasing case that occurs when the original hole size, shape, and structural conditions of a
+  borehole are not well maintained.
+•  It appears with the failure of balance between the rock strength and in-situ rock stress at some depth during
+   drilling.
+•  It may also arise with the effects of drilling fluid such as erosion in the borehole and chemical interactions of
+   drilling fluid with drilled formation.
+• Hole closure, which is the narrowing process of the borehole, results in an increase of torque and drag.
+Key Seating
+• Key Seating is the condition when a tubular of a small diameter is worn into the side of a larger diameter
+  borehole.
+•  It is generally a result of severe hole direction changes such as a high dogleg or a hard formation ledge left in soft
+  formations which erode and enlarge in time.
+• In both cases, the diameter of the drilled hole is expected to be close to the diameter of the drill pipe.
+• The larger diameter tools such as stabilizers, drill collars, and tool joints are not able to pass through the key seat
+  and become Drilling Stuck Pipe which will result in problems associated with high torque and drag.
+• The preventive method is to enlarge the point of the key seat so that the tools with larger diameters can pass
+  through it.
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 22 ]
+────────────────────────────────────────────
+                            Torque Prediction
+                          https://www.pvisoftware.com/blog/prediction-technique/
+•  Drillstring drag is the cumulative force required to move the pipe up or down inside the hole.
+• Torque is the movement required to rotate the pipe.
+• Drag forces usually are paralleled to the string weight measured with the string rotating but not reciprocating.
+• Measured from the rotating string weight, the pickup drag is usually vaguely greater than the slack-off drag.
+• The magnitudes of torque and drag are related in any particular well; high drag forces and excessive torque
+  loads usually occur together.
+• There are various causes for excessive torque and drag, such as tight hole conditions, keyseats, differential
+  sticking, sloughing hole, sliding wellbore friction and cuttings buildup caused by poor hole cleaning.
+• With the exception of sliding friction, these causes are associated with problem conditions in the wellbore.
+• Contrarily, in wells with great hole conditions, the primary source of torque and drag is sliding friction.
+• Torque and drag from any source tend to be more troublesome in extended-reach directional wells.
+• In very deep, highly deviated wells, overcoming torque and drag can be vital to the successful well completion.
+  The capability to predict frictional loads on drillpipe has two main benefits:
+• Deep, highly deviated wells can be planned to minimize torque and drag and ensure successful drilling
+  operations to total depth.
+• A more complete knowledge of drillstring loading allows use of improved drillstring design techniques, having
+  considered the extra forces involved.
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 22 ]
+────────────────────────────────────────────
+• Both torque and drag are assumed to be caused entirely by sliding friction forces that result from contact of the
+   drillstring with the wellbore.
+• Two factors affect sliding wellbore friction:
+  o  The normal contact force
+  o  The coefficient of friction between the contact surfaces
+• The product of these two factors represents the magnitude of the sliding friction force.
+• The normal contact force between the pipe and hole wall depends on several factors such as, the effects of
+  gravity on the pipe, the effects of tension acting through curvatures in the wellbore and even pipe bending.
+• The sliding friction coefficient is the ratio of the friction force to the normal contact force.
+• This factor depends on specific contacting materials and on the degree of lubrication at various places in the
+  wellbore.
+• However, the oil and gas industry has made many advancements technologically speaking and quite a few models
+  have been developed for these kind of issues.
+• PVI’s torque and drag model, TADPRO, is designed to help remove many of the risks of a drilling program,
+  completions design or specific tool operations.
+• Limits in the length of a horizontal based on specific friction factors can be determined.
+•  It can evaluate the needed weight to a liner-top packer.
+• TADPRO can analyze forces downhole and predict rig equipment specifications for torque and hookload.
+•  The model provides both versatility and accuracy in its calculations and it integrates advanced features that make
+   it easier for our users to use.
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 22 ]
+────────────────────────────────────────────
+THANK YOU
+
+

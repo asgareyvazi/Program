@@ -1,0 +1,2077 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 34 ]
+────────────────────────────────────────────
+                                       Statoil governing document
+                     Casing Design Manual
+         Work process requirement, WR0445, Final Ver. 5, Valid from 2006-02-10
+                Publisher/follow-up: Chief Eng. Drlg. Tech, Marianne Høie Østebø
+                                     Classification: Statoil internal
+                                          Validity area:
+                        Statoil group/All locations/Upstream/On- and offshore
+
+
+
+
+
+1            Introduction.......................................................................................................................................3
+1.1          Objective.............................................................................................................................................3
+1.2      Warrant ...............................................................................................................................................3
+1.3      Publication and follow-up...................................................................................................................3
+1.4      Previous Document and version/revision log .....................................................................................3
+2     Work process requirements.............................................................................................................3
+2.1      Planning of Casing Design Works......................................................................................................3
+3       Design Process Requirements ..........................................................................................................5
+3.1          Purpose................................................................................................................................................5
+3.2      Reporting and Documentation ............................................................................................................6
+3.3      Inputs to Design of Casing Strings .....................................................................................................6
+3.4      Casing, Liner and Liner Packer Design Test Pressure Determination................................................7
+3.5      Casing Sizes and Setting Depths: .......................................................................................................8
+3.6     Kick Tolerance....................................................................................................................................9
+3.7      Detailed Casing Design.......................................................................................................................9
+3.8      Design Categories & Thermal Considerations..................................................................................10
+3.9      Casing Design Procedure for all Design Categories.........................................................................12
+3.10    Annulus Fluid Expansion..................................................................................................................13
+3.11     Connection Selection Requirements.................................................................................................15
+3.12     Conductor Design .............................................................................................................................16
+3.13     Material Selection Requirements and Effects of Corrosion..............................................................16
+4       Acceptance Criteria and Verifications (Check section)...............................................................17
+4.1     Minimum Acceptance Criteria for Casing Design............................................................................17
+4.2      Connection Dogleg Capacity ............................................................................................................18
+5       Improvements, Change Requests, etc. ..........................................................................................18
+6             Definitions........................................................................................................................................18
+7            References........................................................................................................................................19
+7.1      Other Non-referenced Relevant Documents.....................................................................................20
+App A  Revision/Verison Log......................................................................................................................21
+App B  Casing Design Procedure, all Design Categories..........................................................................22
+App C  Additional Design Requirements for Design Category 3 Wells..................................................23
+App D  Load Criteria Selection...................................................................................................................24
+D.1      Burst Loads vs. Casing Strings .........................................................................................................24
+D.2     Collapse Loads vs. Casing Strings....................................................................................................24
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 34 ]
+────────────────────────────────────────────
+D.3     Axial Loads vs. Casing Strings.........................................................................................................24
+App E  Load Case Detail Description ........................................................................................................26
+E.1      Burst Design Criteria ........................................................................................................................26
+E.2      Collapse Design Criteria...................................................................................................................28
+E.3      Axial Design Criteria ........................................................................................................................31
+App F   Material selection Requirements...................................................................................................33
+F.1      Material Selection.............................................................................................................................33
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+1      Introduction
+
+
+1.1     Objective
+
+Objectives of this document are:
+• To clearly identify responsibilities of the Design Engineer and the Design Engineer’s Supervisor,
+    related to the process of designing, selecting, installing and retrieval of casing.
+•  To specify the minimum set of requirements to be fulfilled in the design, selecting, and planning of
+    casing installation process.
+
+
+1.2    Warrant
+
+Document is warranted in Statoil Area Requirement, “Drilling, Well & Production Activities” (AR03)
+(Statoil group/All locations/On-and offshore) [2].
+
+
+1.3     Publication and follow-up
+
+This document is published and followed-up by T&P-UGT-BBT-BRL Tubulars and Material Group.
+Dispensations and non-conformances shall be handled according to “Non-conformities and
+dispensations” (WR0011) (Statoil group/All locations/On-and offshore) [3].
+
+
+1.4     Previous Document and version/revision log
+
+This document is originally based on the following previous documents:
+•  Casing and casing design related parts of KP10-K410.
+•   Part 1 and 2 of the expired document B&B-TB-10-15: Casing Design Manual.
+•  Casing related parts of “Well Construction” (WR0529) [7].
+
+See version/revision log (Appendix A) for detailed change and revision description.
+
+
+2    Work process requirements
+
+
+2.1     Planning of Casing Design Works
+
+As casing design is a vital and integrated part of the overall HSE&Q activities with regards to
+establishing and operating oil and gas wells, the design process is designed to cater for the
+requirements relevant to these activities.
+In order to secure proper relation between well and casing criticality, and design resources and
+requirements, a Design Category scheme has been established, where Design Category 1 constitutes
+requirements for the simplest types of wells, and Design Category 3 for the most complex. Design
+Categories are defined by means of reservoir temperature and shut-in wellhead pressure.
+
+Casing and down hole equipment shall be of such diameter, wall thickness, material quality and
+strength, and shall be manufactured and installed in such a manner that it will withstand the pressures,
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                   Page 3 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+casing wear, temperatures, chemistry and loads anticipated in the particular well in question, with a
+minimum safety margin.
+
+Selection of casing shall be based on calculations and analysis of anticipated well service, physical
+loads and chemical conditions that may occur during planned well life cycle. In general all casing
+design work shall be complemented by a material selection document, which shall state the loss of
+casing wall thickness as a function of corrosion and time. Obviously, casing design work and material
+selection work will often be parallel activities. Regardless of whether the one activity is done before
+the other or not, the casing design work shall include effects of corrosion and other material related
+issues.
+
+All casing design shall be done in accordance with this document and to company's applicable safety
+and operational requirements.
+
+Selection of casing dimension, grade, wall thickness and connection type shall for operation in
+Norwegian and adjacent waters primarily be in accordance to “Statoil Standard Casing and Tubing
+Program for Operations on the Norwegian Continental Shelf” (TD0024) [1].
+If a suitable candidate cannot be found within the program, the program may be deviated from
+provided the procedures outlined in “Statoil Standard Casing and Tubing Program for Operations on
+the Norwegian Continental Shelf” (TD0024) [1].
+
+
+2.1.1    Responsibilities of the Design Engineer
+
+To produce and document a casing design that ensures the string's pressure containing and structural
+integrity in the drilling, testing and production, and abandonment phase in a way that:
+
+•   Fulfill all HSE, technical and operational requirements both on local regulatory and company level,
+    in accordance with requirements found in this document.
+•  Provides the optimal economical design based on all applicable inputs such as well, field and
+   company requirements.
+•  Clearly documents the design basis used, and the load cases evaluated, deviations and operational
+    limits.
+•  Withstand all relevant well control scenarios.
+
+Consider and include all other relevant design inputs that may or may not influence the casing and/or
+liner design, and such the well integrity.
+
+
+2.1.1.1  Design Engineer Competence
+
+The Design Engineer(s) shall only accept tasks that she/he is fully competent with, or shall utilize
+assistance from other competent personnel, or in an “on-the-job training”-situation under competent
+surveillance.
+Competence in this matter shall span all aspects of the design work included in this document.
+
+
+2.1.2   Competence related Responsibility for the Design Engineer’s Supervisor
+
+Design Engineer’s Supervisor is responsible for overseeing and securing Design Engineer’s
+competence via one of the alternatives described in 2.1.1.1.
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                   Page 4 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+2.1.3   Computing Tools for Casing Design
+
+The following computer software shall be used for casing design works:
+
+•  Landmark's StressCheck™: For Design Category 1 and 2 casing design.
+•  Landmark's Wellcat™: For temperature calculations in Design Category 2 and complete casing
+    design in Design Category 3-wells, and for Annulus Fluid Expansion calculations (AFE).
+•  Maurer Eng.'s CWear™: For casing wear simulations.
+•  For calculating kick tolerances: Kick Calc. (See “Drilling & Completion Operation” (WR0436) [6]
+    for kick tolerances.)
+
+Landmark's Wellcat™ may also be used for Design Category 1 and 2 wells, then offering reduced
+minimum Design Factor requirements for connections exposed to compression loads due to its far
+more accurate temperature simulation capacity. (Ref. Para. 4.1 Minimum Acceptance Criteria for
+Casing Design, table Minimum Safety Factors/Design Factors, note 3.)
+
+
+2.1.4   Planning of Casing String Installation and Retrieval
+
+
+2.1.4.1  Casing string preparations and installation:
+
+All casing installations shall be planned and performed according to manufacturers and company
+recommendations, covering all activities from pre-shipping preparations at supply base, pre-running
+inspections at rig site, and application of thread lubricant and makeup.
+Information can be found in the Statoil document “Statoil Standard Casing and Tubing Program for
+Operations on the Norwegian Continental Shelf” (TD0024) [4], the DBR Rørdatabase [5], and in
+various manufacturer issued publications available from T&P-UGT-BBT-BRL.
+Where manufacturer and company recommendations are deviating or in conflict, company
+recommendations shall prevail.
+
+A torque/turn monitoring and recording computer shall be used to monitor, record and evaluate
+makeup of all premium connections and non-premium when recommended by relevant connection
+design owner unless other features for ensuring an acceptable makeup process is provided.
+The system shall be of acceptable accuracy, with measuring inaccuracy of less than applied torque +/-
+1%, and be in "calibration valid" status.
+Trace ability between computer recordings and connections shall be planned for and ensured.
+
+If retrieved casing are intended for re-use, the casing retrieving process shall be planned so that
+retrieving process does not jeopardize the planned re-use.
+
+
+3     Design Process Requirements
+
+
+3.1     Purpose
+
+It is the purpose of this "Do-section" to fully describe requirements, activities, input parameters and
+load cases to be evaluated in order to perform casing design, how to select casing from the standard
+program (and how to make deviations from the program), to installation and retrieval of casing in a
+HSE, technical and operational safe way, whilst still maintaining the requirements of optimal usage of
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                   Page 5 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+financial resources.
+Corrosion evaluations, and design work related to corrosion are not parts of this document, as the
+Statoil materials and corrosion philosophy is to prevent all corrosion by means of material selection.
+However, if an alternative material and corrosion philosophy is employed, any effects of corrosion
+shall be included, securing sufficient allowances for the corrosion anticipated without jeopardizing the
+casing string integrity.
+
+
+3.2     Reporting and Documentation
+
+Casing design work shall be reported and documented as follows:
+•  Exploration drilling and one-off wells: On individual well basis.
+•  Development drilling: On field-level basis.
+
+
+3.3     Inputs to Design of Casing Strings
+
+Design work shall be based on auditable information related to the wells or field in question.
+
+It is fundamental for the quality of the simulation models that the engineer performing the design work
+is updated and is fully understanding the drilling and testing process, wells objective(s) and service, its
+completion strategy and details with regards to equipment and operations, its operational strategy and
+expected lifetime.
+The following factors shall be evaluated and used as basis for the casing design.
+
+Application of the Well
+•  Well type (platform, sub-sea, land).
+•  Well objectives (exploration/appraisal, production, injection, annular cuttings injection/annular
+    production).
+•  Well evaluation program (logging, testing etc.).
+•  Future use of well.
+•  Life time prognosis.
+•   Artificial lift (Gas, ESP etc).
+
+Formation Properties
+•  Geological prognosis.
+•  Shallow gas.
+•  Pore pressure.
+•  Gas Gradient in different zones.
+•  Temperature prognosis.
+•  Hole integrity information, such as expected fracturing and collapse behaviour, chemical
+    stability/sensitive shale.
+•  Location of permeable and potential loss circulation zones.
+•  H2S- and CO2- bearing intervals.
+•  Location of squeezing salt and shale zones.
+•  Reservoir invasion and damage.
+
+Well Design
+•   Directional plan including dogleg severity.
+•  Mud system chemical/physical tolerances, base fluid density including any salt gradient.
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                   Page 6 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+•  Cement: Zonal isolation, regulatory requirements.
+•  Packer depth and fluid density.
+
+Other
+•  Reference wells.
+•   Drilling rig hoisting/rotating capability.
+•  Well abandonment strategy.
+•   Friction shall not be included in structural and pressure integrity related design evaluations.
+    Friction shall only be included in operational related design issues such as installation and pull-out
+    evaluations.
+
+The quality of the gathered data will have a large impact on the appropriate choice of casing sizes and
+shoe depths, and whether the casing design objective is successfully met.
+
+
+3.4     Casing, Liner and Liner Packer Design Test Pressure Determination
+
+
+3.4.1    Validation of Casing Integrity
+
+Pressure testing of casing hanger, casing, liner and liner packer is the only acceptable method for
+verification of a string’s ability to serve as a pressure restraining vessel.
+
+
+3.4.2   Design Test Pressure Determination, Casings, Liners and Liner Packer
+
+
+3.4.2.1  Testing of Casing and Liners
+
+For casing design purposes, the test pressure measured at wellhead level, and fluid density shall
+produce an internal casing differential pressure equal to, or higher, than maximum expected
+differential pressure at all depths, covering all relevant casing operations, services and load cases
+described in this document.
+
+
+3.4.2.2  Testing of Liner Packers for Production Casing/Liner service
+
+For testing of liner packer(s) located below production packer, test pressure and fluid density shall
+produce a differential pressure no less than the higher of:
+•  Formation fracturation strength at casing shoe, or at potential leak path, +70 bar, or
+•  Actual differential pressure at liner packer(s), that may or will occur during production/injection
+    tubing testing.
+
+
+3.4.2.3  Testing of Liner Packers for Surface or Intermediate Casing/Liner service
+
+For liner packer testing, test pressure and fluid density shall produce a differential pressure no less than
+formation fracturation strength at casing shoe, or at potential leak path, +70 bar.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                   Page 7 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+3.4.3    Project Specific Test Pressures and Complex Test Scenarios
+
+Project-specific higher test pressure(s) may be used provided all scenario described above are catered
+for.
+
+For complex test scenarios the same requirements are applicable.
+
+
+3.4.4    Test Pressure Determination Uncertainties
+
+When determining design test pressure(s), uncertainties related to the following characteristics shall be
+catered for:
+•  Pore pressure
+•  Formation fracture gradients
+•   Drilling fluid deterioration, and
+•  Change in formation characteristics resulting from well service (injection – production)
+
+
+3.5     Casing Sizes and Setting Depths:
+
+After having received and understood the information mentioned in paragraph 3.3 the design engineer
+shall determine casing setting depths and number of casing/liner strings based on the information
+available.
+
+
+3.5.1   Approach to the Setting Depth Selection, all Design Categories
+
+•  Check the information in 3.2 for setting depth criteria dictated by formation anomalies, formation
+    evaluation, shallow gas, production /injection requirements etc.
+•  Determine preliminary setting depths based on information mentioned above, mud density, pore
+    pressure, fracture gradient and ECD/EMW requirements/guidelines.
+•  Formation strength between packer and reservoir formation shall be of sufficient strength to
+    withstand any pressures that may occur in the said area if casing integrity is lost.
+•  When performing detailed casing design in StressCheck™ and WellCat™ it shall be checked that
+    the required kick tolerance volumes can be handled. Alternatively, KickCalc shall be utilized to
+    calculate minimum kick volumes for the design in question.
+•  The “Limit to Frac at Shoe”-principle for casing burst load design shall be used.
+•  Adjust setting depths if necessary, or proceed with deviation request to finalize setting depths.
+
+Setting depth of production casing in Design Category 3 wells requires special attention. It is very
+important to set the production casing before drilling into a prognosed high pressure reservoir.
+
+Drilling wildcat exploration wells one has to take into account the geological uncertainty with respect
+to pressure and formation tops. The casing shall be designed based on the maximum prognosed
+pressure. Maximum setting depth of the production casing shall be minimum depth of the prognosed
+high pressure-depth less twice the geological uncertainty.
+
+The following guideline shall be used:
+Max setting depth = Minimum depth of potential over pressurized sand/reservoir - (geological uncertainty * 2)
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                   Page 8 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+On subsequent wells on same structure, setting depth can be modified dependent on objective
+knowledge of over pressurized sand/reservoir depth and other relevant conditions.
+
+
+3.5.1.1  Additional requirements to setting depth selection, Multi lateral wells
+
+A window made in a casing shall be considered a new casing shoe. Well control considerations shall
+be based on depth and expected fracture gradient at window depth.
+Distance from planned casing exit (window) to any hydrocarbon bearing formation shall be evaluated.
+
+A multilateral well junction shall be placed at sufficient depth to withstand expected formation shut-in
+pressure both in a well control situation and in production an injection scenario. In a cemented
+junction, but not hydraulically sealed (referred to as “level 4 system”), the cement around the well
+junction shall not be regarded as a barrier against internal pressure.
+For production wells, the calculated shut-in pressure shall be based on maximum expected pressure
+from reservoir to the junction.
+
+
+3.5.1.2  Additional requirements to setting depth selection, Multi purpose wells
+
+For multipurpose wells additional requirements to formation strength and production and intermediate
+casings are:
+•  The formation below intermediate shoe, and intermediate casing itself, shall withstand the highest
+    expected pressure occurring if the production casing leaks during simultaneous operations.
+
+
+3.5.2   Approach to the Casing Sizing Determination
+
+•  Determine the size of the production liner/reservoir section.
+•  Determine the size of remaining casings/liners based on geometry and hydraulics (ECD/EMW).
+•  Relation between down hole equipment and its relevant casing(s).
+•  When performing detailed casing design in StressCheck™ and WellCat™ also minimum drift
+    diameter requirements vs next casing/tubing OD shall be taken into consideration.
+
+Standard casings [1] and hole sizes shall primarily be used.
+
+
+3.6    Kick Tolerance
+
+Kick tolerance volume is an estimate of the volume of gas influx at bottom hole conditions that can be
+safely shut in and circulated out of the well.
+
+Requirements to minimum Kick Tolerances for the various hole sizes and sections to be drilled are
+found in “Drilling & Completion Operation” (WR0436) [6].
+
+
+3.7     Detailed Casing Design
+
+This design phase includes:
+•  Evaluation and selection of pipe diameter, wall thickness and grade for each casing string.
+•  Connection evaluation and selection.
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                   Page 9 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+This selection process consists of comparing pipe ratings with design loads and applying minimum
+acceptable safety standards (i.e. design factors).
+
+
+3.7.1   Design Factors
+
+Design factor (DF)   =    Minimum acceptable Safety Factor
+Safety factor (SF)    =     Actual casing strength / design load
+
+(Design Factor and Safety Factor terminology is identical for StressCheck™ and WellCat™).
+
+Actual casing strength = Strength of undamaged casing at 20°C less the effects of :
+
+•  Mechanical wear and corrosion if applicable.
+•  In situ temperature.
+
+Minimum Design Factors are specified in chapter 4.1. “Minimum Acceptance Criteria for Casing
+Design”.
+
+
+3.8     Design Categories & Thermal Considerations
+
+
+3.8.1   Design Category Determination and Thermal Consideration
+
+The temperature difference from static well conditions to any injection or production operations (in
+StressCheck™ referred to as “Service Loads”) and maximum Shut In Wellhead Pressure (SIWHP)
+shall be taken into consideration in the design work.
+The means for this is to categorize design in question into it’s proper Design Category based on below
+table.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 10 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+Design Category definition:
+
+                       =>150°C                                              Design Category 3
+   Reservoir
+                 >100°C < 150°C                          Design Category 2           Note 1  temperature
+                       <=100°C     Design Category 1
+                                       <690 Bar             <690 Bar           =>690 Bar
+                                                    Shut in Well Head Pressure
+
+Note 1: For exploratory purpose wells only to be tested during short periods Design Category 2 may be chosen
+also for Design Category 3 wells.
+
+Thermal considerations/corrections in design work vs. Design Categories:
+   Design    Thermal considerations/corrections in design work:
+ Categories:
+                  •   StressCheck™: Actual temperatures shall be used if available, alternatively default Service
+                    Loads temperature values shall be used.
+                  •   For cold injectors (Reservoir temperature - Wellhead inlet temperature > 70°C) corrected
+     1                  string temperatures shall be used.
+                  •   Temperature shall be calculated by programs WellCat™ or Prosper.
+
+                  •   Alternatively WellCat™ may be used for the design work.
+                  •   StressCheck™: Actual temperatures shall be used if available, alternatively calculated
+                          string temperatures shall be manually input.
+     2           •   Temperature shall be calculated by programs WellCat™ or Prosper.
+
+                  •   Alternatively WellCat™ may be used for the design work.
+                  •   Software shall be WellCat™: Actual temperatures shall be used if available, alternatively     3
+                       see Design Category 3 well design procedure for temperature corrections.
+
+
+3.8.2    Sensitivities to Well Trajectory (Design Category 2 and 3 wells only)
+
+In engineering work, when one well design is qualifying (several) other(s) design(s), the effects of
+difference in well trajectories shall be catered for:
+•  Typically a more vertical well yields higher compression loads at Top-of-Cement level, than a
+   more deviated well when exposed to same temperature increase.
+•  In same manner, a deviated well design yield higher tension loads at casing top when well is
+    cooled, than a more vertical design.
+
+
+3.8.3    Sensitivity to As-Cemented (Initial Conditions) Temperature (Design Cat. 3 wells only)
+
+Drilling operations, or nearby operations, may impose changes in the As-Cemented (or Initial
+Conditions) temperature for a casing string.
+
+•  Lower As-Cemented temperature will typically yield higher compression forces at bottom of
+    casing string when well is heated, than a higher As-Cemented (Initial Conditions) temperature.
+•  Higher As-Cemented (Initial Conditions) temperature will typically yield lower tension forces at
+    top of casing string when well is heated, than a lower As-Cemented (Initial Condition)
+    temperature.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 11 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+Effects of As-Cemented (Initial Conditions) temperature variation shall be catered for by doing string
+design with planned temperature. Sensitivity analysis based on Ambient Temperature as As-Cemented
+(Initial Condition) shall be performed.
+
+
+3.9     Casing Design Procedure for all Design Categories
+
+
+3.9.1   Procedures
+
+Procedures for casing design are found in:
+•  For Design Category 1 and 2 wells: Appendix B.
+•  For Design Category 3 wells: Appendix B plus additional requirements in appendix C.
+
+
+3.9.2   Load Criteria Selection
+
+Minimum load criteria (load cases) to be evaluated are found in appendix D.
+
+Names of the load cases and external pressure profiles are corresponding to names used in
+StressCheck™. However the same parameters shall be used in WellCat™.
+
+
+3.9.3   Load Criteria Details
+
+Details regarding load criteria parameters for input in StressCheck™ and WellCat™ evaluations
+are found in appendix E.
+
+Details are specified based on StressCheck™ terminology.
+However, the same values shall be used in its relevant load cases when designing casing strings using
+WellCat™.
+
+Pipe body and connections in Design Category 3 wells shall be designed and selected to withstand
+compression loads in the cemented zone as well as above Top-of-Cement.
+
+
+3.9.4   Dogleg Severity Overrides
+
+Bending loads shall be included for in the design criteria using the planned or drilled dog-leg plus a
+dog-leg severity override.
+The following override values are recommended, if no other override values are planned for:
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 12 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+Dogleg Severity Overrides:
+
+
+                                                             Dogleg Severity Override inputs:
+                                                     Planned well path:        Measured well path:
+  Trajectory status:                                                   [° pr. 30 meters]                [° pr. 30 meters]
+                   Vertical holes and/or sections:           +2,5                   0
+     Planned build-up and/or drop-off rate plus:           +2,5                   0
+                           Tangent sections:           +2,5                   0
+    When planned build-up and/or drop-off rate                                        +20%                  0                     > 10° pr. 30 meters:
+
+
+It shall be checked that the calculated dog-legs (drilled plus buckled etc. incl. override values) are
+within the bending capacity of the casing pipe and connections in question.
+
+
+3.9.5   Through Tubing Drilling
+
+When drilling through existing tubing, the tubing shall be evaluated as Production casing, and be able
+to withstand all loads that may occur during the drilling phase and subsequent phases of the wells life.
+
+
+3.10   Annulus Fluid Expansion
+
+
+3.10.1  Introduction
+
+Annulus Fluid Expansion (AFE) is the phenomenon that takes place when a constant volume of fluid is
+heated without being given the possibility to expand volume-wise or to bleed off pressure.
+
+Situation typically occurs where a casing is cemented into previous shoe, between cement plugs in a
+stage cement scenario, whenever heavy components (typically barite) are falling out of a mud system
+and form one or more pressure tight plugs, or anywhere else where a fluid-filled volume is being
+constrained and subsequently heated.
+Observe that upper pressure barrier is frequently the casing or tubing hanger system.
+
+Based on temperature increase, fluid properties and strength of the pressure barriers, potential pressure
+build-up can be in the 500 – 1000 Bar region.
+
+Sources for temperature increase related to AFE may be:
+•  Heat generated from production flow.
+•  Heat generated from circulation from a deeper (and hotter) section of the well.
+
+AFE also causes significant changes in axial loads for the tubular goods in involved section:
+•  Outer boundary tubular goods: Increased tension from ballooning.
+•  Inner boundary tubular goods: Increased compression from reverse-ballooning.
+
+Pressure increase caused by AFE is determined by:
+•  Average temperature increase of constrained volume,
+•  Thermal expansion characteristics of constrained fluid,
+•  Compression characteristics of constrained fluid,
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 13 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+•  Constrained volume philosophy; Fixed or equilibrium volume → strength of restraining barriers.
+
+Hence, simple guidelines, or rules-of-thumb, to when potential AFE may or may not become a critical
+issue can not be given.
+
+
+3.10.2  AFE Philosophy and Design Requirements
+
+Barrier-elements, including possible bleed-off and/or pressure reduction mechanisms shall be capable
+of handling AFE-induced loads.
+
+
+3.10.2.1 AFE Design Requirements for Design Category 1 and 2 Wells
+
+Potential for critical AFE induced loads shall be evaluated. If potential is evaluated to be present, AFE
+shall be checked for and included in design as described in this document.
+
+
+3.10.2.2 AFE Design Requirements for Design Category 3 Wells
+
+Design Category 3 wells shall always be designed to cater for AFE on all annuli.
+
+Special consideration for AFE to be constrained by Production Casing and Intermediate Casing shall
+be performed:
+•  Actual collapse capacity of Production Casing shall be at least 20% higher than maximum potential
+   AFE pressure. (Maximum potential AFE pressure shall in this context mean the maximum pressure
+    potential, as a function of bleed-off or pressure reducing mechanisms if planned, or the calculated
+   maximum AFE pressure if no bleed-off or pressure reducing mechanisms are planned for.)
+
+
+3.10.2.3 Time Effects and Requirements to AFE Plug Depths for Design Purposes
+
+Time span from drilling operations to production start-up, or other temperature increasing activity such
+as circulation on bottom, is anticipated to be of major significance with regards to mud-particle
+produced plugs, and shall be considered and catered for if found applicable.
+•  Time-span is an important factor for evaluation of mud deterioration and heavy component fall-
+    out.
+•  For an AFE-boundary caused by mud heavy particle sagging, the lower plug shall located 50m
+  TVD above previous shoe.
+•   Potential for, and effects of plugs forming between 50m TVD above previous shoe and wellhead
+    shall also be considered.
+
+
+3.10.3  Other topics related to AFE
+
+
+3.10.3.1 Published Performance Characteristics vs. In-situ Characteristics
+
+Casing, tubing and liner goods are typically produced to published minimum uni-axial characteristics,
+leaving the actual, in-situ capacity to a large degree unknown.
+
+Actual yield pressure:
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 14 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+As a sample, 13 3/8in. – 72.00 lbs/ft – P110 casing, produced to upper end of wall thickness tolerance
+and to maximum allowable yield strength will have a pressure capacity prior to internal yield of
+approximately 740 Bars, or 45% above the published minimum value.
+
+Burst (i.e. rupture):
+Burst (i.e. rupture) capacity from internal pressure loads in non-published feature with regards to
+casing, tubing and liner goods.
+
+Collapse:
+Also, for collapse the difference between actual and published capacity can be significant.
+
+
+3.10.3.2 AFE Mitigation Principles
+
+Handling of AFE-induced loads shall be catered for by bleed-off and/or pressure reduction
+mechanisms, or by designing relevant barrier elements strong enough to withstand maximum
+anticipated AFE-induced loads.
+
+Maximum AFE pressure shall be limited by one or more mechanisms when barrier elements cannot
+withstand maximum potential AFE pressure with the relevant minimum safety factor intact.
+
+Pressure limiting mechanism shall be designed in such manner that no barrier element is exposed to
+pressure or other forces exceeding maximum allowed for by the design acceptance criteria relevant for
+the barrier element in question.
+
+
+3.11    Connection Selection Requirements
+
+Connections shall be evaluated and chosen based on the requirements of the specific well/field in
+question.
+
+Connection configuration vs. well Design Category and casing string:
+String:                                  Design Category 1 & 2 wells:          Design Category 3 wells:
+Production casing/liner/tie-back                                     Premium
+Intermediate casing/liner/tieback.             Non-premium or Premium                 Premium
+Surface casing                                            Non-premium or Premium
+Conductor                                               Non-premium or Premium
+Gas lift assisted wells;
+Any casing planned with exposure to lift-
+                                                             Premium
+or produced gas, and the casing serving as
+secondary barrier to gas injection annulus.
+Casing, tubing and liner goods forming
+inner or outer barrier element of any                                 Premium
+Production or Injection Annulus.
+
+Connections shall be qualified in accordance to document “Qualification Requirements for Casing,
+Tubing and Liner Connections in Statoil” (TR1659) [11].
+
+In addition, connections for Design Category 3, Production Casing string, shall be tested and qualified
+to, or beyond actual well conditions.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 15 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+“Statoil Standard Casing and Tubing Program for Operations on the Norwegian Continental Shelf”
+(TD0024) [1] shall primarily be adhered to.
+
+
+3.12    Conductor Design
+
+
+3.12.1  Exploration / Appraisal Wells, all Design Categories
+
+Structural and a pressure-containing vessel related conductor design shall be performed for drilling
+locations with water depths deeper than 500 meter.
+
+
+3.12.2  Production and Injection Wells, Design Category 1 and 2 wells
+
+Structural and a pressure-containing vessel related Conductor design shall be performed based on the
+well type and drilling facility (platform, jack-up, drilling from a sub sea template etc.).
+
+
+3.12.3  Production and Injection Wells, Design Category 3 wells
+
+Conductor shall be designed as a pressure-containing vessel when next section is drilled with returns.
+Design work shall be coordinated with the structural and fatigue related design of Design Category 3
+wells conductors.
+
+
+3.12.4  Acceptance Criteria for Conductor
+
+When designing Conductor for pressure-containing vessel related issues, same criteria as for the other
+casing strings are valid.
+Acceptance Criteria for structural Conductor Design shall be established for each design task by
+relevant subject authorities in Statoil.
+
+
+3.13    Material Selection Requirements and Effects of Corrosion
+
+
+3.13.1  Material Selection Requirements
+
+Materials shall be selected based on requirements found in appendix F.
+
+
+3.13.2   Effects of corrosion
+
+When material selection work is or has been done, the effects of loss of casing performance properties,
+as a function of wall thickness loss shall be included in design work.
+The overall principle shall be that materials shall be selected based on a zero-corrosion occurring
+during well life.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 16 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+4     Acceptance Criteria and Verifications (Check section)
+
+
+4.1    Minimum Acceptance Criteria for Casing Design
+
+The following minimum Safety Factors/Design Factors shall be achieved for all relevant Load Cases in
+order to qualify Casing Design in question.
+Same minimum Safety Factors/Design Factors are applicable all Design Categories.
+
+Minimum Safety Factors/Design Factors:
+                                                           Axial loads:
+                Burst        Collapse       Tension     Compression loads: Note3
+                 loads:          loads:           loads:    StressCheck™   WellCat™:         Triaxial
+   Pipe Body:                   1,10                                                          1,25 Note 2
+                  1,10                            1,30                  1,10
+  Connection:           Not applicable Note 1                                         Not applicable Note 1
+Notes:
+1.   Triaxial and Collapse Criteria are not relevant for Connections.
+2.   Triaxial Design Factor 1,25 is applicable for pipe with wall thickness tolerance min. 87,5%.
+3.   If wall thickness tolerance is improved, Triaxial Design Factor can be changed to a value calculated by: Burst Design
+     Factor / Improved wall thickness tolerance [%].
+4.  When operating limit of specific or representative connection and pipe body is verified via testing, Compression Axial
+     Safety Factor may be reduced to 1,00 for Design Category 3 wells, and for Design Category 1 and 2 wells when well-
+     service thermal effects are included in design.
+
+Casing Wear allowance shall be included in the design work and in burst and collapse acceptance
+criteria.
+
+
+4.1.1   Casing Wear and Collapse Stresses
+
+When taking localized Casing Wear into consideration at Collapse Load cases, quite frequently the
+effect of Casing Wear causes the worn casing to not withstand the collapse stress with an acceptable
+margin.
+
+In such cases the Design Engineer shall consult the Well Tubular Design Discipline Leader for
+alternative collapse design method(s).
+
+
+4.1.2    Drillpipe Hardfacing
+
+Drillpipe with Tungsten Carbide hard-facing is not accepted for drilling in casing or liner.
+“New generation” (low casing wear, easily maintained) hard-facing offering low friction/wear factors
+shall be used to reduce casing wear.
+
+
+4.1.3   Casing Wear Log and Post-wear Casing Integrity
+
+It is only pressure testing that shall be considered objective proof of casing integrity.
+
+When abnormal casing wear is detected or expected, running actual “remaining casing wall thickness”
+or casing wear log shall be considered to verify the degree of wear and consequently post-wear casing
+integrity.
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 17 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+Primarily a “remaining casing wall thickness measuring device” shall be chosen over a wear log tool,
+as remaining wall thickness yields the more correct results for predicting actual in-situ casing
+properties.
+Alternatively casing wear simulation shall be performed to predict casing performance properties after
+drill string induced or other types of wear and tear.
+
+When a log that measures actual internal diameter is being used, a log run prior to any wear and tear is
+required as a reference for quantifying wear. If no such log run was performed, the post wear and tear
+casing performance prediction shall be based on worst-case scenario. (I.e. casing minimum outer
+diameter shall be used for calculating predicted wall thickness and performance properties.)
+
+
+4.1.3.1  Casing wear in Multi Purpose Wells
+
+The selection of casing quality for intermediate casing shall take into account casing wear based on
+simulations on expected work in the well. The intermediate casing shall be pressure tested after
+completion of the work that may cause casing wear.
+This test may be omitted if casing wear simulations based on actual work performed documents
+insignificant wear.
+
+
+4.2     Connection Dogleg Capacity
+
+It shall be verified that the simulated connection dogleg is lower than connection dogleg capacity listed
+in the Statoil DBR Database[5].
+
+
+5     Improvements, Change Requests, etc.
+
+It is the privilege and obligation of anyone using this document to propose and argument for changes
+that will improve the document content, any of the activities described herein, or any of the results
+from activities described herein.
+
+Proposals shall be submitted as described in “Non-conformities and dispensations” (WR0011) (Statoil
+group/All locations/On-and offshore). [3].
+
+
+6      Definitions
+
+Design Category:      A means to the segmentation of design scope as a function of well
+                           temperature and Shut in Well Head Pressure. See chapter 3.6.
+
+SIWHP:                    Shut-in Wellhead pressure.
+
+Premium Connections:   A threaded connection intended for connecting parts of the casing
+                               string where at least one set of metal-to-metal sealing system for each
+                          male/female connection is present. Connection shall be proven water
+                         and gas tight to full or part of pipe body working pressure from the
+                               inside, and water tight to full or part of pipe body collapse pressure
+                        from the outside.
+                          Connection may be "threaded and coupled" or "integral"-type.
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 18 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+AFE:                    "Annulus Fluid Expansion", WellCat and industry term for "trapped &
+                           heated annulus"-situations where a fluid is confined and heated
+                           without the possibility to increase volume or bleed off pressure,
+                           causing pressure to increase.
+
+Design Factor (DF):      Minimum acceptable safety factor.
+
+Safety Factor (SF):         Actual casing strength / design load.
+
+Von Mises Equivalent:     σe2 = σx2 + σy2 + σz 2  - σx σy - σy σz - σx σz. Expression for
+                                  tri-axial combined stresses in isotropic materials. Also commonly
+                              referred to as "VME stress".
+
+ESP:                         Electrical Submersible Pump.
+
+Wildcat exploration wells:   First well on a virgin unknown structure or area.
+
+Multipurpose well:      A well which may utilize both the annulus and production tubing for
+                           simultaneous production and/or injection.
+
+Barrier element:          Check ”Drilling and Completion Operation” (WR0436) [6].
+
+Barrier:                 Check ”Drilling and Completion Operation” (WR0436) [6].
+
+
+7     References
+
+  [1]    “Statoil Standard Casing and Tubing Program for Operations on the Norwegian
+        Continental Shelf” (TD0024) (Statoil ASA/Norway/On-and offshore)
+  [2]    “Drilling, Well & Production Activities.” (AR03) (Statoil Group/All locations/On-and
+         offshore).
+  [3]    “Non-conformities and dispensations” (WR0011) (Statoil group/All locations/On-and
+         offshore).
+  [4]   “Handling of Casing and Tubing” (WR0913) (UPN Norway/Norway/On-and offshore).
+  [5]    Statoil DBR Casing & Tubing Database.
+  [6]    “Drilling and Completion Operations” (WR0436) (Statoil group/All locations/On-and
+         offshore).
+  [7]   “Well Construction” (WR0529) (Statoil group/All locations/On-and offshore).
+  [8]    “Safe Operating Practice for Well Fluids Containing H2S” (TD0079) (Statoil group/All
+        locations/On-and offshore)
+  [9]    “Best Practice for the Selection of Materials for Casing and Tubing” (TD0139) (Statoil
+        group/All locations/On-and offshore)
+ [10]  NACE MR0175/ISO15156-1/2. Petroleum and natural gas industries – Materials for use in
+       H2S containing environments in oil and gas production - Part 1 and 2.
+ [11]   Qualification Requirements for Casing, Tubing and Liner Connections in Statoil”
+       (TR1659) (Statoil group/All locations/On- and offshore)
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 19 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+7.1    Other Non-referenced Relevant Documents
+
+•  ISO11960, last edition.
+•  API Bull 5C2, Bulletin on Performance properties for Casing, Tubing and Drill Pipe, last edition.
+•  API Bull 5 C3, Bulletin on Formulas and Calculations for Casing, Tubing and Drill pipe, last
+    edition.
+• A Guide For Using StressCheck™, Landmark Graphics Corp.
+•  StressCheck™ user manual (Software in the program Help function).
+•  WellCat™ user manual (Software in the program Help function).
+•  Casing Wear Model™, Maurer Engineering.
+•  User manual, KickCalc™ kick tolerance model.
+•  EFC pub. num. 16 'Guidelines on the Material Requirements for Carbon and Low Alloy Steels for
+   H2S-Containing Environments in Oil and Gas Production.
+•  “NORSOK M-001, “Materials Selection” (ST061) .
+• DNV Industry Joint Industry Project 'Testing of Drillpipe and Casing Materials in H2S Containing
+   Well Environments' Report No BGN-R793326.
+•  “The Tubing Design, Selection and Installation Process”(WR0444) (Statoil Group/All
+    locations/On-and offshore).
+•   “Specification for Purchase of Tubing, Liner and Casing Pipe” (TR0048) (Statoil Group/All
+    locations/On-and offshore).
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 20 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+App A   Revision/Verison Log
+
+ Vers. #:   Edits:                                                          By & date:
+    1      •    First issued in the DocMap system.                                   DJE / Jan. 2001
+    2      •  HPHT (Design Categorization) requirements added based on experiences from
+                 the Huldra, Kristin and Kvitebjørn field development work carried out 2001.
+           •   Added req. to how temp. change from static to dynamic well operations shall be
+                included in design work.
+           •   Relevant sections of WR0529 added to this document.
+           •   Reduced Compression Axial SF/DF requirement from 1,30 to 1,10.
+           •   Updated para. for Improvements, change requests, etc.
+           •   Grammatical corrections and re-arranged complete content.
+           •   Relevant requirements from Innretningsforskriften, Aktivitetsforskriften,                                                                         Dag Johan Eiane /
+                  Styringsforskriften, Opplysningsforskriften (all issued Sept. 3rd, 2001) and                                                                                        October 14th., 2002
+               Rammeforskriften (issued June 28, 2001) included.
+           •  Removed ref. [5] from the reference listing.
+           •   Matched kick volume definition with WR0436 “Drilling and Completion
+                Operation”.
+           •   Updated software portfolio (ref. NAViBoB).
+           •  Removed Burst load case: “Perforating Gun Firing Pressure” as it is judged no
+                longer relevant.
+           •   Alternative method for Collapse Loads Design with regards to localized Casing
+             Wear introduced.
+    3      •   Changed document macro to DocMap 2003 lay-out.
+           •   Revised all kick volume related aspects to reflect WR0436.
+           •   Harmonized requirements to design pressure to match corresponding pressure
+               (Well Design Pressure) I WR0436 “Drilling & Completion Operation”.
+           •   Introduced requirements of sensitivity analysis based on well trajectory and As-
+              Cemented temperature.                                            Dag Johan Eiane /
+           •   Clarified requirement for Design Category 3 well witg regards to cemented       TEK-F&T-BBP-
+                casing and compression forces.                                     BRL
+           •   Improved clarification regarding AFE and difference between published and        Febr., 17th., 2004.
+                  potential casing burst and collapse properties.
+           •   Reduced minimum Axial Safety Factor requirement in compression to 1,10.
+           •   Clarification on Casing Design Procedure “Analysis Options” at Above/Below
+                Packer-load case when using StressCheck.
+           •   Post Cement Load case included in Axial Load case criteria.
+    4      •   Changed document macro to DocMap 2004 lay-out.
+           •   Introduced Design Category explanation in planning section of this document.
+           •   Clarification on Design Engineer responsibilities.
+                                                                         Dag Johan Eiane /           •   Introduced Design Engineer’s Supervisor’s responsibilities.
+                                                                       T&P-UGT-BBT-
+           •   Clarification on materials selection and corrosion issues.                                                                   BRL
+           •   Clarification on minimum test pressure requirement vs. WR0436 Drilling and                                                                                                        Jan, 9th., 2004.
+              Well Operation, Well Design Pressure requirement.
+           •   Re-written Casing Wear related issues.
+           •   Edited references and included Hyperlinks.
+    5      •   Changed document macro to DocMap 2005 lay-out.                       Dag Johan Eiane /
+           •   Rewritten (clarifications and re-organizing) AFE section.                   T&P-UGT-BBT-
+           •   Clarified requirments to secondary barrier casing wrt lift gas annulus.             BRL
+           •   Clarifications on impact of corrosion.                                    Dec 27th, 2005.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 21 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+App B   Casing Design Procedure, all Design Categories
+
+The following procedure shall be used to calculate design factors in StressCheck™, and to cater for
+mechanical wear and temperature de-ration of the steel.
+Procedure shall be followed for each casing string or liner in each casing program.
+(Bold characters in table below refer to StressCheck™ terminology.)
+  #:   Activities, criteria, etc :
+  1   Specify the Minimum DF's under "Tubular - Design Parameters".
+  2   •  Calculate mechanical casing wear using the casing wear programme "CWear" for
+          casing strings where:
+            -inclination ≥ 60°.
+           -build-up/drop-off rate ≥ 3°/30 meters.
+           -the casing will be exposed to extensive drilling hours (i.e. sidetracks, intermediate
+             liners, under-reaming etc.)
+      •  For the Intermediate and Production Casing in Design Category 3-wells, casing wear
+            shall be predicted by using CWear™.
+        Wear allowance shall be included for in casing design.
+  3   Allow for wall thickness reduction caused by corrosion based on expected conditions and
+       design life time.
+  4   •   Select “Single External Pressure Profile”, "Temperature deration", “Limit to Frac
+           at Shoe” and “Buckling” under "Analysis Options" in "Tubular - Design
+          parameters". By activating this function the yield strength of the casing will be
+           derated based on the temperatures specified in "Wellbore - Undisturbed
+         temperature" and in "Burst Loads/Collapse Loads" under "Tubular".
+      •  Do not enable “Use Burst Wall Thickness in Triaxial” found under “Analysis
+          Options”.
+       Note:
+      •  Maximum anticipated temperatures must be specified to cater for worst conditions.
+          This will usually be in the production/testing phase.
+      •  Temperature deration correction factors must be specified according to manufacturers
+           specifications under "Tubular - Pipe Grade Properties".
+  5   Check that "Max allowable wear" listed under "View - Tubular Results" is less than
+       calculated under #2 above.
+         If not, evaluate measures for casing wear reduction and/or select a stronger casing.
+
+Others:
+When designing re-entry and deepening/sidetracking of old wells the condition of in situ casing strings
+to be used (drilled out of) shall be assessed. As a minimum a casing wear prediction shall be carried
+out to calculate the amount and position of drilling wear.
+To quantify the condition of the casing more precisely to cater for drilling wear and corrosion it should
+be considered to verify casing wear (i.e. acoustic measurements/'USIT', multi finger caliper etc.)
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 22 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+App C   Additional Design Requirements for Design Category 3 Wells
+
+Introduction:
+Main differences between Design Category 3 wells and Design Category 2 wells are the significantly
+higher consequences at well failure.
+Hence, the design process for Design Category 3 wells shall be much more thorough, basically
+investigating every known failure possibility.
+
+Design of Design Category 3 wells casing strings deviates from designing for standard service wells
+mainly in the following ways:
+•  Thermal effects are much more thoroughly included in the design work.
+•  Tubular and Connection loads and stresses below top of cement shall be included in design work.
+•   Effects of AFE shall be evaluated and catered for.
+•  Conductor casing design shall be included when next section is drilled with riser.
+•   Multistring analysis to validate the wells behaviour as “one system” based upon all aspects
+    influencing the well tubular stresses and strains.
+
+Procedure:
+ Step:    Activity:                                                                 Software etc:
+   1      Establish a well model, including completion string.                          WS-Case and
+                                                                             WS-Tube.
+
+   2    Do flow analysis relevant fluids, rates and pressures to establish max and min         WT-Prod.
+          temperatures for the well.
+
+   3    Do Drilling analysis including well hydraulics, cementing and casing running in        WT-Drill
+          order to check:
+          *Hydraulics and cementing feasibility vs. pipe data and formation strength.
+         *”As-Cemented” temperature for each casing string.
+
+   4     Design each casing string for all applicable load cases, starting from the              WS-Case,
+          outermost one, based on the “single string”-approach.                             CWear.
+         “Torque and Drag” and casing wear shall be designed for.
+        Use “As cemented” temperature as Initial Condition temperature for casing
+          design.
+
+   5    Do AFE analysis for the relevant annuli.                                WS-Tube and WS-
+                                                                                             Case.
+   6    Do casing design based on the “Multi string”-approach to verify that the well         TBA
+          design will be acceptable also as a fully integrated system.
+
+   7    Do applicable updates and start from step 1. Redo complete procedure.                 All above.
+
+   8    Do “Wellhead growth” analysis and “Wellhead lockdown mechanism”-analysis.       Multistring +
+                                                                                                spreadsheets.
+   9     Document results from design work.                                              All above + office
+                                                                                           support tools.
+
+Notes:
+WT-Drill, WT-Prod, WS-Case and WS-Tube are modules in the WellCat™ software package.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 23 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+App D  Load Criteria Selection
+
+The following load criteria shall apply for casing design for both standard and Design Category 3
+wells.
+Requirements to Conductor Casings are applicable to Design Category 3 wells only.
+Load cases in bold characters refer to StressCheck™ terminology (i.e. design for Standard service
+wells). Same load cases shall however be evaluated for Design Category 3 wells.
+
+
+D.1       Burst Loads vs. Casing Strings
+
+                                             Conductor                 Intermediate/
+                                                   Casing:      Surface       Protective      Production
+ Load:            Load Case:                                    22)          casing:      Liner/casing:    casing/liner:
+                    Displacement to Gas             x                x1)                x1, 5)                 x4)
+                 Gas Kick Profile                                         x13)                x13)                 x4, 13)
+ DRILLING         Pressure Test                                             x15)                x15)                  x9,17)
+                  Green Cement Pressure          x            x            x             x
+                     Test
+                   Tubing Leak                                                                                       x14)
+                     Stimulation Surface Leak                                                                       x18)
+                       Injection Down Casing                                  x2)                x2)                  x2)
+ PRODUCTION19)   Gas Migration                                                               x3)
+                    Annulus Fluid Expansion/                                                    x6, 16)                x6)
+                    Heated Annulus
+                        Perforating gun firing                                                                              x10)
+                       pressure
+
+
+D.2       Collapse Loads vs. Casing Strings
+
+                                             Conductor                  Intermediate/
+                                                    Casing:): 22)     Surface       Protective      Production
+ Load:            Load Case:                                    casing:      Liner/casing:    casing/liner:
+                   Cementing                     x            x             x             x
+ DRILLING
+                    Lost Returns with Mud           x                x7)                 x7)            x 7)
+                 Drop
+                      Full Evacuation                                                                                  x8)
+                   Above/Below Packer                                                      x
+                 Gas Migration                                                                                    x3)
+ PRODUCTION
+                        Injection down casing                                                        x2)                  x2)
+                    Annulus Fluid Expansion/                                                                        x6)
+                    Heated Annulus
+                         Plastic formations                                                             x11)                 x11)
+
+
+D.3       Axial Loads vs. Casing Strings
+
+                                           Conductor     Surface     Intermediate/     Production
+ Load:            Load Case:                 Casing: 22)      casing:       Protective       casing/liner:
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 24 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+                                                                                Liner/casing:
+ DRILLING        Running in Hole               x           x             x               x
+                    Overpull Force                            x             x               x
+                   Pre-Cement Static Load                     x             x               x
+                  Green Cement Pressure         x           x             x               x
+                     Test
+ PRODUCTION      Service Loads                                    X21)             x12) & 21)              x12) & 21)
+                        Full Production and                  x20)              x20)                x20)                   x20)
+                        Injection
+                    Cold Kill/Scale Injection            x20)              x20)                x20)                   x20)
+                   Above/Below Packer                                                      x
+Notes:
+1.  When risk of encountering hydrocarbons in the next section.
+2.  When injection (gas, water/sloop, cuttings, CO2 etc.) or gas lift is planned.
+3.  Only for subsea production wells where no annulus bleed off is possible.
+4.  For strings to be drilled out of.
+5.  When intermediate casing is set above top of reservoir (drilling through reservoir in next section).
+6.  When closed in annulus. (AFE).
+7.  For strings to be drilled out when lost circulation is anticipated.
+    The impact on collapse design from this load criteria can be reduced to minimum 250 m mud drop level, when:
+     -drilling in well known fields and formations where experience from nabour wells document insignificant lost
+     circulation situations only, or
+    -low loss-zone permeability and refill capability can be documented.
+8.  Only for gas lift operations and annulus gas injection between production tubing and production casing.
+9.  The maximum differential pressures arising during completion, planned production, workover, and drill stem
+     testing/bull heading shall be established as a design parameter for the production casing.
+10. Tubing conveyed perforation guns often uses pressures to trigger the charge. Maximum pressure occurring during
+     firing shall be used as a design pressure for the production casing.
+11. External pressure due to plastic formations should only be applied in the part of the casing covering the section
+     interval.
+12. Tieback string/PBR design shall be performed using WellCat™ when Annulus between Tieback and next Casing does
+     not have pressure monitoring and bleed-off features. (Ref AFE potential.)
+13. Not applicable when "Displacement to Gas" is selected, and kick volume is calculated by using Kick Calc™.
+14. For production wells, and wells that will be drill stem tested for production.
+15. Maximum differential pressure from testing.
+16. When bridging/plugs from segregated mud (barite) is possible on subsea production wells where no annulus bleed off
+      is possible, temperature and pressures shall be calculated by using WellCat™.
+17. When future converting to gas injection (GI) is planned, initial pressure testing shall reflect leak from maximum GI-
+     pressure and external mud deterioration.
+18. For injection well and fracturing operations.
+19. For Design Category 3 wells “Production loads” shall mean all well operations.
+20. For Design Category 3 wells only.
+21. For Design Category 1 & 2 wells only.
+22. For Design Category 3 wells only, when next section is to be drilled with riser.
+23. StressCheck defined Above/Below Packer load case does not yield axial loads.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 25 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+App E  Load Case Detail Description
+
+
+E.1       Burst Design Criteria
+
+
+E.1.1      Burst Design Criteria, Drilling Loads
+
+                  BURST CRITERIA, DRILLING LOADS
+                                                                         Temp. input
+ Load Case:      Internal Pressure:          External Pressure:                        Design Category 3
+                                                                                               wells only:
+ Displacement   Displacement to Gas         In general:                                   Actual Drilling
+  to Gas           *Select Tubular- Design-    Specify Fluid Gradients w/ Pore Pressure.    Operation
+ Well shut-in at   Parameters and enable      Pore Pressure in Open Hole shall be           temperature.
+ wellhead        Limit to Frac at Shoe.       Activated.
+ (BOP) or
+  flowline after a   Select Burst Loads dialog    For mud older than 90 days, density shall be
+  large kick.       and specify:                   deteriorated to Base Fluid Density, incl. Salt
+ Casing filled     *Influx Depth                  gradient.
+  with gas.       *Gas gradient or           For Oil Based Muds density shall be
+               Gas Gravity = 0.6 (Air=1)     deteriorated no lower than 1,00 s.g.
+                   or actual if known at time
+                   of design works.          When designing Liners:
+              *Gas/Mud Interface value   Specify Above/Below Prior Shoe.
+                     shall be set to 0.
+                * Mud Weight: Default
+                    value.
+
+                 (The pressure above shoe
+                     will then be the shoe frac
+                   pressure minus the gas
+                     gradient.)
+ Gas Kick      Gas Kick Profile          As above.                                    Actual Drilling
+  Profile                                                                                   Operation
+  Circulating out   *Select Tubular- Design-                                                    temperature.
+  a specified kick  Parameters and enable
+ volume         Limit to Frac at Shoe.
+ keeping a
+  constant                    Select Burst Loads dialog
+ bottom hole                 and spesify:
+  pressure.                    *Influx Depth = TD of next
+                     hole section.
+                * Kick Volum
+                * Kick Intensity = 0 sg.
+                * Kick Gas Gravity = 0.6
+                   or known.
+                *Frac Margin of Error =
+                     0.
+                * Maximum Mud Weight
+
+                 (The pressure circulating
+                   out the kick will be limited
+                     to frac pressure at shoe.)
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 26 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+                  BURST CRITERIA, DRILLING LOADS
+                                                                         Temp. input
+ Load Case:      Internal Pressure:          External Pressure:                        Design Category 3
+                                                                                               wells only:
+ Pressure Test  Pressure Test            As above.                                  “Cemented-in”
+                                                                                                temperature.
+ Applying        *Surface pressure plus
+  pressure at        hydrostatic mud pressure.
+  surface with or    *If a plug is installed only
+  without plug in   hydrostatic mud pressure
+  the casing.      below plug.
+
+ Green Cement  Green Cement Pressure    As above.                                  “Cemented-in”
+ Pressure Test   Test                                                                         temperature.
+ Models an
+  internal         * Test Pressures =
+  pressure test     Determine surface test
+ immediately      pressure based on
+  after bumping   maximum differential burst
+  the plug during   pressure (View - Burst
+  a singel-stage    Plots - Pressure profiles)
+ primary
+  cementation.
+
+
+E.1.2      Burst Design Criteria, Production Loads
+
+                 BURST CRITERIA, PRODUCTION LOADS
+                                                                              Temp.
+                                                                                              input
+ Load Case:     Internal Pressure:        External Pressure:                                Design
+                                                                                       Category 3
+                                                                                                      wells only:
+ Tubing Leak   Tubing Leak               In general:                                         Temperature
+ Leak in tubing   (In StressCheck™ and       Specify Fluid Gradients w/ Pore Pressure.              for hottest
+  just below      WellCat™ max SIWHP is   Enable Mud Deterioration.                           Production
+ wellhead         defaulted by program.                                                               or Injection
+  during         However in WellCat     Mud density for Water Based Muds shall be             Operation.
+  production.    SIWHP may also be         deteriorated to Base Fluid Density including density
+                 manually overridden.)       effect of Salt content.
+                                              Oil Based Muds shall be deteriorated to 1,00 s.g.
+                                       Not applicable to Exploratory type wells tested with
+                               Mud no older than 90 days.
+
+                                 When designing Liners:
+                                             Specify Above/Below Prior Shoe.
+ Stimulation     Stimulation Surface leak  As above.                                      Most
+ Surface Leak                                                                                extreme
+ Leak in tubing   Use actual inj. pressure                                                           temperature
+  just below      and density of annulus                                                            simulated
+ wellhead          fluid.                                                                                     for the
+  during                                                                                                applicable
+                                                                                                     Stimulation  injection/
+                                                                                                     Operation.  fracturing.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 27 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+                 BURST CRITERIA, PRODUCTION LOADS
+                                                                              Temp.
+                                                                                              input
+ Load Case:     Internal Pressure:        External Pressure:                                Design
+                                                                                       Category 3
+                                                                                                      wells only:
+  Injection        Injection Down Casing   As above.                                           Extremes,
+ Down Casing    Injection pressure plus                                                                     (hottest and
+  Injection         injection fluid density.                                                                  coldest)
+  operation                                                                                         temperatures
+ down the                                                                               from the
+  casing.                                                                                             Operations.
+ Gas          Gas Migration          As above.                                               Hottest
+ Migration       Reservoir pressure plus                                                           Production
+ Gas bubble      annulus fluid hydrostatic                                                         Operation
+  migrated up      pressure from wellhead to                                                         temperature
+  the annulus       prior shoe.                                                                                    profile.
+ between            If this exceeds shoe frac
+  production and   pressure the above
+  protective        pressure will be shoe frac
+  casing without   pressure minus annulus
+  expansion.        fluid hydrostatic pressure.
+ Annulus Fluid                                                                      Use relevant
+ Expansion                                                                                        temperature
+ (AFE)                                                                                                        profile for
+  Pressure                                                                                               the
+ developed by                                                                                        operation to
+  thermal                                  Shall be calculated using WellCat™.                       be analysed.
+ expansion of                                                                                    (Also AFE
+  fluid in sealed                                                                                    during
+  annulus during                                                                                                  drilling shall
+  Drilling and                                                                               be
+ Flowing                                                                                             evaluated)
+  operations.
+
+
+E.2       Collapse Design Criteria
+
+
+E.2.1      Collapse Design Criteria, Drilling Loads
+
+                 COLLAPSE CRITERIA, DRILLING LOADS
+                                                                              Temp.
+                                                                                              input
+ Load Case:            Internal Pressure:             External Pressure:                     Design
+                                                                                       Category 3
+                                                                                                      wells only:
+ Cementing           Cementing                      Specify Fluid Gradients w/ Pore         “Cemented-
+ Cementing of          *Displacement fluid hydrostatic   Pressure.                                  in”
+  casing/liner. Situation    pressure.                                                                    temperature.
+  just after the cement
+  has been displaced.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 28 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+                 COLLAPSE CRITERIA, DRILLING LOADS
+                                                                              Temp.
+                                                                                              input
+ Load Case:            Internal Pressure:             External Pressure:                     Design
+                                                                                       Category 3
+                                                                                                      wells only:
+ Lost Returns With     Lost Returns With Mud Drop   Specify Fluid Gradients w/ Pore        Temp.
+ Mud Drop          *Mud hydrostatic pressure from   Pressure.                                     profile from
+  Lost circulation. Mud   mud level.                                                                     relevant
+  level drops to balance                                  •   Fluid gradient above Top of Cement:   Drilling
+  lowest pore pressure   NOTE I:                    Mud density used on section.           Operation.
+  in open hole.          See note 7 of Appendix D Load   •   Fluid gradient below Top of Cement:
+                            Criteria selection.              Mud density used on section.
+
+                NOTE II:                    Pore Pressure in Open Hole shall be
+                        This load also creates huge        Disabled.
+                        Axial Stresses (Compression)
+                      which will show in Axial load   NOTE I:
+                            related stresses, Safety Factors    For design work carried out in WellCat™
+                               etc. when calculated in WellCat.   this load case shall be manually
+                                                              established by means of “Customs
+                     Does not affect “Service Loads”   Loads”.
+                            in StressCheck™.                 Pre-defined “Lost Returns” load in
+                                                 WellCat™ balances against minimum
+                        Note:                              fracturing pressure.
+                     Check stresses vs Connection
+                       Compression Capacity.
+
+
+
+E.2.2      Collapse Design Criteria, Production Loads
+
+                COLLAPSE CRITERIA, PRODUCTION LOADS
+                                                                              Temp.
+                                                                                              input
+  Load Case:            Internal Pressure:      External Pressure:                            Design
+                                                                                       Category 3
+                                                                                                      wells only:
+  Full/ Partial             Full/ Partial            Specify Fluid Gradients w/ Pore Pressure.         Hottest temp
+ Evacuation           Evacuation                                                                       profile from
+ Emty casing if gas lift   Atmospheric pressure                                               “Gas lift
+  operations.          down to packer or the                                                            assisted
+                         lowest gas-lift-valve.                                                     Prod”-
+                          Packerfluid below gas-                                                         operation.
+                               lift-valve.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 29 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+                COLLAPSE CRITERIA, PRODUCTION LOADS
+                                                                              Temp.
+                                                                                              input
+  Load Case:            Internal Pressure:      External Pressure:                            Design
+                                                                                       Category 3
+                                                                                                      wells only:
+ Above/ Below Packer  Above/Below Packer    Specify Fluid Gradients w/ Pore Pressure.         Hottest
+ Major draw down       Density Below Packer  Open Collapse Load dialog box and specify:        Production
+  with no surface          in the Collapse Load                                                     Operation
+  pressure or plugged      dialog box shall be gas   •   Fluid Gradient Above TOC = Mud density    temperature
+  perforations.             gradient.                   used on section.                                     profile.
+                        Fluid Drop Above      •   Fluid Gradient Below TOC = Mud density
+ NOTE I:             Packer shall be             used on section.
+  This load creates huge   disabled.               •   Pore Pressure In Open Hole = Activated
+  Axial Stresses             If packer depth is
+  (Compression).        unknown place packer  NOTE I:
+ Check stresses vs      10 mMD above liner    The pressure profile will be the hydrostatic
+ Connection               top.                     pressure from the mud in which the casing was run
+ Compression           Packer fluid            from hanger to prior shoe/ TOC. Pore pressure in
+  Capacity.                hydrostatic pressure     open hole below TOC.
+                      from hanger to packer.
+                                NOTE II:
+                                                 Activated Pore Pressure In Open Hole will
+                                                   override external pressure for other collapse loads-
+                                                   cases as well.
+                                            However, it is only for this case that effects of
+                                                     activated Pore Pressure In Open Hole are
+                                                       relevant.
+ Gas Migration       Gas Migration        As above.                                           Hottest
+ Gas bubble migrated    Packer fluid                                                              Production
+ up the annulus behind   hydrostatic pressure                                                      Operation
+  production casing or    from hanger to shoe.                                                       temperature
+  tieback string.                                                                                                    profile.
+ Annulus Fluid                                                                                        Hottest
+ Expansion:                                                                                      Production
+  Pressure developed by                                                                           Operation
+                                              Shall be calculated by in WellCat™.  thermal expansion of                                                                              temperature
+  fluid in sealed                                                                                                    profile.
+  annulus.
+ Squeezing          Any StressCheck       Overburden gradient. Enter pressure data in table     Hottest
+  Salts/Shales:            collapse load case and   Squeezing Salt/Shale under Wellbore.               Production
+  External pressure       corresponding pressure  The additional pressure exerted by plastic           Operation
+  applied to part of         profile.                 formation will be superimposed on the relevant      temperature
+  casing due to plastic                              pressure profile.                                         profile.
+  formation.                                       External pressure should only be applied to the
+                                                       part of the casing covering the plastic formation
+                                                          interval.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 30 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+                COLLAPSE CRITERIA, PRODUCTION LOADS
+                                                                              Temp.
+                                                                                              input
+  Load Case:            Internal Pressure:      External Pressure:                            Design
+                                                                                       Category 3
+                                                                                                      wells only:
+  Injection Down           Fill in StressCheck     Custom load with relevant external pressure        Extremes,
+  Casing:             Custom load with        profile:                                                  (hottest and
+ Annular Cuttings        relevant internal                                                                 coldest)
+  Injection                pressure profile:           1.   Fracturing                                    temperatures
+                      *WH-annular pressure              a.  Max. pump pressure.                from the
+                                    if pressurized                       b.  Hydrostatic pressure from mud from   Operations.
+                         *Hydrostatic pressure         WH to TOC.
+                      from packer fluid or
+                           deterioated mud from     2.  Cuttings Injection
+                        hanger to TOC.                       a.  Max pump pressure.
+                                                                  b.  Hydrostatic pressure from 1,03 sg.
+                                                            (seawater) from Well Head to Shoe.
+                                                                        c.   Hydrostatic pressure from mud from
+                                                          shoe to TOC.
+
+                                    NOTE:
+                                    When injecting slurry with higher density, pump
+                                                   pressure shall be decreased accordingly.
+
+
+E.3       Axial Design Criteria
+
+                        AXIAL DESIGN CRITERIA
+                                                                       Temp. input Design
+ Load Case:              Description:                                              Category 3 wells
+                                                                                           only:
+ Running In Hole       Running In Hole                                                “As-Drilled”
+ Buoyed axial load        •   Specify Running in Hole – Average Speed = 1 m/sec., or to    temperature profile.
+  distribution when            be determined based on casing strength/practical
+  running in hole                considerations.
+  including sudden stops.
+ Overpull Force         Overpull Force                                                “Undisturbed”
+ Buoyed axial load        •   Specify Overpull = 500 KN                                   temperature.
+  distribution with casing
+  stuck at bottom of
+  string.
+ Pre-Cement Static      Pre-Cement Static Load                                       “Undisturbed”
+ Load                                                                                       temperature.
+ Buoyed axial load
+  distribution with casing
+ on bottom just prior to
+ performing the cement
+  job.
+ Post-Cement Static     Post-Cement Static Load                                      “Undisturbed”
+ Load                                                                                       temperature.
+ Buoyed axial load
+  distribution at casing,
+ immediately after
+ performing cement job.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 31 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+                        AXIAL DESIGN CRITERIA
+                                                                       Temp. input Design
+ Load Case:              Description:                                              Category 3 wells
+                                                                                           only:
+ Green Cement         Green Cement Pressure Test.                                 “Cemented-in”
+ Pressure Test           •   Casing shall be tested to max burst design pressure limited to    temperature.
+ Buoyed axial load         90% of published burst capacity.
+  distribution when
+  pressure testing the
+  casing immediately
+  after bumping the top
+  plug.
+  Service Loads           Service Loads                                             See comment under
+ Combined loads due to   •   For Design Category 1 & 2 wells when StressCheck™ default   “Description” (to the
+  axial, burst and collapse       temperatures have been used, and Service Loads proves to be    left).
+  loads.                        designing load:
+                     o  Check that hottest temperature profile is being used
+ Not applicable for                       in load case Full/Partial Evacuation as defined in
+ Design Category 3 well                E.2.2 Collapse Loads, Full/Partial Evacuation
+  designs.               o  Recheck Axial design results.
+                     •   Enable Buckling under Tubular - Design Parameters.
+
+                 NOTE I:
+                     Be aware of the Above/Below Packer loadcase which causes
+                        huge compression forces that will be displayed as Service Loads.
+ Annulus Fluid          Annulus Fluid Expansion. Note 1                                     Hottest possible
+ Expansion. Note 1         Applicable for situations where annulus is generally heated up,      temperature for the
+                        and sealed off, preventing fluid bleed-off.                  AFE exposed area.
+                         •   Casing subject to collapse from AFE will also be exposed to     (Usually “Max
+                                elevated axial loads.                                         Production” or
+                              Applicable for production casing only.                          “Drilling next
+                     •   Mandatory evaluation for Design Category 3 wells.              section”).
+ For Design Category 3                                                                  Relevant Production
+  wells only:            Check effects of temperature change along complete casing strings   and/or Injection
+ Production and/or      and liner(s). Also below Top of Cement.                            temperatures.
+  Injection Induced        Shall be done for both the “single string”-design mode and the
+ Loads                  “Multi string”-design mode.
+  Effects of temperature
+  generating well
+  operations.
+  (Productions and
+  injections.)
+Notes:
+1.  Applicable to design works performed by WellCat™ only. Not possible when utilising StressCheck™.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 32 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+App F   Material selection Requirements
+
+
+F.1       Material Selection
+
+Casing material selection, ref Best Practice for the Selection of Materials for Casing and Tubing
+TD0139 [9], shall include consideration to the well environment covering the entire well life, including
+the abandonment phase. In this respect H2S service or "sour service" shall be included into the design
+and the requirements detailed in both Statoil document “Safe Operating Practice for Well Fluids
+Containing H2S, TD0079” [8] and NACE MR0175/ISO15156 latest edition shall be followed.
+
+Additional requirements are as follows:
+
+
+F.1.1      Exploration / Appraisal Wells
+
+The maximum material grade shall be limited to Q-125 type 1 with restricted yield, see table in
+appendix F 1.3 note 5. If H2S is to be expected the production casing shall be limited to a H2S resistant
+grade, see table in appendix F 1.3 note 5.
+
+For higher strength grades than Q-125, then dispensation for use can be made provided a risk
+assessment is performed prior to acceptance for use.
+
+Production casing in Design Category 3 wells shall always be designed for "sour service".
+
+
+F.1.2      Production / Injection Wells – Development Wells
+
+The maximum material grade shall be limited to Q-125 type 1 with restricted yield, see table in section
+F1.3.
+
+For higher strength grades than Q-125, then dispensation for use can be made provided a risk
+assessment is performed prior to acceptance for use.
+
+If H2S is to be expected the production casing shall be limited to a H2S resistant grade, see table in
+section F1.3.
+
+Production casing in Design Category 3 wells shall always be designed for "sour service".
+
+The liner material, which is exposed to flowing well fluid shall be of the same quality as the well
+tubing material.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 33 of 34
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 34 ]
+────────────────────────────────────────────
+                                                    Statoil governing document
+                                         Casing Design Manual
+Work process requirement                                    WR0445, Final Ver. 5, Valid from 2006-02-10
+
+
+
+F.1.3     Requirements for Selection of Carbon and Low Alloy Steel
+
+The table below describes the limits for both standard API 5CT and Proprietary casing grades with
+respect to their application in H2S service or "sour service" well environments. Please note, the effects
+of temperature, which if applied effectively will permit the use of none "sour service" grades in lower
+sections of a well and reduce overall material costs.
+
+Casing for H2S Service (1) Applicable to formation waters of pH 3.5 or above.
+                      Maximum Partial Pressure H2S (6)
+         Steel Grade                           (bar)                         Other Criteria (7)
+      H-40, J-55, K-55                     no limit                                                -
+          N-80                                 0.1                     no limit when temperature > 65C
+           L-80                         no limit                                                -
+           C-95                                 0.1                     no limit when temperature > 65C
+           T-95                         no limit                                                -
+          Ø-95(2)                        no limit                                                -
+          Ø-100(2)                        no limit                                                -
+          Ø-105(2)                        no limit                                                -
+           P-110                            0.0035(3)                  no limit when temperature > 80 C
+                                             0.0010(4)
+          Ø-110(2)                      no limit(3)                                              -
+                                                   0.1(4)                                                 -
+          Q-125                             0.001                 no limit when temperature > 80 C(3),(5)
+                                                               no limit when temperature > 107 C(4)
+      Ø-125 (8)(3)(2)                          0.03                  no limit when temperature > 80 C(3),(5)
+        140/150 (9)                      Limits not known                         Limits not known
+Notes:
+1.  For specific metallurgical requirements for each grade then use above listed references 1,3 and 4.
+2. Ø is the symbol used for proprietary sour service grades.
+3.   Borderline: Require individual manufacturer verification, through laboratory testing.
+4.  No restrictions.
+5.  This refers to a special modified API grade Q-125, Type 1, manufactured with a restricted yield strength range from
+    125 to 140 ksi. This must be verified on the manufacturers material certificate.
+6.  Limit at ambient or well shut-in temperature.
+7.  The temperatures stated in this column are the minimum operating temperatures above which the casing material shall
+    be continuously exposed too in the well.
+8.  Ø-125 only qualified manufacturers to be used.
+9.  These grades are not covered by NACE MR 0175, and therefore shall not be exposed to H2S, and shall be purchased
+    only from qualified manufacturers. Consult T&P-UGT-BBT-BRL Metallurgist prior to procurement.
+
+
+
+
+
+                           Validity area: Statoil group/All locations/Upstream/On- and offshore
+Classification: Statoil internal                                                                  Page 34 of 34
+
+

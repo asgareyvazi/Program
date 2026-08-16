@@ -1,0 +1,858 @@
+
+
+────────────────────────────────────────────
+[ صفحه 1 از 41 ]
+────────────────────────────────────────────
+STUCK PIPE
+
+
+────────────────────────────────────────────
+[ صفحه 2 از 41 ]
+────────────────────────────────────────────
+Contents
+
+
+                                      pages
+• Introduction                               3-4
+• Causes distribution                       5-23
+• Warning signs                           24-36
+• Prevention                               37-40
+• Conclusion                            41
+• Annex : Details on prevention
+
+
+
+
+
+                                               2Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 3 از 41 ]
+────────────────────────────────────────────
+  Introduction
+
+
+• Stuck pipe : main cause of drilling problems
+• Main cause of stuck pipe : differential sticking
+• Stuck pipe problems are related to :
+   Well planning (casing, mud, ... programs)
+    Operational mistakes due to a lack of experience, training
+     and / or communication.
+• Stuck pipe happens mainly :
+   On crew change day.
+   At the shift change (70 % of sticking happen within 2 hours
+     before or after the crew change).
+    Generally, it is not linked to difficult formations drilled at crew
+     change time, but because of driller’s possible lack of care at
+      this peculiar period of time.
+
+
+
+                                                   3    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 4 از 41 ]
+────────────────────────────────────────────
+  Introduction
+
+• Much more risks in complex wells (highly deviated wells, depleted
+  reservoirs, etc…).
+• Success in resolving the problem :
+   Chances of success drop rapidly with time.
+    Often the pipes are free after a few minutes of jarring (if the jar is well
+      located !).
+   50 % are solved in the first 4 hours or just after setting pills in place.
+   80 % are solved after 2 to 3 days.
+    After 4 days, chances are close to 0.
+• Keep in mind that :
+    There are just a few cases where it was not possible to avoid the
+     problem !
+    It is important to have a fast and well adapted reaction.
+   The Driller is the key man, but he is not the only one !
+
+
+                                                   4    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 5 از 41 ]
+────────────────────────────────────────────
+  Causes distribution
+
+
+• Usually two categories of sticking :
+    Differential sticking ( the most common cause )
+   Mechanical sticking related to :
+       – The drilling equipment, operations and personnel.
+       – The formation.
+
+
+
+
+
+                                                   5    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 6 از 41 ]
+────────────────────────────────────────────
+  Causes distribution : Differential sticking
+
+
+• It represents 60 to 80 % of sticking incidents
+• It is due to :
+    Difference of pressure between the well and the formation.
+   Presence of a porous and permeable formation.
+   Presence of a filter cake.
+   Immobile string in the hole in contact with the wall.
+
+
+
+
+
+                                                   6    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 7 از 41 ]
+────────────────────────────────────────────
+Causes distribution : Differential sticking
+
+
+
+
+
+                                               7Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 8 از 41 ]
+────────────────────────────────────────────
+  Causes distribution : Differential sticking
+
+
+• Worsening factors :
+   Time
+       – The surface of contact between the string and the wall is
+          increasing.
+       – If the circulation is stopped, the temperature increases  the
+             filtration and the cake deposit are increasing.
+    Filter cake quality, thickness and behavior.
+    Slick elements in BHA having a diameter close to bore hole
+     diameter.
+   Well inclination.
+
+
+
+
+
+                                                   8    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 9 از 41 ]
+────────────────────────────────────────────
+ Causes distribution : Differential sticking
+
+
+• Side force F applied to the drill string : F  P  S  / 1000
+
+   F   : Lateral force in kdaN
+   P : Differential pressure in bar
+   S   : Surface of contact between the string and the bore hole
+         wall at the sticking zone in cm2
+• Traction T to apply at fish level to free the drill string : T  F  Cf
+
+    Cf  : Friction coefficient between cake and drill string
+       – Between 0.20 and 0.35 with WBM
+       – Between 0.10 and 0.20 with NABM
+
+
+
+
+
+                                                  9   Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 10 از 41 ]
+────────────────────────────────────────────
+  Differential sticking example
+
+
+• Ts to apply to the drill string at surface level to free the pipe
+   P = 50 bar
+   Length of string stuck : 20 m
+   Contact length of 2 then 6 cm
+   Above stuck point : 2 500 m of 5”, 19.5 lb / ft, G 105, NC 50,
+     class premium drill pipes
+   Mud density : 1.20  buoyancy factor : 0.847
+    Friction coefficient : 0.25
+
+
+
+
+
+                                                  10    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 11 از 41 ]
+────────────────────────────────────────────
+  Solution of differential sticking example
+
+
+• With a contact length of 2 cm :
+   Surface of contact : 4 000 cm2
+   F = 200 kdaN  T = 50 kdaN
+   DP weight in mud : Ws = 68 kdaN
+    Traction to apply in surface : 118 kdaN
+
+   It is possible to free the string by traction
+
+• With a contact length of 6 cm :
+   Surface of contact : 12 000 cm2
+   F = 600 kdaN  T = 150 kdaN
+   DP weight in mud : Ws = 68 kdaN
+    Traction to apply in surface : 218 kdaN
+
+   It is not possible to free the string just by traction
+
+                                                  11   Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 12 از 41 ]
+────────────────────────────────────────────
+  Causes distribution : Differential sticking
+
+
+• Conclusions
+   The surface traction values are realistic.
+   Enormous forces to apply to free the pipes.
+   2 cm then 6 cm contact length is what can actually happen with
+      time.
+    If the drill string is not freed at the beginning, it is not possible
+      to free it later on with only the traction on pipes.
+
+
+
+
+
+                                                  12    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 13 از 41 ]
+────────────────────────────────────────────
+  Causes distribution : Differential sticking
+
+
+• Reminder on drill pipes utilization limits :
+    If DP used at the tension value given in drilling data handbook,
+      risk of permanent deformation.
+   Be careful with a string composed of several grades,
+     dimensions, nominal weight : the over pull is limited by the
+     smallest value.
+   When several stresses (traction, torsion, pressure) are applied
+      at the same time, it will cause a reduction of tubular resistance.
+
+
+
+
+
+                                                  13    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 14 از 41 ]
+────────────────────────────────────────────
+  Causes distribution : Mechanical sticking
+
+
+• Related to the drilling equipment, operation and/or rig personnel
+   Key seats.
+   Undersized hole.
+    Falling objects.
+    Stiff BHA.
+   Casing failures.
+   Cement problems.
+    Solids settling in hole.
+• Related to the formation
+   Mobile formations : shale and salt.
+    Falling formations.
+
+
+
+
+
+                                                  14    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 15 از 41 ]
+────────────────────────────────────────────
+Causes distribution : Mechanical sticking
+
+
+
+
+
+                                              15Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 16 از 41 ]
+────────────────────────────────────────────
+Causes distribution : Mechanical sticking
+
+
+
+
+
+                                              16Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 17 از 41 ]
+────────────────────────────────────────────
+  Causes distribution : Mechanical sticking
+
+
+• Falling formations due to :
+       – Unconsolidated rocks :
+
+                             Absence of matrix : sandy formations.
+
+                               Laminated shale (rupture along cleavage planes).
+       – Rupture of the rock due to change in distribution and stress
+         values around the well (temperature effect, presence of faults).
+       – Caving (erosion or dissolution) in series formed of an alternation
+           of soft and hard layers.
+       – Tectonic activity.
+
+
+
+
+
+                                                  17    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 18 از 41 ]
+────────────────────────────────────────────
+  Causes distribution : Mechanical sticking
+
+
+• Mobile formations  closing and/or shearing of the formation :
+   Hydrated shale.
+   Massive salt layers when the mud density is too low.
+    Faults playing due to :
+       – Action of mud (lubrication along the fault mirror).
+       – Stress variation around the well (temperature effect).
+       – Tectonic activity.
+
+
+
+
+
+                                                  18    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 19 از 41 ]
+────────────────────────────────────────────
+Causes distribution : Mechanical sticking
+
+
+
+
+
+                                              19Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 20 از 41 ]
+────────────────────────────────────────────
+Causes distribution : Mechanical sticking
+
+
+
+
+
+                                              20Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 21 از 41 ]
+────────────────────────────────────────────
+Causes distribution : Mechanical sticking
+
+
+
+
+
+                                              21Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 22 از 41 ]
+────────────────────────────────────────────
+Causes distribution : Mechanical sticking
+
+
+
+
+
+                                              22Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 23 از 41 ]
+────────────────────────────────────────────
+  Conclusions on causes distribution :
+
+
+• To avoid sticking the prime necessity is:
+   To have :
+       – A well adjusted drilling program.
+       – Adequate drilling procedures.
+   To inform the drilling crew :
+       – Of possible problems.
+       – About specific procedures to follow.
+• Main concern will be :
+   Well trained personnel.
+   Good communication between anyone involved in making the
+      hole.
+   To report any event happening during the shift.
+   Not to hide anything.
+
+
+
+                                                  23    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 24 از 41 ]
+────────────────────────────────────────────
+  Warning signs
+
+
+• It is very important to recognize warning signs in order to identify
+  correctly the cause of sticking.
+• Immediate reaction will help to solve the problem:
+   The situation will deteriorate rapidly.
+   One type of sticking could generate another one.
+• The first action is fundamental : methods used to solve sticking
+  incidents will differ.  If wrong actions are taken, these could
+ reduced chances of success.
+
+
+
+
+
+                                                  24    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 25 از 41 ]
+────────────────────────────────────────────
+  Warning signs
+
+
+• In some sticking types, the signs happen progressively before the
+  string gets stuck; if signs appear and are detected on time, it is
+ possible to react and to correct the situation.
+• But, with some types of sticking, there are no precursor signs.
+   Thus, when it happens, it is important to know :
+       – Operation under progress, the drilled formations…
+       – Mud characteristics, well condition, etc.
+
+
+
+
+
+                                                  25    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 26 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Differential sticking
+
+
+• The phenomenon could be fairly sudden without any clear warning
+  signs.
+• However, before getting stuck, there is generally an increase in
+  friction (torque and drag).
+• Differential sticking is characterized by :
+    It happens when the string is motionless.
+   The string is stuck in both directions.
+   The BHA is in front of porous permeable layers.
+   The circulation is free and there is no change in pump
+     pressure.
+
+
+
+
+
+                                                  26    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 27 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Key seat
+
+• Sticking happens while POOH.
+• The top of BHA is stuck in the key seat.
+• A key seat development is easy to identify :
+    Catching is more and more important at the same depth when POOH.
+    Nothing happens at that depth when RIH.
+    Catching point corresponds to a dog leg.
+• When string is stuck :
+    Free circulation.
+    It is stuck in traction upwards and in rotation, but it could be free
+     downwards.
+• While tripping, the crew should :
+    Report the catching points and their depth.
+    Follow their evolution and check if :
+       – The situation is getting worse at each trip.
+       – The catching happens always at the same depth.
+       – There is a dog leg at that depth.
+
+
+                                                  27    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 28 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Undersized hole
+
+
+• The string gets stuck when RIH a new bit
+   That could have a diameter larger than the previous one.
+    After a bit has been POOH under gauged.
+• The sticking point is close to the bottom of the hole.
+• When the string is stuck :
+   Normally the circulation is free, but a light increase in pump
+     pressure could be observed.
+    It is stuck downwards and in rotation, but could be free
+     upwards.
+
+
+
+
+
+                                                  28    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 29 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Stiff BHA
+
+
+• The string gets stuck when RIH a stiffer BHA.
+• The sticking point is located in crooked zones.
+• When the string is stuck :
+   Normally the circulation is free, but an increase in pump
+     pressure could be observed.
+    It is stuck downwards and in rotation, but could be free
+     upwards.
+
+
+
+
+
+                                                  29    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 30 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Falling objects
+
+
+• Falling objects should produce erratic torque and friction
+  increase.
+• Some missing equipment should be noticed (hand tools, dies, ..).
+• The string could be stuck when picking up or POOH.
+• When the string is stuck :
+   Normally the circulation is free.
+    It is stuck upwards and in rotation, but could be free
+     downwards.
+
+
+
+
+
+                                                  30   Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 31 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Casing failures
+
+
+• The string is stuck with part or full BHA in the casing.
+• It will happen mainly when RIH.
+• When the string is stuck :
+   Normally the circulation is free.
+    If the string got stuck while RIH, it will be stuck downwards and
+      in rotation, but could be free upwards.
+
+
+
+
+
+                                                  31    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 32 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Solids settling in hole
+
+• It would happen mainly in deviated wells.
+• The torque is increasing while rotating.
+• The drag is increasing while moving the string .
+• There is catching when picking up the string.
+• Normally the circulation is free.
+• An abnormal low amount of cuttings should be noticed on shale shakers.
+• Fairly easy re-drilling is needed when RIH.
+• The drill string gets stuck when POOH :
+    Progressively, by accumulation of small particles around the BHA; this
+       will induce a progressive increase of drag while tripping out.
+    It could get stuck by cuttings slipping to the bottom when the
+      circulation is stopped.
+• It will be stuck upwards and in rotation, but could be free downwards.
+
+
+
+
+                                                  32    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 33 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Shale problems
+
+• The torque is increasing while drilling.
+• Bit and BHA balling could happen.
+• Catching will take place when picking up the string.
+• The increase in pump pressure could lead to the impossibility to
+  circulate.
+• A reduction of the amount of cuttings should be noticed.
+   Shale particles will be dispersed in the mud and thus an
+     increase of the solids content in the mud should be noticed.
+• The mud rheology will change :
+    increase of plastic viscosity, yield value.
+    Slight increase of mud density.
+• The presence of plastic shale will be noticed on shale shakers, in
+ the flow line, ...
+    It could lead to an entire plugging of surface lines.
+• A systematic re-drilling of the same zone will take place when RIH.
+
+
+                                                  33    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 34 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Salt formations
+
+
+• The ROP is fast.
+• The torque is increasing while rotating.
+• The drag is increasing while moving the string .
+• The increase in pump pressure could lead to the impossibility to
+  circulate.
+• There will be no cuttings on the shale shakers if the mud is not
+ adapted.
+• Catching will take place when picking up the string.
+• A systematic re-drilling of the same zone will take place when RIH.
+• Changes in filtrate salinity and mud rheology will be noticed.
+
+
+
+
+
+                                                  34    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 35 از 41 ]
+────────────────────────────────────────────
+  Warning signs : Falling formation
+
+• Fast ROP followed by large amount of cuttings on shale shakers.
+• Catching in the same zone while tripping.
+• Re-drilling fairly easy when RIH.
+• Large amount of cuttings on shale shakers after RIH, when circulating
+  again.
+• While drilling, cuttings on shale shakers coming from formations already
+  drilled.
+• Formation of caves that could lead to drill several holes at the same depth.
+• String gets stuck when POOH
+    Depending of the dimension of falling elements
+       – Progressively by accumulation of small particles around BHA
+      Progressive increase of drag while tripping out.
+       – Sudden sticking if fall of particles of large size (cement blocks, etc.).
+       – Could get stuck when motionless (sliding operation).
+• Normally free circulation, but an increase in pump pressure could be
+  observed if large amount of falling elements.
+
+
+                                                  35    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 36 از 41 ]
+────────────────────────────────────────────
+  Conclusion on warning signs
+
+• Symptoms are almost the same in several cases :
+   Often free circulation and no change in pump pressure.
+   Often no precursor signs.
+• To make a correct diagnosis, the following are needed :
+   The formations already drilled :
+       – Lithology, depth of any unconsolidated formation, shale and salt
+           layers, permeable zones.
+   The well conditions :
+       – Presence of dog legs, of caves.
+       – Cuttings transport problems, ...
+   What happened the previous days :
+       – Catching while tripping, amount of cuttings.
+       – Torque and drag while drilling.
+       – mud properties changes, ...
+• Importance of communication and reporting.
+
+
+
+                                                  36    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 37 از 41 ]
+────────────────────────────────────────────
+  Prevention
+
+• Best prevention
+    Competent, well trained personnel with good experience.
+    Personnel watching carefully and continuously hole reactions.
+   Good communication between all the persons involved.
+    Well known equipment limits.
+    Adequate drilling procedures, carefully followed.
+• Remember
+   Only very few cases where it is not possible to prevent stuck pipe
+   The driller = Key man
+       – If fast and well adapted reaction  just few minutes to free the pipes
+       – Wrong or delayed reaction may lead to : a loss of many days, of
+          expensive equipment and a compulsory fishing job.
+   The prevention is not only the concern of the drilling personnel on the
+       rig but of everybody involved in making and designing the well.
+   Need of good communication at every level.
+
+
+
+                                                  37    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 38 از 41 ]
+────────────────────────────────────────────
+  Stuck pipe prevention
+
+
+• Programme
+    Trajectory selection.
+   Casing programme.
+   Mud programme.
+    Drilling equipment selection.
+    Specific procedures.
+    Special operations.
+
+
+
+
+
+                                                  38    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 39 از 41 ]
+────────────────────────────────────────────
+  Stuck pipe prevention
+
+
+• While drilling
+   Avoid falling objects from rig floor.
+   Ensure proper well cleaning.
+   Ensure bore hole stability.
+   Reduce contact between wall and drill string.
+   Be patient when tripping through mobile zones.
+   Minimize drilling phase duration.
+   Ensure an accurate control of trajectory.
+   Avoid differential pressure sticking.
+   Think that MWD could help to prevent problems.
+   Have a drilling jar in the string.
+   Try to reduce dog leg if any by under-reaming
+
+
+
+                                                  39   Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 40 از 41 ]
+────────────────────────────────────────────
+  Stuck pipe prevention
+
+
+• While tripping
+   Ensure that the bore hole is properly cleaned before POOH.
+    Trip carefully in the open hole.
+   Check the bit diameter when the bit is at surface.
+   Take care when RIH stiffer BHA and / or a new bit, especially in
+     a deviated well.
+   Take care of any key seat and be ready for remedial action in
+     case of occurrence.
+
+
+
+
+
+                                                  40    Feb 2006
+
+
+────────────────────────────────────────────
+[ صفحه 41 از 41 ]
+────────────────────────────────────────────
+  Conclusion
+
+
+• Sometime opposite ways to prevent sticking :
+   Density increase to hold mobile formations.
+   Density decrease for differential sticking.
+• But a lot of measures are valid for different cases :
+   Have a well adapted drilling programme.
+   A mud well adapted to the formations.
+   Smooth trajectory, lubricants in the mud.
+   Minimum surface of contact between string and bore hole.
+   Jar in the drilling string.
+    Correct use of drilling equipment.
+• It is important to have skilled rig crew especially the driller, but as
+  well to have clear procedures, good communication and to keep
+ every body informed on well conditions.
+
+
+                                                  41    Feb 2006
+
+

@@ -213,6 +213,13 @@ WELL_PATTERNS = [
     (r"\bDevereux\b", ""),
     (r"\bWell Control School\b", ""),
     (r"\bAberdeen\b", ""),
+    (r"\bChevron\b", ""),
+    (r"\bChevronTexaco\b", ""),
+    (r"\bStatoil\b", ""),
+    (r"\bMaersk\b", ""),
+    (r"\bTotal\b", ""),
+    (r"\bShell\b", ""),
+    (r"\bBP Exploration\b", ""),
 ]
 
 SERVICE_NAMES = [

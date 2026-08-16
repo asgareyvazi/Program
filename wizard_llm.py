@@ -72,24 +72,72 @@ def _query_ollama(prompt: str, model: str = "llama2") -> str:
 
 
 def _query_gemini(prompt: str, api_key: str) -> str:
+    """Query Gemini using the NEW `google.genai` package (the old
+    `google.generativeai` is deprecated and may 403 / warn).
+
+    Tries:
+      1. google.genai  (new SDK — `pip install google-genai`)
+      2. google.generativeai (legacy fallback)
+
+    A 403 is almost always either an invalid/disabled API key or Google AI
+    being geo-restricted in the user's country — the message explains both.
+    """
+    last_err = "unknown error"
+    models = ("gemini-2.0-flash", "gemini-1.5-flash", "gemini-2.5-flash",
+              "gemini-pro")
+
+    # ---- 1) new SDK ----
+    try:
+        from google import genai as new_genai
+        client = new_genai.Client(api_key=api_key)
+        for model_name in models:
+            try:
+                resp = client.models.generate_content(
+                    model=model_name, contents=prompt)
+                return resp.text or ""
+            except Exception as e:
+                last_err = str(e)
+                if "404" in last_err or "not found" in last_err.lower() or \
+                   "model" in last_err.lower():
+                    continue
+                break
+    except ImportError:
+        pass
+    except Exception as e:
+        last_err = str(e)
+
+    # ---- 2) legacy SDK fallback ----
     try:
         import google.generativeai as genai
+        genai.configure(api_key=api_key)
+        for model_name in models:
+            try:
+                model = genai.GenerativeModel(model_name)
+                return model.generate_content(prompt).text
+            except Exception as e:
+                last_err = str(e)
+                if "404" in last_err or "not found" in last_err.lower() or \
+                   "model" in last_err.lower():
+                    continue
+                raise RuntimeError(f"Gemini API error: {last_err}")
     except ImportError:
         raise RuntimeError(
-            "Package 'google-generativeai' is not installed.\n"
-            "Install it with:  pip install google-generativeai")
-    genai.configure(api_key=api_key)
-    last_err = "unknown error"
-    for model_name in ("gemini-2.0-flash", "gemini-1.5-flash", "gemini-pro"):
-        try:
-            model = genai.GenerativeModel(model_name)
-            return model.generate_content(prompt).text
-        except Exception as e:
-            last_err = str(e)
-            if "404" in last_err or "not found" in last_err.lower() or \
-               "model" in last_err.lower():
-                continue
-            raise RuntimeError(f"Gemini API error: {last_err}")
+            "Neither 'google-genai' nor 'google-generativeai' is installed.\n"
+            "Install with:  pip install google-genai")
+    except RuntimeError:
+        raise
+    except Exception as e:
+        last_err = str(e)
+
+    if "403" in last_err:
+        raise RuntimeError(
+            "Gemini API error: 403 Forbidden.\n\n"
+            "This usually means one of:\n"
+            "• The API key is invalid, expired or not enabled for the "
+            "Generative Language API (check https://aistudio.google.com)\n"
+            "• Google AI services are geo-blocked in your country/region "
+            "(e.g. Iran). Use a VPN, or use the local Ollama backend "
+            "(no API key, works offline).")
     raise RuntimeError(f"Gemini API error: {last_err}")
 
 

@@ -201,6 +201,15 @@ WELL_PATTERNS = [
     (r"\bWeco\b", ""),
     (r"\bVarco\b", ""),
     (r"\bKhazar\b", "the field"),
+    (r"\bCK-?\d+\b", ""),
+    (r"\bSR-?\d+\b", ""),
+    (r"\bNSH-?\d+\b", ""),
+    (r"\bDH-?\d+\b", ""),
+    (r"\bMK[- ]?\d+\b", ""),
+    (r"\bWDI-?\d+\b", ""),
+    (r"\bAGH-?\d+\b", ""),
+    (r"\bHE-E?7\b", ""),
+    (r"\bD-?1(?:27|26|028)\b", "the well"),
     (r"\bADCO\b", ""),
     (r"\bSaudi Aramco\b", ""),
     (r"\bAramco\b", ""),
@@ -2192,6 +2201,12 @@ class GeneratorWizard(QWizard):
         from wizard_offshore import OFFSHORE_TEMPLATES
         templates: List[TemplateDef] = list(ALL_TEMPLATES) + \
             list(PROCEDURE_TEMPLATES) + list(OFFSHORE_TEMPLATES)
+        # Master procedures (one consolidated procedure per operation)
+        try:
+            from wizard_master import build_master_templates
+            templates += build_master_templates()
+        except Exception:
+            pass
 
         self.addPage(_TemplatePage(templates))   # 0 type
         self.addPage(_WellProfilePage())         # 1 well profile (new)

@@ -120,11 +120,21 @@ def ingest(source: str, dry_run: bool = False) -> dict:
         return {"added": 0, "skipped": 0}
 
     files = [src] if src.is_file() else sorted(src.rglob("*.txt"))
-    # existing hashes
+    # existing hashes — from the COMMITTED manifest first (survives restarts),
+    # then fall back to scanning the library
     existing = {}
+    manifest = LIB / ".hashes.json"
+    if manifest.exists():
+        try:
+            import json as _json
+            existing = {h: n for h, n in
+                        _json.loads(manifest.read_text(encoding="utf-8")).items()}
+        except Exception:
+            existing = {}
     for f in LIB.glob("*.txt"):
         try:
-            existing[_hash(f.read_text(encoding="utf-8", errors="replace")[:4000])] = f.name
+            h = _hash(f.read_text(encoding="utf-8", errors="replace")[:4000])
+            existing.setdefault(h, f.name)
         except Exception:
             pass
 
@@ -156,6 +166,19 @@ def ingest(source: str, dry_run: bool = False) -> dict:
         next_num += 1
 
     if not dry_run and added:
+        # refresh the committed hash manifest
+        try:
+            import json as _json
+            man = {}
+            for f in LIB.glob("*.txt"):
+                if f.name[:3].isdigit():
+                    h = _hash(f.read_text(encoding="utf-8",
+                                          errors="replace")[:4000])
+                    man.setdefault(h, f.name)
+            (LIB / ".hashes.json").write_text(
+                _json.dumps(man, indent=1), encoding="utf-8")
+        except Exception:
+            pass
         # rebuild catalog
         try:
             import document_catalog

@@ -10,6 +10,7 @@ import json
 import re
 import urllib.parse
 import urllib.request
+import ssl
 from typing import Dict, List, Optional, Tuple
 
 from PySide6.QtWidgets import (
@@ -21,36 +22,94 @@ from PySide6.QtCore import Qt, QUrl
 from PySide6.QtGui import QDesktopServices
 
 # ----------------------------------------------------------------------------
+# HTTP HELPERS — try `requests` first (handles proxies better on Windows),
+# fall back to urllib with a permissive SSL context as a last resort.
+# ----------------------------------------------------------------------------
+
+_last_http_error = ""
+
+
+def _http_get(url: str, timeout: int = 15) -> Optional[bytes]:
+    """GET with requests-first strategy; stores a readable error."""
+    global _last_http_error
+    _last_http_error = ""
+    try:
+        import requests
+        r = requests.get(url, timeout=timeout, headers={
+            "User-Agent": "DrillingProgramGen/3.1"})
+        if r.status_code == 200:
+            return r.content
+        _last_http_error = f"HTTP {r.status_code}"
+        return None
+    except ImportError:
+        pass
+    except Exception as e:
+        _last_http_error = str(e)[:160]
+        return None
+
+    # urllib fallback
+    try:
+        req = urllib.request.Request(
+            url, headers={"User-Agent": "DrillingProgramGen/3.1"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read()
+    except Exception as e:
+        _last_http_error = str(e)[:160]
+        return None
+
+
+def last_http_error() -> str:
+    return _last_http_error
+
+
+# ----------------------------------------------------------------------------
 # FETCHERS
 # ----------------------------------------------------------------------------
 
 def fetch_wikipedia_summary(query: str, lang: str = "en") -> Optional[Dict]:
-    """Fetch a short article summary from Wikipedia."""
+    """Fetch a short article summary from Wikipedia REST API."""
     url = (f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/"
            + urllib.parse.quote(query.replace(" ", "_")))
+    data = _http_get(url)
+    if data is None:
+        return None
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "DrillingProgramGen/3.1"})
-        with urllib.request.urlopen(req, timeout=15) as r:
-            data = json.loads(r.read().decode("utf-8"))
+        d = json.loads(data.decode("utf-8", errors="replace"))
         return {
-            "title": data.get("title", query),
-            "extract": data.get("extract", ""),
-            "url": data.get("content_urls", {}).get("desktop", {}).get("page", ""),
+            "title": d.get("title", query),
+            "extract": d.get("extract", ""),
+            "url": d.get("content_urls", {}).get("desktop", {}).get("page", ""),
         }
     except Exception:
         return None
+
+
+def fetch_wikipedia_search(query: str, lang: str = "en") -> List[Tuple[str, str]]:
+    """Fallback: Wikipedia opensearch — more forgiving than the summary API."""
+    url = ("https://" + lang + ".wikipedia.org/w/api.php?action=opensearch&"
+           "format=json&limit=8&search=" + urllib.parse.quote(query))
+    data = _http_get(url)
+    if data is None:
+        return []
+    try:
+        d = json.loads(data.decode("utf-8", errors="replace"))
+        titles, links = d[1], d[3]
+        return list(zip(titles, links))
+    except Exception:
+        return []
 
 
 def fetch_duckduckgo(query: str) -> List[Tuple[str, str]]:
     """Fetch related topics from DuckDuckGo Instant Answers."""
     url = ("https://api.duckduckgo.com/?q=" + urllib.parse.quote(query)
            + "&format=json&no_html=1&skip_disambig=1")
+    data = _http_get(url)
+    if data is None:
+        return []
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "DrillingProgramGen/3.1"})
-        with urllib.request.urlopen(req, timeout=15) as r:
-            data = json.loads(r.read().decode("utf-8"))
+        d = json.loads(data.decode("utf-8", errors="replace"))
         results: List[Tuple[str, str]] = []
-        for a in data.get("RelatedTopics", [])[:10]:
+        for a in d.get("RelatedTopics", [])[:10]:
             if "Topics" in a:
                 for t in a["Topics"][:3]:
                     if t.get("Text"):
@@ -241,10 +300,21 @@ class WebResearchDialog(QDialog):
                     self.results.addItem(item)
                     self.results.setCurrentRow(0)
                     self._load_result(item)
-                else:
+                    return
+                # fallback: opensearch list
+                hits = fetch_wikipedia_search(q)
+                for title, url in hits[:8]:
+                    item = QListWidgetItem(f"📖 {title[:90]}")
+                    item.setData(Qt.UserRole, ("ddg", (title, url)))
+                    item.setToolTip(url)
+                    self.results.addItem(item)
+                if hits:
                     self.preview.setPlainText(
-                        "No Wikipedia summary found for this query.\n"
-                        "Try DuckDuckGo or a different wording.")
+                        "Exact article not found — showing Wikipedia search "
+                        "results. Select one and insert.")
+                    return
+                self._show_web_error(
+                    "Wikipedia is not reachable from this connection.")
             else:
                 hits = fetch_duckduckgo(q)
                 for text, url in hits[:10]:
@@ -253,11 +323,42 @@ class WebResearchDialog(QDialog):
                     item.setToolTip(url)
                     self.results.addItem(item)
                 if not hits:
-                    self.preview.setPlainText(
-                        "No DuckDuckGo instant results. Try Wikipedia or "
-                        "open the browser for a full search.")
+                    self._show_web_error(
+                        "DuckDuckGo returned nothing. It is blocked in some "
+                        "countries — use Wikipedia, or open the browser.")
         finally:
             QApplication.restoreOverrideCursor()
+
+    def _show_web_error(self, msg: str):
+        """Explain WHY the web search failed instead of a silent 'no results'."""
+        err = last_http_error()
+        tip = ""
+        if err:
+            low = err.lower()
+            if "403" in low:
+                tip = ("\n\n403 = the site blocked this request (region/"
+                       "firewall). Try another engine or the browser button.")
+            elif "certificate" in low or "ssl" in low or "tls" in low:
+                tip = ("\n\nTLS/SSL handshake failed — your network/firewall "
+                       "is interfering. Try the browser button (uses your "
+                       "system browser settings).")
+            elif "timed out" in low or "timeout" in low:
+                tip = ("\n\nConnection timed out — check internet access / "
+                       "proxy settings.")
+        self.preview.setPlainText(
+            f"{msg}\n\nDetail: {err or 'no response'}{tip}\n\n"
+            "💡 Tip: press 'Open in Browser' to search with your system "
+            "browser (it uses your proxy/VPN settings).")
+        # enable browser fallback with a search URL
+        q = self.query.text().strip()
+        engine = self.engine.currentText() if hasattr(self, "engine") else ""
+        if "Duck" in engine:
+            self._last_url = ("https://duckduckgo.com/?q=" +
+                              urllib.parse.quote(q))
+        else:
+            self._last_url = ("https://en.wikipedia.org/w/index.php?search=" +
+                              urllib.parse.quote(q))
+        self.btn_open.setEnabled(True)
 
     def _load_result(self, item):
         kind, data = item.data(Qt.UserRole)

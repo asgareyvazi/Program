@@ -321,6 +321,138 @@ def get_reference_docs(template_key: str) -> List[Tuple[str, str]]:
     return TEMPLATE_REFERENCES.get(template_key, [])
 
 
+# ============================================================================
+# AUTO-MAPPING — pp2 field documents (library files 242-562) are mapped to
+# wizard templates by filename patterns so their knowledge is used by the
+# enrichment engine. Patterns mirror the seed_pp2_procedures categories.
+# ============================================================================
+
+_PP2_PATTERNS = {
+    "drilling_program": [
+        r"Drilling_Program|drilling_program|DRILLING_PROGRAM",
+        r"Naftshahr|PYW|Kangan-3|Tabnak|Cheshmeh_Khush|Maleh_Kuh|West_Paydar",
+        r"Drilling_Programme_Hole",
+    ],
+    "advanced_drilling_program": [
+        r"SD_A-03|SDX|Drilling_Program_6.2|Drilling__Completion",
+    ],
+    "offshore_drilling_program": [
+        r"36inch_Deepwater|Drilling_36|Jet_In|100_m_Pilot|wash_seabed",
+        r"SJD2|NR-3[56]|SR-15",
+    ],
+    "casing_running_cementing_procedure": [
+        r"CSG_Procedure|CSG_PROGRAMME|Casing_Procedure|CASING_PROCEDURE",
+        r"RUNNING.*CASING|RUNNIG|RUN.*CSG|RUN_18|run_20_inch",
+        r"16_inch_CSG|13.375_inch_by_13.625|9.875_CSG",
+    ],
+    "cementing_program": [
+        r"cmt_instruction|CMT_instruction|CMT_PROGRAMM|in_CMT",
+        r"16_inch_CMT|Cementing_20in|cementing_18|CMT_26|cementing,_18",
+        r"cmt_plug_program|Cement_plug",
+    ],
+    "cement_plug_procedure": [
+        r"cement_plug|Cement_Plug|17in_cement|CMT_Balanced|Sidetrack_Plug",
+        r"PLUG_BACK|plug_back|Cement_Plug_Back",
+    ],
+    "fishing_program": [
+        r"Back_Off|BACKOFF|backoff|Fishing|fishing",
+        r"Mill_and_flush|POLISH_MILL|Clean-out_and_mill|Scraper_and_Polish",
+        r"Free_Point|free_point",
+    ],
+    "stuck_pipe_procedure": [
+        r"Back_Off_String|BACKOFF|backoff|Free_Point",
+    ],
+    "reentry_program": [
+        r"Whipstock|whipstock|sidetrack|Sidetrack|window",
+        r"11.875_inch_sidetrack",
+    ],
+    "well_kill_program": [
+        r"shallow_gas|Shallow_gas|kill|Kill",
+    ],
+    "kick_circulation_procedure": [
+        r"Drillers_Method|Wait_and_Weight|Pre-Flow|shallow_gas",
+    ],
+    "bop_test_procedure": [
+        r"BOP_test|BOP_TEST|Test_18.625|Run_BOP|Change_Rams",
+    ],
+    "h2s_emergency_procedure": [
+        r"H2S|h2s",
+    ],
+    "drilling_program": [
+        r"Mud_Program|mud_program|KEPCO_Mud|Drilling_Fluids|Glycol",
+    ],
+    "well_testing_program": [
+        r"Well_Testing|well_testing|Yaran-3_Well|Yaran-2_test|full_bure_DST",
+        r"Formation_Testing|testing_procedures",
+    ],
+    "dst_procedure": [
+        r"DST1|full_bure_DST|RIH_procedure.*Flex|Sampling_with_full",
+    ],
+    "esp_workover": [
+        r"COMPLETION|completion|Sefid_Zakhur|Kangan_25|west_paydar.*compl",
+        r"SET_PACKER|ESP",
+    ],
+    "esp_workover": [
+        r"ESP|esp",
+    ],
+    "perforation_procedure": [
+        r"Perforat|perforat",
+    ],
+    "stimulation_program": [
+        r"AcidStimulation|Acid_Stimulation|acidizing|Stimulation",
+    ],
+    "coiled_tubing_program": [
+        r"Coiled_Tubing|CTU|coil",
+    ],
+    "abandonment_program": [
+        r"abandon|Abandon|Suspension|suspend",
+    ],
+    "slickline_procedure": [
+        r"Slick|slick",
+    ],
+    "casing_running_cementing_procedure": [
+        r"Liner_hanger|liner_hanger|11.875_liner|Liner_top_packer|TGB|ISOTT",
+    ],
+    "wellhead_installation_procedure": [
+        r"casing_hanger|Casing_hanger|wellhead|Wellhead|X-mas|X_mas",
+    ],
+    "rig_move_procedure": [
+        r"Rig_Move|rig_move|Jacking|jacking",
+    ],
+    "drilling_program": [
+        r"Hole_cleaning|hole_cleaning|TD_Hole|Wash_&_Ream|Bit_Bottom_Hole",
+    ],
+}
+
+
+def _auto_map_pp2():
+    """Scan library files 242-562 and append matches to TEMPLATE_REFERENCES."""
+    try:
+        files = {}
+        for f in sorted(LIBRARY_DIR.glob("*.txt")):
+            m = re.match(r"^(\d{3})_", f.name)
+            if m and 242 <= int(m.group(1)) <= 562:
+                files[f.name] = int(m.group(1))
+        for key, patterns in _PP2_PATTERNS.items():
+            refs = TEMPLATE_REFERENCES.setdefault(key, [])
+            for pat in patterns:
+                matched = 0
+                for fname, num in files.items():
+                    if re.search(pat, fname, re.I):
+                        label = fname.split("_", 2)[-1].rsplit(".", 1)[0]
+                        label = label.replace("_", " ")
+                        if (str(num), label) not in refs:
+                            refs.append((str(num), label))
+                            matched += 1
+                        if matched >= 4:   # cap per pattern
+                            break
+    except Exception:
+        pass
+
+
+_auto_map_pp2()
+
+
 def reference_markdown(template_key: str) -> str:
     """Build a 'Reference Documents' markdown section for the output doc."""
     refs = get_reference_docs(template_key)

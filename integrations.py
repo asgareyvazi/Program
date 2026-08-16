@@ -1171,7 +1171,14 @@ class EngineeringToolsTab(QWidget):
         self.pages = QStackedWidget()
         for name, cls in tools:
             self.nav.addItem(name)
-            self.pages.addWidget(cls())
+            # wrap each calculator page in a scroll area so it never
+            # overflows on smaller screens
+            page = cls()
+            sc = QScrollArea()
+            sc.setWidgetResizable(True)
+            sc.setFrameShape(QFrame.NoFrame)
+            sc.setWidget(page)
+            self.pages.addWidget(sc)
 
         self.nav.currentRowChanged.connect(self.pages.setCurrentIndex)
         self.nav.setCurrentRow(0)

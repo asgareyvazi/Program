@@ -189,6 +189,8 @@ WELL_PATTERNS = [
     (r"\bSPD\s*\d*\b", ""),
     (r"\bSD A-03\b", "the well"),
     (r"\bBP\b", ""),
+    (r"\(Brown\)|\(BROWN\)", ""),
+    (r"\bBrown\b(?=\s+(?:JM|CPH|HSR|HMC))", ""),
     (r"\bMI\b(?!-)", ""),
     (r"\bHALCO\b", ""),
     (r"\bAnadrill\b", ""),
@@ -844,10 +846,16 @@ class _TemplatePage(QWizardPage):
         ll = QVBoxLayout(left)
         ll.setContentsMargins(0, 0, 0, 0)
 
+        rowf = QHBoxLayout()
+        self.search = QLineEdit()
+        self.search.setPlaceholderText("🔍 Search document types...")
+        self.search.textChanged.connect(lambda _t: self._apply_filter())
+        rowf.addWidget(self.search, 1)
         self.filter = QComboBox()
         self.filter.addItems(["All types", "Programs", "Procedures"])
         self.filter.currentTextChanged.connect(self._apply_filter)
-        ll.addWidget(self.filter)
+        rowf.addWidget(self.filter)
+        ll.addLayout(rowf)
 
         self.listw = QListWidget()
         for t in templates:
@@ -865,7 +873,9 @@ class _TemplatePage(QWizardPage):
         rl.setContentsMargins(10, 0, 0, 0)
         self.desc = QLabel("Select a document type to see details.")
         self.desc.setWordWrap(True)
-        self.desc.setStyleSheet("font-size:12px;color:#c0c0d0;")
+        self.desc.setStyleSheet(
+            "background:#1a1a2e;border:1px solid #0f3460;border-radius:8px;"
+            "padding:14px;font-size:12px;color:#c0ccd8;")
         rl.addWidget(self.desc)
         rl.addStretch()
         splitter.addWidget(right)
@@ -881,13 +891,17 @@ class _TemplatePage(QWizardPage):
         item = self.listw.currentItem()
         return item.data(Qt.UserRole) if item else ""
 
-    def _apply_filter(self, text):
+    def _apply_filter(self, text=None):
+        text = text if text is not None else self.filter.currentText()
+        q = self.search.text().strip().lower() if hasattr(self, "search") else ""
         for idx in range(self.listw.count()):
             item = self.listw.item(idx)
             t = self._by_key(item.data(Qt.UserRole))
             show = (text == "All types" or
                     (text == "Programs" and t.kind == "Program") or
                     (text == "Procedures" and t.kind == "Procedure"))
+            if show and q and q not in item.text().lower():
+                show = False
             item.setHidden(not show)
 
     def _by_key(self, key):
@@ -1057,12 +1071,21 @@ class _SectionsPage(QWizardPage):
 
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setTitle("2. Choose the sections")
+        self.setTitle("3. Choose the sections")
         self.setSubTitle(
             "Tick the sections you want in the document. Unticked sections "
             "are omitted. The header and approval block are always kept.")
 
         lay = QVBoxLayout(self)
+        btnrow = QHBoxLayout()
+        btn_all = QPushButton("✓ Select All")
+        btn_all.setMaximumWidth(130)
+        btn_none = QPushButton("✗ Select None")
+        btn_none.setMaximumWidth(130)
+        btnrow.addWidget(btn_all)
+        btnrow.addWidget(btn_none)
+        btnrow.addStretch(1)
+        lay.addLayout(btnrow)
         self.listw = QListWidget()
         self.listw.setSelectionMode(QAbstractItemView.SingleSelection)
         lay.addWidget(self.listw)
@@ -1073,6 +1096,20 @@ class _SectionsPage(QWizardPage):
 
         self._sections: List[str] = []
         self._saved: Dict[str, List[str]] = {}
+
+        # wire the select all / none buttons
+        btn_all = self.findChildren(QPushButton)
+        for b in btn_all:
+            if b.text() == "✓ Select All":
+                b.clicked.connect(lambda: self._set_all(True))
+            elif b.text() == "✗ Select None":
+                b.clicked.connect(lambda: self._set_all(False))
+
+    def _set_all(self, on: bool):
+        for i in range(self.listw.count()):
+            item = self.listw.item(i)
+            if item.flags() & Qt.ItemIsEnabled:
+                item.setCheckState(Qt.Checked if on else Qt.Unchecked)
 
     def initializePage(self):
         self.listw.clear()
@@ -1123,7 +1160,7 @@ class _InputsPage(QWizardPage):
 
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setTitle("2. Provide the inputs")
+        self.setTitle("4. Provide the inputs")
         self.setSubTitle("Fill the requested fields. Empty fields will appear "
                          "as [To Be Filled] in the generated document.")
 
@@ -1301,7 +1338,7 @@ class _RiskReviewPage(QWizardPage):
 
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setTitle("3. Risk Review (automatic)")
+        self.setTitle("5. Risk Review (automatic)")
         self.setSubTitle(
             "The software automatically checks the operations in your "
             "document against the drilling risk knowledge base, shows the "
@@ -1468,12 +1505,23 @@ class _OptionsPage(QWizardPage):
 
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setTitle("4. Document details, formatting & output")
+        self.setTitle("6. Document details, formatting & output")
         self.setSubTitle(
             "Set the document control info, choose the font and page "
             "layout, then pick where to save the Word file.")
 
-        lay = QVBoxLayout(self)
+        # Scrollable content area (page holds a lot of settings)
+        scroll = QScrollArea(self)
+        scroll.setWidgetResizable(True)
+        scroll.setFrameShape(QFrame.NoFrame)
+        scroll.setStyleSheet("QScrollArea { background: transparent; border: none; }")
+        container = QWidget()
+        lay = QVBoxLayout(container)
+        lay.setContentsMargins(4, 4, 4, 4)
+        outer = QVBoxLayout(self)
+        outer.setContentsMargins(0, 0, 0, 0)
+        outer.addWidget(scroll)
+        scroll.setWidget(container)
 
         # -- Document control -------------------------------------------------
         g_doc = QGroupBox("Document Control")
@@ -1715,7 +1763,7 @@ class _GeneratePage(QWizardPage):
 
     def __init__(self, parent=None):
         super().__init__(parent)
-        self.setTitle("5. Generate")
+        self.setTitle("7. Generate")
         self.setSubTitle("Generate the Word document now.")
 
         lay = QVBoxLayout(self)
@@ -2008,6 +2056,105 @@ class _GeneratePage(QWizardPage):
                 QUrl.fromLocalFile(str(Path(self._last_path).parent)))
 
 
+
+# ============================================================================
+# WIZARD DARK THEME (consistent with the main app palette)
+# ============================================================================
+
+WIZARD_STYLE = """
+QWizard {
+    background-color: #16213e;
+}
+QWidget {
+    background-color: #16213e;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 12px;
+}
+QWizard QLabel { color: #c0ccd8; }
+QLabel#wizBig { color: #e94560; font-size: 15px; font-weight: bold; }
+QLabel#wizSub { color: #8899aa; font-size: 11px; }
+
+QGroupBox {
+    border: 2px solid #0f3460;
+    border-radius: 8px;
+    margin-top: 12px;
+    padding-top: 18px;
+    font-weight: bold;
+    color: #e94560;
+    background: #1a1a2e;
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 12px;
+    padding: 0 8px;
+    color: #e94560;
+    font-size: 12px;
+}
+
+QLineEdit, QDoubleSpinBox, QSpinBox, QComboBox, QDateEdit, QTextEdit {
+    background-color: #1a1a2e;
+    border: 1px solid #0f3460;
+    border-radius: 4px;
+    padding: 6px 10px;
+    color: #e0e0e0;
+    min-height: 26px;
+    selection-background-color: #e94560;
+}
+QLineEdit:focus, QDoubleSpinBox:focus, QSpinBox:focus, QComboBox:focus,
+QTextEdit:focus {
+    border: 2px solid #e94560;
+}
+QComboBox QAbstractItemView {
+    background: #1a1a2e; color: #e0e0e0;
+    selection-background-color: #e94560; selection-color: #ffffff;
+}
+
+QListWidget, QTreeWidget, QTableWidget {
+    background: #1a1a2e;
+    alternate-background-color: #16213e;
+    border: 1px solid #0f3460;
+    border-radius: 6px;
+    color: #e0e0e0;
+    outline: none;
+}
+QListWidget::item { padding: 6px; border-radius: 4px; }
+QListWidget::item:selected { background: #0f3460; color: #ffffff; }
+QListWidget::item:hover { background: #1a2744; }
+QListWidget::item:checked { background: #0f3460; }
+QHeaderView::section {
+    background-color: #0f3460; color: #ffffff;
+    font-weight: bold; padding: 4px; border: 1px solid #1a1a2e;
+}
+
+QCheckBox { spacing: 8px; color: #c0ccd8; }
+QCheckBox::indicator { width: 16px; height: 16px;
+    border: 2px solid #0f3460; border-radius: 4px; background: #0d1525; }
+QCheckBox::indicator:checked { background: #e94560; border-color: #e94560; }
+
+QPushButton {
+    background-color: #0f3460; color: #ffffff;
+    border: none; border-radius: 6px;
+    padding: 8px 18px; font-weight: bold; font-size: 12px;
+}
+QPushButton:hover { background-color: #e94560; }
+QPushButton:disabled { background-color: #2c3e50; color: #7a7a8a; }
+QPushButton#primary { background-color: #e94560; }
+QPushButton#primary:hover { background-color: #ff6b81; }
+
+QScrollArea { background: transparent; border: none; }
+QScrollBar:vertical { background: #16213e; width: 10px; margin: 0; }
+QScrollBar::handle:vertical { background: #0f3460; border-radius: 5px; min-height: 30px; }
+QScrollBar::handle:vertical:hover { background: #e94560; }
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical { height: 0; }
+QScrollBar:horizontal { background: #16213e; height: 10px; margin: 0; }
+QScrollBar::handle:horizontal { background: #0f3460; border-radius: 5px; min-width: 30px; }
+QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal { width: 0; }
+
+QWizard QLineEdit, QWizard QComboBox { min-height: 30px; }
+"""
+
+
 class GeneratorWizard(QWizard):
     """The universal program & procedure generator wizard."""
 
@@ -2019,6 +2166,7 @@ class GeneratorWizard(QWizard):
         self.setOption(QWizard.NoBackButtonOnStartPage, True)
         self.setOption(QWizard.NoCancelButtonOnLastPage, False)
         self.setOption(QWizard.HaveHelpButton, False)
+        self.setStyleSheet(WIZARD_STYLE)
 
         from wizard_library import ALL_TEMPLATES
         from wizard_procedures import PROCEDURE_TEMPLATES

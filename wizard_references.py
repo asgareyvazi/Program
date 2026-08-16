@@ -316,9 +316,27 @@ def list_library_files() -> List[Tuple[str, Path]]:
     return out
 
 
+def _generalize_label(label: str) -> str:
+    """Remove company/well/reservoir names from a reference label so that
+    the 'Reference Documents' section of generated documents stays general.
+    """
+    try:
+        from cbs_db import generalize_text
+        out = generalize_text(label)
+        out = re.sub(r"\.pdf$", "", out, flags=re.I)
+        out = re.sub(r"\.docx$", "", out, flags=re.I)
+        out = re.sub(r"^the field\s+", "", out, flags=re.I)
+        out = re.sub(r"^the well\s+", "", out, flags=re.I)
+        out = re.sub(r"\s+", " ", out).strip(" -")
+        return out or label
+    except Exception:
+        return label
+
+
 def get_reference_docs(template_key: str) -> List[Tuple[str, str]]:
-    """Return [(file_stem, label)] for a template key."""
-    return TEMPLATE_REFERENCES.get(template_key, [])
+    """Return [(file_stem, label)] for a template key (labels generalized)."""
+    refs = TEMPLATE_REFERENCES.get(template_key, [])
+    return [(num, _generalize_label(lbl)) for num, lbl in refs]
 
 
 # ============================================================================

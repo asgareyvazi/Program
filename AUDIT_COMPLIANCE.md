@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۴۴۷ تست در ۶ سویت خودکار | `tests/run_all.py` (193 مرجع + 63 حاکمیتی + 51 قالب + 23 UI + 45 API + 72 کیفیت محتوا) |
+| Testing | 3.5 | ✅ ۴۶۳ تست در ۶ سویت خودکار | `tests/run_all.py` (202 مرجع + 67 حاکمیتی + 51 قالب + 23 UI + 48 API + 72 کیفیت محتوا) |
 
 ---
 
@@ -151,7 +151,7 @@
 | P2 | Enterprise RBAC | ✅ |
 | P2 | API Layer | ✅ **REST API سازمانی** (`api_server.py` / `launcher.py --server`): ۱۶ اندپوینت — تولید سند، اعتبارسنجی، Calculation Register، Anti-Collision، CRUD پروسیجر/لینک، مشکلات، CBS، چاهها، بکاپ، آمار + احراز هویت X-API-Key + تست ۳۹ موردی |
 | P2 | Central Knowledge Governance | ✅ ingest/catalog + **effective-date** (migration v2) + گزارش حاکمیت دانش |
-| P3 | Mobile/Field Companion | ❌ |
+| P3 | Mobile/Field Companion | ❌ (وابسته به پلتفرم موبایل) |
 | P3 | Telemetry/WITSML | ✅ **خروجی WITSML v1.4.1 (چاه/چاهک/مسیر با minimum curvature) + JSON handoff** — `witsml_export.py` + منو + اندپوینت |
 
 ---
@@ -229,6 +229,8 @@
 `(این کامیت — Batch R)` (**سیمانکاری**: حجم/کیسه/آب + UCA + SGS + مهاجرت گاز؛ **چاههای خاص**: HPHT الاستومر/فشار محبوس/متالورژی + Deepwater riser margin/subsea BOP + مدل سد دوتایی تکمیل)
 `(این کامیت — Batch S)` (**WITSML/JSON Export** + **Prefill خودکار ورودیها از پروفایل چاه** با نگاشت مترادف واژگان)
 `(این کامیت — Batch T)` (**کیفیت محتوا و نشت صفر — بر اساس گزارش کاربر**: فیلتر sanitizer برای حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل و تلفن از غنیسازی دانش؛ افزودن کدهای چاه/میدان/مخزن به لیست سیاه (MB-013، GS 4-2، Asmari، Pabdeh، N 1-3-5، Gachsaran…) با حفظ درجههای فولاد (S135/S-95)؛ scrub کامل دیتابیس پروسیجرها با neutralize_text؛ برچسب صادقانهٔ «verbatim» وقتی LLM خاموش است؛ neutralize در خروجی Word مدیر پروسیجر)
+`(این کامیت — Batch U)` (**تحلیل حساسیت Tornado**: تغییر یکبهیک ورودیها ±Δ و رتبهبندی اثر بر SPP/ECD/KMW/MAASP/هزینه — «Control parameters» در سند + اندپوینت + ۹ تست تحلیلی)
+`(این کامیت — Batch V)` (**OCR Ingest و PDF Export با تخریب برازنده**: `ocr_ingest.py` (Tesseract + poppler، dedupe با هش، ثبت در کاتالوگ) و `pdf_export.py` (LibreOffice headless) — بدون ابزار، پیام نصب واضح؛ با ابزار، کاملاً خودکار + منوی OCR + سکشن «TIME BREAKDOWN SUMMARY» در اسناد)
 
 **امتیاز تخمینی جدید:** حدود **9.5–9.7/10** (از 5.8) — با سویت «کیفیت محتوا و نشت صفر»
 - +Validation، +Testing خودکار (۲۷۹ تست در ۵ سویت)، +Traceability کامل (register + snapshots)،

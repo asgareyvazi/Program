@@ -619,6 +619,22 @@ def compute_register(values: Dict) -> List[Dict]:
     except Exception:
         pass
 
+    # ----- 13g. Sensitivity screening -----------------------------------------
+    try:
+        from engineering_sensitivity import sensitivity_analysis
+        sn = sensitivity_analysis(values)
+        if sn["top_parameters"]:
+            rows.append({
+                "param": "Top sensitivity driver(s)",
+                "formula": "one-at-a-time ±Δ recomputation",
+                "inputs": "all entered engineering inputs",
+                "result": ", ".join(sn["top_parameters"]),
+                "unit": "—",
+                "standard": "First-order sensitivity (tornado)",
+                "status": "OK"})
+    except Exception:
+        pass
+
     # ----- 14. Anti-collision separation factor -----------------------------
     traj_md = pick("trajectory_table")
     off_md = pick("offset_trajectory_table")

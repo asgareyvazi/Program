@@ -319,6 +319,21 @@ def test_reporting():
     shutil.rmtree(tmp, ignore_errors=True)
 
 
+def test_graceful_modules():
+    print("\n[9] OCR + PDF EXPORT — graceful degradation")
+    import ocr_ingest, pdf_export
+    err = ocr_ingest.check_tesseract()
+    ok("apt-get" in err if err else True, "ocr: clear guidance when "
+       "tesseract missing")
+    r = ocr_ingest.ingest_file(__import__("pathlib").Path("/tmp/nope.pdf"))
+    ok(r["ok"] is False, "ocr ingest reports failure gracefully")
+    err2 = pdf_export.check_libreoffice()
+    ok("apt-get" in err2 if err2 else True, "pdf: clear guidance when "
+       "libreoffice missing")
+    r2 = pdf_export.docx_to_pdf("/tmp/nope.docx")
+    ok(r2["ok"] is False, "pdf export reports failure gracefully")
+
+
 def test_neutralize_words():
     print("\n[5] NEUTRALIZE — ordinary English preserved")
     from wizard_engine import neutralize_text
@@ -344,6 +359,7 @@ if __name__ == "__main__":
     test_structured_steps()
     test_procedure_linking()
     test_reporting()
+    test_graceful_modules()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

@@ -60,6 +60,29 @@ def build_document_markdown(tdef, values: Dict,
     rmd = readiness_markdown(values, operator)
     if rmd:
         md = md.rstrip() + "\n\n---\n\n" + rmd
+    # time breakdown summary (from the time-breakdown project database)
+    try:
+        from cbs_db import get_time_breakdown_summary
+        tb = get_time_breakdown_summary()
+        if tb.get("total_days", 0) > 0:
+            tlines = ["## TIME BREAKDOWN SUMMARY", ""]
+            if tb.get("sections"):
+                tlines.append("| Phase |")
+                tlines.append("|---|")
+                for s in tb["sections"]:
+                    tlines.append(f"| {s} |")
+                tlines.append("")
+            tlines.append(f"**Total planned: {tb['total_days']:,.2f} days**"
+                          + (f" (+ {tb['contingency_days']:,.2f} days "
+                             "contingency)"
+                             if tb.get("contingency_days", 0) > 0 else "")
+                          + f" — {tb.get('rows', 0)} activity rows"
+                          + (f", project: {tb['name']}"
+                             if tb.get("name") else "") + ".")
+            tlines.append("")
+            md = md.rstrip() + "\n\n---\n\n" + "\n".join(tlines)
+    except Exception:
+        pass
     # standards
     smd = scm(values, operator)
     if smd:

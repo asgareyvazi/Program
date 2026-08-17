@@ -716,8 +716,44 @@ def test_witsml():
     shutil.rmtree(tmp, ignore_errors=True)
 
 
+def test_sensitivity():
+    print("\n[28] SENSITIVITY ANALYSIS (tornado)")
+    from engineering_sensitivity import (sensitivity_analysis,
+                                        sensitivity_markdown)
+    vals = {"mud_weight": "12", "plastic_viscosity": "25", "yield_point": "20",
+            "flow_rate": "300", "hole_size": "8.5", "pipe_od": "5",
+            "dp_id": "4.276", "tfa": "0.3312", "depth": "10000",
+            "casing_depth": "4000", "casing_id": "8.921", "bha_od": "6.5",
+            "bha_length": "600", "surface_type": "Type 2 (standard)",
+            "sidpp": "400", "fracture_gradient": "16",
+            "total_cost": "12000000", "total_days": "45"}
+    res = sensitivity_analysis(vals)
+    approx("spp_psi" in res["base"], True, 0, "SPP output computed")
+    approx("kmw_ppg" in res["base"], True, 0, "KMW output computed")
+    rows = {r["parameter"]: r for r in res["rows"]}
+    # flow ±10% -> SPP impact 10–25% (bit ~Q², pipe ~Q^1.8)
+    imp = rows["flow_rate"]["max_impact"]
+    approx(0.10 <= imp <= 0.25, True, 0, f"flow->SPP impact {imp:.2f}")
+    # SIDPP ±20% -> KMW impact ≈ 1.2%
+    kmw_row = [d for d in rows["sidpp"]["drives"]
+               if d["output"] == "kmw_ppg"]
+    approx(kmw_row[0]["impact"], 0.012, 0.002, "SIDPP->KMW impact")
+    # cost ±10% -> cost impact exactly 10%
+    cost_row = [d for d in rows["total_cost"]["drives"]
+                if d["output"] == "cost_usd"]
+    approx(cost_row[0]["impact"], 0.10, 1e-6, "cost->cost impact")
+    # critical parameters flagged
+    approx(len(res["top_parameters"]) >= 2, True, 0, "top parameters")
+    md = sensitivity_markdown(vals)
+    approx("SENSITIVITY SCREENING" in md, True, 0, "section heading")
+    approx("Control parameters" in md, True, 0, "control list shown")
+    # graceful: no computable outputs -> no section
+    approx(sensitivity_markdown({"well_name": "W"}), "", 0,
+           "no inputs -> no section")
+
+
 def test_afe_materials():
-    print("\n[28] AFE vs ACTUAL + MATERIAL READINESS")
+    print("\n[29] AFE vs ACTUAL + MATERIAL READINESS")
     from operations_engine import LessonsDatabase
     db = LessonsDatabase()
     db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
@@ -735,7 +771,7 @@ def test_afe_materials():
 
 
 def test_backup_secrets():
-    print("\n[29] BACKUP/RESTORE + SECRETS")
+    print("\n[30] BACKUP/RESTORE + SECRETS")
     from backup_restore import create_backup, list_backups, SecretsManager
     b = create_backup("test")
     approx(b is not None, True, 0, "backup created")
@@ -748,7 +784,7 @@ def test_backup_secrets():
 
 
 def test_well_report():
-    print("\n[30] WELL REPORT GENERATOR")
+    print("\n[31] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
     md = build_well_report(_demo_values(), "PARS OIL CO", "DRILL PRO")
     for sec in ("WELL PROFILE", "ENGINEERING VALIDATION", "PROGRAM READINESS",
@@ -769,8 +805,8 @@ def main():
                test_structured_steps, test_anticollision, test_advanced_casing,
                test_decision_trees, test_hydraulics_model, test_wellcontrol,
                test_geomechanics, test_cementing,
-               test_special_wells, test_witsml, test_afe_materials,
-               test_backup_secrets, test_well_report):
+               test_special_wells, test_witsml, test_sensitivity,
+               test_afe_materials, test_backup_secrets, test_well_report):
         try:
             fn()
         except Exception:

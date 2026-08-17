@@ -469,6 +469,17 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     except Exception:
         pass
 
+    # -- 4f. Sensitivity screening (tornado) ----------------------------------
+    try:
+        from engineering_sensitivity import sensitivity_markdown
+        sn = sensitivity_markdown(values, operator)
+        if sn:
+            lines.append("")
+            lines.append(sn)
+            checks += 1
+    except Exception:
+        pass
+
     # -- 5. Anti-collision (trajectory-based) --------------------------------
     lines.append("")
     lines.append("### Anti-Collision — Minimum Curvature + Separation Factor")

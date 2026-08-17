@@ -205,6 +205,20 @@ def main():
                     headers=H)
     ok(r.status_code == 200 and "<well " in r.json().get("xml", ""),
        "witsml export endpoint")
+    r = client.post("/api/sensitivity",
+                    json={"values": {"mud_weight": "12", "flow_rate": "300",
+                                     "depth": "10000", "dp_id": "4.276",
+                                     "tfa": "0.3312", "hole_size": "8.5",
+                                     "pipe_od": "5"}},
+                    headers=H)
+    ok(r.status_code == 200 and len(r.json().get("rows", [])) >= 2,
+       "sensitivity endpoint")
+    r = client.get("/api/system/ocr", headers=H)
+    ok(r.status_code == 200 and "available" in r.json(),
+       "ocr status endpoint")
+    r = client.get("/api/system/pdf", headers=H)
+    ok(r.status_code == 200 and "available" in r.json(),
+       "pdf status endpoint")
 
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")

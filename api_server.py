@@ -455,6 +455,23 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         return {"xml": build_witsml(req.values),
                 "json": build_json(req.values)}
 
+    @app.post("/api/sensitivity")
+    def sensitivity(req: RegisterRequest):
+        from engineering_sensitivity import sensitivity_analysis
+        return sensitivity_analysis(req.values)
+
+    @app.get("/api/system/ocr")
+    def ocr_status():
+        import ocr_ingest
+        err = ocr_ingest.check_tesseract()
+        return {"available": not bool(err), "error": err}
+
+    @app.get("/api/system/pdf")
+    def pdf_status():
+        import pdf_export
+        err = pdf_export.check_libreoffice()
+        return {"available": not bool(err), "error": err}
+
     @app.get("/api/report/excel")
     def report_excel():
         import shutil

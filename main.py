@@ -3054,6 +3054,9 @@ class DrillingProgramMainWindow(QMainWindow):
         rep_action = QAction("📊 Statistical Reports & Excel Export", self)
         rep_action.triggered.connect(self._show_reports)
         tools_menu.addAction(rep_action)
+        ocr_action = QAction("🔤 OCR Ingest — Scanned Documents...", self)
+        ocr_action.triggered.connect(self._show_ocr_ingest)
+        tools_menu.addAction(ocr_action)
         tools_menu.addAction(tb_action)
 
         # Templates Menu
@@ -3355,6 +3358,33 @@ class DrillingProgramMainWindow(QMainWindow):
         except Exception as e:
             import traceback
             QMessageBox.critical(self, "Reports", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _show_ocr_ingest(self):
+        """OCR ingest of scanned documents into the knowledge library."""
+        try:
+            import ocr_ingest
+            err = ocr_ingest.check_tesseract()
+            if err:
+                QMessageBox.information(self, "OCR Ingest", err)
+                return
+            folder = QFileDialog.getExistingDirectory(
+                self, "Select Folder with Scanned Documents (PDF/Images)")
+            if not folder:
+                return
+            from pathlib import Path as _P
+            results = ocr_ingest.ingest_folder(_P(folder))
+            ok_n = sum(1 for r in results if r.get("ok") and
+                       not r.get("duplicate"))
+            dup = sum(1 for r in results if r.get("duplicate"))
+            errs = [r["error"] for r in results if not r.get("ok")]
+            msg = (f"Ingested: {ok_n} new document(s), {dup} duplicate(s).")
+            if errs:
+                msg += "\n\nErrors:\n" + "\n".join(errs[:5])
+            QMessageBox.information(self, "OCR Ingest", msg)
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "OCR Ingest", f"{e}\n\n"
                                  f"{traceback.format_exc()[-300:]}")
 
     def _show_procedure_manager(self):

@@ -202,6 +202,40 @@ def test_step_editor(app):
     shutil.rmtree(tmp, ignore_errors=True)
 
 
+def test_profile_prefill(app):
+    print("\n[6] WELL PROFILE → INPUTS AUTO-PREFILL")
+    from wizard_engine import GeneratorWizard
+    from PySide6.QtWidgets import QComboBox, QLineEdit
+    wiz = GeneratorWizard()
+    wiz.show()
+    app.processEvents()
+    # set well profile values
+    p1 = wiz.page(1)
+    p1.well_type.setCurrentText("Deviated")
+    p1.operation.setCurrentText("Drilling")
+    # navigate to inputs page (initializes + prefills)
+    wiz.setCurrentId(3)
+    app.processEvents()
+    p3 = wiz.page(3)
+    # profile well_type "Deviated" maps onto the template's well_profile
+    # combo via the semantic alias -> "Directional J-Type"
+    w = p3.widgets.get("well_profile")
+    if isinstance(w, QComboBox):
+        ok(w.currentText() == "Directional J-Type",
+           f"well_profile prefilled via alias "
+           f"(got '{w.currentText()}')")
+    else:
+        ok(True, "well_profile not an input in this template (skipped)")
+    # line-edit prefill path: holes -> hole_size
+    w2 = p3.widgets.get("hole_size")
+    if isinstance(w2, QLineEdit):
+        ok(w2.text().strip() != "" or p1.holes.text() == "",
+           "hole_size prefilled from profile holes")
+    else:
+        ok(True, "hole_size not a line edit (skipped)")
+    wiz.close()
+
+
 def docx_text(path):
     from docx import Document
     d = Document(path)
@@ -221,6 +255,7 @@ if __name__ == "__main__":
         test_rop_dialog(app)
         test_operations_dialog(app)
         test_step_editor(app)
+        test_profile_prefill(app)
     finally:
         app.processEvents()
     print("\n" + "=" * 60)

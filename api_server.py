@@ -449,6 +449,12 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         data["markdown"] = reporting.report_markdown(report_type)
         return data
 
+    @app.post("/api/witsml")
+    def witsml_export(req: RegisterRequest):
+        from witsml_export import build_witsml, build_json
+        return {"xml": build_witsml(req.values),
+                "json": build_json(req.values)}
+
     @app.get("/api/report/excel")
     def report_excel():
         import shutil

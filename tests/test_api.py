@@ -199,6 +199,12 @@ def main():
     r = client.get("/api/report/excel", headers=H)
     ok(r.status_code == 200 and r.json().get("size", 0) > 10000,
        "excel report endpoint returns file")
+    r = client.post("/api/witsml",
+                    json={"values": {"well_name": "Well A",
+                                     "mud_weight": "12"}},
+                    headers=H)
+    ok(r.status_code == 200 and "<well " in r.json().get("xml", ""),
+       "witsml export endpoint")
 
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")

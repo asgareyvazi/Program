@@ -2994,6 +2994,10 @@ class DrillingProgramMainWindow(QMainWindow):
         rev_action.triggered.connect(self._show_project_revisions)
         file_menu.addAction(rev_action)
 
+        witsml_action = QAction("📡 Export WITSML / JSON (Telemetry)...", self)
+        witsml_action.triggered.connect(self._export_witsml)
+        file_menu.addAction(witsml_action)
+
         file_menu.addSeparator()
 
         export_action = QAction("📤 Export to Word", self)
@@ -3279,6 +3283,40 @@ class DrillingProgramMainWindow(QMainWindow):
         except Exception as e:
             import traceback
             QMessageBox.critical(self, "Backup", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _export_witsml(self):
+        """Export the current project as WITSML XML + JSON handoff."""
+        try:
+            from witsml_export import export_witsml, export_json
+            project = self.collect_all_data()
+            ci = project.company_info
+            values = {
+                "well_name": ci.well_name, "field_name": ci.field_name,
+                "operator": ci.operator_name,
+                "well_type": project.well_info.well_type,
+                "rig_name": project.rig_spec.rig_type,
+            }
+            # merge tab data that maps to basis keys
+            for tab_key, tab in (("mud_weight", self.tab_mud),
+                                 ("hole_size", self.tab_casing)):
+                pass
+            folder = QFileDialog.getExistingDirectory(
+                self, "Select Export Folder",
+                str(Path.cwd() / "projects" / "exports"))
+            if not folder:
+                return
+            base = (ci.well_name or "well").replace(" ", "_")
+            p1 = export_witsml(values, str(Path(folder) / f"{base}.xml"))
+            p2 = export_json(values, str(Path(folder) / f"{base}.json"))
+            QMessageBox.information(
+                self, "WITSML Exported",
+                f"Exported:\n{p1}\n{p2}\n\n"
+                "(wellbore trajectory stations are included when the "
+                "trajectory table is filled in the wizard)")
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "WITSML Export", f"{e}\n\n"
                                  f"{traceback.format_exc()[-300:]}")
 
     def _show_reports(self):

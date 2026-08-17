@@ -595,8 +595,129 @@ def test_geomechanics():
     approx("LOT" in md, True, 0, "LOT shown")
 
 
+def test_cementing():
+    print("\n[25] CEMENTING — VOLUMES / UCA / SGS / GAS MIGRATION")
+    from engineering_cementing import (annular_volume_bbl, sacks_required,
+                                       mix_water_bbl, uca_strength_estimate,
+                                       static_gel_strength,
+                                       gas_migration_risk, cementing_markdown)
+    # 8.5×5 annulus × 1000 ft + 30% excess: 0.04590×1000×1.3 = 59.67 bbl
+    av = annular_volume_bbl(8.5, 5.0, 1000, 30)
+    approx(av, 59.67, 0.1, "annular volume with excess")
+    # sacks: 59.67×5.6146/1.18 = 283.9
+    sk = sacks_required(av, 1.18)
+    approx(sk, 283.9, 0.5, "sacks required")
+    # mix water: 283.9×5.2/42 = 35.2 bbl
+    approx(mix_water_bbl(sk, 5.2), 35.15, 0.1, "mix water")
+    # UCA: 0 at t=0; asymptote below final; monotonic
+    approx(uca_strength_estimate(0), 0.0, 1e-9, "UCA at t=0")
+    approx(uca_strength_estimate(100) < 3000.0, True, 0, "UCA asymptote")
+    approx(uca_strength_estimate(100) > uca_strength_estimate(24), True, 0,
+           "UCA monotonic")
+    # gel: monotonic
+    approx(static_gel_strength(60) > static_gel_strength(10), True, 0,
+           "SGS monotonic")
+    # gas migration: narrow + short WOC -> HIGH; wide + long -> LOW
+    g1 = gas_migration_risk(0.8, 4)
+    approx(g1["level"], "HIGH", 0, "narrow gap -> HIGH")
+    g2 = gas_migration_risk(3.5, 36, static_time_h=2,
+                            slurry_fluid_loss_ml30=20)
+    approx(g2["level"], "LOW", 0, "wide gap -> LOW")
+    approx(g1["score"] > g2["score"], True, 0, "score ordering")
+    md = cementing_markdown({"hole_size": "8.5", "pipe_od": "5",
+                             "cemented_length": "1000", "excess": "30",
+                             "lead_yield": "1.18", "woc": "8"})
+    approx("CEMENTING" in md, True, 0, "section heading")
+    approx("psi @ 12 h" in md, True, 0, "UCA shown")
+    approx("Gas-migration" in md, True, 0, "gas migration shown")
+
+
+def test_special_wells():
+    print("\n[26] SPECIAL WELLS — HPHT / DEEPWATER / COMPLETION")
+    from engineering_special import (elastomer_rating,
+                                     trapped_annular_pressure,
+                                     metallurgy_suggestion, riser_margin,
+                                     subsea_bop_check, completion_barriers,
+                                     special_wells_markdown)
+    # elastomer: 350F -> FKM; 700F -> none OK
+    er = elastomer_rating(350)
+    approx(er["elastomer"], "FKM / Viton", 0, "350F -> FKM")
+    approx(er["ok"], True, 0, "350F ok")
+    approx(elastomer_rating(700)["ok"], False, 0, "700F not ok")
+    # trapped annular: 106.7 psi/°F × 100 = 10,667 psi
+    approx(trapped_annular_pressure(100), 10666.7, 1.0, "trapped pressure")
+    # riser margin: 12 ppg, WD 3000, TVD 12000 -> 13.15 ppg
+    rm = riser_margin(12.0, 3000, 12000)
+    approx(rm["riser_margin_mw_ppg"], 13.15, 0.02, "riser margin MW")
+    approx(rm["margin_over_current_ppg"], 1.15, 0.02, "margin vs current")
+    # subsea BOP: 10000 vs 6335 -> OK
+    sb = subsea_bop_check(10000, 5000, 3000)
+    approx(sb["ok"], True, 0, "subsea BOP OK")
+    approx(sb["load_psi"], 6335.0, 1.0, "subsea BOP load")
+    # metallurgy
+    m1 = metallurgy_suggestion(3.0, "No", 200)
+    approx("13Cr" in m1["metallurgy"], True, 0, "CO2 -> 13Cr")
+    m2 = metallurgy_suggestion(0.1, "Yes", 200)
+    approx("NACE" in m2["metallurgy"] or "ISO 15156" in m2["metallurgy"],
+           True, 0, "sour -> NACE/ISO 15156")
+    # barriers
+    bm = completion_barriers({"cement_verified": "Yes",
+                              "casing_tested": "Yes", "packer_set": "Yes",
+                              "tree_ok": "Yes", "trsv_ok": "Yes"})
+    approx(bm["status"], "TWO BARRIERS OK", 0, "two barriers OK")
+    approx(completion_barriers({})["status"], "NO BARRIER", 0,
+           "no barrier")
+    md = special_wells_markdown({"max_temperature": "350",
+                                 "temperature_change": "100",
+                                 "co2_pct": "3", "h2s": "No",
+                                 "water_depth": "3000", "mud_weight": "12",
+                                 "depth": "12000", "bop_wp": "10000",
+                                 "masp": "5000", "packer_set": "Yes",
+                                 "tree_ok": "Yes"})
+    approx("SPECIAL-WELLS" in md, True, 0, "section heading")
+    approx("Elastomer" in md and "Riser margin" in md, True, 0,
+           "checks shown")
+
+
+def test_witsml():
+    print("\n[27] WITSML / JSON EXPORT (telemetry handoff)")
+    from witsml_export import (build_witsml, build_json, export_witsml,
+                               export_json)
+    from xml.dom import minidom
+    vals = {"well_name": "Well A", "field_name": "Field X",
+            "operator": "the Operator", "mud_weight": "12",
+            "depth": "5000", "water_depth": "0",
+            "trajectory_table": (
+                "| MD (ft) | Inc (°) | Az (°) |\n|---|---|---|\n"
+                "| 0 | 0 | 90 |\n| 2500 | 30 | 90 |\n| 5000 | 30 | 90 |")}
+    xml = build_witsml(vals)
+    dom = minidom.parseString(xml)
+    approx(len(dom.getElementsByTagName("well")), 1, 0, "one well object")
+    approx(dom.getElementsByTagName("name")[0].firstChild.data, "Well A",
+           0, "well name in XML")
+    sts = dom.getElementsByTagName("trajectoryStation")
+    approx(len(sts), 3, 0, "3 trajectory stations")
+    tvds = [float(s.getElementsByTagName("tvd")[0].firstChild.data)
+            for s in sts]
+    approx(tvds[-1], 4552.6, 1.5, "min-curvature TVD at 5000 ft")
+    # json handoff
+    j = build_json(vals)
+    approx(j["well"]["name"], "Well A", 0, "json well name")
+    approx(j["basis"]["mud_weight"], "12", 0, "json basis")
+    # file export
+    import tempfile
+    tmp = tempfile.mkdtemp(prefix="drl_witsml_")
+    export_witsml(vals, tmp + "/w.xml")
+    export_json(vals, tmp + "/w.json")
+    import os as _os
+    approx(_os.path.exists(tmp + "/w.xml"), True, 0, "xml file written")
+    approx(_os.path.exists(tmp + "/w.json"), True, 0, "json file written")
+    import shutil
+    shutil.rmtree(tmp, ignore_errors=True)
+
+
 def test_afe_materials():
-    print("\n[25] AFE vs ACTUAL + MATERIAL READINESS")
+    print("\n[28] AFE vs ACTUAL + MATERIAL READINESS")
     from operations_engine import LessonsDatabase
     db = LessonsDatabase()
     db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
@@ -614,7 +735,7 @@ def test_afe_materials():
 
 
 def test_backup_secrets():
-    print("\n[26] BACKUP/RESTORE + SECRETS")
+    print("\n[29] BACKUP/RESTORE + SECRETS")
     from backup_restore import create_backup, list_backups, SecretsManager
     b = create_backup("test")
     approx(b is not None, True, 0, "backup created")
@@ -627,7 +748,7 @@ def test_backup_secrets():
 
 
 def test_well_report():
-    print("\n[27] WELL REPORT GENERATOR")
+    print("\n[30] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
     md = build_well_report(_demo_values(), "PARS OIL CO", "DRILL PRO")
     for sec in ("WELL PROFILE", "ENGINEERING VALIDATION", "PROGRAM READINESS",
@@ -647,7 +768,8 @@ def main():
                test_standards, test_deep_engineering,
                test_structured_steps, test_anticollision, test_advanced_casing,
                test_decision_trees, test_hydraulics_model, test_wellcontrol,
-               test_geomechanics, test_afe_materials,
+               test_geomechanics, test_cementing,
+               test_special_wells, test_witsml, test_afe_materials,
                test_backup_secrets, test_well_report):
         try:
             fn()

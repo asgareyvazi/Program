@@ -436,6 +436,28 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     except Exception:
         pass
 
+    # -- 4d2. Cementing engineering checks -------------------------------------
+    try:
+        from engineering_cementing import cementing_markdown
+        cm_ = cementing_markdown(values, operator)
+        if cm_:
+            lines.append("")
+            lines.append(cm_)
+            checks += 1
+    except Exception:
+        pass
+
+    # -- 4d3. Special-wells checks (HPHT / deepwater / completion) -------------
+    try:
+        from engineering_special import special_wells_markdown
+        sw_ = special_wells_markdown(values, operator)
+        if sw_:
+            lines.append("")
+            lines.append(sw_)
+            checks += 1
+    except Exception:
+        pass
+
     # -- 4e. Wellbore stability & geomechanics --------------------------------
     try:
         from engineering_geomechanics import geomechanics_markdown

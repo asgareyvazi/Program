@@ -524,6 +524,101 @@ def compute_register(values: Dict) -> List[Dict]:
     except Exception:
         pass
 
+    # ----- 13f. Cementing + special wells -------------------------------------
+    try:
+        from engineering_cementing import (annular_volume_bbl,
+                                           sacks_required, mix_water_bbl,
+                                           uca_strength_estimate,
+                                           gas_migration_risk)
+        hole_c = _f(pick("hole_size", "hole_id", "hole_diameter"))
+        pipe_c = _f(pick("pipe_od", "pipe_size", "casing_size"))
+        len_c = _f(pick("cemented_length", "cement_interval_ft"))
+        exc_c = _f(pick("excess", "excess_pct"))
+        yield_c = _f(pick("lead_yield", "slurry_yield"))
+        woc_c = _f(pick("woc", "woc_time"), 8.0)
+        if hole_c > pipe_c and len_c > 0:
+            av = annular_volume_bbl(hole_c, pipe_c, len_c, exc_c)
+            rows.append({
+                "param": "Cement annular volume (with excess)",
+                "formula": "(D²−d²)/1029.4 × L × (1+excess)",
+                "inputs": f"D = {_fmt(hole_c)} in, d = {_fmt(pipe_c)} in, "
+                          f"L = {_fmt(len_c, 0)} ft, "
+                          f"excess = {_fmt(exc_c, 0)}%",
+                "result": _fmt(av, 0), "unit": "bbl",
+                "standard": "API RP 10B / 10A",
+                "status": "OK"})
+            if yield_c > 0:
+                sk = sacks_required(av, yield_c)
+                rows.append({
+                    "param": "Cement sacks required",
+                    "formula": "bbl × 5.6146 / yield",
+                    "inputs": f"volume = {_fmt(av, 0)} bbl, "
+                              f"yield = {_fmt(yield_c)} ft³/sk",
+                    "result": _fmt(sk, 0), "unit": "sacks",
+                    "standard": "API RP 10A",
+                    "status": "OK"})
+        s12 = uca_strength_estimate(12.0)
+        rows.append({
+            "param": "Cement strength estimate @ 12 h (UCA-style)",
+            "formula": "S(t) = S_final × (1 − exp(−t/τ))",
+            "inputs": "S_final = 3000 psi, τ = 10 h, t = 12 h",
+            "result": _fmt(s12, 0), "unit": "psi",
+            "standard": "API RP 10B-2 (screening)",
+            "status": "OK"})
+        if hole_c > pipe_c:
+            gm = gas_migration_risk(hole_c - pipe_c, woc_c)
+            rows.append({
+                "param": "Cement gas-migration risk",
+                "formula": "semi-quantitative screening",
+                "inputs": f"gap = {_fmt(hole_c - pipe_c)} in, "
+                          f"WOC = {_fmt(woc_c)} h",
+                "result": f"{gm['level']} ({gm['score']})", "unit": "—",
+                "standard": "API RP 10B-2 indicators",
+                "status": "OK" if gm["level"] != "HIGH" else "WARN"})
+    except Exception:
+        pass
+
+    try:
+        from engineering_special import (riser_margin, elastomer_rating,
+                                         trapped_annular_pressure)
+        wd_s = _f(pick("water_depth"))
+        mw_s = _f(pick("mud_weight", "mud_weight_ppg", "current_mw", "mw"))
+        tvd_s = _f(pick("depth_ft", "depth", "td_depth", "td_ft",
+                        "total_depth"))
+        if wd_s > 0 and mw_s > 0 and tvd_s > wd_s:
+            rm = riser_margin(mw_s, wd_s, tvd_s)
+            rows.append({
+                "param": "Riser margin (deepwater)",
+                "formula": "MW' = (0.052×MW×TVD − 0.445×WD)/(0.052×(TVD−WD))",
+                "inputs": f"MW = {_fmt(mw_s)} ppg, WD = {_fmt(wd_s, 0)} ft, "
+                          f"TVD = {_fmt(tvd_s, 0)} ft",
+                "result": _fmt(rm["riser_margin_mw_ppg"]), "unit": "ppg",
+                "standard": "Deepwater practice",
+                "status": "OK"})
+        tmax_s = _f(pick("max_temperature", "max_temp_f",
+                         "reservoir_temperature_f"))
+        if tmax_s > 0:
+            er = elastomer_rating(tmax_s)
+            rows.append({
+                "param": "HPHT elastomer selection",
+                "formula": "temperature rating table",
+                "inputs": f"T_max = {_fmt(tmax_s, 0)} °F",
+                "result": er["elastomer"], "unit": "—",
+                "standard": "Elastomer manufacturer ratings",
+                "status": "OK" if er["ok"] else "FAIL"})
+        dT_s = _f(pick("temperature_change", "delta_t", "dT_f"))
+        if dT_s > 0:
+            tap = trapped_annular_pressure(dT_s)
+            rows.append({
+                "param": "Trapped-annular thermal pressure",
+                "formula": "ΔP = (β/κ) × ΔT ≈ 106 psi/°F",
+                "inputs": f"ΔT = {_fmt(dT_s, 0)} °F",
+                "result": _fmt(tap, 0), "unit": "psi",
+                "standard": "Thermal expansion (water-based)",
+                "status": "OK"})
+    except Exception:
+        pass
+
     # ----- 14. Anti-collision separation factor -----------------------------
     traj_md = pick("trajectory_table")
     off_md = pick("offset_trajectory_table")

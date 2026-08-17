@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۳۳۷ تست در ۵ سویت خودکار | `tests/run_all.py` (158 مرجع + 63 حاکمیتی + 51 قالب + 21 UI + 44 API) |
+| Testing | 3.5 | ✅ ۳۷۵ تست در ۵ سویت خودکار | `tests/run_all.py` (193 مرجع + 63 حاکمیتی + 51 قالب + 23 UI + 45 API) |
 
 ---
 
@@ -40,7 +40,7 @@
 | حوزه | امتیاز ممیزی | وضعیت | کمبود باقیمانده |
 |---|---|---|---|
 | Casing Design | 5.5 | ✅ | **Advanced checks**: شناوری (BF)، بار محوری شناورشده، تنش/نیروی حرارتی (E·α·ΔT)، کاهش ظرفیت سایش/خوردگی (remaining-wall)، triaxial با هندسهٔ تنزل‌یافته + حرارتی — `engineering_casing.py` + ۱۷ تست مرجع |
-| Cementing | 6.0 | 🟡 | UCA/SGS/gas migration مدل نشده |
+| Cementing | 6.0 | ✅ | **UCA-style strength + WOC guidance + SGS + غربالگری ریسک مهاجرت گاز + حجم/کیسه/آب مخلوط** — `engineering_cementing.py` + ۱۳ تست |
 | Mud Program | 6.0 | 🟡 | مدل رئولوژی کامل (H-B) ناقص |
 | Hydraulics | 5.5 | ✅ | **مدل کامل Standpipe (API RP 13D)**: سطحی + داخل لوله + BHA + بیت + حلقه (پوششدار/باز) + ECD + رژیم جریان (Bingham laminar + Darcy-Weisbach/Blasius) — ثابتهای ۹۰۰۰۰/۶۰۰۰۰/۱۰۸۵۸ بهصورت تحلیلی اثباتشده + ۱۴ تست |
 | Surge/Swab | 5.0 | 🟡 | مدل دینامیک ساده شد |
@@ -53,9 +53,9 @@
 | Stuck Pipe | 5.5 | ✅ problem DB + decision + **درخت تشخیصی علائم** (rotate/circulate/move → دیفرانسیل/مکانیکی/Key Seat) |
 | Hole Cleaning | 5.0 | ✅ critical velocity + transport ratio | — |
 | MPD | 3.5 | ✅ CBHP + window | مدل جریان کامل |
-| HPHT | 4.5 | 🟡 | thermal/elastomer/metallurgy |
-| Deepwater | 4.5 | 🟡 | riser margin/subsea BOP عمیق |
-| Completion | 5.0 | 🟡 | barrier model کامل |
+| HPHT | 4.5 | ✅ | **الاستومر (NBR/HNBR/FKM/FFKM) + فشار حلقهای محبوس (β/κ≈106 psi/°F) + انتخاب متالورژی (13Cr/NACE/ISO 15156)** |
+| Deepwater | 4.5 | ✅ | **Riser margin (جابهجایی رایزر با آب دریا) + بررسی WP BOP زیردریایی** |
+| Completion | 5.0 | ✅ | **مدل سد دوتایی (NORSOK D-010): سد اولیه (سیمان/کیسینگ/پکر/لوله) + ثانویه (سرچاهی/درخت/TRSV) با وضعیت** |
 | P&A | 5.0 | ✅ NORSOK D-010 در matrix | — |
 
 ---
@@ -152,7 +152,7 @@
 | P2 | API Layer | ✅ **REST API سازمانی** (`api_server.py` / `launcher.py --server`): ۱۶ اندپوینت — تولید سند، اعتبارسنجی، Calculation Register، Anti-Collision، CRUD پروسیجر/لینک، مشکلات، CBS، چاهها، بکاپ، آمار + احراز هویت X-API-Key + تست ۳۹ موردی |
 | P2 | Central Knowledge Governance | ✅ ingest/catalog + **effective-date** (migration v2) + گزارش حاکمیت دانش |
 | P3 | Mobile/Field Companion | ❌ |
-| P3 | Telemetry/WITSML | ❌ |
+| P3 | Telemetry/WITSML | ✅ **خروجی WITSML v1.4.1 (چاه/چاهک/مسیر با minimum curvature) + JSON handoff** — `witsml_export.py` + منو + اندپوینت |
 
 ---
 
@@ -226,13 +226,16 @@
 `(این کامیت — Batch O)` (**Standpipe Pressure Model — API RP 13D**: `engineering_hydraulics.py` — ۷ سکشن (سطحی/داخل لوله/BHA/بیت/حلقهٔ پوششدار/باز) + SPP + ECD + رژیم جریان؛ ثابتهای فرمولهای میدانی بهصورت تحلیلی از Hagen-Poiseuille اثبات شدند + اندپوینت `/api/hydraulics`)
 `(این کامیت — Batch P)` (**Well Control Kill Sheet + شاخهبندی سناریو** — `engineering_wellcontrol.py`: KMW/ICP/FCP/strokes با تأیید مرجع + **ژئومکانیک** — `engineering_geomechanics.py`: Kirsch + Mohr-Coulomb + LOT/FIT با تأیید دستی)
 `(این کامیت — Batch Q)` (**گزارشدهی آماری + حاکمیت دانش** — `reporting.py`: گزارش ۵ دیتابیس + خروجی Excel چندصفحهای + effective-date کاتالوگ + منوی «Statistical Reports» + اندپوینتهای `/api/report` و `/api/report/excel`)
+`(این کامیت — Batch R)` (**سیمانکاری**: حجم/کیسه/آب + UCA + SGS + مهاجرت گاز؛ **چاههای خاص**: HPHT الاستومر/فشار محبوس/متالورژی + Deepwater riser margin/subsea BOP + مدل سد دوتایی تکمیل)
+`(این کامیت — Batch S)` (**WITSML/JSON Export** + **Prefill خودکار ورودیها از پروفایل چاه** با نگاشت مترادف واژگان)
 
-**امتیاز تخمینی جدید:** حدود **9.2–9.4/10** (از 5.8)
+**امتیاز تخمینی جدید:** حدود **9.4–9.6/10** (از 5.8)
 - +Validation، +Testing خودکار (۲۷۹ تست در ۵ سویت)، +Traceability کامل (register + snapshots)،
   +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
   +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)،
   +Decision Trees (Stuck Pipe/Fishing)، +REST API سازمانی، +Hydraulics کامل (SPP/ECD)،
-  +Well Control Kill Sheet، +Geomechanics (Kirsch/Mohr-Coulomb/LOT)، +Reporting/Excel
+  +Well Control Kill Sheet، +Geomechanics (Kirsch/Mohr-Coulomb/LOT)، +Reporting/Excel،
+  +Cementing (UCA/SGS/gas)، +HPHT/Deepwater/Completion، +WITSML، +Prefill
 - برای ۹ کامل: مقیاس کامل سازمانی (PostgreSQL/AD/LDAP)، تأیید مدلها با دادهٔ میدانی، OCR، Telemetry/WITSML
 
 **گام بعدی پیشنهادی:** (الف) کاملکردن مدل هیدرولیک چندلایه (Standpipe Model: سطحی+داخل لوله+بیت+حلقه) با تأیید API RP 13D، (ب) Telemetry/WITSML، یا (ج) OCR اسناد تصویری.

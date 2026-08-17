@@ -1501,6 +1501,37 @@ class _InputsPage(QWizardPage):
             InputSpec("lot_pressure", "LOT / FIT Pressure", "number",
                       unit="psi", placeholder="e.g. 1400",
                       group="Engineering Basis"),
+            InputSpec("cemented_length", "Cemented Interval Length",
+                      "number", unit="ft", group="Engineering Basis"),
+            InputSpec("lead_yield", "Slurry Yield", "number",
+                      unit="ft³/sk", placeholder="e.g. 1.18",
+                      group="Engineering Basis"),
+            InputSpec("water_per_sack", "Mix Water per Sack", "number",
+                      unit="gal/sk", placeholder="e.g. 5.2",
+                      group="Engineering Basis"),
+            InputSpec("fluid_loss", "Slurry Fluid Loss", "number",
+                      unit="ml/30min", placeholder="e.g. 100",
+                      group="Engineering Basis"),
+            InputSpec("static_time", "Static Time Before Gelation",
+                      "number", unit="h", placeholder="e.g. 4",
+                      group="Engineering Basis"),
+            InputSpec("max_temperature", "Max Exposure Temperature",
+                      "number", unit="°F", placeholder="e.g. 350",
+                      group="Engineering Basis"),
+            InputSpec("co2_pct", "CO₂ Content", "number", unit="%",
+                      group="Engineering Basis"),
+            InputSpec("packer_set", "Completion — Packer Set & Tested?",
+                      "combo", options=["", "Yes", "No"],
+                      group="Engineering Basis"),
+            InputSpec("tree_ok", "Completion — X-mas Tree Tested?",
+                      "combo", options=["", "Yes", "No"],
+                      group="Engineering Basis"),
+            InputSpec("trsv_ok", "Completion — TRSV Function-Tested?",
+                      "combo", options=["", "Yes", "No"],
+                      group="Engineering Basis"),
+            InputSpec("cement_verified", "Completion — Cement Verified "
+                      "(CBL/VDL)?", "combo", options=["", "Yes", "No"],
+                      group="Engineering Basis"),
             InputSpec("lot_type", "Test Type", "combo",
                       options=["LOT", "FIT"], group="Engineering Basis"),
             InputSpec("can_rotate", "Stuck-pipe symptoms — can rotate?",
@@ -1548,6 +1579,61 @@ class _InputsPage(QWizardPage):
                 bfl.addRow(spec.label, w)
                 self.widgets[spec.key] = w
                 self._specs[spec.key] = spec
+
+        # Auto-prefill from the Well Profile page (roadmap: "Prefill
+        # inputs from the well profile") — profile fields are mapped onto
+        # template inputs (semantic aliases: well_type -> well_profile).
+        try:
+            wiz = self.wizard()
+            profile_page = wiz.page(1)
+            if hasattr(profile_page, "profile"):
+                prof = profile_page.profile()
+                profile_aliases = {
+                    "well_type": ("well_type", "well_profile"),
+                    "environment": ("environment",),
+                    "operation": ("operation",),
+                    "holes": ("hole_size",),
+                }
+                # semantic aliases: profile taxonomy -> template taxonomy
+                shape_aliases = {
+                    "Vertical": ("Vertical",),
+                    "Deviated": ("Deviated", "Directional J-Type",
+                                 "Directional", "J-Shape"),
+                    "Horizontal": ("Horizontal", "L-Shape"),
+                    "ERD": ("ERD", "Extended Reach"),
+                    "HPHT": ("HPHT",),
+                    "Multi-lateral": ("Multi-lateral", "Multilateral"),
+                    "Drilling": ("Drilling",),
+                    "Workover": ("Workover",),
+                    "Onshore": ("Onshore", "Land"),
+                    "Offshore": ("Offshore", "Jack-up", "Semi-submersible",
+                                 "Drillship"),
+                }
+                for pkey, val in prof.items():
+                    if not val:
+                        continue
+                    candidates = (val,) + shape_aliases.get(val, ())
+                    for tkey in profile_aliases.get(pkey, (pkey,)):
+                        w = self.widgets.get(tkey)
+                        if w is None:
+                            continue
+                        if isinstance(w, QLineEdit) and \
+                                not w.text().strip():
+                            w.setText(val)
+                        elif isinstance(w, QComboBox):
+                            # widgets are rebuilt on every page entry, so
+                            # the combo sits at its default index — prefill
+                            # only then, never clobber a user choice
+                            for cand in candidates:
+                                idx = w.findText(cand)
+                                if idx >= 0 and w.currentIndex() == 0:
+                                    w.setCurrentIndex(idx)
+                                    break
+                        elif isinstance(w, QTextEdit) and \
+                                not w.toPlainText().strip():
+                            w.setPlainText(val)
+        except Exception:
+            pass
 
         # Web research tool for field/formation introduction
         web_row = QHBoxLayout()

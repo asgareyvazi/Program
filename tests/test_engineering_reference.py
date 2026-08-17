@@ -126,13 +126,59 @@ def test_engineering_calc_annular():
     approx(v, 97.95, 0.5, "annular_velocity(500,12.25,5)")
 
 
+def test_advanced():
+    print("\n[10] ADVANCED (kick tolerance, surge/swab, MPD, casing loads)")
+    from engineering_advanced import (kick_tolerance, bop_pressure_envelope,
+                                      surge_swab_pressure, cbhp_mud_weight,
+                                      evacuation_burst_load)
+    # KT sanity: FG15/MW12/shoe8000, 30bbl kick -> ~1.9-2.1 ppg
+    kt = kick_tolerance(15, 12, 8000, 30, 0.045)
+    approx(kt["kt_ppg"], 1.97, 0.3, "kick tolerance 30bbl")
+    # BOP envelope: 10k BOP vs MASP 1248 -> OK
+    be = bop_pressure_envelope(10000, 15, 12, 8000)
+    approx(be["ok"], True, 0, "BOP 10k vs MASP")
+    # surge: trip 60 ft/min at 10k ft -> small positive pressure
+    ss = surge_swab_pressure(20, 25, 60, 0.045, 12.25, 5, 10000)
+    approx(ss["pressure_psi"] > 0, True, 0, "surge positive")
+    # CBHP: MW11 + losses 0.8 + BP300 at 10k ft -> ~12.38 ppg
+    cb = cbhp_mud_weight(11, 0.8, 300, 10000)
+    approx(cb["cbhp_emw_ppg"], 12.38, 0.1, "CBHP EMW")
+    # Evacuation burst: (14-12)*0.052*10000 = 1040 psi
+    ev = evacuation_burst_load(12, 14, 10000)
+    approx(ev, 1040, 1, "evacuation burst load")
+
+
+def test_readiness_and_ops():
+    print("\n[11] READINESS + OPERATIONS ENGINE")
+    from operations_engine import readiness_score, LessonsDatabase
+    r = readiness_score({"well_name": "W", "well_type": "H", "mud_weight": "12",
+                         "bop_wp": "10000"})
+    approx(r["score"] > 0, True, 0, "readiness score positive")
+    approx(r["grade"] in ("READY", "REVIEW", "NOT READY"), True, 0,
+           "readiness grade valid")
+    db = LessonsDatabase()
+    db.add_lesson(well_name="W1", field="F", operation="Drilling",
+                  category="Stuck", lesson="test lesson", cause="c",
+                  prevention="p")
+    approx(len(db.lessons_for(field="F")), 1, 0, "lesson stored")
+    n = db.add_npt(well_name="W1", date="2026-08-16", duration_hr=10,
+                   category="Stuck", cause="Pack-off", direct_cost=100)
+    s = db.npt_summary()
+    approx(s["events"] >= 1, True, 0, "npt recorded")
+    d = db.add_daily(well_name="W1", date="2026-08-16", depth_m=1000,
+                     plan_depth_m=1100)
+    approx(len(db.plan_vs_actual()), 1, 0, "daily recorded")
+    db.close()
+
+
 def main():
     print("=" * 64)
     print("ENGINEERING REFERENCE TEST SUITE")
     print("=" * 64)
     for fn in (test_units, test_hydrostatic, test_maasp, test_kill_mud_weight,
                test_annular_velocity, test_casing_burst, test_casing_collapse,
-               test_well_cost, test_engineering_calc_annular):
+               test_well_cost, test_engineering_calc_annular, test_advanced,
+               test_readiness_and_ops):
         try:
             fn()
         except Exception:

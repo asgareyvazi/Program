@@ -3032,6 +3032,9 @@ class DrillingProgramMainWindow(QMainWindow):
         tb_action = QAction("⏱️ Time Breakdown Editor...", self)
         tb_action.setShortcut("Ctrl+B")
         tb_action.triggered.connect(self._show_time_breakdown)
+        ops_action = QAction("📊 Operations (Readiness/NPT/Lessons)", self)
+        ops_action.triggered.connect(self._show_operations)
+        tools_menu.addAction(ops_action)
         tools_menu.addAction(tb_action)
 
         # Templates Menu
@@ -3132,6 +3135,33 @@ class DrillingProgramMainWindow(QMainWindow):
             QMessageBox.critical(self, "Error",
                 f"{str(e)}\n\n{traceback.format_exc()[-500:]}")
                 
+    def _show_operations(self):
+        """نمایش دیالوگ عملیات (Readiness / Lessons / NPT / Plan vs Actual)"""
+        try:
+            from operations_ui import OperationsDialog
+            well_data = {}
+            # pull current inputs from the company/well tab when available
+            try:
+                tw = self.tab_company
+                for attr in ("well_name_edit", "well_name", "txt_well_name"):
+                    w = getattr(tw, attr, None)
+                    if w is not None and hasattr(w, "text"):
+                        well_data["well_name"] = w.text()
+                        break
+                for attr in ("field_name_edit", "field_name", "txt_field"):
+                    w = getattr(tw, attr, None)
+                    if w is not None and hasattr(w, "text"):
+                        well_data["field_name"] = w.text()
+                        break
+            except Exception:
+                pass
+            dlg = OperationsDialog(self, well_data=well_data)
+            dlg.exec()
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Operations", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
     def _show_procedure_manager(self):
         """نمایش مدیریت پروسیجرها با دیتابیس"""
         try:

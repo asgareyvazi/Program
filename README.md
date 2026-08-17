@@ -43,6 +43,13 @@
 - **🔗 Engineering Dependency Graph** — تغییر هر ورودی (وزن گل، سایز حفره، عمق کیسینگ، فشار سازند...) بهصورت مرکزی مشخص میکند کدام ماژولها (هیدرواستاتیک، ECD، MAASP، سیمان، زمان، هزینه، ریسک...) تحت تأثیر قرار میگیرند و این تأثیر در سند ثبت میشود
 - **📏 سیستم واحدها (Dimension-Safe)** — تبدیل یکپارچه psi/bar، m/ft، ppg/pcf/sg با تشخیص بعد و ثابتهای استاندارد (۰.۰۵۲، ۲۴.۵، Barlow/API 5C3)
 - **🧪 Reference Test Suite** — تستهای مرجع مهندسی با تلورانس پذیرش (Hydrostatic، MAASP، KMW، Annular Velocity، Casing Burst API، Well Cost) — اجرا: `python tests/test_engineering_reference.py` (۲۱ تست)
+- **🗄️ Canonical Well Model** — مدل یکپارچه Well → Revision → Section (تشکیلها، کیسینگ، گل، BHA...) با شناسه پایدار؛ همه ماژولها میتوانند به یک Well/Section متصل شوند (`wells.db`)
+- **🔄 Database Migration Framework** — ارتقای نسخهبندیشده خودکار همه دیتابیسها (`python db_migrations.py`)؛ ستونهای جدید (status/owner/approved_by/effective_date...) بدون شکستن دادههای موجود
+- **✅ Program Readiness Score** — نمره کاملبودن ۰-۱۰۰ قبل از تأیید با فهرست موارد بحرانی (فشار سازند، BOP، برنامه H2S، Kick Tolerance، LOT/FIT...)؛ سکشن «PROGRAM READINESS SCORE» در سند
+- **💡 Lessons Learned + NPT + Plan vs Actual** — دیالوگ «📊 Operations» از منوی Tools: ثبت درسآموختهها (میدان/عملیات/علت/پیشگیری)، رویدادهای NPT (علت/زیرعلت/هزینه مستقیم و غیرمستقیم/اقدام اصلاحی و پیشگیرانه + خلاصه)، و گزارش روزانه با واریانس عمق/ROP در برابر برنامه
+- **📋 Procedure Lifecycle** — چرخه عمر پروسیجرها (Draft → Technical Review → HSE Review → Client Review → Approved → Released → Superseded → Archived) با دکمههای Set Status / Approve در Procedure Manager + ثبت در Audit Log
+- **🔐 RBAC** — نقشها (Read-Only/Engineer/Reviewer/Approver/Admin) با بررسی و ثبت دسترسیها (`rbac.py`)
+- **⚙️ Advanced Engineering** — Kick Tolerance، BOP Pressure Envelope، Surge/Swab، Hole Cleaning (Critical Annular Velocity/Transport Ratio)، MPD (CBHP + پنجره فشار)، بارهای Evacuation/Lost-Returns کیسینگ
 - **📜 Audit Log** — ثبت append-only هر رویداد مهم (تولید سند، override یافتههای بحرانی) با زمان/کاربر/جزئیات در `~/.drilling_program/audit.log`
 - **🤖 AI Safety Boundary** — Numeric Lock: اگر LLM اعداد مهندسی را در بازنویسی حذف کند، متن قطعی (خام) جایگزین میشود؛ خروجی AI برچسب provenance دارد و هرگز تصمیم مهندسی نمیگیرد
 - **🧹 جنرالسازی خودکار** — هر متن ورودی (قالب، کتابخانه، قیمتها) هنگام خروجی از نام شرکت (لیست سیاه ~۶۰ نام)، نام چاه (AZNS-xxx، F-20، PAD-93، SI-09 و...) و نام مخزن (Fahliyan، Sarvak و...) پاک میشود؛ فقط نام اپراتور/پیمانکاری که **شما** وارد میکنید در سند میماند

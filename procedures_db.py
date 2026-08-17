@@ -382,6 +382,64 @@ class ProcedureDatabase:
         self.conn.commit()
         return cur.lastrowid
 
+    # ================================================================
+    # PROCEDURE LIFECYCLE (audit P1)
+    # Draft -> Technical Review -> HSE Review -> Client Review ->
+    # Approved -> Released -> Superseded -> Archived
+    # ================================================================
+
+    LIFECYCLE_STATES = ["Draft", "Technical Review", "HSE Review",
+                        "Client/Operator Review", "Approved", "Released",
+                        "Superseded", "Archived"]
+
+    def set_status(self, proc_id: int, status: str, user: str = "",
+                   approved_by: str = "", effective_date: str = ""):
+        """Move a procedure through its lifecycle; records the transition
+        in the audit log."""
+        if status not in self.LIFECYCLE_STATES:
+            raise ValueError(f"Invalid status: {status}")
+        self.conn.execute(
+            "UPDATE procedures SET status=?, modified_date=? WHERE id=?",
+            (status, datetime.now().strftime("%Y-%m-%d %H:%M:%S"), proc_id))
+        if approved_by:
+            self.conn.execute(
+                "UPDATE procedures SET approved_by=? WHERE id=?",
+                (approved_by, proc_id))
+        if effective_date:
+            self.conn.execute(
+                "UPDATE procedures SET effective_date=? WHERE id=?",
+                (effective_date, proc_id))
+        self.conn.commit()
+        try:
+            from audit_log import log_action
+            log_action("procedure_status", user, f"proc#{proc_id}",
+                       f"status -> {status}", "HIGH" if status in
+                       ("Approved", "Released") else "INFO")
+        except Exception:
+            pass
+        return True
+
+    def get_lifecycle(self, proc_id: int) -> Dict:
+        r = self.conn.execute(
+            "SELECT id, name, status, owner, approved_by, effective_date, "
+            "supersedes FROM procedures WHERE id=?",
+            (proc_id,)).fetchone()
+        return dict(r) if r else {}
+
+    def supersede(self, proc_id: int, new_proc_id: int, user: str = ""):
+        """Mark a procedure as superseded by another."""
+        self.set_status(proc_id, "Superseded", user)
+        self.conn.execute("UPDATE procedures SET supersedes=? WHERE id=?",
+                          (str(new_proc_id), proc_id))
+        self.conn.commit()
+        return True
+
+    def approve(self, proc_id: int, approver: str = "", effective_date: str = ""):
+        return self.set_status(proc_id, "Approved", approver,
+                               approved_by=approver,
+                               effective_date=effective_date or
+                               datetime.now().strftime("%Y-%m-%d"))
+
     def update_procedure(self, proc_id: int, name: str = None,
                          category_id: int = None,
                          description: str = None,
@@ -2060,6 +2118,20 @@ class ProcedureManagerDialog(QDialog):
 
         tb.addWidget(self._separator())
 
+        # lifecycle toolbar (audit P1)
+        self.status_combo = QComboBox()
+        self.status_combo.addItems(ProcedureDatabase.LIFECYCLE_STATES)
+        self.status_combo.setMaximumWidth(170)
+        tb.addWidget(self.status_combo)
+        btn_set_status = QPushButton("↩ Set Status")
+        btn_set_status.clicked.connect(self._set_status)
+        tb.addWidget(btn_set_status)
+        btn_approve = QPushButton("✅ Approve")
+        btn_approve.clicked.connect(self._approve)
+        tb.addWidget(btn_approve)
+
+        tb.addWidget(self._separator())
+
         self.search_box = QLineEdit()
         self.search_box.setPlaceholderText("🔍 Search procedures...")
         self.search_box.setMaximumWidth(250)
@@ -2182,6 +2254,42 @@ class ProcedureManagerDialog(QDialog):
     # ================================================================
     # TREE MANAGEMENT
     # ================================================================
+
+    def _current_proc_id(self):
+        item = self.tree.currentItem()
+        if item is None:
+            return None
+        data = item.data(0, Qt.UserRole)
+        if isinstance(data, dict) and data.get("type") == "procedure":
+            return data.get("id")
+        # maybe parent
+        p = item.parent()
+        if p is not None:
+            d = p.data(0, Qt.UserRole)
+            if isinstance(d, dict) and d.get("type") == "procedure":
+                return d.get("id")
+        return None
+
+    def _set_status(self):
+        pid = self._current_proc_id()
+        if not pid:
+            QMessageBox.information(self, "Select", "Select a procedure first.")
+            return
+        status = self.status_combo.currentText()
+        self.db.set_status(pid, status)
+        self._refresh_tree()
+        self._update_stats()
+
+    def _approve(self):
+        pid = self._current_proc_id()
+        if not pid:
+            QMessageBox.information(self, "Select", "Select a procedure first.")
+            return
+        self.db.approve(pid, approver="admin")
+        QMessageBox.information(self, "Approved",
+                                "Procedure approved and released for use.")
+        self._refresh_tree()
+        self._update_stats()
 
     def _refresh_tree(self):
         self.tree.blockSignals(True)

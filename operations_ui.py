@@ -40,6 +40,8 @@ class OperationsDialog(QDialog):
         tabs.addTab(self._build_lessons(), "💡 Lessons Learned")
         tabs.addTab(self._build_npt(), "⏱️ NPT Events")
         tabs.addTab(self._build_daily(), "📅 Daily / Plan vs Actual")
+        tabs.addTab(self._build_afe(), "💰 AFE vs Actual")
+        tabs.addTab(self._build_materials(), "📦 Materials")
         lay.addWidget(tabs)
 
         btns = QHBoxLayout()
@@ -262,3 +264,124 @@ class OperationsDialog(QDialog):
                     f"{r['depth_variance_m']:+,.0f}", r["npt_hr"], r["remarks"])
             for j, v in enumerate(vals):
                 self.daily_table.setItem(i, j, QTableWidgetItem(str(v or "")))
+
+    # ------------------------------------------------------------------
+    def _build_afe(self):
+        w = QWidget()
+        l = QVBoxLayout(w)
+        form = QFormLayout()
+        self.afe_number = QLineEdit("AFE-001")
+        self.afe_budget = QDoubleSpinBox(); self.afe_budget.setRange(0, 1e12); self.afe_budget.setDecimals(0)
+        self.afe_commit = QDoubleSpinBox(); self.afe_commit.setRange(0, 1e12); self.afe_commit.setDecimals(0)
+        self.afe_actual = QDoubleSpinBox(); self.afe_actual.setRange(0, 1e12); self.afe_actual.setDecimals(0)
+        self.afe_forecast = QDoubleSpinBox(); self.afe_forecast.setRange(0, 1e12); self.afe_forecast.setDecimals(0)
+        form.addRow("AFE Number:", self.afe_number)
+        form.addRow("Budget ($):", self.afe_budget)
+        form.addRow("Committed ($):", self.afe_commit)
+        form.addRow("Actual ($):", self.afe_actual)
+        form.addRow("Forecast ($):", self.afe_forecast)
+        l.addLayout(form)
+        btn = QPushButton("➕ Record AFE")
+        btn.clicked.connect(self._add_afe)
+        l.addWidget(btn)
+        self.afe_lbl = QLabel("")
+        l.addWidget(self.afe_lbl)
+        self.afe_table = QTableWidget(0, 6)
+        self.afe_table.setHorizontalHeaderLabels(
+            ["AFE #", "Budget", "Committed", "Actual", "Forecast", "Δ%"])
+        l.addWidget(self.afe_table, 1)
+        self._refresh_afe()
+        return w
+
+    def _add_afe(self):
+        self.db.add_afe(well_id=self.well_id,
+                        well_name=self.well_data.get("well_name", ""),
+                        afe_number=self.afe_number.text().strip(),
+                        budget_usd=self.afe_budget.value(),
+                        commitment_usd=self.afe_commit.value(),
+                        actual_usd=self.afe_actual.value(),
+                        forecast_usd=self.afe_forecast.value())
+        log_action("afe_added", "", self.afe_number.text(), "budget updated")
+        self._refresh_afe()
+
+    def _refresh_afe(self):
+        s = self.db.afe_status(self.well_id)
+        if s:
+            self.afe_lbl.setText(
+                f"Budget ${s['budget_usd']:,.0f} | Actual {s['actual_pct']}% | "
+                f"Forecast {s['forecast_vs_budget_pct']:+.1f}% vs budget")
+        rows = self.db.conn.execute(
+            "SELECT * FROM afe ORDER BY id DESC LIMIT 50").fetchall()
+        self.afe_table.setRowCount(0)
+        for r in rows:
+            i = self.afe_table.rowCount()
+            self.afe_table.insertRow(i)
+            vals = (r["afe_number"], f"{r['budget_usd'] or 0:,.0f}",
+                    f"{r['commitment_usd'] or 0:,.0f}",
+                    f"{r['actual_usd'] or 0:,.0f}",
+                    f"{r['forecast_usd'] or 0:,.0f}", "")
+            for j, v in enumerate(vals):
+                self.afe_table.setItem(i, j, QTableWidgetItem(str(v)))
+
+    # ------------------------------------------------------------------
+    def _build_materials(self):
+        w = QWidget()
+        l = QVBoxLayout(w)
+        form = QFormLayout()
+        self.mat_item = QLineEdit()
+        self.mat_cat = QComboBox()
+        self.mat_cat.addItems(["Tubulars", "Mud", "Cement", "Bits", "BOP",
+                               "Chemicals", "Spares", "Other"])
+        self.mat_req = QDoubleSpinBox(); self.mat_req.setRange(0, 1e6); self.mat_req.setDecimals(1)
+        self.mat_avail = QDoubleSpinBox(); self.mat_avail.setRange(0, 1e6); self.mat_avail.setDecimals(1)
+        self.mat_unit = QLineEdit("m")
+        self.mat_critical = QComboBox(); self.mat_critical.addItems(["No", "Yes"])
+        form.addRow("Item:", self.mat_item)
+        form.addRow("Category:", self.mat_cat)
+        form.addRow("Required qty:", self.mat_req)
+        form.addRow("Available qty:", self.mat_avail)
+        form.addRow("Unit:", self.mat_unit)
+        form.addRow("Critical:", self.mat_critical)
+        l.addLayout(form)
+        btn = QPushButton("➕ Add Material")
+        btn.clicked.connect(self._add_material)
+        l.addWidget(btn)
+        self.mat_lbl = QLabel("")
+        l.addWidget(self.mat_lbl)
+        self.mat_table = QTableWidget(0, 6)
+        self.mat_table.setHorizontalHeaderLabels(
+            ["Item", "Category", "Required", "Available", "Unit", "Status"])
+        l.addWidget(self.mat_table, 1)
+        self._refresh_materials()
+        return w
+
+    def _add_material(self):
+        self.db.add_material(
+            well_id=self.well_id, well_name=self.well_data.get("well_name", ""),
+            item=self.mat_item.text().strip(),
+            category=self.mat_cat.currentText(),
+            required_qty=self.mat_req.value(),
+            available_qty=self.mat_avail.value(),
+            unit=self.mat_unit.text().strip(),
+            critical=self.mat_critical.currentText() == "Yes")
+        self.mat_item.clear()
+        self._refresh_materials()
+
+    def _refresh_materials(self):
+        m = self.db.material_readiness(self.well_id)
+        if m["items"]:
+            self.mat_lbl.setText(
+                f"Ready {m['ready']} | Short {m['short']}" +
+                (f" | ⛔ {len(m['critical_short'])} critical short"
+                 if m["critical_short"] else ""))
+        rows = m["items"][-50:]
+        self.mat_table.setRowCount(0)
+        for r in rows:
+            i = self.mat_table.rowCount()
+            self.mat_table.insertRow(i)
+            status = "✅" if r["available_qty"] >= r["required_qty"] else \
+                     ("⛔" if r["critical"] else "⚠️")
+            vals = (r["item"], r["category"], f"{r['required_qty']:g}",
+                    f"{r['available_qty']:g}", r["unit"], status)
+            for j, v in enumerate(vals):
+                self.mat_table.setItem(i, j, QTableWidgetItem(str(v)))

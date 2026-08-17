@@ -55,6 +55,10 @@
 - **🔩 Equipment Compatibility** — بررسی سازگاری بیت/حفره، BHA/کیسینگ، موتور/حفره، لاینر/کیسینگ، BOP/فشار سطحی؛ یافتههای CRITICAL گزارش میشوند
 - **🎲 Monte Carlo Schedule & Cost** — P10/P50/P90 زمان و هزینه با توزیع مثلثی (۲۰۰۰ شبیهسازی) — سکشن «SCHEDULE & COST UNCERTAINTY»
 - **📏 Standards Compliance Matrix** — رجیستری قواعد استاندارد (API RP 53/10B-2/13B-1/13D، API TR 5C3، NORSOK D-010، API RP 49...) با Rule ID، نسخه استاندارد، قلمرو کاربرد، الزام، معیار پذیرش و ارزیابی خودکار PASS/FAIL/CHECK بر اساس ورودیها — سکشن «STANDARDS COMPLIANCE MATRIX» در سند
+- **📝 Structured Step Model** — هر مرحله پروسیجر با Precondition/Action/Parameter/Acceptance/Hazard/Control/Equipment/Role/Record/Escalation + **Hold Point ⛔ / Witness Point 👁**؛ استخراج خودکار از متن خام
+- **🎯 Deep Engineering Models** — ROP با **کالیبراسیون از داده چاههای حفرشده** (مدل Bourgoyne-Young)، هیدرولیک **Power Law + Herschel-Bulkley** (با yield stress)، **چک Triaxial (von Mises)** کیسینگ، Surge/Swab با ضریب تراکمپذیری
+- **💰 AFE vs Actual** — بودجه/تعهد/واقعی/پیشبینی با درصد مصرف و هشدار تجاوز از بودجه
+- **📦 Material & Inventory Readiness** — موجودی بحرانی (کیسینگ، باریت، سیمان...) با هشدار ⛔ برای اقلام کسری بحرانی
 - **📋 AUDIT_COMPLIANCE.md** — گزارش انطباق تکبندبهبند با ممیزی فنی (هر بند ۱-۲۵ + ضمائم با وضعیت ✅/🟡/❌ و شواهد)
 - **🧬 Entity-Based Generalization** — جایگزینی regex خام با تشخیص موجودیت (شرکت/چاه/میدان/مخزن) + حفاظت از اصطلاحات فنی (Brown زمینشناسی، Total واژه، MI مهندسی گل)
 - **⚙️ Advanced Engineering** — Kick Tolerance، BOP Pressure Envelope، Surge/Swab، Hole Cleaning (Critical Annular Velocity/Transport Ratio)، MPD (CBHP + پنجره فشار)، بارهای Evacuation/Lost-Returns کیسینگ

@@ -133,6 +133,18 @@ class LessonsDatabase:
                 direct_cost REAL, indirect_cost REAL,
                 corrective TEXT, preventive TEXT, created TEXT
             );
+            CREATE TABLE IF NOT EXISTS afe (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                well_id TEXT, well_name TEXT, afe_number TEXT,
+                budget_usd REAL, commitment_usd REAL, actual_usd REAL,
+                forecast_usd REAL, date TEXT
+            );
+            CREATE TABLE IF NOT EXISTS materials (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                well_id TEXT, well_name TEXT, item TEXT, category TEXT,
+                required_qty REAL, available_qty REAL, unit TEXT,
+                eta_days REAL, critical INTEGER
+            );
             CREATE TABLE IF NOT EXISTS daily_reports (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 well_id TEXT, well_name TEXT, date TEXT,
@@ -253,6 +265,112 @@ class LessonsDatabase:
             d["rop_variance"] = ((r["rop_mhr"] or 0) - (r["plan_rop_mhr"] or 0))
             out.append(d)
         return out
+
+    # ---- AFE vs Actual (budget / commitment / actual / forecast) ----
+
+    def add_afe(self, well_id="", well_name="", afe_number="",
+                budget_usd=0.0, commitment_usd=0.0, actual_usd=0.0,
+                forecast_usd=0.0, date=""):
+        cur = self.conn.execute(
+            "INSERT INTO afe (well_id, well_name, afe_number, budget_usd, "
+            "commitment_usd, actual_usd, forecast_usd, date) "
+            "VALUES (?,?,?,?,?,?,?,?)",
+            (well_id, well_name, afe_number, budget_usd, commitment_usd,
+             actual_usd, forecast_usd, date or
+             datetime.now().strftime("%Y-%m-%d")))
+        self.conn.commit()
+        return cur.lastrowid
+
+    def afe_status(self, well_id="") -> Dict:
+        sql = "SELECT * FROM afe"
+        args = []
+        if well_id:
+            sql += " WHERE well_id=?"; args.append(well_id)
+        rows = self.conn.execute(sql, args).fetchall()
+        if not rows:
+            return {}
+        budget = sum(r["budget_usd"] or 0 for r in rows)
+        commit = sum(r["commitment_usd"] or 0 for r in rows)
+        actual = sum(r["actual_usd"] or 0 for r in rows)
+        forecast = sum(r["forecast_usd"] or 0 for r in rows)
+        return {
+            "budget_usd": budget, "commitment_usd": commit,
+            "actual_usd": actual, "forecast_usd": forecast,
+            "committed_pct": round(commit / budget * 100, 1) if budget else 0,
+            "actual_pct": round(actual / budget * 100, 1) if budget else 0,
+            "forecast_vs_budget_pct": round((forecast - budget) / budget * 100, 1)
+            if budget else 0,
+        }
+
+    def afe_markdown(self, well_id="") -> str:
+        a = self.afe_status(well_id)
+        if not a:
+            return ""
+        L = ["## AFE vs ACTUAL — COST STATUS", "",
+             "| Item | Amount (USD) | % of Budget |", "|---|---:|---:|",
+             f"| AFE Budget | {a['budget_usd']:,.0f} | 100% |",
+             f"| Committed | {a['commitment_usd']:,.0f} | "
+             f"{a['committed_pct']}% |",
+             f"| Actual | {a['actual_usd']:,.0f} | {a['actual_pct']}% |",
+             f"| Forecast at Completion | {a['forecast_usd']:,.0f} | "
+             f"{a['forecast_vs_budget_pct']:+.1f}% vs budget |"]
+        L.append("")
+        if a["forecast_vs_budget_pct"] > 5:
+            L.append("⚠️ **Forecast exceeds budget — review cost control.**")
+        L.append("")
+        return "\n".join(L) + "\n"
+
+    # ---- Material & Inventory Readiness ----
+
+    def add_material(self, well_id="", well_name="", item="", category="",
+                     required_qty=0.0, available_qty=0.0, unit="",
+                     eta_days=0.0, critical=False):
+        cur = self.conn.execute(
+            "INSERT INTO materials (well_id, well_name, item, category, "
+            "required_qty, available_qty, unit, eta_days, critical) "
+            "VALUES (?,?,?,?,?,?,?,?,?)",
+            (well_id, well_name, item, category, required_qty, available_qty,
+             unit, eta_days, int(critical)))
+        self.conn.commit()
+        return cur.lastrowid
+
+    def material_readiness(self, well_id="") -> Dict:
+        sql = "SELECT * FROM materials"
+        args = []
+        if well_id:
+            sql += " WHERE well_id=?"; args.append(well_id)
+        rows = self.conn.execute(sql, args).fetchall()
+        if not rows:
+            return {"items": [], "ready": 0, "short": 0, "critical_short": []}
+        ready, short = [], []
+        for r in rows:
+            ok = (r["available_qty"] or 0) >= (r["required_qty"] or 0)
+            (ready if ok else short).append(dict(r))
+        return {
+            "items": [dict(r) for r in rows],
+            "ready": len(ready), "short": len(short),
+            "critical_short": [r["item"] for r in short if r["critical"]],
+        }
+
+    def material_markdown(self, well_id="") -> str:
+        m = self.material_readiness(well_id)
+        if not m["items"]:
+            return ""
+        L = ["## MATERIAL & INVENTORY READINESS", "",
+             "| Item | Category | Required | Available | Unit | Status |",
+             "|---|---|---:|---:|---|---|"]
+        for it in m["items"]:
+            status = "✅" if it["available_qty"] >= it["required_qty"] else \
+                     ("⛔" if it["critical"] else "⚠️")
+            L.append(f"| {it['item']} | {it['category']} | "
+                     f"{it['required_qty']:g} | {it['available_qty']:g} | "
+                     f"{it['unit']} | {status} |")
+        L.append("")
+        if m["critical_short"]:
+            L.append("⛔ **Critical items short:** " +
+                     ", ".join(m["critical_short"]))
+        L.append("")
+        return "\n".join(L) + "\n"
 
     def variance_markdown(self, well_id="") -> str:
         rows = self.plan_vs_actual(well_id)

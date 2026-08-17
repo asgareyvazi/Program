@@ -254,6 +254,57 @@ def test_standards():
     approx(ids2.get("STD-CS-001"), "FAIL", 0, "casing>TD FAIL")
 
 
+def test_deep_engineering():
+    print("\n[17] DEEP ENGINEERING (ROP calib, HB hydraulics, triaxial)")
+    from engineering_deep import (ROPCalibrator, power_law_pressure_loss,
+                                  herschel_bulkley_pressure_loss, triaxial_check)
+    rc = ROPCalibrator()
+    rc.calibrate([
+        {"wob": 20, "rpm": 90, "depth": 5000, "mw": 11, "rop_actual": 35},
+        {"wob": 25, "rpm": 100, "depth": 8000, "mw": 11.5, "rop_actual": 28},
+        {"wob": 30, "rpm": 110, "depth": 11000, "mw": 12, "rop_actual": 20},
+    ])
+    approx(rc.is_fitted, True, 0, "ROP calibrated")
+    pred = rc.predict(25, 100, 8000, 11.5)
+    approx(pred, 28, 8, "ROP predict near offset")
+    # HB pressure loss > PL (yield adds)
+    pl = power_law_pressure_loss(500, 12.25, 5, 1000, 0.6, 2.0)
+    hb = herschel_bulkley_pressure_loss(500, 12.25, 5, 1000, 10, 0.6, 2.0)
+    approx(hb > pl, True, 0, "HB adds yield stress")
+    tx = triaxial_check(9.625, 0.472, 80000, 6000, 4000, 10000)
+    approx(tx["status"], "PASS", 0, "triaxial PASS")
+
+
+def test_structured_steps():
+    print("\n[18] STRUCTURED STEP MODEL")
+    from structured_steps import structure_step
+    ss = structure_step(
+        "Run 9-5/8\" casing to 3915 m; verify fill with trip tank; "
+        "hold point before cementing; witness by company rep.", 1)
+    approx(ss.hold_point, True, 0, "hold point detected")
+    approx(ss.witness_point, True, 0, "witness point detected")
+    approx(bool(ss.parameter), True, 0, "parameter extracted")
+    approx(bool(ss.acceptance), True, 0, "acceptance extracted")
+
+
+def test_afe_materials():
+    print("\n[19] AFE vs ACTUAL + MATERIAL READINESS")
+    from operations_engine import LessonsDatabase
+    db = LessonsDatabase()
+    db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
+               commitment_usd=600000, actual_usd=400000,
+               forecast_usd=1100000)
+    s = db.afe_status()
+    approx(s["committed_pct"], 60.0, 0.1, "committed %")
+    db.add_material(well_name="W", item="Barite", category="Mud",
+                    required_qty=100, available_qty=50, unit="ton",
+                    critical=True)
+    m = db.material_readiness()
+    approx(m["short"], 1, 0, "short material counted")
+    approx(len(m["critical_short"]), 1, 0, "critical short flagged")
+    db.close()
+
+
 def main():
     print("=" * 64)
     print("ENGINEERING REFERENCE TEST SUITE")
@@ -263,7 +314,8 @@ def main():
                test_well_cost, test_engineering_calc_annular, test_advanced,
                test_readiness_and_ops, test_planning_intelligence,
                test_entity_scrub, test_compliance, test_risk_decision,
-               test_standards):
+               test_standards, test_deep_engineering,
+               test_structured_steps, test_afe_materials):
         try:
             fn()
         except Exception:

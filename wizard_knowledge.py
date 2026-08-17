@@ -137,6 +137,113 @@ def _load_text(path: Path) -> str:
 
 
 # ----------------------------------------------------------------------------
+# CONTENT QUALITY FILTER (Batch T — leak-free, garbage-free enrichment)
+# ----------------------------------------------------------------------------
+# Library documents contain TOC pages, annotation codes and fragmentary
+# notes that must never reach a generated document. Every extracted item
+# and chunk passes through these filters before ranking.
+
+_TOC_RE = re.compile(r"\.{3,}\s*\d+\s*$|^\s*\d+\s*\.{3,}")
+_ABBREV_CODE_RE = re.compile(
+    r"\b(?:C\.?P|B\.?P|S\.?W|B\.?Y|B\.?S\.?F|T\.?S\.?F|C\.?L/GR|"
+    r"C\.?H\.?H|P\.?R\.?am|L\.?Lap|C\.?S\.?F|B\.?S\.?F|T\.?S\.?F)\b"
+    r"\s*[:=]")
+_ENG_KEYWORDS = ("wob", "rpm", "psi", "ppg", "pcf", "bbl", "gpm", "klbs",
+                 "pressure", "mud", "casing", "cement", "drill", "hole",
+                 "bha", "check", "inspect", "ensure", "verify", "torque",
+                 "flow", "temperature", "depth", "weight", "test", "run",
+                 "install", "remove", "circulate", "ream", "survey",
+                 "sample", "safety", "h2s", "barite", "bentonite",
+                 "string", "bit", "nozzle", "pump", "jar", "fishing",
+                 "stuck", "loss", "kick", "well", "formation")
+
+
+def _junk_score(line: str) -> int:
+    """Count mixed alphanumeric codes and ALL-CAPS abbreviations — the
+    signature of annotation fragments (e.g. 'XOS + 2Stds ... C.H.H
+    21-1/4', 'B.Y: 1086 klbs')."""
+    toks = re.findall(r"[A-Za-z0-9./\-]+", line)
+    mixed = sum(1 for t in toks
+                if re.search(r"\d", t) and re.search(r"[A-Za-z]", t))
+    caps = sum(1 for t in toks if re.fullmatch(r"[A-Z][A-Z.]{1,5}", t))
+    return mixed + caps
+
+
+def sanitize_knowledge_item(line: str) -> Optional[str]:
+    """Clean a single extracted item; return None when it is noise.
+
+    Removes: TOC rows, annotation-code lines, star/bullet garbage,
+    bare fragments without engineering content, numeric-only tokens.
+    """
+    t = (line or "").strip()
+    if not t:
+        return None
+    # strip leading bullet/star mixtures: "• *Hi-Trq ...", "********Bad ..."
+    t = re.sub(r"^[\s*•\-+▪◦]+", "", t).strip()
+    if not t:
+        return None
+    # TOC rows: "General Information ........ 9"
+    if _TOC_RE.search(t) or t.count(".") >= 6:
+        return None
+    # annotation codes: "C.P: 4750 Psi", "B.Y: 1086 klbs"
+    if _ABBREV_CODE_RE.search(t):
+        return None
+    # numeric-only tokens: "2K", "2100", "8-1/2"
+    if re.fullmatch(r"[0-9][0-9KkMm%\-\./ ]*", t):
+        return None
+    # contact information (PII) from source documents: email addresses
+    # and phone numbers — never forward these into generated documents.
+    # (domain part may contain spaces after entity-neutralization, e.g.
+    # "user@the Operator.com")
+    if re.search(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.\- ]+\.[A-Za-z]{2,}", t):
+        return None
+    if re.search(r"(?:\+\d[\d\s\-()]{5,}\d|"
+                 r"\d{3}[\s\-()]*\d{3}[\s\-()]*\d{4})", t):
+        return None
+    # fragments: too few words and no engineering keyword
+    words = t.split()
+    if len(words) <= 2:
+        low = t.lower()
+        if not any(k in low for k in ("psi", "ppg", "pcf", "gpm", "bbl",
+                                      "klb", "wob", "rpm", "ft", "m3")):
+            return None
+    # annotation fragments with >= 4 mixed/caps codes and few real words
+    toks = re.findall(r"[A-Za-z0-9./\-]+", t)
+    real_words = sum(1 for x in toks if re.fullmatch(r"[A-Za-z]{3,}", x))
+    if _junk_score(t) >= 4 and real_words <= 6:
+        return None
+    # camel-hyphen fragment as the first token ("Hi-Trq & frequent ...")
+    first = re.findall(r"[A-Za-z0-9./\-]+", t)[0] if toks else ""
+    if re.fullmatch(r"[A-Z][a-z]+-[A-Z][a-z]+", first):
+        return None
+    return t
+
+
+def sanitize_chunk(chunk: str, min_words: int = 15,
+                   good_fraction: float = 0.6) -> Optional[str]:
+    """Drop a chunk when too many of its lines are noise (TOC page,
+    annotation fragment, headings-only outline)."""
+    lines = [ln for ln in chunk.splitlines() if ln.strip()]
+    if not lines:
+        return None
+    good = [ln for ln in lines if sanitize_knowledge_item(ln) is not None]
+    words = sum(len(ln.split()) for ln in good)
+    if len(good) == 0 or words < min_words:
+        return None
+    if len(good) / len(lines) < good_fraction:
+        return None
+    out = "\n".join(good)
+    # dedupe consecutive repeats
+    seen, uniq = set(), []
+    for ln in out.splitlines():
+        k = ln.strip().lower()
+        if k not in seen:
+            seen.add(k)
+            uniq.append(ln)
+    return "\n".join(uniq)
+
+
+# ----------------------------------------------------------------------------
 # CONTENT EXTRACTION (checklists / steps / tables)
 # ----------------------------------------------------------------------------
 
@@ -149,8 +256,8 @@ def extract_checklists(text: str) -> List[str]:
     for line in text.splitlines():
         m = _CHECK_RE.match(line)
         if m:
-            item = m.group(1).strip()
-            if len(item) > 5 and not item.startswith("|"):
+            item = sanitize_knowledge_item(m.group(1))
+            if item and len(item) > 5 and not item.startswith("|"):
                 out.append(item)
     return out
 
@@ -160,8 +267,8 @@ def extract_steps(text: str) -> List[str]:
     for line in text.splitlines():
         m = _NUM_RE.match(line)
         if m:
-            item = m.group(1).strip()
-            if len(item) > 5 and not item.startswith("|"):
+            item = sanitize_knowledge_item(m.group(1))
+            if item and len(item) > 5 and not item.startswith("|"):
                 out.append(item)
     return out
 
@@ -320,7 +427,19 @@ def get_chunks_for(template_key: str, intensity: str = "moderate",
         if not parts:
             parts.append(text[:1500])
         for ch in chunk_text("\n\n".join(parts)):
-            chunks.append((num, label, ch))
+            cleaned = sanitize_chunk(ch)
+            if cleaned:
+                chunks.append((num, label, cleaned))
+    if not chunks:
+        # fall back to raw paragraph text through the same quality gate
+        for num, label in refs[:max_docs]:
+            p = _resolve(num)
+            if p is None:
+                continue
+            for ch in chunk_text(_load_text(p)):
+                cleaned = sanitize_chunk(ch)
+                if cleaned:
+                    chunks.append((num, label, cleaned))
     if not chunks:
         return []
 

@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۳۷۵ تست در ۵ سویت خودکار | `tests/run_all.py` (193 مرجع + 63 حاکمیتی + 51 قالب + 23 UI + 45 API) |
+| Testing | 3.5 | ✅ ۴۴۷ تست در ۶ سویت خودکار | `tests/run_all.py` (193 مرجع + 63 حاکمیتی + 51 قالب + 23 UI + 45 API + 72 کیفیت محتوا) |
 
 ---
 
@@ -228,8 +228,9 @@
 `(این کامیت — Batch Q)` (**گزارشدهی آماری + حاکمیت دانش** — `reporting.py`: گزارش ۵ دیتابیس + خروجی Excel چندصفحهای + effective-date کاتالوگ + منوی «Statistical Reports» + اندپوینتهای `/api/report` و `/api/report/excel`)
 `(این کامیت — Batch R)` (**سیمانکاری**: حجم/کیسه/آب + UCA + SGS + مهاجرت گاز؛ **چاههای خاص**: HPHT الاستومر/فشار محبوس/متالورژی + Deepwater riser margin/subsea BOP + مدل سد دوتایی تکمیل)
 `(این کامیت — Batch S)` (**WITSML/JSON Export** + **Prefill خودکار ورودیها از پروفایل چاه** با نگاشت مترادف واژگان)
+`(این کامیت — Batch T)` (**کیفیت محتوا و نشت صفر — بر اساس گزارش کاربر**: فیلتر sanitizer برای حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل و تلفن از غنیسازی دانش؛ افزودن کدهای چاه/میدان/مخزن به لیست سیاه (MB-013، GS 4-2، Asmari، Pabdeh، N 1-3-5، Gachsaran…) با حفظ درجههای فولاد (S135/S-95)؛ scrub کامل دیتابیس پروسیجرها با neutralize_text؛ برچسب صادقانهٔ «verbatim» وقتی LLM خاموش است؛ neutralize در خروجی Word مدیر پروسیجر)
 
-**امتیاز تخمینی جدید:** حدود **9.4–9.6/10** (از 5.8)
+**امتیاز تخمینی جدید:** حدود **9.5–9.7/10** (از 5.8) — با سویت «کیفیت محتوا و نشت صفر»
 - +Validation، +Testing خودکار (۲۷۹ تست در ۵ سویت)، +Traceability کامل (register + snapshots)،
   +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
   +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)،

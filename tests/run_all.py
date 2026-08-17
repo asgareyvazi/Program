@@ -29,6 +29,7 @@ SUITES = [
     ("Template regression (51)",    "regression_templates.py"),
     ("UI smoke tests",              "test_ui_smoke.py"),
     ("REST API tests",              "test_api.py"),
+    ("Content quality (leak-free)", "test_content_quality.py"),
 ]
 
 

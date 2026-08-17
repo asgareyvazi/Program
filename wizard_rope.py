@@ -26,6 +26,15 @@ def _clean_item(line: str) -> Optional[str]:
         return None
     if "http" in s.lower() or "|" in s:
         return None
+    # Batch T: same quality filter as the knowledge enrichment engine
+    try:
+        from wizard_knowledge import sanitize_knowledge_item
+        cleaned = sanitize_knowledge_item(s)
+        if cleaned is None:
+            return None
+        s = cleaned
+    except Exception:
+        pass
     return s
 
 

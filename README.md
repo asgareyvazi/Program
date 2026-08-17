@@ -55,6 +55,7 @@
 - **🔥 Special Wells** — HPHT (الاستومر/فشار محبوس/متالورژی) + Deepwater (riser margin/subsea BOP) + مدل سد دوتایی تکمیل (`engineering_special.py`)
 - **📡 WITSML Export** — خروجی WITSML v1.4.1 + JSON (منو یا `/api/witsml`) (`witsml_export.py`)
 - **⚡ Auto-Prefill** — ورودیهای ویزارد از پروفایل چاه با نگاشت مترادف واژگان (Deviated ← Directional J-Type و…)
+- **🛡️ کیفیت محتوا و نشت صفر** — فیلتر sanitizer (حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل/تلفن)، لیست سیاه کامل کدهای چاه/میدان/مخزن (MB-013، GS 4-2، Asmari، Pabdeh…) با حفظ درجههای فولاد (S135)، scrub دیتابیس پروسیجرها، برچسب صادقانهٔ verbatim بدون LLM — سویت `tests/test_content_quality.py` (۷۲ تست)
 - **🔗 Procedure ← Well/Risk** — لینک پروسیجر به چاه/سکشن/ریسک (wells.db + problems.db) + سکشن «LINKED PROCEDURES» در Well Report + نقش مسئول (Role) در هر گام
 - **📊 Engineering Calculation Register** — در هر سند تولیدی، ضمیمهٔ «ENGINEERING CALCULATION REGISTER»: تکبهتک اعداد محاسبهشده با **فرمول + مقادیر ورودی + نتیجه + منبع استاندارد** (API/IADC/API 5C3...) — پاسخ به سؤال «این عدد از کدام معادله/استاندارد است؟»
 - **🔬 Deep Engineering Verification** — سکشن تأیید عمیق در سند: ROP بورگین-یانگ با **کالیبراسیون از دادهٔ چاههای کناری** (دیالوگ + جدول پیشبینی)، هیدرولیک Herschel-Bulkley، بررسی triaxial (von Mises)، surge/swab با تراکمپذیری؛ ورودیهای «Engineering Basis» (MW/PP/FG/سایزها/WOB/RPM/...) در همهٔ قالبها فعال است

@@ -160,17 +160,40 @@ WELL_PATTERNS = [
     (r"\bMB-W\w+\b", ""),
     (r"\bYAP1\b", ""),
     (r"\bF-?20\b", ""),
-    (r"\bS\d{2,3}\b", ""),
+    # well/section codes (S372, S223, S19...) — but NOT API steel grades
+    # S-135 / S135 / S-95 (drill-pipe & casing grades must be preserved)
+    (r"\bS-?(?!(?:135|95)\b)\d{2,3}\b", ""),
     (r"\bW0\d{2,3}\w*\b", ""),
     (r"\bSarvak\b", "main reservoir"),
     (r"\bFahliyan\b", "HPHT reservoir"),
     (r"\bKazhdumi\b", "reservoir"),
     (r"\bGadvan\b", "reservoir"),
     # offshore well codes from the 25-doc & pp2 sets
-    (r"\bBL-?01P\b", "the well"),
-    (r"\b2S-?01\b", "the well"),
-    (r"\bD-?127\b", "the well"),
-    (r"\bNR-?3[56]\b", "the well"),
+    (r"\b(?:well\s+)?BL-?01P\b", "the well"),
+    (r"\b(?:well\s+)?2S-?01\b", "the well"),
+    (r"\b(?:well\s+)?D-?127\b", "the well"),
+    (r"\b(?:well\s+)?NR-?3[56]\b", "the well"),
+    # well/field codes reported by the user in enrichment output (Batch T):
+    # MB-011 / MB-013 (Mansouri field wells), GS 4-2 / GS-5 / GS Mbr. 4-2
+    # (Gachsaran), N 1-3-5. The optional "well " prefix avoids doubled
+    # text like "well the offset well".
+    (r"\b(?:well\s+)?MB-?\d{0,4}(?=$|[\s.,;:)])", "the offset well"),
+    (r"\bGS[- ]?Mbr\.?[- ]?\d{1,2}(?:[-/ ]\d{1,2})?\b", "the interval"),
+    (r"\bGS[- ]?\d{1,2}(?:[-/ ]\d{1,2})?\b", "the interval"),
+    (r"\bN\s*[1-9](?:[-–][1-9]){1,2}\b", "the well"),
+    # reservoir / formation names (must never appear — internal knowledge)
+    (r"\bGachsaran\s+formation\b", "the formation"),
+    (r"\bGachsaran\b", "the formation"),
+    (r"\bAsmari\b", "the reservoir"),
+    (r"\bPabdeh\b", "the formation"),
+    (r"\bAghajari\b", "the formation"),
+    (r"\bMishan\b", "the formation"),
+    (r"\bGuri\b", "the formation"),
+    (r"\bIlam\b", "the formation"),
+    (r"\bBangestan\b", "the formation"),
+    (r"\bKhami\b", "the formation"),
+    (r"\bDalan\b", "the formation"),
+    (r"\bDariyan\b", "the formation"),
     (r"\bSalman\b", "the field"),
     (r"\bBalal\b", "the field"),
     (r"\bDorood\b", "the field"),
@@ -2388,13 +2411,22 @@ class _GeneratePage(QWizardPage):
                     else:
                         kn = ""
                     if kn:
-                        kn = ("## FIELD KNOWLEDGE ENRICHMENT "
-                              "(FROM REAL OPERATIONS LIBRARY)\n\n"
-                              "Content below was retrieved by the ML "
-                              "engine and rewritten by the AI "
-                              "assistant from the internal "
-                              "field-document library. Company "
-                              "names have been removed.\n\n" + kn)
+                        if kn.startswith("*AI-assisted rewrite"):
+                            kn = ("## FIELD KNOWLEDGE ENRICHMENT "
+                                  "(AI-ASSISTED, FROM REAL OPERATIONS "
+                                  "LIBRARY)\n\n" + kn)
+                        else:
+                            # LLM unavailable -> verbatim excerpts;
+                            # the label must be honest about it
+                            kn = ("## FIELD KNOWLEDGE ENRICHMENT "
+                                  "(FROM REAL OPERATIONS LIBRARY)\n\n"
+                                  "Excerpts below were retrieved by the "
+                                  "ML engine from the internal "
+                                  "field-document library (verbatim; "
+                                  "company and well names removed). "
+                                  "Enable the AI assistant in the "
+                                  "wizard for a professional "
+                                  "paraphrase.\n\n" + kn)
                     if kn:
                         md = md.rstrip() + "\n\n---\n\n" + kn
             except Exception:

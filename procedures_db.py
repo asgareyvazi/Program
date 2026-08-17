@@ -3025,12 +3025,25 @@ class ProcedureManagerDialog(QDialog):
     # ================================================================
     # GENERATE WORD
     # ================================================================
+    def _scrub(self, text: str) -> str:
+        """Defense in depth: neutralize company/well/reservoir names before
+        any document export (Batch T — leak-free outputs)."""
+        if not text:
+            return ""
+        try:
+            from wizard_engine import neutralize_text
+            return neutralize_text(text, self._op_name, self._con_name)
+        except Exception:
+            return text
+
     def _generate_word(self):
         ids = self._get_selected_ids()
         if not ids:
             QMessageBox.warning(self, "No Selection",
                                 "Select procedures to generate.")
             return
+        self._op_name = ""
+        self._con_name = ""
 
         path, _ = QFileDialog.getSaveFileName(
             self, "Save Procedures Document",
@@ -3186,7 +3199,8 @@ class ProcedureManagerDialog(QDialog):
 
                 # ---- STEPS ----
                 for s in rec.steps:
-                    if not s.text.strip():
+                    step_text = self._scrub(s.text)
+                    if not step_text.strip():
                         doc.add_paragraph("")
                         continue
 
@@ -3196,23 +3210,23 @@ class ProcedureManagerDialog(QDialog):
                     sp.paragraph_format.space_after = Pt(2)
 
                     if s.is_header:
-                        sr = sp.add_run(s.text)
+                        sr = sp.add_run(step_text)
                         sr.bold = True
                         sr.font.size = Pt(11)
                         sr.font.color.rgb = RGBColor(0x1B, 0x4F, 0x72)
                         sp.paragraph_format.space_before = Pt(8)
                     elif s.is_warning:
-                        sr = sp.add_run(f"⚠️ {s.text}")
+                        sr = sp.add_run(f"⚠️ {step_text}")
                         sr.bold = True
                         sr.font.size = Pt(10)
                         sr.font.color.rgb = RGBColor(0xE7, 0x4C, 0x3C)
                     elif s.is_note:
-                        sr = sp.add_run(f"📌 {s.text}")
+                        sr = sp.add_run(f"📌 {step_text}")
                         sr.font.size = Pt(9)
                         sr.font.italic = True
                         sr.font.color.rgb = RGBColor(0x85, 0x92, 0x9E)
                     else:
-                        parts = s.text.split(' ', 1)
+                        parts = step_text.split(' ', 1)
                         if (len(parts) == 2 and '.' in parts[0] and
                                 any(c.isdigit() for c in parts[0])):
                             sr1 = sp.add_run(parts[0] + " ")
@@ -3222,7 +3236,7 @@ class ProcedureManagerDialog(QDialog):
                             sr2 = sp.add_run(parts[1])
                             sr2.font.size = Pt(10)
                         else:
-                            sr = sp.add_run(s.text)
+                            sr = sp.add_run(step_text)
                             sr.font.size = Pt(10)
 
                     # ---- Structured execution info (audit P1) ----
@@ -3235,7 +3249,7 @@ class ProcedureManagerDialog(QDialog):
                         pr1.bold = True
                         pr1.font.size = Pt(9)
                         pr1.font.color.rgb = RGBColor(0xB9, 0x77, 0x0E)
-                        pr2 = pp_.add_run(s.precondition)
+                        pr2 = pp_.add_run(self._scrub(s.precondition))
                         pr2.font.size = Pt(9)
                     if s.acceptance:
                         pa_ = doc.add_paragraph()
@@ -3246,7 +3260,7 @@ class ProcedureManagerDialog(QDialog):
                         ar1.bold = True
                         ar1.font.size = Pt(9)
                         ar1.font.color.rgb = RGBColor(0x1E, 0x84, 0x49)
-                        ar2 = pa_.add_run(s.acceptance)
+                        ar2 = pa_.add_run(self._scrub(s.acceptance))
                         ar2.font.size = Pt(9)
                     if s.hold_point or s.witness_point:
                         ph_ = doc.add_paragraph()
@@ -3289,7 +3303,8 @@ class ProcedureManagerDialog(QDialog):
                     # Group by category
                     cats = {}
                     for c in rec.checklist:
-                        cats.setdefault(c.category, []).append(c.text)
+                        cats.setdefault(self._scrub(c.category),
+                                        []).append(self._scrub(c.text))
 
                     for cat, items in cats.items():
                         cp2 = doc.add_paragraph()

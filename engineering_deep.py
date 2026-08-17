@@ -391,6 +391,51 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     else:
         _note("Surge/swab data (trip speed, PV, YP, geometry)")
 
+    # -- 5. Anti-collision (trajectory-based) --------------------------------
+    lines.append("")
+    lines.append("### Anti-Collision — Minimum Curvature + Separation Factor")
+    traj_md = _pick(v, "trajectory_table")
+    off_md = _pick(v, "offset_trajectory_table")
+    if traj_md:
+        try:
+            from engineering_anticollision import (parse_trajectory_markdown,
+                                                   parse_offset_trajectory_markdown,
+                                                   anti_collision_review)
+            ref = parse_trajectory_markdown(traj_md)
+            off = None
+            off_surface = (0.0, 0.0)
+            if off_md:
+                off, off_surface = parse_offset_trajectory_markdown(off_md)
+            if len(ref) >= 2:
+                rev = anti_collision_review(ref, off,
+                                            off_surface=off_surface)
+                if rev["status"] == "NO_OFFSET":
+                    lines.append(
+                        f"- Reference well positioned with minimum "
+                        f"curvature: {len(ref)} stations. Offset-well "
+                        f"trajectory not provided — enter it to run the "
+                        f"separation-factor scan.")
+                else:
+                    icon = {"OK": "✅", "CAUTION": "⚠️",
+                            "FAIL": "⛔"}.get(rev["status"], "?")
+                    lines.append(
+                        f"- {icon} Minimum separation factor: "
+                        f"**{rev['min_sf']}** at MD "
+                        f"{rev['min_sf_md']:,.0f} ft (closest approach "
+                        f"{rev['min_c2c']} ft at MD {rev['min_c2c_md']:,.0f} "
+                        f"ft) — **{rev['status']}** (OWSG: SF ≥ 1.5 "
+                        f"acceptable)")
+                    lines.append(
+                        "- Method: minimum curvature positioning; "
+                        "EoU = tan(0.25°) × MD (MWD-class survey cone)")
+                    checks += 1
+            else:
+                _note("Trajectory data (MD/Inc/Az table)")
+        except Exception:
+            _note("Anti-collision review")
+    else:
+        _note("Anti-collision review (well trajectory table)")
+
     lines.append("")
     lines.append(f"*Deep engineering checks computed for {op}; models are "
                  "preliminary design aids and must be confirmed against "

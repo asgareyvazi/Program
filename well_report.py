@@ -143,6 +143,36 @@ def build_well_report(values: Dict, operator: str = "",
         L.append(monte_carlo_markdown(tr, cr))
         L.append("")
 
+    # 9b. Linked procedures for this well (audit P1: Procedure <- Well)
+    try:
+        from procedures_db import ProcedureDatabase
+        pdb = ProcedureDatabase()
+        well_key = str(values.get("well_name") or
+                       values.get("linked_well_id") or "")
+        linked = []
+        if well_key:
+            linked = pdb.procedures_for_well(well_key)
+        if not linked and values.get("linked_well_id"):
+            linked = pdb.procedures_for_well(values["linked_well_id"])
+        if linked:
+            L.append("## 9b. LINKED PROCEDURES FOR THIS WELL")
+            L.append("")
+            L.append("| Procedure | Category | Section | Version | Status |")
+            L.append("|---|---|---|---|---|")
+            for pr in linked:
+                st = ""
+                try:
+                    st = pdb.get_lifecycle(pr.id).get("status", "")
+                except Exception:
+                    st = ""
+                L.append(f"| {pr.name} | {pr.category_name or '—'} | "
+                         f"{pr.linked_section or '—'} | {pr.version} | "
+                         f"{st} |")
+            L.append("")
+        pdb.close()
+    except Exception:
+        pass
+
     # 10. Compliance
     comp_rep = compliance_check("well_report", "\n".join(L), findings)
     L.append("## 10. DOCUMENT COMPLIANCE")

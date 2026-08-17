@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۱۷۸ تست در ۴ سویت خودکار | `tests/run_all.py` (69 مرجع + 37 حاکمیتی + 51 قالب + 21 UI) |
+| Testing | 3.5 | ✅ ۲۰۸ تست در ۴ سویت خودکار | `tests/run_all.py` (89 مرجع + 47 حاکمیتی + 51 قالب + 21 UI) |
 
 ---
 
@@ -46,7 +46,7 @@
 | Surge/Swab | 5.0 | 🟡 | مدل دینامیک ساده شد |
 | Torque & Drag | 5.0 | 🟡 | soft-string ساده |
 | ROP | 4.5 | ✅ | Bourgoyne-Young + کالیبراسیون از دادهٔ چاههای کناری (دیالوگ در ویزارد + جدول پیشبینی ROP در سند) |
-| Directional | 6.0 | 🟡 | anti-collision engine نیاز دارد |
+| Directional | 6.0 | ✅ | **Anti-Collision Engine**: minimum curvature + Separation Factor (OWSG، SF≥1.5) با اسکن نزدیکترین فاصله و EoU (MWD) — `engineering_anticollision.py` + ۱۷ تست مرجع |
 | Well Control | 6.0 | ✅ KT/MASP/KMW + decision engine | scenario branching کامل P1 |
 | BOP | 5.5 | ✅ pressure envelope + matrix | cert tracking P2 |
 | Fishing | 4.5 | 🟡 | decision tree عمیقتر |
@@ -83,7 +83,7 @@
 | Lifecycle ۸ حالته | ✅ | `procedures_db.set_status/approve/supersede` + UI |
 | Step ساختاریافته (precondition/action/acceptance/...) | ✅ | ستونهای `precondition/acceptance` در procedure_steps + ادیتور گام با دکمهٔ Auto-structure + نمایش در پیشنمایش و خروجی Word |
 | Hold Point / Witness Point | ✅ | ستونها + ادیتور + نشان «🚧 HOLD POINT / 👁️ WITNESS» در پیشنمایش و سند Word + تست |
-| Procedure ← Well Section/Risk | 🟡 | canonical well_id موجود؛ اتصال کامل P1 |
+| Procedure ← Well Section/Risk | ✅ | `link_well/link_risks/procedures_for_well` + UI (انتخاب چاه از wells.db، سکشن، ریسکها) + سکشن «LINKED PROCEDURES» در Well Report + تست |
 | Traceability revision | ✅ | audit log + lifecycle |
 
 ---
@@ -140,7 +140,7 @@
 | P1 | Plan vs Actual | ✅ |
 | P1 | NPT Root Cause Engine | ✅ |
 | P1 | Program Readiness Score | ✅ |
-| P1 | Procedure Execution Engine | ✅ lifecycle + structured steps (precondition/acceptance + Hold/Witness Points) در ادیتور، پیشنمایش و Word |
+| P1 | Procedure Execution Engine | ✅ lifecycle + structured steps (precondition/acceptance + Hold/Witness Points + **نقش مسئول (role)**) در ادیتور، پیشنمایش و Word |
 | P1 | Equipment Compatibility | ✅ |
 | P1 | Material & Inventory Readiness | 🟡 checklist؛ اتصال CBS P1 |
 | P1 | Well Control Decision Engine | ✅ 5 سناریو؛ بسط P1 |
@@ -219,12 +219,14 @@
 `5820e10` (Backup/Restore، Secrets/keyring، Well Engineering Report)
 `(این کامیت — Batch I)` (Calculation Register، Deep Engineering در ویزارد + ROP calibration، revision snapshots، بکاپ رمزنگاریشده، ۴ سویت تست خودکار + رفع ۲ باگ neutralize: «Total» و «IADC»)
 `(این کامیت — Batch J)` (Structured Step Model کامل: precondition/acceptance + Hold/Witness Points در دیتابیس، ادیتور، پیشنمایش و خروجی Word + Auto-structure + migration v12)
+`(این کامیت — Batch K)` (Anti-Collision Engine با minimum curvature + SF/OWSG + نقش مسئول (role) در stepها + اتصال Procedure ← Well/Risk با سکشن «LINKED PROCEDURES» در Well Report + migration v16)
 
-**امتیاز تخمینی جدید:** حدود **8–8.5/10** (از 5.8)
-- +Validation، +Testing خودکار (۱۷۸ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
-  +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps
+**امتیاز تخمینی جدید:** حدود **8.3–8.7/10** (از 5.8)
+- +Validation، +Testing خودکار (۲۰۸ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
+  +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
+  +Anti-Collision، +Procedure↔Well/Risk
 - باقیمانده برای 8.5–9: سرور مرکزی/API، triaxial/thermal casing کامل با بارهای واقعی،
-  H-B hydraulics کامل با دادهٔ میدانی، اتصال کامل Procedure ← Well Section/Risk
+  H-B hydraulics کامل با دادهٔ میدانی، OCR
 
 **گام بعدی پیشنهادی:** ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی) یا
-اتصال Procedure ← Well Section/Risk و نقشهای اجرایی (role) در stepها.
+کاملکردن مدلهای حرارتی/تریاکسیال کیسینگ با بارهای واقعی (thermal/wear/corrosion).

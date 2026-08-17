@@ -234,6 +234,47 @@ def test_structured_steps():
     shutil.rmtree(tmp, ignore_errors=True)
 
 
+def test_procedure_linking():
+    print("\n[7] PROCEDURE <-> WELL/RISK LINKING + ROLE")
+    import tempfile
+    from procedures_db import ProcedureDatabase
+    tmp = tempfile.mkdtemp(prefix="drl_link_")
+    dbp = os.path.join(tmp, "procedures.db")
+    db = ProcedureDatabase(db_path=dbp)
+    cat = db.add_category("Test")
+    pid = db.add_procedure("Casing Run Proc", cat,
+                           linked_well_id="W-100",
+                           linked_section="12.25 in hole",
+                           linked_risk_ids="[3, 7]")
+    # role round-trip on steps
+    db.add_step(pid, "Supervise casing running", role="Supervisor",
+                hold_point=True)
+    s = db.get_steps(pid)[0]
+    ok(s.role == "Supervisor", "step role round-trip")
+    # links round-trip
+    rec = db.get_procedure(pid)
+    ok(rec.linked_well_id == "W-100", "linked well round-trip")
+    ok(rec.linked_section == "12.25 in hole", "linked section round-trip")
+    ok("3" in rec.linked_risk_ids and "7" in rec.linked_risk_ids,
+       "linked risks round-trip")
+    ok(db.get_links(pid)["well_id"] == "W-100", "get_links well")
+    ok(db.get_links(pid)["risk_ids"] == [3, 7], "get_links risks")
+    # query procedures_for_well
+    found = db.procedures_for_well("W-100")
+    ok(len(found) == 1 and found[0].name == "Casing Run Proc",
+       "procedures_for_well finds linked procedure")
+    ok(db.procedures_for_well("OTHER") == [], "other well -> none")
+    # update links
+    db.link_well(pid, "W-200", "8.5 in section")
+    db.link_risks(pid, [1])
+    rec2 = db.get_procedure(pid)
+    ok(rec2.linked_well_id == "W-200", "link_well update")
+    ok(rec2.linked_risk_ids == "[1]", "link_risks update")
+    db.close()
+    import shutil
+    shutil.rmtree(tmp, ignore_errors=True)
+
+
 def test_neutralize_words():
     print("\n[5] NEUTRALIZE — ordinary English preserved")
     from wizard_engine import neutralize_text
@@ -257,6 +298,7 @@ if __name__ == "__main__":
     test_register()
     test_neutralize_words()
     test_structured_steps()
+    test_procedure_linking()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

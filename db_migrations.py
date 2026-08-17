@@ -30,6 +30,11 @@ MIGRATIONS = {
         (10, "ALTER TABLE procedure_steps ADD COLUMN acceptance TEXT DEFAULT ''"),
         (11, "ALTER TABLE procedure_steps ADD COLUMN hold_point INTEGER DEFAULT 0"),
         (12, "ALTER TABLE procedure_steps ADD COLUMN witness_point INTEGER DEFAULT 0"),
+        (13, "ALTER TABLE procedure_steps ADD COLUMN role TEXT DEFAULT ''"),
+        # Procedure <-> Well / Risk linking (audit P1)
+        (14, "ALTER TABLE procedures ADD COLUMN linked_well_id TEXT DEFAULT ''"),
+        (15, "ALTER TABLE procedures ADD COLUMN linked_section TEXT DEFAULT ''"),
+        (16, "ALTER TABLE procedures ADD COLUMN linked_risk_ids TEXT DEFAULT '[]'"),
     ],
     "cbs.db": [
         (2, "ALTER TABLE cbs_items ADD COLUMN vendor TEXT DEFAULT ''"),

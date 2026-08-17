@@ -350,6 +350,35 @@ def compute_register(values: Dict) -> List[Dict]:
         except Exception:
             pass
 
+    # ----- 14. Anti-collision separation factor -----------------------------
+    traj_md = pick("trajectory_table")
+    off_md = pick("offset_trajectory_table")
+    if traj_md:
+        try:
+            from engineering_anticollision import (parse_trajectory_markdown,
+                                                   parse_offset_trajectory_markdown,
+                                                   anti_collision_review)
+            ref = parse_trajectory_markdown(traj_md)
+            if len(ref) >= 2:
+                off = None
+                off_surface = (0.0, 0.0)
+                if off_md:
+                    off, off_surface = parse_offset_trajectory_markdown(off_md)
+                rev = anti_collision_review(ref, off,
+                                            off_surface=off_surface)
+                if rev["status"] not in ("NO_OFFSET", "NO_OVERLAP"):
+                    rows.append({
+                        "param": "Anti-collision minimum separation factor",
+                        "formula": "SF = C2C / (EoU₁ + EoU₂), "
+                                   "EoU = tan(0.25°) × MD",
+                        "inputs": f"closest approach = {_fmt(rev['min_c2c'], 1)} ft "
+                                  f"at MD {_fmt(rev['min_c2c_md'], 0)} ft",
+                        "result": str(rev["min_sf"]), "unit": "—",
+                        "standard": "OWSG / industry practice (SF ≥ 1.5)",
+                        "status": rev["status"]})
+        except Exception:
+            pass
+
     return rows
 
 

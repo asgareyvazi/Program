@@ -36,6 +36,7 @@ class ProcedureStep:
     acceptance: str = ""
     hold_point: bool = False
     witness_point: bool = False
+    role: str = ""          # responsible role (Driller, Supervisor, ...)
 
 
 @dataclass
@@ -69,6 +70,10 @@ class ProcedureRecord:
     steps: List[ProcedureStep] = field(default_factory=list)
     checklist: List[ChecklistItem] = field(default_factory=list)
     tags: str = ""
+    # Procedure <-> Well / Risk linking (audit P1)
+    linked_well_id: str = ""
+    linked_section: str = ""
+    linked_risk_ids: str = "[]"
 
 
 @dataclass
@@ -310,6 +315,12 @@ class ProcedureDatabase:
                 created_date=r['created_date'] or '',
                 modified_date=r['modified_date'] or '',
                 version=r['version'] or 1,
+                linked_well_id=r['linked_well_id']
+                if 'linked_well_id' in r.keys() else '',
+                linked_section=r['linked_section']
+                if 'linked_section' in r.keys() else '',
+                linked_risk_ids=r['linked_risk_ids']
+                if 'linked_risk_ids' in r.keys() else '[]',
             )
             results.append(rec)
         return results
@@ -336,6 +347,12 @@ class ProcedureDatabase:
             created_date=row['created_date'] or '',
             modified_date=row['modified_date'] or '',
             version=row['version'] or 1,
+            linked_well_id=row['linked_well_id']
+            if 'linked_well_id' in row.keys() else '',
+            linked_section=row['linked_section']
+            if 'linked_section' in row.keys() else '',
+            linked_risk_ids=row['linked_risk_ids']
+            if 'linked_risk_ids' in row.keys() else '[]',
         )
 
         # Load steps
@@ -350,7 +367,15 @@ class ProcedureDatabase:
             text=s['text'],
             is_header=bool(s['is_header']),
             is_note=bool(s['is_note']),
-            is_warning=bool(s['is_warning'])
+            is_warning=bool(s['is_warning']),
+            precondition=s['precondition'] if 'precondition' in s.keys()
+            else '',
+            acceptance=s['acceptance'] if 'acceptance' in s.keys() else '',
+            hold_point=bool(s['hold_point']) if 'hold_point' in s.keys()
+            else False,
+            witness_point=bool(s['witness_point'])
+            if 'witness_point' in s.keys() else False,
+            role=s['role'] if 'role' in s.keys() else '',
         ) for s in steps]
 
         # Load checklist
@@ -377,7 +402,10 @@ class ProcedureDatabase:
                       description: str = "",
                       has_checklist: bool = True,
                       inputs_json: str = "[]",
-                      tags: str = "") -> int:
+                      tags: str = "",
+                      linked_well_id: str = "",
+                      linked_section: str = "",
+                      linked_risk_ids: str = "[]") -> int:
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         key = name.lower().replace(' ', '_').replace('/', '_')
         key = ''.join(c for c in key if c.isalnum() or c == '_')
@@ -392,10 +420,13 @@ class ProcedureDatabase:
             "INSERT INTO procedures "
             "(proc_key, name, category_id, description, has_checklist, "
             "is_builtin, is_active, inputs_json, tags, "
-            "created_date, modified_date, version) "
-            "VALUES (?, ?, ?, ?, ?, 0, 1, ?, ?, ?, ?, 1)",
+            "created_date, modified_date, version, "
+            "linked_well_id, linked_section, linked_risk_ids) "
+            "VALUES (?, ?, ?, ?, ?, 0, 1, ?, ?, ?, ?, 1, ?, ?, ?)",
             (key, name, category_id, description, int(has_checklist),
-             inputs_json, tags, now, now)
+             inputs_json, tags, now, now,
+             linked_well_id or "", linked_section or "",
+             linked_risk_ids or "[]")
         )
         self.conn.commit()
         return cur.lastrowid
@@ -463,7 +494,10 @@ class ProcedureDatabase:
                          description: str = None,
                          has_checklist: bool = None,
                          inputs_json: str = None,
-                         tags: str = None):
+                         tags: str = None,
+                         linked_well_id: str = None,
+                         linked_section: str = None,
+                         linked_risk_ids: str = None):
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         fields = []
         params = []
@@ -473,6 +507,15 @@ class ProcedureDatabase:
             params.append(name)
         if category_id is not None:
             fields.append("category_id=?")
+        if linked_well_id is not None:
+            fields.append("linked_well_id=?")
+            params.append(linked_well_id)
+        if linked_section is not None:
+            fields.append("linked_section=?")
+            params.append(linked_section)
+        if linked_risk_ids is not None:
+            fields.append("linked_risk_ids=?")
+            params.append(linked_risk_ids)
             params.append(category_id)
         if description is not None:
             fields.append("description=?")
@@ -517,6 +560,73 @@ class ProcedureDatabase:
             "UPDATE procedures SET is_active=1 WHERE id=?",
             (proc_id,))
         self.conn.commit()
+
+    # ================================================================
+    # PROCEDURE <-> WELL / RISK LINKING (audit P1)
+    # ================================================================
+
+    def link_well(self, proc_id: int, well_id: str = "",
+                  section: str = "") -> bool:
+        """Link the procedure to a canonical well (wells.db id or name)
+        and an optional well section."""
+        self.conn.execute(
+            "UPDATE procedures SET linked_well_id=?, linked_section=? "
+            "WHERE id=?",
+            (well_id or "", section or "", proc_id))
+        self.conn.commit()
+        return True
+
+    def link_risks(self, proc_id: int, risk_ids: List[int]) -> bool:
+        """Link the procedure to drilling-problem/risk records."""
+        self.conn.execute(
+            "UPDATE procedures SET linked_risk_ids=? WHERE id=?",
+            (json.dumps([int(i) for i in risk_ids]), proc_id))
+        self.conn.commit()
+        return True
+
+    def get_links(self, proc_id: int) -> Dict:
+        row = self.conn.execute(
+            "SELECT linked_well_id, linked_section, linked_risk_ids "
+            "FROM procedures WHERE id=?", (proc_id,)).fetchone()
+        if not row:
+            return {"well_id": "", "section": "", "risk_ids": []}
+        try:
+            risk_ids = json.loads(row['linked_risk_ids'] or "[]")
+        except Exception:
+            risk_ids = []
+        return {"well_id": row['linked_well_id'] or "",
+                "section": row['linked_section'] or "",
+                "risk_ids": [int(i) for i in risk_ids]}
+
+    def procedures_for_well(self, well_id: str) -> List[ProcedureRecord]:
+        """All procedures linked to a canonical well id/name."""
+        rows = self.conn.execute(
+            "SELECT p.*, c.name as cat_name FROM procedures p "
+            "LEFT JOIN categories c ON p.category_id = c.id "
+            "WHERE p.is_active=1 AND p.linked_well_id=? "
+            "ORDER BY p.name", (well_id,)).fetchall()
+        out = []
+        for r in rows:
+            out.append(ProcedureRecord(
+                id=r['id'], proc_key=r['proc_key'], name=r['name'],
+                category_id=r['category_id'] or 0,
+                category_name=r['cat_name'] or '',
+                description=r['description'] or '',
+                has_checklist=bool(r['has_checklist']),
+                is_builtin=bool(r['is_builtin']),
+                is_active=bool(r['is_active']),
+                inputs_json=r['inputs_json'] or '[]',
+                tags=r['tags'] or '',
+                created_date=r['created_date'] or '',
+                modified_date=r['modified_date'] or '',
+                version=r['version'] or 1,
+                linked_well_id=r['linked_well_id']
+                if 'linked_well_id' in r.keys() else '',
+                linked_section=r['linked_section']
+                if 'linked_section' in r.keys() else '',
+                linked_risk_ids=r['linked_risk_ids']
+                if 'linked_risk_ids' in r.keys() else '[]'))
+        return out
 
     def duplicate_procedure(self, proc_id: int) -> int:
         rec = self.get_procedure(proc_id)
@@ -567,6 +677,7 @@ class ProcedureDatabase:
             else False,
             witness_point=bool(r['witness_point'])
             if 'witness_point' in r.keys() else False,
+            role=r['role'] if 'role' in r.keys() else '',
         ) for r in rows]
 
     def add_step(self, proc_id: int, text: str,
@@ -577,7 +688,8 @@ class ProcedureDatabase:
                  precondition: str = "",
                  acceptance: str = "",
                  hold_point: bool = False,
-                 witness_point: bool = False) -> int:
+                 witness_point: bool = False,
+                 role: str = "") -> int:
         # Get next step number
         row = self.conn.execute(
             "SELECT COALESCE(MAX(step_number), 0) + 1 as next_num "
@@ -589,12 +701,12 @@ class ProcedureDatabase:
             "INSERT INTO procedure_steps "
             "(procedure_id, step_number, indent_level, text, "
             "is_header, is_note, is_warning, precondition, acceptance, "
-            "hold_point, witness_point) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "hold_point, witness_point, role) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (proc_id, next_num, indent_level, text,
              int(is_header), int(is_note), int(is_warning),
              precondition or "", acceptance or "",
-             int(hold_point), int(witness_point))
+             int(hold_point), int(witness_point), role or "")
         )
         self.conn.commit()
         return cur.lastrowid
@@ -607,7 +719,8 @@ class ProcedureDatabase:
                     precondition: str = None,
                     acceptance: str = None,
                     hold_point: bool = None,
-                    witness_point: bool = None):
+                    witness_point: bool = None,
+                    role: str = None):
         fields = []
         params = []
         if text is not None:
@@ -637,6 +750,9 @@ class ProcedureDatabase:
         if witness_point is not None:
             fields.append("witness_point=?")
             params.append(int(witness_point))
+        if role is not None:
+            fields.append("role=?")
+            params.append(role)
 
         if fields:
             params.append(step_id)
@@ -668,8 +784,8 @@ class ProcedureDatabase:
                 "INSERT INTO procedure_steps "
                 "(procedure_id, step_number, indent_level, text, "
                 "is_header, is_note, is_warning, precondition, acceptance, "
-                "hold_point, witness_point) "
-                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                "hold_point, witness_point, role) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                 (proc_id, idx + 1,
                  step.get('indent', 0),
                  step.get('text', ''),
@@ -679,7 +795,8 @@ class ProcedureDatabase:
                  step.get('precondition', '') or '',
                  step.get('acceptance', '') or '',
                  int(step.get('hold_point', False)),
-                 int(step.get('witness_point', False)))
+                 int(step.get('witness_point', False)),
+                 step.get('role', '') or '')
             )
         self.conn.commit()
 
@@ -1632,7 +1749,8 @@ class StepEditorDialog(QDialog):
     def __init__(self, step_text="", indent=0, is_header=False,
                  is_note=False, is_warning=False,
                  precondition="", acceptance="",
-                 hold_point=False, witness_point=False, parent=None):
+                 hold_point=False, witness_point=False, role="",
+                 parent=None):
         super().__init__(parent)
         self.setWindowTitle("Edit Step")
         self.setMinimumSize(560, 460)
@@ -1682,6 +1800,16 @@ class StepEditorDialog(QDialog):
         self.txt_acc.setPlainText(acceptance)
         self.txt_acc.setMaximumHeight(50)
         form.addRow("Acceptance criteria:", self.txt_acc)
+
+        self.cmb_role = QComboBox()
+        self.cmb_role.setEditable(True)
+        self.cmb_role.addItems(["", "Driller", "Toolpusher", "Supervisor",
+                                "Company Man", "Mud Engineer", "Cementer",
+                                "Derrickman", "Electrician", "Mechanic",
+                                "Safety Officer", "Mud Logger"])
+        if role:
+            self.cmb_role.setCurrentText(role)
+        form.addRow("Responsible role:", self.cmb_role)
 
         hp_row = QHBoxLayout()
         self.chk_hold = QCheckBox("🚧 Hold Point (stop for approval)")
@@ -1737,6 +1865,7 @@ class StepEditorDialog(QDialog):
             'acceptance': self.txt_acc.toPlainText().strip(),
             'hold_point': self.chk_hold.isChecked(),
             'witness_point': self.chk_wit.isChecked(),
+            'role': self.cmb_role.currentText().strip(),
         }
 
 
@@ -1791,6 +1920,43 @@ class ProcedureEditorDialog(QDialog):
         self.chk_checklist.setChecked(True)
         form.addRow("", self.chk_checklist)
 
+        # ---- Procedure <-> Well / Risk linking (audit P1) ----
+        link_row = QHBoxLayout()
+        self.cmb_well = QComboBox()
+        self.cmb_well.setEditable(True)
+        self.cmb_well.setPlaceholderText("Select / type well id or name...")
+        self._load_wells()
+        link_row.addWidget(self.cmb_well, 1)
+        btn_clear = QPushButton("✖")
+        btn_clear.setMaximumWidth(34)
+        btn_clear.setToolTip("Clear well link")
+        btn_clear.clicked.connect(
+            lambda: self.cmb_well.setCurrentIndex(0))
+        link_row.addWidget(btn_clear)
+        form.addRow("Linked Well:", link_row)
+
+        self.txt_section = QLineEdit()
+        self.txt_section.setPlaceholderText(
+            "e.g. 12.25 in hole section / 9.625 in casing run")
+        form.addRow("Linked Section:", self.txt_section)
+
+        risk_row = QHBoxLayout()
+        self.cmb_risk = QComboBox()
+        self.cmb_risk.setPlaceholderText("Select drilling risk...")
+        self._load_risks()
+        risk_row.addWidget(self.cmb_risk, 1)
+        btn_addrisk = QPushButton("➕")
+        btn_addrisk.setMaximumWidth(40)
+        btn_addrisk.setToolTip("Add selected risk to the link list")
+        btn_addrisk.clicked.connect(self._add_linked_risk)
+        risk_row.addWidget(btn_addrisk)
+        form.addRow("Linked Risks:", risk_row)
+
+        self.lbl_risks = QLabel("No linked risks.")
+        self.lbl_risks.setWordWrap(True)
+        self.lbl_risks.setStyleSheet("color:#8a8a9a;font-size:9px;")
+        form.addRow("", self.lbl_risks)
+
         grp_info.setLayout(form)
         layout.addWidget(grp_info)
 
@@ -1834,6 +2000,69 @@ class ProcedureEditorDialog(QDialog):
         sl.addWidget(self.steps_list)
 
         self.tabs.addTab(steps_widget, "📝 Steps")
+
+    def _load_wells(self):
+        """Populate the linked-well combo from the canonical wells DB."""
+        try:
+            from well_model import WellDatabase
+            wdb = WellDatabase()
+            wells = wdb.list_wells()
+            wdb.close()
+        except Exception:
+            wells = []
+        self.cmb_well.clear()
+        self.cmb_well.addItem("(none)", "")
+        for w in wells:
+            wid = w.get("id", "")
+            name = w.get("well_name", "") or w.get("name", "")
+            label = f"{name} [{wid}]" if wid else str(name)
+            self.cmb_well.addItem(label, wid)
+
+    def _load_risks(self):
+        """Populate the linked-risk combo from the drilling problems DB."""
+        try:
+            from drilling_problems_db import DrillingProblemsDatabase
+            pdb = DrillingProblemsDatabase()
+            probs = pdb.get_all()
+            pdb.close()
+        except Exception:
+            probs = []
+        self.cmb_risk.clear()
+        self.cmb_risk.addItem("(none)", None)
+        for p in probs or []:
+            pid = getattr(p, "id", None) or p.get("id") if isinstance(
+                p, dict) else getattr(p, "id", None)
+            name = (p.get("name") if isinstance(p, dict)
+                    else getattr(p, "name", ""))
+            self.cmb_risk.addItem(str(name), pid)
+
+    def _add_linked_risk(self):
+        rid = self.cmb_risk.currentData()
+        if not rid:
+            return
+        cur = json.loads(self.lbl_risks.property("risk_ids") or "[]")
+        if rid not in cur:
+            cur.append(rid)
+        self.lbl_risks.setProperty("risk_ids", json.dumps(cur))
+        names = self._risk_names(cur)
+        self.lbl_risks.setText("Linked risks: " + (", ".join(names)
+                               if names else "(none)"))
+
+    def _risk_names(self, ids):
+        try:
+            from drilling_problems_db import DrillingProblemsDatabase
+            pdb = DrillingProblemsDatabase()
+            by_id = {p.id: p.name for p in pdb.get_all()}
+            pdb.close()
+        except Exception:
+            by_id = {}
+        return [str(by_id.get(i, i)) for i in ids]
+
+    def _linked_risk_ids(self):
+        try:
+            return json.loads(self.lbl_risks.property("risk_ids") or "[]")
+        except Exception:
+            return []
 
         # ---- Checklist Tab ----
         cl_widget = QWidget()
@@ -1922,6 +2151,25 @@ class ProcedureEditorDialog(QDialog):
                 self.cmb_category.setCurrentIndex(i)
                 break
 
+        # Linked well / section / risks
+        if rec.linked_well_id:
+            for i in range(self.cmb_well.count()):
+                if str(self.cmb_well.itemData(i) or "") == \
+                        str(rec.linked_well_id):
+                    self.cmb_well.setCurrentIndex(i)
+                    break
+            else:
+                self.cmb_well.setEditText(rec.linked_well_id)
+        self.txt_section.setText(rec.linked_section)
+        try:
+            risk_ids = json.loads(rec.linked_risk_ids or "[]")
+        except Exception:
+            risk_ids = []
+        self.lbl_risks.setProperty("risk_ids", json.dumps(risk_ids))
+        names = self._risk_names(risk_ids)
+        self.lbl_risks.setText("Linked risks: " + (", ".join(names)
+                               if names else "(none)"))
+
         # Load steps
         for s in rec.steps:
             prefix = "  " * s.indent_level
@@ -1939,7 +2187,12 @@ class ProcedureEditorDialog(QDialog):
                 'indent': s.indent_level,
                 'is_header': s.is_header,
                 'is_note': s.is_note,
-                'is_warning': s.is_warning
+                'is_warning': s.is_warning,
+                'precondition': s.precondition,
+                'acceptance': s.acceptance,
+                'hold_point': s.hold_point,
+                'witness_point': s.witness_point,
+                'role': s.role,
             })
             self.steps_list.addItem(item)
 
@@ -1989,6 +2242,8 @@ class ProcedureEditorDialog(QDialog):
             badges += " 🚧HP"
         if data.get('witness_point'):
             badges += " 👁️WP"
+        if data.get('role'):
+            badges += f" [{data['role']}]"
         item = QListWidgetItem(f"{icon}{prefix}{data['text']}{badges}")
         item.setData(Qt.UserRole, data)
         return item
@@ -2010,6 +2265,7 @@ class ProcedureEditorDialog(QDialog):
             acceptance=data.get('acceptance', ''),
             hold_point=data.get('hold_point', False),
             witness_point=data.get('witness_point', False),
+            role=data.get('role', ''),
             parent=self
         )
         if dlg.exec() == QDialog.Accepted:
@@ -2099,15 +2355,31 @@ class ProcedureEditorDialog(QDialog):
             if data and data.get('text'):
                 checklist.append(data)
 
+        # Linked well / section / risks (audit P1)
+        linked_well = ""
+        if self.cmb_well.currentIndex() > 0:
+            linked_well = str(self.cmb_well.currentData() or "")
+        elif self.cmb_well.currentText().strip() and \
+                self.cmb_well.currentText().strip() != "(none)":
+            linked_well = self.cmb_well.currentText().strip()
+        linked_section = self.txt_section.text().strip()
+        linked_risk_ids = json.dumps(self._linked_risk_ids())
+
         try:
             if self.is_new:
                 self.proc_id = self.db.add_procedure(
                     name=name, category_id=cat_id,
-                    description=desc, has_checklist=has_cl, tags=tags)
+                    description=desc, has_checklist=has_cl, tags=tags,
+                    linked_well_id=linked_well,
+                    linked_section=linked_section,
+                    linked_risk_ids=linked_risk_ids)
             else:
                 self.db.update_procedure(
                     self.proc_id, name=name, category_id=cat_id,
-                    description=desc, has_checklist=has_cl, tags=tags)
+                    description=desc, has_checklist=has_cl, tags=tags,
+                    linked_well_id=linked_well,
+                    linked_section=linked_section,
+                    linked_risk_ids=linked_risk_ids)
 
             # Save steps
             self.db.replace_all_steps(self.proc_id, steps)
@@ -2498,6 +2770,9 @@ class ProcedureManagerDialog(QDialog):
             if s.acceptance:
                 html += (f"<p style='margin:0 0 1px 12px;font-size:9px;"
                          f"color:#1e8449'>✓ Acceptance: {s.acceptance}</p>")
+            if s.role:
+                html += (f"<p style='margin:0 0 1px 12px;font-size:9px;"
+                         f"color:#2e86c1'>👤 Role: {s.role}</p>")
         self.preview_proc.setHtml(html)
 
         # Checklist preview
@@ -2528,6 +2803,16 @@ class ProcedureManagerDialog(QDialog):
             f"<b>Modified:</b> {rec.modified_date}<br>"
             f"<b>Version:</b> {rec.version}"
         )
+        if rec.linked_well_id or rec.linked_section:
+            info += (f"<br><b>Linked Well:</b> {rec.linked_well_id or '—'}"
+                     f"{' / ' + rec.linked_section if rec.linked_section else ''}<br>")
+        try:
+            risk_ids = json.loads(rec.linked_risk_ids or "[]")
+        except Exception:
+            risk_ids = []
+        if risk_ids:
+            names = self._risk_names(risk_ids)
+            info += (f"<b>Linked Risks:</b> {', '.join(names)}<br>")
         self.preview_info.setHtml(info)
 
         # Inputs preview
@@ -2979,6 +3264,14 @@ class ProcedureManagerDialog(QDialog):
                         hr1.bold = True
                         hr1.font.size = Pt(9)
                         hr1.font.color.rgb = RGBColor(0xC0, 0x39, 0x2B)
+                    if s.role:
+                        pr_ = doc.add_paragraph()
+                        pr_.paragraph_format.left_indent = Cm(
+                            0.5 + s.indent_level * 0.5)
+                        pr_.paragraph_format.space_after = Pt(4)
+                        rr1 = pr_.add_run(f"👤 Responsible: {s.role}")
+                        rr1.font.size = Pt(9)
+                        rr1.font.color.rgb = RGBColor(0x2E, 0x86, 0xC1)
 
                 # ---- CHECKLIST ----
                 if rec.checklist:

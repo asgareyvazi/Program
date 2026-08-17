@@ -287,8 +287,72 @@ def test_structured_steps():
     approx(bool(ss.acceptance), True, 0, "acceptance extracted")
 
 
+def test_anticollision():
+    print("\n[19] ANTI-COLLISION (minimum curvature + separation factor)")
+    import math as _m
+    from engineering_anticollision import (min_curvature_positions,
+                                           anti_collision_review,
+                                           parse_trajectory_markdown,
+                                           anti_collision_markdown)
+    # vertical well: TVD = MD, no displacement
+    vert = [(0, 0, 0), (2000, 0, 0), (4000, 0, 0), (6000, 0, 0)]
+    pos = min_curvature_positions(vert)
+    approx(pos[-1][1], 6000, 1e-6, "vertical TVD=MD")
+    approx(pos[-1][2], 0.0, 1e-6, "vertical N=0")
+    approx(pos[-1][3], 0.0, 1e-6, "vertical E=0")
+    # constant build 1.5 deg/100ft to 30 deg @ azi 90: R=3820 ft
+    #   TVD = R·sin30 = 1910 ; E = R·(1−cos30) = 511.75
+    build = [(0, 0, 90), (1000, 15, 90), (2000, 30, 90)]
+    pos2 = min_curvature_positions(build)
+    approx(pos2[-1][1], 1910.0, 0.02 * 1910.0, "build TVD (R·sinθ)")
+    approx(pos2[-1][3], 511.75, 0.02 * 511.75, "build E (R·(1−cosθ))")
+    # identical wells -> SF = 0 -> FAIL
+    rev = anti_collision_review(build, build)
+    approx(rev["min_sf"], 0.0, 1e-6, "identical wells SF=0")
+    approx(rev["status"], "FAIL", 0, "identical wells FAIL")
+    # markdown parse
+    md_tbl = ("| MD (ft) | Inc (°) | Az (°) |\n"
+              "|---|---|---|\n"
+              "| 0 | 0 | 90 |\n"
+              "| 1000 | 15 | 90 |\n"
+              "| 2000 | 30 | 90 |\n")
+    st = parse_trajectory_markdown(md_tbl)
+    approx(len(st), 3, 0, "parse 3 stations")
+    approx(st[-1][0], 2000.0, 1e-6, "parse MD")
+    approx(st[-1][1], 30.0, 1e-6, "parse inc")
+    approx(st[-1][2], 90.0, 1e-6, "parse azi")
+    # section markdown
+    mkd = anti_collision_markdown(build, build)
+    approx("ANTI-COLLISION REVIEW" in mkd, True, 0, "section heading")
+    approx("FAIL" in mkd, True, 0, "section status")
+    # offset well with surface offset (adjacent slot) vs build well:
+    # offset vertical at N0=200, E0=0; ref build (30deg @ azi 90) to 3000 ft.
+    # ref at 3000: TVD=2776, E=1011.75; offset at (3000, 200, 0)
+    # c2c = sqrt(224^2 + 200^2 + 1011.75^2) ~= 1055.4 ft
+    # EoU = tan(0.25deg)*3000 = 13.09 -> SF ~= 40.3
+    from engineering_anticollision import (parse_offset_trajectory_markdown,
+                                           anti_collision_markdown)
+    off_tbl = ("| MD (ft) | Inc (°) | Az (°) | N0 (ft) | E0 (ft) |\n"
+               "|---|---|---|---|---|\n"
+               "| 0 | 0 | 0 | 200 | 0 |\n"
+               "| 1500 | 0 | 0 | 200 | 0 |\n"
+               "| 3000 | 0 | 0 | 200 | 0 |\n")
+    off_st, off_surf = parse_offset_trajectory_markdown(off_tbl)
+    approx(off_surf[0], 200.0, 1e-6, "surface offset N0 parsed")
+    approx(off_surf[1], 0.0, 1e-6, "surface offset E0 parsed")
+    approx(len(off_st), 3, 0, "offset stations parsed")
+    ref3 = [(0, 0, 90), (1000, 15, 90), (2000, 30, 90), (3000, 30, 90)]
+    rev3 = anti_collision_review(ref3, off_st, off_surface=off_surf)
+    approx(rev3["status"], "OK", 0, "slot-separated wells OK")
+    # analytic minimum SF ~ 27 at ~1500 ft (c2c~355 ft / EoU-sum~13.1 ft)
+    approx(rev3["min_sf"], 27.0, 1.5, "min SF over well ~ 27")
+    approx(rev3["min_c2c"], 200.0, 10.0, "closest approach ~ slot spacing")
+    mkd3 = anti_collision_markdown(ref3, off_st, off_surface=off_surf)
+    approx("Surface offset" in mkd3, True, 0, "offset noted in section")
+
+
 def test_afe_materials():
-    print("\n[19] AFE vs ACTUAL + MATERIAL READINESS")
+    print("\n[20] AFE vs ACTUAL + MATERIAL READINESS")
     from operations_engine import LessonsDatabase
     db = LessonsDatabase()
     db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
@@ -337,7 +401,7 @@ def main():
                test_readiness_and_ops, test_planning_intelligence,
                test_entity_scrub, test_compliance, test_risk_decision,
                test_standards, test_deep_engineering,
-               test_structured_steps, test_afe_materials,
+               test_structured_steps, test_anticollision, test_afe_materials,
                test_backup_secrets, test_well_report):
         try:
             fn()

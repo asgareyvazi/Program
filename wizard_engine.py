@@ -1457,6 +1457,15 @@ class _InputsPage(QWizardPage):
                       group="Engineering Basis"),
             InputSpec("rpm", "Rotary Speed", "number", unit="rpm",
                       group="Engineering Basis"),
+            InputSpec("trajectory_table", "Well Trajectory (MD | Inc | Az)",
+                      "table", columns=["MD (ft)", "Inc (°)", "Az (°)"],
+                      group="Engineering Basis"),
+            InputSpec("offset_trajectory_table",
+                      "Offset Well Trajectory + Surface Offset (for "
+                      "anti-collision)", "table",
+                      columns=["MD (ft)", "Inc (°)", "Az (°)",
+                               "N0 (ft)", "E0 (ft)"],
+                      group="Engineering Basis"),
             InputSpec("total_cost", "Estimated Total Cost", "number",
                       placeholder="e.g. 12000000", group="Engineering Basis"),
         ]

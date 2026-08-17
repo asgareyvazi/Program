@@ -22,6 +22,14 @@ ROOT = os.path.dirname(HERE)
 ENV = dict(os.environ)
 ENV.setdefault("QT_QPA_PLATFORM", "offscreen")
 ENV["PYTHONPATH"] = ROOT + os.pathsep + ENV.get("PYTHONPATH", "")
+# Windows console compatibility: child suites print Unicode (✔/✘); force
+# UTF-8 so captured output never crashes with UnicodeEncodeError.
+ENV["PYTHONIOENCODING"] = "utf-8"
+ENV["PYTHONUTF8"] = "1"
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 SUITES = [
     ("Engineering reference tests", "test_engineering_reference.py"),

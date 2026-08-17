@@ -19,13 +19,29 @@ from pathlib import Path
 
 APP_DIR = Path.home() / ".drilling_program"
 
+# Windows console compatibility: force UTF-8 for our own prints (✔/✘/⚠)
+# regardless of the console codepage (cp1252 on Windows).
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
+# Child seed scripts print Unicode (✔ etc.); when their stdout is a pipe
+# (captured), Windows would otherwise crash with UnicodeEncodeError.
+CHILD_ENV = dict(os.environ)
+CHILD_ENV["PYTHONIOENCODING"] = "utf-8"
+CHILD_ENV["PYTHONUTF8"] = "1"
+
 
 def _run(module: str, *args: str) -> bool:
     cmd = [sys.executable, f"{module}.py"] + list(args)
     print(f"  ▶ {module} {' '.join(args)}")
     try:
-        r = subprocess.run(cmd, cwd=os.path.dirname(os.path.abspath(__file__)),
-                           capture_output=True, text=True, timeout=900)
+        r = subprocess.run(
+            cmd, cwd=os.path.dirname(os.path.abspath(__file__)),
+            capture_output=True, text=True, timeout=900, env=CHILD_ENV,
+            encoding="utf-8", errors="replace")
     except Exception as e:
         print(f"    ✘ {e}")
         return False

@@ -16,6 +16,7 @@
 import base64
 import os
 import sys
+import tempfile
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -88,7 +89,8 @@ def main():
     # docx bytes are valid
     docx_bytes = base64.b64decode(data["docx_base64"])
     ok(docx_bytes[:2] == b"PK", "docx is a valid zip (PK header)")
-    tmp = os.path.join("/tmp", "api_gen_test.docx")
+    tmp = os.path.join(tempfile.mkdtemp(prefix="drl_api_"),
+                       "api_gen_test.docx")
     with open(tmp, "wb") as f:
         f.write(docx_bytes)
     from docx import Document

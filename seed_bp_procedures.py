@@ -143,6 +143,10 @@ def seed(force: bool = False):
             print(f"✔ BP procedures already seeded ({existing}) — "
                   f"use --force to re-seed.")
             return
+        if force and existing:
+            db.conn.execute(
+                "DELETE FROM procedures WHERE proc_key LIKE 'bp_%'")
+            db.conn.commit()
 
         def cat_id(name):
             for c in db.get_all_categories():

@@ -270,6 +270,12 @@ def seed(force: bool = False):
             print(f"✔ pp2 procedures already seeded ({existing}) — "
                   f"use --force to re-seed.")
             return
+        if force and existing:
+            # clean re-seed: remove previous rows so proc_key updates
+            # never collide with stale records
+            db.conn.execute(
+                "DELETE FROM procedures WHERE proc_key LIKE 'pp2_%'")
+            db.conn.commit()
 
         # categories
         def cat_id(name):

@@ -2990,6 +2990,12 @@ class DrillingProgramMainWindow(QMainWindow):
 
         file_menu.addSeparator()
 
+        rev_action = QAction("🕘 Project Revisions (Restore)...", self)
+        rev_action.triggered.connect(self._show_project_revisions)
+        file_menu.addAction(rev_action)
+
+        file_menu.addSeparator()
+
         export_action = QAction("📤 Export to Word", self)
         export_action.setShortcut("Ctrl+E")
         export_action.triggered.connect(self.generate_document)
@@ -3206,7 +3212,7 @@ class DrillingProgramMainWindow(QMainWindow):
                                  f"{traceback.format_exc()[-300:]}")
 
     def _show_backup(self):
-        """پشتیبانگیری / بازیابی دیتابیسها"""
+        """پشتیبانگیری / بازیابی دیتابیسها (با پشتیبانی رمزنگاری)"""
         try:
             from backup_restore import (create_backup, list_backups,
                                         restore_backup)
@@ -3218,19 +3224,55 @@ class DrillingProgramMainWindow(QMainWindow):
             from PySide6.QtWidgets import QInputDialog
             choice, ok = QInputDialog.getItem(
                 self, "Backup / Restore",
-                "Select a backup to restore (or Cancel to create a new one):",
+                "Select a backup to restore (or Cancel to create a new one):\n\n"
+                "🔒 = password-protected (encrypted at rest)",
                 names, 0, False)
             if ok and choice:
-                res = restore_backup(choice)
+                password = None
+                if choice.endswith(".enc"):
+                    password, pok = QInputDialog.getText(
+                        self, "Encrypted Backup",
+                        "Enter the backup password:", QLineEdit.Password)
+                    if not pok:
+                        return
+                res = restore_backup(choice, password=password)
+                if res.get("error"):
+                    QMessageBox.critical(self, "Restore",
+                                         f"Failed: {res['error']}")
+                    return
                 n_ok = sum(1 for v in res.values() if v)
                 QMessageBox.information(
                     self, "Restore",
                     f"Restored {n_ok}/{len(res)} files from {choice}")
             else:
-                b = create_backup()
+                enc, eok = QMessageBox.question(
+                    self, "Backup",
+                    "Create a password-protected (encrypted) backup?\n\n"
+                    "Yes = encrypted .enc archive   |   No = plain folder",
+                    QMessageBox.Yes | QMessageBox.No | QMessageBox.Cancel)
+                if enc == QMessageBox.Cancel:
+                    return
+                password = None
+                if enc == QMessageBox.Yes:
+                    p1, ok1 = QInputDialog.getText(
+                        self, "Encrypted Backup",
+                        "Set a password for the backup:",
+                        QLineEdit.Password)
+                    if not ok1 or not p1:
+                        return
+                    p2, ok2 = QInputDialog.getText(
+                        self, "Confirm Password",
+                        "Repeat the password:", QLineEdit.Password)
+                    if not ok2 or p1 != p2:
+                        QMessageBox.warning(self, "Backup",
+                                            "Passwords do not match.")
+                        return
+                    password = p1
+                b = create_backup(password=password)
                 QMessageBox.information(
                     self, "Backup",
-                    f"Backup created: {b.name if b else 'failed'}")
+                    f"Backup created: {b.name if b else 'failed'}"
+                    + (" (encrypted 🔒)" if password else ""))
         except Exception as e:
             import traceback
             QMessageBox.critical(self, "Backup", f"{e}\n\n"
@@ -3594,6 +3636,70 @@ class DrillingProgramMainWindow(QMainWindow):
                 self._load_project_from_dict(proj_data['data'])
                 self.statusBar().showMessage(
                     f"✅ Loaded: {proj_data.get('name', project_id)}")
+        except Exception as e:
+            QMessageBox.critical(self, "Error", str(e))
+
+    def _show_project_revisions(self):
+        """List a project's revision snapshots and restore one (buyer Q4)."""
+        try:
+            from drilling_database import DrillingProjectDatabase
+            db = DrillingProjectDatabase()
+            projects = db.get_all_projects()
+            if not projects:
+                QMessageBox.information(
+                    self, "No Projects",
+                    "No saved projects found. Save a project first, then "
+                    "every save creates a restorable revision snapshot.")
+                db.close()
+                return
+            items = [f"{p['name']} | {p['well_name']} | {p['modified']}"
+                     for p in projects]
+            item, ok = QInputDialog.getItem(self, "Select Project",
+                                            "Project:", items, 0, False)
+            if not ok:
+                db.close()
+                return
+            idx = items.index(item)
+            pid = projects[idx]['id']
+            revs = db.list_revisions(pid)
+            if not revs:
+                QMessageBox.information(
+                    self, "No Revisions",
+                    "This project has no revision snapshots yet.")
+                db.close()
+                return
+            rev_items = [f"Rev {r['revision']} | {r['created_date']} | "
+                         f"{r['note']}" for r in revs]
+            rev_item, ok2 = QInputDialog.getItem(
+                self, "Restore Revision",
+                "Restoring replaces the current project data with the "
+                "selected version (current data is kept as a new "
+                "snapshot):\n\nSelect a revision:", rev_items, 0, False)
+            if ok2 and rev_item:
+                r = revs[rev_items.index(rev_item)]
+                ret = QMessageBox.question(
+                    self, "Confirm Restore",
+                    f"Restore revision {r['revision']} "
+                    f"({r['created_date']})?\n\n"
+                    "The current project state will be snapshotted first.",
+                    QMessageBox.Yes | QMessageBox.No)
+                if ret == QMessageBox.Yes:
+                    cur = db.load_project(pid)
+                    if cur and cur.get('data'):
+                        db._snapshot(pid, json.dumps(
+                            cur['data'], ensure_ascii=False), "Pre-restore")
+                    if db.restore_revision(pid, r['revision']):
+                        self._open_project_by_id(pid)
+                        self.statusBar().showMessage(
+                            f"✅ Restored revision {r['revision']}")
+                        QMessageBox.information(
+                            self, "Restored",
+                            f"Project restored to revision "
+                            f"{r['revision']} ({r['created_date']}).")
+                    else:
+                        QMessageBox.critical(self, "Restore Failed",
+                                             "Revision not found.")
+            db.close()
         except Exception as e:
             QMessageBox.critical(self, "Error", str(e))
 

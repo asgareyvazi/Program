@@ -3,14 +3,19 @@
 # File: backup_restore.py
 # Audit items (P2):
 #   - Backup/restore & disaster recovery for all SQLite DBs + settings
+#   - Encryption at rest: password-protected backups (Fernet + PBKDF2-SHA256)
 #   - Secrets management: API keys should NOT sit in a plain JSON file;
 #     this module offers OS-keyring storage when available and warns
 #     otherwise.
 # ============================================================================
 
+import base64
+import io
 import json
+import os
 import shutil
 import sqlite3
+import zipfile
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -24,6 +29,18 @@ DB_NAMES = ["procedures.db", "cbs.db", "problems.db", "catalog.db",
             "operations.db"]
 # JSON settings to back up
 SETTINGS_FILES = ["llm_settings.json", "users.json"]
+
+ENC_MAGIC = b"DRL1"      # encrypted backup header
+_SALT_SIZE = 16
+
+
+def _derive_key(password: str, salt: bytes) -> bytes:
+    """PBKDF2-HMAC-SHA256 key derivation (200k iterations)."""
+    from cryptography.hazmat.primitives import hashes
+    from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+    kdf = PBKDF2HMAC(algorithm=hashes.SHA256(), length=32,
+                     salt=salt, iterations=200_000)
+    return base64.urlsafe_b64encode(kdf.derive(password.encode("utf-8")))
 
 
 # ---------------------------------------------------------------------------
@@ -50,8 +67,13 @@ def _safe_copy(src: Path, dst: Path) -> bool:
             return False
 
 
-def create_backup(tag: str = "") -> Optional[Path]:
-    """Snapshot all DBs + settings into a timestamped backup folder."""
+def create_backup(tag: str = "", password: Optional[str] = None) -> Optional[Path]:
+    """Snapshot all DBs + settings into a timestamped backup folder.
+
+    When a password is given, the whole backup is encrypted at rest into a
+    single .enc archive (Fernet + PBKDF2-SHA256, 200k iterations) and the
+    plain folder is removed.
+    """
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
     name = f"backup_{ts}" + (f"_{tag}" if tag else "")
     target = BACKUP_DIR / name
@@ -75,7 +97,69 @@ def create_backup(tag: str = "") -> Optional[Path]:
     (target / "manifest.json").write_text(
         json.dumps({"created": ts, "files": manifest}, indent=1),
         encoding="utf-8")
+    if password:
+        return _encrypt_backup_folder(target, password)
     return target
+
+
+# ---------------------------------------------------------------------------
+# ENCRYPTION AT REST
+# ---------------------------------------------------------------------------
+
+def _encrypt_backup_folder(folder: Path, password: str) -> Path:
+    """Zip the backup folder and encrypt it (Fernet). Removes the plain
+    folder. Returns the .enc path."""
+    from cryptography.fernet import Fernet
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
+        for f in sorted(folder.iterdir()):
+            if f.is_file():
+                z.write(f, f.name)
+    salt = os.urandom(_SALT_SIZE)
+    key = _derive_key(password, salt)
+    token = Fernet(key).encrypt(buf.getvalue())
+    out = folder.with_name(folder.name + ".enc")
+    out.write_bytes(ENC_MAGIC + salt + token)
+    shutil.rmtree(folder)
+    return out
+
+
+def _decrypt_backup(payload: bytes, password: str) -> bytes:
+    from cryptography.fernet import Fernet, InvalidToken
+    if not payload.startswith(ENC_MAGIC):
+        raise ValueError("not an encrypted backup (missing header)")
+    salt = payload[len(ENC_MAGIC):len(ENC_MAGIC) + _SALT_SIZE]
+    token = payload[len(ENC_MAGIC) + _SALT_SIZE:]
+    key = _derive_key(password, salt)
+    try:
+        return Fernet(key).decrypt(token)
+    except InvalidToken:
+        raise ValueError("wrong password or corrupted backup")
+
+
+def _restore_encrypted(backup_name: str, password: str) -> Dict:
+    enc_path = BACKUP_DIR / backup_name
+    if not enc_path.exists():
+        return {"error": f"backup not found: {backup_name}"}
+    try:
+        payload = _decrypt_backup(enc_path.read_bytes(), password)
+    except ValueError as e:
+        return {"error": str(e)}
+    tmp = BACKUP_DIR / ("_restore_" + backup_name.rstrip(".enc"))
+    tmp.mkdir(parents=True, exist_ok=True)
+    try:
+        with zipfile.ZipFile(io.BytesIO(payload)) as z:
+            z.extractall(tmp)
+        results = {}
+        for fname in DB_NAMES + SETTINGS_FILES:
+            f = tmp / fname
+            if f.exists() and f.is_file():
+                results[fname] = _safe_copy(f, APP_DIR / fname)
+        if not results:
+            return {"error": "backup contains no recognizable files"}
+        return results
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
 
 
 def list_backups() -> List[Dict]:
@@ -96,12 +180,30 @@ def list_backups() -> List[Dict]:
                 "created": man.get("created", d.name),
                 "files": list(man.get("files", {}).keys()),
                 "count": len(man.get("files", {})),
+                "encrypted": False,
+            })
+        elif d.suffix == ".enc":
+            created = d.name.replace("backup_", "").replace(".enc", "")
+            out.append({
+                "name": d.name,
+                "created": created[:15],
+                "files": ["encrypted archive"],
+                "count": "🔒",
+                "encrypted": True,
             })
     return out
 
 
-def restore_backup(backup_name: str) -> Dict:
-    """Restore a backup by name. Returns per-file results."""
+def restore_backup(backup_name: str,
+                   password: Optional[str] = None) -> Dict:
+    """Restore a backup by name. Returns per-file results.
+
+    For encrypted (.enc) backups the password is required.
+    """
+    if backup_name.endswith(".enc"):
+        if not password:
+            return {"error": "encrypted backup requires a password"}
+        return _restore_encrypted(backup_name, password)
     src = BACKUP_DIR / backup_name
     if not src.is_dir():
         return {"error": f"backup not found: {backup_name}"}

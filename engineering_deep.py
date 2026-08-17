@@ -188,6 +188,217 @@ def surge_swab_with_compressibility(trip_speed_ft_min: float,
     }
 
 
+# ---------------------------------------------------------------------------
+# DEEP ENGINEERING VERIFICATION — document section builder
+# ---------------------------------------------------------------------------
+# Audit items (P1): ROP calibration, Herschel-Bulkley hydraulics, triaxial
+# casing, compressibility-aware surge/swab.  This section is appended to
+# generated documents whenever the required inputs are available, so every
+# deep check is visible and traceable.  Pure deterministic computations.
+
+def _fv(v, default: float = 0.0) -> float:
+    try:
+        if v is None:
+            return default
+        s = str(v).strip()
+        if not s:
+            return default
+        return float(s)
+    except (TypeError, ValueError):
+        return default
+
+
+def _pick(values: Dict, *keys) -> str:
+    for k in keys:
+        s = str(values.get(k, "") or "").strip()
+        if s:
+            return s
+    return ""
+
+
+def rop_prediction_table(calib: Dict, depths: List[float],
+                         wob: float, rpm: float, mw: float) -> List[Dict]:
+    """Predicted ROP (ft/hr) at each depth from a calibrated model."""
+    if not calib or not calib.get("k"):
+        return []
+    k = float(calib["k"])
+    a = float(calib.get("a", 1.0))
+    b = float(calib.get("b", 0.6))
+    c = float(calib.get("c", 0.00005))
+    d = float(calib.get("d", -0.05))
+    mw_opt = float(calib.get("mw_opt_ppg", 10.0))
+    rows = []
+    for dep in depths:
+        if wob <= 0 or rpm <= 0:
+            continue
+        rop = (k * (wob ** a) * (rpm ** b) *
+               math.exp(-c * dep) * math.exp(d * (mw - mw_opt)))
+        rows.append({"depth_ft": round(dep, 0),
+                     "rop_ft_hr": round(max(rop, 0.0), 1)})
+    return rows
+
+
+def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
+                         operator: str = "") -> str:
+    """Build the DEEP ENGINEERING VERIFICATION section markdown.
+
+    Computes only what the inputs allow; anything else is listed as
+    'requires additional data'.  Never raises.
+    """
+    v = values or {}
+    mw = _fv(_pick(v, "mud_weight", "mud_weight_ppg", "current_mw", "mw"))
+    depth_ft = _fv(_pick(v, "depth_ft", "depth", "td_depth", "td_ft",
+                         "total_depth"))
+    depth_m = _fv(_pick(v, "depth_m", "target_depth_m", "td_m"))
+    if depth_ft <= 0 and depth_m > 0:
+        depth_ft = depth_m * 3.28084
+    hole = _fv(_pick(v, "hole_size", "hole_id", "hole_diameter", "bit_size"))
+    pipe = _fv(_pick(v, "pipe_od", "pipe_size", "bha_od", "drill_pipe_od"))
+    casing_od = _fv(_pick(v, "casing_od", "casing_size"))
+    wall = _fv(_pick(v, "casing_wall", "casing_wall_in", "wall_thickness"))
+    ys = _fv(_pick(v, "casing_yield", "casing_yield_psi", "yield_strength"))
+    flow = _fv(_pick(v, "flow_rate", "flow_rate_gpm", "q_gpm", "pump_rate"))
+    yp = _fv(_pick(v, "yield_point", "mud_yp", "yp_lb100ft2"))
+    pv = _fv(_pick(v, "plastic_viscosity", "mud_pv", "pv_cp"))
+    trip = _fv(_pick(v, "trip_speed", "trip_speed_ft_min"))
+    n_idx = _fv(_pick(v, "n_index", "flow_index"))
+    k_idx = _fv(_pick(v, "k_index", "consistency_index"))
+    tau0 = _fv(_pick(v, "yield_stress", "tau0", "hb_yield_stress"))
+    wob = _fv(_pick(v, "wob", "wob_klbf"))
+    rpm = _fv(_pick(v, "rpm", "rotary_speed"))
+    burst_load = _fv(_pick(v, "burst_load", "design_burst"))
+    coll_load = _fv(_pick(v, "collapse_load", "design_collapse"))
+    axial_load = _fv(_pick(v, "axial_load", "design_axial"))
+
+    op = (operator or "").strip() or "the Operator"
+    lines = [
+        "## DEEP ENGINEERING VERIFICATION",
+        "",
+        "This section verifies the design with deeper models than the main "
+        "body (ROP calibration, yield-power-law hydraulics, triaxial casing "
+        "check, compressibility-aware surge/swab). All values are computed "
+        "deterministically by built-in calculators.",
+    ]
+    checks = 0
+
+    def _note(missing: str):
+        lines.append(f"- ⚠️ {missing} — requires additional data ("
+                     "measurement or offset-well input).")
+
+    # -- 1. ROP model -----------------------------------------------------
+    lines.append("")
+    lines.append("### ROP Model (Bourgoyne-Young style)")
+    if rop_calib and rop_calib.get("k") and rop_calib.get("n_points"):
+        k = float(rop_calib["k"])
+        n = int(rop_calib["n_points"])
+        a = float(rop_calib.get("a", 1.0))
+        b = float(rop_calib.get("b", 0.6))
+        c = float(rop_calib.get("c", 0.00005))
+        d = float(rop_calib.get("d", -0.05))
+        lines.append(
+            f"- Model: ROP = K × WOB^a × RPM^b × e^(−c·D) × e^(d·(MW−MW_opt))")
+        lines.append(
+            f"- Calibrated from **{n}** offset data point(s): "
+            f"K = {k:.4g}, a = {a:g}, b = {b:g}, c = {c:g}, d = {d:g}")
+        if wob > 0 and rpm > 0:
+            depths = []
+            if depth_ft > 0:
+                depths = [max(1000.0, depth_ft * f) for f in
+                          (0.25, 0.5, 0.75, 1.0)]
+                depths = [min(d, depth_ft) for d in depths]
+            else:
+                depths = [5000, 8000, 11000]
+            preds = rop_prediction_table(
+                rop_calib, depths, wob, rpm, mw or 10.0)
+            if preds:
+                lines.append("")
+                lines.append("| Depth (ft) | Predicted ROP (ft/hr) |")
+                lines.append("|------------|------------------------|")
+                for p in preds:
+                    lines.append(f"| {p['depth_ft']:,.0f} | {p['rop_ft_hr']} |")
+                checks += 1
+        else:
+            _note("WOB / RPM for the prediction")
+    elif rop_calib:
+        _note("Enough offset data for ROP calibration")
+    else:
+        _note("ROP calibration (offset-well WOB/RPM/depth/MW/ROP data)")
+
+    # -- 2. Herschel-Bulkley annular pressure loss --------------------------
+    lines.append("")
+    lines.append("### Hydraulics — Yield-Power-Law (Herschel-Bulkley)")
+    if flow > 0 and hole > pipe and depth_ft > 0 and n_idx > 0 and k_idx > 0:
+        try:
+            pl = power_law_pressure_loss(flow, hole, pipe, depth_ft,
+                                         n_idx, k_idx)
+            hb = herschel_bulkley_pressure_loss(flow, hole, pipe, depth_ft,
+                                                tau0, n_idx, k_idx)
+            lines.append(f"- Annular pressure loss over {depth_ft:,.0f} ft: "
+                         f"**Power Law ≈ {pl:,.0f} psi** | "
+                         f"**Herschel-Bulkley ≈ {hb:,.0f} psi** "
+                         f"(yield stress term {tau0:g} lb/100ft² included)")
+            if tau0 > 0 and pl > 0:
+                lines.append(f"- Yield-stress contribution: "
+                             f"~{max(0.0, (hb - pl)):,.0f} psi "
+                             f"({(hb - pl) / pl * 100:.0f}% of PL estimate)")
+            checks += 1
+        except Exception:
+            _note("Hydraulics verification")
+    else:
+        _note("Annular pressure-loss data (flow rate, geometry, n/K)")
+
+    # -- 3. Triaxial casing check -------------------------------------------
+    lines.append("")
+    lines.append("### Casing — Triaxial (von Mises) Combined-Load Check")
+    if casing_od > 0 and wall > 0 and ys > 0 and burst_load > 0 and \
+            coll_load > 0:
+        try:
+            tx = triaxial_check(casing_od, wall, ys, burst_load,
+                                coll_load, axial_load)
+            icon = "✅" if tx["status"] == "PASS" else "⛔"
+            lines.append(
+                f"- {icon} σ_vm = {tx['vm_stress_psi']:,.0f} psi vs allowable "
+                f"{tx['allowable_psi']:,.0f} psi (YS/1.25) — "
+                f"**{tx['status']}** ({tx['utilization']}% utilization)")
+            lines.append(
+                "- Basis: API TR 5C3 thin-wall von Mises; loads: burst "
+                f"{burst_load:,.0f} psi / collapse {coll_load:,.0f} psi / "
+                f"axial {axial_load:,.0f} psi")
+            checks += 1
+        except Exception:
+            _note("Triaxial check")
+    else:
+        _note("Triaxial check data (casing OD/wall/grade, design loads)")
+
+    # -- 4. Surge/swab with compressibility ---------------------------------
+    lines.append("")
+    lines.append("### Surge / Swab — Compressibility-Aware Estimate")
+    if trip > 0 and pv > 0 and yp > 0 and hole > pipe and depth_ft > 0:
+        try:
+            ss = surge_swab_with_compressibility(trip, pv, yp, hole, pipe,
+                                                 depth_ft)
+            lines.append(
+                f"- Trip speed {trip:g} ft/min → annular velocity "
+                f"{ss['velocity_ft_min']} ft/min")
+            lines.append(
+                f"- Rigid-column estimate: {ss['rigid_pressure_psi']} psi; "
+                f"compressibility-corrected: "
+                f"**{ss['corrected_pressure_psi']} psi** "
+                f"(factor {ss['correction_factor']})")
+            checks += 1
+        except Exception:
+            _note("Surge/swab estimate")
+    else:
+        _note("Surge/swab data (trip speed, PV, YP, geometry)")
+
+    lines.append("")
+    lines.append(f"*Deep engineering checks computed for {op}; models are "
+                 "preliminary design aids and must be confirmed against "
+                 "final vendor/third-party software for the critical "
+                 "load cases.*")
+    return "\n".join(lines)
+
+
 if __name__ == "__main__":
     # ROP calibration demo
     rc = ROPCalibrator()
@@ -207,3 +418,20 @@ if __name__ == "__main__":
     print("triaxial:", tx)
     ss = surge_swab_with_compressibility(60, 25, 20, 12.25, 5, 10000)
     print("surge w/ comp:", ss)
+    # deep-verify section demo
+    demo = {
+        "mud_weight": "12", "td_depth": "10000", "hole_size": "12.25",
+        "pipe_od": "5", "casing_size": "9.625", "casing_wall": "0.472",
+        "casing_yield": "110000", "flow_rate": "500", "yield_point": "20",
+        "plastic_viscosity": "25", "trip_speed": "60",
+        "n_index": "0.6", "k_index": "120", "yield_stress": "8",
+        "wob": "25", "rpm": "100", "burst_load": "9000",
+        "collapse_load": "6000", "axial_load": "400000",
+    }
+    md = deep_verify_markdown(demo, {"k": rc.k, "a": 1.0, "b": 0.6,
+                                     "c": 0.00005, "d": -0.05,
+                                     "n_points": len(offset)})
+    assert "DEEP ENGINEERING VERIFICATION" in md
+    assert "Herschel-Bulkley" in md
+    assert "von Mises" in md
+    print("deep_verify_markdown OK,", len(md), "chars")

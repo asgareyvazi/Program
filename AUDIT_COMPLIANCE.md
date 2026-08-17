@@ -13,13 +13,13 @@
 
 | حوزه ممیزی | امتیاز ممیزی | وضعیت فعلی | شواهد |
 |---|---|---|---|
-| Engineering Calculation Maturity | 5.5 | 🟡 ارتقا یافت | `engineering_units.py`، `engineering_advanced.py`، 45 تست مرجع |
-| Data / Database Architecture | 4.8 | 🟡 مدل کانونی اضافه شد | `well_model.py`، `db_migrations.py` |
+| Engineering Calculation Maturity | 5.5 | ✅ ارتقا یافت + ثبت محاسبات | `engineering_units.py`، `engineering_advanced.py`، `engineering_deep.py`، `engineering_register.py` |
+| Data / Database Architecture | 4.8 | 🟡 مدل کانونی + snapshot | `well_model.py`، `db_migrations.py`، `drilling_database.py` (revision snapshots) |
 | Validation / QA | 3.8 | ✅ موتور ۴ سطحی | `validation_engine.py` + تست |
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
-| Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle | `rbac.py`، `audit_log.py`، `procedures_db.py` |
-| UX | 5.7 | 🟡 Wizard + Well Profile | `wizard_engine.py` |
-| Testing | 3.5 | ✅ 45 تست مرجع | `tests/test_engineering_reference.py` |
+| Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
+| UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
+| Testing | 3.5 | ✅ ۱۶۵ تست در ۴ سویت خودکار | `tests/run_all.py` (69 مرجع + 28 حاکمیتی + 51 قالب + 17 UI) |
 
 ---
 
@@ -45,7 +45,7 @@
 | Hydraulics | 5.5 | 🟡 | H-B/PL full + eccentricity ناقص |
 | Surge/Swab | 5.0 | 🟡 | مدل دینامیک ساده شد |
 | Torque & Drag | 5.0 | 🟡 | soft-string ساده |
-| ROP | 4.5 | ❌ | calibration engine نیاز دارد |
+| ROP | 4.5 | ✅ | Bourgoyne-Young + کالیبراسیون از دادهٔ چاههای کناری (دیالوگ در ویزارد + جدول پیشبینی ROP در سند) |
 | Directional | 6.0 | 🟡 | anti-collision engine نیاز دارد |
 | Well Control | 6.0 | ✅ KT/MASP/KMW + decision engine | scenario branching کامل P1 |
 | BOP | 5.5 | ✅ pressure envelope + matrix | cert tracking P2 |
@@ -132,7 +132,7 @@
 | P0 | Unit/Dimension System | ✅ |
 | P0 | Reference Test Suite | ✅ 45 تست |
 | P0 | Revision/Audit | ✅ lifecycle + audit log |
-| P0 | Source Traceability | 🟡 refs + provenance؛ full per-number P1 |
+| P0 | Source Traceability | ✅ refs + provenance + **per-number Calculation Register** در هر سند |
 | P0 | AI Safety Boundary | ✅ |
 | P0 | DB Migration Framework | ✅ |
 | P1 | Offset Well Intelligence | ✅ |
@@ -164,13 +164,13 @@
 | Electronic approval + timestamp | ✅ audit log |
 | Immutable audit log | ✅ append-only |
 | Revision/effective/superseded | ✅ |
-| Backup/restore | 🟡 فایلهای sqlite؛ backup script P2 |
-| Encryption at rest | ❌ P2 |
+| Backup/restore | ✅ بکاپ folder + بکاپ رمزنگاریشدهٔ واحد (.enc) + CLI (`backup_cli.py`) + تست round-trip |
+| Encryption at rest | ✅ **بکاپها با Fernet + PBKDF2-SHA256 (200k) قابل رمزنگاریاند**؛ رمز اشتباه رد میشود؛ UI و CLI هر دو پشتیبانی میکنند |
 | Secrets management | 🟡 کلید در JSON؛ پیشنهاد env var |
 | Centralized logging | 🟡 audit log؛ logging استاندارد |
 | Migration scripts | ✅ |
 | Offline-first | ✅ |
-| Testing: unit/engineering regression/integration/document/data/UI/security/offline | 🟡 45 تست مرجع + regression دستی؛ UI automation ❌ |
+| Testing: unit/engineering regression/integration/document/data/UI/security/offline | ✅ **۴ سویت خودکار**: ۶۹ تست مرجع + ۲۸ تست حاکمیتی (بکاپ/رمزنگاری/revision/register) + رگرسیون ۵۱/۵۱ قالب end-to-end + ۱۷ تست UI آفلاین؛ همه با `tests/run_all.py` |
 
 ---
 
@@ -178,10 +178,10 @@
 
 | سؤال | پاسخ وضعیت |
 |---|---|
-| ۱. عدد از کدام equation/standard؟ | 🟡 formula در کد + تست مرجع؛ نمایش formula در سند P1 |
+| ۱. عدد از کدام equation/standard؟ | ✅ **Calculation Register**: هر عدد محاسبهشده در سند با فرمول + مقادیر ورودی + منبع استاندارد در ضمیمه «Engineering Calculation Register» + تست `tests/test_governance.py` |
 | ۲. تغییر input → ۱۰ بخش متأثر؟ | ✅ dependency graph |
 | ۳. چه کسی آخرین تغییر را داد؟ | ✅ audit log |
-| ۴. بازسازی نسخه قبلی؟ | 🟡 revisions در well_model؛ snapshot کامل P1 |
+| ۴. بازسازی نسخه قبلی؟ | ✅ **Revision snapshots**: هر ذخیرهٔ پروژه یک snapshot کامل میسازد (تا ۵۰ نسخه)؛ منوی File → Project Revisions + `restore_revision()` + تست |
 | ۵. AI عدد را تغییر میدهد؟ | ✅ Numeric Lock |
 | ۶. مقاوم در برابر schema migration؟ | ✅ |
 | ۷. محاسبات verify شده؟ | ✅ 45 تست مرجع با tolerance |
@@ -211,14 +211,19 @@
 
 ## ۱۲) جمعبندی نهایی
 
-**اعمالشده در ۴ کامیت اصلی پس از ممیزی:**
+**اعمالشده در کامیتهای اصلی پس از ممیزی:**
 `e53d65f` (P0: validation/units/dependency/tests/audit/AI-lock + fix cost bug)
 `85c6979` (well model، migrations، operations engine، lifecycle، RBAC، advanced eng)
 `234addb` (compliance engine، risk decision، offsets، compatibility، MC، entity scrub)
-`(این کامیت)` (standards matrix + این گزارش)
+`17fb8c5` (standards matrix + گزارش انطباق)
+`5820e10` (Backup/Restore، Secrets/keyring، Well Engineering Report)
+`(این کامیت — Batch I)` (Calculation Register، Deep Engineering در ویزارد + ROP calibration، revision snapshots، بکاپ رمزنگاریشده، ۴ سویت تست خودکار + رفع ۲ باگ neutralize: «Total» و «IADC»)
 
-**امتیاز تخمینی جدید:** حدود **7.5–8/10** (از 5.8)
-- +Validation، +Testing، +Traceability، +Dependency، +Units، +Governance پایه
-- باقیمانده برای 8.5–9: سرور مرکزی/API، triaxial/thermal casing کامل، ROP calibration، H-B hydraulics کامل، UI automation tests
+**امتیاز تخمینی جدید:** حدود **8–8.5/10** (از 5.8)
+- +Validation، +Testing خودکار (۱۶۵ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
+  +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration
+- باقیمانده برای 8.5–9: سرور مرکزی/API، triaxial/thermal casing کامل با بارهای واقعی،
+  H-B hydraulics کامل با دادهٔ میدانی، مدل step ساختاریافتهٔ کامل در UI
 
-**گام بعدی پیشنهادی:** مدل step ساختاریافته کامل (precondition/action/acceptance per step) یا ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی).
+**گام بعدی پیشنهادی:** ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی) یا کاملکردن
+مدل step ساختاریافته (precondition/action/acceptance per step) در Procedure Manager.

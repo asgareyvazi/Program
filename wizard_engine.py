@@ -218,7 +218,9 @@ WELL_PATTERNS = [
     (r"\bExxonMobil\b", ""),
     (r"\bExxon\b", ""),
     (r"\bMobil\b", ""),
-    (r"\bIADC\b", ""),
+    # NOTE: IADC is a standards body (International Association of Drilling
+    # Contractors) — citations like "per IADC guidelines" are legitimate and
+    # must be preserved.  It is intentionally NOT blacklisted.
     (r"\bDevereux\b", ""),
     (r"\bWell Control School\b", ""),
     (r"\bAberdeen\b", ""),
@@ -226,7 +228,8 @@ WELL_PATTERNS = [
     (r"\bChevronTexaco\b", ""),
     (r"\bStatoil\b", ""),
     (r"\bMaersk\b", ""),
-    (r"\bTotal\b", ""),
+    (r"\bTotalEnergies\b", ""),
+    (r"\bTotal\b(?=\s+(?:E&P|EP|Energies|Exploration|S\.?A\.?))", ""),
     (r"\bShell\b", ""),
     (r"\bBP Exploration\b", ""),
 ]
@@ -1183,6 +1186,165 @@ class _SectionsPage(QWizardPage):
         return True
 
 
+class ROPCalibrationDialog(QDialog):
+    """Enter offset-well ROP data and fit the Bourgoyne-Young style model.
+
+    The fitted model (K, a, b, c, d) is stored on the inputs page and used
+    by the Deep Engineering Verification section of the generated document.
+    """
+
+    SAMPLE = [
+        # depth_ft, wob_klbf, rpm, mw_ppg, rop_actual_ft_hr
+        (5000, 20, 90, 11.0, 35.0),
+        (6500, 22, 95, 11.3, 31.5),
+        (8000, 25, 100, 11.5, 28.0),
+        (9500, 28, 105, 11.8, 23.5),
+        (11000, 30, 110, 12.0, 20.0),
+    ]
+
+    def __init__(self, parent=None, current: Optional[dict] = None):
+        super().__init__(parent)
+        self.setWindowTitle("🧮 ROP Calibration — Offset-Well Data")
+        self.setMinimumSize(760, 480)
+        self.result: Optional[dict] = None
+
+        lay = QVBoxLayout(self)
+
+        head = QLabel(
+            "Fit the ROP model (Bourgoyne-Young style) with offset-well data:\n"
+            "ROP = K × WOB^a × RPM^b × e^(−c·D) × e^(d·(MW−MW_opt))\n"
+            "Only K is fitted (exponents are industry defaults). "
+            "All data stays local — no cloud.")
+        head.setWordWrap(True)
+        lay.addWidget(head)
+
+        cols = ["Depth (ft)", "WOB (klbf)", "RPM", "MW (ppg)",
+                "Actual ROP (ft/hr)"]
+        self.table = QTableWidget(0, 5)
+        self.table.setHorizontalHeaderLabels(cols)
+        self.table.horizontalHeader().setSectionResizeMode(
+            QHeaderView.Stretch)
+        lay.addWidget(self.table)
+
+        btns = QHBoxLayout()
+        b_add = QPushButton("➕ Add row")
+        b_add.clicked.connect(lambda: self._add_row())
+        b_rem = QPushButton("➖ Remove row")
+        b_rem.clicked.connect(self._remove_row)
+        b_smp = QPushButton("📋 Load sample data")
+        b_smp.clicked.connect(self._load_sample)
+        b_fit = QPushButton("⚙️  Fit Model")
+        b_fit.clicked.connect(self._fit)
+        btns.addWidget(b_add); btns.addWidget(b_rem)
+        btns.addWidget(b_smp); btns.addStretch(); btns.addWidget(b_fit)
+        lay.addLayout(btns)
+
+        self.fit_label = QLabel("No fit yet.")
+        self.fit_label.setWordWrap(True)
+        self.fit_label.setStyleSheet(
+            "background:#1a1a2e;border:1px solid #0f3460;border-radius:6px;"
+            "padding:8px;color:#4fc3f7;")
+        lay.addWidget(self.fit_label)
+
+        okb = QHBoxLayout()
+        okb.addStretch()
+        b_ok = QPushButton("✔ Accept Fit")
+        b_ok.setEnabled(False)
+        b_ok.clicked.connect(self._accept)
+        self.btn_ok = b_ok
+        b_cancel = QPushButton("Cancel")
+        b_cancel.clicked.connect(self.reject)
+        okb.addWidget(b_ok); okb.addWidget(b_cancel)
+        lay.addLayout(okb)
+
+        if current and current.get("points"):
+            for p in current["points"]:
+                self._add_row(p)
+        else:
+            self._add_row()
+
+    # ------------------------------------------------------------------
+    def _add_row(self, data=None):
+        r = self.table.rowCount()
+        self.table.insertRow(r)
+        defaults = list(data) if data else ["", "", "", "", ""]
+        for c, val in enumerate(defaults):
+            item = QTableWidgetItem(str(val))
+            item.setFlags(item.flags() | Qt.ItemIsEditable)
+            self.table.setItem(r, c, item)
+
+    def _remove_row(self):
+        rows = sorted({i.row() for i in self.table.selectedItems()},
+                      reverse=True)
+        for r in rows:
+            self.table.removeRow(r)
+
+    def _load_sample(self):
+        self.table.setRowCount(0)
+        for p in self.SAMPLE:
+            self._add_row(p)
+
+    def _points(self) -> List[Dict]:
+        pts = []
+        for r in range(self.table.rowCount()):
+            vals = []
+            ok = True
+            for c in range(5):
+                txt = self.table.item(r, c).text().strip() if \
+                    self.table.item(r, c) else ""
+                if not txt:
+                    ok = False
+                    break
+                try:
+                    vals.append(float(txt))
+                except ValueError:
+                    ok = False
+                    break
+            if ok and vals[4] > 0:
+                pts.append({"depth": vals[0], "wob": vals[1], "rpm": vals[2],
+                            "mw": vals[3], "rop_actual": vals[4]})
+        return pts
+
+    def _fit(self):
+        pts = self._points()
+        if len(pts) < 3:
+            QMessageBox.warning(
+                self, "Not Enough Data",
+                "Enter at least 3 complete offset data points "
+                "(depth, WOB, RPM, MW, actual ROP).")
+            return
+        try:
+            from engineering_deep import ROPCalibrator
+            rc = ROPCalibrator()
+            k = rc.calibrate(pts)
+            # prediction quality: mean abs % error
+            errs = []
+            for p in pts:
+                pred = rc.predict(p["wob"], p["rpm"], p["depth"], p["mw"])
+                if p["rop_actual"] > 0:
+                    errs.append(abs(pred - p["rop_actual"]) /
+                                p["rop_actual"] * 100)
+            mape = sum(errs) / len(errs) if errs else 0.0
+            self.result = {
+                "k": k, "a": 1.0, "b": 0.6, "c": 0.00005, "d": -0.05,
+                "mw_opt_ppg": 10.0, "n_points": len(pts),
+                "mape_pct": round(mape, 1),
+                "points": pts,
+            }
+            self.fit_label.setText(
+                f"✅ Fitted: K = {k:.4g} from {len(pts)} points | "
+                f"mean abs. error ≈ {mape:.1f}% | "
+                f"ROP(25 klbf, 100 rpm, 8,000 ft, 11.5 ppg) = "
+                f"{rc.predict(25, 100, 8000, 11.5):.1f} ft/hr")
+            self.btn_ok.setEnabled(True)
+        except Exception as e:
+            QMessageBox.critical(self, "Fit Failed", str(e))
+
+    def _accept(self):
+        if self.result:
+            self.accept()
+
+
 class _InputsPage(QWizardPage):
     """Page 2: dynamic input form for the selected template."""
 
@@ -1248,6 +1410,67 @@ class _InputsPage(QWizardPage):
             self.widgets[spec.key] = w
             self._specs[spec.key] = spec
 
+        # Engineering Basis — optional canonical inputs so that EVERY
+        # document type can run validation, readiness, the calculation
+        # register and the deep engineering checks (audit P1).  Only keys
+        # the template does not already ask for are added.
+        basis_specs = [
+            InputSpec("mud_weight", "Mud Weight", "number", unit="ppg",
+                      placeholder="e.g. 12.0", group="Engineering Basis"),
+            InputSpec("formation_pressure", "Pore Pressure (EMW)",
+                      "number", unit="ppg",
+                      placeholder="e.g. 11.0", group="Engineering Basis"),
+            InputSpec("fracture_gradient", "Fracture Gradient", "number",
+                      unit="ppg", placeholder="e.g. 16.0",
+                      group="Engineering Basis"),
+            InputSpec("hole_size", "Hole Size", "number", unit="in",
+                      placeholder="e.g. 12.25", group="Engineering Basis"),
+            InputSpec("casing_size", "Casing Size", "number", unit="in",
+                      placeholder="e.g. 9.625", group="Engineering Basis"),
+            InputSpec("casing_depth", "Casing Depth", "number", unit="ft",
+                      placeholder="e.g. 8000", group="Engineering Basis"),
+            InputSpec("total_depth", "Total Depth", "number", unit="ft",
+                      placeholder="e.g. 10000", group="Engineering Basis"),
+            InputSpec("bop_wp", "BOP Working Pressure", "number",
+                      unit="psi", placeholder="e.g. 10000",
+                      group="Engineering Basis"),
+            InputSpec("kick_tolerance", "Kick Tolerance", "number",
+                      unit="ppg", group="Engineering Basis"),
+            InputSpec("h2s_plan", "H2S Contingency Plan", "text",
+                      placeholder="e.g. H2S detection, PPE, drills",
+                      group="Engineering Basis"),
+            InputSpec("acceptance_criteria", "Acceptance Criteria", "text",
+                      placeholder="e.g. LOT/FIT, wellhead test criteria",
+                      group="Engineering Basis"),
+            InputSpec("risk_assessment", "Risk Assessment Status", "text",
+                      placeholder="e.g. Completed — matrix attached",
+                      group="Engineering Basis"),
+            InputSpec("flow_rate", "Flow / Pump Rate", "number", unit="gpm",
+                      group="Engineering Basis"),
+            InputSpec("yield_point", "Mud Yield Point", "number",
+                      unit="lb/100ft²", group="Engineering Basis"),
+            InputSpec("plastic_viscosity", "Mud Plastic Viscosity",
+                      "number", unit="cP", group="Engineering Basis"),
+            InputSpec("trip_speed", "Trip Speed", "number", unit="ft/min",
+                      group="Engineering Basis"),
+            InputSpec("wob", "Weight on Bit", "number", unit="klbf",
+                      group="Engineering Basis"),
+            InputSpec("rpm", "Rotary Speed", "number", unit="rpm",
+                      group="Engineering Basis"),
+            InputSpec("total_cost", "Estimated Total Cost", "number",
+                      placeholder="e.g. 12000000", group="Engineering Basis"),
+        ]
+        missing = [s for s in basis_specs if s.key not in self.widgets]
+        if missing:
+            bfl = self._ensure_group(
+                "⚙️  Engineering Basis (enables validation, calculation "
+                "register & deep checks)")
+            for spec in missing:
+                w = _build_field(spec)
+                bfl.addRow(spec.label, w)
+                self.widgets[spec.key] = w
+                self._specs[spec.key] = spec
+
         # Web research tool for field/formation introduction
         web_row = QHBoxLayout()
         self.btn_web = QPushButton("🌐  Web Research — Field / Formation Introduction")
@@ -1298,7 +1521,47 @@ class _InputsPage(QWizardPage):
         llm_row.addStretch()
         kn_lay.addLayout(llm_row)
         self.form_lay.addWidget(kn_group)
+
+        # Deep Engineering Verification (ROP calibration, HB hydraulics,
+        # triaxial casing, compressibility-aware surge/swab)
+        deep_group = QGroupBox("🔬  Deep Engineering Verification")
+        deep_lay = QVBoxLayout(deep_group)
+        self.chk_deep = QCheckBox(
+            "Include DEEP ENGINEERING VERIFICATION section — ROP model "
+            "(Bourgoyne-Young with offset calibration), Herschel-Bulkley "
+            "annular pressure loss, triaxial (von Mises) casing check, "
+            "compressibility-aware surge/swab")
+        self.chk_deep.setChecked(True)
+        deep_lay.addWidget(self.chk_deep)
+        rop_row = QHBoxLayout()
+        self.btn_rop = QPushButton("🧮  ROP Calibration from Offset Data…")
+        self.btn_rop.setMaximumWidth(320)
+        self.btn_rop.clicked.connect(self._open_rop_calib)
+        rop_row.addWidget(self.btn_rop)
+        self.lbl_rop = QLabel("No calibration yet — ROP section will list "
+                              "the model with a data request.")
+        self.lbl_rop.setStyleSheet("color:#8a8a9a;font-size:10px;")
+        self.lbl_rop.setWordWrap(True)
+        rop_row.addWidget(self.lbl_rop, 1)
+        deep_lay.addLayout(rop_row)
+        self._rop_calib: Optional[dict] = None
+        self.form_lay.addWidget(deep_group)
         self.form_lay.addStretch()
+
+    def _open_rop_calib(self):
+        dlg = ROPCalibrationDialog(self, current=self._rop_calib)
+        if dlg.exec() == QDialog.Accepted and dlg.result:
+            self._rop_calib = dlg.result
+            n = self._rop_calib["n_points"]
+            mape = self._rop_calib.get("mape_pct", 0.0)
+            self.lbl_rop.setText(
+                f"✔ Calibrated from {n} offset point(s), K = "
+                f"{self._rop_calib['k']:.4g}, mean abs. error ≈ {mape}% — "
+                f"the ROP prediction table will be included in the document.")
+        else:
+            self.lbl_rop.setText(
+                "Calibration cancelled — ROP section will list the model "
+                "with a data request.")
 
     def _open_llm(self):
         try:
@@ -2102,6 +2365,16 @@ class _GeneratePage(QWizardPage):
                     dmd = dependency_markdown(dep_keys)
                     if dmd:
                         md = md.rstrip() + "\n\n---\n\n" + dmd
+
+                # program readiness score (audit P1 — completeness before
+                # approval), always appended
+                try:
+                    from operations_engine import readiness_markdown as rm_
+                    rmd_ = rm_(values, meta.get("operator", ""))
+                    if rmd_:
+                        md = md.rstrip() + "\n\n---\n\n" + rmd_
+                except Exception:
+                    pass
             except Exception:
                 import traceback
                 traceback.print_exc()
@@ -2184,6 +2457,37 @@ class _GeneratePage(QWizardPage):
                 cmr = compliance_markdown(comp_rep, meta.get("operator", ""))
                 if cmr:
                     md = md.rstrip() + "\n\n---\n\n" + cmr
+            except Exception:
+                import traceback
+                traceback.print_exc()
+
+            # 5d) Deep Engineering Verification (ROP calibration, HB
+            #     hydraulics, triaxial, surge/swab) — audit P1
+            try:
+                if hasattr(in_page, "chk_deep") and in_page.chk_deep.isChecked():
+                    from engineering_deep import deep_verify_markdown
+                    rop_calib = getattr(in_page, "_rop_calib", None)
+                    dmd = deep_verify_markdown(values, rop_calib,
+                                               meta.get("operator", ""))
+                    if dmd:
+                        dmd = neutralize_text(dmd, meta.get("operator", ""),
+                                              meta.get("contractor", ""))
+                        md = md.rstrip() + "\n\n---\n\n" + dmd
+            except Exception:
+                import traceback
+                traceback.print_exc()
+
+            # 5e) Engineering Calculation Register — every number traceable
+            #     to its formula + standard (buyer Q1, audit P1)
+            try:
+                from engineering_register import (compute_register,
+                                                  register_markdown)
+                rows = compute_register(values)
+                rmd = register_markdown(rows, meta.get("operator", ""))
+                if rmd:
+                    rmd = neutralize_text(rmd, meta.get("operator", ""),
+                                          meta.get("contractor", ""))
+                    md = md.rstrip() + "\n\n---\n\n" + rmd
             except Exception:
                 import traceback
                 traceback.print_exc()

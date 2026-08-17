@@ -3,6 +3,10 @@ PySide6>=6.5
 python-docx>=1.0
 openpyxl>=3.1
 
+# Encryption at rest (password-protected backups) — required for
+# create_backup(password=...) / backup_cli.py --encrypt
+cryptography>=41.0
+
 # Optional (AI insights in Risk Analyzer)
 google-genai>=1.0         # Gemini backend (NEW SDK — free key from aistudio.google.com)
 google-generativeai>=0.7    # legacy Gemini fallback

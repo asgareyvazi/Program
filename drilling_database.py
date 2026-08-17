@@ -53,6 +53,17 @@ class DrillingProjectDatabase:
                     ON DELETE CASCADE
             );
 
+            CREATE TABLE IF NOT EXISTS project_snapshots (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                project_id INTEGER NOT NULL,
+                revision INTEGER NOT NULL,
+                snapshot_json TEXT NOT NULL,
+                created_date TEXT NOT NULL,
+                note TEXT DEFAULT '',
+                FOREIGN KEY (project_id) REFERENCES projects(id)
+                    ON DELETE CASCADE
+            );
+
             CREATE INDEX IF NOT EXISTS idx_proj_name
                 ON projects(name);
             CREATE INDEX IF NOT EXISTS idx_proj_well
@@ -116,6 +127,11 @@ class DrillingProjectDatabase:
             proj_id = cur.lastrowid
 
             self._add_history(proj_id, "Created", f"Project created")
+
+        # Revision snapshot — every save creates a full restorable version
+        # (audit buyer Q4: "can we rebuild a previous version?").
+        self._snapshot(proj_id, project_json,
+                       "Created" if not existing else "Saved")
 
         self.conn.commit()
         return proj_id
@@ -211,6 +227,71 @@ class DrillingProjectDatabase:
         return [{'action': r['action'],
                  'timestamp': r['timestamp'],
                  'details': r['details']} for r in rows]
+
+    # ================================================================
+    # REVISION SNAPSHOTS (audit buyer Q4 — rebuild a previous version)
+    # ================================================================
+
+    MAX_SNAPSHOTS = 50
+
+    def _snapshot(self, project_id: int, project_json: str,
+                  note: str = "Saved"):
+        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        last = self.conn.execute(
+            "SELECT COALESCE(MAX(revision), 0) AS m FROM project_snapshots "
+            "WHERE project_id=?", (project_id,)).fetchone()
+        revision = (last['m'] if last else 0) + 1
+        self.conn.execute(
+            "INSERT INTO project_snapshots "
+            "(project_id, revision, snapshot_json, created_date, note) "
+            "VALUES (?, ?, ?, ?, ?)",
+            (project_id, revision, project_json, now, note))
+        # keep only the most recent MAX_SNAPSHOTS revisions
+        self.conn.execute(
+            "DELETE FROM project_snapshots WHERE project_id=? AND id NOT IN "
+            "(SELECT id FROM project_snapshots WHERE project_id=? "
+            " ORDER BY revision DESC LIMIT ?)",
+            (project_id, project_id, self.MAX_SNAPSHOTS))
+        self.conn.commit()
+
+    def list_revisions(self, project_id: int) -> List[Dict]:
+        rows = self.conn.execute(
+            "SELECT id, revision, created_date, note FROM project_snapshots "
+            "WHERE project_id=? ORDER BY revision DESC",
+            (project_id,)).fetchall()
+        return [{'id': r['id'], 'revision': r['revision'],
+                 'created_date': r['created_date'], 'note': r['note']}
+                for r in rows]
+
+    def restore_revision(self, project_id: int, revision: int) -> bool:
+        """Restore project_data from a previous revision snapshot."""
+        row = self.conn.execute(
+            "SELECT snapshot_json FROM project_snapshots "
+            "WHERE project_id=? AND revision=?",
+            (project_id, revision)).fetchone()
+        if not row:
+            return False
+        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.conn.execute(
+            "UPDATE projects SET project_data=?, modified_date=? "
+            "WHERE id=?",
+            (row['snapshot_json'], now, project_id))
+        self._add_history(project_id, "Restored",
+                          f"Restored revision {revision}")
+        self.conn.commit()
+        return True
+
+    def get_revision_data(self, project_id: int, revision: int) -> Optional[Dict]:
+        row = self.conn.execute(
+            "SELECT snapshot_json FROM project_snapshots "
+            "WHERE project_id=? AND revision=?",
+            (project_id, revision)).fetchone()
+        if row:
+            try:
+                return json.loads(row['snapshot_json'])
+            except Exception:
+                return None
+        return None
 
     # ================================================================
     # SEARCH

@@ -284,6 +284,41 @@ def test_procedure_linking():
     shutil.rmtree(tmp, ignore_errors=True)
 
 
+def test_reporting():
+    print("\n[8] STATISTICAL REPORTING + EXCEL EXPORT")
+    import reporting
+    p = reporting.procedures_report()
+    ok(p["procedures"] > 100, f"procedures > 100 (got {p['procedures']})")
+    ok(p["steps"] > 4000, f"steps > 4000 (got {p['steps']})")
+    ok(p["hold_points"] >= 0, "hold points counted")
+    pr = reporting.problems_report()
+    ok(pr["problems"] >= 20, f"problems >= 20 (got {pr['problems']})")
+    c = reporting.cbs_report()
+    ok(c["items"] >= 300, f"cbs items >= 300 (got {c['items']})")
+    ca = reporting.catalog_report()
+    ok(ca["docs"] >= 700, f"catalog docs >= 700 (got {ca['docs']})")
+    ok(len(ca.get("operation", {})) >= 10, "catalog by operation")
+    md = reporting.report_markdown("all")
+    ok("STATISTICAL REPORT" in md, "report heading")
+    ok("PROCEDURES DATABASE" in md and "KNOWLEDGE LIBRARY" in md,
+       "sections present")
+    # excel export
+    import tempfile
+    tmp = tempfile.mkdtemp(prefix="drl_report_")
+    xls = os.path.join(tmp, "report.xlsx")
+    n = reporting.export_report_excel(xls)
+    ok(n >= 7, f"excel sheets >= 7 (got {n})")
+    from openpyxl import load_workbook
+    wb = load_workbook(xls)
+    ok("Library" in wb.sheetnames, "Library sheet present")
+    ok(wb["Library"].max_row >= 700, f"Library rows >= 700 "
+       f"(got {wb['Library'].max_row})")
+    g = reporting.catalog_governance()
+    ok(g["docs"] >= 700, "governance counts docs")
+    import shutil
+    shutil.rmtree(tmp, ignore_errors=True)
+
+
 def test_neutralize_words():
     print("\n[5] NEUTRALIZE — ordinary English preserved")
     from wizard_engine import neutralize_text
@@ -308,6 +343,7 @@ if __name__ == "__main__":
     test_neutralize_words()
     test_structured_steps()
     test_procedure_linking()
+    test_reporting()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

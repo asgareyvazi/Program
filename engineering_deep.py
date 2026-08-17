@@ -425,6 +425,28 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     except Exception:
         pass
 
+    # -- 4d. Well control kill sheet + scenario (API RP 59) -------------------
+    try:
+        from engineering_wellcontrol import kill_sheet_markdown
+        wc = kill_sheet_markdown(values, operator)
+        if wc:
+            lines.append("")
+            lines.append(wc)
+            checks += 1
+    except Exception:
+        pass
+
+    # -- 4e. Wellbore stability & geomechanics --------------------------------
+    try:
+        from engineering_geomechanics import geomechanics_markdown
+        gm = geomechanics_markdown(values, operator)
+        if gm:
+            lines.append("")
+            lines.append(gm)
+            checks += 1
+    except Exception:
+        pass
+
     # -- 5. Anti-collision (trajectory-based) --------------------------------
     lines.append("")
     lines.append("### Anti-Collision — Minimum Curvature + Separation Factor")

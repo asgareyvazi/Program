@@ -45,7 +45,11 @@ MIGRATIONS = {
         (3, "ALTER TABLE problems ADD COLUMN escalation TEXT DEFAULT ''"),
     ],
     "wells.db": [],
-    "catalog.db": [],
+    "catalog.db": [
+        # knowledge governance: effective date for documents (P2)
+        (2, "ALTER TABLE docs ADD COLUMN effective_date TEXT "
+            "DEFAULT '1970-01-01'"),
+    ],
     "time_breakdown.db": [],
     "master_procedures.db": [],
 }

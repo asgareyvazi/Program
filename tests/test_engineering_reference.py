@@ -508,8 +508,95 @@ def test_hydraulics_model():
     approx("Bit (nozzles)" in md, True, 0, "bit section shown")
 
 
+def test_wellcontrol():
+    print("\n[23] WELL CONTROL — KILL SHEET + SCENARIO")
+    from engineering_wellcontrol import (kill_mud_weight,
+                                         initial_circulating_pressure,
+                                         final_circulating_pressure,
+                                         pipe_capacity_bbl_ft,
+                                         annular_capacity_bbl_ft,
+                                         strokes_to_bit,
+                                         total_strokes_to_displace,
+                                         kick_scenario,
+                                         kill_sheet_markdown)
+    # classic: 12 ppg, SIDPP 400, TVD 10000 -> KMW 12.7692
+    kmw = kill_mud_weight(12.0, 400.0, 10000.0)
+    approx(kmw, 12.7692, 0.01, "KMW")
+    # ICP = 1200 ; FCP = KMW×800/12 = 851.3
+    approx(initial_circulating_pressure(400, 800), 1200.0, 0.01, "ICP")
+    approx(final_circulating_pressure(kmw, 12.0, 800), 851.3, 1.0, "FCP")
+    # capacities: 4.276-in ID = 0.017762 bbl/ft; 8.5×5 ann = 0.04590
+    pc = pipe_capacity_bbl_ft(4.276)
+    approx(pc, 0.017762, 1e-5, "pipe capacity")
+    ac = annular_capacity_bbl_ft(8.5, 5.0)
+    approx(ac, 0.04590, 1e-4, "annular capacity")
+    # strokes: to bit 1,776 ; total 6,366 @ 0.1 bbl/stk
+    approx(strokes_to_bit(pc, 10000, 0.1), 1776.2, 1.0, "strokes to bit")
+    approx(total_strokes_to_displace(pc, ac, 10000, 0.1), 6366.2, 2.0,
+           "total strokes")
+    # scenario branching
+    vals = {"mud_weight": "12", "sidpp": "400", "sicp": "600",
+            "pit_gain": "20", "depth": "10000", "hole_size": "8.5",
+            "pipe_od": "5", "slow_pump_pressure": "800",
+            "pump_output": "0.1", "dp_id": "4.276"}
+    steps = kick_scenario(vals)
+    approx(len(steps) >= 4, True, 0, "scenario >= 4 steps")
+    md = kill_sheet_markdown(vals)
+    approx("KILL SHEET" in md, True, 0, "kill sheet heading")
+    approx("12.77" in md, True, 0, "KMW in section")
+    approx("851" in md, True, 0, "FCP in section")
+    # heavy-kill heuristic: SIDPP 600 @ 8000 ft -> KMW-MW = 1.44 -> W&W
+    vals2 = dict(vals, sidpp="600", depth="8000")
+    md2 = kill_sheet_markdown(vals2)
+    approx("WAIT-AND-WEIGHT" in md2.upper(), True, 0, "W&W recommended")
+
+
+def test_geomechanics():
+    print("\n[24] GEOMECHANICS — KIRSCH + MOHR-COULOMB + LOT")
+    from engineering_geomechanics import (kirsch_hoop_stress,
+                                          fracture_pressure,
+                                          breakout_pressure,
+                                          safe_mud_window,
+                                          mud_window_check,
+                                          lot_interpretation,
+                                          geomechanics_markdown)
+    # Kirsch: θ=0 -> 3σh−σH−Pm = 10000 ; θ=90 -> 3σH−σh−Pm = 18000
+    approx(kirsch_hoop_stress(12000, 10000, 8000, 0), 10000.0, 0.01,
+           "Kirsch θ=0")
+    approx(kirsch_hoop_stress(12000, 10000, 8000, 90), 18000.0, 0.01,
+           "Kirsch θ=90")
+    # fracture: 3σh−σH−Pp+T0 = 30000−12000−5000+500 = 13500 (vertical)
+    fr = fracture_pressure(19000, 12000, 10000, 5000, 500)
+    approx(fr["pressure_psi"], 13500.0, 1.0, "fracture pressure")
+    approx(fr["mechanism"].startswith("vertical"), True, 0, "mechanism")
+    # breakout: c = 2309 ; Pm = [26000−4000−8000]/2 = 7000 (hand-verified)
+    approx(breakout_pressure(12000, 10000, 5000, 8000, 30), 7000.0, 3.0,
+           "breakout pressure")
+    # window + checks
+    win = safe_mud_window(19000, 12000, 10000, 5000, 8000, 30, 500)
+    approx(win["lower_psi"], 7000.0, 3.0, "window lower")
+    approx(win["upper_psi"], 13500.0, 3.0, "window upper")
+    chk = mud_window_check(12.0, 10000, win)
+    approx("BREAKOUT" in chk["status"], True, 0, "12 ppg -> breakout risk")
+    chk2 = mud_window_check(16.0, 10000, win)
+    approx(chk2["status"].startswith("OK"), True, 0, "16 ppg -> OK")
+    # LOT: 1400 psi @ 4000 ft = 6.73 ppg EMW
+    li = lot_interpretation(1400, 4000, 12.0)
+    approx(li["emw_ppg"], 6.73, 0.02, "LOT EMW")
+    # section
+    md = geomechanics_markdown({
+        "depth": "10000", "mud_weight": "12", "formation_pressure": "9.6",
+        "sigma_v_grad": "1.9", "sH_sv_ratio": "0.63", "sh_sv_ratio": "0.53",
+        "ucs_psi": "8000", "friction_angle": "30",
+        "tensile_strength": "500", "lot_pressure": "1400",
+        "casing_depth": "4000"})
+    approx("WELLBORE STABILITY" in md, True, 0, "section heading")
+    approx("Safe mud window" in md, True, 0, "window shown")
+    approx("LOT" in md, True, 0, "LOT shown")
+
+
 def test_afe_materials():
-    print("\n[23] AFE vs ACTUAL + MATERIAL READINESS")
+    print("\n[25] AFE vs ACTUAL + MATERIAL READINESS")
     from operations_engine import LessonsDatabase
     db = LessonsDatabase()
     db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
@@ -527,7 +614,7 @@ def test_afe_materials():
 
 
 def test_backup_secrets():
-    print("\n[24] BACKUP/RESTORE + SECRETS")
+    print("\n[26] BACKUP/RESTORE + SECRETS")
     from backup_restore import create_backup, list_backups, SecretsManager
     b = create_backup("test")
     approx(b is not None, True, 0, "backup created")
@@ -540,7 +627,7 @@ def test_backup_secrets():
 
 
 def test_well_report():
-    print("\n[25] WELL REPORT GENERATOR")
+    print("\n[27] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
     md = build_well_report(_demo_values(), "PARS OIL CO", "DRILL PRO")
     for sec in ("WELL PROFILE", "ENGINEERING VALIDATION", "PROGRAM READINESS",
@@ -559,7 +646,8 @@ def main():
                test_entity_scrub, test_compliance, test_risk_decision,
                test_standards, test_deep_engineering,
                test_structured_steps, test_anticollision, test_advanced_casing,
-               test_decision_trees, test_hydraulics_model, test_afe_materials,
+               test_decision_trees, test_hydraulics_model, test_wellcontrol,
+               test_geomechanics, test_afe_materials,
                test_backup_secrets, test_well_report):
         try:
             fn()

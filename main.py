@@ -3047,6 +3047,9 @@ class DrillingProgramMainWindow(QMainWindow):
         bk_action = QAction("💾 Backup / Restore", self)
         bk_action.triggered.connect(self._show_backup)
         tools_menu.addAction(bk_action)
+        rep_action = QAction("📊 Statistical Reports & Excel Export", self)
+        rep_action.triggered.connect(self._show_reports)
+        tools_menu.addAction(rep_action)
         tools_menu.addAction(tb_action)
 
         # Templates Menu
@@ -3276,6 +3279,44 @@ class DrillingProgramMainWindow(QMainWindow):
         except Exception as e:
             import traceback
             QMessageBox.critical(self, "Backup", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _show_reports(self):
+        """Statistical reports preview + Excel export dialog."""
+        try:
+            import reporting
+            dlg = QDialog(self)
+            dlg.setWindowTitle("📊 Statistical Reports")
+            dlg.setMinimumSize(860, 640)
+            lay = QVBoxLayout(dlg)
+            tabs = QTabWidget()
+            preview = QTextEdit()
+            preview.setReadOnly(True)
+            md = reporting.report_markdown("all")
+            preview.setPlainText(md)
+            tabs.addTab(preview, "📄 Report (Markdown)")
+            btns = QHBoxLayout()
+            btn_xls = QPushButton("📗 Export Excel Report…")
+            def _export():
+                path, _ = QFileDialog.getSaveFileName(
+                    dlg, "Save Excel Report",
+                    f"Drilling_Report_{datetime.now().strftime('%Y%m%d')}.xlsx",
+                    "Excel Files (*.xlsx)")
+                if path:
+                    n = reporting.export_report_excel(path, "all")
+                    QMessageBox.information(
+                        dlg, "Exported",
+                        f"Excel report saved with {n} sheets:\n{path}")
+            btn_xls.clicked.connect(_export)
+            btns.addStretch()
+            btn_xls.setMinimumWidth(220)
+            btns.addWidget(btn_xls)
+            lay.addWidget(tabs)
+            lay.addLayout(btns)
+            dlg.exec()
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Reports", f"{e}\n\n"
                                  f"{traceback.format_exc()[-300:]}")
 
     def _show_procedure_manager(self):

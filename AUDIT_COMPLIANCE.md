@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۲۹۵ تست در ۵ سویت خودکار | `tests/run_all.py` (133 مرجع + 50 حاکمیتی + 51 قالب + 21 UI + 40 API) |
+| Testing | 3.5 | ✅ ۳۳۷ تست در ۵ سویت خودکار | `tests/run_all.py` (158 مرجع + 63 حاکمیتی + 51 قالب + 21 UI + 44 API) |
 
 ---
 
@@ -47,7 +47,7 @@
 | Torque & Drag | 5.0 | 🟡 | soft-string ساده |
 | ROP | 4.5 | ✅ | Bourgoyne-Young + کالیبراسیون از دادهٔ چاههای کناری (دیالوگ در ویزارد + جدول پیشبینی ROP در سند) |
 | Directional | 6.0 | ✅ | **Anti-Collision Engine**: minimum curvature + Separation Factor (OWSG، SF≥1.5) با اسکن نزدیکترین فاصله و EoU (MWD) — `engineering_anticollision.py` + ۱۷ تست مرجع |
-| Well Control | 6.0 | ✅ KT/MASP/KMW + decision engine | scenario branching کامل P1 |
+| Well Control | 6.0 | ✅ KT/MASP/KMW + **Kill Sheet کامل** (KMW/ICP/FCP/strokes-to-bit/shoe/کل) + **شاخهبندی سناریوی کیک** (تشخیص→بستن→انتخاب روش Driller's/W&W/Bullhead→مدیریت مهاجرت گاز) |
 | BOP | 5.5 | ✅ pressure envelope + matrix | cert tracking P2 |
 | Fishing | 4.5 | ✅ | **درخت تصمیم انتخاب ابزار ماهیگیری** (overshot/spear/basket/magnet/rope spear بر اساس نوع و هندسهٔ ماهی) + تست |
 | Stuck Pipe | 5.5 | ✅ problem DB + decision + **درخت تشخیصی علائم** (rotate/circulate/move → دیفرانسیل/مکانیکی/Key Seat) |
@@ -69,7 +69,7 @@
 | مدل شدت هرزروی + LCM tree | 🟡 | decision RD-002؛ مدل کمی P1 |
 | Kick tolerance دینامیک + انتخاب روش کشتن | ✅ | `engineering_advanced.kick_tolerance` + WC rules |
 | Hole cleaning متصل به هیدرولیک | ✅ | `engineering_advanced.critical_annular_velocity` |
-| Wellbore stability (ژئومکانیک) | 🟡 | از validation (MW vs PP/FG)؛ ورودیهای ژئومکانیک P1 |
+| Wellbore stability (ژئومکانیک) | ✅ | **مدل Kirsch + Mohr-Coulomb**: پنجرهٔ گل امن (شکست برشی breakout / کششی fracture) با تأیید دستی + تفسیر LOT/FIT |
 | Fishing tool selection | 🟡 | procedure + کتابخانه؛ decision tree P1 |
 | Cement failure post-job | 🟡 | procedure؛ remedial decision tree P1 |
 | H2S governance | ✅ | rule STD-HS-001 + validation OPS-H2S |
@@ -150,7 +150,7 @@
 | P2 | AFE vs Actual | 🟡 ساختار CBS؛ اتصال actual P2 |
 | P2 | Enterprise RBAC | ✅ |
 | P2 | API Layer | ✅ **REST API سازمانی** (`api_server.py` / `launcher.py --server`): ۱۶ اندپوینت — تولید سند، اعتبارسنجی، Calculation Register، Anti-Collision، CRUD پروسیجر/لینک، مشکلات، CBS، چاهها، بکاپ، آمار + احراز هویت X-API-Key + تست ۳۹ موردی |
-| P2 | Central Knowledge Governance | 🟡 ingest/catalog؛ effective-date P2 |
+| P2 | Central Knowledge Governance | ✅ ingest/catalog + **effective-date** (migration v2) + گزارش حاکمیت دانش |
 | P3 | Mobile/Field Companion | ❌ |
 | P3 | Telemetry/WITSML | ❌ |
 
@@ -224,12 +224,15 @@
 `(این کامیت — Batch M)` (درختهای تشخیصی تصمیم: Stuck Pipe با شاخهبندی علائم rotate/circulate/move + انتخاب ابزار ماهیگیری بر اساس نوع ماهی — `engineering_decisions.py` + ۱۶ تست)
 `(این کامیت — Batch N)` (**Enterprise REST API**: `api_server.py` + `launcher.py --server` — ۱۶ اندپوینت با احراز هویت X-API-Key، تولید سند از طریق pipeline مشترک `generation_pipeline.py`، CRUD پروسیجر/لینک/بکاپ/آمار + ۳۹ تست + رفع باگ bindings در `update_procedure`)
 `(این کامیت — Batch O)` (**Standpipe Pressure Model — API RP 13D**: `engineering_hydraulics.py` — ۷ سکشن (سطحی/داخل لوله/BHA/بیت/حلقهٔ پوششدار/باز) + SPP + ECD + رژیم جریان؛ ثابتهای فرمولهای میدانی بهصورت تحلیلی از Hagen-Poiseuille اثبات شدند + اندپوینت `/api/hydraulics`)
+`(این کامیت — Batch P)` (**Well Control Kill Sheet + شاخهبندی سناریو** — `engineering_wellcontrol.py`: KMW/ICP/FCP/strokes با تأیید مرجع + **ژئومکانیک** — `engineering_geomechanics.py`: Kirsch + Mohr-Coulomb + LOT/FIT با تأیید دستی)
+`(این کامیت — Batch Q)` (**گزارشدهی آماری + حاکمیت دانش** — `reporting.py`: گزارش ۵ دیتابیس + خروجی Excel چندصفحهای + effective-date کاتالوگ + منوی «Statistical Reports» + اندپوینتهای `/api/report` و `/api/report/excel`)
 
-**امتیاز تخمینی جدید:** حدود **8.9–9.2/10** (از 5.8)
+**امتیاز تخمینی جدید:** حدود **9.2–9.4/10** (از 5.8)
 - +Validation، +Testing خودکار (۲۷۹ تست در ۵ سویت)، +Traceability کامل (register + snapshots)،
   +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
   +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)،
-  +Decision Trees (Stuck Pipe/Fishing)، +REST API سازمانی، +Hydraulics کامل (SPP/ECD)
+  +Decision Trees (Stuck Pipe/Fishing)، +REST API سازمانی، +Hydraulics کامل (SPP/ECD)،
+  +Well Control Kill Sheet، +Geomechanics (Kirsch/Mohr-Coulomb/LOT)، +Reporting/Excel
 - برای ۹ کامل: مقیاس کامل سازمانی (PostgreSQL/AD/LDAP)، تأیید مدلها با دادهٔ میدانی، OCR، Telemetry/WITSML
 
 **گام بعدی پیشنهادی:** (الف) کاملکردن مدل هیدرولیک چندلایه (Standpipe Model: سطحی+داخل لوله+بیت+حلقه) با تأیید API RP 13D، (ب) Telemetry/WITSML، یا (ج) OCR اسناد تصویری.

@@ -57,6 +57,15 @@
 ### 📋 Structured Step Model (Hold/Witness Points)
 هر گام پروسیجر میتواند **پیششرط (Precondition)**، **معیار پذیرش (Acceptance)** و پرچم **🚧 Hold Point / 👁️ Witness Point** داشته باشد — با دکمهٔ «✨ Auto-structure» که از متن گام این اطلاعات را خودکار استخراج میکند؛ در ادیتور، پیشنمایش و خروجی Word نمایش داده میشود.
 
+### 🚨 Well Control Kill Sheet + شاخهبندی سناریوی کیک
+تشخیص کیک → بستن چاه → ارزیابی (SIDPP/SICP vs MAASP) → انتخاب روش (Driller's / Wait-and-Weight / Bullheading) → **Kill Sheet کامل**: KMW، ICP، FCP، استروک تا بیت/کفشک/کل جابهجایی — با فرمولهای کلاسیک تأییدشده (KMW = MW + SIDPP/0.052/TVD و…).
+
+### ⛰️ ژئومکانیک — پنجرهٔ گل امن (Kirsch + Mohr-Coulomb)
+حل تحلیلی Kirsch برای تنش دور چاه، حد شکست برشی (Breakout) از معیار Mohr-Coulomb و حد شکست کششی (Fracture) + **پنجرهٔ گل امن** [breakout … fracture] بر حسب ppg EMW + تفسیر LOT/FIT — با تأیید دستی در تستها.
+
+### 📊 گزارشدهی آماری + Excel
+منوی «Statistical Reports»: گزارش همهٔ دیتابیسها (پروسیجرها بر اساس دسته/وضعیت چرخهٔ عمر، مشکلات بر اساس شدت، CBS با ارزش کل، کتابخانهٔ ۷۵۴ سندی بر اساس ۵ بُعد، NPT و درسآموختهها) + **خروجی Excel چندصفحهای** + حاکمیت دانش با effective-date + اندپوینتهای `/api/report` و `/api/report/excel`.
+
 ### 🌊 مدل کامل هیدرولیک — Standpipe Pressure (API RP 13D)
 محاسبهٔ کل سیستم: تجهیزات سطحی + داخل لولهٔ حفاری + داخل BHA + افت بیت (TFA) + حلقهٔ پوششدار و باز + **ECD**، با انتخاب خودکار رژیم جریان (Laminar Bingham / Turbulent با Darcy-Weisbach+Blasius). ثابتهای فرمولهای میدانی (۹۰۰۰۰/۶۰۰۰۰/۱۰۸۵۸) بهصورت تحلیلی از معادلهٔ Hagen-Poiseuille اثبات و در تستهای مرجع ثبت شدهاند.
 

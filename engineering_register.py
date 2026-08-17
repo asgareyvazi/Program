@@ -18,6 +18,8 @@
 import math
 from typing import Dict, List, Optional
 
+CF = 0.052   # psi per ppg per ft
+
 
 def _f(v, default: float = 0.0) -> float:
     """Safe float conversion."""
@@ -393,6 +395,132 @@ def compute_register(values: Dict) -> List[Dict]:
                     "result": f"{sp['ecd_ppg']}", "unit": "ppg",
                     "standard": "API RP 13D",
                     "status": "OK"})
+    except Exception:
+        pass
+
+    # ----- 13d. Well control kill sheet --------------------------------------
+    try:
+        from engineering_wellcontrol import (kill_mud_weight,
+                                             initial_circulating_pressure,
+                                             final_circulating_pressure,
+                                             pipe_capacity_bbl_ft,
+                                             annular_capacity_bbl_ft,
+                                             strokes_to_bit,
+                                             strokes_to_shoe,
+                                             total_strokes_to_displace)
+        mw_wc = _f(pick("mud_weight", "mud_weight_ppg", "current_mw", "mw"))
+        sidpp_wc = _f(pick("sidpp", "sidpip"))
+        tvd_wc = _f(pick("depth_ft", "depth", "td_depth", "td_ft",
+                         "total_depth"))
+        spr_wc = _f(pick("slow_pump_pressure", "spr_psi"))
+        pump_wc = _f(pick("pump_output", "pump_output_bbl_stk"))
+        dp_wc = _f(pick("dp_id", "pipe_id"))
+        shoe_wc = _f(pick("casing_depth", "casing_depth_ft", "shoe_depth"))
+        hole_wc = _f(pick("hole_size", "hole_id"))
+        pipe_wc = _f(pick("pipe_od", "pipe_size"))
+        if mw_wc > 0 and sidpp_wc > 0 and tvd_wc > 0:
+            kmw = kill_mud_weight(mw_wc, sidpp_wc, tvd_wc)
+            rows.append({
+                "param": "Kill mud weight",
+                "formula": "KMW = MW + SIDPP/(0.052×TVD)",
+                "inputs": f"MW = {_fmt(mw_wc)} ppg, "
+                          f"SIDPP = {_fmt(sidpp_wc, 0)} psi, "
+                          f"TVD = {_fmt(tvd_wc, 0)} ft",
+                "result": _fmt(kmw), "unit": "ppg",
+                "standard": "API RP 59 / IADC well control",
+                "status": "OK"})
+            if spr_wc > 0:
+                icp = initial_circulating_pressure(sidpp_wc, spr_wc)
+                fcp = final_circulating_pressure(kmw, mw_wc, spr_wc)
+                rows.append({
+                    "param": "Initial circulating pressure (ICP)",
+                    "formula": "ICP = SIDPP + SPR",
+                    "inputs": f"SIDPP = {_fmt(sidpp_wc, 0)} psi, "
+                              f"SPR = {_fmt(spr_wc, 0)} psi",
+                    "result": _fmt(icp, 0), "unit": "psi",
+                    "standard": "API RP 59",
+                    "status": "OK"})
+                rows.append({
+                    "param": "Final circulating pressure (FCP)",
+                    "formula": "FCP = KMW × SPR / MW",
+                    "inputs": f"KMW = {_fmt(kmw)} ppg, "
+                              f"SPR = {_fmt(spr_wc, 0)} psi, "
+                              f"MW = {_fmt(mw_wc)} ppg",
+                    "result": _fmt(fcp, 0), "unit": "psi",
+                    "standard": "API RP 59",
+                    "status": "OK"})
+            if pump_wc > 0 and dp_wc > 0:
+                pc = pipe_capacity_bbl_ft(dp_wc)
+                stb = strokes_to_bit(pc, tvd_wc, pump_wc)
+                rows.append({
+                    "param": "Kill strokes to bit",
+                    "formula": "(ID²/1029.4)×TVD / pump output",
+                    "inputs": f"DP ID = {_fmt(dp_wc)} in, "
+                              f"TVD = {_fmt(tvd_wc, 0)} ft, "
+                              f"pump = {_fmt(pump_wc)} bbl/stk",
+                    "result": _fmt(stb, 0), "unit": "strokes",
+                    "standard": "IADC well control",
+                    "status": "OK"})
+                if shoe_wc > 0:
+                    sts = strokes_to_shoe(pc, shoe_wc, pump_wc)
+                    rows.append({
+                        "param": "Kill strokes to shoe",
+                        "formula": "(ID²/1029.4)×shoe / pump output",
+                        "inputs": f"DP ID = {_fmt(dp_wc)} in, "
+                                  f"shoe = {_fmt(shoe_wc, 0)} ft, "
+                                  f"pump = {_fmt(pump_wc)} bbl/stk",
+                        "result": _fmt(sts, 0), "unit": "strokes",
+                        "standard": "IADC well control",
+                        "status": "OK"})
+                if hole_wc > pipe_wc:
+                    ac = annular_capacity_bbl_ft(hole_wc, pipe_wc)
+                    tot = total_strokes_to_displace(pc, ac, tvd_wc, pump_wc)
+                    rows.append({
+                        "param": "Total kill strokes (displace)",
+                        "formula": "(pipe+annular cap)×TVD / pump output",
+                        "inputs": f"pipe = {_fmt(pc, 5)} bbl/ft, "
+                                  f"ann = {_fmt(ac, 5)} bbl/ft, "
+                                  f"TVD = {_fmt(tvd_wc, 0)} ft",
+                        "result": _fmt(tot, 0), "unit": "strokes",
+                        "standard": "IADC well control",
+                        "status": "OK"})
+    except Exception:
+        pass
+
+    # ----- 13e. Geomechanics window ------------------------------------------
+    try:
+        from engineering_geomechanics import (safe_mud_window,
+                                              mud_window_check)
+        tvd_g = _f(pick("depth_ft", "depth", "td_depth", "td_ft",
+                        "total_depth"))
+        mw_g = _f(pick("mud_weight", "mud_weight_ppg", "current_mw", "mw"))
+        pp_g = _f(pick("formation_pressure", "pore_pressure", "pp_ppg"))
+        ucs_g = _f(pick("ucs_psi", "rock_ucs"))
+        if tvd_g > 0 and ucs_g > 0 and mw_g > 0:
+            sv_grad = _f(pick("sigma_v_grad", "overburden_gradient"), 1.0)
+            sH_r = _f(pick("sH_sv_ratio", "sigmaH_sv_ratio"), 0.95)
+            sh_r = _f(pick("sh_sv_ratio", "sigmah_sv_ratio"), 0.85)
+            phi_g = _f(pick("friction_angle", "friction_angle_deg"), 30.0)
+            t0_g = _f(pick("tensile_strength", "tensile_strength_psi"))
+            sv = sv_grad * tvd_g
+            pp = pp_g * CF * tvd_g if 0 < pp_g <= 5 else pp_g
+            win = safe_mud_window(sv, sv * sH_r, sv * sh_r, pp, ucs_g,
+                                  phi_g, t0_g)
+            chk = mud_window_check(mw_g, tvd_g, win)
+            rows.append({
+                "param": "Wellbore stability window (breakout–fracture)",
+                "formula": "Kirsch hoop + Mohr-Coulomb (σ'1−σ'3)/2 = "
+                           "c·cosφ + σ'm·sinφ",
+                "inputs": f"σv = {_fmt(sv, 0)} psi, σH = {_fmt(sv*sH_r, 0)} "
+                          f"psi, σh = {_fmt(sv*sh_r, 0)} psi, "
+                          f"Pp = {_fmt(pp, 0)} psi, UCS = {_fmt(ucs_g, 0)} psi",
+                "result": f"{_fmt(win['lower_psi']/CF/tvd_g, 1)} – "
+                          f"{_fmt(win['upper_psi']/CF/tvd_g, 1)} ppg EMW",
+                "unit": "ppg",
+                "standard": "Kirsch (elastic) + Mohr-Coulomb",
+                "status": "OK" if chk["status"].startswith("OK")
+                          else ("WARN" if "FRACTURE" in chk["status"]
+                                else "FAIL")})
     except Exception:
         pass
 

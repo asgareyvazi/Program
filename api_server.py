@@ -18,6 +18,7 @@ import argparse
 import base64
 import hmac
 import json
+import os
 import secrets
 import sys
 from datetime import datetime
@@ -237,6 +238,44 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         from engineering_hydraulics import standpipe_pressure
         return standpipe_pressure(req.values)
 
+    @app.post("/api/wellcontrol", dependencies=AUTH_DEP)
+    def wellcontrol(req: RegisterRequest):
+        from engineering_wellcontrol import kick_scenario
+        from engineering_register import _f
+        v = req.values
+        out = {"scenario": kick_scenario(v)}
+        mw = _f(v.get("mud_weight") or v.get("mud_weight_ppg"))
+        sidpp = _f(v.get("sidpp") or v.get("sidpip"))
+        tvd = _f(v.get("depth") or v.get("td_depth") or
+                 v.get("total_depth"))
+        if mw > 0 and sidpp > 0 and tvd > 0:
+            from engineering_wellcontrol import kill_mud_weight
+            out["kill_mud_weight_ppg"] = round(
+                kill_mud_weight(mw, sidpp, tvd), 2)
+        return out
+
+    @app.post("/api/geomechanics", dependencies=AUTH_DEP)
+    def geomechanics(req: RegisterRequest):
+        from engineering_geomechanics import safe_mud_window
+        from engineering_register import _f
+        v = req.values
+        tvd = _f(v.get("depth") or v.get("td_depth") or
+                 v.get("total_depth"))
+        ucs = _f(v.get("ucs_psi") or v.get("rock_ucs"))
+        if tvd <= 0 or ucs <= 0:
+            return {"error": "depth and ucs_psi required"}
+        sv_grad = _f(v.get("sigma_v_grad"), 1.0)
+        sH_r = _f(v.get("sH_sv_ratio"), 0.95)
+        sh_r = _f(v.get("sh_sv_ratio"), 0.85)
+        pp = _f(v.get("formation_pressure") or v.get("pore_pressure"))
+        pp_psi = pp * 0.052 * tvd if 0 < pp <= 5 else pp
+        win = safe_mud_window(sv_grad * tvd, sv_grad * tvd * sH_r,
+                              sv_grad * tvd * sh_r, pp_psi, ucs,
+                              _f(v.get("friction_angle"), 30.0),
+                              _f(v.get("tensile_strength")))
+        win["tvd_ft"] = tvd
+        return win
+
     @app.post("/api/anticollision", dependencies=AUTH_DEP)
     def anticollision(req: AnticollisionRequest):
         from engineering_anticollision import (min_curvature_positions,
@@ -389,6 +428,39 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
             raise HTTPException(status_code=500, detail="no data to back up")
         return {"name": b.name, "encrypted": b.suffix == ".enc",
                 "path": str(b)}
+
+    # ---------------- reports ----------------
+    @app.get("/api/report")
+    def report(report_type: str = Query("all", max_length=30)):
+        import reporting
+        data = {}
+        if report_type in ("all", "procedures"):
+            data["procedures"] = reporting.procedures_report()
+        if report_type in ("all", "problems"):
+            data["problems"] = reporting.problems_report()
+        if report_type in ("all", "cbs"):
+            data["cbs"] = reporting.cbs_report()
+        if report_type in ("all", "catalog"):
+            data["catalog"] = reporting.catalog_report()
+        if report_type in ("all", "operations"):
+            data["operations"] = reporting.operations_report()
+        if report_type in ("all", "governance"):
+            data["governance"] = reporting.catalog_governance()
+        data["markdown"] = reporting.report_markdown(report_type)
+        return data
+
+    @app.get("/api/report/excel")
+    def report_excel():
+        import shutil
+        import tempfile
+        import reporting
+        tmp = tempfile.mkdtemp(prefix="drl_rep_")
+        path = os.path.join(tmp, "report.xlsx")
+        reporting.export_report_excel(path, "all")
+        data = Path(path).read_bytes()
+        shutil.rmtree(tmp, ignore_errors=True)
+        return {"xlsx_base64": base64.b64encode(data).decode(),
+                "size": len(data)}
 
     # ---------------- stats ----------------
     @app.get("/api/stats", dependencies=AUTH_DEP)

@@ -129,6 +129,22 @@ def main():
                     headers=H)
     ok(r.status_code == 200 and r.json()["spp_psi"] > 500,
        f"hydraulics SPP = {r.json().get('spp_psi')} psi")
+    r = client.post("/api/wellcontrol",
+                    json={"values": {"mud_weight": "12", "sidpp": "400",
+                                     "depth": "10000"}},
+                    headers=H)
+    ok(r.status_code == 200 and abs(r.json()["kill_mud_weight_ppg"] -
+                                    12.77) < 0.05,
+       f"wellcontrol KMW = {r.json().get('kill_mud_weight_ppg')}")
+    r = client.post("/api/geomechanics",
+                    json={"values": {"depth": "10000", "ucs_psi": "8000",
+                                     "formation_pressure": "9.6",
+                                     "sigma_v_grad": "1.9",
+                                     "sH_sv_ratio": "0.63",
+                                     "sh_sv_ratio": "0.53"}},
+                    headers=H)
+    ok(r.status_code == 200 and r.json().get("status") in
+       ("OK", "NARROW", "NO_WINDOW"), "geomechanics window computed")
 
     print("\n[5] PROCEDURES CRUD + LINKING")
     r = client.post("/api/procedures",
@@ -177,6 +193,12 @@ def main():
     r = client.get("/api/stats", headers=H)
     ok(r.status_code == 200 and r.json().get("procedures", {}).get(
         "total_procedures", 0) > 0, "stats 200")
+    r = client.get("/api/report", headers=H)
+    ok(r.status_code == 200 and r.json().get("procedures", {}).get(
+        "procedures", 0) > 100, "report 200 with data")
+    r = client.get("/api/report/excel", headers=H)
+    ok(r.status_code == 200 and r.json().get("size", 0) > 10000,
+       "excel report endpoint returns file")
 
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")

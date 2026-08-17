@@ -48,6 +48,9 @@
 - **🧭 Decision Trees** — درخت تشخیصی Stuck Pipe (علائم rotate/circulate/move → دیفرانسیل/مکانیکی/Key Seat) + انتخاب ابزار ماهیگیری بر اساس نوع ماهی (`engineering_decisions.py`)
 - **🌐 Enterprise REST API** — `python3 launcher.py --server` (یا `api_server.py`): ۱۷ اندپوینت با کلید API — تولید سند، validation، register، hydraulics، anti-collision، CRUD پروسیجر/لینک، مشکلات، CBS، چاهها، بکاپ، آمار؛ مستندات OpenAPI در `/docs`؛ تست: `python3 tests/test_api.py`
 - **🌊 Standpipe Pressure Model (API RP 13D)** — SPP کامل (سطحی + داخل لوله + BHA + بیت + حلقه) + ECD + رژیم جریان با ثابتهای تحلیلی اثباتشده (`engineering_hydraulics.py`)
+- **🚨 Well Control Kill Sheet** — KMW/ICP/FCP/strokes-to-bit/shoe + شاخهبندی سناریوی کیک (Driller's / W&W / Bullhead) (`engineering_wellcontrol.py`)
+- **⛰️ Geomechanics** — پنجرهٔ گل امن با Kirsch + Mohr-Coulomb (breakout/fracture) + LOT/FIT (`engineering_geomechanics.py`)
+- **📊 Statistical Reports** — منوی «Statistical Reports» + خروجی Excel چندصفحهای (پروسیجر/مشکلات/CBS/کاتالوگ/NPT) + effective-date دانش (`reporting.py`)
 - **🔗 Procedure ← Well/Risk** — لینک پروسیجر به چاه/سکشن/ریسک (wells.db + problems.db) + سکشن «LINKED PROCEDURES» در Well Report + نقش مسئول (Role) در هر گام
 - **📊 Engineering Calculation Register** — در هر سند تولیدی، ضمیمهٔ «ENGINEERING CALCULATION REGISTER»: تکبهتک اعداد محاسبهشده با **فرمول + مقادیر ورودی + نتیجه + منبع استاندارد** (API/IADC/API 5C3...) — پاسخ به سؤال «این عدد از کدام معادله/استاندارد است؟»
 - **🔬 Deep Engineering Verification** — سکشن تأیید عمیق در سند: ROP بورگین-یانگ با **کالیبراسیون از دادهٔ چاههای کناری** (دیالوگ + جدول پیشبینی)، هیدرولیک Herschel-Bulkley، بررسی triaxial (von Mises)، surge/swab با تراکمپذیری؛ ورودیهای «Engineering Basis» (MW/PP/FG/سایزها/WOB/RPM/...) در همهٔ قالبها فعال است

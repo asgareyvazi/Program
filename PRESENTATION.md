@@ -74,6 +74,12 @@
 - **Deepwater:** Riser Margin (وزن گل لازم در صورت جابهجایی رایزر با آب دریا) + بررسی WP BOP زیردریایی
 - **Completion:** مدل **سد دوتایی** به فلسفهٔ NORSOK D-010 (سد اولیه: سیمان/کیسینگ/پکر/لوله — سد ثانویه: سرچاهی/درخت/TRSV)
 
+### 📈 Sensitivity Analysis (Tornado)
+هر ورودی کلیدی (±Δ) یکبهیک تغییر میکند و اثرش روی خروجیهای مهندسی (SPP/ECD/KMW/MAASP/هزینه) با ماشینحسابهای واقعی بازمحاسبه میشود — جدول رتبهبندی «Control Parameters» در سند: پارامترهایی که باید دقیق اندازهگیری و کنترل شوند + اندپوینت `/api/sensitivity`.
+
+### 🔤 OCR Ingest + 📄 PDF Export
+`python3 ocr_ingest.py <folder>` اسناد اسکنشده (PDF/تصویر) را با Tesseract به متن تبدیل و با dedupe هش وارد کتابخانه و کاتالوگ میکند؛ `python3 pdf_export.py <file.docx>` خروجی PDF میسازد (LibreOffice headless) — اگر ابزار روی سیستم نصب نباشد، پیام نصب دقیق نمایش داده میشود (بقیهٔ نرمافزار طبیعی کار میکند). دستور `python3 launcher.py --doctor` سلامت کل سیستم را گزارش میدهد.
+
 ### 📡 WITSML / Telemetry Export
 خروجی **WITSML v1.4.1** (چاه، چاهک، مسیر با ایستگاههای Minimum Curvature) + JSON handoff از File → Export WITSML یا اندپوینت `/api/witsml` — آمادهٔ اتصال به سیستمهای telemetry.
 

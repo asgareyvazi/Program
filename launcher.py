@@ -600,6 +600,49 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Procedures DB: {e}")
 
+    elif arg == "--doctor":
+        # System health check — dependencies, databases, optional tools
+        print("\n" + "=" * 64)
+        print("SYSTEM HEALTH CHECK (doctor)")
+        print("=" * 64)
+        deps = DependencyManager.check()
+        for name, ok_ in deps.get("details", {}).items():
+            print(f"  {'✅' if ok_ else '❌'} dependency: {name}")
+        print()
+        import sqlite3 as _sq
+        app_dir = Path.home() / ".drilling_program"
+        for fname, table in (("procedures.db", "procedures"),
+                             ("cbs.db", "cbs_items"),
+                             ("problems.db", "problems"),
+                             ("catalog.db", "docs"),
+                             ("master_procedures.db", "master_procedures"),
+                             ("operations.db", "lessons")):
+            p = app_dir / fname
+            if not p.exists():
+                print(f"  ❌ db: {fname} MISSING")
+                continue
+            try:
+                con = _sq.connect(str(p))
+                n = con.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+                con.close()
+                print(f"  ✅ db: {fname} ({n} rows in {table})")
+            except Exception as e:
+                print(f"  ⚠️  db: {fname} unreadable ({e})")
+        lib = Path("programs/library")
+        n_docs = len(list(lib.glob("*.txt"))) if lib.exists() else 0
+        print(f"  {'✅' if n_docs > 700 else '❌'} library: {n_docs} docs")
+        try:
+            import ocr_ingest, pdf_export
+            print(f"  {'✅' if ocr_ingest.tesseract_available() else '❌'} "
+                  f"tesseract (OCR): "
+                  f"{'available' if ocr_ingest.tesseract_available() else 'not installed'}")
+            print(f"  {'✅' if pdf_export.libreoffice_available() else '❌'} "
+                  f"libreoffice (PDF): "
+                  f"{'available' if pdf_export.libreoffice_available() else 'not installed'}")
+        except Exception:
+            pass
+        print("=" * 64)
+
     elif arg == "--server":
         # Enterprise REST API mode (no GUI) — audit P2 / buyer Q14
         import subprocess as _sp

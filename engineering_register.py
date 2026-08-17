@@ -350,6 +350,15 @@ def compute_register(values: Dict) -> List[Dict]:
         except Exception:
             pass
 
+    # ----- 13b. Advanced casing checks (thermal/wear/corrosion) --------------
+    try:
+        from engineering_casing import casing_design_check
+        csg = casing_design_check(values)
+        for c in csg.get("checks", []):
+            rows.append(c)
+    except Exception:
+        pass
+
     # ----- 14. Anti-collision separation factor -----------------------------
     traj_md = pick("trajectory_table")
     off_md = pick("offset_trajectory_table")

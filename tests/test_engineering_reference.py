@@ -8,6 +8,7 @@
 # (API/field handbook) within a declared tolerance. Exit code 0 = all pass.
 # ============================================================================
 
+import math
 import os
 import sys
 import traceback
@@ -351,8 +352,60 @@ def test_anticollision():
     approx("Surface offset" in mkd3, True, 0, "offset noted in section")
 
 
+def test_advanced_casing():
+    print("\n[20] ADVANCED CASING (thermal/wear/corrosion/triaxial)")
+    from engineering_casing import (buoyancy_factor, thermal_stress,
+                                    thermal_force, remaining_wall,
+                                    derated_burst, derated_collapse,
+                                    eccentricity_correction,
+                                    hb_pressure_loss_eccentric,
+                                    casing_design_check,
+                                    casing_check_markdown)
+    # buoyancy: BF = 1 − 12/65.4 = 0.8165
+    approx(buoyancy_factor(12.0), 0.8165, 1e-4, "buoyancy factor 12ppg")
+    # buoyed axial load: 47 ppf × 8000 ft × 0.8165 = 307,010 lbf
+    from engineering_casing import axial_load_buoyed
+    approx(axial_load_buoyed(47, 8000, 12.0), 307010.0, 100.0,
+           "buoyed axial load")
+    # thermal: E·α·ΔT = 30e6 × 6.9e-6 × 200 = 41,400 psi
+    approx(thermal_stress(200.0), 41400.0, 1.0, "thermal stress 200F")
+    # thermal force on 9.625×0.472 (A = 13.57 in²): 41,400 × 13.57 = 561,800
+    f_th = thermal_force(9.625, 0.472, 200.0)
+    area = math.pi * (9.625 ** 2 - (9.625 - 0.944) ** 2) / 4.0
+    approx(f_th, 41400.0 * area, 100.0, "thermal force = σ×A")
+    # wear: 20% wear → t_rem = 0.3776; burst derate exactly 80%
+    approx(remaining_wall(0.472, 0.20, 0.0), 0.3776, 1e-9, "remaining wall")
+    pb_full = derated_burst(9.625, 0.472, 80000)
+    pb_worn = derated_burst(9.625, 0.472, 80000, 0.20)
+    approx(pb_worn / pb_full, 0.80, 1e-9, "burst derate = wall ratio")
+    pc_full = derated_collapse(9.625, 0.472, 80000)
+    pc_worn = derated_collapse(9.625, 0.472, 80000, 0.20)
+    approx(pc_worn < pc_full, True, 0, "collapse derated by wear")
+    # eccentricity: eccentric loss < concentric; corr within (0.5, 1]
+    res = hb_pressure_loss_eccentric(500, 12.25, 5, 1000, 10, 0.6, 2.0,
+                                     ecc_ratio=0.5)
+    approx(res["eccentric_psi"] < res["concentric_psi"], True, 0,
+           "eccentric < concentric")
+    approx(eccentricity_correction(0.0, 0.6), 1.0, 1e-9,
+           "concentric corr = 1")
+    # full check set with thermal + wear + corrosion
+    vals = {"casing_od": "9.625", "casing_wall": "0.472",
+            "casing_yield": "110000", "mud_weight": "12",
+            "casing_depth": "8000", "casing_weight": "47",
+            "temperature_change": "150", "wear_fraction": "0.1",
+            "corrosion_allowance": "0.02", "burst_load": "9000",
+            "collapse_load": "6000", "axial_load": "400000"}
+    csg = casing_design_check(vals)
+    approx(len(csg["checks"]) >= 8, True, 0, ">= 8 casing checks")
+    approx(csg["status"] in ("OK", "WARN"), True, 0, "status OK/WARN")
+    md = casing_check_markdown(vals)
+    approx("ADVANCED CASING DESIGN" in md or "Casing — Advanced" in md,
+           True, 0, "casing section markdown")
+    approx("Thermal" in md, True, 0, "thermal check shown")
+
+
 def test_afe_materials():
-    print("\n[20] AFE vs ACTUAL + MATERIAL READINESS")
+    print("\n[21] AFE vs ACTUAL + MATERIAL READINESS")
     from operations_engine import LessonsDatabase
     db = LessonsDatabase()
     db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
@@ -370,7 +423,7 @@ def test_afe_materials():
 
 
 def test_backup_secrets():
-    print("\n[20] BACKUP/RESTORE + SECRETS")
+    print("\n[22] BACKUP/RESTORE + SECRETS")
     from backup_restore import create_backup, list_backups, SecretsManager
     b = create_backup("test")
     approx(b is not None, True, 0, "backup created")
@@ -383,7 +436,7 @@ def test_backup_secrets():
 
 
 def test_well_report():
-    print("\n[21] WELL REPORT GENERATOR")
+    print("\n[23] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
     md = build_well_report(_demo_values(), "PARS OIL CO", "DRILL PRO")
     for sec in ("WELL PROFILE", "ENGINEERING VALIDATION", "PROGRAM READINESS",
@@ -401,8 +454,8 @@ def main():
                test_readiness_and_ops, test_planning_intelligence,
                test_entity_scrub, test_compliance, test_risk_decision,
                test_standards, test_deep_engineering,
-               test_structured_steps, test_anticollision, test_afe_materials,
-               test_backup_secrets, test_well_report):
+               test_structured_steps, test_anticollision, test_advanced_casing,
+               test_afe_materials, test_backup_secrets, test_well_report):
         try:
             fn()
         except Exception:

@@ -391,6 +391,23 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     else:
         _note("Surge/swab data (trip speed, PV, YP, geometry)")
 
+    # -- 4b. Advanced casing checks (thermal / wear / corrosion) -------------
+    try:
+        from engineering_casing import casing_design_check
+        csg = casing_design_check(values)
+        if csg["checks"]:
+            lines.append("")
+            lines.append("### Casing — Advanced Design Checks "
+                         "(thermal / wear / corrosion)")
+            for c in csg["checks"]:
+                icon = {"OK": "✅", "WARN": "⚠️", "FAIL": "⛔"}.get(
+                    c["status"], "•")
+                lines.append(f"- {icon} {c['param']}: **{c['result']} "
+                             f"{c['unit']}** ({c['formula']})")
+            checks += 1
+    except Exception:
+        pass
+
     # -- 5. Anti-collision (trajectory-based) --------------------------------
     lines.append("")
     lines.append("### Anti-Collision — Minimum Curvature + Separation Factor")

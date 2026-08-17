@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۲۰۸ تست در ۴ سویت خودکار | `tests/run_all.py` (89 مرجع + 47 حاکمیتی + 51 قالب + 21 UI) |
+| Testing | 3.5 | ✅ ۲۲۱ تست در ۴ سویت خودکار | `tests/run_all.py` (102 مرجع + 47 حاکمیتی + 51 قالب + 21 UI) |
 
 ---
 
@@ -39,7 +39,7 @@
 
 | حوزه | امتیاز ممیزی | وضعیت | کمبود باقیمانده |
 |---|---|---|---|
-| Casing Design | 5.5 | 🟡 | بارهای triaxial/thermal/wear/corrosion کامل (الان: Barlow + API 5C3 ساده + evac/loss) |
+| Casing Design | 5.5 | ✅ | **Advanced checks**: شناوری (BF)، بار محوری شناورشده، تنش/نیروی حرارتی (E·α·ΔT)، کاهش ظرفیت سایش/خوردگی (remaining-wall)، triaxial با هندسهٔ تنزل‌یافته + حرارتی — `engineering_casing.py` + ۱۷ تست مرجع |
 | Cementing | 6.0 | 🟡 | UCA/SGS/gas migration مدل نشده |
 | Mud Program | 6.0 | 🟡 | مدل رئولوژی کامل (H-B) ناقص |
 | Hydraulics | 5.5 | 🟡 | H-B/PL full + eccentricity ناقص |
@@ -145,7 +145,7 @@
 | P1 | Material & Inventory Readiness | 🟡 checklist؛ اتصال CBS P1 |
 | P1 | Well Control Decision Engine | ✅ 5 سناریو؛ بسط P1 |
 | P1 | Advanced Hydraulics | 🟡 H-B/PL/BP، surge/swab، optimization؛ eccentric P1 |
-| P1 | Advanced Casing | 🟡 evac/loss؛ triaxial/thermal P1 |
+| P1 | Advanced Casing | ✅ evac/loss + buoyancy + thermal + wear/corrosion + triaxial derated |
 | P2 | Monte Carlo Time | ✅ |
 | P2 | AFE vs Actual | 🟡 ساختار CBS؛ اتصال actual P2 |
 | P2 | Enterprise RBAC | ✅ |
@@ -220,13 +220,13 @@
 `(این کامیت — Batch I)` (Calculation Register، Deep Engineering در ویزارد + ROP calibration، revision snapshots، بکاپ رمزنگاریشده، ۴ سویت تست خودکار + رفع ۲ باگ neutralize: «Total» و «IADC»)
 `(این کامیت — Batch J)` (Structured Step Model کامل: precondition/acceptance + Hold/Witness Points در دیتابیس، ادیتور، پیشنمایش و خروجی Word + Auto-structure + migration v12)
 `(این کامیت — Batch K)` (Anti-Collision Engine با minimum curvature + SF/OWSG + نقش مسئول (role) در stepها + اتصال Procedure ← Well/Risk با سکشن «LINKED PROCEDURES» در Well Report + migration v16)
+`(این کامیت — Batch L)` (Advanced Casing Design Checks: buoyancy، بار محوری شناورشده، تنش/نیروی حرارتی E·α·ΔT، کاهش ظرفیت سایش/خوردگی به روش remaining-wall، triaxial با هندسهٔ تنزلیافته + حرارتی + تصحیح خروجازمرکز برای HB)
 
-**امتیاز تخمینی جدید:** حدود **8.3–8.7/10** (از 5.8)
-- +Validation، +Testing خودکار (۲۰۸ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
+**امتیاز تخمینی جدید:** حدود **8.5–8.8/10** (از 5.8)
+- +Validation، +Testing خودکار (۲۲۱ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
   +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
-  +Anti-Collision، +Procedure↔Well/Risk
-- باقیمانده برای 8.5–9: سرور مرکزی/API، triaxial/thermal casing کامل با بارهای واقعی،
-  H-B hydraulics کامل با دادهٔ میدانی، OCR
+  +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)
+- باقیمانده برای 8.8–9: سرور مرکزی/API، H-B hydraulics کامل با دادهٔ میدانی و مدل لایهبندی، OCR
 
 **گام بعدی پیشنهادی:** ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی) یا
-کاملکردن مدلهای حرارتی/تریاکسیال کیسینگ با بارهای واقعی (thermal/wear/corrosion).
+کاملکردن مدلهای هیدرولیک چندلایه و تأیید با دادهٔ میدانی.

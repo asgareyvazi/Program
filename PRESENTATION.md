@@ -57,6 +57,9 @@
 ### 📋 Structured Step Model (Hold/Witness Points)
 هر گام پروسیجر میتواند **پیششرط (Precondition)**، **معیار پذیرش (Acceptance)** و پرچم **🚧 Hold Point / 👁️ Witness Point** داشته باشد — با دکمهٔ «✨ Auto-structure» که از متن گام این اطلاعات را خودکار استخراج میکند؛ در ادیتور، پیشنمایش و خروجی Word نمایش داده میشود.
 
+### 🔩 Advanced Casing Design Checks
+علاوه بر Barlow/API 5C3: **ضریب شناوری**، بار محوری شناورشده، **تنش حرارتی** (E·α·ΔT) و نیروی حرارتی مهارشده، **کاهش ظرفیت سایش/خوردگی** (روش remaining-wall) و بررسی **triaxial با هندسهٔ تنزلیافته + حرارتی** — همگی در Deep Engineering سند و Calculation Register.
+
 ### 🧭 Anti-Collision Engine
 موقعیتیابی چاه با روش **Minimum Curvature** (استاندارد صنعت)، اسکن نزدیکترین فاصله و **Separation Factor** طبق رویهٔ OWSG (SF≥1.5 قابل قبول) با Ellipse of Uncertainty (کلاس MWD) و پشتیبانی از آفست سطح اسلات مجاور (N0/E0) — در سکشن Deep Engineering هر سند + ثبت در Calculation Register.
 

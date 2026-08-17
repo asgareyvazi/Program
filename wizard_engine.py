@@ -2170,6 +2170,15 @@ class _GeneratePage(QWizardPage):
                 except Exception:
                     pass
 
+                # standards compliance matrix (always)
+                try:
+                    from standards_engine import compliance_markdown as scm
+                    smd = scm(values, meta.get("operator", ""))
+                    if smd:
+                        md = md.rstrip() + "\n\n---\n\n" + smd
+                except Exception:
+                    pass
+
                 # document compliance report card (always)
                 comp_rep = compliance_check(tdef.key, md)
                 cmr = compliance_markdown(comp_rep, meta.get("operator", ""))

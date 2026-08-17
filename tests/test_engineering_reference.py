@@ -28,14 +28,21 @@ _FAILURES = []
 
 def approx(actual, expected, tol, label):
     global _PASS, _FAIL
-    ok = abs(actual - expected) <= tol
+    if isinstance(expected, bool) or isinstance(actual, bool):
+        ok = bool(actual) == bool(expected)
+    elif isinstance(expected, str) or isinstance(actual, str):
+        ok = str(actual) == str(expected)
+    else:
+        ok = abs(actual - expected) <= tol
+    def _fmt(x):
+        return f"{x:.4g}" if isinstance(x, (int, float)) else str(x)
     if ok:
         _PASS += 1
-        print(f"  ✔ {label}: {actual:.4g} (ref {expected:g} ±{tol:g})")
+        print(f"  ✔ {label}: {_fmt(actual)} (ref {_fmt(expected)})")
     else:
         _FAIL += 1
-        _FAILURES.append(f"{label}: {actual:.4g} vs {expected:g} (±{tol:g})")
-        print(f"  ✘ {label}: {actual:.4g} != {expected:g} (±{tol:g})")
+        _FAILURES.append(f"{label}: {_fmt(actual)} vs {_fmt(expected)}")
+        print(f"  ✘ {label}: {_fmt(actual)} != {_fmt(expected)}")
 
 
 def test_units():
@@ -229,6 +236,24 @@ def test_risk_decision():
     approx(any(d.code == "RD-004" for d in ds), True, 0, "H2S decision found")
 
 
+def test_standards():
+    print("\n[16] STANDARDS COMPLIANCE MATRIX")
+    from standards_engine import compliance_matrix
+    rows = compliance_matrix({"bop_wp": 10000, "masp": 5000,
+                              "casing_depth": 3000, "depth_m": 4180,
+                              "standoff_pct": 75, "ecd": 14,
+                              "fracture_gradient_ppg": 16,
+                              "kill_sheet": "yes"})
+    ids = {r["rule_id"]: r["status"] for r in rows}
+    approx(ids.get("STD-WC-001"), "PASS", 0, "BOP rule PASS")
+    approx(ids.get("STD-CS-001"), "PASS", 0, "casing rule PASS")
+    approx(ids.get("STD-MD-002"), "PASS", 0, "ECD rule PASS")
+    # fail case: casing deeper than TD
+    rows2 = compliance_matrix({"casing_depth": 5000, "depth_m": 4000})
+    ids2 = {r["rule_id"]: r["status"] for r in rows2}
+    approx(ids2.get("STD-CS-001"), "FAIL", 0, "casing>TD FAIL")
+
+
 def main():
     print("=" * 64)
     print("ENGINEERING REFERENCE TEST SUITE")
@@ -237,7 +262,8 @@ def main():
                test_annular_velocity, test_casing_burst, test_casing_collapse,
                test_well_cost, test_engineering_calc_annular, test_advanced,
                test_readiness_and_ops, test_planning_intelligence,
-               test_entity_scrub, test_compliance, test_risk_decision):
+               test_entity_scrub, test_compliance, test_risk_decision,
+               test_standards):
         try:
             fn()
         except Exception:

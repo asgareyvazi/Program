@@ -54,6 +54,8 @@
 - **🛰️ Offset Well Intelligence** — جستجوی چاههای مشابه (میدان/نوع/عمق) با درسآموختهها و NPT تاریخی آنها؛ سکشن «OFFSET WELL INTELLIGENCE» در سند
 - **🔩 Equipment Compatibility** — بررسی سازگاری بیت/حفره، BHA/کیسینگ، موتور/حفره، لاینر/کیسینگ، BOP/فشار سطحی؛ یافتههای CRITICAL گزارش میشوند
 - **🎲 Monte Carlo Schedule & Cost** — P10/P50/P90 زمان و هزینه با توزیع مثلثی (۲۰۰۰ شبیهسازی) — سکشن «SCHEDULE & COST UNCERTAINTY»
+- **📏 Standards Compliance Matrix** — رجیستری قواعد استاندارد (API RP 53/10B-2/13B-1/13D، API TR 5C3، NORSOK D-010، API RP 49...) با Rule ID، نسخه استاندارد، قلمرو کاربرد، الزام، معیار پذیرش و ارزیابی خودکار PASS/FAIL/CHECK بر اساس ورودیها — سکشن «STANDARDS COMPLIANCE MATRIX» در سند
+- **📋 AUDIT_COMPLIANCE.md** — گزارش انطباق تکبندبهبند با ممیزی فنی (هر بند ۱-۲۵ + ضمائم با وضعیت ✅/🟡/❌ و شواهد)
 - **🧬 Entity-Based Generalization** — جایگزینی regex خام با تشخیص موجودیت (شرکت/چاه/میدان/مخزن) + حفاظت از اصطلاحات فنی (Brown زمینشناسی، Total واژه، MI مهندسی گل)
 - **⚙️ Advanced Engineering** — Kick Tolerance، BOP Pressure Envelope، Surge/Swab، Hole Cleaning (Critical Annular Velocity/Transport Ratio)، MPD (CBHP + پنجره فشار)، بارهای Evacuation/Lost-Returns کیسینگ
 - **📜 Audit Log** — ثبت append-only هر رویداد مهم (تولید سند، override یافتههای بحرانی) با زمان/کاربر/جزئیات در `~/.drilling_program/audit.log`

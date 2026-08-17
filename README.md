@@ -56,6 +56,7 @@
 - **📡 WITSML Export** — خروجی WITSML v1.4.1 + JSON (منو یا `/api/witsml`) (`witsml_export.py`)
 - **⚡ Auto-Prefill** — ورودیهای ویزارد از پروفایل چاه با نگاشت مترادف واژگان (Deviated ← Directional J-Type و…)
 - **🛡️ کیفیت محتوا و نشت صفر** — فیلتر sanitizer (حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل/تلفن)، لیست سیاه کامل کدهای چاه/میدان/مخزن (MB-013، GS 4-2، Asmari، Pabdeh…) با حفظ درجههای فولاد (S135)، scrub دیتابیس پروسیجرها، برچسب صادقانهٔ verbatim بدون LLM — سویت `tests/test_content_quality.py` (۷۲ تست)
+- - **✅ سامانهٔ اعتبارسنجی جامع خروجی** — به همهٔ ۵۱ قالب و ۱۲ قابلیت دادهٔ پیشفرض کامل داده، خروجی واقعی تولید و صحت فرمت/متن/ساختار آن را بررسی میکند (۷۲۱ تست: `tests/validate_outputs.py`)؛ نمونههای اعتبارسنجیشده در `sample_outputs/` با `python3 tests/validate_outputs.py --export` قابل تولید است
 - **📈 Sensitivity Analysis (Tornado)** — رتبهبندی ورودیهای بحرانی (اثر ±Δ بر SPP/ECD/KMW/MAASP/هزینه) + سکشن «SENSITIVITY SCREENING» و «Control parameters» در سند (`engineering_sensitivity.py`)
 - **🔤 OCR Ingest + 📄 PDF Export** — `python3 ocr_ingest.py <folder>` (اسناد اسکنشده ← کتابخانه + کاتالوگ با dedupe هش؛ نیازمند Tesseract) و `python3 pdf_export.py <file.docx>` (نیازمند LibreOffice) — با پیام نصب واضح در نبود ابزار + سکشن «TIME BREAKDOWN SUMMARY» در اسناد
 - **🔗 Procedure ← Well/Risk** — لینک پروسیجر به چاه/سکشن/ریسک (wells.db + problems.db) + سکشن «LINKED PROCEDURES» در Well Report + نقش مسئول (Role) در هر گام
@@ -179,3 +180,9 @@ Program/
 پروسیجرهای اجرایی ESP (اسپلایس، پکر، TRSV، SSD، RTTS، سیمان، Kill Sheet و…) پس از
 دریافت فایلهای مرجع به بانک پروسیجرها اضافه خواهند شد — فهرست کامل در
 [PROGRAM_GAP_ANALYSIS.md](PROGRAM_GAP_ANALYSIS.md).
+
+## 🧪 اعتبارسنجی جامع خروجی (Output Validation)
+```bash
+python3 tests/validate_outputs.py     # ۷۲۱ تست — همهٔ قابلیتها با دادهٔ پیشفرض
+python3 tests/run_all.py              # کل ۷ سویت (۱۱۸۴ تست)
+```

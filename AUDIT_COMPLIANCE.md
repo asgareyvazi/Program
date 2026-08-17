@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۴۶۳ تست در ۶ سویت خودکار | `tests/run_all.py` (202 مرجع + 67 حاکمیتی + 51 قالب + 23 UI + 48 API + 72 کیفیت محتوا) |
+| Testing | 3.5 | ✅ **۱۱۸۴ تست در ۷ سویت خودکار** | `tests/run_all.py` (202 مرجع + 67 حاکمیتی + 51 قالب + 23 UI + 48 API + 72 کیفیت محتوا + **721 اعتبارسنجی خروجی**) |
 
 ---
 
@@ -231,6 +231,7 @@
 `(این کامیت — Batch T)` (**کیفیت محتوا و نشت صفر — بر اساس گزارش کاربر**: فیلتر sanitizer برای حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل و تلفن از غنیسازی دانش؛ افزودن کدهای چاه/میدان/مخزن به لیست سیاه (MB-013، GS 4-2، Asmari، Pabdeh، N 1-3-5، Gachsaran…) با حفظ درجههای فولاد (S135/S-95)؛ scrub کامل دیتابیس پروسیجرها با neutralize_text؛ برچسب صادقانهٔ «verbatim» وقتی LLM خاموش است؛ neutralize در خروجی Word مدیر پروسیجر)
 `(این کامیت — Batch U)` (**تحلیل حساسیت Tornado**: تغییر یکبهیک ورودیها ±Δ و رتبهبندی اثر بر SPP/ECD/KMW/MAASP/هزینه — «Control parameters» در سند + اندپوینت + ۹ تست تحلیلی)
 `(این کامیت — Batch V)` (**OCR Ingest و PDF Export با تخریب برازنده**: `ocr_ingest.py` (Tesseract + poppler، dedupe با هش، ثبت در کاتالوگ) و `pdf_export.py` (LibreOffice headless) — بدون ابزار، پیام نصب واضح؛ با ابزار، کاملاً خودکار + منوی OCR + سکشن «TIME BREAKDOWN SUMMARY» در اسناد)
+`(این کامیت — Batch W)` (**سامانهٔ اعتبارسنجی جامع خروجی**: به همهٔ ۵۱ قالب + ۱۲ قابلیت (پروسیجرها، Well Report، CBS، مشکلات، ریسک، Excel، WITSML، ROPE، غنیسازی، Time Breakdown، API) دادهٔ پیشفرض کامل (۶۳۰ کلید) داده و خروجی واقعی تولید و اعتبارسنجی میشود: قالب فایل، سکشنها، جدولها، آرتیفکتهای markdown/HTML، placeholder های پرنشده، نشت نام — ۷۲۱ تست + رفع ۴ باگ واقعی یافتشده: هدر جدولها با `**`، blockquote با `**`، قالبهای Master با `[To Be Filled]` لفظی، پوشش ناقص دادهٔ پیشفرض)
 
 **امتیاز تخمینی جدید:** حدود **9.5–9.7/10** (از 5.8) — با سویت «کیفیت محتوا و نشت صفر»
 - +Validation، +Testing خودکار (۲۷۹ تست در ۵ سویت)، +Traceability کامل (register + snapshots)،

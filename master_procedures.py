@@ -324,12 +324,12 @@ def build_master_markdown(mp: dict, values: Optional[Dict] = None) -> str:
     params = list(dict.fromkeys(params))
 
     L = [f"# MASTER PROCEDURE — {op.upper()} OPERATION", ""]
-    L.append(f"**Well:** {v('well_name') or '[To Be Filled]'}  |  "
-             f"**Field:** {v('field_name') or '[To Be Filled]'}")
+    L.append(f"**Well:** {v('well_name') or '{{well_name}}'}  |  "
+             f"**Field:** {v('field_name') or '{{field_name}}'}")
     L.append(f"**Operator:** {v('operator') or 'the Operator'}  |  "
              f"**Contractor:** {v('contractor') or 'the Service Company'}")
-    L.append(f"**Environment:** {v('environment') or '[To Be Filled]'}  |  "
-             f"**Well Type:** {v('well_type') or '[To Be Filled]'}")
+    L.append(f"**Environment:** {v('environment') or '{{environment}}'}  |  "
+             f"**Well Type:** {v('well_type') or '{{well_type}}'}")
     L.append("")
 
     L.append("## 1. SCOPE")
@@ -347,7 +347,7 @@ def build_master_markdown(mp: dict, values: Optional[Dict] = None) -> str:
     L.append("|---|---|")
     for p in params:
         label = PARAM_ROWS.get(p, (p, "text"))[0]
-        L.append(f"| {label} | {v(p) or '[To Be Filled]'} |")
+        L.append(f"| {label} | {v(p) or '{{' + p + '}}'} |")
     L.append("")
 
     L.append("## 3. PREREQUISITES")

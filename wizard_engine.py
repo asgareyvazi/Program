@@ -462,10 +462,10 @@ def _add_table(doc, header: List[str], rows: List[List[str]],
     for i, h in enumerate(header):
         hdr[i].text = ""
         p = hdr[i].paragraphs[0]
-        r = p.add_run(str(h))
-        r.bold = True
-        r.font.size = Pt(_FONT_SIZE - 1.5)
-        r.font.color.rgb = WHITE
+        _add_runs(p, str(h), base_size=_FONT_SIZE - 1.5)
+        for r in p.runs:
+            r.bold = True
+            r.font.color.rgb = WHITE
         _shade_cell(hdr[i], HEAD_BG)
 
     for ridx, row in enumerate(rows):
@@ -673,10 +673,14 @@ def md_to_docx(md_text: str, out_path: str,
                 i += 1
             p = doc.add_paragraph()
             p.paragraph_format.left_indent = Cm(0.8)
-            r = p.add_run("▸ " + " ".join(buf))
+            r = p.add_run("▸ ")
             r.italic = True
             r.font.size = Pt(10)
             r.font.color.rgb = DARK_BLUE
+            _add_runs(p, " ".join(buf), base_size=10)
+            for run in p.runs[1:]:
+                run.italic = True
+                run.font.color.rgb = DARK_BLUE
             continue
 
         # Checklist item

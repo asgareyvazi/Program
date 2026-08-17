@@ -2456,6 +2456,377 @@ class ProcedureEditorDialog(QDialog):
 # MAIN PROCEDURE MANAGER DIALOG
 # ============================================================================
 
+def generate_procedures_docx(db, proc_ids, out_path,
+                                  progress=None, operator_name="",
+                                  contractor_name=""):
+    """Headless Word export of procedures (+ checklists).  Scrub is
+    applied to every text field (Batch T defense in depth)."""
+    ids = [i for i in proc_ids if i]
+    if not ids:
+        return {"ok": False, "error": "no procedures selected"}
+
+    def _scrub(t):
+        if not t:
+            return ""
+        try:
+            from wizard_engine import neutralize_text
+            return neutralize_text(t, operator_name, contractor_name)
+        except Exception:
+            return t
+
+    def _prog(v):
+        if progress:
+            progress(v)
+
+    try:
+        from docx import Document
+        from docx.shared import Pt, Cm, Inches, RGBColor
+        from docx.enum.text import WD_ALIGN_PARAGRAPH
+        from docx.enum.table import WD_TABLE_ALIGNMENT
+        from docx.oxml.ns import nsdecls
+        from docx.oxml import parse_xml
+
+        doc = Document()
+        sec = doc.sections[0]
+        sec.page_height = Cm(29.7)
+        sec.page_width = Cm(21.0)
+        sec.top_margin = Cm(2.0)
+        sec.bottom_margin = Cm(2.0)
+        sec.left_margin = Cm(2.5)
+        sec.right_margin = Cm(2.0)
+
+        # ---- COVER PAGE ----
+        doc.add_paragraph("")
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        r = p.add_run("DRILLING OPERATIONS\nPROCEDURES & CHECKLISTS")
+        r.bold = True
+        r.font.size = Pt(28)
+        r.font.color.rgb = RGBColor(0x0F, 0x34, 0x60)
+
+        p2 = doc.add_paragraph()
+        p2.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        r2 = p2.add_run(
+            f"Generated: {datetime.now().strftime('%d-%B-%Y')}")
+        r2.font.size = Pt(11)
+        r2.font.color.rgb = RGBColor(0x85, 0x92, 0x9E)
+
+        doc.add_page_break()
+        _prog(5)
+
+        # ---- TABLE OF CONTENTS ----
+        p = doc.add_paragraph()
+        pPr = p._p.get_or_add_pPr()
+        pPr.append(parse_xml(
+            f'<w:shd {nsdecls("w")} w:fill="0C2D48" w:val="clear"/>'))
+        r = p.add_run("  TABLE OF CONTENTS")
+        r.bold = True
+        r.font.size = Pt(14)
+        r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
+
+        doc.add_paragraph("")
+        for idx, pid in enumerate(ids):
+            rec = db.get_procedure(pid)
+            if rec:
+                tp = doc.add_paragraph()
+                tr1 = tp.add_run(f"{idx+1}. ")
+                tr1.bold = True
+                tr1.font.size = Pt(10)
+                tr2 = tp.add_run(rec.name)
+                tr2.font.size = Pt(10)
+
+        doc.add_page_break()
+        _prog(10)
+
+        # ---- EACH PROCEDURE ----
+        total = len(ids)
+        for idx, pid in enumerate(ids):
+            rec = db.get_procedure(pid)
+            if not rec:
+                continue
+
+            # Heading
+            p = doc.add_paragraph()
+            pPr = p._p.get_or_add_pPr()
+            pPr.append(parse_xml(
+                f'<w:shd {nsdecls("w")} w:fill="0C2D48" w:val="clear"/>'))
+            r = p.add_run(f"  {idx+1}. {rec.name}")
+            r.bold = True
+            r.font.size = Pt(14)
+            r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
+
+            doc.add_paragraph("")
+
+            # ---- VARIABLE INPUTS (فقط اینجا - یک بار) ----
+            inputs = db.get_inputs(pid)
+            if inputs:
+                doc.add_paragraph("")
+                ip = doc.add_paragraph()
+                ipPr = ip._p.get_or_add_pPr()
+                ipPr.append(parse_xml(
+                    f'<w:shd {nsdecls("w")} '
+                    f'w:fill="E67E22" w:val="clear"/>'))
+                ir = ip.add_run("  ⚙️ VARIABLE PARAMETERS")
+                ir.bold = True
+                ir.font.size = Pt(11)
+                ir.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
+
+                inp_table = doc.add_table(
+                    rows=len(inputs) + 1, cols=3)
+                inp_table.style = 'Table Grid'
+                inp_table.alignment = WD_TABLE_ALIGNMENT.CENTER
+
+                # Header row
+                for i, h in enumerate(
+                        ["Parameter", "Value", "Unit"]):
+                    cell = inp_table.rows[0].cells[i]
+                    cell.text = ""
+                    cp = cell.paragraphs[0]
+                    cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                    cr = cp.add_run(h)
+                    cr.bold = True
+                    cr.font.size = Pt(9)
+                    cr.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
+                    shd = parse_xml(
+                        f'<w:shd {nsdecls("w")} '
+                        f'w:fill="E67E22"/>')
+                    cell._tc.get_or_add_tcPr().append(shd)
+
+                # Data rows
+                for i, inp in enumerate(inputs):
+                    row = inp_table.rows[i + 1]
+                    row.cells[0].text = ""
+                    row.cells[0].paragraphs[0].add_run(
+                        inp['input_label']
+                    ).font.size = Pt(9)
+                    row.cells[1].text = ""
+                    row.cells[1].paragraphs[0].add_run(
+                        inp['input_default'] or "________"
+                    ).font.size = Pt(9)
+                    row.cells[2].text = ""
+                    row.cells[2].paragraphs[0].add_run(
+                        inp['input_unit'] or ""
+                    ).font.size = Pt(9)
+                    if i % 2 == 0:
+                        for c in range(3):
+                            shd = parse_xml(
+                                f'<w:shd {nsdecls("w")} '
+                                f'w:fill="FEF9E7"/>')
+                            row.cells[c]._tc.get_or_add_tcPr(
+                            ).append(shd)
+
+                doc.add_paragraph("")
+
+            # ---- STEPS ----
+            for s in rec.steps:
+                step_text = _scrub(s.text)
+                if not step_text.strip():
+                    doc.add_paragraph("")
+                    continue
+
+                sp = doc.add_paragraph()
+                sp.paragraph_format.left_indent = Cm(
+                    0.2 + s.indent_level * 0.5)
+                sp.paragraph_format.space_after = Pt(2)
+
+                if s.is_header:
+                    sr = sp.add_run(step_text)
+                    sr.bold = True
+                    sr.font.size = Pt(11)
+                    sr.font.color.rgb = RGBColor(0x1B, 0x4F, 0x72)
+                    sp.paragraph_format.space_before = Pt(8)
+                elif s.is_warning:
+                    sr = sp.add_run(f"⚠️ {step_text}")
+                    sr.bold = True
+                    sr.font.size = Pt(10)
+                    sr.font.color.rgb = RGBColor(0xE7, 0x4C, 0x3C)
+                elif s.is_note:
+                    sr = sp.add_run(f"📌 {step_text}")
+                    sr.font.size = Pt(9)
+                    sr.font.italic = True
+                    sr.font.color.rgb = RGBColor(0x85, 0x92, 0x9E)
+                else:
+                    parts = step_text.split(' ', 1)
+                    if (len(parts) == 2 and '.' in parts[0] and
+                            any(c.isdigit() for c in parts[0])):
+                        sr1 = sp.add_run(parts[0] + " ")
+                        sr1.bold = True
+                        sr1.font.size = Pt(10)
+                        sr1.font.color.rgb = RGBColor(0x21, 0x61, 0x8C)
+                        sr2 = sp.add_run(parts[1])
+                        sr2.font.size = Pt(10)
+                    else:
+                        sr = sp.add_run(step_text)
+                        sr.font.size = Pt(10)
+
+                # ---- Structured execution info (audit P1) ----
+                if s.precondition:
+                    pp_ = doc.add_paragraph()
+                    pp_.paragraph_format.left_indent = Cm(
+                        0.5 + s.indent_level * 0.5)
+                    pp_.paragraph_format.space_after = Pt(1)
+                    pr1 = pp_.add_run("▸ Precondition: ")
+                    pr1.bold = True
+                    pr1.font.size = Pt(9)
+                    pr1.font.color.rgb = RGBColor(0xB9, 0x77, 0x0E)
+                    pr2 = pp_.add_run(_scrub(s.precondition))
+                    pr2.font.size = Pt(9)
+                if s.acceptance:
+                    pa_ = doc.add_paragraph()
+                    pa_.paragraph_format.left_indent = Cm(
+                        0.5 + s.indent_level * 0.5)
+                    pa_.paragraph_format.space_after = Pt(1)
+                    ar1 = pa_.add_run("✓ Acceptance: ")
+                    ar1.bold = True
+                    ar1.font.size = Pt(9)
+                    ar1.font.color.rgb = RGBColor(0x1E, 0x84, 0x49)
+                    ar2 = pa_.add_run(_scrub(s.acceptance))
+                    ar2.font.size = Pt(9)
+                if s.hold_point or s.witness_point:
+                    ph_ = doc.add_paragraph()
+                    ph_.paragraph_format.left_indent = Cm(
+                        0.5 + s.indent_level * 0.5)
+                    ph_.paragraph_format.space_after = Pt(4)
+                    tags = []
+                    if s.hold_point:
+                        tags.append("🚧 HOLD POINT — stop and obtain "
+                                    "approval before continuing")
+                    if s.witness_point:
+                        tags.append("👁️ WITNESS POINT — witness "
+                                    "required at this step")
+                    hr1 = ph_.add_run("   |   ".join(tags))
+                    hr1.bold = True
+                    hr1.font.size = Pt(9)
+                    hr1.font.color.rgb = RGBColor(0xC0, 0x39, 0x2B)
+                if s.role:
+                    pr_ = doc.add_paragraph()
+                    pr_.paragraph_format.left_indent = Cm(
+                        0.5 + s.indent_level * 0.5)
+                    pr_.paragraph_format.space_after = Pt(4)
+                    rr1 = pr_.add_run(f"👤 Responsible: {s.role}")
+                    rr1.font.size = Pt(9)
+                    rr1.font.color.rgb = RGBColor(0x2E, 0x86, 0xC1)
+
+            # ---- CHECKLIST ----
+            if rec.checklist:
+                doc.add_paragraph("")
+                cp = doc.add_paragraph()
+                cpPr = cp._p.get_or_add_pPr()
+                cpPr.append(parse_xml(
+                    f'<w:shd {nsdecls("w")} '
+                    f'w:fill="1B4F72" w:val="clear"/>'))
+                cr = cp.add_run(f"  ✅ CHECKLIST - {rec.name}")
+                cr.bold = True
+                cr.font.size = Pt(12)
+                cr.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
+
+                # Group by category
+                cats = {}
+                for c in rec.checklist:
+                    cats.setdefault(_scrub(c.category),
+                                    []).append(_scrub(c.text))
+
+                for cat, items in cats.items():
+                    cp2 = doc.add_paragraph()
+                    cp2.paragraph_format.space_before = Pt(6)
+                    cr2 = cp2.add_run(f"▸ {cat}")
+                    cr2.bold = True
+                    cr2.font.size = Pt(10)
+                    cr2.font.color.rgb = RGBColor(0xE9, 0x45, 0x60)
+
+                    table = doc.add_table(
+                        rows=len(items) + 1, cols=4)
+                    table.style = 'Table Grid'
+                    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+
+                    # Checklist header
+                    for i, h in enumerate(
+                            ["☐", "Item", "Init.", "Date"]):
+                        cell = table.rows[0].cells[i]
+                        cell.text = ""
+                        cp3 = cell.paragraphs[0]
+                        cp3.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                        cr3 = cp3.add_run(h)
+                        cr3.bold = True
+                        cr3.font.size = Pt(8)
+                        cr3.font.color.rgb = RGBColor(
+                            0xFF, 0xFF, 0xFF)
+                        shd = parse_xml(
+                            f'<w:shd {nsdecls("w")} '
+                            f'w:fill="0C2D48"/>')
+                        cell._tc.get_or_add_tcPr().append(shd)
+
+                    # Set column widths
+                    for row in table.rows:
+                        row.cells[0].width = Inches(0.4)
+                        row.cells[1].width = Inches(4.2)
+                        row.cells[2].width = Inches(0.6)
+                        row.cells[3].width = Inches(1.0)
+
+                    # Checklist items
+                    for i, item_text in enumerate(items):
+                        row = table.rows[i + 1]
+                        row.cells[0].text = ""
+                        cp4 = row.cells[0].paragraphs[0]
+                        cp4.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                        cp4.add_run("☐").font.size = Pt(11)
+
+                        row.cells[1].text = ""
+                        row.cells[1].paragraphs[0].add_run(
+                            item_text).font.size = Pt(9)
+
+                        row.cells[2].text = ""
+                        row.cells[3].text = ""
+
+                        if i % 2 == 0:
+                            for c in range(4):
+                                shd = parse_xml(
+                                    f'<w:shd {nsdecls("w")} '
+                                    f'w:fill="EBF5FB"/>')
+                                row.cells[c]._tc.get_or_add_tcPr(
+                                ).append(shd)
+
+                # Sign-off
+                doc.add_paragraph("")
+                sp2 = doc.add_paragraph()
+                sp2.add_run("SIGN-OFF:").bold = True
+
+                sig = doc.add_table(rows=2, cols=4)
+                sig.style = 'Table Grid'
+                for i, h in enumerate(
+                        ["Driller", "Toolpusher",
+                        "Company Man", "Date"]):
+                    cell = sig.rows[0].cells[i]
+                    cell.text = ""
+                    cp5 = cell.paragraphs[0]
+                    cp5.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                    cr5 = cp5.add_run(h)
+                    cr5.bold = True
+                    cr5.font.size = Pt(9)
+                    cr5.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
+                    shd = parse_xml(
+                        f'<w:shd {nsdecls("w")} '
+                        f'w:fill="1B4F72"/>')
+                    cell._tc.get_or_add_tcPr().append(shd)
+                    sig.rows[1].cells[i].text = ""
+                    sig.rows[1].cells[i].paragraphs[
+                        0].paragraph_format.space_after = Pt(25)
+
+            # Page break after each procedure
+            doc.add_page_break()
+
+            pct = 10 + int(85 * (idx + 1) / total)
+            _prog(pct)
+
+        doc.save(out_path)
+        _prog(100)
+        return {"ok": True, "path": out_path, "procedures": len(ids)}
+    except Exception as e:
+        import traceback
+        return {"ok": False,
+                "error": f"{e}\n{traceback.format_exc()[-400:]}"}
+
+
 class ProcedureManagerDialog(QDialog):
     """دیالوگ اصلی مدیریت و تولید پروسیجرها"""
 
@@ -3056,370 +3427,21 @@ class ProcedureManagerDialog(QDialog):
         self.progress.setValue(0)
         QApplication.processEvents()
 
-        try:
-            from docx import Document
-            from docx.shared import Pt, Cm, Inches, RGBColor
-            from docx.enum.text import WD_ALIGN_PARAGRAPH
-            from docx.enum.table import WD_TABLE_ALIGNMENT
-            from docx.oxml.ns import nsdecls
-            from docx.oxml import parse_xml
+        res = generate_procedures_docx(
+            self.db, ids, path,
+            progress=self.progress.setValue,
+            operator_name=self._op_name, contractor_name=self._con_name)
+        self.progress.setValue(100 if res.get("ok") else 0)
 
-            doc = Document()
-            sec = doc.sections[0]
-            sec.page_height = Cm(29.7)
-            sec.page_width = Cm(21.0)
-            sec.top_margin = Cm(2.0)
-            sec.bottom_margin = Cm(2.0)
-            sec.left_margin = Cm(2.5)
-            sec.right_margin = Cm(2.0)
-
-            # ---- COVER PAGE ----
-            doc.add_paragraph("")
-            p = doc.add_paragraph()
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            r = p.add_run("DRILLING OPERATIONS\nPROCEDURES & CHECKLISTS")
-            r.bold = True
-            r.font.size = Pt(28)
-            r.font.color.rgb = RGBColor(0x0F, 0x34, 0x60)
-
-            p2 = doc.add_paragraph()
-            p2.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            r2 = p2.add_run(
-                f"Generated: {datetime.now().strftime('%d-%B-%Y')}")
-            r2.font.size = Pt(11)
-            r2.font.color.rgb = RGBColor(0x85, 0x92, 0x9E)
-
-            doc.add_page_break()
-            self.progress.setValue(5)
-            QApplication.processEvents()
-
-            # ---- TABLE OF CONTENTS ----
-            p = doc.add_paragraph()
-            pPr = p._p.get_or_add_pPr()
-            pPr.append(parse_xml(
-                f'<w:shd {nsdecls("w")} w:fill="0C2D48" w:val="clear"/>'))
-            r = p.add_run("  TABLE OF CONTENTS")
-            r.bold = True
-            r.font.size = Pt(14)
-            r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
-
-            doc.add_paragraph("")
-            for idx, pid in enumerate(ids):
-                rec = self.db.get_procedure(pid)
-                if rec:
-                    tp = doc.add_paragraph()
-                    tr1 = tp.add_run(f"{idx+1}. ")
-                    tr1.bold = True
-                    tr1.font.size = Pt(10)
-                    tr2 = tp.add_run(rec.name)
-                    tr2.font.size = Pt(10)
-
-            doc.add_page_break()
-            self.progress.setValue(10)
-            QApplication.processEvents()
-
-            # ---- EACH PROCEDURE ----
-            total = len(ids)
-            for idx, pid in enumerate(ids):
-                rec = self.db.get_procedure(pid)
-                if not rec:
-                    continue
-
-                # Heading
-                p = doc.add_paragraph()
-                pPr = p._p.get_or_add_pPr()
-                pPr.append(parse_xml(
-                    f'<w:shd {nsdecls("w")} w:fill="0C2D48" w:val="clear"/>'))
-                r = p.add_run(f"  {idx+1}. {rec.name}")
-                r.bold = True
-                r.font.size = Pt(14)
-                r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
-
-                doc.add_paragraph("")
-
-                # ---- VARIABLE INPUTS (فقط اینجا - یک بار) ----
-                inputs = self.db.get_inputs(pid)
-                if inputs:
-                    doc.add_paragraph("")
-                    ip = doc.add_paragraph()
-                    ipPr = ip._p.get_or_add_pPr()
-                    ipPr.append(parse_xml(
-                        f'<w:shd {nsdecls("w")} '
-                        f'w:fill="E67E22" w:val="clear"/>'))
-                    ir = ip.add_run("  ⚙️ VARIABLE PARAMETERS")
-                    ir.bold = True
-                    ir.font.size = Pt(11)
-                    ir.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
-
-                    inp_table = doc.add_table(
-                        rows=len(inputs) + 1, cols=3)
-                    inp_table.style = 'Table Grid'
-                    inp_table.alignment = WD_TABLE_ALIGNMENT.CENTER
-
-                    # Header row
-                    for i, h in enumerate(
-                            ["Parameter", "Value", "Unit"]):
-                        cell = inp_table.rows[0].cells[i]
-                        cell.text = ""
-                        cp = cell.paragraphs[0]
-                        cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
-                        cr = cp.add_run(h)
-                        cr.bold = True
-                        cr.font.size = Pt(9)
-                        cr.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
-                        shd = parse_xml(
-                            f'<w:shd {nsdecls("w")} '
-                            f'w:fill="E67E22"/>')
-                        cell._tc.get_or_add_tcPr().append(shd)
-
-                    # Data rows
-                    for i, inp in enumerate(inputs):
-                        row = inp_table.rows[i + 1]
-                        row.cells[0].text = ""
-                        row.cells[0].paragraphs[0].add_run(
-                            inp['input_label']
-                        ).font.size = Pt(9)
-                        row.cells[1].text = ""
-                        row.cells[1].paragraphs[0].add_run(
-                            inp['input_default'] or "________"
-                        ).font.size = Pt(9)
-                        row.cells[2].text = ""
-                        row.cells[2].paragraphs[0].add_run(
-                            inp['input_unit'] or ""
-                        ).font.size = Pt(9)
-                        if i % 2 == 0:
-                            for c in range(3):
-                                shd = parse_xml(
-                                    f'<w:shd {nsdecls("w")} '
-                                    f'w:fill="FEF9E7"/>')
-                                row.cells[c]._tc.get_or_add_tcPr(
-                                ).append(shd)
-
-                    doc.add_paragraph("")
-
-                # ---- STEPS ----
-                for s in rec.steps:
-                    step_text = self._scrub(s.text)
-                    if not step_text.strip():
-                        doc.add_paragraph("")
-                        continue
-
-                    sp = doc.add_paragraph()
-                    sp.paragraph_format.left_indent = Cm(
-                        0.2 + s.indent_level * 0.5)
-                    sp.paragraph_format.space_after = Pt(2)
-
-                    if s.is_header:
-                        sr = sp.add_run(step_text)
-                        sr.bold = True
-                        sr.font.size = Pt(11)
-                        sr.font.color.rgb = RGBColor(0x1B, 0x4F, 0x72)
-                        sp.paragraph_format.space_before = Pt(8)
-                    elif s.is_warning:
-                        sr = sp.add_run(f"⚠️ {step_text}")
-                        sr.bold = True
-                        sr.font.size = Pt(10)
-                        sr.font.color.rgb = RGBColor(0xE7, 0x4C, 0x3C)
-                    elif s.is_note:
-                        sr = sp.add_run(f"📌 {step_text}")
-                        sr.font.size = Pt(9)
-                        sr.font.italic = True
-                        sr.font.color.rgb = RGBColor(0x85, 0x92, 0x9E)
-                    else:
-                        parts = step_text.split(' ', 1)
-                        if (len(parts) == 2 and '.' in parts[0] and
-                                any(c.isdigit() for c in parts[0])):
-                            sr1 = sp.add_run(parts[0] + " ")
-                            sr1.bold = True
-                            sr1.font.size = Pt(10)
-                            sr1.font.color.rgb = RGBColor(0x21, 0x61, 0x8C)
-                            sr2 = sp.add_run(parts[1])
-                            sr2.font.size = Pt(10)
-                        else:
-                            sr = sp.add_run(step_text)
-                            sr.font.size = Pt(10)
-
-                    # ---- Structured execution info (audit P1) ----
-                    if s.precondition:
-                        pp_ = doc.add_paragraph()
-                        pp_.paragraph_format.left_indent = Cm(
-                            0.5 + s.indent_level * 0.5)
-                        pp_.paragraph_format.space_after = Pt(1)
-                        pr1 = pp_.add_run("▸ Precondition: ")
-                        pr1.bold = True
-                        pr1.font.size = Pt(9)
-                        pr1.font.color.rgb = RGBColor(0xB9, 0x77, 0x0E)
-                        pr2 = pp_.add_run(self._scrub(s.precondition))
-                        pr2.font.size = Pt(9)
-                    if s.acceptance:
-                        pa_ = doc.add_paragraph()
-                        pa_.paragraph_format.left_indent = Cm(
-                            0.5 + s.indent_level * 0.5)
-                        pa_.paragraph_format.space_after = Pt(1)
-                        ar1 = pa_.add_run("✓ Acceptance: ")
-                        ar1.bold = True
-                        ar1.font.size = Pt(9)
-                        ar1.font.color.rgb = RGBColor(0x1E, 0x84, 0x49)
-                        ar2 = pa_.add_run(self._scrub(s.acceptance))
-                        ar2.font.size = Pt(9)
-                    if s.hold_point or s.witness_point:
-                        ph_ = doc.add_paragraph()
-                        ph_.paragraph_format.left_indent = Cm(
-                            0.5 + s.indent_level * 0.5)
-                        ph_.paragraph_format.space_after = Pt(4)
-                        tags = []
-                        if s.hold_point:
-                            tags.append("🚧 HOLD POINT — stop and obtain "
-                                        "approval before continuing")
-                        if s.witness_point:
-                            tags.append("👁️ WITNESS POINT — witness "
-                                        "required at this step")
-                        hr1 = ph_.add_run("   |   ".join(tags))
-                        hr1.bold = True
-                        hr1.font.size = Pt(9)
-                        hr1.font.color.rgb = RGBColor(0xC0, 0x39, 0x2B)
-                    if s.role:
-                        pr_ = doc.add_paragraph()
-                        pr_.paragraph_format.left_indent = Cm(
-                            0.5 + s.indent_level * 0.5)
-                        pr_.paragraph_format.space_after = Pt(4)
-                        rr1 = pr_.add_run(f"👤 Responsible: {s.role}")
-                        rr1.font.size = Pt(9)
-                        rr1.font.color.rgb = RGBColor(0x2E, 0x86, 0xC1)
-
-                # ---- CHECKLIST ----
-                if rec.checklist:
-                    doc.add_paragraph("")
-                    cp = doc.add_paragraph()
-                    cpPr = cp._p.get_or_add_pPr()
-                    cpPr.append(parse_xml(
-                        f'<w:shd {nsdecls("w")} '
-                        f'w:fill="1B4F72" w:val="clear"/>'))
-                    cr = cp.add_run(f"  ✅ CHECKLIST - {rec.name}")
-                    cr.bold = True
-                    cr.font.size = Pt(12)
-                    cr.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
-
-                    # Group by category
-                    cats = {}
-                    for c in rec.checklist:
-                        cats.setdefault(self._scrub(c.category),
-                                        []).append(self._scrub(c.text))
-
-                    for cat, items in cats.items():
-                        cp2 = doc.add_paragraph()
-                        cp2.paragraph_format.space_before = Pt(6)
-                        cr2 = cp2.add_run(f"▸ {cat}")
-                        cr2.bold = True
-                        cr2.font.size = Pt(10)
-                        cr2.font.color.rgb = RGBColor(0xE9, 0x45, 0x60)
-
-                        table = doc.add_table(
-                            rows=len(items) + 1, cols=4)
-                        table.style = 'Table Grid'
-                        table.alignment = WD_TABLE_ALIGNMENT.CENTER
-
-                        # Checklist header
-                        for i, h in enumerate(
-                                ["☐", "Item", "Init.", "Date"]):
-                            cell = table.rows[0].cells[i]
-                            cell.text = ""
-                            cp3 = cell.paragraphs[0]
-                            cp3.alignment = WD_ALIGN_PARAGRAPH.CENTER
-                            cr3 = cp3.add_run(h)
-                            cr3.bold = True
-                            cr3.font.size = Pt(8)
-                            cr3.font.color.rgb = RGBColor(
-                                0xFF, 0xFF, 0xFF)
-                            shd = parse_xml(
-                                f'<w:shd {nsdecls("w")} '
-                                f'w:fill="0C2D48"/>')
-                            cell._tc.get_or_add_tcPr().append(shd)
-
-                        # Set column widths
-                        for row in table.rows:
-                            row.cells[0].width = Inches(0.4)
-                            row.cells[1].width = Inches(4.2)
-                            row.cells[2].width = Inches(0.6)
-                            row.cells[3].width = Inches(1.0)
-
-                        # Checklist items
-                        for i, item_text in enumerate(items):
-                            row = table.rows[i + 1]
-                            row.cells[0].text = ""
-                            cp4 = row.cells[0].paragraphs[0]
-                            cp4.alignment = WD_ALIGN_PARAGRAPH.CENTER
-                            cp4.add_run("☐").font.size = Pt(11)
-
-                            row.cells[1].text = ""
-                            row.cells[1].paragraphs[0].add_run(
-                                item_text).font.size = Pt(9)
-
-                            row.cells[2].text = ""
-                            row.cells[3].text = ""
-
-                            if i % 2 == 0:
-                                for c in range(4):
-                                    shd = parse_xml(
-                                        f'<w:shd {nsdecls("w")} '
-                                        f'w:fill="EBF5FB"/>')
-                                    row.cells[c]._tc.get_or_add_tcPr(
-                                    ).append(shd)
-
-                    # Sign-off
-                    doc.add_paragraph("")
-                    sp2 = doc.add_paragraph()
-                    sp2.add_run("SIGN-OFF:").bold = True
-
-                    sig = doc.add_table(rows=2, cols=4)
-                    sig.style = 'Table Grid'
-                    for i, h in enumerate(
-                            ["Driller", "Toolpusher",
-                             "Company Man", "Date"]):
-                        cell = sig.rows[0].cells[i]
-                        cell.text = ""
-                        cp5 = cell.paragraphs[0]
-                        cp5.alignment = WD_ALIGN_PARAGRAPH.CENTER
-                        cr5 = cp5.add_run(h)
-                        cr5.bold = True
-                        cr5.font.size = Pt(9)
-                        cr5.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
-                        shd = parse_xml(
-                            f'<w:shd {nsdecls("w")} '
-                            f'w:fill="1B4F72"/>')
-                        cell._tc.get_or_add_tcPr().append(shd)
-                        sig.rows[1].cells[i].text = ""
-                        sig.rows[1].cells[i].paragraphs[
-                            0].paragraph_format.space_after = Pt(25)
-
-                # Page break after each procedure
-                doc.add_page_break()
-
-                pct = 10 + int(85 * (idx + 1) / total)
-                self.progress.setValue(pct)
-                QApplication.processEvents()
-
-            # ---- SAVE ----
-            doc.save(path)
-            self.progress.setValue(100)
-
+        if res.get("ok"):
             QMessageBox.information(
                 self, "✅ Success",
                 f"Document generated!\n\n"
                 f"File: {path}\n"
                 f"Procedures: {len(ids)}")
-
             if os.name == 'nt':
                 os.startfile(path)
+        else:
+            QMessageBox.critical(self, "Export Failed",
+                                 res.get("error", "unknown error"))
 
-        except Exception as e:
-            import traceback
-            QMessageBox.critical(
-                self, "Error",
-                f"{str(e)}\n\n{traceback.format_exc()[-500:]}")
-        finally:
-            self.progress.setVisible(False)
-            
-    def closeEvent(self, event):
-        self.db.close()
-        super().closeEvent(event)

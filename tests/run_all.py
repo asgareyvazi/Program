@@ -30,6 +30,7 @@ SUITES = [
     ("UI smoke tests",              "test_ui_smoke.py"),
     ("REST API tests",              "test_api.py"),
     ("Content quality (leak-free)", "test_content_quality.py"),
+    ("Output validation (all caps)", "validate_outputs.py"),
 ]
 
 

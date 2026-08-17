@@ -1055,9 +1055,15 @@ class DrillingEngineering:
         cement_cost: float = 0,
         bits_cost: float = 0,
         directional_cost: float = 0,
-        other_cost: float = 0
+        other_cost: float = 0,
+        well_depth_ft: float = 0.0
     ) -> Dict:
-        """تخمین هزینه کل چاه"""
+        """تخمین هزینه کل چاه
+
+        well_depth_ft: depth used for cost-per-foot. When 0 (unknown),
+        cost_per_foot/cost_per_meter are reported as 0 to avoid the
+        previous total/1 bug.
+        """
         rig_cost = rig_rate_per_day * total_days
         spread_cost = spread_cost_per_day * total_days
         tangible = casing_cost + completion_cost
@@ -1067,6 +1073,7 @@ class DrillingEngineering:
         total = (rig_cost + spread_cost + tangible +
                  services + other_cost)
 
+        cpf = total / well_depth_ft if (well_depth_ft and total > 0) else 0.0
         return {
             'rig_cost': rig_cost,
             'spread_cost': spread_cost,
@@ -1074,7 +1081,8 @@ class DrillingEngineering:
             'services_cost': services,
             'other_cost': other_cost,
             'total_cost': total,
-            'cost_per_foot': total / 1 if total > 0 else 0,
+            'cost_per_foot': cpf,
+            'cost_per_meter': cpf / 3.28084 if cpf else 0.0,
             'cost_per_day': total / total_days if total_days > 0 else 0
         }
 

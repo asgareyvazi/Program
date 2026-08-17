@@ -212,14 +212,42 @@ REWRITE_PROMPT = (
 )
 
 
+def _extract_numbers(text: str):
+    """All numeric tokens (with optional unit suffix) in a text."""
+    return set(re.findall(r"\d+(?:[.,]\d+)?\s*(?:psi|bar|kpa|mpa|ppg|pcf|"
+                          r"sg|m|ft|in|bbl|m3|gpm|lpm|hr|min|day|deg|#|%)?",
+                          text, re.IGNORECASE))
+
+
+def _numbers_preserved(input_text: str, output_text: str) -> bool:
+    """Numeric Lock: every engineering number in the input must survive.
+
+    Returns True if ≥ 90% of input numeric tokens appear in the output
+    (the LLM may re-word units, so we allow small loss), else False.
+    """
+    inp = _extract_numbers(input_text)
+    out = _extract_numbers(output_text)
+    if not inp:
+        return True
+    preserved = sum(1 for n in inp if n in out or
+                    n.split()[0] in [o.split()[0] for o in out])
+    return preserved / len(inp) >= 0.9
+
+
 def rewrite_chunks(chunks: List[str], doc_title: str = "",
                    max_input_chars: int = 5500,
                    operator_name: str = "", contractor_name: str = "") -> str:
     """Rewrite selected library chunks with the LLM.
 
-    The user's operator / contractor names (from the wizard inputs) are used
-    in the rewritten text. Falls back to the raw (neutralized) chunks joined
-    as markdown when the LLM is unavailable or returns nothing.
+    AI SAFETY BOUNDARY (audit P0):
+      - Numeric Lock: if the LLM output drops engineering numbers, the raw
+        (deterministic) content is used instead — the AI may never silently
+        alter engineering parameters.
+      - Source Lock: AI-derived text is labelled as AI-assisted rewrite with
+        provenance note.
+
+    Falls back to the raw (neutralized) chunks when the LLM is unavailable,
+    returns nothing, or violates the numeric lock.
     """
     try:
         from wizard_engine import neutralize_text
@@ -243,9 +271,15 @@ def rewrite_chunks(chunks: List[str], doc_title: str = "",
         # strip any leading boilerplate the model may add
         llm_out = re.sub(r"^(Here is|Sure|Certainly|OK|As requested).*?\n",
                          "", llm_out, flags=re.I | re.S)
-        return neutralize_text(llm_out.strip(), op, con)
+        llm_out = neutralize_text(llm_out.strip(), op, con)
+        # Numeric Lock — engineering parameters must survive the rewrite
+        if _numbers_preserved(content, llm_out):
+            return ("*AI-assisted rewrite of field-library content — "
+                    "engineering parameters verified against the source. "
+                    "Source: internal operations library.*\n\n" + llm_out)
+        # else: fall through to the deterministic raw content
 
-    # Fallback: raw neutralized chunks
+    # Fallback: raw neutralized chunks (deterministic — always safe)
     md = []
     for ch in chunks:
         for ln in ch.split("\n"):

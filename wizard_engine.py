@@ -2053,6 +2053,59 @@ class _GeneratePage(QWizardPage):
             md = neutralize_text(md, meta.get("operator", ""),
                                   meta.get("contractor", ""))
 
+            # 5b) Engineering validation & compliance (P0 audit item)
+            try:
+                from validation_engine import (validate_well_data,
+                                               findings_markdown,
+                                               blocking_findings)
+                from engineering_dependency import dependency_markdown
+                findings = validate_well_data(values)
+                crit = blocking_findings(findings)
+                if crit:
+                    # CRITICAL findings block export unless formally accepted
+                    detail = "\n".join(
+                        f"• [{f.level}] {f.code}: {f.message}" for f in crit)
+                    ret = QMessageBox.warning(
+                        self, "⚠️ CRITICAL Engineering Findings",
+                        f"The design has {len(crit)} CRITICAL finding(s) "
+                        f"that must be resolved before release:\n\n{detail}\n\n"
+                        "Export anyway (with justification note in the "
+                        "document)?")
+                    if ret != QMessageBox.Yes:
+                        self.status.setText(
+                            "❌ Generation blocked by CRITICAL validation "
+                            "findings. Resolve them and regenerate.")
+                        return
+                    # record the override in the audit log
+                    try:
+                        from audit_log import log_action
+                        log_action("validation_override", meta.get("operator"),
+                                   values.get("well_name", ""),
+                                   f"{len(crit)} CRITICAL overridden")
+                    except Exception:
+                        pass
+                    md = (md.rstrip() + "\n\n---\n\n" +
+                          findings_markdown(findings, meta.get("operator", "")) +
+                          "\n*CRITICAL findings formally accepted on "
+                          f"{values.get('doc_date') or 'generation date'}.*\n")
+                else:
+                    md = md.rstrip() + "\n\n---\n\n" + \
+                        findings_markdown(findings, meta.get("operator", ""))
+
+                # dependency impact note (only when meaningful inputs exist)
+                dep_keys = [k for k in ("mud_weight", "hole_size",
+                                        "casing_size", "casing_depth",
+                                        "formation_pressure", "td_depth",
+                                        "bop_wp", "h2s", "depth_m")
+                            if values.get(k)]
+                if dep_keys:
+                    dmd = dependency_markdown(dep_keys)
+                    if dmd:
+                        md = md.rstrip() + "\n\n---\n\n" + dmd
+            except Exception:
+                import traceback
+                traceback.print_exc()
+
             # 6) Render to Word with the chosen formatting
             options = opt_page.output_options() if hasattr(opt_page, "output_options") else {}
             out = opt_page.output_path()

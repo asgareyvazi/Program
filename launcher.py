@@ -591,14 +591,12 @@ if __name__ == "__main__":
         cfg.initialize()
         print("Config initialized")
 
+        # Full database bootstrap (all seeders, idempotent)
         try:
-            from procedures_db import ProcedureDatabase
-            db = ProcedureDatabase()
-            stats = db.get_stats()
-            print(f"Procedures DB: {stats['total_procedures']} procedures")
-            db.close()
+            import bootstrap
+            bootstrap.seed_all()
         except Exception as e:
-            print(f"Procedures DB: {e}")
+            print(f"Bootstrap: {e}")
 
     elif arg == "--doctor":
         # System health check — dependencies, databases, optional tools

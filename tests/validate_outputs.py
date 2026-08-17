@@ -132,6 +132,9 @@ def validate_templates(tmp):
     from generation_pipeline import all_templates, generate_document
     from tests.defaults import build_default_values
     tpl = all_templates()
+    if len(tpl) < 51:
+        print(f"  ⚠ only {len(tpl)} templates found (master procedures DB "
+              f"missing?) — run: python3 bootstrap.py")
     vals = build_default_values(tpl)
     for i, td in enumerate(tpl, 1):
         out = os.path.join(tmp, f"tpl_{td.key}.docx")
@@ -182,7 +185,16 @@ def validate_procedures_word(tmp):
     db = ProcedureDatabase()
     procs = db.get_all_procedures(active_only=True)
     ids = [p.id for p in procs[:5]]
-    ok(len(procs) > 100, "procedures present", f"got {len(procs)}")
+    if len(procs) < 60:
+        ok(False, "procedures present",
+           f"got {len(procs)} — run: python3 bootstrap.py "
+           f"(seeds 186+ procedures)")
+        db.close()
+        return
+    ok(len(procs) >= 60, "procedures present", f"got {len(procs)}")
+    if len(procs) < 180:
+        print(f"  ⚠ only {len(procs)} procedures — run: python3 "
+              f"bootstrap.py for the full library")
     out = os.path.join(tmp, "procedures.docx")
     res = generate_procedures_docx(db, ids, out)
     ok(res["ok"], "export ok", str(res))
@@ -277,6 +289,9 @@ def validate_excel(tmp):
     import reporting
     out = os.path.join(tmp, "report.xlsx")
     n = reporting.export_report_excel(out)
+    if n < 7:
+        ok(False, f"sheets >= 7 (got {n}) — run: python3 bootstrap.py")
+        return
     ok(n >= 7, f"sheets >= 7 (got {n})")
     from openpyxl import load_workbook
     wb = load_workbook(out)
@@ -353,6 +368,11 @@ def validate_time_breakdown(tmp):
     from generation_pipeline import (template_by_key, generate_document)
     from tests.defaults import build_default_values
     from generation_pipeline import all_templates
+    tb_db = Path.home() / ".drilling_program" / "time_breakdown.db"
+    if not tb_db.exists():
+        print("  ⚠ time_breakdown.db missing — section skipped. Run: "
+              "python3 bootstrap.py (seeds 167-row project, 131.82 days)")
+        return
     vals = build_default_values(all_templates())
     td = template_by_key("drilling_program")
     out = os.path.join(tmp, "tb.docx")

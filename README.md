@@ -109,6 +109,7 @@ python launcher.py
 python launcher.py            # اجرای رابط کاربری
 python launcher.py --install  # نصب وابستگیها
 python launcher.py --check    # بررسی وابستگیها
+python bootstrap.py            # راه‌اندازی کامل دیتابیس‌ها (یک فرمان)
 python launcher.py --sample   # تولید سند نمونه Word (تست)
 python launcher.py --init     # آمادهسازی پوشهها و دیتابیس
 ```

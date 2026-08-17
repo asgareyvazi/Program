@@ -408,6 +408,23 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     except Exception:
         pass
 
+    # -- 4c. Standpipe pressure model (API RP 13D) ---------------------------
+    try:
+        from engineering_hydraulics import standpipe_pressure
+        sp = standpipe_pressure(values)
+        if sp["parts"]:
+            lines.append("")
+            lines.append("### Hydraulics — Standpipe Pressure Model "
+                         "(API RP 13D)")
+            for p in sp["parts"]:
+                lines.append(f"- {p['name']} ({p['geometry']}): "
+                             f"**{p['psi']} psi** [{p['regime']}]")
+            lines.append(f"- **SPP ≈ {sp['spp_psi']:,.0f} psi**; "
+                         f"ECD ≈ **{sp['ecd_ppg']} ppg**")
+            checks += 1
+    except Exception:
+        pass
+
     # -- 5. Anti-collision (trajectory-based) --------------------------------
     lines.append("")
     lines.append("### Anti-Collision — Minimum Curvature + Separation Factor")

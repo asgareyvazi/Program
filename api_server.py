@@ -232,6 +232,11 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         rows = compute_register(req.values)
         return {"rows": rows, "count": len(rows)}
 
+    @app.post("/api/hydraulics", dependencies=AUTH_DEP)
+    def hydraulics(req: RegisterRequest):
+        from engineering_hydraulics import standpipe_pressure
+        return standpipe_pressure(req.values)
+
     @app.post("/api/anticollision", dependencies=AUTH_DEP)
     def anticollision(req: AnticollisionRequest):
         from engineering_anticollision import (min_curvature_positions,

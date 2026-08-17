@@ -119,6 +119,16 @@ def main():
                     headers=H)
     ok(r.status_code == 200 and r.json()["status"] == "FAIL",
        "anticollision identical wells -> FAIL")
+    r = client.post("/api/hydraulics",
+                    json={"values": {"mud_weight": "12",
+                                     "plastic_viscosity": "25",
+                                     "yield_point": "20", "flow_rate": "300",
+                                     "hole_size": "8.5", "pipe_od": "5",
+                                     "dp_id": "4.276", "tfa": "0.3312",
+                                     "depth": "10000"}},
+                    headers=H)
+    ok(r.status_code == 200 and r.json()["spp_psi"] > 500,
+       f"hydraulics SPP = {r.json().get('spp_psi')} psi")
 
     print("\n[5] PROCEDURES CRUD + LINKING")
     r = client.post("/api/procedures",

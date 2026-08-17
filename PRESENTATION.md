@@ -57,6 +57,9 @@
 ### 📋 Structured Step Model (Hold/Witness Points)
 هر گام پروسیجر میتواند **پیششرط (Precondition)**، **معیار پذیرش (Acceptance)** و پرچم **🚧 Hold Point / 👁️ Witness Point** داشته باشد — با دکمهٔ «✨ Auto-structure» که از متن گام این اطلاعات را خودکار استخراج میکند؛ در ادیتور، پیشنمایش و خروجی Word نمایش داده میشود.
 
+### 🌊 مدل کامل هیدرولیک — Standpipe Pressure (API RP 13D)
+محاسبهٔ کل سیستم: تجهیزات سطحی + داخل لولهٔ حفاری + داخل BHA + افت بیت (TFA) + حلقهٔ پوششدار و باز + **ECD**، با انتخاب خودکار رژیم جریان (Laminar Bingham / Turbulent با Darcy-Weisbach+Blasius). ثابتهای فرمولهای میدانی (۹۰۰۰۰/۶۰۰۰۰/۱۰۸۵۸) بهصورت تحلیلی از معادلهٔ Hagen-Poiseuille اثبات و در تستهای مرجع ثبت شدهاند.
+
 ### 🌐 Enterprise REST API (حالت سرور)
 `python3 launcher.py --server` — ۱۶ اندپوینت با احراز هویت X-API-Key: تولید سند Word کامل (با همهٔ سکشنهای حاکمیتی) از هر زبان/اسکریپت، اعتبارسنجی مهندسی، Calculation Register، Anti-Collision، CRUD پروسیجر + لینک چاه/ریسک، مشکلات حفاری، CBS، چاهها، بکاپ و آمار — پاسخی برای سناریوی «۲۰ مهندس همزمان» روی LAN سازمانی. (مستندات OpenAPI خودکار در `/docs`)
 

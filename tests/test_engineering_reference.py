@@ -460,8 +460,56 @@ def test_decision_trees():
            "no symptoms -> no section")
 
 
+def test_hydraulics_model():
+    print("\n[22] HYDRAULICS — STANDPIPE MODEL (API RP 13D)")
+    import math as _m
+    from engineering_hydraulics import (bit_pressure_drop, reynolds_pipe,
+                                        pressure_loss_pipe,
+                                        pressure_loss_annulus, ecd,
+                                        standpipe_pressure,
+                                        hydraulics_markdown)
+    # bit: classic example — 12 ppg, 300 gpm, 3×12/32 nozzles (TFA 0.3312)
+    tfa = 3 * _m.pi / 4 * (12 / 32.0) ** 2
+    approx(bit_pressure_drop(12.0, 300.0, tfa), 906.7, 10.0, "bit drop ~907")
+    # laminar pipe vs Hagen-Poiseuille (YP=0): 1.519 vs 1.523 psi (0.3%)
+    lam = pressure_loss_pipe(12, 25, 0, 100, 4.276, 1000)
+    mu = 25 / 1488.16
+    hp = 32 * mu * (100 / 60.0) * 1000 / (32.174 * (4.276 / 12) ** 2 * 144)
+    approx(lam["laminar_psi"], hp, 0.03, "pipe laminar == HP")
+    # laminar annulus vs HP (slot): 3.40 vs 3.41 psi
+    la = pressure_loss_annulus(12, 25, 0, 100, 8.5, 5.0, 1000)
+    hpa = 48 * mu * (100 / 60.0) * 1000 / (32.174 * (3.5 / 12) ** 2 * 144)
+    approx(la["laminar_psi"], hpa, 0.05, "annulus laminar == HP")
+    # velocity conversion: 300 gpm in 4.276-in ID -> 402 ft/min (6.7 ft/s)
+    from engineering_hydraulics import _v_ftmin
+    approx(_v_ftmin(300, 4.276), 401.9, 1.0, "pipe velocity ft/min")
+    # Reynolds: 928×12×6.7×4.276/25 = 12,761
+    approx(reynolds_pipe(12, 401.9, 4.276, 25), 12761.0, 50.0, "Re ~ 12.8k")
+    # turbulent pipe: Darcy-Weisbach + Blasius ~ 363 psi over 10,000 ft
+    res = pressure_loss_pipe(12, 25, 20, _v_ftmin(300, 4.276), 4.276, 10000)
+    approx(res["regime"], "turbulent", 0, "regime turbulent")
+    approx(res["turbulent_psi"], 363.0, 8.0, "turbulent ~363 psi")
+    # ECD: 12 ppg + 70 psi over 8000 ft
+    approx(ecd(12.0, 70.0, 8000.0), 12.168, 0.01, "ECD calc")
+    # full system
+    vals = {"mud_weight": "12", "plastic_viscosity": "25", "yield_point": "20",
+            "flow_rate": "300", "hole_size": "8.5", "pipe_od": "5",
+            "dp_id": "4.276", "tfa": str(round(tfa, 4)), "depth": "10000",
+            "casing_depth": "4000", "casing_id": "8.921", "bha_od": "6.5",
+            "bha_length": "600", "surface_type": "Type 2 (standard)"}
+    sp = standpipe_pressure(vals)
+    approx(len(sp["parts"]) >= 6, True, 0, ">= 6 sections")
+    approx(sp["spp_psi"] > 1500, True, 0, f"SPP > 1500 (got {sp['spp_psi']})")
+    approx(sp["ecd_ppg"] > 12.0, True, 0, "ECD > MW")
+    approx(sp["annulus_psi"] > 0, True, 0, "annulus loss > 0")
+    md = hydraulics_markdown(vals)
+    approx("STANDPIPE PRESSURE MODEL" in md, True, 0, "section heading")
+    approx("Equivalent circulating density" in md, True, 0, "ECD shown")
+    approx("Bit (nozzles)" in md, True, 0, "bit section shown")
+
+
 def test_afe_materials():
-    print("\n[22] AFE vs ACTUAL + MATERIAL READINESS")
+    print("\n[23] AFE vs ACTUAL + MATERIAL READINESS")
     from operations_engine import LessonsDatabase
     db = LessonsDatabase()
     db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
@@ -479,7 +527,7 @@ def test_afe_materials():
 
 
 def test_backup_secrets():
-    print("\n[23] BACKUP/RESTORE + SECRETS")
+    print("\n[24] BACKUP/RESTORE + SECRETS")
     from backup_restore import create_backup, list_backups, SecretsManager
     b = create_backup("test")
     approx(b is not None, True, 0, "backup created")
@@ -492,7 +540,7 @@ def test_backup_secrets():
 
 
 def test_well_report():
-    print("\n[24] WELL REPORT GENERATOR")
+    print("\n[25] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
     md = build_well_report(_demo_values(), "PARS OIL CO", "DRILL PRO")
     for sec in ("WELL PROFILE", "ENGINEERING VALIDATION", "PROGRAM READINESS",
@@ -511,7 +559,7 @@ def main():
                test_entity_scrub, test_compliance, test_risk_decision,
                test_standards, test_deep_engineering,
                test_structured_steps, test_anticollision, test_advanced_casing,
-               test_decision_trees, test_afe_materials,
+               test_decision_trees, test_hydraulics_model, test_afe_materials,
                test_backup_secrets, test_well_report):
         try:
             fn()

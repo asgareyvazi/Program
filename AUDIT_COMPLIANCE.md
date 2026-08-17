@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۲۷۹ تست در ۵ سویت خودکار | `tests/run_all.py` (118 مرجع + 50 حاکمیتی + 51 قالب + 21 UI + 39 API) |
+| Testing | 3.5 | ✅ ۲۹۵ تست در ۵ سویت خودکار | `tests/run_all.py` (133 مرجع + 50 حاکمیتی + 51 قالب + 21 UI + 40 API) |
 
 ---
 
@@ -42,7 +42,7 @@
 | Casing Design | 5.5 | ✅ | **Advanced checks**: شناوری (BF)، بار محوری شناورشده، تنش/نیروی حرارتی (E·α·ΔT)، کاهش ظرفیت سایش/خوردگی (remaining-wall)، triaxial با هندسهٔ تنزل‌یافته + حرارتی — `engineering_casing.py` + ۱۷ تست مرجع |
 | Cementing | 6.0 | 🟡 | UCA/SGS/gas migration مدل نشده |
 | Mud Program | 6.0 | 🟡 | مدل رئولوژی کامل (H-B) ناقص |
-| Hydraulics | 5.5 | 🟡 | H-B/PL full + eccentricity ناقص |
+| Hydraulics | 5.5 | ✅ | **مدل کامل Standpipe (API RP 13D)**: سطحی + داخل لوله + BHA + بیت + حلقه (پوششدار/باز) + ECD + رژیم جریان (Bingham laminar + Darcy-Weisbach/Blasius) — ثابتهای ۹۰۰۰۰/۶۰۰۰۰/۱۰۸۵۸ بهصورت تحلیلی اثباتشده + ۱۴ تست |
 | Surge/Swab | 5.0 | 🟡 | مدل دینامیک ساده شد |
 | Torque & Drag | 5.0 | 🟡 | soft-string ساده |
 | ROP | 4.5 | ✅ | Bourgoyne-Young + کالیبراسیون از دادهٔ چاههای کناری (دیالوگ در ویزارد + جدول پیشبینی ROP در سند) |
@@ -144,7 +144,7 @@
 | P1 | Equipment Compatibility | ✅ |
 | P1 | Material & Inventory Readiness | 🟡 checklist؛ اتصال CBS P1 |
 | P1 | Well Control Decision Engine | ✅ 5 سناریو؛ بسط P1 |
-| P1 | Advanced Hydraulics | 🟡 H-B/PL/BP، surge/swab، optimization؛ eccentric P1 |
+| P1 | Advanced Hydraulics | ✅ H-B + **Standpipe کامل** (SPP/ECD/رژیم جریان) + surge/swab + eccentric |
 | P1 | Advanced Casing | ✅ evac/loss + buoyancy + thermal + wear/corrosion + triaxial derated |
 | P2 | Monte Carlo Time | ✅ |
 | P2 | AFE vs Actual | 🟡 ساختار CBS؛ اتصال actual P2 |
@@ -223,12 +223,13 @@
 `(این کامیت — Batch L)` (Advanced Casing Design Checks: buoyancy، بار محوری شناورشده، تنش/نیروی حرارتی E·α·ΔT، کاهش ظرفیت سایش/خوردگی به روش remaining-wall، triaxial با هندسهٔ تنزلیافته + حرارتی + تصحیح خروجازمرکز برای HB)
 `(این کامیت — Batch M)` (درختهای تشخیصی تصمیم: Stuck Pipe با شاخهبندی علائم rotate/circulate/move + انتخاب ابزار ماهیگیری بر اساس نوع ماهی — `engineering_decisions.py` + ۱۶ تست)
 `(این کامیت — Batch N)` (**Enterprise REST API**: `api_server.py` + `launcher.py --server` — ۱۶ اندپوینت با احراز هویت X-API-Key، تولید سند از طریق pipeline مشترک `generation_pipeline.py`، CRUD پروسیجر/لینک/بکاپ/آمار + ۳۹ تست + رفع باگ bindings در `update_procedure`)
+`(این کامیت — Batch O)` (**Standpipe Pressure Model — API RP 13D**: `engineering_hydraulics.py` — ۷ سکشن (سطحی/داخل لوله/BHA/بیت/حلقهٔ پوششدار/باز) + SPP + ECD + رژیم جریان؛ ثابتهای فرمولهای میدانی بهصورت تحلیلی از Hagen-Poiseuille اثبات شدند + اندپوینت `/api/hydraulics`)
 
-**امتیاز تخمینی جدید:** حدود **8.8–9/10** (از 5.8)
+**امتیاز تخمینی جدید:** حدود **8.9–9.2/10** (از 5.8)
 - +Validation، +Testing خودکار (۲۷۹ تست در ۵ سویت)، +Traceability کامل (register + snapshots)،
   +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
   +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)،
-  +Decision Trees (Stuck Pipe/Fishing)، +REST API سازمانی
-- باقیمانده برای ۹ کامل: مقیاس کامل سازمانی (PostgreSQL/AD/LDAP)، H-B با دادهٔ میدانی، OCR، Telemetry/WITSML
+  +Decision Trees (Stuck Pipe/Fishing)، +REST API سازمانی، +Hydraulics کامل (SPP/ECD)
+- برای ۹ کامل: مقیاس کامل سازمانی (PostgreSQL/AD/LDAP)، تأیید مدلها با دادهٔ میدانی، OCR، Telemetry/WITSML
 
 **گام بعدی پیشنهادی:** (الف) کاملکردن مدل هیدرولیک چندلایه (Standpipe Model: سطحی+داخل لوله+بیت+حلقه) با تأیید API RP 13D، (ب) Telemetry/WITSML، یا (ج) OCR اسناد تصویری.

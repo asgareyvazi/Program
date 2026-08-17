@@ -359,6 +359,43 @@ def compute_register(values: Dict) -> List[Dict]:
     except Exception:
         pass
 
+    # ----- 13c. Standpipe pressure model (API RP 13D) ------------------------
+    try:
+        from engineering_hydraulics import standpipe_pressure
+        sp = standpipe_pressure(values)
+        if sp["parts"]:
+            for p in sp["parts"]:
+                rows.append({
+                    "param": f"Hydraulics — {p['name']}",
+                    "formula": ("Bingham laminar/turbulent; bit: "
+                                "MW×Q²/(10858×TFA²)") if p["regime"] ==
+                                "nozzle" else "API RP 13D (Bingham) / "
+                                "Darcy-Weisbach+Blasius",
+                    "inputs": p["geometry"],
+                    "result": f"{p['psi']}", "unit": "psi",
+                    "standard": "API RP 13D",
+                    "status": "OK"})
+            rows.append({
+                "param": "Standpipe pressure (SPP)",
+                "formula": "Σ surface + pipe + bit + annulus",
+                "inputs": f"Q = {sp['flow_gpm']:g} gpm, "
+                          f"MW = {sp['mud_weight_ppg']:g} ppg",
+                "result": f"{sp['spp_psi']:,.0f}", "unit": "psi",
+                "standard": "API RP 13D",
+                "status": "OK"})
+            if sp["tvd_ft"] > 0:
+                rows.append({
+                    "param": "Equivalent circulating density (ECD)",
+                    "formula": "ECD = MW + ΔP_ann/(0.052×TVD)",
+                    "inputs": f"MW = {sp['mud_weight_ppg']:g} ppg, "
+                              f"ΔP_ann = {sp['annulus_psi']:,.0f} psi, "
+                              f"TVD = {sp['tvd_ft']:,.0f} ft",
+                    "result": f"{sp['ecd_ppg']}", "unit": "ppg",
+                    "standard": "API RP 13D",
+                    "status": "OK"})
+    except Exception:
+        pass
+
     # ----- 14. Anti-collision separation factor -----------------------------
     traj_md = pick("trajectory_table")
     off_md = pick("offset_trajectory_table")

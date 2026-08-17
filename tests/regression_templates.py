@@ -22,18 +22,12 @@ import traceback
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from wizard_engine import (fill_template, render_selected, extract_sections,
-                           neutralize_text, md_to_docx)
+from wizard_engine import extract_sections, neutralize_text
 from wizard_library import ALL_TEMPLATES
 from wizard_procedures import PROCEDURE_TEMPLATES
 from wizard_offshore import OFFSHORE_TEMPLATES
 from wizard_master import build_master_templates
-from validation_engine import validate_well_data, findings_markdown
-from operations_engine import readiness_markdown
-from standards_engine import compliance_markdown as scm
-from document_compliance import compliance_check, compliance_markdown
-from engineering_register import compute_register, register_markdown
-from engineering_deep import deep_verify_markdown
+from generation_pipeline import generate_document
 
 PASS = 0
 FAIL = 0
@@ -137,47 +131,20 @@ def all_templates():
 
 
 def run_template(tdef, out_dir, values):
-    """Mirror of the wizard generation pipeline (headless)."""
-    md = fill_template(tdef, values)
-    heads = [h for h, _ in extract_sections(md)]
-    md = render_selected(md, heads)
-    md = neutralize_text(md, values.get("operator", ""),
-                         values.get("contractor", ""))
-    # governance sections (same as the wizard)
-    findings = validate_well_data(values)
-    fmd = findings_markdown(findings, values.get("operator", ""))
-    if fmd:
-        md = md.rstrip() + "\n\n---\n\n" + fmd
-    rmd = readiness_markdown(values, values.get("operator", ""))
-    if rmd:
-        md = md.rstrip() + "\n\n---\n\n" + rmd
-    smd = scm(values, values.get("operator", ""))
-    if smd:
-        md = md.rstrip() + "\n\n---\n\n" + smd
-    comp = compliance_check(tdef.key, md)
-    cmd = compliance_markdown(comp, values.get("operator", ""))
-    if cmd:
-        md = md.rstrip() + "\n\n---\n\n" + cmd
-    dmd = deep_verify_markdown(values, None, values.get("operator", ""))
-    if dmd:
-        md = md.rstrip() + "\n\n---\n\n" + dmd
-    rows = compute_register(values)
-    rmd2 = register_markdown(rows, values.get("operator", ""))
-    if rmd2:
-        md = md.rstrip() + "\n\n---\n\n" + rmd2
-
+    """Generate via the shared headless pipeline (same as the REST API)."""
     out = os.path.join(out_dir, f"{tdef.key}.docx")
-    ok = md_to_docx(md, out, {
-        "title": tdef.name, "operator": values.get("operator", ""),
-        "contractor": values.get("contractor", ""),
-        "date": "17-August-2026", "revision": "01",
-        "prepared_by": "Engineer", "reviewed_by": "Lead Engineer",
-        "approved_by": "Drilling Manager", "document_number": "",
-    }, {"font": "Calibri", "font_size": 11.0, "page": "A4",
-        "orientation": "Portrait", "margin_left": 2.5, "margin_right": 2.0,
-        "margin_top": 2.0, "margin_bottom": 2.0, "cover": True, "toc": True,
-        "header_text": "", "footer_text": ""})
-    if not ok or not os.path.exists(out):
+    report = generate_document(
+        tdef, values,
+        meta={"prepared_by": "Engineer", "reviewed_by": "Lead Engineer",
+              "approved_by": "Drilling Manager", "document_number": "",
+              "date": "17-August-2026", "revision": "01"},
+        options={"font": "Calibri", "font_size": 11.0, "page": "A4",
+                 "orientation": "Portrait", "margin_left": 2.5,
+                 "margin_right": 2.0, "margin_top": 2.0,
+                 "margin_bottom": 2.0, "cover": True, "toc": True,
+                 "header_text": "", "footer_text": ""},
+        out_path=out)
+    if not report["ok"] or not os.path.exists(out):
         raise RuntimeError("docx generation failed")
     return out
 

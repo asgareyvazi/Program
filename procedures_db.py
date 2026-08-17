@@ -507,6 +507,7 @@ class ProcedureDatabase:
             params.append(name)
         if category_id is not None:
             fields.append("category_id=?")
+            params.append(category_id)
         if linked_well_id is not None:
             fields.append("linked_well_id=?")
             params.append(linked_well_id)
@@ -516,7 +517,6 @@ class ProcedureDatabase:
         if linked_risk_ids is not None:
             fields.append("linked_risk_ids=?")
             params.append(linked_risk_ids)
-            params.append(category_id)
         if description is not None:
             fields.append("description=?")
             params.append(description)

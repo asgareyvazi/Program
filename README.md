@@ -46,6 +46,7 @@
 - **🧭 Anti-Collision Engine** — Minimum Curvature + Separation Factor (OWSG) با اسکن نزدیکترین فاصله، EoU (MWD) و آفست سطح اسلات مجاور؛ در Deep Engineering سند + Register
 - **🔩 Advanced Casing Checks** — buoyancy، بار محوری شناورشده، تنش/نیروی حرارتی (E·α·ΔT)، کاهش ظرفیت سایش/خوردگی (remaining-wall) و triaxial با هندسهٔ تنزلیافته + حرارتی (`engineering_casing.py`)
 - **🧭 Decision Trees** — درخت تشخیصی Stuck Pipe (علائم rotate/circulate/move → دیفرانسیل/مکانیکی/Key Seat) + انتخاب ابزار ماهیگیری بر اساس نوع ماهی (`engineering_decisions.py`)
+- **🌐 Enterprise REST API** — `python3 launcher.py --server` (یا `api_server.py`): ۱۶ اندپوینت با کلید API — تولید سند، validation، register، anti-collision، CRUD پروسیجر/لینک، مشکلات، CBS، چاهها، بکاپ، آمار؛ مستندات OpenAPI در `/docs`؛ تست: `python3 tests/test_api.py`
 - **🔗 Procedure ← Well/Risk** — لینک پروسیجر به چاه/سکشن/ریسک (wells.db + problems.db) + سکشن «LINKED PROCEDURES» در Well Report + نقش مسئول (Role) در هر گام
 - **📊 Engineering Calculation Register** — در هر سند تولیدی، ضمیمهٔ «ENGINEERING CALCULATION REGISTER»: تکبهتک اعداد محاسبهشده با **فرمول + مقادیر ورودی + نتیجه + منبع استاندارد** (API/IADC/API 5C3...) — پاسخ به سؤال «این عدد از کدام معادله/استاندارد است؟»
 - **🔬 Deep Engineering Verification** — سکشن تأیید عمیق در سند: ROP بورگین-یانگ با **کالیبراسیون از دادهٔ چاههای کناری** (دیالوگ + جدول پیشبینی)، هیدرولیک Herschel-Bulkley، بررسی triaxial (von Mises)، surge/swab با تراکمپذیری؛ ورودیهای «Engineering Basis» (MW/PP/FG/سایزها/WOB/RPM/...) در همهٔ قالبها فعال است

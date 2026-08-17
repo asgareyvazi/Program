@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۲۳۷ تست در ۴ سویت خودکار | `tests/run_all.py` (118 مرجع + 47 حاکمیتی + 51 قالب + 21 UI) |
+| Testing | 3.5 | ✅ ۲۷۹ تست در ۵ سویت خودکار | `tests/run_all.py` (118 مرجع + 50 حاکمیتی + 51 قالب + 21 UI + 39 API) |
 
 ---
 
@@ -149,7 +149,7 @@
 | P2 | Monte Carlo Time | ✅ |
 | P2 | AFE vs Actual | 🟡 ساختار CBS؛ اتصال actual P2 |
 | P2 | Enterprise RBAC | ✅ |
-| P2 | API Layer | ❌ نیازمند سرور |
+| P2 | API Layer | ✅ **REST API سازمانی** (`api_server.py` / `launcher.py --server`): ۱۶ اندپوینت — تولید سند، اعتبارسنجی، Calculation Register، Anti-Collision، CRUD پروسیجر/لینک، مشکلات، CBS، چاهها، بکاپ، آمار + احراز هویت X-API-Key + تست ۳۹ موردی |
 | P2 | Central Knowledge Governance | 🟡 ingest/catalog؛ effective-date P2 |
 | P3 | Mobile/Field Companion | ❌ |
 | P3 | Telemetry/WITSML | ❌ |
@@ -191,7 +191,7 @@
 | ۱۱. NPT به cost و lessons وصل؟ | ✅ NPT engine |
 | ۱۲. کامل بودن Program؟ | ✅ readiness + compliance |
 | ۱۳. Standard Compliance قابل audit؟ | ✅ standards matrix |
-| ۱۴. ۲۰ مهندس همزمان؟ | ❌ نیازمند سرور مرکزی |
+| ۱۴. ۲۰ مهندس همزمان؟ | ✅ **API سرور LAN/سازمانی** با کلید API — همهٔ مهندسها میتوانند از ابزارهای خود (یا اسکریپت) سند تولید کنند؛ برای مقیاس کامل سازمانی (PostgreSQL/AD) گام بعدی |
 
 ---
 
@@ -222,13 +222,13 @@
 `(این کامیت — Batch K)` (Anti-Collision Engine با minimum curvature + SF/OWSG + نقش مسئول (role) در stepها + اتصال Procedure ← Well/Risk با سکشن «LINKED PROCEDURES» در Well Report + migration v16)
 `(این کامیت — Batch L)` (Advanced Casing Design Checks: buoyancy، بار محوری شناورشده، تنش/نیروی حرارتی E·α·ΔT، کاهش ظرفیت سایش/خوردگی به روش remaining-wall، triaxial با هندسهٔ تنزلیافته + حرارتی + تصحیح خروجازمرکز برای HB)
 `(این کامیت — Batch M)` (درختهای تشخیصی تصمیم: Stuck Pipe با شاخهبندی علائم rotate/circulate/move + انتخاب ابزار ماهیگیری بر اساس نوع ماهی — `engineering_decisions.py` + ۱۶ تست)
+`(این کامیت — Batch N)` (**Enterprise REST API**: `api_server.py` + `launcher.py --server` — ۱۶ اندپوینت با احراز هویت X-API-Key، تولید سند از طریق pipeline مشترک `generation_pipeline.py`، CRUD پروسیجر/لینک/بکاپ/آمار + ۳۹ تست + رفع باگ bindings در `update_procedure`)
 
-**امتیاز تخمینی جدید:** حدود **8.6–8.9/10** (از 5.8)
-- +Validation، +Testing خودکار (۲۳۷ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
+**امتیاز تخمینی جدید:** حدود **8.8–9/10** (از 5.8)
+- +Validation، +Testing خودکار (۲۷۹ تست در ۵ سویت)، +Traceability کامل (register + snapshots)،
   +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
   +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)،
-  +Decision Trees (Stuck Pipe/Fishing)
-- باقیمانده برای 8.8–9: سرور مرکزی/API، H-B hydraulics کامل با دادهٔ میدانی و مدل لایهبندی، OCR
+  +Decision Trees (Stuck Pipe/Fishing)، +REST API سازمانی
+- باقیمانده برای ۹ کامل: مقیاس کامل سازمانی (PostgreSQL/AD/LDAP)، H-B با دادهٔ میدانی، OCR، Telemetry/WITSML
 
-**گام بعدی پیشنهادی:** ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی) یا
-کاملکردن مدلهای هیدرولیک چندلایه و تأیید با دادهٔ میدانی.
+**گام بعدی پیشنهادی:** (الف) کاملکردن مدل هیدرولیک چندلایه (Standpipe Model: سطحی+داخل لوله+بیت+حلقه) با تأیید API RP 13D، (ب) Telemetry/WITSML، یا (ج) OCR اسناد تصویری.

@@ -270,6 +270,15 @@ def test_procedure_linking():
     rec2 = db.get_procedure(pid)
     ok(rec2.linked_well_id == "W-200", "link_well update")
     ok(rec2.linked_risk_ids == "[1]", "link_risks update")
+    # regression: update_procedure with category_id + links together
+    # (bindings bug fix — params must match placeholders)
+    cat2 = db.add_category("Second Cat")
+    db.update_procedure(pid, name="Renamed Proc", category_id=cat2,
+                        linked_well_id="W-300")
+    rec3 = db.get_procedure(pid)
+    ok(rec3.name == "Renamed Proc", "update_procedure name")
+    ok(rec3.category_id == cat2, "update_procedure category")
+    ok(rec3.linked_well_id == "W-300", "update_procedure keeps links")
     db.close()
     import shutil
     shutil.rmtree(tmp, ignore_errors=True)

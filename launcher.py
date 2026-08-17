@@ -600,6 +600,23 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Procedures DB: {e}")
 
+    elif arg == "--server":
+        # Enterprise REST API mode (no GUI) — audit P2 / buyer Q14
+        import subprocess as _sp
+        cmd = [sys.executable, "api_server.py"]
+        if "--no-auth" in sys.argv:
+            cmd.append("--no-auth")
+        for i, a in enumerate(sys.argv):
+            if a == "--port" and i + 1 < len(sys.argv):
+                cmd += ["--port", sys.argv[i + 1]]
+            if a == "--host" and i + 1 < len(sys.argv):
+                cmd += ["--host", sys.argv[i + 1]]
+        print("Starting enterprise API server...")
+        try:
+            _sp.run(cmd)
+        except KeyboardInterrupt:
+            print("\nServer stopped.")
+
     elif arg == "--sample":
         if not DependencyManager.check()['all_met']:
             print("Run --install first")

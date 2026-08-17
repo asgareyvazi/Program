@@ -28,6 +28,7 @@ SUITES = [
     ("Governance tests",            "test_governance.py"),
     ("Template regression (51)",    "regression_templates.py"),
     ("UI smoke tests",              "test_ui_smoke.py"),
+    ("REST API tests",              "test_api.py"),
 ]
 
 

@@ -404,8 +404,64 @@ def test_advanced_casing():
     approx("Thermal" in md, True, 0, "thermal check shown")
 
 
+def test_decision_trees():
+    print("\n[21] DIAGNOSTIC DECISION TREES (stuck pipe + fishing)")
+    from engineering_decisions import (stuck_pipe_diagnosis,
+                                       fishing_tool_selection,
+                                       stuck_pipe_markdown,
+                                       fishing_markdown)
+    # fully stuck -> free point / back-off / fishing path
+    s1 = stuck_pipe_diagnosis(False, False, False)
+    joined = " ".join(a for s in s1 for a in s["actions"]).upper()
+    approx("FREE POINT" in joined, True, 0, "free point in fully-stuck path")
+    approx("FISHING" in joined or "FISH" in s1[0]["escalate"].upper(),
+           True, 0, "fishing escalation")
+    # differential signature (can circulate, cannot rotate/move)
+    s2 = stuck_pipe_diagnosis(False, True, False)
+    approx("DIFFERENTIAL" in s2[0]["interpretation"].upper(), True, 0,
+           "differential sticking identified")
+    approx("OVER PULL" in s2[0]["actions"][0].upper().replace("OVER PULL",
+           "OVERPULL") or "OVERPULL" in s2[0]["actions"][0].upper(),
+           True, 0, "no-overpull advice")
+    # key seat / ream path
+    s3 = stuck_pipe_diagnosis(True, True, False)
+    approx("RESTRICTION" in s3[0]["interpretation"].upper(), True, 0,
+           "restriction path")
+    # not stuck
+    s4 = stuck_pipe_diagnosis(True, True, True)
+    approx("NO STICKING" in s4[0]["interpretation"].upper(), True, 0,
+           "not-stuck case")
+    # fishing tool selection
+    f1 = fishing_tool_selection(fish_desc="Drill pipe fish in hole",
+                                fish_od_in=5.0, fish_top_ft=8000)
+    approx(f1["fish_type"], "pipe", 0, "pipe fish classified")
+    approx("OVERSHOT" in f1["primary_tool"].upper(), True, 0,
+           "overshot primary for pipe")
+    f2 = fishing_tool_selection(fish_desc="Junk and debris on top of fish")
+    approx(f2["fish_type"], "junk", 0, "junk classified")
+    approx("BASKET" in f2["primary_tool"].upper(), True, 0,
+           "basket primary for junk")
+    f3 = fishing_tool_selection(fish_desc="Wireline stuck in hole")
+    approx(f3["fish_type"], "wireline", 0, "wireline classified")
+    # markdown sections
+    md1 = stuck_pipe_markdown({"can_rotate": "No", "can_circulate": "Yes",
+                               "can_move_pipe": "No"})
+    approx("STUCK PIPE DIAGNOSTIC TREE" in md1, True, 0,
+           "stuck-pipe section heading")
+    approx("Differential" in md1 or "DIFFERENTIAL" in md1, True, 0,
+           "differential in section")
+    md2 = fishing_markdown({"fish_description": "Junk in hole"})
+    approx("FISHING TOOL SELECTION" in md2, True, 0,
+           "fishing section heading")
+    approx("Basket" in md2 or "basket" in md2, True, 0,
+           "tool shown in section")
+    # empty when no symptoms
+    approx(stuck_pipe_markdown({"mud_weight": "12"}), "", 0,
+           "no symptoms -> no section")
+
+
 def test_afe_materials():
-    print("\n[21] AFE vs ACTUAL + MATERIAL READINESS")
+    print("\n[22] AFE vs ACTUAL + MATERIAL READINESS")
     from operations_engine import LessonsDatabase
     db = LessonsDatabase()
     db.add_afe(well_name="W", afe_number="A1", budget_usd=1000000,
@@ -423,7 +479,7 @@ def test_afe_materials():
 
 
 def test_backup_secrets():
-    print("\n[22] BACKUP/RESTORE + SECRETS")
+    print("\n[23] BACKUP/RESTORE + SECRETS")
     from backup_restore import create_backup, list_backups, SecretsManager
     b = create_backup("test")
     approx(b is not None, True, 0, "backup created")
@@ -436,7 +492,7 @@ def test_backup_secrets():
 
 
 def test_well_report():
-    print("\n[23] WELL REPORT GENERATOR")
+    print("\n[24] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
     md = build_well_report(_demo_values(), "PARS OIL CO", "DRILL PRO")
     for sec in ("WELL PROFILE", "ENGINEERING VALIDATION", "PROGRAM READINESS",
@@ -455,7 +511,8 @@ def main():
                test_entity_scrub, test_compliance, test_risk_decision,
                test_standards, test_deep_engineering,
                test_structured_steps, test_anticollision, test_advanced_casing,
-               test_afe_materials, test_backup_secrets, test_well_report):
+               test_decision_trees, test_afe_materials,
+               test_backup_secrets, test_well_report):
         try:
             fn()
         except Exception:

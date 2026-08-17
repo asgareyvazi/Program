@@ -57,6 +57,9 @@
 ### 📋 Structured Step Model (Hold/Witness Points)
 هر گام پروسیجر میتواند **پیششرط (Precondition)**، **معیار پذیرش (Acceptance)** و پرچم **🚧 Hold Point / 👁️ Witness Point** داشته باشد — با دکمهٔ «✨ Auto-structure» که از متن گام این اطلاعات را خودکار استخراج میکند؛ در ادیتور، پیشنمایش و خروجی Word نمایش داده میشود.
 
+### 🧭 درختهای تشخیصی Stuck Pipe & Fishing
+با سه علامت ساده (آیا لوله میچرخد؟ گردش برقرار است؟ لوله حرکت میکند؟) موتور تشخیص، سناریو را شاخهبندی میکند — از دیفرانسیل استیکینگ تا Key Seat و پکر شدن — و مسیر اقدام تا Free Point/Back-Off را گامبهگام میدهد. برای ماهیگیری نیز بر اساس نوع و هندسهٔ ماهی، ابزار اصلی (Overshot، Spear، Junk Basket، Magnet، Rope Spear) و ابزارهای جایگزین پیشنهاد میشود.
+
 ### 🔩 Advanced Casing Design Checks
 علاوه بر Barlow/API 5C3: **ضریب شناوری**، بار محوری شناورشده، **تنش حرارتی** (E·α·ΔT) و نیروی حرارتی مهارشده، **کاهش ظرفیت سایش/خوردگی** (روش remaining-wall) و بررسی **triaxial با هندسهٔ تنزلیافته + حرارتی** — همگی در Deep Engineering سند و Calculation Register.
 

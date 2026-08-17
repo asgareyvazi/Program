@@ -1457,6 +1457,17 @@ class _InputsPage(QWizardPage):
                       group="Engineering Basis"),
             InputSpec("rpm", "Rotary Speed", "number", unit="rpm",
                       group="Engineering Basis"),
+            InputSpec("can_rotate", "Stuck-pipe symptoms — can rotate?",
+                      "combo", options=["", "Yes", "No"],
+                      group="Engineering Basis"),
+            InputSpec("can_circulate",
+                      "Stuck-pipe symptoms — can circulate?",
+                      "combo", options=["", "Yes", "No"],
+                      group="Engineering Basis"),
+            InputSpec("can_move_pipe",
+                      "Stuck-pipe symptoms — can move pipe?",
+                      "combo", options=["", "Yes", "No"],
+                      group="Engineering Basis"),
             InputSpec("casing_weight", "Casing Weight", "number",
                       unit="ppf", group="Engineering Basis"),
             InputSpec("temperature_change", "Temperature Change (ΔT)",
@@ -2461,6 +2472,27 @@ class _GeneratePage(QWizardPage):
                             dmd2 = decision_markdown(dcs)
                             if dmd2:
                                 md = md.rstrip() + "\n\n---\n\n" + dmd2
+                except Exception:
+                    pass
+
+                # diagnostic decision trees: stuck pipe + fishing (audit P1)
+                try:
+                    from engineering_decisions import (stuck_pipe_markdown,
+                                                       fishing_markdown)
+                    dmd3 = stuck_pipe_markdown(values,
+                                               meta.get("operator", ""))
+                    if dmd3:
+                        dmd3 = neutralize_text(dmd3,
+                                               meta.get("operator", ""),
+                                               meta.get("contractor", ""))
+                        md = md.rstrip() + "\n\n---\n\n" + dmd3
+                    dmd4 = fishing_markdown(values,
+                                            meta.get("operator", ""))
+                    if dmd4:
+                        dmd4 = neutralize_text(dmd4,
+                                               meta.get("operator", ""),
+                                               meta.get("contractor", ""))
+                        md = md.rstrip() + "\n\n---\n\n" + dmd4
                 except Exception:
                     pass
 

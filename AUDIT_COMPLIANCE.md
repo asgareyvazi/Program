@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۲۲۱ تست در ۴ سویت خودکار | `tests/run_all.py` (102 مرجع + 47 حاکمیتی + 51 قالب + 21 UI) |
+| Testing | 3.5 | ✅ ۲۳۷ تست در ۴ سویت خودکار | `tests/run_all.py` (118 مرجع + 47 حاکمیتی + 51 قالب + 21 UI) |
 
 ---
 
@@ -49,8 +49,8 @@
 | Directional | 6.0 | ✅ | **Anti-Collision Engine**: minimum curvature + Separation Factor (OWSG، SF≥1.5) با اسکن نزدیکترین فاصله و EoU (MWD) — `engineering_anticollision.py` + ۱۷ تست مرجع |
 | Well Control | 6.0 | ✅ KT/MASP/KMW + decision engine | scenario branching کامل P1 |
 | BOP | 5.5 | ✅ pressure envelope + matrix | cert tracking P2 |
-| Fishing | 4.5 | 🟡 | decision tree عمیقتر |
-| Stuck Pipe | 5.5 | ✅ problem DB + decision | diagnostic tree کامل P1 |
+| Fishing | 4.5 | ✅ | **درخت تصمیم انتخاب ابزار ماهیگیری** (overshot/spear/basket/magnet/rope spear بر اساس نوع و هندسهٔ ماهی) + تست |
+| Stuck Pipe | 5.5 | ✅ problem DB + decision + **درخت تشخیصی علائم** (rotate/circulate/move → دیفرانسیل/مکانیکی/Key Seat) |
 | Hole Cleaning | 5.0 | ✅ critical velocity + transport ratio | — |
 | MPD | 3.5 | ✅ CBHP + window | مدل جریان کامل |
 | HPHT | 4.5 | 🟡 | thermal/elastomer/metallurgy |
@@ -221,11 +221,13 @@
 `(این کامیت — Batch J)` (Structured Step Model کامل: precondition/acceptance + Hold/Witness Points در دیتابیس، ادیتور، پیشنمایش و خروجی Word + Auto-structure + migration v12)
 `(این کامیت — Batch K)` (Anti-Collision Engine با minimum curvature + SF/OWSG + نقش مسئول (role) در stepها + اتصال Procedure ← Well/Risk با سکشن «LINKED PROCEDURES» در Well Report + migration v16)
 `(این کامیت — Batch L)` (Advanced Casing Design Checks: buoyancy، بار محوری شناورشده، تنش/نیروی حرارتی E·α·ΔT، کاهش ظرفیت سایش/خوردگی به روش remaining-wall، triaxial با هندسهٔ تنزلیافته + حرارتی + تصحیح خروجازمرکز برای HB)
+`(این کامیت — Batch M)` (درختهای تشخیصی تصمیم: Stuck Pipe با شاخهبندی علائم rotate/circulate/move + انتخاب ابزار ماهیگیری بر اساس نوع ماهی — `engineering_decisions.py` + ۱۶ تست)
 
-**امتیاز تخمینی جدید:** حدود **8.5–8.8/10** (از 5.8)
-- +Validation، +Testing خودکار (۲۲۱ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
+**امتیاز تخمینی جدید:** حدود **8.6–8.9/10** (از 5.8)
+- +Validation، +Testing خودکار (۲۳۷ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
   +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps،
-  +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)
+  +Anti-Collision، +Procedure↔Well/Risk، +Advanced Casing (thermal/wear/corrosion)،
+  +Decision Trees (Stuck Pipe/Fishing)
 - باقیمانده برای 8.8–9: سرور مرکزی/API، H-B hydraulics کامل با دادهٔ میدانی و مدل لایهبندی، OCR
 
 **گام بعدی پیشنهادی:** ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی) یا

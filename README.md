@@ -49,6 +49,12 @@
 - **💡 Lessons Learned + NPT + Plan vs Actual** — دیالوگ «📊 Operations» از منوی Tools: ثبت درسآموختهها (میدان/عملیات/علت/پیشگیری)، رویدادهای NPT (علت/زیرعلت/هزینه مستقیم و غیرمستقیم/اقدام اصلاحی و پیشگیرانه + خلاصه)، و گزارش روزانه با واریانس عمق/ROP در برابر برنامه
 - **📋 Procedure Lifecycle** — چرخه عمر پروسیجرها (Draft → Technical Review → HSE Review → Client Review → Approved → Released → Superseded → Archived) با دکمههای Set Status / Approve در Procedure Manager + ثبت در Audit Log
 - **🔐 RBAC** — نقشها (Read-Only/Engineer/Reviewer/Approver/Admin) با بررسی و ثبت دسترسیها (`rbac.py`)
+- **📋 Document Compliance Engine** — کارت گزارش انطباق سند قبل از انتشار: کاملبودن سکشنهای الزامی (بر اساس نوع سند)، یافتههای CRITICAL حلنشده، وجود References/Validation/Readiness — سکشن «DOCUMENT COMPLIANCE REPORT» در انتهای هر سند
+- **🎯 Risk Decision & Response Matrix** — هر ریسک به trigger/diagnostics/mitigation/escalation/recovery/acceptance-criteria مجهز است؛ بر اساس تحلیل ریسک خودکار، ماتریس تصمیم متناظر به سند اضافه میشود
+- **🛰️ Offset Well Intelligence** — جستجوی چاههای مشابه (میدان/نوع/عمق) با درسآموختهها و NPT تاریخی آنها؛ سکشن «OFFSET WELL INTELLIGENCE» در سند
+- **🔩 Equipment Compatibility** — بررسی سازگاری بیت/حفره، BHA/کیسینگ، موتور/حفره، لاینر/کیسینگ، BOP/فشار سطحی؛ یافتههای CRITICAL گزارش میشوند
+- **🎲 Monte Carlo Schedule & Cost** — P10/P50/P90 زمان و هزینه با توزیع مثلثی (۲۰۰۰ شبیهسازی) — سکشن «SCHEDULE & COST UNCERTAINTY»
+- **🧬 Entity-Based Generalization** — جایگزینی regex خام با تشخیص موجودیت (شرکت/چاه/میدان/مخزن) + حفاظت از اصطلاحات فنی (Brown زمینشناسی، Total واژه، MI مهندسی گل)
 - **⚙️ Advanced Engineering** — Kick Tolerance، BOP Pressure Envelope، Surge/Swab، Hole Cleaning (Critical Annular Velocity/Transport Ratio)، MPD (CBHP + پنجره فشار)، بارهای Evacuation/Lost-Returns کیسینگ
 - **📜 Audit Log** — ثبت append-only هر رویداد مهم (تولید سند، override یافتههای بحرانی) با زمان/کاربر/جزئیات در `~/.drilling_program/audit.log`
 - **🤖 AI Safety Boundary** — Numeric Lock: اگر LLM اعداد مهندسی را در بازنویسی حذف کند، متن قطعی (خام) جایگزین میشود؛ خروجی AI برچسب provenance دارد و هرگز تصمیم مهندسی نمیگیرد

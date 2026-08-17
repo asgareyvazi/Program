@@ -2106,6 +2106,79 @@ class _GeneratePage(QWizardPage):
                 import traceback
                 traceback.print_exc()
 
+            # 5c) Planning intelligence: offsets, equipment compatibility,
+            #     Monte-Carlo schedule/cost, risk decision matrix
+            try:
+                from planning_intelligence import (OffsetIntelligence,
+                                                   equipment_compatibility,
+                                                   compatibility_markdown,
+                                                   monte_carlo_time,
+                                                   monte_carlo_cost,
+                                                   monte_carlo_markdown)
+                from risk_decision import find_decisions, decision_markdown
+                from document_compliance import (compliance_check,
+                                                 compliance_markdown)
+
+                # offset wells (field/type known?)
+                if values.get("field_name"):
+                    oi = OffsetIntelligence()
+                    omd = oi.offset_markdown(
+                        field=values.get("field_name", ""),
+                        well_type=values.get("well_type", ""),
+                        operation=values.get("operation", ""))
+                    if omd:
+                        md = md.rstrip() + "\n\n---\n\n" + omd
+
+                # equipment compatibility (hole/casing sizes known?)
+                if values.get("hole_size") or values.get("casing_size"):
+                    comp = equipment_compatibility(
+                        hole_size=values.get("hole_size", ""),
+                        casing_size=values.get("casing_size", ""),
+                        bha_od=values.get("bha_od", ""),
+                        bit_size=values.get("bit_size", ""),
+                        liner_size=values.get("liner_size", ""),
+                        tubing_size=values.get("tubing_size", ""),
+                        bop_wp_psi=float(values.get("bop_wp") or 0),
+                        max_surface_pressure_psi=float(
+                            values.get("masp") or 0),
+                        mud_weight_ppg=float(values.get("mud_weight") or 0))
+                    cmd = compatibility_markdown(comp)
+                    if cmd and any(f["level"] != "INFO" for f in comp):
+                        md = md.rstrip() + "\n\n---\n\n" + cmd
+
+                # Monte Carlo schedule/cost (duration known?)
+                days = float(values.get("total_days") or 0)
+                if days > 0:
+                    tr = monte_carlo_time(days, days * 0.85, days * 1.25)
+                    cr = monte_carlo_cost(float(values.get("total_cost") or 0)
+                                          or days * 100000)
+                    mcm = monte_carlo_markdown(tr, cr)
+                    if mcm:
+                        md = md.rstrip() + "\n\n---\n\n" + mcm
+
+                # risk decision matrix (risk page results available?)
+                try:
+                    rp = wiz.page(4)
+                    if hasattr(rp, "_results") and rp._results:
+                        risk_txt = " ".join(
+                            r.problem for r in rp._results.get("risks", [])[:10])
+                        dcs = find_decisions(risk_txt)
+                        if dcs:
+                            dmd2 = decision_markdown(dcs)
+                            if dmd2:
+                                md = md.rstrip() + "\n\n---\n\n" + dmd2
+                except Exception:
+                    pass
+
+                # document compliance report card (always)
+                comp_rep = compliance_check(tdef.key, md)
+                cmr = compliance_markdown(comp_rep, meta.get("operator", ""))
+                if cmr:
+                    md = md.rstrip() + "\n\n---\n\n" + cmr
+            except Exception:
+                import traceback
+                traceback.print_exc()
+
             # 6) Render to Word with the chosen formatting
             options = opt_page.output_options() if hasattr(opt_page, "output_options") else {}
             out = opt_page.output_path()

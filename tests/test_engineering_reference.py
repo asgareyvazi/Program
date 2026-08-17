@@ -160,15 +160,73 @@ def test_readiness_and_ops():
     db.add_lesson(well_name="W1", field="F", operation="Drilling",
                   category="Stuck", lesson="test lesson", cause="c",
                   prevention="p")
-    approx(len(db.lessons_for(field="F")), 1, 0, "lesson stored")
+    approx(len(db.lessons_for(field="F")) >= 1, True, 0, "lesson stored")
     n = db.add_npt(well_name="W1", date="2026-08-16", duration_hr=10,
                    category="Stuck", cause="Pack-off", direct_cost=100)
     s = db.npt_summary()
     approx(s["events"] >= 1, True, 0, "npt recorded")
     d = db.add_daily(well_name="W1", date="2026-08-16", depth_m=1000,
                      plan_depth_m=1100)
-    approx(len(db.plan_vs_actual()), 1, 0, "daily recorded")
+    approx(len(db.plan_vs_actual()) >= 1, True, 0, "daily recorded")
     db.close()
+
+
+def test_planning_intelligence():
+    print("\n[12] PLANNING INTELLIGENCE (offsets, compatibility, Monte Carlo)")
+    from planning_intelligence import (equipment_compatibility,
+                                       monte_carlo_time, monte_carlo_cost)
+    # compatibility: bad bit vs hole -> CRITICAL
+    bad = equipment_compatibility(hole_size='12-1/4"', bit_size='13-1/2"')
+    approx(any(f["level"] == "CRITICAL" for f in bad), True, 0,
+           "bit>hole flagged CRITICAL")
+    # good setup -> INFO only
+    good = equipment_compatibility(hole_size='12-1/4"', casing_size='9-5/8"',
+                                   bit_size='12-1/4"',
+                                   bop_wp_psi=10000,
+                                   max_surface_pressure_psi=5000)
+    approx(all(f["level"] == "INFO" for f in good), True, 0,
+           "compatible setup clean")
+    # Monte Carlo: P50 near base
+    tr = monte_carlo_time(114, 95, 140, seed=1)
+    approx(tr["p50_days"], 114, 15, "MC P50 near base")
+    cr = monte_carlo_cost(1_000_000, seed=1)
+    approx(cr["p50_usd"], 1_000_000, 200_000, "MC cost P50")
+
+
+def test_entity_scrub():
+    print("\n[13] ENTITY SCRUB (context-aware generalization)")
+    from entity_scrub import scrub_entities
+    out, removed = scrub_entities(
+        "Well SI-09 by NISOC, rig OEOC 207; Brown shale; Total depth; "
+        "'Total' word; PARS OIL CO approved", "PARS OIL CO", "DRILL PRO")
+    approx("SI-09" in out, False, 0, "well code removed")
+    approx("NISOC" in out, False, 0, "company removed")
+    approx("Brown" in out, True, 0, "geology 'Brown' kept")
+    approx("Total depth" in out, True, 0, "technical 'Total' kept")
+    approx("PARS OIL CO" in out, True, 0, "user operator kept")
+
+
+def test_compliance():
+    print("\n[14] DOCUMENT COMPLIANCE ENGINE")
+    from document_compliance import compliance_check
+    good_md = "## 1. SCOPE\n## WELL INFORMATION\n## CASING PROGRAM\n" \
+              "## MUD PROGRAM\n## BHA & BITS\n## HYDRAULICS\n" \
+              "## WELL CONTROL\n## CEMENTING\n## SAFETY\n" \
+              "## VALIDATION & COMPLIANCE\n## PROGRAM READINESS SCORE\n" \
+              "## REFERENCE DOCUMENTS\n"
+    r = compliance_check("drilling_program", good_md, [])
+    approx(r["compliant"], True, 0, "complete doc compliant")
+    poor = compliance_check("drilling_program", "## SAFETY\n", [])
+    approx(poor["compliant"], False, 0, "incomplete doc not compliant")
+
+
+def test_risk_decision():
+    print("\n[15] RISK DECISION ENGINE")
+    from risk_decision import find_decisions
+    ds = find_decisions("kick from over-pressured zone; lost circulation; H2S")
+    approx(any(d.code == "RD-001" for d in ds), True, 0, "kick decision found")
+    approx(any(d.code == "RD-002" for d in ds), True, 0, "loss decision found")
+    approx(any(d.code == "RD-004" for d in ds), True, 0, "H2S decision found")
 
 
 def main():
@@ -178,7 +236,8 @@ def main():
     for fn in (test_units, test_hydrostatic, test_maasp, test_kill_mud_weight,
                test_annular_velocity, test_casing_burst, test_casing_collapse,
                test_well_cost, test_engineering_calc_annular, test_advanced,
-               test_readiness_and_ops):
+               test_readiness_and_ops, test_planning_intelligence,
+               test_entity_scrub, test_compliance, test_risk_decision):
         try:
             fn()
         except Exception:

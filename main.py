@@ -3035,6 +3035,12 @@ class DrillingProgramMainWindow(QMainWindow):
         ops_action = QAction("📊 Operations (Readiness/NPT/Lessons)", self)
         ops_action.triggered.connect(self._show_operations)
         tools_menu.addAction(ops_action)
+        wr_action = QAction("📘 Well Engineering Report (full)", self)
+        wr_action.triggered.connect(self._show_well_report)
+        tools_menu.addAction(wr_action)
+        bk_action = QAction("💾 Backup / Restore", self)
+        bk_action.triggered.connect(self._show_backup)
+        tools_menu.addAction(bk_action)
         tools_menu.addAction(tb_action)
 
         # Templates Menu
@@ -3160,6 +3166,74 @@ class DrillingProgramMainWindow(QMainWindow):
         except Exception as e:
             import traceback
             QMessageBox.critical(self, "Operations", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _show_well_report(self):
+        """تولید گزارش جامع مهندسی چاه (Word)"""
+        try:
+            from well_report import generate_well_report_docx, _demo_values
+            from PySide6.QtWidgets import QFileDialog
+            default = str(Path.home() / "Well_Engineering_Report.docx")
+            path, _ = QFileDialog.getSaveFileName(
+                self, "Save Well Engineering Report", default,
+                "Word Document (*.docx)")
+            if not path:
+                return
+            # collect current values from the company tab when available
+            values = _demo_values()
+            try:
+                tw = self.tab_company
+                for attr in ("well_name_edit", "well_name", "txt_well_name"):
+                    w = getattr(tw, attr, None)
+                    if w is not None and hasattr(w, "text") and w.text():
+                        values["well_name"] = w.text()
+                        break
+                for attr in ("field_name_edit", "field_name", "txt_field"):
+                    w = getattr(tw, attr, None)
+                    if w is not None and hasattr(w, "text") and w.text():
+                        values["field_name"] = w.text()
+                        break
+            except Exception:
+                pass
+            ok = generate_well_report_docx(values, path)
+            QMessageBox.information(
+                self, "Report",
+                f"Well Engineering Report generated:\n{path}"
+                if ok else "Generation failed.")
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Well Report", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _show_backup(self):
+        """پشتیبانگیری / بازیابی دیتابیسها"""
+        try:
+            from backup_restore import (create_backup, list_backups,
+                                        restore_backup)
+            backups = list_backups()
+            if not backups:
+                create_backup()
+                backups = list_backups()
+            names = [b["name"] for b in backups]
+            from PySide6.QtWidgets import QInputDialog
+            choice, ok = QInputDialog.getItem(
+                self, "Backup / Restore",
+                "Select a backup to restore (or Cancel to create a new one):",
+                names, 0, False)
+            if ok and choice:
+                res = restore_backup(choice)
+                n_ok = sum(1 for v in res.values() if v)
+                QMessageBox.information(
+                    self, "Restore",
+                    f"Restored {n_ok}/{len(res)} files from {choice}")
+            else:
+                b = create_backup()
+                QMessageBox.information(
+                    self, "Backup",
+                    f"Backup created: {b.name if b else 'failed'}")
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Backup", f"{e}\n\n"
                                  f"{traceback.format_exc()[-300:]}")
 
     def _show_procedure_manager(self):

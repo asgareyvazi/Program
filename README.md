@@ -59,6 +59,9 @@
 - **🎯 Deep Engineering Models** — ROP با **کالیبراسیون از داده چاههای حفرشده** (مدل Bourgoyne-Young)، هیدرولیک **Power Law + Herschel-Bulkley** (با yield stress)، **چک Triaxial (von Mises)** کیسینگ، Surge/Swab با ضریب تراکمپذیری
 - **💰 AFE vs Actual** — بودجه/تعهد/واقعی/پیشبینی با درصد مصرف و هشدار تجاوز از بودجه
 - **📦 Material & Inventory Readiness** — موجودی بحرانی (کیسینگ، باریت، سیمان...) با هشدار ⛔ برای اقلام کسری بحرانی
+- **💾 Backup / Restore** — اسنپشات همه دیتابیسها + تنظیمات در `~/.drilling_program/backups/` با SQLite backup API و manifest؛ بازیابی از منوی Tools
+- **🔐 Secrets Management** — کلید API دیگر در فایل متن ساده نمی‌ماند: ذخیره در OS keyring (Credential Manager/Keychain/Secret Service) با fallback فایل ۰۶۰۰
+- **📘 Well Engineering Report** — گزارش جامع یکچاه با ۱۰ سکشن (Profile → Validation → Readiness → Standards → Dependency → Problems → Risk Decision → Compatibility → Monte Carlo → Compliance) با یک کلیک از منوی Tools (Word)
 - **📋 AUDIT_COMPLIANCE.md** — گزارش انطباق تکبندبهبند با ممیزی فنی (هر بند ۱-۲۵ + ضمائم با وضعیت ✅/🟡/❌ و شواهد)
 - **🧬 Entity-Based Generalization** — جایگزینی regex خام با تشخیص موجودیت (شرکت/چاه/میدان/مخزن) + حفاظت از اصطلاحات فنی (Brown زمینشناسی، Total واژه، MI مهندسی گل)
 - **⚙️ Advanced Engineering** — Kick Tolerance، BOP Pressure Envelope، Surge/Swab، Hole Cleaning (Critical Annular Velocity/Transport Ratio)، MPD (CBHP + پنجره فشار)، بارهای Evacuation/Lost-Returns کیسینگ

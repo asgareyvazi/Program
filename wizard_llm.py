@@ -22,21 +22,42 @@ SETTINGS_FILE = Path.home() / ".drilling_program" / "llm_settings.json"
 
 
 def load_settings() -> Dict:
-    """Load saved LLM settings from disk (or defaults)."""
+    """Load saved LLM settings from disk + secrets store (or defaults)."""
     try:
         if SETTINGS_FILE.exists():
             data = json.loads(SETTINGS_FILE.read_text(encoding="utf-8"))
-            return {"backend": data.get("backend", "none"),
-                    "api_key": data.get("api_key", "")}
+            backend = data.get("backend", "none")
+            api_key = data.get("api_key", "")
+            # prefer the secure store when present
+            try:
+                from backup_restore import load_llm_key
+                secure = load_llm_key(backend)
+                if secure:
+                    api_key = secure
+            except Exception:
+                pass
+            return {"backend": backend, "api_key": api_key}
     except Exception:
         pass
     return {"backend": "none", "api_key": ""}
 
 
 def save_settings(backend: str, api_key: str = ""):
-    """Persist LLM settings to disk (survives restarts)."""
+    """Persist LLM settings (survives restarts).
+
+    The API key is stored via the OS secrets store (keyring) when
+    available; the settings file only keeps the backend + a placeholder.
+    """
     try:
         SETTINGS_FILE.parent.mkdir(exist_ok=True)
+        if api_key and backend not in ("none", "Ollama"):
+            try:
+                from backup_restore import SecretsManager
+                sm = SecretsManager()
+                sm.set_secret(f"{backend.lower()}_api_key", api_key)
+                api_key = ""  # don't persist plaintext
+            except Exception:
+                pass
         SETTINGS_FILE.write_text(
             json.dumps({"backend": backend, "api_key": api_key}),
             encoding="utf-8")

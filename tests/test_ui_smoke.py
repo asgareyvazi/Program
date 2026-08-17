@@ -169,6 +169,39 @@ def test_operations_dialog(app):
     dlg.close()
 
 
+def test_step_editor(app):
+    print("\n[5] STEP EDITOR DIALOG — structured fields + auto-structure")
+    from procedures_db import StepEditorDialog
+    dlg = StepEditorDialog()
+    dlg.txt.setPlainText(
+        "Run casing to shoe depth - hold point required before continuing, "
+        "verify returns by mud logger")
+    dlg._auto_structure()
+    data = dlg.get_data()
+    ok(data["hold_point"], "hold point auto-detected in editor")
+    ok("verify" in data["acceptance"].lower() or "returns" in
+       data["acceptance"].lower(), "acceptance auto-filled")
+    ok(bool(data["text"]), "step text preserved")
+    dlg.deleteLater()
+    # procedure editor constructs with a real DB procedure
+    from procedures_db import ProcedureDatabase, ProcedureEditorDialog
+    import tempfile, os
+    tmp = tempfile.mkdtemp(prefix="drl_pe_")
+    dbp = os.path.join(tmp, "procedures.db")
+    db = ProcedureDatabase(db_path=dbp)
+    cat = db.add_category("Smoke")
+    pid = db.add_procedure("Smoke Procedure", cat)
+    db.add_step(pid, "Test step", precondition="Pre", acceptance="Acc",
+                hold_point=True)
+    ed = ProcedureEditorDialog(db, proc_id=pid)
+    ed.show()
+    app.processEvents()
+    ok(ed.steps_list.count() == 1, "procedure editor shows the step")
+    ed.close()
+    import shutil
+    shutil.rmtree(tmp, ignore_errors=True)
+
+
 def docx_text(path):
     from docx import Document
     d = Document(path)
@@ -187,6 +220,7 @@ if __name__ == "__main__":
         test_wizard_e2e(app)
         test_rop_dialog(app)
         test_operations_dialog(app)
+        test_step_editor(app)
     finally:
         app.processEvents()
     print("\n" + "=" * 60)

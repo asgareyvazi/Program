@@ -19,7 +19,7 @@
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ ۱۶۵ تست در ۴ سویت خودکار | `tests/run_all.py` (69 مرجع + 28 حاکمیتی + 51 قالب + 17 UI) |
+| Testing | 3.5 | ✅ ۱۷۸ تست در ۴ سویت خودکار | `tests/run_all.py` (69 مرجع + 37 حاکمیتی + 51 قالب + 21 UI) |
 
 ---
 
@@ -81,8 +81,8 @@
 | آیتم | وضعیت | شواهد |
 |---|---|---|
 | Lifecycle ۸ حالته | ✅ | `procedures_db.set_status/approve/supersede` + UI |
-| Step ساختاریافته (precondition/action/acceptance/...) | 🟡 | ستونهای hold_points/witness_points اضافه شد؛ ساختار کامل هر step P1 |
-| Hold Point / Witness Point | 🟡 | ستونها موجود؛ اجرای کامل P1 |
+| Step ساختاریافته (precondition/action/acceptance/...) | ✅ | ستونهای `precondition/acceptance` در procedure_steps + ادیتور گام با دکمهٔ Auto-structure + نمایش در پیشنمایش و خروجی Word |
+| Hold Point / Witness Point | ✅ | ستونها + ادیتور + نشان «🚧 HOLD POINT / 👁️ WITNESS» در پیشنمایش و سند Word + تست |
 | Procedure ← Well Section/Risk | 🟡 | canonical well_id موجود؛ اتصال کامل P1 |
 | Traceability revision | ✅ | audit log + lifecycle |
 
@@ -140,7 +140,7 @@
 | P1 | Plan vs Actual | ✅ |
 | P1 | NPT Root Cause Engine | ✅ |
 | P1 | Program Readiness Score | ✅ |
-| P1 | Procedure Execution Engine | 🟡 lifecycle؛ role/hold-point کامل P1 |
+| P1 | Procedure Execution Engine | ✅ lifecycle + structured steps (precondition/acceptance + Hold/Witness Points) در ادیتور، پیشنمایش و Word |
 | P1 | Equipment Compatibility | ✅ |
 | P1 | Material & Inventory Readiness | 🟡 checklist؛ اتصال CBS P1 |
 | P1 | Well Control Decision Engine | ✅ 5 سناریو؛ بسط P1 |
@@ -218,12 +218,13 @@
 `17fb8c5` (standards matrix + گزارش انطباق)
 `5820e10` (Backup/Restore، Secrets/keyring، Well Engineering Report)
 `(این کامیت — Batch I)` (Calculation Register، Deep Engineering در ویزارد + ROP calibration، revision snapshots، بکاپ رمزنگاریشده، ۴ سویت تست خودکار + رفع ۲ باگ neutralize: «Total» و «IADC»)
+`(این کامیت — Batch J)` (Structured Step Model کامل: precondition/acceptance + Hold/Witness Points در دیتابیس، ادیتور، پیشنمایش و خروجی Word + Auto-structure + migration v12)
 
 **امتیاز تخمینی جدید:** حدود **8–8.5/10** (از 5.8)
-- +Validation، +Testing خودکار (۱۶۵ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
-  +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration
+- +Validation، +Testing خودکار (۱۷۸ تست در ۴ سویت)، +Traceability کامل (register + snapshots)،
+  +Dependency، +Units، +Governance (بکاپ رمزنگاریشده)، +ROP calibration، +Structured Steps
 - باقیمانده برای 8.5–9: سرور مرکزی/API، triaxial/thermal casing کامل با بارهای واقعی،
-  H-B hydraulics کامل با دادهٔ میدانی، مدل step ساختاریافتهٔ کامل در UI
+  H-B hydraulics کامل با دادهٔ میدانی، اتصال کامل Procedure ← Well Section/Risk
 
-**گام بعدی پیشنهادی:** ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی) یا کاملکردن
-مدل step ساختاریافته (precondition/action/acceptance per step) در Procedure Manager.
+**گام بعدی پیشنهادی:** ماژول سرور مرکزی (در صورت تمایل به deployment سازمانی) یا
+اتصال Procedure ← Well Section/Risk و نقشهای اجرایی (role) در stepها.

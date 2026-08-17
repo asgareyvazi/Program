@@ -24,6 +24,12 @@ MIGRATIONS = {
         (6, "ALTER TABLE procedures ADD COLUMN supersedes TEXT DEFAULT ''"),
         (7, "ALTER TABLE procedures ADD COLUMN hold_points TEXT DEFAULT '[]'"),
         (8, "ALTER TABLE procedures ADD COLUMN witness_points TEXT DEFAULT '[]'"),
+        # Structured step execution model (audit P1): every step may carry
+        # a precondition, acceptance criteria and hold/witness point flags.
+        (9, "ALTER TABLE procedure_steps ADD COLUMN precondition TEXT DEFAULT ''"),
+        (10, "ALTER TABLE procedure_steps ADD COLUMN acceptance TEXT DEFAULT ''"),
+        (11, "ALTER TABLE procedure_steps ADD COLUMN hold_point INTEGER DEFAULT 0"),
+        (12, "ALTER TABLE procedure_steps ADD COLUMN witness_point INTEGER DEFAULT 0"),
     ],
     "cbs.db": [
         (2, "ALTER TABLE cbs_items ADD COLUMN vendor TEXT DEFAULT ''"),

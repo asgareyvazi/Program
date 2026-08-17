@@ -196,6 +196,44 @@ def test_register():
     ok("Predicted ROP" in dmd2 or "ROP (ft/hr)" in dmd2, "ROP table shown")
 
 
+def test_structured_steps():
+    print("\n[6] STRUCTURED STEP MODEL (hold/witness/precondition)")
+    import tempfile
+    from procedures_db import ProcedureDatabase
+    tmp = tempfile.mkdtemp(prefix="drl_steps_")
+    dbp = os.path.join(tmp, "procedures.db")
+    db = ProcedureDatabase(db_path=dbp)
+    cat = db.add_category("Test")
+    pid = db.add_procedure("Test Procedure", cat)
+    # add a structured step with hold + witness points
+    db.add_step(pid, "Run casing to shoe depth.",
+                precondition="Hole in good condition; returns established",
+                acceptance="Casing landed; no drag over 50 klbf",
+                hold_point=True, witness_point=True)
+    db.add_step(pid, "Circulate and condition mud - verify returns.")
+    steps = db.get_steps(pid)
+    ok(len(steps) == 2, "two steps stored")
+    s0 = steps[0]
+    ok(s0.hold_point and s0.witness_point, "hold+witness flags round-trip")
+    ok("good condition" in s0.precondition, "precondition round-trip")
+    ok("no drag" in s0.acceptance, "acceptance round-trip")
+    # update step
+    db.update_step(steps[1].id, acceptance="Returns clean; no losses")
+    s1 = db.get_steps(pid)[1]
+    ok("Returns clean" in s1.acceptance, "acceptance update round-trip")
+    # auto-structure parser
+    from structured_steps import structure_step
+    st = structure_step(
+        "3.1 Pick up off bottom and verify string is free - hold point "
+        "required before continuing, witness by company rep")
+    ok(bool(st.action), "action extracted")
+    ok(st.hold_point, "hold point auto-detected")
+    ok("verify" in st.acceptance.lower(), "acceptance auto-detected")
+    ok(st.witness_point, "witness point auto-detected")
+    import shutil
+    shutil.rmtree(tmp, ignore_errors=True)
+
+
 def test_neutralize_words():
     print("\n[5] NEUTRALIZE — ordinary English preserved")
     from wizard_engine import neutralize_text
@@ -218,6 +256,7 @@ if __name__ == "__main__":
     test_secrets()
     test_register()
     test_neutralize_words()
+    test_structured_steps()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

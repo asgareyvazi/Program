@@ -21,7 +21,9 @@ from pathlib import Path
 
 @dataclass
 class ProcedureStep:
-    """یک مرحله از پروسیجر"""
+    """یک مرحله از پروسیجر — structured execution model (audit P1):
+    هر step می‌تواند پیش‌شرط (precondition)، معیار پذیرش (acceptance) و
+    نقاط Hold/Witness داشته باشد."""
     id: int = 0
     procedure_id: int = 0
     step_number: int = 0
@@ -30,6 +32,10 @@ class ProcedureStep:
     is_header: bool = False
     is_note: bool = False
     is_warning: bool = False
+    precondition: str = ""
+    acceptance: str = ""
+    hold_point: bool = False
+    witness_point: bool = False
 
 
 @dataclass
@@ -95,6 +101,14 @@ class ProcedureDatabase:
         self._connect()
         self._create_tables()
 
+        # Self-migrating schema (audit P0): bring the DB to the latest
+        # version before use so old databases keep working.
+        try:
+            from db_migrations import migrate
+            migrate(db_path)
+        except Exception:
+            pass
+
         # Seed built-in data if empty
         if self._is_empty():
             self._seed_builtin_data()
@@ -150,6 +164,10 @@ class ProcedureDatabase:
                 is_header INTEGER DEFAULT 0,
                 is_note INTEGER DEFAULT 0,
                 is_warning INTEGER DEFAULT 0,
+                precondition TEXT DEFAULT '',
+                acceptance TEXT DEFAULT '',
+                hold_point INTEGER DEFAULT 0,
+                witness_point INTEGER DEFAULT 0,
                 FOREIGN KEY (procedure_id) REFERENCES procedures(id)
                     ON DELETE CASCADE
             );
@@ -541,14 +559,25 @@ class ProcedureDatabase:
             text=r['text'],
             is_header=bool(r['is_header']),
             is_note=bool(r['is_note']),
-            is_warning=bool(r['is_warning'])
+            is_warning=bool(r['is_warning']),
+            precondition=r['precondition'] if 'precondition' in r.keys()
+            else '',
+            acceptance=r['acceptance'] if 'acceptance' in r.keys() else '',
+            hold_point=bool(r['hold_point']) if 'hold_point' in r.keys()
+            else False,
+            witness_point=bool(r['witness_point'])
+            if 'witness_point' in r.keys() else False,
         ) for r in rows]
 
     def add_step(self, proc_id: int, text: str,
                  indent_level: int = 0,
                  is_header: bool = False,
                  is_note: bool = False,
-                 is_warning: bool = False) -> int:
+                 is_warning: bool = False,
+                 precondition: str = "",
+                 acceptance: str = "",
+                 hold_point: bool = False,
+                 witness_point: bool = False) -> int:
         # Get next step number
         row = self.conn.execute(
             "SELECT COALESCE(MAX(step_number), 0) + 1 as next_num "
@@ -559,10 +588,13 @@ class ProcedureDatabase:
         cur = self.conn.execute(
             "INSERT INTO procedure_steps "
             "(procedure_id, step_number, indent_level, text, "
-            "is_header, is_note, is_warning) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?)",
+            "is_header, is_note, is_warning, precondition, acceptance, "
+            "hold_point, witness_point) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (proc_id, next_num, indent_level, text,
-             int(is_header), int(is_note), int(is_warning))
+             int(is_header), int(is_note), int(is_warning),
+             precondition or "", acceptance or "",
+             int(hold_point), int(witness_point))
         )
         self.conn.commit()
         return cur.lastrowid
@@ -571,7 +603,11 @@ class ProcedureDatabase:
                     indent_level: int = None,
                     is_header: bool = None,
                     is_note: bool = None,
-                    is_warning: bool = None):
+                    is_warning: bool = None,
+                    precondition: str = None,
+                    acceptance: str = None,
+                    hold_point: bool = None,
+                    witness_point: bool = None):
         fields = []
         params = []
         if text is not None:
@@ -589,6 +625,18 @@ class ProcedureDatabase:
         if is_warning is not None:
             fields.append("is_warning=?")
             params.append(int(is_warning))
+        if precondition is not None:
+            fields.append("precondition=?")
+            params.append(precondition)
+        if acceptance is not None:
+            fields.append("acceptance=?")
+            params.append(acceptance)
+        if hold_point is not None:
+            fields.append("hold_point=?")
+            params.append(int(hold_point))
+        if witness_point is not None:
+            fields.append("witness_point=?")
+            params.append(int(witness_point))
 
         if fields:
             params.append(step_id)
@@ -619,14 +667,19 @@ class ProcedureDatabase:
             self.conn.execute(
                 "INSERT INTO procedure_steps "
                 "(procedure_id, step_number, indent_level, text, "
-                "is_header, is_note, is_warning) "
-                "VALUES (?, ?, ?, ?, ?, ?, ?)",
+                "is_header, is_note, is_warning, precondition, acceptance, "
+                "hold_point, witness_point) "
+                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                 (proc_id, idx + 1,
                  step.get('indent', 0),
                  step.get('text', ''),
                  int(step.get('is_header', False)),
                  int(step.get('is_note', False)),
-                 int(step.get('is_warning', False)))
+                 int(step.get('is_warning', False)),
+                 step.get('precondition', '') or '',
+                 step.get('acceptance', '') or '',
+                 int(step.get('hold_point', False)),
+                 int(step.get('witness_point', False)))
             )
         self.conn.commit()
 
@@ -1572,13 +1625,17 @@ QScrollArea { border: none; background: transparent; }
 # ============================================================================
 
 class StepEditorDialog(QDialog):
-    """ادیتور مرحله‌ای پروسیجر"""
+    """ادیتور مرحله‌ای پروسیجر — structured step model (audit P1):
+    پیش‌شرط، معیار پذیرش، Hold Point و Witness Point به‌همراه دکمه
+    ساختاردهی خودکار از متن مرحله."""
 
     def __init__(self, step_text="", indent=0, is_header=False,
-                 is_note=False, is_warning=False, parent=None):
+                 is_note=False, is_warning=False,
+                 precondition="", acceptance="",
+                 hold_point=False, witness_point=False, parent=None):
         super().__init__(parent)
         self.setWindowTitle("Edit Step")
-        self.setMinimumSize(500, 250)
+        self.setMinimumSize(560, 460)
         self.setStyleSheet(DB_DIALOG_STYLE)
 
         layout = QVBoxLayout(self)
@@ -1586,8 +1643,17 @@ class StepEditorDialog(QDialog):
         form = QFormLayout()
         self.txt = QPlainTextEdit()
         self.txt.setPlainText(step_text)
-        self.txt.setMaximumHeight(100)
+        self.txt.setMaximumHeight(80)
         form.addRow("Step Text:", self.txt)
+
+        # Auto-structure from free text
+        auto_row = QHBoxLayout()
+        btn_auto = QPushButton("✨ Auto-structure from text")
+        btn_auto.setMaximumWidth(220)
+        btn_auto.clicked.connect(self._auto_structure)
+        auto_row.addWidget(btn_auto)
+        auto_row.addStretch(1)
+        form.addRow("", auto_row)
 
         self.indent = QComboBox()
         self.indent.addItems(["0 - Main", "1 - Sub-step", "2 - Sub-sub"])
@@ -1606,6 +1672,27 @@ class StepEditorDialog(QDialog):
         self.chk_warning.setChecked(is_warning)
         form.addRow("", self.chk_warning)
 
+        # ---- Structured execution fields (audit P1) ----
+        self.txt_pre = QPlainTextEdit()
+        self.txt_pre.setPlainText(precondition)
+        self.txt_pre.setMaximumHeight(50)
+        form.addRow("Precondition:", self.txt_pre)
+
+        self.txt_acc = QPlainTextEdit()
+        self.txt_acc.setPlainText(acceptance)
+        self.txt_acc.setMaximumHeight(50)
+        form.addRow("Acceptance criteria:", self.txt_acc)
+
+        hp_row = QHBoxLayout()
+        self.chk_hold = QCheckBox("🚧 Hold Point (stop for approval)")
+        self.chk_hold.setChecked(hold_point)
+        self.chk_wit = QCheckBox("👁️ Witness Point (witness required)")
+        self.chk_wit.setChecked(witness_point)
+        hp_row.addWidget(self.chk_hold)
+        hp_row.addWidget(self.chk_wit)
+        hp_row.addStretch(1)
+        form.addRow("Execution control:", hp_row)
+
         layout.addLayout(form)
 
         btns = QHBoxLayout()
@@ -1619,6 +1706,26 @@ class StepEditorDialog(QDialog):
         btns.addWidget(btn_ok)
         layout.addLayout(btns)
 
+    def _auto_structure(self):
+        """Parse the step text and fill structured fields (structured_steps)."""
+        text = self.txt.toPlainText().strip()
+        if not text:
+            return
+        try:
+            from structured_steps import structure_step
+            s = structure_step(text)
+            if s.precondition and not self.txt_pre.toPlainText().strip():
+                self.txt_pre.setPlainText(s.precondition)
+            if s.acceptance and not self.txt_acc.toPlainText().strip():
+                self.txt_acc.setPlainText(s.acceptance)
+            if s.hold_point:
+                self.chk_hold.setChecked(True)
+            if s.witness_point:
+                self.chk_wit.setChecked(True)
+        except Exception:
+            import traceback
+            traceback.print_exc()
+
     def get_data(self) -> dict:
         return {
             'text': self.txt.toPlainText().strip(),
@@ -1626,6 +1733,10 @@ class StepEditorDialog(QDialog):
             'is_header': self.chk_header.isChecked(),
             'is_note': self.chk_note.isChecked(),
             'is_warning': self.chk_warning.isChecked(),
+            'precondition': self.txt_pre.toPlainText().strip(),
+            'acceptance': self.txt_acc.toPlainText().strip(),
+            'hold_point': self.chk_hold.isChecked(),
+            'witness_point': self.chk_wit.isChecked(),
         }
 
 
@@ -1865,13 +1976,22 @@ class ProcedureEditorDialog(QDialog):
         if dlg.exec() == QDialog.Accepted:
             data = dlg.get_data()
             if data['text']:
-                prefix = "  " * data['indent']
-                icon = "🔵 " if data['is_header'] else \
-                       "⚠️ " if data['is_warning'] else \
-                       "📌 " if data['is_note'] else ""
-                item = QListWidgetItem(f"{icon}{prefix}{data['text']}")
-                item.setData(Qt.UserRole, data)
+                item = self._steps_item(data)
                 self.steps_list.addItem(item)
+
+    def _steps_item(self, data):
+        prefix = "  " * data['indent']
+        icon = "🔵 " if data['is_header'] else \
+               "⚠️ " if data['is_warning'] else \
+               "📌 " if data['is_note'] else ""
+        badges = ""
+        if data.get('hold_point'):
+            badges += " 🚧HP"
+        if data.get('witness_point'):
+            badges += " 👁️WP"
+        item = QListWidgetItem(f"{icon}{prefix}{data['text']}{badges}")
+        item.setData(Qt.UserRole, data)
+        return item
 
     def _edit_step(self):
         row = self.steps_list.currentRow()
@@ -1886,15 +2006,16 @@ class ProcedureEditorDialog(QDialog):
             is_header=data.get('is_header', False),
             is_note=data.get('is_note', False),
             is_warning=data.get('is_warning', False),
+            precondition=data.get('precondition', ''),
+            acceptance=data.get('acceptance', ''),
+            hold_point=data.get('hold_point', False),
+            witness_point=data.get('witness_point', False),
             parent=self
         )
         if dlg.exec() == QDialog.Accepted:
             new_data = dlg.get_data()
-            prefix = "  " * new_data['indent']
-            icon = "🔵 " if new_data['is_header'] else \
-                   "⚠️ " if new_data['is_warning'] else \
-                   "📌 " if new_data['is_note'] else ""
-            item.setText(f"{icon}{prefix}{new_data['text']}")
+            new_item = self._steps_item(new_data)
+            item.setText(new_item.text())
             item.setData(Qt.UserRole, new_data)
 
     def _del_step(self):
@@ -2356,16 +2477,27 @@ class ProcedureManagerDialog(QDialog):
         html = f"<h3 style='color:#e94560'>{rec.name}</h3>"
         for s in rec.steps:
             prefix = "&nbsp;" * (s.indent_level * 6)
+            badges = ""
+            if s.hold_point:
+                badges += " <span style='color:#c0392b'>🚧HOLD POINT</span>"
+            if s.witness_point:
+                badges += " <span style='color:#2471a3'>👁️WITNESS</span>"
             if s.is_header:
-                html += f"<p style='color:#1a5276;font-weight:bold;margin:8px 0 2px'>{prefix}{s.text}</p>"
+                html += f"<p style='color:#1a5276;font-weight:bold;margin:8px 0 2px'>{prefix}{s.text}{badges}</p>"
             elif s.is_warning:
-                html += f"<p style='color:#e74c3c;margin:1px 0'>{prefix}⚠️ {s.text}</p>"
+                html += f"<p style='color:#e74c3c;margin:1px 0'>{prefix}⚠️ {s.text}{badges}</p>"
             elif s.is_note:
-                html += f"<p style='color:#8899aa;font-style:italic;margin:1px 0'>{prefix}📌 {s.text}</p>"
+                html += f"<p style='color:#8899aa;font-style:italic;margin:1px 0'>{prefix}📌 {s.text}{badges}</p>"
             elif not s.text.strip():
                 html += "<br>"
             else:
-                html += f"<p style='margin:1px 0;font-size:10px'>{prefix}{s.text}</p>"
+                html += f"<p style='margin:1px 0;font-size:10px'>{prefix}{s.text}{badges}</p>"
+            if s.precondition:
+                html += (f"<p style='margin:0 0 1px 12px;font-size:9px;"
+                         f"color:#b9770e'>▸ Precondition: {s.precondition}</p>")
+            if s.acceptance:
+                html += (f"<p style='margin:0 0 1px 12px;font-size:9px;"
+                         f"color:#1e8449'>✓ Acceptance: {s.acceptance}</p>")
         self.preview_proc.setHtml(html)
 
         # Checklist preview
@@ -2807,6 +2939,46 @@ class ProcedureManagerDialog(QDialog):
                         else:
                             sr = sp.add_run(s.text)
                             sr.font.size = Pt(10)
+
+                    # ---- Structured execution info (audit P1) ----
+                    if s.precondition:
+                        pp_ = doc.add_paragraph()
+                        pp_.paragraph_format.left_indent = Cm(
+                            0.5 + s.indent_level * 0.5)
+                        pp_.paragraph_format.space_after = Pt(1)
+                        pr1 = pp_.add_run("▸ Precondition: ")
+                        pr1.bold = True
+                        pr1.font.size = Pt(9)
+                        pr1.font.color.rgb = RGBColor(0xB9, 0x77, 0x0E)
+                        pr2 = pp_.add_run(s.precondition)
+                        pr2.font.size = Pt(9)
+                    if s.acceptance:
+                        pa_ = doc.add_paragraph()
+                        pa_.paragraph_format.left_indent = Cm(
+                            0.5 + s.indent_level * 0.5)
+                        pa_.paragraph_format.space_after = Pt(1)
+                        ar1 = pa_.add_run("✓ Acceptance: ")
+                        ar1.bold = True
+                        ar1.font.size = Pt(9)
+                        ar1.font.color.rgb = RGBColor(0x1E, 0x84, 0x49)
+                        ar2 = pa_.add_run(s.acceptance)
+                        ar2.font.size = Pt(9)
+                    if s.hold_point or s.witness_point:
+                        ph_ = doc.add_paragraph()
+                        ph_.paragraph_format.left_indent = Cm(
+                            0.5 + s.indent_level * 0.5)
+                        ph_.paragraph_format.space_after = Pt(4)
+                        tags = []
+                        if s.hold_point:
+                            tags.append("🚧 HOLD POINT — stop and obtain "
+                                        "approval before continuing")
+                        if s.witness_point:
+                            tags.append("👁️ WITNESS POINT — witness "
+                                        "required at this step")
+                        hr1 = ph_.add_run("   |   ".join(tags))
+                        hr1.bold = True
+                        hr1.font.size = Pt(9)
+                        hr1.font.color.rgb = RGBColor(0xC0, 0x39, 0x2B)
 
                 # ---- CHECKLIST ----
                 if rec.checklist:

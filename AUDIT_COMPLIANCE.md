@@ -15,11 +15,11 @@
 |---|---|---|---|
 | Engineering Calculation Maturity | 5.5 | ✅ ارتقا یافت + ثبت محاسبات | `engineering_units.py`، `engineering_advanced.py`، `engineering_deep.py`، `engineering_register.py` |
 | Data / Database Architecture | 4.8 | 🟡 مدل کانونی + snapshot | `well_model.py`، `db_migrations.py`، `drilling_database.py` (revision snapshots) |
-| Validation / QA | 3.8 | ✅ موتور ۴ سطحی | `validation_engine.py` + تست |
+| Validation / QA | 3.8 | ✅ موتور ۴ سطحی + **alias کلیدها (fracture_gradient/formation_pressure) + واحد عمق کانونی ft + گیت CRITICAL در مسیر headless/API** | `validation_engine.py` + تست |
 | Integration / Correlation | 5.5 | 🟡 Dependency Graph | `engineering_dependency.py` |
 | Enterprise Readiness | 4.5 | 🟡 RBAC/Audit/Lifecycle + بکاپ رمزنگاریشده | `rbac.py`، `audit_log.py`، `backup_restore.py` |
 | UX | 5.7 | 🟡 Wizard + Well Profile + Engineering Basis + ROP calibration | `wizard_engine.py` |
-| Testing | 3.5 | ✅ **۱۱۸۴ تست در ۷ سویت خودکار** | `tests/run_all.py` (202 مرجع + 67 حاکمیتی + 51 قالب + 23 UI + 48 API + 72 کیفیت محتوا + **721 اعتبارسنجی خروجی**) |
+| Testing | 3.5 | ✅ **۱۲۰۷ تست در ۸ سویت خودکار** | `tests/run_all.py` (202 مرجع + 67 حاکمیتی + 51 قالب + 23 UI + 48 API + 72 کیفیت + 721 خروجی + **23 یکپارچگی سند**) |
 
 ---
 
@@ -231,6 +231,7 @@
 `(این کامیت — Batch T)` (**کیفیت محتوا و نشت صفر — بر اساس گزارش کاربر**: فیلتر sanitizer برای حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل و تلفن از غنیسازی دانش؛ افزودن کدهای چاه/میدان/مخزن به لیست سیاه (MB-013، GS 4-2، Asmari، Pabdeh، N 1-3-5، Gachsaran…) با حفظ درجههای فولاد (S135/S-95)؛ scrub کامل دیتابیس پروسیجرها با neutralize_text؛ برچسب صادقانهٔ «verbatim» وقتی LLM خاموش است؛ neutralize در خروجی Word مدیر پروسیجر)
 `(این کامیت — Batch U)` (**تحلیل حساسیت Tornado**: تغییر یکبهیک ورودیها ±Δ و رتبهبندی اثر بر SPP/ECD/KMW/MAASP/هزینه — «Control parameters» در سند + اندپوینت + ۹ تست تحلیلی)
 `(این کامیت — Batch V)` (**OCR Ingest و PDF Export با تخریب برازنده**: `ocr_ingest.py` (Tesseract + poppler، dedupe با هش، ثبت در کاتالوگ) و `pdf_export.py` (LibreOffice headless) — بدون ابزار، پیام نصب واضح؛ با ابزار، کاملاً خودکار + منوی OCR + سکشن «TIME BREAKDOWN SUMMARY» در اسناد)
+`(این کامیت — Batch X)` (**یکپارچگی و QA سند — بر اساس دو ممیزی خارجی**: رفع باگ dead-code دیالوگ Override CRITICAL (buttons Yes|No)؛ فیلد عددی خالی دیگر 0 نیست ([Not Entered])؛ syntax یکپارچه placeholder ({{x}} و {x}) + **Audit نهایی placeholder با بلاک خروجی**؛ alias کلیدهای ورودی در Validation/Standards (fracture_gradient ↔ _ppg، pore_pressure، depth ft/m بدون تبدیل دوباره)؛ **Procedure DB: جمعآوری ورودی کاربر + جایگذاری در steps + گزارش پارامترهای حلنشده + علامت (default)** + دیالوگ «Procedure Parameters» + پیشنمایش جایگذاریشده + required قابلتنظیم؛ گارد **Time Breakdown بینپروژهای** (چاه نامتناسب → حذف سکشن)؛ گیت CRITICAL در مسیر headless/API (accept_critical)؛ httpx در requirements)
 `(این کامیت — Batch W)` (**سامانهٔ اعتبارسنجی جامع خروجی**: به همهٔ ۵۱ قالب + ۱۲ قابلیت (پروسیجرها، Well Report، CBS، مشکلات، ریسک، Excel، WITSML، ROPE، غنیسازی، Time Breakdown، API) دادهٔ پیشفرض کامل (۶۳۰ کلید) داده و خروجی واقعی تولید و اعتبارسنجی میشود: قالب فایل، سکشنها، جدولها، آرتیفکتهای markdown/HTML، placeholder های پرنشده، نشت نام — ۷۲۱ تست + رفع ۴ باگ واقعی یافتشده: هدر جدولها با `**`، blockquote با `**`، قالبهای Master با `[To Be Filled]` لفظی، پوشش ناقص دادهٔ پیشفرض)
 
 **امتیاز تخمینی جدید:** حدود **9.5–9.7/10** (از 5.8) — با سویت «کیفیت محتوا و نشت صفر»

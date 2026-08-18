@@ -127,11 +127,36 @@ def evaluate_rule(rule: StandardRule, values: Dict) -> Dict:
     v = values
 
     def f(key):
-        try:
-            x = float(v.get(key) or 0)
-            return x
-        except (TypeError, ValueError):
-            return 0.0
+        # canonical aliases (Batch X) — the UI's Engineering Basis uses
+        # fracture_gradient / formation_pressure / td_depth while rules
+        # historically read *_ppg / depth_m; both must resolve.
+        ALIASES = {
+            "fracture_gradient_ppg": ("fracture_gradient_ppg",
+                                      "fracture_gradient", "fg_ppg", "fg",
+                                      "frac_gradient"),
+            "pore_pressure_ppg": ("pore_pressure_ppg", "formation_pressure",
+                                  "pore_pressure", "pp_ppg"),
+            "mud_weight": ("mud_weight", "mud_weight_ppg", "current_mw",
+                           "mw", "mw1"),
+            "depth_m": ("depth_m", "td_m"),
+            "depth_ft": ("depth_ft", "td_depth", "total_depth", "depth",
+                         "target_depth"),
+        }
+        keys = ALIASES.get(key, (key,))
+        for k in keys:
+            val = v.get(k)
+            if val not in (None, ""):
+                try:
+                    return float(str(val).strip())
+                except (TypeError, ValueError):
+                    continue
+        return 0.0
+
+    def depth_ft():
+        ft = f("depth_ft")
+        if ft:
+            return ft
+        return f("depth_m") * 3.28084
 
     status = "CHECK"
     detail = ""
@@ -146,8 +171,9 @@ def evaluate_rule(rule: StandardRule, values: Dict) -> Dict:
         status = "PASS" if v.get("kill_sheet") else "CHECK"
 
     elif rule.rule_id == "STD-CS-001":
-        if f("casing_depth") > 0 and f("depth_m") > 0:
-            status = "FAIL" if f("casing_depth") > f("depth_m") else "PASS"
+        csg = f("casing_depth")
+        if csg > 0 and depth_ft() > 0:
+            status = "FAIL" if csg > depth_ft() else "PASS"
 
     elif rule.rule_id == "STD-CM-002":
         so = f("standoff_pct")

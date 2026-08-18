@@ -2435,15 +2435,22 @@ class ProcedureEditorDialog(QDialog):
         if inp_type == "text":
             default, _ = QInputDialog.getText(
                 self, "Default", "Default value:")
+        required, okr = QMessageBox.question(
+            self, "Required?",
+            "Is this input REQUIRED (must be filled before the procedure "
+            "can be released)?",
+            QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
+        required = (required == QMessageBox.Yes)
 
         item = QListWidgetItem(
             f"[{inp_type}] {key}: {label}"
+            f"{' (required)' if required else ''}"
             f"{' (' + options + ')' if options else ''}"
             f"{' [' + unit + ']' if unit else ''}")
         item.setData(Qt.UserRole, {
             'key': key, 'label': label, 'type': inp_type,
             'options': options, 'default': default, 'unit': unit,
-            'required': False
+            'required': required
         })
         self.inp_list.addItem(item)
 
@@ -2456,11 +2463,44 @@ class ProcedureEditorDialog(QDialog):
 # MAIN PROCEDURE MANAGER DIALOG
 # ============================================================================
 
+def _subst(t, vals):
+    """Replace {{key}} / {key} with the resolved value; leave keys
+    without a value untouched so they can be reported."""
+    if not t or not vals:
+        return t, []
+    try:
+        from wizard_engine import PLACEHOLDER_RE
+    except Exception:
+        PLACEHOLDER_RE = None
+    unresolved = []
+    if PLACEHOLDER_RE is None:
+        return t, []
+    def _repl(m):
+        key = m.group(1) or m.group(2)
+        if key in vals and str(vals[key]).strip():
+            return str(vals[key])
+        unresolved.append(key)
+        return m.group(0)
+    out = PLACEHOLDER_RE.sub(_repl, t)
+    return out, sorted(set(unresolved))
+
+
 def generate_procedures_docx(db, proc_ids, out_path,
                                   progress=None, operator_name="",
-                                  contractor_name=""):
-    """Headless Word export of procedures (+ checklists).  Scrub is
-    applied to every text field (Batch T defense in depth)."""
+                                  contractor_name="",
+                                  input_values=None):
+    """Headless Word export of procedures (+ checklists).
+
+    input_values (Batch X — unified procedure parameter engine):
+      {proc_id: {input_key: value}} or flat {input_key: value} (applied to
+      every procedure).  Values are substituted into step texts (both
+      {{key}} and {key} syntax); inputs without a user value fall back to
+      the DB default (marked "(default)" in the parameter table); inputs
+      without any value are reported in the result as unresolved so the
+      caller can warn/block before release.
+
+    Scrub is applied to every text field (Batch T defense in depth).
+    """
     ids = [i for i in proc_ids if i]
     if not ids:
         return {"ok": False, "error": "no procedures selected"}
@@ -2477,6 +2517,8 @@ def generate_procedures_docx(db, proc_ids, out_path,
     def _prog(v):
         if progress:
             progress(v)
+
+    unresolved_report = {}
 
     try:
         from docx import Document
@@ -2557,8 +2599,29 @@ def generate_procedures_docx(db, proc_ids, out_path,
 
             doc.add_paragraph("")
 
-            # ---- VARIABLE INPUTS (فقط اینجا - یک بار) ----
+            # ---- VARIABLE INPUTS + PARAMETER SUBSTITUTION (Batch X) ----
             inputs = db.get_inputs(pid)
+            # resolve values: user-provided > DB default > unresolved
+            pv = {}
+            if isinstance(input_values, dict):
+                pv = dict(input_values.get(pid, {}) or {})
+                # flat map applies to every procedure
+                if not any(k in input_values for k in (pid,)):
+                    flat = {k: v for k, v in input_values.items()
+                            if not isinstance(v, (dict, list))}
+                    for k, v in flat.items():
+                        pv.setdefault(k, v)
+            vals = {}
+            used_default = set()
+            for inp in inputs:
+                key = inp["input_key"]
+                user_val = pv.get(key)
+                if user_val not in (None, ""):
+                    vals[key] = user_val
+                elif inp.get("input_default"):
+                    vals[key] = inp["input_default"]
+                    used_default.add(key)
+            proc_unresolved = []
             if inputs:
                 doc.add_paragraph("")
                 ip = doc.add_paragraph()
@@ -2592,17 +2655,27 @@ def generate_procedures_docx(db, proc_ids, out_path,
                         f'w:fill="E67E22"/>')
                     cell._tc.get_or_add_tcPr().append(shd)
 
-                # Data rows
+                # Data rows — show the RESOLVED value; defaults are
+                # explicitly marked so they are never mistaken for
+                # user-entered values (Batch X).
                 for i, inp in enumerate(inputs):
+                    key = inp["input_key"]
                     row = inp_table.rows[i + 1]
                     row.cells[0].text = ""
                     row.cells[0].paragraphs[0].add_run(
                         inp['input_label']
                     ).font.size = Pt(9)
                     row.cells[1].text = ""
-                    row.cells[1].paragraphs[0].add_run(
-                        inp['input_default'] or "________"
-                    ).font.size = Pt(9)
+                    if key in vals:
+                        mark = " (default)" if key in used_default else ""
+                        row.cells[1].paragraphs[0].add_run(
+                            str(vals[key]) + mark
+                        ).font.size = Pt(9)
+                    else:
+                        row.cells[1].paragraphs[0].add_run(
+                            "[Not Entered]"
+                        ).font.size = Pt(9)
+                        proc_unresolved.append(key)
                     row.cells[2].text = ""
                     row.cells[2].paragraphs[0].add_run(
                         inp['input_unit'] or ""
@@ -2617,9 +2690,11 @@ def generate_procedures_docx(db, proc_ids, out_path,
 
                 doc.add_paragraph("")
 
-            # ---- STEPS ----
+            # ---- STEPS (parameter substitution applied) ----
             for s in rec.steps:
-                step_text = _scrub(s.text)
+                raw_text, un = _subst(s.text, vals)
+                proc_unresolved.extend(un)
+                step_text = _scrub(raw_text)
                 if not step_text.strip():
                     doc.add_paragraph("")
                     continue
@@ -2669,7 +2744,7 @@ def generate_procedures_docx(db, proc_ids, out_path,
                     pr1.bold = True
                     pr1.font.size = Pt(9)
                     pr1.font.color.rgb = RGBColor(0xB9, 0x77, 0x0E)
-                    pr2 = pp_.add_run(_scrub(s.precondition))
+                    pr2 = pp_.add_run(_scrub(_subst(s.precondition, vals)[0] if vals else s.precondition))
                     pr2.font.size = Pt(9)
                 if s.acceptance:
                     pa_ = doc.add_paragraph()
@@ -2680,7 +2755,7 @@ def generate_procedures_docx(db, proc_ids, out_path,
                     ar1.bold = True
                     ar1.font.size = Pt(9)
                     ar1.font.color.rgb = RGBColor(0x1E, 0x84, 0x49)
-                    ar2 = pa_.add_run(_scrub(s.acceptance))
+                    ar2 = pa_.add_run(_scrub(_subst(s.acceptance, vals)[0] if vals else s.acceptance))
                     ar2.font.size = Pt(9)
                 if s.hold_point or s.witness_point:
                     ph_ = doc.add_paragraph()
@@ -2812,6 +2887,10 @@ def generate_procedures_docx(db, proc_ids, out_path,
                     sig.rows[1].cells[i].paragraphs[
                         0].paragraph_format.space_after = Pt(25)
 
+            # Record unresolved parameters for this procedure
+            if proc_unresolved:
+                unresolved_report[rec.name] = sorted(set(proc_unresolved))
+
             # Page break after each procedure
             doc.add_page_break()
 
@@ -2820,11 +2899,86 @@ def generate_procedures_docx(db, proc_ids, out_path,
 
         doc.save(out_path)
         _prog(100)
-        return {"ok": True, "path": out_path, "procedures": len(ids)}
+        return {"ok": True, "path": out_path, "procedures": len(ids),
+                "unresolved": unresolved_report}
     except Exception as e:
         import traceback
         return {"ok": False,
                 "error": f"{e}\n{traceback.format_exc()[-400:]}"}
+
+
+class ProcedureInputsDialog(QDialog):
+    """Batch X — collect parameter values for the selected procedures.
+
+    Each input of each procedure is shown with its DB default prefilled;
+    the user edits values which are then substituted into the step texts
+    during Word export."""
+
+    def __init__(self, db, proc_ids, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle("⚙️ Procedure Parameters — enter values")
+        self.setMinimumSize(760, 520)
+        self.setStyleSheet(DB_DIALOG_STYLE)
+        self.db = db
+        self.proc_ids = [i for i in proc_ids if i]
+
+        lay = QVBoxLayout(self)
+        head = QLabel(
+            "Enter the parameter values for the selected procedures.\n"
+            "Prefilled values are the database defaults — values you "
+            "enter here are substituted into the procedure steps and "
+            "marked as user-entered in the Word document.")
+        head.setWordWrap(True)
+        lay.addWidget(head)
+
+        tabs = QTabWidget()
+        self._editors = {}
+        for pid in self.proc_ids:
+            rec = db.get_procedure(pid)
+            if not rec:
+                continue
+            inputs = db.get_inputs(pid)
+            w = QWidget()
+            fl = QFormLayout(w)
+            edits = {}
+            if not inputs:
+                fl.addRow(QLabel("(no variable parameters)"))
+            for inp in inputs:
+                key = inp["input_key"]
+                le = QLineEdit(inp["input_default"] or "")
+                le.setPlaceholderText(inp["input_label"])
+                label = inp["input_label"] + (
+                    " *" if inp.get("is_required") else "")
+                if inp.get("input_unit"):
+                    label += f" [{inp['input_unit']}]"
+                fl.addRow(label, le)
+                edits[key] = le
+            tabs.addTab(w, rec.name[:30])
+            self._editors[pid] = edits
+        lay.addWidget(tabs)
+
+        btns = QHBoxLayout()
+        btns.addStretch()
+        b_ok = QPushButton("✅ Generate with these values")
+        b_ok.clicked.connect(self.accept)
+        b_cancel = QPushButton("Cancel")
+        b_cancel.setObjectName("cancel")
+        b_cancel.clicked.connect(self.reject)
+        btns.addWidget(b_cancel)
+        btns.addWidget(b_ok)
+        lay.addLayout(btns)
+
+    def values(self) -> Dict:
+        out = {}
+        for pid, edits in self._editors.items():
+            pv = {}
+            for key, le in edits.items():
+                v = le.text().strip()
+                if v:
+                    pv[key] = v
+            if pv:
+                out[pid] = pv
+        return out
 
 
 class ProcedureManagerDialog(QDialog):
@@ -3116,9 +3270,19 @@ class ProcedureManagerDialog(QDialog):
         if not rec:
             return
 
-        # Procedure preview
+        # Procedure preview — parameters substituted with defaults so raw
+        # {key} placeholders never appear (Batch X)
+        try:
+            _inputs = self.db.get_inputs(proc_id)
+            _dflt = {i["input_key"]: i.get("input_default") or ""
+                     for i in _inputs if i.get("input_default")}
+        except Exception:
+            _dflt = {}
         html = f"<h3 style='color:#e94560'>{rec.name}</h3>"
         for s in rec.steps:
+            _s_text, _ = _subst(s.text, _dflt)
+            _s_pre, _ = _subst(s.precondition, _dflt)
+            _s_acc, _ = _subst(s.acceptance, _dflt)
             prefix = "&nbsp;" * (s.indent_level * 6)
             badges = ""
             if s.hold_point:
@@ -3126,21 +3290,21 @@ class ProcedureManagerDialog(QDialog):
             if s.witness_point:
                 badges += " <span style='color:#2471a3'>👁️WITNESS</span>"
             if s.is_header:
-                html += f"<p style='color:#1a5276;font-weight:bold;margin:8px 0 2px'>{prefix}{s.text}{badges}</p>"
+                html += f"<p style='color:#1a5276;font-weight:bold;margin:8px 0 2px'>{prefix}{_s_text}{badges}</p>"
             elif s.is_warning:
-                html += f"<p style='color:#e74c3c;margin:1px 0'>{prefix}⚠️ {s.text}{badges}</p>"
+                html += f"<p style='color:#e74c3c;margin:1px 0'>{prefix}⚠️ {_s_text}{badges}</p>"
             elif s.is_note:
-                html += f"<p style='color:#8899aa;font-style:italic;margin:1px 0'>{prefix}📌 {s.text}{badges}</p>"
-            elif not s.text.strip():
+                html += f"<p style='color:#8899aa;font-style:italic;margin:1px 0'>{prefix}📌 {_s_text}{badges}</p>"
+            elif not _s_text.strip():
                 html += "<br>"
             else:
-                html += f"<p style='margin:1px 0;font-size:10px'>{prefix}{s.text}{badges}</p>"
-            if s.precondition:
+                html += f"<p style='margin:1px 0;font-size:10px'>{prefix}{_s_text}{badges}</p>"
+            if _s_pre:
                 html += (f"<p style='margin:0 0 1px 12px;font-size:9px;"
-                         f"color:#b9770e'>▸ Precondition: {s.precondition}</p>")
-            if s.acceptance:
+                         f"color:#b9770e'>▸ Precondition: {_s_pre}</p>")
+            if _s_acc:
                 html += (f"<p style='margin:0 0 1px 12px;font-size:9px;"
-                         f"color:#1e8449'>✓ Acceptance: {s.acceptance}</p>")
+                         f"color:#1e8449'>✓ Acceptance: {_s_acc}</p>")
             if s.role:
                 html += (f"<p style='margin:0 0 1px 12px;font-size:9px;"
                          f"color:#2e86c1'>👤 Role: {s.role}</p>")
@@ -3423,6 +3587,17 @@ class ProcedureManagerDialog(QDialog):
         if not path:
             return
 
+        # Batch X — collect parameter values from the user before export
+        input_values = {}
+        try:
+            dlg = ProcedureInputsDialog(self.db, ids, self)
+            if dlg.exec() == QDialog.Accepted:
+                input_values = dlg.values()
+            else:
+                return
+        except Exception:
+            input_values = {}
+
         self.progress.setVisible(True)
         self.progress.setValue(0)
         QApplication.processEvents()
@@ -3430,15 +3605,25 @@ class ProcedureManagerDialog(QDialog):
         res = generate_procedures_docx(
             self.db, ids, path,
             progress=self.progress.setValue,
-            operator_name=self._op_name, contractor_name=self._con_name)
+            operator_name=self._op_name, contractor_name=self._con_name,
+            input_values=input_values)
         self.progress.setValue(100 if res.get("ok") else 0)
 
         if res.get("ok"):
-            QMessageBox.information(
-                self, "✅ Success",
-                f"Document generated!\n\n"
-                f"File: {path}\n"
-                f"Procedures: {len(ids)}")
+            unres = res.get("unresolved") or {}
+            total_unres = sum(len(v) for v in unres.values())
+            msg = (f"Document generated!\n\n"
+                   f"File: {path}\n"
+                   f"Procedures: {len(ids)}")
+            if total_unres:
+                msg += ("\n\n⚠️ UNRESOLVED PARAMETERS:\n"
+                        f"{total_unres} parameter(s) still unresolved in "
+                        f"{len(unres)} procedure(s):\n")
+                for name, keys in list(unres.items())[:6]:
+                    msg += f"\n• {name}: {', '.join(keys[:8])}"
+                QMessageBox.warning(self, "Generated with Warnings", msg)
+            else:
+                QMessageBox.information(self, "✅ Success", msg)
             if os.name == 'nt':
                 os.startfile(path)
         else:

@@ -93,7 +93,10 @@ class TemplateDef:
 # FILLING
 # ----------------------------------------------------------------------------
 
-PLACEHOLDER_RE = re.compile(r"\{\{([a-zA-Z0-9_]+)\}\}")
+# Unified placeholder syntax — the whole system accepts BOTH {{key}} and
+# {key} (legacy DB procedures use single braces).  `{` followed by a known
+# key is replaced; anything else stays untouched.
+PLACEHOLDER_RE = re.compile(r"\{\{([a-zA-Z0-9_]+)\}\}|\{([a-zA-Z0-9_]+)\}")
 
 
 # ----------------------------------------------------------------------------
@@ -334,13 +337,26 @@ def neutralize_text(md_text: str, operator_name: str = "",
     return out
 
 
+UNRESOLVED_RE = re.compile(r"\{\{([a-zA-Z0-9_]+)\}\}|\{([a-zA-Z0-9_]+)\}")
+
+
+def scan_unresolved_placeholders(md_text: str) -> List[str]:
+    """Final-output QA: every {{key}} / {key} left in the text after all
+    enrichment stages is an unresolved parameter.  Returns the keys."""
+    keys = set()
+    for m in UNRESOLVED_RE.finditer(md_text or ""):
+        keys.add(m.group(1) or m.group(2))
+    return sorted(keys)
+
+
 def fill_template(tdef: TemplateDef, values: Dict[str, str]) -> str:
-    """Replace {{key}} placeholders (and token literals for file templates)
-    with the entered values. Empty values become '[To Be Filled]'."""
+    """Replace {{key}} / {key} placeholders (and token literals for file
+    templates) with the entered values. Empty values become
+    '[To Be Filled]'."""
     md = tdef.full_markdown
 
     def repl(m):
-        key = m.group(1)
+        key = m.group(1) or m.group(2)
         val = values.get(key, "")
         return val if str(val).strip() else "[To Be Filled]"
 
@@ -824,7 +840,15 @@ def _build_field(spec: InputSpec) -> QWidget:
         w = QDoubleSpinBox()
         w.setRange(0, 1e9)
         w.setDecimals(2)
-        w.setValue(float(spec.default) if spec.default else 0)
+        # "not entered" state: at the minimum the box shows a marker
+        # instead of a fake 0 — a required numeric field left untouched is
+        # reported as missing, never as 0 (engineering correctness).
+        w.setSpecialValueText("[Not Entered]")
+        if spec.default:
+            try:
+                w.setValue(float(spec.default))
+            except (TypeError, ValueError):
+                pass
         if spec.unit:
             w.setSuffix(f" {spec.unit}")
         return w
@@ -855,6 +879,13 @@ def _get_field_value(spec: InputSpec, w: QWidget) -> str:
     if isinstance(w, QLineEdit):
         return w.text().strip()
     if isinstance(w, QDoubleSpinBox):
+        # untouched numeric field (showing its special "[Not Entered]"
+        # marker at the minimum) reads as empty — unless the default is
+        # literally zero, which is a deliberate value.
+        if w.value() == w.minimum() and w.specialValueText():
+            dflt = str(spec.default or "").strip()
+            if dflt not in ("0", "0.0", "0.00"):
+                return ""
         return str(w.value())
     if isinstance(w, QComboBox):
         return w.currentText().strip()
@@ -2489,7 +2520,16 @@ class _GeneratePage(QWizardPage):
                     except (TypeError, ValueError):
                         total_days = 0.0
                     if total_days <= 0:
-                        total_days = tb.get("total_days", 0.0)
+                        # Batch X — cross-project guard: only fall back to
+                        # the time-breakdown project when its well matches
+                        # this document's well (or no well is named).
+                        _doc_well = str(values.get("well_name") or
+                                        "").strip().lower()
+                        _tb_well = str(tb.get("well_name") or
+                                       "").strip().lower()
+                        if not _doc_well or not _tb_well or \
+                                _doc_well == _tb_well:
+                            total_days = tb.get("total_days", 0.0)
                     depth_key = ("target_depth" if values.get("target_depth")
                                  else "depth" if values.get("depth")
                                  else "depth_m")
@@ -2533,7 +2573,9 @@ class _GeneratePage(QWizardPage):
                         f"The design has {len(crit)} CRITICAL finding(s) "
                         f"that must be resolved before release:\n\n{detail}\n\n"
                         "Export anyway (with justification note in the "
-                        "document)?")
+                        "document)?",
+                        QMessageBox.Yes | QMessageBox.No,
+                        QMessageBox.No)
                     if ret != QMessageBox.Yes:
                         self.status.setText(
                             "❌ Generation blocked by CRITICAL validation "
@@ -2712,6 +2754,24 @@ class _GeneratePage(QWizardPage):
             except Exception:
                 import traceback
                 traceback.print_exc()
+
+            # 5f) FINAL PLACEHOLDER AUDIT — no raw placeholder may reach
+            #     the Word file (Batch X).  Any {{key}}/{key} left after
+            #     every enrichment stage means the document is incomplete.
+            unresolved = scan_unresolved_placeholders(md)
+            if unresolved:
+                QMessageBox.warning(
+                    self, "⚠️ Unresolved Parameters",
+                    "The document still contains unresolved parameter "
+                    "placeholder(s):\n\n• " +
+                    "\n• ".join(sorted(unresolved)) +
+                    "\n\nThese are parameters the software could not fill "
+                    "from your inputs. Fix the inputs and regenerate — "
+                    "the export is blocked so no incomplete Word file is "
+                    "produced.")
+                self.status.setText(
+                    "❌ Export blocked: unresolved parameter placeholders.")
+                return
 
             # 6) Render to Word with the chosen formatting
             options = opt_page.output_options() if hasattr(opt_page, "output_options") else {}

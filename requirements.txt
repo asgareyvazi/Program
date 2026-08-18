@@ -10,6 +10,7 @@ cryptography>=41.0
 # Enterprise REST API server mode (python3 launcher.py --server)
 fastapi>=0.110
 uvicorn>=0.29
+httpx>=0.27   # API test client
 
 # Optional (AI insights in Risk Analyzer)
 google-genai>=1.0         # Gemini backend (NEW SDK — free key from aistudio.google.com)

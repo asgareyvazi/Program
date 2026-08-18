@@ -374,6 +374,7 @@ def validate_time_breakdown(tmp):
               "python3 bootstrap.py (seeds 167-row project, 131.82 days)")
         return
     vals = build_default_values(all_templates())
+    vals["well_name"] = "Example Well"  # matches the seeded TB project
     td = template_by_key("drilling_program")
     out = os.path.join(tmp, "tb.docx")
     rep = generate_document(td, vals, gen_meta(td.name), gen_options(), out)

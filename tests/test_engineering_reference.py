@@ -249,8 +249,8 @@ def test_standards():
     approx(ids.get("STD-WC-001"), "PASS", 0, "BOP rule PASS")
     approx(ids.get("STD-CS-001"), "PASS", 0, "casing rule PASS")
     approx(ids.get("STD-MD-002"), "PASS", 0, "ECD rule PASS")
-    # fail case: casing deeper than TD
-    rows2 = compliance_matrix({"casing_depth": 5000, "depth_m": 4000})
+    # fail case: casing deeper than TD (canonical feet units)
+    rows2 = compliance_matrix({"casing_depth": 5000, "depth_ft": 4000})
     ids2 = {r["rule_id"]: r["status"] for r in rows2}
     approx(ids2.get("STD-CS-001"), "FAIL", 0, "casing>TD FAIL")
 

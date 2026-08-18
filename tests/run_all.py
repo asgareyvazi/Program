@@ -39,6 +39,7 @@ SUITES = [
     ("REST API tests",              "test_api.py"),
     ("Content quality (leak-free)", "test_content_quality.py"),
     ("Output validation (all caps)", "validate_outputs.py"),
+    ("Document integrity (Batch X)", "test_integrity.py"),
 ]
 
 

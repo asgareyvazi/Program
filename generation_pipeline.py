@@ -15,7 +15,8 @@ import os
 from typing import Dict, List, Optional
 
 from wizard_engine import (fill_template, render_selected, extract_sections,
-                           neutralize_text, md_to_docx)
+                           neutralize_text, md_to_docx,
+                           scan_unresolved_placeholders)
 from wizard_library import ALL_TEMPLATES
 from wizard_procedures import PROCEDURE_TEMPLATES
 from wizard_offshore import OFFSHORE_TEMPLATES
@@ -61,10 +62,19 @@ def build_document_markdown(tdef, values: Dict,
     if rmd:
         md = md.rstrip() + "\n\n---\n\n" + rmd
     # time breakdown summary (from the time-breakdown project database)
+    # Batch X — cross-project contamination guard: the TB summary is only
+    # included when its project well matches the document well (or when
+    # either side has no well name), so Well B never receives Well A's
+    # schedule.
     try:
         from cbs_db import get_time_breakdown_summary
         tb = get_time_breakdown_summary()
-        if tb.get("total_days", 0) > 0:
+        _doc_well = str(values.get("well_name") or
+                        values.get("wellname") or "").strip().lower()
+        _tb_well = str(tb.get("well_name") or "").strip().lower()
+        _tb_ok = tb.get("total_days", 0) > 0 and (
+            not _doc_well or not _tb_well or _doc_well == _tb_well)
+        if _tb_ok:
             tlines = ["## TIME BREAKDOWN SUMMARY", ""]
             if tb.get("sections"):
                 tlines.append("| Phase |")
@@ -138,6 +148,28 @@ def generate_document(tdef, values: Dict,
     # section list present in the final markdown
     sections = [h for h, _ in extract_sections(md)]
 
+    # Batch X — the headless/API path enforces the same CRITICAL gate as
+    # the desktop wizard: CRITICAL engineering findings block the export
+    # unless the caller explicitly accepts them (accept_critical=1).
+    critical = sum(1 for f in findings if f.is_blocking)
+    if critical and not str(values.get("accept_critical") or
+                            meta.get("accept_critical") or "").strip() \
+            in ("1", "yes", "true", "y"):
+        return {
+            "ok": False,
+            "path": out_path,
+            "blocked": "CRITICAL validation findings",
+            "sections": sections,
+            "register_rows": len(rows),
+            "validation_findings": len(findings),
+            "validation_critical": critical,
+            "readiness_included": "PROGRAM READINESS SCORE" in md,
+            "compliance_included": "DOCUMENT COMPLIANCE REPORT" in md,
+            "register_included": "ENGINEERING CALCULATION REGISTER" in md,
+            "characters": len(md),
+            "unresolved_placeholders": scan_unresolved_placeholders(md),
+        }
+
     return {
         "ok": bool(ok) and bool(out_path) and os.path.exists(out_path),
         "path": out_path,
@@ -149,6 +181,9 @@ def generate_document(tdef, values: Dict,
         "compliance_included": "DOCUMENT COMPLIANCE REPORT" in md,
         "register_included": "ENGINEERING CALCULATION REGISTER" in md,
         "characters": len(md),
+        # Batch X — final placeholder audit: any {{key}}/{key} left after
+        # every enrichment stage is an unresolved parameter.
+        "unresolved_placeholders": scan_unresolved_placeholders(md),
     }
 
 

@@ -21,6 +21,42 @@ from engineering_units import (DrillingConstants, hydrostatic_pressure,
                                maasp, kill_mud_weight)
 
 
+# ---------------------------------------------------------------------------
+# Canonical input aliases (Batch X)
+# ---------------------------------------------------------------------------
+# The UI, the wizard's Engineering Basis and legacy templates use several
+# names for the same physical quantity (e.g. fracture_gradient vs
+# fracture_gradient_ppg, td_depth vs total_depth).  These helpers read
+# the first non-empty alias so validation always sees the user's value.
+
+def _pf(data: Dict, *keys: str, default: float = 0.0) -> float:
+    for k in keys:
+        v = data.get(k)
+        if v not in (None, ""):
+            try:
+                return float(str(v).strip())
+            except (TypeError, ValueError):
+                continue
+    return default
+
+
+def _depth_ft(data: Dict) -> float:
+    """Canonical depth in feet.  Explicit-ft keys are used as-is;
+    _m keys are converted; a bare small 'depth' follows td_depth (ft)."""
+    ft = _pf(data, "depth_ft", "td_depth", "total_depth", "depth",
+             "target_depth", "td_md")
+    if ft:
+        return ft
+    m = _pf(data, "depth_m", "td_m")
+    return m * 3.28084 if m else 0.0
+
+
+def _shoe_ft(data: Dict) -> float:
+    """Casing-shoe / shoe depth in feet (same convention as depth)."""
+    return _pf(data, "casing_depth_ft", "shoe_depth_ft", "csg_depth",
+               "casing_depth", "shoe_depth")
+
+
 @dataclass
 class Finding:
     level: str            # CRITICAL / HIGH / MEDIUM / LOW / INFO
@@ -90,14 +126,14 @@ def validate_schema(data: Dict) -> List[Finding]:
                 f.append(Finding("CRITICAL", "schema", f"SCHEMA-{key.upper()}",
                                  f"{label} must be a non-negative number.",
                                  f"Entered value: {data.get(key)!r}"))
-    # units sanity (depth in meters typical for Iranian fields)
-    depth = _f(data.get("depth_m") or data.get("td_depth") or
-               data.get("total_depth"))
-    if depth and depth > 20000:
+    # units sanity — depths are handled canonically in ft (Batch X):
+    # anything beyond ~60,000 ft (18 km) is suspicious
+    depth_ft = _depth_ft(data)
+    if depth_ft and depth_ft > 60000:
         f.append(Finding("MEDIUM", "schema", "SCHEMA-DEPTH-UNIT",
-                         "Depth looks like it may be in feet, but the app "
-                         "expects meters (typical for this field).",
-                         "If depth is in feet, divide by 3.28084."))
+                         f"Depth ({depth_ft:,.0f} ft) is unusually large — "
+                         "check that feet were not entered as meters.",
+                         "If depth is in meters, use the depth_m field."))
     return f
 
 
@@ -108,15 +144,21 @@ def validate_schema(data: Dict) -> List[Finding]:
 def validate_logical(data: Dict) -> List[Finding]:
     f = []
     depths = []
-    for key, label in (("total_depth", "Total Depth"),
-                       ("td_depth", "TD"),
-                       ("depth_m", "Depth"),
+    for key, label in (("depth_ft", "Total Depth"),
+                       ("td_depth", "Total Depth"),
+                       ("total_depth", "Total Depth"),
+                       ("depth", "Total Depth"),
                        ("target_depth", "Target Depth"),
+                       ("depth_m", "Depth (m)"),
+                       ("casing_depth_ft", "Casing Depth"),
                        ("casing_depth", "Casing Depth"),
                        ("shoe_depth", "Shoe Depth"),
                        ("window_depth", "Window Depth")):
         v = _f(data.get(key))
         if v > 0:
+            # canonical feet: _m keys are converted, ft keys as-is
+            if key in ("depth_m",):
+                v = v * 3.28084
             depths.append((label, v))
 
     if len(depths) >= 2:
@@ -151,14 +193,16 @@ def validate_logical(data: Dict) -> List[Finding]:
 def validate_engineering(data: Dict) -> List[Finding]:
     f = []
 
-    mw = _f(data.get("mud_weight") or data.get("mw1"))
-    depth_m = _f(data.get("depth_m") or data.get("td_depth") or
-                 data.get("total_depth"))
-    depth_ft = depth_m * 3.28084 if depth_m else 0.0
+    mw = _pf(data, "mud_weight", "mud_weight_ppg", "current_mw", "mw",
+             "mw1")
+    depth_ft = _depth_ft(data)
 
-    # 1) hydrostatic / pressure window
-    pp_ppg = _f(data.get("pore_pressure_ppg"))
-    fg_ppg = _f(data.get("fracture_gradient_ppg"))
+    # 1) hydrostatic / pressure window (aliases: UI uses
+    #    formation_pressure / fracture_gradient — Batch X)
+    pp_ppg = _pf(data, "pore_pressure_ppg", "formation_pressure",
+                 "pore_pressure", "pp_ppg", "formation_pressure_ppg")
+    fg_ppg = _pf(data, "fracture_gradient_ppg", "fracture_gradient",
+                 "fg_ppg", "fg", "frac_gradient")
     if mw and pp_ppg and mw < pp_ppg:
         f.append(Finding("HIGH", "mud", "ENG-MW-PP",
                          f"Mud weight ({mw:g} ppg) is below pore pressure "
@@ -188,10 +232,10 @@ def validate_engineering(data: Dict) -> List[Finding]:
     # 3) BOP rating vs MASP
     bop = _f(data.get("bop_wp"))
     masp = _f(data.get("masp"))
-    if not masp and fg_ppg and mw and depth_m:
-        shoe_m = _f(data.get("shoe_depth") or data.get("casing_depth"))
-        if shoe_m:
-            masp = maasp(fg_ppg, mw, shoe_m * 3.28084)
+    if not masp and fg_ppg and mw and depth_ft:
+        shoe_ft = _shoe_ft(data)
+        if shoe_ft:
+            masp = maasp(fg_ppg, mw, shoe_ft)
     if bop and masp and bop < masp:
         f.append(Finding(
             "CRITICAL", "well_control", "ENG-BOP-MASP",
@@ -200,10 +244,10 @@ def validate_engineering(data: Dict) -> List[Finding]:
             "Upgrade BOP rating or revise the well design."))
 
     # 4) MAASP sanity
-    if fg_ppg and mw and depth_m:
-        shoe_m = _f(data.get("shoe_depth") or data.get("casing_depth"))
-        if shoe_m:
-            m = maasp(fg_ppg, mw, shoe_m * 3.28084)
+    if fg_ppg and mw and depth_ft:
+        shoe_ft = _shoe_ft(data)
+        if shoe_ft:
+            m = maasp(fg_ppg, mw, shoe_ft)
             if m < 0:
                 f.append(Finding("HIGH", "well_control", "ENG-MAASP-NEG",
                                  f"MAASP is negative ({m:g} psi) — mud weight "
@@ -245,7 +289,7 @@ def validate_engineering(data: Dict) -> List[Finding]:
                 "Select a higher grade/weight casing."))
 
     # 7) Gas migration / kick tolerance (qualitative)
-    if not data.get("kick_tolerance") and mw and fg_ppg and depth_m:
+    if not data.get("kick_tolerance") and mw and fg_ppg and depth_ft:
         f.append(Finding("LOW", "well_control", "ENG-KT-NOT-SET",
                          "Kick tolerance not explicitly provided/calculated.",
                          "Compute kick tolerance for the design casing shoe."))

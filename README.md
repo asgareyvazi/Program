@@ -58,6 +58,9 @@
 - **🛡️ کیفیت محتوا و نشت صفر** — فیلتر sanitizer (حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل/تلفن)، لیست سیاه کامل کدهای چاه/میدان/مخزن (MB-013، GS 4-2، Asmari، Pabdeh…) با حفظ درجههای فولاد (S135)، scrub دیتابیس پروسیجرها، برچسب صادقانهٔ verbatim بدون LLM — سویت `tests/test_content_quality.py` (۷۲ تست)
 - - **🪝 Torque & Drag (soft-string + کالیبراسیون)** — بار قلاب، تورک سطحی، کمانش Dawson-Paslay + **کالیبراسیون friction factor از دادهٔ چاههای مجاور** (`engineering_td.py`)
 - **🛢️ Kick Fluid Classification** — تشخیص گاز/آب/روغن از اختلاف SICP−SIDPP + friction خط چوک دیپواتر (`engineering_wellcontrol.py`)
+- **🗃️ Unified Database** — ادغام همهٔ دیتابیسها در `unified.db` با entity-links و FK واقعی + گزارش یکپارچگی بینپایگاهی (`unified_db.py`، `/api/unified`)
+- **🖥️ Native Installer** — `python installer.py` (نصب/چک/تعمیر: وابستگیها + دیتابیسها + لانچر) و `python installer.py --check`
+- **🪝 T&D Stiff-String 3D** — مدل خمشی با سهنقطهتماس + DLS (همیشه ≥ soft-string؛ در قائم صفر) (`engineering_td.py`)
 - **📅 Daily Drilling Report (Plan vs Actual)** — سند Morning-Report با جدول واریانس روزانه و پرچمهای KPI + منوی «Tools → Daily Drilling Report» (`daily_report.py`)
 - **🕳️ Cross-Well Intelligence** — یادگیری بینچاهی: رتبهبندی چاههای ذخیرهشده بر اساس شباهت مهندسی، پیشنهاد ورودی از چاه آفست، سکشن مقایسه و گزارش دیتابیس چاهها + دکمههای «Load from Stored Well» و «Suggest from Similar Offset Well» در ویزارد (`well_intelligence.py`)
 - **🗂️ Canonical Input Registry** — منبع واحد کلید/واحد/محدودهٔ مهندسی (۳۸ کمیت، ~۹۰ alias): همهٔ موتورها (Validation/Standards/Register/Consistency) مقدار را از یکجا میخوانند — `input_registry.py`

@@ -197,6 +197,7 @@ def td_markdown(values: Dict, operator: str = "") -> str:
     return "\n".join(L)
 
 
+
 # ---------------------------------------------------------------------------
 # Self-test
 # ---------------------------------------------------------------------------
@@ -231,10 +232,169 @@ def _selftest():
     md = td_markdown({"mud_weight": "12", "sections": secs})
     assert "TORQUE & DRAG" in md
     assert "Hook load tripping OUT" in md
-    print("  ✔ td selftest: hook loads + calibration + torque verified")
+    # stiff-string: bending/dogleg adds drag; torque increases
+    bendy = [{"weight_ppf": 20, "length": 8000, "od": 5,
+              "inclination": 45, "is_cased": False,
+              "dls_deg_per_100ft": 2.0, "clearance_in": 1.0}]
+    soft = hook_load(bendy, 12.0, "out")
+    stiff = stiff_string_hook_load(bendy, 12.0, "out")
+    assert stiff["drag_lbs"] >= soft["drag_lbs"], (stiff, soft)
+    assert stiff["hook_load_lbs"] >= soft["hook_load_lbs"]
+    t_s = surface_torque(bendy, 12.0)
+    t_f = stiff_string_torque(bendy, 12.0)
+    assert t_f["torque_ft_lb"] >= t_s["torque_ft_lb"], (t_f, t_s)
+    # vertical + zero DLS -> stiff equals soft (bending term vanishes)
+    vert = [{"weight_ppf": 20, "length": 10000, "od": 5,
+             "inclination": 0, "is_cased": False}]
+    sv = hook_load(vert, 12.0, "out")
+    fv = stiff_string_hook_load(vert, 12.0, "out")
+    assert abs(sv["hook_load_lbs"] - fv["hook_load_lbs"]) < 1, (sv, fv)
+    mds = td_stiff_markdown({"mud_weight": "12", "sections": bendy})
+    assert "STIFF-STRING 3D" in mds
+    assert "bending/dogleg" in mds
+    print("  ✔ td selftest: hook loads + calibration + stiff-string OK")
     return r
 
 
+# ---------------------------------------------------------------------------
+# STIFF-STRING 3D TORQUE & DRAG (Phase AJ)
+# ---------------------------------------------------------------------------
+# Extends the soft-string model with:
+#   - bending-stress contribution to the axial force (stiff-string)
+#   - three-point-contact normal force (radial clearance + stabilizer
+#     placement) instead of pure sin(inc) weight component
+#   - direction change (dogleg) term — the classic Aadnoy / Johancsik
+#     stiff-string corrections, implemented in the same deterministic style
+# The soft-string result is always the lower bound; the stiff-string
+# correction adds the bending terms.
+
+def _three_point_normal(weight_per_ft_lb: float, length_ft: float,
+                        inclination_deg: float, bend_deg_per_100ft: float,
+                        tension_lbs: float, clearance_in: float) -> float:
+    """Normal force per section with the three-point-contact geometry.
+
+    N = sqrt((W·sinθ + T·sin(β/2))² + (T·sin(β/2)·azimuth-term)²)
+    Simplified stiff-string: adds the tension × dogleg component and the
+    radial-clearance effect on contact."""
+    inc = math.radians(inclination_deg)
+    w = weight_per_ft_lb * length_ft
+    grav = w * math.sin(inc)
+    bend = bend_deg_per_100ft * length_ft / 100.0
+    bend_rad = math.radians(bend)
+    tension_term = tension_lbs * math.sin(bend_rad / 2.0)
+    # clearance effect: tighter clearance -> more contact force
+    clear_factor = 1.0 + max(0.0, 0.5 - clearance_in) * 0.5
+    return max(0.0, (grav + tension_term) * clear_factor)
+
+
+def stiff_string_hook_load(sections: List[Dict], mud_weight_ppg: float,
+                           direction: str = "out",
+                           friction_cased: float = 0.20,
+                           friction_open: float = 0.30) -> Dict:
+    """Hook load with stiff-string corrections (bending + dogleg)."""
+    bf = buoyancy_factor(mud_weight_ppg)
+    total = 0.0
+    axial = 0.0
+    drag = 0.0
+    # accumulate tension downward for the three-point term
+    running_tension = 0.0
+    for sec in sections:
+        g = section_geometry(sec)
+        if g["length"] <= 0 or g["weight_ppf"] <= 0:
+            continue
+        w = g["weight_ppf"] * g["length"] * bf
+        total += w
+        axial += w * math.cos(g["inc"])
+        bend = float(sec.get("dls_deg_per_100ft", 0) or 0)
+        clearance = float(sec.get("clearance_in", 1) or 1)
+        normal = _three_point_normal(
+            g["weight_ppf"] * bf, g["length"],
+            g["inc"] * 180.0 / math.pi, bend,
+            running_tension, clearance)
+        ff = friction_cased if g["is_cased"] else friction_open
+        drag += normal * ff
+        running_tension += w * math.cos(g["inc"])
+    if direction == "out":
+        hl = axial + drag
+    else:
+        hl = max(0.0, axial - drag)
+    return {"hook_load_lbs": round(hl, 0), "axial_lbs": round(axial, 0),
+            "drag_lbs": round(drag, 0),
+            "total_weight_lbs": round(total, 0),
+            "model": "stiff-string (bending + dogleg)"}
+
+
+def stiff_string_torque(sections: List[Dict], mud_weight_ppg: float,
+                        friction_cased: float = 0.20,
+                        friction_open: float = 0.30) -> Dict:
+    """Surface torque with stiff-string normal forces."""
+    bf = buoyancy_factor(mud_weight_ppg)
+    torque = 0.0
+    running_tension = 0.0
+    for sec in sections:
+        g = section_geometry(sec)
+        if g["length"] <= 0 or g["weight_ppf"] <= 0 or g["od"] <= 0:
+            continue
+        w = g["weight_ppf"] * g["length"] * bf
+        bend = float(sec.get("dls_deg_per_100ft", 0) or 0)
+        clearance = float(sec.get("clearance_in", 1) or 1)
+        normal = _three_point_normal(
+            g["weight_ppf"] * bf, g["length"],
+            g["inc"] * 180.0 / math.pi, bend,
+            running_tension, clearance)
+        ff = friction_cased if g["is_cased"] else friction_open
+        torque += normal * ff * (g["od"] / 24.0)
+        running_tension += w * math.cos(g["inc"])
+    return {"torque_ft_lb": round(torque, 0),
+            "model": "stiff-string (bending + dogleg)"}
+
+
+def td_stiff_markdown(values: Dict, operator: str = "") -> str:
+    """Word-ready STIFF-STRING TORQUE & DRAG section."""
+    sections = values.get("sections") or values.get("td_sections")
+    mw = 0.0
+    try:
+        mw = float(str(values.get("mud_weight") or 0))
+    except (TypeError, ValueError):
+        pass
+    if not sections or mw <= 0:
+        return ""
+    op = (operator or "").strip() or "the Operator"
+    soft = hook_load(sections, mw, "out")
+    stiff = stiff_string_hook_load(sections, mw, "out")
+    stiff_in = stiff_string_hook_load(sections, mw, "in")
+    t_soft = surface_torque(sections, mw)
+    t_stiff = stiff_string_torque(sections, mw)
+    L = ["## TORQUE & DRAG — STIFF-STRING 3D (bending + dogleg)", ""]
+    L.append(f"- Soft-string hook load (trip out): "
+             f"**{soft['hook_load_lbs']:,.0f} lbs**")
+    L.append(f"- **Stiff-string hook load (trip out): "
+             f"{stiff['hook_load_lbs']:,.0f} lbs** "
+             f"(+{stiff['drag_lbs'] - soft['drag_lbs']:,.0f} lbs drag "
+             f"from bending/dogleg)")
+    L.append(f"- Stiff-string hook load (trip in): "
+             f"**{stiff_in['hook_load_lbs']:,.0f} lbs**")
+    L.append(f"- Soft-string torque: {t_soft['torque_ft_lb']:,.0f} ft-lb | "
+             f"**stiff-string torque: {t_stiff['torque_ft_lb']:,.0f} "
+             f"ft-lb**")
+    L.append("")
+    L.append(f"*Stiff-string T&D computed deterministically for {op} with "
+             "three-point-contact and dogleg corrections; calibrate the "
+             "friction factors with offset-well measurements before "
+             "final design.*")
+    return "\n".join(L)
+
+
 if __name__ == "__main__":
-    _selftest()
-    print("engineering_td OK")
+    import sys as _s
+    if len(_s.argv) > 1:
+        # optional demo mode for the stiff-string model
+        demo = [
+            {"weight_ppf": 20, "length": 8000, "od": 5,
+             "inclination": 45, "is_cased": False,
+             "dls_deg_per_100ft": 2.0, "clearance_in": 1.0},
+        ]
+        print(td_stiff_markdown({"mud_weight": "12", "sections": demo}))
+    else:
+        _selftest()
+        print("engineering_td OK")

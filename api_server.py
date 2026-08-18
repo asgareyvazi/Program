@@ -440,6 +440,14 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         from daily_report import daily_report_markdown
         return {"markdown": daily_report_markdown(req.values or {})}
 
+    @app.get("/api/unified", dependencies=AUTH_DEP)
+    def unified():
+        import unified_db as u
+        u.build_unified(rebuild=False)
+        return {"stats": u.unified_stats(),
+                "integrity": u.integrity_report(),
+                "markdown": u.unified_markdown()}
+
     @app.get("/api/wells/report", dependencies=AUTH_DEP)
     def well_report():
         from well_intelligence import (well_database_report,

@@ -776,6 +776,36 @@ def test_torque_drag():
     approx("Hook load tripping OUT" in md, True, 0, "hook load shown")
 
 
+def test_stiff_string():
+    print("\n[26d] T&D STIFF-STRING 3D (bending + dogleg)")
+    from engineering_td import (stiff_string_hook_load, surface_torque,
+                                stiff_string_torque, td_stiff_markdown,
+                                hook_load)
+    bendy = [{"weight_ppf": 20, "length": 8000, "od": 5,
+              "inclination": 45, "is_cased": False,
+              "dls_deg_per_100ft": 2.0, "clearance_in": 1.0}]
+    soft = hook_load(bendy, 12.0, "out")
+    stiff = stiff_string_hook_load(bendy, 12.0, "out")
+    approx(stiff["drag_lbs"] >= soft["drag_lbs"], True, 0,
+           "stiff drag >= soft drag")
+    approx(stiff["hook_load_lbs"] >= soft["hook_load_lbs"], True, 0,
+           "stiff hook load >= soft")
+    t_s = surface_torque(bendy, 12.0)
+    t_f = stiff_string_torque(bendy, 12.0)
+    approx(t_f["torque_ft_lb"] >= t_s["torque_ft_lb"], True, 0,
+           "stiff torque >= soft")
+    # vertical + no DLS -> identical (bending term vanishes)
+    vert = [{"weight_ppf": 20, "length": 10000, "od": 5,
+             "inclination": 0, "is_cased": False}]
+    sv = hook_load(vert, 12.0, "out")
+    fv = stiff_string_hook_load(vert, 12.0, "out")
+    approx(sv["hook_load_lbs"], fv["hook_load_lbs"], 1.0,
+           "vertical stiff == soft")
+    mds = td_stiff_markdown({"mud_weight": "12", "sections": bendy})
+    approx("STIFF-STRING 3D" in mds, True, 0, "section heading")
+    approx("bending/dogleg" in mds, True, 0, "correction shown")
+
+
 def test_kick_fluid():
     print("\n[26c] KICK FLUID CLASSIFICATION + CHOKE-LINE FRICTION")
     from engineering_wellcontrol import (kick_fluid_analysis,
@@ -1018,7 +1048,8 @@ def main():
                test_structured_steps, test_anticollision, test_advanced_casing,
                test_decision_trees, test_hydraulics_model, test_wellcontrol,
                test_geomechanics, test_cementing,
-               test_special_wells, test_torque_drag, test_kick_fluid,
+               test_special_wells, test_torque_drag, test_stiff_string,
+               test_kick_fluid,
                test_witsml_import, test_iadc_dull,
                test_witsml, test_sensitivity, test_well_intelligence,
                test_afe_materials, test_backup_secrets,

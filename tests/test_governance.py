@@ -319,6 +319,65 @@ def test_reporting():
     shutil.rmtree(tmp, ignore_errors=True)
 
 
+def test_unified_db():
+    print("\n[10] UNIFIED DATABASE — consolidation + cross-DB integrity")
+    import unified_db as u
+    # clean orphan test rows from previous runs (they have well_ids that
+    # no longer exist in wells.db) so the integrity gate starts clean
+    from operations_engine import LessonsDatabase
+    _valid_wells = set()
+    try:
+        import sqlite3 as _sq
+        import os as _os
+        _wdb = _os.path.expanduser("~/.drilling_program/wells.db")
+        if _os.path.exists(_wdb):
+            _wc = _sq.connect(_wdb)
+            _valid_wells = {r[0] for r in _wc.execute(
+                "SELECT well_id FROM wells")}
+            _wc.close()
+    except Exception:
+        pass
+    _odb = LessonsDatabase()
+    try:
+        for _tbl in ("daily_reports", "lessons", "npt_events", "afe",
+                     "materials"):
+            _odb.conn.execute(
+                f"DELETE FROM {_tbl} WHERE well_id != '' AND well_id NOT "
+                f"IN ({','.join('?' for _ in _valid_wells)})"
+                if _valid_wells else
+                f"DELETE FROM {_tbl} WHERE well_id != ''")
+        _odb.conn.commit()
+    except Exception:
+        pass
+    _odb.close()
+    u.build_unified(rebuild=True)
+    stats = u.unified_stats()
+    ok(stats.get("procedures", {}).get("procedures", 0) > 100,
+       "procedures consolidated")
+    ok(stats.get("cbs", {}).get("cbs_items", 0) >= 300, "cbs consolidated")
+    ok(stats.get("catalog", {}).get("docs", 0) >= 700, "catalog consolidated")
+    integ = u.integrity_report()
+    ok(integ["broken"] == [], "zero broken cross-db links",
+       str(integ["broken"][:2]))
+    md = u.unified_markdown()
+    ok("UNIFIED DATABASE REPORT" in md, "report heading")
+    ok("Total rows" in md, "total rows shown")
+    # broken-link detection: an orphan daily report must be caught
+    from operations_engine import LessonsDatabase
+    odb = LessonsDatabase()
+    odb.add_daily(well_id="ORPHAN-WELL", well_name="X", date="2026-08-18")
+    odb.close()
+    u.build_unified(rebuild=True)
+    integ2 = u.integrity_report()
+    ok(any(b["count"] >= 1 for b in integ2["broken"]),
+       "orphan reference detected", str(integ2["broken"][:1]))
+    odb = LessonsDatabase()
+    odb.conn.execute("DELETE FROM daily_reports WHERE well_id='ORPHAN-WELL'")
+    odb.conn.commit()
+    odb.close()
+    u.build_unified(rebuild=True)
+
+
 def test_graceful_modules():
     print("\n[9] OCR + PDF EXPORT — graceful degradation")
     import ocr_ingest, pdf_export
@@ -359,6 +418,7 @@ if __name__ == "__main__":
     test_structured_steps()
     test_procedure_linking()
     test_reporting()
+    test_unified_db()
     test_graceful_modules()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")

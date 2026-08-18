@@ -58,6 +58,7 @@
 - **🛡️ کیفیت محتوا و نشت صفر** — فیلتر sanitizer (حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل/تلفن)، لیست سیاه کامل کدهای چاه/میدان/مخزن (MB-013، GS 4-2، Asmari، Pabdeh…) با حفظ درجههای فولاد (S135)، scrub دیتابیس پروسیجرها، برچسب صادقانهٔ verbatim بدون LLM — سویت `tests/test_content_quality.py` (۷۲ تست)
 - - **🪝 Torque & Drag (soft-string + کالیبراسیون)** — بار قلاب، تورک سطحی، کمانش Dawson-Paslay + **کالیبراسیون friction factor از دادهٔ چاههای مجاور** (`engineering_td.py`)
 - **🛢️ Kick Fluid Classification** — تشخیص گاز/آب/روغن از اختلاف SICP−SIDPP + friction خط چوک دیپواتر (`engineering_wellcontrol.py`)
+- **🗂️ Canonical Input Registry** — منبع واحد کلید/واحد/محدودهٔ مهندسی (۳۸ کمیت، ~۹۰ alias): همهٔ موتورها (Validation/Standards/Register/Consistency) مقدار را از یکجا میخوانند — `input_registry.py`
 - **🔍 Cross-Document Consistency** — اسکن سند نهایی برای تناقضهای مهندسی (casing>TD، MW>FG، ECD>FG، BOP<MASP) + سکشن «CROSS-DOCUMENT CONSISTENCY» (`engineering_consistency.py`)
 - **🎯 Engineering Range Validation** — محدودههای واقعبینانه در Schema (MW 6-22 ppg، BOP 2-20k psi و...) — مقدار غیرفیزیکی در لحظهٔ ورود پرچم میشود
 - **📥 WITSML Import** — دریافت WITSML (چاه/مسیر) و ادغام در ورودیهای ویزارد (`witsml_import.py`، `/api/witsml/import`)

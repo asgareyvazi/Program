@@ -41,6 +41,7 @@ SUITES = [
     ("Output validation (all caps)", "validate_outputs.py"),
     ("Document integrity (Batch X)", "test_integrity.py"),
     ("Template audit (all templates+procs)", "template_audit.py"),
+    ("Input registry audit", "registry_audit.py"),
 ]
 
 

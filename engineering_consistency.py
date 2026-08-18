@@ -22,7 +22,13 @@ from typing import Dict, List, Optional, Tuple
 CF = 0.052
 
 # units assumed when a number appears without a unit near a known label
-_LABEL_KEYS = {
+try:
+    from input_registry import REGISTRY as _REG
+    _LABEL_KEYS = {label.lower(): canon
+                   for canon, (label, _u, _mn, _mx, _al) in _REG.items()}
+except Exception:
+    _LABEL_KEYS = {}
+_LABEL_KEYS.update({
     "total depth": "td_depth", "td depth": "td_depth",
     "td (md)": "td_md", "target depth": "target_depth",
     "casing depth": "casing_depth", "shoe depth": "shoe_depth",
@@ -38,7 +44,10 @@ _LABEL_KEYS = {
     "rpm": "rpm", "wob": "wob", "rop": "rop",
     "hole size": "hole_size", "bit size": "bit_size",
     "casing size": "casing_size",
-}
+})
+for _canon, (_lbl, _u, _mn, _mx, _al) in _REG.items():
+    for _a in _al:
+        _LABEL_KEYS.setdefault(_a.replace("_", " "), _canon)
 
 _NUM = re.compile(r"(\d{1,6}(?:[.,]\d+)?)\s*(ppg|psi|ft|m|in|bbl|gpm|"
                   r"klbf|rpm|ft/hr|lb/100ft2|cP)?")

@@ -247,8 +247,12 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     """
     v = values or {}
     mw = _fv(_pick(v, "mud_weight", "mud_weight_ppg", "current_mw", "mw"))
-    depth_ft = _fv(_pick(v, "depth_ft", "depth", "td_depth", "td_ft",
-                         "total_depth"))
+    try:
+        from input_registry import depth_ft as _dft
+        depth_ft = _dft(v)
+    except Exception:
+        depth_ft = _fv(_pick(v, "depth_ft", "depth", "td_depth", "td_ft",
+                             "total_depth"))
     depth_m = _fv(_pick(v, "depth_m", "target_depth_m", "td_m"))
     if depth_ft <= 0 and depth_m > 0:
         depth_ft = depth_m * 3.28084

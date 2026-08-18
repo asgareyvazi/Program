@@ -85,7 +85,12 @@ def compute_register(values: Dict) -> List[Dict]:
         return None
 
     mw = _f(pick("mud_weight", "mud_weight_ppg", "current_mw", "mw"))
-    depth_ft = _f(pick("depth_ft", "depth", "td_depth", "td_ft", "total_depth"))
+    try:
+        from input_registry import depth_ft as _dft
+        depth_ft = _dft(values)
+    except Exception:
+        depth_ft = _f(pick("depth_ft", "depth", "td_depth", "td_ft",
+                           "total_depth"))
     # depth in metres fallback (some templates use metric)
     depth_m = _f(pick("depth_m", "target_depth_m", "td_m"))
     if depth_ft <= 0 and depth_m > 0:

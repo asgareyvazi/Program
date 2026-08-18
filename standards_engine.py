@@ -127,30 +127,23 @@ def evaluate_rule(rule: StandardRule, values: Dict) -> Dict:
     v = values
 
     def f(key):
-        # canonical aliases (Batch X) — the UI's Engineering Basis uses
-        # fracture_gradient / formation_pressure / td_depth while rules
-        # historically read *_ppg / depth_m; both must resolve.
-        ALIASES = {
-            "fracture_gradient_ppg": ("fracture_gradient_ppg",
-                                      "fracture_gradient", "fg_ppg", "fg",
-                                      "frac_gradient"),
-            "pore_pressure_ppg": ("pore_pressure_ppg", "formation_pressure",
-                                  "pore_pressure", "pp_ppg"),
-            "mud_weight": ("mud_weight", "mud_weight_ppg", "current_mw",
-                           "mw", "mw1"),
-            "depth_m": ("depth_m", "td_m"),
-            "depth_ft": ("depth_ft", "td_depth", "total_depth", "depth",
-                         "target_depth"),
-        }
-        keys = ALIASES.get(key, (key,))
-        for k in keys:
-            val = v.get(k)
-            if val not in (None, ""):
+        # canonical aliases (Batch X + AD) — resolved through the INPUT
+        # REGISTRY so every engine sees the user's value under any name
+        try:
+            from input_registry import get as _iget
+            val = _iget(v, key)
+            if val is not None:
                 try:
                     return float(str(val).strip())
                 except (TypeError, ValueError):
-                    continue
-        return 0.0
+                    pass
+        except Exception:
+            pass
+        # legacy fallback: direct key
+        try:
+            return float(v.get(key) or 0)
+        except (TypeError, ValueError):
+            return 0.0
 
     def depth_ft():
         ft = f("depth_ft")

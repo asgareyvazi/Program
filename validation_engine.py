@@ -135,10 +135,14 @@ def validate_schema(data: Dict) -> List[Finding]:
                          "check that feet were not entered as meters.",
                          "If depth is in meters, use the depth_m field."))
 
-    # Batch AA — realistic engineering ranges (audit: schema only checked
-    # non-negativity; now values outside the physically plausible band
-    # are flagged at input time)
-    RANGES = [
+    # Batch AA/AD — realistic engineering ranges sourced from the
+    # canonical INPUT REGISTRY (single source of truth for units/ranges)
+    try:
+        from input_registry import REGISTRY as _REG
+        RANGES = [(k, e[0], e[2], e[3]) for k, e in _REG.items()]
+    except Exception:
+        RANGES = []
+    RANGES = RANGES + [
         ("mud_weight", "Mud weight", 6.0, 22.0),
         ("mud_weight_ppg", "Mud weight", 6.0, 22.0),
         ("current_mw", "Mud weight", 6.0, 22.0),

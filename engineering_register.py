@@ -664,6 +664,12 @@ def compute_register(values: Dict) -> List[Dict]:
         except Exception:
             pass
 
+    # Batch AA — provenance: every row carries its origin class
+    # (CALCULATED / USER-ENTERED / ESTIMATED / DATABASE-DEFAULT).  The
+    # register only contains computed numbers, so they are CALCULATED by
+    # construction; inputs are tagged in the inputs column already.
+    for r_ in rows:
+        r_.setdefault("origin", "CALCULATED")
     return rows
 
 
@@ -684,13 +690,16 @@ def register_markdown(rows: List[Dict], operator: str = "") -> str:
         "deterministically by the built-in engineering calculators; the AI "
         "assistant is locked out of changing them (Numeric Lock).",
         "",
-        "| # | Parameter | Formula / Basis | Inputs used | Result | Standard source | Status |",
-        "|---|-----------|-----------------|-------------|--------|-----------------|--------|",
+        "| # | Parameter | Formula / Basis | Inputs used | Result | Standard source | Origin | Status |",
+        "|---|-----------|-----------------|-------------|--------|-----------------|--------|--------|",
     ]
     for i, r in enumerate(rows, 1):
+        # Batch AA — provenance: every number carries its origin
+        origin = r.get("origin", "CALCULATED")
         lines.append(
             f"| {i} | {r['param']} | {r['formula']} | {r['inputs']} | "
-            f"{r['result']} {r['unit']} | {r['standard']} | {r['status']} |")
+            f"{r['result']} {r['unit']} | {r['standard']} | {origin} | "
+            f"{r['status']} |")
     lines.append("")
     lines.append(f"*Register generated on document date; prepared for "
                  f"{op}. Calculations verified by the reference test suite "

@@ -113,6 +113,17 @@ def build_document_markdown(tdef, values: Dict,
     if rmd2:
         rmd2 = neutralize_text(rmd2, operator, contractor)
         md = md.rstrip() + "\n\n---\n\n" + rmd2
+    # Batch AA — cross-document consistency scan on the FINAL text (after
+    # every enrichment stage); findings are appended as a section
+    try:
+        from engineering_consistency import (consistency_check,
+                                             consistency_markdown)
+        _findings = consistency_check(md)
+        _cmd = consistency_markdown(_findings, operator)
+        if _cmd:
+            md = md.rstrip() + "\n\n---\n\n" + _cmd
+    except Exception:
+        pass
     return md
 
 

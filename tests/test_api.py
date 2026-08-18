@@ -226,6 +226,14 @@ def main():
                     headers=H)
     ok(r.status_code == 200 and r.json().get("status", "").startswith("OK"),
        "iadc dull endpoint")
+    r = client.post("/api/consistency",
+                    json={"values": {"markdown": (
+                        "| Total Depth | 10000 ft |\n"
+                        "| Casing Depth | 12000 ft |")}},
+                    headers=H)
+    ok(r.status_code == 200 and any(
+        f["code"] == "CONS-CASING-TD" for f in r.json()["findings"]),
+       "consistency endpoint")
     r = client.post("/api/sensitivity",
                     json={"values": {"mud_weight": "12", "flow_rate": "300",
                                      "depth": "10000", "dp_id": "4.276",

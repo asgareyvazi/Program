@@ -56,7 +56,9 @@
 - **📡 WITSML Export** — خروجی WITSML v1.4.1 + JSON (منو یا `/api/witsml`) (`witsml_export.py`)
 - **⚡ Auto-Prefill** — ورودیهای ویزارد از پروفایل چاه با نگاشت مترادف واژگان (Deviated ← Directional J-Type و…)
 - **🛡️ کیفیت محتوا و نشت صفر** — فیلتر sanitizer (حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل/تلفن)، لیست سیاه کامل کدهای چاه/میدان/مخزن (MB-013، GS 4-2، Asmari، Pabdeh…) با حفظ درجههای فولاد (S135)، scrub دیتابیس پروسیجرها، برچسب صادقانهٔ verbatim بدون LLM — سویت `tests/test_content_quality.py` (۷۲ تست)
-- - **📥 WITSML Import** — دریافت WITSML (چاه/مسیر) و ادغام در ورودیهای ویزارد (`witsml_import.py`، `/api/witsml/import`)
+- - **🔍 Cross-Document Consistency** — اسکن سند نهایی برای تناقضهای مهندسی (casing>TD، MW>FG، ECD>FG، BOP<MASP) + سکشن «CROSS-DOCUMENT CONSISTENCY» (`engineering_consistency.py`)
+- **🎯 Engineering Range Validation** — محدودههای واقعبینانه در Schema (MW 6-22 ppg، BOP 2-20k psi و...) — مقدار غیرفیزیکی در لحظهٔ ورود پرچم میشود
+- **📥 WITSML Import** — دریافت WITSML (چاه/مسیر) و ادغام در ورودیهای ویزارد (`witsml_import.py`، `/api/witsml/import`)
 - **🪛 IADC Dull Grading** — تفسیر کد ۸کاراکتری IADC با ارزیابی وضعیت بیت و سکشن Word (`iadc_dull.py`، `/api/iadc-dull`)
 - **📦 بستهبندی سازمانی** — `pyinstaller packaging/DrillingProgram.spec` + اسکریپتهای build ویندوز/لینوکس (توزیع تکپوشه با کتابخانهٔ دانش)
 - **🧾 Template & Procedure Audit خودکار** — `python3 tests/template_audit.py`: همهٔ قالبها و پروسیجرها از نظر placeholder/InputSchema/required/unit اسکن و گزارش PASS/FAIL/WARN میدهند (`audit_report.md`)

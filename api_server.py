@@ -276,6 +276,13 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         win["tvd_ft"] = tvd
         return win
 
+    @app.post("/api/consistency")
+    def consistency(req: RegisterRequest):
+        from engineering_consistency import consistency_check
+        md = req.values.get("markdown", "") if isinstance(
+            req.values, dict) else ""
+        return {"findings": consistency_check(md)}
+
     @app.post("/api/anticollision", dependencies=AUTH_DEP)
     def anticollision(req: AnticollisionRequest):
         from engineering_anticollision import (min_curvature_positions,

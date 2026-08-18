@@ -2768,6 +2768,21 @@ class _GeneratePage(QWizardPage):
                 import traceback
                 traceback.print_exc()
 
+            # 5e2) Cross-document consistency scan (Batch AA)
+            try:
+                from engineering_consistency import (consistency_check,
+                                                     consistency_markdown)
+                _findings = consistency_check(md)
+                _cmd = consistency_markdown(_findings,
+                                            meta.get("operator", ""))
+                if _cmd:
+                    _cmd = neutralize_text(_cmd, meta.get("operator", ""),
+                                           meta.get("contractor", ""))
+                    md = md.rstrip() + "\n\n---\n\n" + _cmd
+            except Exception:
+                import traceback
+                traceback.print_exc()
+
             # 5f) FINAL PLACEHOLDER AUDIT — no raw placeholder may reach
             #     the Word file (Batch X).  Any {{key}}/{key} left after
             #     every enrichment stage means the document is incomplete.

@@ -134,6 +134,56 @@ def validate_schema(data: Dict) -> List[Finding]:
                          f"Depth ({depth_ft:,.0f} ft) is unusually large — "
                          "check that feet were not entered as meters.",
                          "If depth is in meters, use the depth_m field."))
+
+    # Batch AA — realistic engineering ranges (audit: schema only checked
+    # non-negativity; now values outside the physically plausible band
+    # are flagged at input time)
+    RANGES = [
+        ("mud_weight", "Mud weight", 6.0, 22.0),
+        ("mud_weight_ppg", "Mud weight", 6.0, 22.0),
+        ("current_mw", "Mud weight", 6.0, 22.0),
+        ("mw1", "Mud weight 1", 6.0, 22.0),
+        ("mw2", "Mud weight 2", 6.0, 22.0),
+        ("mw3", "Mud weight 3", 6.0, 22.0),
+        ("formation_pressure", "Pore pressure", 6.0, 20.0),
+        ("pore_pressure_ppg", "Pore pressure", 6.0, 20.0),
+        ("fracture_gradient", "Fracture gradient", 8.0, 22.0),
+        ("fracture_gradient_ppg", "Fracture gradient", 8.0, 22.0),
+        ("bop_wp", "BOP working pressure", 2000.0, 20000.0),
+        ("bop_working_pressure", "BOP working pressure", 2000.0, 20000.0),
+        ("flow_rate", "Flow rate", 50.0, 2500.0),
+        ("flow_rate_gpm", "Flow rate", 50.0, 2500.0),
+        ("pump_rate", "Pump rate", 50.0, 2500.0),
+        ("rpm", "Rotary speed", 10.0, 400.0),
+        ("wob", "Weight on bit", 0.0, 120.0),
+        ("wob_klbf", "Weight on bit", 0.0, 120.0),
+        ("hole_size", "Hole size", 3.0, 40.0),
+        ("hole_id", "Hole size", 3.0, 40.0),
+        ("casing_size", "Casing size", 3.0, 40.0),
+        ("casing_od", "Casing size", 3.0, 40.0),
+        ("tfa", "Bit TFA", 0.05, 5.0),
+        ("tfa_in2", "Bit TFA", 0.05, 5.0),
+        ("trip_speed", "Trip speed", 0.0, 200.0),
+        ("trip_speed_ft_min", "Trip speed", 0.0, 200.0),
+        ("ecm", "ECM", 0.0, 100.0),
+        ("ecd", "ECD", 6.0, 24.0),
+        ("yield_point", "Yield point", 0.0, 100.0),
+        ("plastic_viscosity", "Plastic viscosity", 0.0, 150.0),
+    ]
+    for key, label, lo, hi in RANGES:
+        raw = data.get(key)
+        if raw in (None, ""):
+            continue
+        try:
+            v = float(str(raw).strip())
+        except (TypeError, ValueError):
+            continue
+        if v < lo or v > hi:
+            f.append(Finding(
+                "MEDIUM", "schema", f"SCHEMA-RANGE-{key.upper()}",
+                f"{label} ({v:g}) is outside the realistic engineering "
+                f"range ({lo:g}–{hi:g}).",
+                "Check the entered value/unit before continuing."))
     return f
 
 

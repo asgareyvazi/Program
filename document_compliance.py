@@ -61,8 +61,12 @@ def compliance_check(template_key: str, markdown: str,
     missing = []
     for r in reqs:
         rn = _norm(r)
-        # a section counts as present if the heading or the phrase appears
-        if not any(rn in s or s in rn for s in sections) and rn not in md:
+        # Batch AA — section presence is heading-based, not phrase-based:
+        # a stray mention of "casing" in the text must NOT count as a
+        # Casing Program section.  Only an actual '## ...' heading (or a
+        # reasonable heading match) satisfies the requirement.
+        present = any(rn in s or s in rn for s in sections)
+        if not present:
             missing.append(r)
     score = max(0, 100 - len(missing) * 10)
 

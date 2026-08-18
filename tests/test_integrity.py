@@ -299,6 +299,72 @@ def test_standards_applicability_column():
     ok("API RP 53" in md, "standard shown")
 
 
+def test_consistency_check():
+    print("\n[11] CROSS-DOCUMENT CONSISTENCY")
+    from engineering_consistency import (consistency_check,
+                                         consistency_markdown)
+    bad = """
+| Total Depth | 10000 ft |
+| Casing Depth | 12000 ft |
+| Mud Weight | 17 ppg |
+| Fracture Gradient | 16 ppg |
+| ECD | 16.5 ppg |
+| BOP Working Pressure | 5000 psi |
+| MASP | 7000 psi |
+"""
+    f = consistency_check(bad)
+    codes = {x["code"] for x in f}
+    ok("CONS-CASING-TD" in codes, "casing > TD flagged")
+    ok("CONS-MW-FG" in codes, "MW > FG flagged")
+    ok("CONS-ECD-FG" in codes, "ECD > FG flagged")
+    ok("CONS-BOP-MASP" in codes, "BOP < MASP flagged")
+    clean = """
+| Total Depth | 10000 ft |
+| Casing Depth | 8000 ft |
+| Mud Weight | 12 ppg |
+| Fracture Gradient | 16 ppg |
+| ECD | 12.5 ppg |
+| BOP Working Pressure | 10000 psi |
+| MASP | 3000 psi |
+"""
+    ok(consistency_check(clean) == [], "clean doc no findings")
+    ok(consistency_markdown(f) != "", "section rendered for findings")
+    ok(consistency_markdown([]) == "", "no section when clean")
+
+
+def test_engineering_ranges():
+    print("\n[12] ENGINEERING RANGE VALIDATION")
+    from validation_engine import validate_well_data
+    fs = validate_well_data({"mud_weight": "50000", "td_depth": "10000"})
+    codes = [x.code for x in fs]
+    ok("SCHEMA-RANGE-MUD_WEIGHT" in codes, "absurd MW flagged")
+    ok("SCHEMA-RANGE-MUD_WEIGHT" not in [
+        x.code for x in validate_well_data(
+            {"mud_weight": "12", "td_depth": "10000"})],
+       "normal MW not flagged")
+    fs2 = validate_well_data({"bop_wp": "500", "td_depth": "10000"})
+    ok("SCHEMA-RANGE-BOP_WP" in [x.code for x in fs2],
+       "BOP below API range flagged")
+
+
+def test_section_presence_heading():
+    print("\n[13] SECTION PRESENCE — heading-based, not phrase-based")
+    from document_compliance import compliance_check
+    # a stray mention of 'casing' must NOT satisfy the Casing section
+    md = ("## 1. SCOPE\nThis program covers casing, mud and cement "
+          "operations for the well.\n## VALIDATION\nok")
+    rep = compliance_check("drilling_program", md)
+    ok("casing" in rep["missing_sections"],
+       "phrase mention does not count as section",
+       str(rep["missing_sections"]))
+    # a real heading satisfies it
+    md2 = ("## CASING PROGRAM\n| Size | Depth |\n|---|---|\n| 9.625 | 8000 |\n"
+           "## VALIDATION\nok")
+    rep2 = compliance_check("drilling_program", md2)
+    ok("casing" not in rep2["missing_sections"],
+       "real heading counts", str(rep2["missing_sections"]))
+
+
 if __name__ == "__main__":
     test_override_dialog_buttons()
     test_numeric_empty()
@@ -310,6 +376,9 @@ if __name__ == "__main__":
     test_template_audit()
     test_combo_not_editable()
     test_standards_applicability_column()
+    test_consistency_check()
+    test_engineering_ranges()
+    test_section_presence_heading()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

@@ -1,7 +1,7 @@
 {
  "stats": {
-  "total": 246,
-  "pass": 185,
+  "total": 248,
+  "pass": 187,
   "warn": 61,
   "fail": 0
  },
@@ -3435,6 +3435,32 @@
   },
   {
    "key": "db:195",
+   "name": "API Test Procedure",
+   "kind": "Procedure (DB)",
+   "placeholders": [],
+   "declared": [],
+   "missing": [],
+   "unused": [],
+   "legacy_single_brace": [],
+   "unresolved_after_render": [],
+   "status": "PASS",
+   "issues": []
+  },
+  {
+   "key": "db:196",
+   "name": "API Test Procedure",
+   "kind": "Procedure (DB)",
+   "placeholders": [],
+   "declared": [],
+   "missing": [],
+   "unused": [],
+   "legacy_single_brace": [],
+   "unresolved_after_render": [],
+   "status": "PASS",
+   "issues": []
+  },
+  {
+   "key": "db:197",
    "name": "API Test Procedure",
    "kind": "Procedure (DB)",
    "placeholders": [],

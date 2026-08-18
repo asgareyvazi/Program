@@ -140,6 +140,19 @@ def generate_document(tdef, values: Dict,
     values = dict(values or {})
     operator = str(values.get("operator") or meta.get("operator") or "")
     contractor = str(values.get("contractor") or meta.get("contractor") or "")
+
+    # Phase AE — persist the well basis to the canonical well model on
+    # every generation (wells.db), so the same inputs feed the well
+    # database, revisions and future cross-well workflows.
+    try:
+        from well_model import WellDatabase, well_from_values
+        wdb = WellDatabase()
+        well = well_from_values("", values)
+        wdb.save_well(well)
+        wdb.close()
+    except Exception:
+        pass
+
     md = build_document_markdown(tdef, values, operator, contractor,
                                  rop_calib=rop_calib)
 

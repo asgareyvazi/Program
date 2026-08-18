@@ -380,6 +380,37 @@ def test_witsml_wizard_prefill():
     wiz.close()
 
 
+def test_well_model_integration():
+    print("\n[15] WELL MODEL — persist on generation, upsert by name")
+    from generation_pipeline import template_by_key, generate_document
+    from well_model import load_well_values, WellDatabase
+    import tempfile
+    td = template_by_key("drilling_program")
+    tmp = tempfile.mkdtemp(prefix="drl_wm_")
+    import uuid
+    _wn = f"Well INT-{uuid.uuid4().hex[:6]}"
+    vals = {"well_name": _wn, "field_name": "Field X",
+            "operator": "the Operator", "mud_weight": "12.5",
+            "td_depth": "10000", "hole_size": "12.25",
+            "casing_size": "9.625", "casing_depth": "8000",
+            "mud_type": "OBM"}
+    out = os.path.join(tmp, "w.docx")
+    ok(generate_document(td, vals, {}, {}, out)["ok"], "generated")
+    v = load_well_values(well_name=_wn)
+    ok(v.get("well_name") == _wn, "well loaded by name")
+    ok(v.get("mud_weight") == "12.5", "mud weight round-trip")
+    # second generation with different MW -> same well, latest value
+    vals2 = dict(vals, mud_weight="13.5")
+    generate_document(td, vals2, {}, {}, out)
+    v2 = load_well_values(well_name=_wn)
+    ok(v2.get("mud_weight") == "13.5", "latest revision loaded")
+    db = WellDatabase()
+    mine = [w for w in db.list_wells() if w.get("well_name") == _wn]
+    ok(len(mine) == 1, "no duplicate wells (upsert by name)",
+       f"{len(mine)} for {_wn}")
+    db.close()
+
+
 def test_section_presence_heading():
     print("\n[13] SECTION PRESENCE — heading-based, not phrase-based")
     from document_compliance import compliance_check
@@ -413,6 +444,7 @@ if __name__ == "__main__":
     test_engineering_ranges()
     test_section_presence_heading()
     test_witsml_wizard_prefill()
+    test_well_model_integration()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

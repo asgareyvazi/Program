@@ -133,6 +133,18 @@ class WellDatabase:
 
     def save_well(self, well: Well) -> str:
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        # Phase AE — upsert by well name: when no explicit id is given,
+        # reuse an existing well with the same name (stable identity),
+        # otherwise every generation would create a duplicate row.
+        if not well.well_id and well.well_name:
+            row = self.conn.execute(
+                "SELECT well_id FROM wells WHERE well_name=?",
+                (well.well_name,)).fetchone()
+            if row:
+                well.well_id = row["well_id"]
+                well.created_date = self.conn.execute(
+                    "SELECT created_date FROM wells WHERE well_id=?",
+                    (well.well_id,)).fetchone()["created_date"]
         if not well.well_id:
             well.well_id = uuid.uuid4().hex[:12].upper()
         if not well.created_date:
@@ -143,8 +155,14 @@ class WellDatabase:
             (well.well_id, well.well_name, well.field_name, well.operator,
              well.contractor, well.well_type, well.environment,
              well.created_date, well.modified_date))
-        # revisions
-        self.conn.execute("DELETE FROM revisions WHERE well_id=?", (well.well_id,))
+        # revisions — keep history: append the new revision instead of
+        # deleting the previous ones (max 25 kept)
+        if well.revisions:
+            self.conn.execute(
+                "DELETE FROM revisions WHERE well_id=? AND revision_id NOT IN "
+                "(SELECT revision_id FROM revisions WHERE well_id=? "
+                " ORDER BY revision_id DESC LIMIT 25)",
+                (well.well_id, well.well_id))
         for rev in well.revisions:
             cur = self.conn.execute(
                 "INSERT INTO revisions (well_id, revision, status, revision_date,"
@@ -292,3 +310,53 @@ if __name__ == "__main__":
           "| hole:", loaded.revisions[0].sections[0].hole_size_in)
     print("list:", db.list_wells()[0]["well_name"])
     db.close()
+
+
+def load_well_values(well_id: str = "", well_name: str = "") -> Dict:
+    """Phase AE — load the latest revision of a well back into a flat
+    wizard values dict (for pre-filling or cross-well comparison)."""
+    db = WellDatabase()
+    try:
+        wells = db.list_wells()
+        target = None
+        for w in wells:
+            wid = str(w.get("well_id") or w.get("id") or "")
+            wname = str(w.get("well_name") or "")
+            if (well_id and wid == well_id) or \
+                    (well_name and wname.lower() == well_name.lower()):
+                target = db.get_well(wid)
+                break
+        if target is None and not well_id and wells:
+            target = db.get_well(str(wells[0].get("well_id") or
+                                     wells[0].get("id") or ""))
+        if target is None:
+            return {}
+        rev = target.revisions[-1] if target.revisions else None
+        vals: Dict = {
+            "well_name": target.well_name,
+            "field_name": target.field_name,
+            "operator": target.operator,
+            "contractor": target.contractor,
+            "well_type": target.well_type,
+            "environment": target.environment,
+            "revision": rev.revision if rev else "",
+        }
+        if rev and rev.sections:
+            sec = rev.sections[-1]
+            if sec.hole_size_in:
+                vals["hole_size"] = str(sec.hole_size_in)
+            if sec.depth_to_m:
+                vals["depth_m"] = str(sec.depth_to_m)
+            if sec.casing_size_in:
+                vals["casing_size"] = str(sec.casing_size_in)
+            if sec.casing_grade:
+                vals["casing_grade"] = sec.casing_grade
+            if sec.mud_type:
+                vals["mud_type"] = sec.mud_type
+            if sec.mud_weight_ppg:
+                vals["mud_weight"] = str(sec.mud_weight_ppg)
+            if sec.bha_notes:
+                vals["bha_plan"] = sec.bha_notes
+        return vals
+    finally:
+        db.close()

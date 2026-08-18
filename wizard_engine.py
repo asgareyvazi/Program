@@ -857,7 +857,10 @@ def _build_field(spec: InputSpec) -> QWidget:
         w.addItems(spec.options or [])
         if spec.default and w.findText(spec.default) >= 0:
             w.setCurrentText(spec.default)
-        w.setEditable(True)
+        # Batch Y — a combo with a defined option list is NOT free-text:
+        # the user must pick one of the engineering options.  Only an
+        # empty option list becomes an editable free-text field.
+        w.setEditable(not bool(spec.options))
         return w
     if spec.type == "check":
         w = QCheckBox()
@@ -2545,6 +2548,16 @@ class _GeneratePage(QWizardPage):
                         operator=meta.get("operator", ""),
                         currency=cdb.get_currency())
                     if cbs_md:
+                        if not opts4d.get("cbs_selection"):
+                            # Batch Y — full-catalog fallback must be
+                            # declared in the document, never silent
+                            cbs_md = ("> ⚠️ **No goods/services were "
+                                      "selected by the user — the FULL "
+                                      "catalog is shown below as a "
+                                      "drafting aid. Prices are editable "
+                                      "defaults and must be confirmed "
+                                      "before issue as an AFE.**\n\n"
+                                      + cbs_md)
                         md = md.rstrip() + "\n\n---\n\n" + cbs_md
             except Exception:
                 import traceback

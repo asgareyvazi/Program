@@ -266,6 +266,39 @@ def test_time_breakdown_guard():
        "TB section included when no well named")
 
 
+def test_template_audit():
+    print("\n[8] TEMPLATE & PROCEDURE AUDIT — zero FAIL")
+    import tests.template_audit as ta
+    report = ta.run_audit()
+    ok(report["stats"]["total"] >= 230, "audited >= 230 items",
+       f"got {report['stats']['total']}")
+    ok(report["stats"]["fail"] == 0, "zero FAIL items",
+       f"{report['stats']['fail']} FAIL")
+    ok(report["stats"]["pass"] >= 150, ">= 150 PASS",
+       f"{report['stats']['pass']} PASS")
+
+
+def test_combo_not_editable():
+    print("\n[9] COMBO WITH OPTIONS IS NOT FREE-TEXT")
+    import wizard_engine as we
+    spec = we.InputSpec("kill_method", "Kill Method", "combo",
+                        options=["Wait and Weight", "Driller's Method"])
+    w = we._build_field(spec)
+    ok(hasattr(w, "isEditable"), "is a combo")
+    ok(not w.isEditable(), "combo with options locked")
+    spec2 = we.InputSpec("free", "Free Text", "combo", options=[])
+    w2 = we._build_field(spec2)
+    ok(w2.isEditable(), "combo without options editable")
+
+
+def test_standards_applicability_column():
+    print("\n[10] STANDARDS — applicability shown in document")
+    from standards_engine import compliance_markdown
+    md = compliance_markdown({"bop_wp": "10000", "masp": "2000"})
+    ok("Applicability" in md, "applicability column present")
+    ok("API RP 53" in md, "standard shown")
+
+
 if __name__ == "__main__":
     test_override_dialog_buttons()
     test_numeric_empty()
@@ -274,6 +307,9 @@ if __name__ == "__main__":
     test_validation_aliases()
     test_procedure_substitution()
     test_time_breakdown_guard()
+    test_template_audit()
+    test_combo_not_editable()
+    test_standards_applicability_column()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

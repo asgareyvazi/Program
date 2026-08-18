@@ -212,12 +212,13 @@ def compliance_markdown(values: Dict, operator: str = "") -> str:
     if operator:
         L.append(f"**Operator:** {operator}")
         L.append("")
-    L.append("| Rule ID | Standard | Subject | Status | Acceptance |")
-    L.append("|---|---|---|---|---|")
+    L.append("| Rule ID | Standard | Subject | Applicability | Status | "
+             "Acceptance |")
+    L.append("|---|---|---|---|---|---|")
     for r in rows:
         L.append(f"| {r['rule_id']} | {r['standard']} {r['revision']} | "
-                 f"{r['subject']} | **{r['status']}** | "
-                 f"{r['acceptance_criteria'][:60]} |")
+                 f"{r['subject']} | {r['applicability'][:40]} | "
+                 f"**{r['status']}** | {r['acceptance_criteria'][:50]} |")
     L.append("")
     L.append("**Legend:** PASS = satisfied by current inputs · "
              "FAIL = not satisfied (must resolve) · "

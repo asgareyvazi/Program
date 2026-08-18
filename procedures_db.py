@@ -2106,6 +2106,11 @@ class ProcedureEditorDialog(QDialog):
         btn_add_inp.clicked.connect(self._add_input)
         inp_btns.addWidget(btn_add_inp)
 
+        btn_edit_inp = QPushButton("✏️ Edit")
+        btn_edit_inp.setObjectName("edit")
+        btn_edit_inp.clicked.connect(self._edit_input)
+        inp_btns.addWidget(btn_edit_inp)
+
         btn_del_inp = QPushButton("🗑️ Delete")
         btn_del_inp.setObjectName("del")
         btn_del_inp.clicked.connect(self._del_input)
@@ -2458,6 +2463,69 @@ class ProcedureEditorDialog(QDialog):
         row = self.inp_list.currentRow()
         if row >= 0:
             self.inp_list.takeItem(row)
+
+    def _edit_input(self):
+        """Batch Y — full edit of a variable input: key/label/type/unit/
+        default/options/required."""
+        row = self.inp_list.currentRow()
+        if row < 0:
+            QMessageBox.information(self, "Edit Input",
+                                    "Select an input first.")
+            return
+        item = self.inp_list.item(row)
+        data = item.data(Qt.UserRole) or {}
+
+        key, ok = QInputDialog.getText(self, "Input Key", "Variable key:",
+                                       text=data.get('key', ''))
+        if not ok or not key:
+            return
+        label, ok2 = QInputDialog.getText(self, "Label", "Display label:",
+                                          text=data.get('label', ''))
+        if not ok2:
+            return
+        inp_type, ok3 = QInputDialog.getItem(
+            self, "Type", "Input type:",
+            ["text", "combo", "spin", "dspin", "check"],
+            ["text", "combo", "spin", "dspin", "check"].index(
+                data.get('type', 'text')), False)
+        if not ok3:
+            return
+        options = data.get('options', '')
+        default = data.get('default', '')
+        unit = data.get('unit', '')
+        if inp_type == "combo":
+            options, _ = QInputDialog.getText(
+                self, "Options", "Options (comma separated):",
+                text=options)
+        if inp_type in ("spin", "dspin"):
+            unit, _ = QInputDialog.getText(self, "Unit",
+                                           "Unit (e.g. ft, psi, ppg):",
+                                           text=unit)
+            default, _ = QInputDialog.getText(self, "Default",
+                                              "Default value:",
+                                              text=default)
+        if inp_type == "text":
+            default, _ = QInputDialog.getText(self, "Default",
+                                              "Default value:",
+                                              text=default)
+        required, okr = QMessageBox.question(
+            self, "Required?",
+            "Is this input REQUIRED (must be filled before release)?",
+            QMessageBox.Yes | QMessageBox.No,
+            QMessageBox.Yes if data.get('required') else QMessageBox.No)
+        required = (required == QMessageBox.Yes)
+
+        new_data = {
+            'key': key, 'label': label, 'type': inp_type,
+            'options': options, 'default': default, 'unit': unit,
+            'required': required,
+        }
+        item.setText(
+            f"[{inp_type}] {key}: {label}"
+            f"{' (required)' if required else ''}"
+            f"{' (' + options + ')' if options else ''}"
+            f"{' [' + unit + ']' if unit else ''}")
+        item.setData(Qt.UserRole, new_data)
             
 # ============================================================================
 # MAIN PROCEDURE MANAGER DIALOG

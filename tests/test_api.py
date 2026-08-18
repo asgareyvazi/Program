@@ -207,6 +207,25 @@ def main():
                     headers=H)
     ok(r.status_code == 200 and "<well " in r.json().get("xml", ""),
        "witsml export endpoint")
+    r = client.post("/api/witsml/import",
+                    json={"values": {"xml": (
+                        '<?xml version="1.0"?><wells '
+                        'xmlns="http://www.witsml.org/schemas/1series">'
+                        "<well><name>Imp</name><wellbore><trajectory>"
+                        "<trajectoryStation><md uom='ft'>1000</md>"
+                        "<inclination uom='deg'>10</inclination>"
+                        "<azimuth uom='deg'>90</azimuth>"
+                        "</trajectoryStation></trajectory></wellbore>"
+                        "</well></wells>")}},
+                    headers=H)
+    ok(r.status_code == 200 and r.json().get("well_name") == "Imp",
+       "witsml import endpoint")
+    r = client.post("/api/iadc-dull",
+                    json={"values": {"code": "2-3-WT-A-I-1-NO",
+                                     "reason_pulled": "TD"}},
+                    headers=H)
+    ok(r.status_code == 200 and r.json().get("status", "").startswith("OK"),
+       "iadc dull endpoint")
     r = client.post("/api/sensitivity",
                     json={"values": {"mud_weight": "12", "flow_rate": "300",
                                      "depth": "10000", "dp_id": "4.276",

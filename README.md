@@ -56,7 +56,10 @@
 - **📡 WITSML Export** — خروجی WITSML v1.4.1 + JSON (منو یا `/api/witsml`) (`witsml_export.py`)
 - **⚡ Auto-Prefill** — ورودیهای ویزارد از پروفایل چاه با نگاشت مترادف واژگان (Deviated ← Directional J-Type و…)
 - **🛡️ کیفیت محتوا و نشت صفر** — فیلتر sanitizer (حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل/تلفن)، لیست سیاه کامل کدهای چاه/میدان/مخزن (MB-013، GS 4-2، Asmari، Pabdeh…) با حفظ درجههای فولاد (S135)، scrub دیتابیس پروسیجرها، برچسب صادقانهٔ verbatim بدون LLM — سویت `tests/test_content_quality.py` (۷۲ تست)
-- - **🧾 Template & Procedure Audit خودکار** — `python3 tests/template_audit.py`: همهٔ قالبها و پروسیجرها از نظر placeholder/InputSchema/required/unit اسکن و گزارش PASS/FAIL/WARN میدهند (`audit_report.md`)
+- - **📥 WITSML Import** — دریافت WITSML (چاه/مسیر) و ادغام در ورودیهای ویزارد (`witsml_import.py`، `/api/witsml/import`)
+- **🪛 IADC Dull Grading** — تفسیر کد ۸کاراکتری IADC با ارزیابی وضعیت بیت و سکشن Word (`iadc_dull.py`، `/api/iadc-dull`)
+- **📦 بستهبندی سازمانی** — `pyinstaller packaging/DrillingProgram.spec` + اسکریپتهای build ویندوز/لینوکس (توزیع تکپوشه با کتابخانهٔ دانش)
+- **🧾 Template & Procedure Audit خودکار** — `python3 tests/template_audit.py`: همهٔ قالبها و پروسیجرها از نظر placeholder/InputSchema/required/unit اسکن و گزارش PASS/FAIL/WARN میدهند (`audit_report.md`)
 - **🔍 Document Integrity QA (Batch X)** — placeholder یکپارچه ({{x}}/{x}) + Audit نهایی با بلاک خروجی، فیلد عددی خالی ≠ 0، alias کلیدهای ورودی (fracture_gradient/formation_pressure/depth ft)، جمعآوری ورودی Procedure DB با جایگذاری در steps + گزارش پارامترهای حلنشده، گارد Time Breakdown بینپروژهای، گیت CRITICAL headless، دیالوگ Override اصلاحشده — سویت `tests/test_integrity.py` (۲۳ تست)
 - **✅ سامانهٔ اعتبارسنجی جامع خروجی** — به همهٔ ۵۱ قالب و ۱۲ قابلیت دادهٔ پیشفرض کامل داده، خروجی واقعی تولید و صحت فرمت/متن/ساختار آن را بررسی میکند (۷۲۱ تست: `tests/validate_outputs.py`)؛ نمونههای اعتبارسنجیشده در `sample_outputs/` با `python3 tests/validate_outputs.py --export` قابل تولید است
 - **📈 Sensitivity Analysis (Tornado)** — رتبهبندی ورودیهای بحرانی (اثر ±Δ بر SPP/ECD/KMW/MAASP/هزینه) + سکشن «SENSITIVITY SCREENING» و «Control parameters» در سند (`engineering_sensitivity.py`)

@@ -455,6 +455,34 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         return {"xml": build_witsml(req.values),
                 "json": build_json(req.values)}
 
+    @app.post("/api/witsml/import")
+    def witsml_import(req: RegisterRequest):
+        from witsml_import import parse_witsml
+        xml_text = req.values.get("xml", "") if isinstance(
+            req.values, dict) else ""
+        if not xml_text:
+            raise HTTPException(status_code=400,
+                                detail="values.xml is required")
+        try:
+            return parse_witsml(xml_text)
+        except Exception as e:
+            raise HTTPException(status_code=400,
+                                detail=f"WITSML parse failed: {e}")
+
+    @app.post("/api/iadc-dull")
+    def iadc_dull(req: RegisterRequest):
+        from iadc_dull import parse_dull
+        code = (req.values or {}).get("code", "")
+        d = parse_dull(code, (req.values or {}).get("reason_pulled", ""))
+        return {"raw": d.raw, "inner": d.inner, "outer": d.outer,
+                "dull": d.dull, "dull_desc": d.dull_desc,
+                "location": d.location, "location_desc": d.location_desc,
+                "bearing": d.bearing, "bearing_desc": d.bearing_desc,
+                "other": d.other, "other_desc": d.other_desc,
+                "wear_fraction": d.wear_fraction(),
+                "bearing_fraction": d.bearing_fraction(),
+                "status": d.status(), "valid": d.valid}
+
     @app.post("/api/sensitivity")
     def sensitivity(req: RegisterRequest):
         from engineering_sensitivity import sensitivity_analysis

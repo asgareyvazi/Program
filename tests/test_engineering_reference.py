@@ -679,6 +679,67 @@ def test_special_wells():
            "checks shown")
 
 
+def test_witsml_import():
+    print("\n[27b] WITSML IMPORT (telemetry ingest)")
+    from witsml_import import parse_witsml, apply_witsml_to_values
+    xml = """<?xml version="1.0" encoding="UTF-8"?>
+<wells xmlns="http://www.witsml.org/schemas/1series" version="1.4.1.1">
+  <well uid="w1">
+    <name>Imported Well</name>
+    <field>Imported Field</field>
+    <operator>the Operator</operator>
+    <wellbore uid="wb1">
+      <trajectory uid="t1">
+        <trajectoryStation uid="s1">
+          <md uom="ft">0.0</md><inclination uom="deg">0.0</inclination>
+          <azimuth uom="deg">0.0</azimuth>
+        </trajectoryStation>
+        <trajectoryStation uid="s2">
+          <md uom="ft">10000.0</md><inclination uom="deg">30.0</inclination>
+          <azimuth uom="deg">90.0</azimuth>
+        </trajectoryStation>
+      </trajectory>
+    </wellbore>
+  </well>
+</wells>"""
+    p = parse_witsml(xml)
+    approx(p["well_name"], "Imported Well", 0, "import well name")
+    approx(p["field"], "Imported Field", 0, "import field")
+    approx(len(p["stations"]), 2, 0, "import stations")
+    approx("10000.0" in p["trajectory_table"], True, 0,
+           "import trajectory table")
+    # merge only fills empty keys
+    v = apply_witsml_to_values(xml, {"well_name": "Keep Me"})
+    approx(v["well_name"], "Keep Me", 0, "merge keeps existing value")
+    approx(v["operator"], "the Operator", 0, "merge fills empty key")
+    # bad xml -> ValueError
+    try:
+        parse_witsml("<not-witsml/>")
+        approx(True, False, 0, "bad xml raises")
+    except ValueError:
+        approx(True, True, 0, "bad xml raises")
+
+
+def test_iadc_dull():
+    print("\n[27c] IADC DULL BIT GRADING")
+    from iadc_dull import (parse_dull, dull_markdown)
+    d = parse_dull("2-3-WT-A-I-1-NO", "TD reached")
+    approx(d.valid, True, 0, "dash code valid")
+    approx(d.inner, "2", 0, "inner 2/8")
+    approx(d.outer, "3", 0, "outer 3/8")
+    approx(d.wear_fraction(), 3 / 8, 1e-9, "wear fraction")
+    approx(d.status().startswith("OK"), True, 0, "continue status")
+    d2 = parse_dull("8-8-BT-A-8-BF", "Bearing failure")
+    approx(d2.wear_fraction(), 1.0, 1e-9, "full wear")
+    approx(d2.status().startswith("REPLACE"), True, 0, "replace status")
+    approx(d2.bearing_fraction(), 1.0, 1e-9, "bearing failed")
+    d3 = parse_dull("XX")
+    approx(d3.valid, False, 0, "invalid code flagged")
+    md = dull_markdown("2-3-WT-A-I-1-NO", "TD reached", "PDC", 120, 9500)
+    approx("IADC DULL BIT GRADING" in md, True, 0, "section heading")
+    approx("Worn" in md, True, 0, "dull description shown")
+
+
 def test_witsml():
     print("\n[27] WITSML / JSON EXPORT (telemetry handoff)")
     from witsml_export import (build_witsml, build_json, export_witsml,
@@ -805,7 +866,8 @@ def main():
                test_structured_steps, test_anticollision, test_advanced_casing,
                test_decision_trees, test_hydraulics_model, test_wellcontrol,
                test_geomechanics, test_cementing,
-               test_special_wells, test_witsml, test_sensitivity,
+               test_special_wells, test_witsml_import, test_iadc_dull,
+               test_witsml, test_sensitivity,
                test_afe_materials, test_backup_secrets, test_well_report):
         try:
             fn()

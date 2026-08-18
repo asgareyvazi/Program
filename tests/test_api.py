@@ -188,6 +188,13 @@ def main():
        f"cbs items: {r.json()['count']}")
     r = client.get("/api/wells", headers=H)
     ok(r.status_code == 200, "wells 200")
+    r = client.get("/api/wells/report", headers=H)
+    ok(r.status_code == 200 and "stats" in r.json(), "wells report 200")
+    r = client.get("/api/wells/similar",
+                   params={"target": '{"well_type":"Development"}'},
+                   headers=H)
+    ok(r.status_code == 200 and "similar" in r.json(),
+       "wells similar 200")
     r = client.get("/api/backups", headers=H)
     ok(r.status_code == 200, "backups list 200")
     r = client.post("/api/backup", json={"tag": "api_test"}, headers=H)

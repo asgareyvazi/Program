@@ -896,6 +896,66 @@ def test_backup_secrets():
     approx(sm.get_secret("t_k"), "", 0, "secret deleted")
 
 
+def test_well_intelligence():
+    print("\n[32] CROSS-WELL INTELLIGENCE (offset similarity + report)")
+    from well_intelligence import (similar_wells, suggest_inputs,
+                                   comparison_markdown,
+                                   well_database_report,
+                                   well_report_markdown)
+    from well_model import WellDatabase, well_from_values
+    db = WellDatabase()
+    w1 = well_from_values("", {"well_name": "CI-W1", "field_name": "F1",
+                               "well_type": "Development",
+                               "mud_weight": "12", "td_depth": "10000",
+                               "hole_size": "12.25", "casing_size": "9.625",
+                               "mud_type": "OBM"})
+    w2 = well_from_values("", {"well_name": "CI-W2", "field_name": "F1",
+                               "well_type": "Development",
+                               "mud_weight": "12.5", "td_depth": "10100",
+                               "hole_size": "12.25", "casing_size": "9.625",
+                               "mud_type": "OBM"})
+    w3 = well_from_values("", {"well_name": "CI-W3", "field_name": "F9",
+                               "well_type": "Exploration",
+                               "mud_weight": "9", "td_depth": "3000",
+                               "hole_size": "17.5", "casing_size": "13.375",
+                               "mud_type": "WBM"})
+    db.save_well(w1)
+    db.save_well(w2)
+    db.save_well(w3)
+    db.close()
+    sims = similar_wells({"well_name": "CI-W1", "well_type": "Development",
+                          "mud_weight": "12", "hole_size": "12.25"},
+                         top_n=10)
+    names = [s["well_name"] for s in sims]
+    approx("CI-W2" in names, True, 0, "similar well ranked")
+    approx(names.index("CI-W2") < names.index("CI-W3"), True, 0,
+           "similar above dissimilar")
+    s = suggest_inputs({"well_name": "CI-NEW",
+                        "well_type": "Development"})
+    approx(bool(s["offset_well"]), True, 0, "suggestion source found")
+    md = comparison_markdown([w1.well_id, w2.well_id])
+    approx("OFFSET WELL COMPARISON" in md, True, 0, "comparison section")
+    rep = well_database_report()
+    approx(rep["wells"] >= 3, True, 0, "report counts wells")
+    rmd = well_report_markdown()
+    approx("WELL DATABASE REPORT" in rmd, True, 0, "report markdown")
+    # deep-verify includes offset section
+    from engineering_deep import deep_verify_markdown
+    dm = deep_verify_markdown({"well_name": "CI-W1",
+                               "well_type": "Development",
+                               "mud_weight": "12", "td_depth": "10000"},
+                              None, "the Operator")
+    approx("Offset-Well Intelligence" in dm, True, 0,
+           "deep verify offset section")
+    # cleanup
+    db = WellDatabase()
+    for n in ("CI-W1", "CI-W2", "CI-W3"):
+        for w in db.list_wells():
+            if w.get("well_name") == n:
+                db.delete_well(w["well_id"])
+    db.close()
+
+
 def test_well_report():
     print("\n[31] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
@@ -920,7 +980,7 @@ def main():
                test_geomechanics, test_cementing,
                test_special_wells, test_torque_drag, test_kick_fluid,
                test_witsml_import, test_iadc_dull,
-               test_witsml, test_sensitivity,
+               test_witsml, test_sensitivity, test_well_intelligence,
                test_afe_materials, test_backup_secrets, test_well_report):
         try:
             fn()

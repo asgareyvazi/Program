@@ -1795,7 +1795,129 @@ class _InputsPage(QWizardPage):
         deep_lay.addLayout(rop_row)
         self._rop_calib: Optional[dict] = None
         self.form_lay.addWidget(deep_group)
+
+        # Phase AF — Cross-Well Intelligence: load a stored well / offset
+        # suggestions to pre-fill the inputs
+        cw_group = QGroupBox("🕳️  Offset-Well Intelligence")
+        cw_lay = QVBoxLayout(cw_group)
+        cw_row = QHBoxLayout()
+        self.btn_load_well = QPushButton("📂  Load Inputs from Stored Well…")
+        self.btn_load_well.setMaximumWidth(260)
+        self.btn_load_well.clicked.connect(self._open_load_well)
+        cw_row.addWidget(self.btn_load_well)
+        self.btn_suggest = QPushButton("✨  Suggest from Similar Offset Well")
+        self.btn_suggest.setMaximumWidth(280)
+        self.btn_suggest.clicked.connect(self._open_suggest)
+        cw_row.addWidget(self.btn_suggest)
+        cw_row.addStretch(1)
+        cw_lay.addLayout(cw_row)
+        self.lbl_cw = QLabel(
+            "Load a previously generated well from the local well "
+            "database (wells.db), or let the engine suggest inputs from "
+            "the most similar stored well.")
+        self.lbl_cw.setStyleSheet("color:#8a8a9a;font-size:10px;")
+        self.lbl_cw.setWordWrap(True)
+        cw_lay.addWidget(self.lbl_cw)
+        self.form_lay.addWidget(cw_group)
         self.form_lay.addStretch()
+
+    def _open_load_well(self):
+        """Phase AF — pick a stored well and pre-fill matching inputs."""
+        try:
+            from well_intelligence import all_well_profiles
+            profiles = all_well_profiles()
+            if not profiles:
+                QMessageBox.information(
+                    self, "No Stored Wells",
+                    "The well database is empty. Generate at least one "
+                    "document first (each generation stores the well).")
+                return
+            items = [f"{p['well_name']} | {p['field_name'] or '—'} | "
+                     f"{p['well_type'] or '—'} | {p['depth_to_m']:,.0f} m "
+                     f"| {p['n_revisions']} rev"
+                     for p in profiles]
+            item, ok = QInputDialog.getItem(
+                self, "Load Stored Well", "Select a well:", items, 0,
+                False)
+            if not ok:
+                return
+            prof = profiles[items.index(item)]
+            self._apply_well_profile(prof)
+            self.lbl_cw.setText(
+                f"✔ Loaded inputs from stored well "
+                f"'{prof['well_name']}' (offset-well intelligence).")
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Load Well", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _open_suggest(self):
+        """Phase AF — suggest inputs from the most similar stored well."""
+        try:
+            from well_intelligence import suggest_inputs
+            wiz = self.wizard()
+            page1 = wiz.page(1)
+            prof = page1.profile() if hasattr(page1, "profile") else {}
+            current = {k: self.widgets[k].text().strip()
+                       for k in self.widgets
+                       if isinstance(self.widgets[k], QLineEdit)}
+            target = dict(prof, **current)
+            res = suggest_inputs(target)
+            if not res.get("offset_well"):
+                QMessageBox.information(
+                    self, "No Similar Well",
+                    "No comparable stored well found — generate a few "
+                    "documents first to build the well database.")
+                return
+            sugg = res["suggestions"]
+            applied = 0
+            for key, val in sugg.items():
+                w = self.widgets.get(key)
+                if w is None:
+                    continue
+                if isinstance(w, QLineEdit) and not w.text().strip():
+                    w.setText(str(val))
+                    applied += 1
+                elif isinstance(w, QComboBox):
+                    idx = w.findText(str(val))
+                    if idx >= 0 and w.currentIndex() == 0:
+                        w.setCurrentIndex(idx)
+                        applied += 1
+            self.lbl_cw.setText(
+                f"✔ Suggested from offset well "
+                f"'{res['offset_well']}' — {applied} input(s) applied. "
+                f"Review before generating.")
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Suggest", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _apply_well_profile(self, prof: Dict):
+        mapping = {
+            "well_name": "well_name", "field_name": "field_name",
+            "operator": "operator", "well_type": "well_type",
+            "mud_weight_ppg": "mud_weight",
+            "hole_size_in": "hole_size",
+            "casing_size_in": "casing_size",
+            "mud_type": "mud_type",
+        }
+        for src, dst in mapping.items():
+            val = prof.get(src)
+            if not val:
+                continue
+            w = self.widgets.get(dst)
+            if w is None:
+                continue
+            if isinstance(w, QLineEdit) and not w.text().strip():
+                w.setText(str(val))
+            elif isinstance(w, QComboBox):
+                idx = w.findText(str(val))
+                if idx >= 0 and w.currentIndex() == 0:
+                    w.setCurrentIndex(idx)
+        if prof.get("depth_to_m"):
+            w = self.widgets.get("depth_m")
+            if isinstance(w, QLineEdit) and not w.text().strip():
+                w.setText(str(round(prof["depth_to_m"], 0)))
 
     def _open_rop_calib(self):
         dlg = ROPCalibrationDialog(self, current=self._rop_calib)

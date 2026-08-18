@@ -251,6 +251,45 @@ def test_tab_ampersand(app):
     win.close()
 
 
+def test_offset_intelligence_ui(app):
+    print("\n[8] OFFSET-WELL INTELLIGENCE UI — buttons present + load flow")
+    from wizard_engine import GeneratorWizard
+    from well_model import WellDatabase, well_from_values
+    # seed a well
+    db = WellDatabase()
+    w = well_from_values("", {"well_name": "UI-Offset-1",
+                              "well_type": "Development",
+                              "mud_weight": "12", "td_depth": "10000",
+                              "hole_size": "12.25", "casing_size": "9.625",
+                              "mud_type": "OBM"})
+    db.save_well(w)
+    db.close()
+    wiz = GeneratorWizard()
+    wiz.show()
+    app.processEvents()
+    wiz.setCurrentId(3)
+    app.processEvents()
+    p3 = wiz.page(3)
+    ok(hasattr(p3, "btn_load_well"), "load-well button present")
+    ok(hasattr(p3, "btn_suggest"), "suggest button present")
+    # apply a profile programmatically (the dialog path is modal)
+    from well_intelligence import all_well_profiles
+    profs = [p for p in all_well_profiles()
+             if p["well_name"] == "UI-Offset-1"]
+    if profs:
+        p3._apply_well_profile(profs[0])
+        from PySide6.QtWidgets import QLineEdit
+        w = p3.widgets.get("well_name")
+        ok(isinstance(w, QLineEdit) and w.text() == "UI-Offset-1",
+           "well_name loaded from stored well", w.text() if w else "no")
+    wiz.close()
+    db = WellDatabase()
+    for wl in db.list_wells():
+        if wl.get("well_name") == "UI-Offset-1":
+            db.delete_well(wl["well_id"])
+    db.close()
+
+
 def docx_text(path):
     from docx import Document
     d = Document(path)
@@ -272,6 +311,7 @@ if __name__ == "__main__":
         test_step_editor(app)
         test_profile_prefill(app)
         test_tab_ampersand(app)
+        test_offset_intelligence_ui(app)
     finally:
         app.processEvents()
     print("\n" + "=" * 60)

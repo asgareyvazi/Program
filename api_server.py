@@ -421,6 +421,27 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         finally:
             db.close()
 
+    @app.get("/api/wells/similar", dependencies=AUTH_DEP)
+    def similar_wells(target: str = Query("", max_length=300)):
+        import json
+        from well_intelligence import similar_wells as sw
+        from well_intelligence import all_well_profiles
+        target_dict = {}
+        if target:
+            try:
+                target_dict = json.loads(target)
+            except Exception:
+                target_dict = {"well_name": target}
+        sims = sw(target_dict, top_n=5) if target_dict else []
+        return {"similar": sims, "stored": len(all_well_profiles())}
+
+    @app.get("/api/wells/report", dependencies=AUTH_DEP)
+    def well_report():
+        from well_intelligence import (well_database_report,
+                                       well_report_markdown)
+        return {"stats": well_database_report(),
+                "markdown": well_report_markdown()}
+
     # ---------------- backups ----------------
     @app.get("/api/backups", dependencies=AUTH_DEP)
     def backups():

@@ -484,6 +484,36 @@ def deep_verify_markdown(values: Dict, rop_calib: Optional[Dict] = None,
     except Exception:
         pass
 
+    # -- 4g. Offset-well intelligence (Phase AF) ------------------------------
+    try:
+        from well_intelligence import (similar_wells, comparison_markdown,
+                                       well_report_markdown)
+        target = {"well_name": _pick(v, "well_name", "wellname"),
+                  "well_type": _pick(v, "well_type", "well_profile"),
+                  "field_name": _pick(v, "field_name", "field"),
+                  "mud_weight": _pick(v, "mud_weight", "mud_weight_ppg"),
+                  "hole_size": _pick(v, "hole_size", "hole_id"),
+                  "depth_m": _pick(v, "depth_m", "td_m")}
+        sims = similar_wells(target, top_n=3)
+        if sims:
+            lines.append("")
+            lines.append("### Offset-Well Intelligence — Similar Stored "
+                         "Wells")
+            lines.append("")
+            lines.append("| Offset well | Field | Type | Depth (m) | MW (ppg) "
+                         "| Similarity |")
+            lines.append("|---|---|---|---|---|---|")
+            for s in sims:
+                lines.append(f"| {s['well_name']} | {s['field_name'] or '—'} "
+                             f"| {s['well_type'] or '—'} | "
+                             f"{s['depth_to_m']:,.0f} | "
+                             f"{s['mud_weight_ppg']:g} | "
+                             f"{s['similarity']:.2f} |")
+            lines.append("")
+            checks += 1
+    except Exception:
+        pass
+
     # -- 5. Anti-collision (trajectory-based) --------------------------------
     lines.append("")
     lines.append("### Anti-Collision — Minimum Curvature + Separation Factor")

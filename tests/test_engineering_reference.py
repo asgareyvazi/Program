@@ -740,6 +740,58 @@ def test_iadc_dull():
     approx("Worn" in md, True, 0, "dull description shown")
 
 
+def test_torque_drag():
+    print("\n[26b] TORQUE & DRAG — soft-string + friction calibration")
+    from engineering_td import (hook_load, surface_torque,
+                                helical_buckling_load, calibrate_friction,
+                                buoyancy_factor, td_markdown)
+    vert = [{"weight_ppf": 20, "length": 10000, "od": 5, "inclination": 0,
+             "is_cased": False}]
+    r = hook_load(vert, 12.0, "out")
+    bf = buoyancy_factor(12.0)
+    approx(r["hook_load_lbs"], 200000 * bf, 1.0, "vertical hook load = buoyed")
+    approx(r["drag_lbs"], 0.0, 1e-6, "vertical drag = 0")
+    horiz = [{"weight_ppf": 20, "length": 1000, "od": 5,
+              "inclination": 90, "is_cased": False}]
+    r2 = hook_load(horiz, 12.0, "out")
+    approx(r2["axial_lbs"], 0.0, 1e-6, "horizontal axial = 0")
+    approx(r2["drag_lbs"] > 0, True, 0, "horizontal drag > 0")
+    t = surface_torque(vert, 12.0)
+    approx(t["torque_ft_lb"], 0.0, 1e-6, "vertical torque = 0")
+    # calibration recovers the true friction factor
+    secs = [{"weight_ppf": 20, "length": 8000, "od": 5, "inclination": 45,
+             "is_cased": False}]
+    meas = [{"sections": secs, "mud_weight": 12.0,
+             "hook_load_actual_lbs": hook_load(secs, 12.0, "out",
+                                               friction_open=0.40)[
+                 "hook_load_lbs"]} for _ in range(3)]
+    c = calibrate_friction(meas)
+    approx(c["fitted"], True, 0, "calibration fitted")
+    approx(c["friction_open"], 0.40, 0.01, "friction recovered")
+    # buckling
+    bk = helical_buckling_load(5, 4.276, 1, 12, 45)
+    approx(bk["buckling_lbs"] > 0, True, 0, "buckling load computed")
+    md = td_markdown({"mud_weight": "12", "sections": secs})
+    approx("TORQUE & DRAG" in md, True, 0, "section heading")
+    approx("Hook load tripping OUT" in md, True, 0, "hook load shown")
+
+
+def test_kick_fluid():
+    print("\n[26c] KICK FLUID CLASSIFICATION + CHOKE-LINE FRICTION")
+    from engineering_wellcontrol import (kick_fluid_analysis,
+                                         choke_line_friction_pressure)
+    approx(kick_fluid_analysis(900, 400, 12, 10000)["kick_type"], "gas",
+           0, "large delta -> gas")
+    approx(kick_fluid_analysis(420, 400, 12, 10000)["kick_type"], "water",
+           0, "small delta -> water")
+    approx(kick_fluid_analysis(480, 400, 12, 10000)["kick_type"], "oil",
+           0, "medium delta -> oil")
+    approx(kick_fluid_analysis(480, 400, 12, 10000, "water")["kick_type"],
+           "water", 0, "explicit type respected")
+    cl = choke_line_friction_pressure(500, 6, 5000, 12, 25)
+    approx(cl > 0, True, 0, "choke-line friction computed")
+
+
 def test_witsml():
     print("\n[27] WITSML / JSON EXPORT (telemetry handoff)")
     from witsml_export import (build_witsml, build_json, export_witsml,
@@ -866,7 +918,8 @@ def main():
                test_structured_steps, test_anticollision, test_advanced_casing,
                test_decision_trees, test_hydraulics_model, test_wellcontrol,
                test_geomechanics, test_cementing,
-               test_special_wells, test_witsml_import, test_iadc_dull,
+               test_special_wells, test_torque_drag, test_kick_fluid,
+               test_witsml_import, test_iadc_dull,
                test_witsml, test_sensitivity,
                test_afe_materials, test_backup_secrets, test_well_report):
         try:

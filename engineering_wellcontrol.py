@@ -96,6 +96,73 @@ def gas_migration_rate(static_mud_ppg: float, gas_gradient_ppg: float,
 
 
 # ---------------------------------------------------------------------------
+# Kick fluid type (Batch AB — the audit noted the scenario does not
+# distinguish gas / water / oil kicks, which changes gradient & behaviour)
+# ---------------------------------------------------------------------------
+
+KICK_FLUIDS = {
+    "gas":   {"gradient_ppg": 0.2,  "note": "Gas kick — expands as it "
+              "rises; surface pressures rise fastest; migration likely."},
+    "water": {"gradient_ppg": 8.6,  "note": "Water kick (salt water "
+              "influx) — near-mud gradient, little expansion; lower "
+              "surface pressure but formation damage risk."},
+    "oil":   {"gradient_ppg": 5.5,  "note": "Oil kick — moderate "
+              "expansion; pressure behaviour between gas and water."},
+}
+
+
+def kick_fluid_analysis(sicp_psi: float, sidpp_psi: float, mw_ppg: float,
+                        tvd_ft: float, kick_type: str = "") -> Dict:
+    """Classify the kick fluid and estimate its gradient/behaviour.
+
+    When kick_type is not given, the SICP−SIDPP difference hints at the
+    fluid: a large Δ (≈ 100+ psi for shallow kicks) suggests gas; a small
+    Δ suggests water/oil."""
+    ft = kick_type.strip().lower() if kick_type else ""
+    if ft not in KICK_FLUIDS:
+        d = sicp_psi - sidpp_psi
+        if tvd_ft > 0:
+            # pressure (psi) per 1000 ft of open hole from the kick:
+            # dP/1000ft ≈ d / (tvd_ft/1000)  — a gas column shows a large
+            # gradient difference vs the mud; water/oil show small Δ
+            d_per_1000 = d / (tvd_ft / 1000.0)
+            if d_per_1000 > 25:
+                ft = "gas"
+            elif d_per_1000 > 5:
+                ft = "oil"
+            else:
+                ft = "water"
+        else:
+            ft = "gas" if d > 15 else "water"
+    info = dict(KICK_FLUIDS.get(ft, KICK_FLUIDS["gas"]))
+    info["kick_type"] = ft
+    return info
+
+
+def choke_line_friction_pressure(flow_gpm: float, choke_line_id_in: float,
+                                 choke_line_length_ft: float,
+                                 mw_ppg: float, pv_cp: float) -> float:
+    """Deepwater choke-line friction (psi) at the circulation rate —
+    relevant for MPD / subsea BOP systems (Batch AB)."""
+    if choke_line_id_in <= 0 or flow_gpm <= 0 or \
+            choke_line_length_ft <= 0:
+        return 0.0
+    # laminar pipe friction (same constants as the hydraulics model)
+    v = 24.5 * flow_gpm / (choke_line_id_in ** 2)
+    re = 928 * mw_ppg * (v / 60.0) * choke_line_id_in / max(pv_cp, 0.1)
+    if re < 2100:
+        dp = (pv_cp * v * choke_line_length_ft /
+              (90000 * choke_line_id_in ** 2))
+    else:
+        f = 0.3164 / (re ** 0.25)
+        rho = mw_ppg * 7.4805
+        d_ft = choke_line_id_in / 12.0
+        dp = f * (choke_line_length_ft / d_ft) * \
+            (rho * (v / 60.0) ** 2) / (2 * 32.174 * 144.0)
+    return round(dp, 1)
+
+
+# ---------------------------------------------------------------------------
 # Scenario branching
 # ---------------------------------------------------------------------------
 
@@ -212,6 +279,26 @@ def kick_scenario(values: Dict) -> List[Dict]:
         ],
         "escalate": "Kill sheet execution",
     })
+    # 3b. kick fluid classification (Batch AB)
+    if sidpp > 0 and sicp > 0 and mw > 0 and tvd > 0:
+        kt = _pick("kick_type")
+        fa = kick_fluid_analysis(sicp, sidpp, mw, tvd, kt)
+        steps.append({
+            "step": 3,
+            "condition": "Kick fluid classification",
+            "interpretation": (f"Kick fluid: **{fa['kick_type'].upper()}** "
+                               f"(gradient ≈ {fa['gradient_ppg']:g} ppg). "
+                               f"{fa['note']}"),
+            "actions": [
+                "1. Gas: expect rapid expansion — bleed & lubricate, "
+                "keep BHP constant, watch casing pressure build.",
+                "2. Water: near-mud gradient — lower surface risk, but "
+                "verify formation damage & kill-fluid compatibility.",
+                "3. Oil: moderate expansion — standard kill, monitor "
+                "gas breakout at surface.",
+            ],
+            "escalate": "Kill sheet execution",
+        })
     # 4. gas migration
     if gain > 0 and mw > 0:
         mig = gas_migration_rate(mw, 0.2, max(0.04, annular_capacity_bbl_ft(

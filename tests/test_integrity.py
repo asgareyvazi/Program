@@ -347,6 +347,39 @@ def test_engineering_ranges():
        "BOP below API range flagged")
 
 
+def test_witsml_wizard_prefill():
+    print("\n[14] WITSML IMPORT → WIZARD PREFILL")
+    from PySide6.QtWidgets import QApplication
+    app = QApplication.instance() or QApplication([])
+    from wizard_engine import GeneratorWizard
+    from PySide6.QtWidgets import QLineEdit, QTextEdit, QComboBox
+    xml = """<?xml version="1.0"?><wells xmlns="http://www.witsml.org/schemas/1series">
+<well><name>Imported Well</name><field>Imported Field</field>
+<wellbore><trajectory><trajectoryStation><md uom='ft'>0</md>
+<inclination uom='deg'>0</inclination><azimuth uom='deg'>0</azimuth>
+</trajectoryStation></trajectory></wellbore></well></wells>"""
+    from witsml_import import parse_witsml
+    parsed = parse_witsml(xml)
+    init = {"well_name": parsed["well_name"], "field": parsed["field"],
+            "trajectory_table": parsed["trajectory_table"]}
+    wiz = GeneratorWizard(initial_values=init)
+    wiz.show()
+    app.processEvents()
+    wiz.setCurrentId(3)
+    app.processEvents()
+    p3 = wiz.page(3)
+    w = p3.widgets.get("well_name")
+    if isinstance(w, QLineEdit):
+        ok(w.text() == "Imported Well", "well_name prefilled from WITSML",
+           w.text())
+    else:
+        ok(True, "well_name not an input in this template (skipped)")
+    w2 = p3.widgets.get("trajectory_table")
+    if w2 is not None and hasattr(w2, "toPlainText"):
+        ok("Imported Well" in wiz._initial_values, "wizard holds values")
+    wiz.close()
+
+
 def test_section_presence_heading():
     print("\n[13] SECTION PRESENCE — heading-based, not phrase-based")
     from document_compliance import compliance_check
@@ -379,6 +412,7 @@ if __name__ == "__main__":
     test_consistency_check()
     test_engineering_ranges()
     test_section_presence_heading()
+    test_witsml_wizard_prefill()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

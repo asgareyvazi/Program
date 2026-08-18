@@ -1644,6 +1644,27 @@ class _InputsPage(QWizardPage):
                 self.widgets[spec.key] = w
                 self._specs[spec.key] = spec
 
+        # Batch AC — prefill from imported WITSML values (File → Import
+        # WITSML): well identity, water depth and the trajectory table.
+        try:
+            wiz0 = self.wizard()
+            init = getattr(wiz0, "_initial_values", None) or {}
+            for key, val in init.items():
+                w = self.widgets.get(key)
+                if w is None or not str(val).strip():
+                    continue
+                if isinstance(w, QLineEdit) and not w.text().strip():
+                    w.setText(str(val))
+                elif isinstance(w, QComboBox):
+                    idx = w.findText(str(val))
+                    if idx >= 0 and w.currentIndex() == 0:
+                        w.setCurrentIndex(idx)
+                elif isinstance(w, QTextEdit) and \
+                        not w.toPlainText().strip():
+                    w.setPlainText(str(val))
+        except Exception:
+            pass
+
         # Auto-prefill from the Well Profile page (roadmap: "Prefill
         # inputs from the well profile") — profile fields are mapped onto
         # template inputs (semantic aliases: well_type -> well_profile).
@@ -2937,9 +2958,10 @@ QWizard QLineEdit, QWizard QComboBox { min-height: 30px; }
 class GeneratorWizard(QWizard):
     """The universal program & procedure generator wizard."""
 
-    def __init__(self, parent=None):
+    def __init__(self, parent=None, initial_values: Optional[Dict] = None):
         super().__init__(parent)
         self.setWindowTitle("🧙  Program & Procedure Generator Wizard")
+        self._initial_values = dict(initial_values or {})
         self.setMinimumSize(1100, 760)
         self.setWizardStyle(QWizard.ModernStyle)
         self.setOption(QWizard.NoBackButtonOnStartPage, True)
@@ -2970,9 +2992,13 @@ class GeneratorWizard(QWizard):
         self.setStartId(0)
 
 
-def run_wizard(parent=None) -> Optional[str]:
-    """Launch the wizard; returns the generated document path if any."""
-    wiz = GeneratorWizard(parent)
+def run_wizard(parent=None, initial_values: Optional[Dict] = None) -> Optional[str]:
+    """Launch the wizard; returns the generated document path if any.
+
+    initial_values (Batch AC): values pre-filled into the inputs page —
+    used by File → Import WITSML so an imported well/trajectory arrives
+    pre-populated."""
+    wiz = GeneratorWizard(parent, initial_values=initial_values)
     if wiz.exec() == QDialog.Accepted:
         gen_page = wiz.page(6)
         if hasattr(gen_page, "_last_path") and gen_page._last_path:

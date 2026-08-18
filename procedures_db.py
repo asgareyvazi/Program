@@ -2609,7 +2609,7 @@ def generate_procedures_docx(db, proc_ids, out_path,
         doc.add_paragraph("")
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        r = p.add_run("DRILLING OPERATIONS\nPROCEDURES & CHECKLISTS")
+        r = p.add_run("DRILLING OPERATIONS\nPROCEDURES && CHECKLISTS")
         r.bold = True
         r.font.size = Pt(28)
         r.font.color.rgb = RGBColor(0x0F, 0x34, 0x60)

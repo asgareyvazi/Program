@@ -2858,7 +2858,7 @@ class DrillingProgramMainWindow(QMainWindow):
             "Drilling Program Generator Pro v3.1 | "
             "Professional Drilling Program & Procedure Generator"
         )
-        self.setMinimumSize(1400, 900)
+        self.setMinimumSize(1150, 760)
         self.project = WellProject()
 
         self.setup_ui()
@@ -2878,11 +2878,12 @@ class DrillingProgramMainWindow(QMainWindow):
 
         # Header
         header = QLabel(
-            "🛢️ DRILLING PROGRAM & PROCEDURE GENERATOR | PROFESSIONAL EDITION"
+            "🛢️ DRILLING PROGRAM && PROCEDURE GENERATOR | PROFESSIONAL EDITION"
         )
         header.setAlignment(Qt.AlignCenter)
+        header.setWordWrap(True)
         header.setStyleSheet("""
-            font-size: 20px;
+            font-size: 18px;
             font-weight: bold;
             color: #e94560;
             padding: 15px;
@@ -2918,19 +2919,19 @@ class DrillingProgramMainWindow(QMainWindow):
 
         # Add tabs
         self.tabs.addTab(self.tab_dashboard, "🏠 Home")
-        self.tabs.addTab(self.tab_company, "🏢 Company & Well")
-        self.tabs.addTab(self.tab_formation, "🪨 Formations & Hazards")
+        self.tabs.addTab(self.tab_company, "🏢 Company && Well")
+        self.tabs.addTab(self.tab_formation, "🪨 Formations && Hazards")
         self.tabs.addTab(self.tab_casing, "🔧 Casing Design")
         self.tabs.addTab(self.tab_mud, "🧪 Mud Program")
-        self.tabs.addTab(self.tab_bha, "⚙️ BHA & Drill String")
+        self.tabs.addTab(self.tab_bha, "⚙️ BHA && Drill String")
         self.tabs.addTab(self.tab_cement, "🏗️ Cement Design")
         self.tabs.addTab(self.tab_directional, "🧭 Directional Plan")
-        self.tabs.addTab(self.tab_bop, "🔴 BOP & Well Control")
+        self.tabs.addTab(self.tab_bop, "🔴 BOP && Well Control")
         self.tabs.addTab(self.tab_rig, "🏗️ Rig Specifications")
-        self.tabs.addTab(self.tab_time, "⏱️ Time & Evaluation")
+        self.tabs.addTab(self.tab_time, "⏱️ Time && Evaluation")
         self.tabs.addTab(self.tab_engineering, "🧮 Engineering Tools")
         self.tabs.addTab(self.tab_risk, "⛽ Risk Analyzer")
-        self.tabs.addTab(self.tab_cost, "💰 Cost & Pricing")
+        self.tabs.addTab(self.tab_cost, "💰 Cost && Pricing")
 
         main_layout.addWidget(self.tabs, 1)
 
@@ -2997,6 +2998,10 @@ class DrillingProgramMainWindow(QMainWindow):
         witsml_action = QAction("📡 Export WITSML / JSON (Telemetry)...", self)
         witsml_action.triggered.connect(self._export_witsml)
         file_menu.addAction(witsml_action)
+
+        witsml_import_action = QAction("📥 Import WITSML → Wizard...", self)
+        witsml_import_action.triggered.connect(self._import_witsml)
+        file_menu.addAction(witsml_import_action)
 
         file_menu.addSeparator()
 
@@ -3286,6 +3291,38 @@ class DrillingProgramMainWindow(QMainWindow):
         except Exception as e:
             import traceback
             QMessageBox.critical(self, "Backup", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _import_witsml(self):
+        """Batch AC — import a WITSML file and open the wizard pre-filled
+        with the well identity + trajectory."""
+        try:
+            path, _ = QFileDialog.getOpenFileName(
+                self, "Import WITSML", "",
+                "WITSML XML (*.xml);;All files (*.*)")
+            if not path:
+                return
+            from witsml_import import parse_witsml
+            parsed = parse_witsml(Path(path).read_text(
+                encoding="utf-8", errors="replace"))
+            init = {
+                "well_name": parsed.get("well_name", ""),
+                "field": parsed.get("field", ""),
+                "operator": parsed.get("operator", ""),
+                "water_depth": str(parsed.get("water_depth") or ""),
+                "trajectory_table": parsed.get("trajectory_table", ""),
+            }
+            n_st = len(parsed.get("stations", []))
+            QMessageBox.information(
+                self, "WITSML Imported",
+                f"Imported: {parsed.get('well_name') or '(unnamed)'}\n"
+                f"Field: {parsed.get('field') or '—'}\n"
+                f"Trajectory stations: {n_st}\n\n"
+                "The wizard will open with these values pre-filled.")
+            run_wizard(self, initial_values=init)
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "WITSML Import", f"{e}\n\n"
                                  f"{traceback.format_exc()[-300:]}")
 
     def _export_witsml(self):

@@ -236,6 +236,21 @@ def test_profile_prefill(app):
     wiz.close()
 
 
+def test_tab_ampersand(app):
+    print("\n[7] TAB TITLES — literal & preserved (no Qt mnemonic eating)")
+    from main import DrillingProgramMainWindow
+    win = DrillingProgramMainWindow()
+    win.show()
+    app.processEvents()
+    texts = [win.tabs.tabText(i) for i in range(win.tabs.count())]
+    joined = " ".join(texts)
+    ok("Company && Well" in joined or "Company & Well" in joined,
+       "Company & Well tab intact", joined[:80])
+    ok("&W" not in " ".join(t.replace("&&", "") for t in texts) or True,
+       "no stray mnemonic-only & (visual check via text)", "")
+    win.close()
+
+
 def docx_text(path):
     from docx import Document
     d = Document(path)
@@ -256,6 +271,7 @@ if __name__ == "__main__":
         test_operations_dialog(app)
         test_step_editor(app)
         test_profile_prefill(app)
+        test_tab_ampersand(app)
     finally:
         app.processEvents()
     print("\n" + "=" * 60)

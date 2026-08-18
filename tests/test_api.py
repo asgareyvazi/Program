@@ -233,6 +233,13 @@ def main():
                     headers=H)
     ok(r.status_code == 200 and r.json().get("status", "").startswith("OK"),
        "iadc dull endpoint")
+    r = client.post("/api/daily-report",
+                    json={"values": {"well_name": "API-DR",
+                                     "depth_m": "1000",
+                                     "plan_depth_m": "1100"}},
+                    headers=H)
+    ok(r.status_code == 200 and "DAILY DRILLING REPORT" in
+       r.json().get("markdown", ""), "daily report endpoint")
     r = client.post("/api/consistency",
                     json={"values": {"markdown": (
                         "| Total Depth | 10000 ft |\n"

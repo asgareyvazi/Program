@@ -435,6 +435,11 @@ def create_app(auth_enabled: bool = True) -> FastAPI:
         sims = sw(target_dict, top_n=5) if target_dict else []
         return {"similar": sims, "stored": len(all_well_profiles())}
 
+    @app.post("/api/daily-report", dependencies=AUTH_DEP)
+    def daily_report(req: RegisterRequest):
+        from daily_report import daily_report_markdown
+        return {"markdown": daily_report_markdown(req.values or {})}
+
     @app.get("/api/wells/report", dependencies=AUTH_DEP)
     def well_report():
         from well_intelligence import (well_database_report,

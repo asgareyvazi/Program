@@ -3053,6 +3053,9 @@ class DrillingProgramMainWindow(QMainWindow):
         wr_action = QAction("📘 Well Engineering Report (full)", self)
         wr_action.triggered.connect(self._show_well_report)
         tools_menu.addAction(wr_action)
+        dr_action = QAction("📅 Daily Drilling Report (Plan vs Actual)...", self)
+        dr_action.triggered.connect(self._show_daily_report)
+        tools_menu.addAction(dr_action)
         bk_action = QAction("💾 Backup / Restore", self)
         bk_action.triggered.connect(self._show_backup)
         tools_menu.addAction(bk_action)
@@ -3187,6 +3190,55 @@ class DrillingProgramMainWindow(QMainWindow):
         except Exception as e:
             import traceback
             QMessageBox.critical(self, "Operations", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
+
+    def _show_daily_report(self):
+        """Phase AG — first-class Daily Drilling Report workflow."""
+        try:
+            from PySide6.QtWidgets import QInputDialog as _QID
+            from operations_engine import LessonsDatabase
+            from daily_report import (plan_vs_actual_markdown,
+                                      generate_daily_report_docx)
+            db = LessonsDatabase()
+            wells = set()
+            try:
+                rows = db.conn.execute(
+                    "SELECT DISTINCT well_name FROM daily_reports "
+                    "WHERE well_name != ''").fetchall()
+                wells = {r[0] for r in rows}
+            except Exception:
+                pass
+            db.close()
+            well = ""
+            if wells:
+                item, ok = _QID.getItem(
+                    self, "Daily Report",
+                    "Select the well (recent daily reports):",
+                    sorted(wells), 0, False)
+                if not ok:
+                    return
+                well = item
+            else:
+                well, ok = _QID.getText(
+                    self, "Daily Report", "Well name:", text="Well A")
+                if not ok:
+                    return
+            path, _ = QFileDialog.getSaveFileName(
+                self, "Save Daily Report",
+                f"Daily_Report_{well.replace(' ', '_')}.docx",
+                "Word Documents (*.docx)")
+            if not path:
+                return
+            values = {"well_name": well, "well_id": well}
+            generate_daily_report_docx(values, path)
+            QMessageBox.information(
+                self, "Daily Report",
+                f"Daily drilling report generated:\n{path}\n\n"
+                f"(Plan vs Actual section is included when daily reports "
+                f"exist for this well in the operations register.)")
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Daily Report", f"{e}\n\n"
                                  f"{traceback.format_exc()[-300:]}")
 
     def _show_well_report(self):

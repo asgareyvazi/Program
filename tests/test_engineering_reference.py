@@ -956,6 +956,46 @@ def test_well_intelligence():
     db.close()
 
 
+def test_daily_report():
+    print("\n[33] DAILY DRILLING REPORT — plan vs actual workflow")
+    from daily_report import (plan_vs_actual_markdown,
+                              daily_report_markdown,
+                              generate_daily_report_docx)
+    from operations_engine import LessonsDatabase
+    import tempfile, os as _os
+    db = LessonsDatabase()
+    db.add_daily(well_name="DR-TEST", date="2026-08-18", depth_m=3050,
+                 rop_mhr=12, plan_depth_m=3100, plan_rop_mhr=15,
+                 npt_hr=2, remarks="Hard reaming")
+    db.add_daily(well_name="DR-TEST", date="2026-08-17", depth_m=2950,
+                 rop_mhr=14, plan_depth_m=3000, plan_rop_mhr=15)
+    db.close()
+    pv = plan_vs_actual_markdown(well_name="DR-TEST")
+    approx("PLAN vs ACTUAL" in pv, True, 0, "PvA heading")
+    approx("2026-08-18" in pv, True, 0, "date in table")
+    approx("NPT" in pv, True, 0, "NPT total shown")
+    full = daily_report_markdown({"well_name": "DR-TEST",
+                                  "date": "2026-08-18",
+                                  "depth_m": "3050", "plan_depth_m": "3100",
+                                  "rop_mhr": "12", "wob": "20",
+                                  "rpm": "100", "flow_gpm": "500",
+                                  "spp_psi": "2500", "ecd_ppg": "12.4",
+                                  "mud_weight_ppg": "12",
+                                  "npt_hr": "2",
+                                  "npt_cause": "Hard reaming"})
+    approx("DAILY DRILLING REPORT" in full, True, 0, "report heading")
+    approx("Variance (m)" in full, True, 0, "variance row")
+    approx("PLAN vs ACTUAL" in full, True, 0, "PvA embedded")
+    tmp = tempfile.mkdtemp(prefix="drl_dr_")
+    p = _os.path.join(tmp, "dr.docx")
+    generate_daily_report_docx({"well_name": "DR-TEST"}, p)
+    approx(_os.path.exists(p), True, 0, "docx written")
+    db = LessonsDatabase()
+    db.conn.execute("DELETE FROM daily_reports WHERE well_name='DR-TEST'")
+    db.conn.commit()
+    db.close()
+
+
 def test_well_report():
     print("\n[31] WELL REPORT GENERATOR")
     from well_report import build_well_report, _demo_values
@@ -981,7 +1021,8 @@ def main():
                test_special_wells, test_torque_drag, test_kick_fluid,
                test_witsml_import, test_iadc_dull,
                test_witsml, test_sensitivity, test_well_intelligence,
-               test_afe_materials, test_backup_secrets, test_well_report):
+               test_afe_materials, test_backup_secrets,
+               test_daily_report, test_well_report):
         try:
             fn()
         except Exception:

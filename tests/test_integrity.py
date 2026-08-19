@@ -411,6 +411,45 @@ def test_well_model_integration():
     db.close()
 
 
+def test_fine_grained_compose():
+    print("\n[16] FINE-GRAINED COMPOSITION (hole sections + procedures + completion)")
+    from wizard_compose import (Composition, HoleSectionComp, CompletionComp,
+                                compose_markdown, procedures_by_category,
+                                catalog_by_operation)
+    procs = procedures_by_category()
+    ok(len(procs) >= 150, f"all procedures reachable ({len(procs)})")
+    docs = catalog_by_operation()
+    ok(len(docs) >= 700, f"all docs reachable ({len(docs)})")
+    # pick two procedures from a category
+    from wizard_compose import procedure_ids_for_category
+    ids = procedure_ids_for_category("Well Control")
+    ok(len(ids) >= 3, f"well-control procedures available ({len(ids)})")
+    comp = Composition(
+        hole_sections=[
+            HoleSectionComp(size_in="17.5", depth_m="500",
+                            casing_in="13.375", include_cementing=False),
+            HoleSectionComp(size_in="12.25", depth_m="3000",
+                            casing_in="9.625"),
+        ],
+        procedure_ids=ids[:2],
+        completion=CompletionComp(completion_type="ESP",
+                                  tools=["Production packer",
+                                         "ESP assembly", "TRSV"]),
+        knowledge_ids=[d["id"] for d in docs[:3]],
+    )
+    md = compose_markdown(comp, {"well_name": "Well A"}, "the Operator")
+    ok("FINE-GRAINED HOLE SECTIONS" in md, "hole sections heading")
+    ok("Hole Section 1 — 17.5 in hole" in md, "section 1 rendered")
+    ok("Hole Section 2 — 12.25 in hole" in md, "section 2 rendered")
+    ok("SELECTED PROCEDURES" in md, "procedures heading")
+    ok("COMPLETION DESIGN" in md, "completion heading")
+    ok("ESP assembly" in md, "tools rendered")
+    ok("SELECTED KNOWLEDGE DOCUMENTS" in md, "knowledge heading")
+    ok("{{" not in md, "no unresolved placeholders")
+    # empty composition -> nothing
+    ok(compose_markdown(Composition(), {}, "") == "", "empty -> empty")
+
+
 def test_section_presence_heading():
     print("\n[13] SECTION PRESENCE — heading-based, not phrase-based")
     from document_compliance import compliance_check
@@ -445,6 +484,7 @@ if __name__ == "__main__":
     test_section_presence_heading()
     test_witsml_wizard_prefill()
     test_well_model_integration()
+    test_fine_grained_compose()
     print("\n" + "=" * 60)
     print(f"RESULT: {_PASS} passed, {_FAIL} failed")
     sys.exit(1 if _FAIL else 0)

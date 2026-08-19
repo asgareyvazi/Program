@@ -1176,6 +1176,11 @@ class _SectionsPage(QWizardPage):
         btn_none.setMaximumWidth(130)
         btnrow.addWidget(btn_all)
         btnrow.addWidget(btn_none)
+        # Phase AK — fine-grained composition launcher
+        self.btn_compose = QPushButton("⚙️ Fine-Grained Composition…")
+        self.btn_compose.setMaximumWidth(260)
+        self.btn_compose.clicked.connect(self._open_composition)
+        btnrow.addWidget(self.btn_compose)
         btnrow.addStretch(1)
         lay.addLayout(btnrow)
         self.listw = QListWidget()
@@ -1188,6 +1193,7 @@ class _SectionsPage(QWizardPage):
 
         self._sections: List[str] = []
         self._saved: Dict[str, List[str]] = {}
+        self._composition = None
 
         # wire the select all / none buttons
         btn_all = self.findChildren(QPushButton)
@@ -1202,6 +1208,28 @@ class _SectionsPage(QWizardPage):
             item = self.listw.item(i)
             if item.flags() & Qt.ItemIsEnabled:
                 item.setCheckState(Qt.Checked if on else Qt.Unchecked)
+
+    def _open_composition(self):
+        """Phase AK — fine-grained document composition dialog."""
+        try:
+            from wizard_compose import CompositionDialog
+            comp = CompositionDialog.get_composition(self)
+            if comp is not None:
+                self._composition = comp
+                n_h = len(comp.hole_sections)
+                n_p = len(comp.procedure_ids)
+                n_k = len(comp.knowledge_ids)
+                self.lbl.setText(
+                    f"⚙️ Composition: {n_h} hole section(s), "
+                    f"{n_p} procedure(s), "
+                    f"{n_k} knowledge doc(s)"
+                    + (f", completion: {comp.completion.completion_type}"
+                       if comp.completion else "")
+                    + " — will be added to the document.")
+        except Exception as e:
+            import traceback
+            QMessageBox.critical(self, "Composition", f"{e}\n\n"
+                                 f"{traceback.format_exc()[-300:]}")
 
     def initializePage(self):
         self.listw.clear()
@@ -2091,6 +2119,20 @@ class _RiskReviewPage(QWizardPage):
         from wizard_engine import fill_template, render_selected
         md = fill_template(tdef, values)
         md = render_selected(md, selected)
+
+        # Phase AK — fine-grained composition (hole sections, selected
+        # procedures, completion tools, knowledge documents)
+        try:
+            comp = getattr(sec_page, "_composition", None)
+            if comp:
+                from wizard_compose import compose_markdown
+                cmd = compose_markdown(comp, values,
+                                       meta.get("operator", ""))
+                if cmd:
+                    md = md.rstrip() + "\n\n---\n\n" + cmd
+        except Exception:
+            import traceback
+            traceback.print_exc()
 
         sequence = build_sequence_from_document(md, values)
         results = run_risk_analysis(sequence)

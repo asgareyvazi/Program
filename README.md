@@ -58,6 +58,8 @@
 - **🛡️ کیفیت محتوا و نشت صفر** — فیلتر sanitizer (حذف TOC/کدهای حاشیهنویسی/تکهها/ایمیل/تلفن)، لیست سیاه کامل کدهای چاه/میدان/مخزن (MB-013، GS 4-2، Asmari، Pabdeh…) با حفظ درجههای فولاد (S135)، scrub دیتابیس پروسیجرها، برچسب صادقانهٔ verbatim بدون LLM — سویت `tests/test_content_quality.py` (۷۲ تست)
 - - **🪝 Torque & Drag (soft-string + کالیبراسیون)** — بار قلاب، تورک سطحی، کمانش Dawson-Paslay + **کالیبراسیون friction factor از دادهٔ چاههای مجاور** (`engineering_td.py`)
 - **🛢️ Kick Fluid Classification** — تشخیص گاز/آب/روغن از اختلاف SICP−SIDPP + friction خط چوک دیپواتر (`engineering_wellcontrol.py`)
+- **⚙️ Fine-Grained Document Composition** — کاربر در هر مرحله جزئی انتخاب میکند: حفرهها (با پروسیجر/چکلیست هر حفره)، پروسیجرهای خاص از ۱۶ دسته، نوع/تولزهای تکمیل، و اسناد دانش انتخابی از کاتالوگ — دکمهٔ «⚙️ Fine-Grained Composition» در ویزارد (`wizard_compose.py`)
+- **📊 Data Usage Audit** — ممیزی کامل بودن دستهبندی دیتابیس و قابلدسترسبودن همهٔ دادهها از UI (`tests/data_usage_audit.py`)
 - **🗃️ Unified Database** — ادغام همهٔ دیتابیسها در `unified.db` با entity-links و FK واقعی + گزارش یکپارچگی بینپایگاهی (`unified_db.py`، `/api/unified`)
 - **🖥️ Native Installer** — `python installer.py` (نصب/چک/تعمیر: وابستگیها + دیتابیسها + لانچر) و `python installer.py --check`
 - **🪝 T&D Stiff-String 3D** — مدل خمشی با سهنقطهتماس + DLS (همیشه ≥ soft-string؛ در قائم صفر) (`engineering_td.py`)

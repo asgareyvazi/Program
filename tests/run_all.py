@@ -42,6 +42,7 @@ SUITES = [
     ("Document integrity (Batch X)", "test_integrity.py"),
     ("Template audit (all templates+procs)", "template_audit.py"),
     ("Input registry audit", "registry_audit.py"),
+    ("Data classification & usage audit", "data_usage_audit.py"),
 ]
 
 

@@ -290,6 +290,18 @@ def test_offset_intelligence_ui(app):
     db.close()
 
 
+def test_compose_button(app):
+    print("\n[9] FINE-GRAINED COMPOSITION — button present")
+    from wizard_engine import GeneratorWizard
+    wiz = GeneratorWizard()
+    wiz.show()
+    app.processEvents()
+    p2 = wiz.page(2)
+    ok(hasattr(p2, "btn_compose"), "compose button on sections page")
+    ok(hasattr(p2, "_composition"), "composition slot exists")
+    wiz.close()
+
+
 def docx_text(path):
     from docx import Document
     d = Document(path)
@@ -312,6 +324,7 @@ if __name__ == "__main__":
         test_profile_prefill(app)
         test_tab_ampersand(app)
         test_offset_intelligence_ui(app)
+        test_compose_button(app)
     finally:
         app.processEvents()
     print("\n" + "=" * 60)
